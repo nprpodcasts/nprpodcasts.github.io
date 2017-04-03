@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 22:15:03 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Apr 2017 22:00:07 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 22:15:03 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -41,11 +41,12 @@ April 3, 2017 - Clint Watts, a former FBI agent, describes a diffuse network of 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_pittsburgh_offers_driving_lessons_for_ubers_autonomous_cars_.mp3?orgId=1&amp;topicId=1019&amp;d=460&amp;p=2&amp;story=522099560&amp;t=progseg&amp;e=522501413&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Pittsburgh Offers Driving Lessons For Uber&#39;s Autonomous Cars </title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</link>
       <description>April 3, 2017 - Uber has been testing driverless cars in the city for the past six months. Local officials are happy for the investment the experiment brings and for the boost to the city&#39;s reputation as a tech hub.</description>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_pittsburgh_offers_driving_lessons_for_ubers_autonomous_cars_.mp3?orgId=1&amp;topicId=1019&amp;d=460&amp;p=2&amp;story=522099560&amp;t=progseg&amp;e=522501413&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s800-c15.jpg"></a>
 
@@ -53,6 +54,7 @@ April 3, 2017 - Uber has been testing driverless cars in the city for the past s
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars">http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>460</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

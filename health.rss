@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2017 22:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 22:15:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Apr 2017 22:00:06 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 22:15:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_overweight_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=522475728&amp;t=progseg&amp;e=522501413&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Carrying Some Extra Pounds May Not Be Good After All</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all</link>
+      <description>April 3, 2017 - A new study finds that people who are overweight, but not obese, have shorter life spans. It&#39;s the opposite of a 2013 study that got a lot of attention by finding a few pounds might be good for you.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_overweight_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=522475728&amp;t=progseg&amp;e=522501413&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/03/gettyimages-170123579_wide-fdcd2c441343a4134709b282026810bac24edfb5-s800-c15.jpg"></a>
+
+April 3, 2017 - A new study finds that people who are overweight, but not obese, have shorter life spans. It's the opposite of a 2013 study that got a lot of attention by finding a few pounds might be good for you.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all">http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/gettyimages-170123579_wide-fdcd2c441343a4134709b282026810bac24edfb5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/03/522450779/recall-of-some-epipens-extends-to-u-s</guid>
       <title>Recall Of Some EpiPens Extends To U.S.</title>
@@ -239,21 +256,6 @@ March 30, 2017 - Scientists predicted that more than 1,000 babies would be born 
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/03/30/521925733/why-didnt-zika-cause-a-surge-in-microcephaly-in-2016">http://www.npr.org/sections/goatsandsoda/2017/03/30/521925733/why-didnt-zika-cause-a-surge-in-microcephaly-in-2016</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/29/gettyimages-630543188_wide-93a64df8d4dec5e3e8bb424b634c4e3afaa73c15-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</guid>
-      <title>A Tiny Spot In Mouse Brains May Explain How Breathing Calms The Mind</title>
-      <link>http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</link>
-      <description>March 30, 2017 - A cluster of neurons connects breathing and emotion centers in mouse brains, researchers say. If this turns out to be true in humans, it could explain how controlled breathing calms the mind.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/30/breathing-1_wide-79f01804bd32843176eafdf321f20b4d52e56993-s800-c15.jpg"></a>
-
-March 30, 2017 - A cluster of neurons connects breathing and emotion centers in mouse brains, researchers say. If this turns out to be true in humans, it could explain how controlled breathing calms the mind.
-
-<a href="http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind">http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/30/breathing-1_wide-79f01804bd32843176eafdf321f20b4d52e56993-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
