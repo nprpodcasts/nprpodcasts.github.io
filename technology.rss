@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2017 20:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 20:15:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Apr 2017 20:00:05 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 20:15:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</guid>
+      <title>Pittsburgh Offers Driving Lessons For Uber&#39;s Autonomous Cars </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</link>
+      <description>April 3, 2017 - Uber has been testing driverless cars in the city for the past six months. Local officials are happy for the investment the experiment brings and for the boost to the city&#39;s reputation as a tech hub.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s800-c15.jpg"></a>
+
+April 3, 2017 - Uber has been testing driverless cars in the city for the past six months. Local officials are happy for the investment the experiment brings and for the boost to the city's reputation as a tech hub.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars">http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170403_me_self-driving_cars_raise_questions_about_who_carries_insurance.mp3?orgId=1&amp;topicId=1006&amp;d=240&amp;p=3&amp;story=522222975&amp;t=progseg&amp;e=522418464&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Self-Driving Cars Raise Questions About Who Carries Insurance</title>
@@ -241,23 +256,6 @@ March 28, 2017 - The rule, which had not yet taken effect, would have required I
 
 <a href="http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation">http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/28/istock-134247676-01_wide-50991372e6f258af404f39bea3bdd6ba4c6450cf-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170328_atc_the_tinder_opera_creators_hope_you_swipe_right_on_online_opera.mp3?orgId=1&amp;topicId=1039&amp;d=338&amp;p=2&amp;story=521394763&amp;t=progseg&amp;e=521761226&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;The Tinder Opera&#39; Creators Hope You Swipe Right On Online Opera</title>
-      <link>http://www.npr.org/sections/deceptivecadence/2017/03/28/521394763/the-tinder-opera-creators-hope-you-swipe-right-on-online-opera</link>
-      <description>March 28, 2017 - &#34;Connection Lost: The Tinder Opera&#34; is an 11-minute video dramatizing a young man&#39;s quest for love via the popular dating app. It marks an effort to adapt a 400-year-old art form to modern media.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170328_atc_the_tinder_opera_creators_hope_you_swipe_right_on_online_opera.mp3?orgId=1&amp;topicId=1039&amp;d=338&amp;p=2&amp;story=521394763&amp;t=progseg&amp;e=521761226&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/24/tinder_wide-794d7d05943d4efafe59d13f3e6a55a0968dbe24-s800-c15.png"></a>
-
-March 28, 2017 - "Connection Lost: The Tinder Opera" is an 11-minute video dramatizing a young man's quest for love via the popular dating app. It marks an effort to adapt a 400-year-old art form to modern media.
-
-<a href="http://www.npr.org/sections/deceptivecadence/2017/03/28/521394763/the-tinder-opera-creators-hope-you-swipe-right-on-online-opera">http://www.npr.org/sections/deceptivecadence/2017/03/28/521394763/the-tinder-opera-creators-hope-you-swipe-right-on-online-opera</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/24/tinder_wide-794d7d05943d4efafe59d13f3e6a55a0968dbe24-s3000-c15.png"></itunes:image>
-      <itunes:duration>338</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
