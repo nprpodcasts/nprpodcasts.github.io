@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2017 20:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 21:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Apr 2017 20:45:09 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 21:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election</guid>
+      <title>How Russian Twitter Bots Pumped Out Fake News During The 2016 Election</title>
+      <link>http://www.npr.org/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election</link>
+      <description>April 3, 2017 - NPR&#39;s Kelly McEvers speaks with cybersecurity expert Clinton Watts about how a Russian misinformation campaign influenced the 2016 presidential campaign and beyond.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 3, 2017 - NPR's Kelly McEvers speaks with cybersecurity expert Clinton Watts about how a Russian misinformation campaign influenced the 2016 presidential campaign and beyond.
+
+<a href="http://www.npr.org/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election">http://www.npr.org/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</guid>
       <title>Pittsburgh Offers Driving Lessons For Uber&#39;s Autonomous Cars </title>
@@ -241,21 +254,6 @@ March 28, 2017 - President Trump is expected to sign a bill to overturn new priv
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective">http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/28/gettyimages-2062515_wide-c365124a7e532d998c6729a182cfc735c0d13a08-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation</guid>
-      <title>Congress Overturns Internet Privacy Regulation</title>
-      <link>http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation</link>
-      <description>March 28, 2017 - The rule, which had not yet taken effect, would have required Internet providers to ask permission before selling consumers&#39; personal data. President Trump is expected to sign the rollback.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/istock-134247676-01_wide-50991372e6f258af404f39bea3bdd6ba4c6450cf-s800-c15.png"></a>
-
-March 28, 2017 - The rule, which had not yet taken effect, would have required Internet providers to ask permission before selling consumers' personal data. President Trump is expected to sign the rollback.
-
-<a href="http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation">http://www.npr.org/2017/03/28/521831393/congress-overturns-internet-privacy-regulation</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/istock-134247676-01_wide-50991372e6f258af404f39bea3bdd6ba4c6450cf-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
