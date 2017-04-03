@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2017 01:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 19:45:40 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 02 Apr 2017 01:18:05 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 19:45:40 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,6 +24,36 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/03/521415892/the-taste-of-wine-isnt-all-in-your-head-but-your-brain-sure-helps</guid>
+      <title>The Taste Of Wine Isn&#39;t All In Your Head, But Your Brain Sure Helps</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/03/521415892/the-taste-of-wine-isnt-all-in-your-head-but-your-brain-sure-helps</link>
+      <description>April 3, 2017 - Savoring the flavor of wine activates more gray matter than solving a complex math problem, according to neuroscientist Gordon Shepherd. His new book, Neurenology, explores your brain on wine.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/29/winebrain_final_wide-d1f7a954e2e6c125980644d4718dac924de88f86-s800-c15.jpeg"></a>
+
+April 3, 2017 - Savoring the flavor of wine activates more gray matter than solving a complex math problem, according to neuroscientist Gordon Shepherd. His new book, Neurenology, explores your brain on wine.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/03/521415892/the-taste-of-wine-isnt-all-in-your-head-but-your-brain-sure-helps">http://www.npr.org/sections/thesalt/2017/04/03/521415892/the-taste-of-wine-isnt-all-in-your-head-but-your-brain-sure-helps</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/winebrain_final_wide-d1f7a954e2e6c125980644d4718dac924de88f86-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_china_poised_to_fill_leadership_void_on_climate_policy_with_economic_incentives.mp3?orgId=1&amp;topicId=1125&amp;d=341&amp;p=2&amp;story=522394985&amp;t=progseg&amp;e=522389021&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>China Poised To Fill Leadership Void On Climate Policy – With Economic Incentives</title>
+      <link>http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives</link>
+      <description>April 2, 2017 - Trump signed an executive order this week that will begin to roll back some of Obama&#39;s signature climate change policies. Georgetown University&#39;s Varum Sivaram explains what that could mean for China.</description>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_china_poised_to_fill_leadership_void_on_climate_policy_with_economic_incentives.mp3?orgId=1&amp;topicId=1125&amp;d=341&amp;p=2&amp;story=522394985&amp;t=progseg&amp;e=522389021&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 2, 2017 - Trump signed an executive order this week that will begin to roll back some of Obama's signature climate change policies. Georgetown University's Varum Sivaram explains what that could mean for China.
+
+<a href="http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives">http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>341</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/han/2017/03/20170331_han_biomimicry.mp3?orgId=1&amp;topicId=1007&amp;d=643&amp;story=522226096&amp;siteplayer=true&amp;dl=1</guid>
       <title>Artist&#39;s Exhibit Borrows Human Tech To Solve Nature&#39;s Manmade Problems</title>
       <link>http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems</link>
@@ -31,12 +61,12 @@
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/han/2017/03/20170331_han_biomimicry.mp3?orgId=1&amp;topicId=1007&amp;d=643&amp;story=522226096&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/flower.vibrator.dismantled.biomimic_wide-d81b22f60bb4c03e193beaf68b35a231009426d0-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/turtle.camo.street.biomimic_wide-70084c5755d8122322757d04c43e944ecd6ac742-s800-c15.jpg"></a>
 
 March 31, 2017 - Artist and philosopher Jonathon Keats didn't need to create anything new to show the absurdity of human problem-solving. All he had to do was give human technology to animals.
 
 <a href="http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems">http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/flower.vibrator.dismantled.biomimic_wide-d81b22f60bb4c03e193beaf68b35a231009426d0-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/turtle.camo.street.biomimic_wide-70084c5755d8122322757d04c43e944ecd6ac742-s3000-c15.jpg"></itunes:image>
       <itunes:duration>643</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -228,38 +258,6 @@ March 29, 2017 - MacArthur Park in Los Angeles is not the most picturesque locat
 <a href="http://www.npr.org/2017/03/29/521954082/fishermen-catch-50-pound-carp-in-the-middle-of-los-angeles">http://www.npr.org/2017/03/29/521954082/fishermen-catch-50-pound-carp-in-the-middle-of-los-angeles</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/29/fish-_wide-68d764f78acfbdebb1ec22c76a3c4c025066a6f8-s3000-c15.jpg"></itunes:image>
       <itunes:duration>167</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_will_the_epa_reject_a_pesticide_or_its_own_scientific_evidence.mp3?orgId=1&amp;topicId=1025&amp;d=224&amp;p=2&amp;story=521898976&amp;t=progseg&amp;e=521885502&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>EPA Decides Not To Ban A Pesticide, Despite Its Own Evidence Of Risk</title>
-      <link>http://www.npr.org/sections/thesalt/2017/03/29/521898976/will-the-epa-reject-a-pesticide-or-its-own-scientific-evidence</link>
-      <description>March 29, 2017 - New EPA administrator Scott Pruitt has decided not to ban chlorpyrifos, a pesticide widely used on produce. That&#39;s despite evidence previously compiled by EPA showing it could pose risks to consumers.</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_will_the_epa_reject_a_pesticide_or_its_own_scientific_evidence.mp3?orgId=1&amp;topicId=1025&amp;d=224&amp;p=2&amp;story=521898976&amp;t=progseg&amp;e=521885502&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/29/scisource_sv7581_wide-abf051165682ba5457c1f4512a4c2acbd3fb261b-s800-c15.jpg"></a>
-
-March 29, 2017 - New EPA administrator Scott Pruitt has decided not to ban chlorpyrifos, a pesticide widely used on produce. That's despite evidence previously compiled by EPA showing it could pose risks to consumers.
-
-<a href="http://www.npr.org/sections/thesalt/2017/03/29/521898976/will-the-epa-reject-a-pesticide-or-its-own-scientific-evidence">http://www.npr.org/sections/thesalt/2017/03/29/521898976/will-the-epa-reject-a-pesticide-or-its-own-scientific-evidence</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/scisource_sv7581_wide-abf051165682ba5457c1f4512a4c2acbd3fb261b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/03/29/521711879/hpv-vaccine-could-protect-more-people-with-fewer-doses-doctors-insist</guid>
-      <title>HPV Vaccine Could Protect More People With Fewer Doses, Doctors Insist</title>
-      <link>http://www.npr.org/sections/health-shots/2017/03/29/521711879/hpv-vaccine-could-protect-more-people-with-fewer-doses-doctors-insist</link>
-      <description>March 29, 2017 - In the U.S., there are about 39,000 cancers associated with the human papillomavirus each year. Doctors say the new HPV vaccine may help reduce the number of cases.</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/28/hpv-vaccine-vials_wide-dadc1fe9e8bf04ae774232d38c2c42f4404a8957-s800-c15.jpg"></a>
-
-March 29, 2017 - In the U.S., there are about 39,000 cancers associated with the human papillomavirus each year. Doctors say the new HPV vaccine may help reduce the number of cases.
-
-<a href="http://www.npr.org/sections/health-shots/2017/03/29/521711879/hpv-vaccine-could-protect-more-people-with-fewer-doses-doctors-insist">http://www.npr.org/sections/health-shots/2017/03/29/521711879/hpv-vaccine-could-protect-more-people-with-fewer-doses-doctors-insist</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/hpv-vaccine-vials_wide-dadc1fe9e8bf04ae774232d38c2c42f4404a8957-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

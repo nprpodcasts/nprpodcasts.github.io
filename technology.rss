@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2017 01:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 19:45:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 02 Apr 2017 01:18:03 +0000</pubDate>
+    <pubDate>Mon, 03 Apr 2017 19:45:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,85 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170403_me_self-driving_cars_raise_questions_about_who_carries_insurance.mp3?orgId=1&amp;topicId=1006&amp;d=240&amp;p=3&amp;story=522222975&amp;t=progseg&amp;e=522418464&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Self-Driving Cars Raise Questions About Who Carries Insurance</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance</link>
+      <description>April 3, 2017 - Currently, insurance rates are calculated based on drivers&#39; claims histories and driving records. Driverless cars are expected to shift the liability toward carmakers. But it won&#39;t happen all at once.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170403_me_self-driving_cars_raise_questions_about_who_carries_insurance.mp3?orgId=1&amp;topicId=1006&amp;d=240&amp;p=3&amp;story=522222975&amp;t=progseg&amp;e=522418464&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/31/ap_957431211041_wide-e84d934556b3dfdfe342cb39cb4dfc44107b2819-s800-c15.jpg"></a>
+
+April 3, 2017 - Currently, insurance rates are calculated based on drivers' claims histories and driving records. Driverless cars are expected to shift the liability toward carmakers. But it won't happen all at once.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance">http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/ap_957431211041_wide-e84d934556b3dfdfe342cb39cb4dfc44107b2819-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>240</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_arizona_solar.mp3?orgId=95&amp;topicId=1006&amp;d=232&amp;p=10&amp;story=522357476&amp;t=progseg&amp;e=522357112&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Solar Power Advocates Undeterred By Trump&#39;s Climate Policies</title>
+      <link>http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies</link>
+      <description>April 2, 2017 - Some worry that President Trump&#39;s rollback in climate policy will hurt renewable energy. But in Arizona, a state that has embraced solar energy, those in the industry say the outlook is still bright.</description>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_arizona_solar.mp3?orgId=95&amp;topicId=1006&amp;d=232&amp;p=10&amp;story=522357476&amp;t=progseg&amp;e=522357112&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 2, 2017 - Some worry that President Trump's rollback in climate policy will hurt renewable energy. But in Arizona, a state that has embraced solar energy, those in the industry say the outlook is still bright.
+
+<a href="http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies">http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_trump_twitter_parody.mp3?orgId=1&amp;topicId=1048&amp;d=214&amp;p=10&amp;story=522357462&amp;t=progseg&amp;e=522357112&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Actors Give Voice To Trump&#39;s Tweets</title>
+      <link>http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets</link>
+      <description>April 2, 2017 - As long as there have been national leaders, there have been court jesters. Whether skewering the boss on stage, on TV or now, on Twitter, it&#39;s a tradition satirists take seriously.</description>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_trump_twitter_parody.mp3?orgId=1&amp;topicId=1048&amp;d=214&amp;p=10&amp;story=522357462&amp;t=progseg&amp;e=522357112&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 2, 2017 - As long as there have been national leaders, there have been court jesters. Whether skewering the boss on stage, on TV or now, on Twitter, it's a tradition satirists take seriously.
+
+<a href="http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets">http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</guid>
+      <title>Meet 2 Race Sleuths Trying to Keep Marathoners Honest</title>
+      <link>http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</link>
+      <description>April 2, 2017 - Spring is a busy season for runners — and for the sleuths sniffing out race cheats. With an eye on the Boston Marathon, amateur investigators use math and methodology to protect the sport&#39;s integrity.</description>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/07/istock-506979575_wide-49d3d315685c159ea885d7bb9bfd98c2b4ad2018-s800-c15.jpg"></a>
+
+April 2, 2017 - Spring is a busy season for runners — and for the sleuths sniffing out race cheats. With an eye on the Boston Marathon, amateur investigators use math and methodology to protect the sport's integrity.
+
+<a href="http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest">http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/07/istock-506979575_wide-49d3d315685c159ea885d7bb9bfd98c2b4ad2018-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_from_wristwatches_to_radio_how_world_war_i_ushered_in_the_modern_world.mp3?orgId=1&amp;topicId=1136&amp;d=225&amp;p=10&amp;story=521792062&amp;t=progseg&amp;e=522357112&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>From Wristwatches To Radio, How World War I Ushered In The Modern World</title>
+      <link>http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world</link>
+      <description>April 2, 2017 - The war is remembered for trench warfare, millions of deaths and the failure to bring lasting peace. But it also brought together emerging technologies, remaking life on and off the battlefield.</description>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_from_wristwatches_to_radio_how_world_war_i_ushered_in_the_modern_world.mp3?orgId=1&amp;topicId=1136&amp;d=225&amp;p=10&amp;story=521792062&amp;t=progseg&amp;e=522357112&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/ap_903037768936_wide-d3c48c6e2d0dec0a7175c65a8c6702b7dad02637-s800-c15.jpg"></a>
+
+April 2, 2017 - The war is remembered for trench warfare, millions of deaths and the failure to bring lasting peace. But it also brought together emerging technologies, remaking life on and off the battlefield.
+
+<a href="http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world">http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/ap_903037768936_wide-d3c48c6e2d0dec0a7175c65a8c6702b7dad02637-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/03/31/522229420/twitter-drops-its-egg-the-unintended-avatar-of-harassment</guid>
       <title>Twitter Drops Its Egg, The Unintended Avatar Of Harassment</title>
@@ -179,87 +258,6 @@ March 28, 2017 - "Connection Lost: The Tinder Opera" is an 11-minute video drama
 <a href="http://www.npr.org/sections/deceptivecadence/2017/03/28/521394763/the-tinder-opera-creators-hope-you-swipe-right-on-online-opera">http://www.npr.org/sections/deceptivecadence/2017/03/28/521394763/the-tinder-opera-creators-hope-you-swipe-right-on-online-opera</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/24/tinder_wide-794d7d05943d4efafe59d13f3e6a55a0968dbe24-s3000-c15.png"></itunes:image>
       <itunes:duration>338</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/03/20170328_fa_01.mp3?orgId=427869011&amp;topicId=1019&amp;d=2590&amp;p=13&amp;story=521779864&amp;t=progseg&amp;e=521787765&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Inside DARPA, The Pentagon Agency Whose Technology Has &#39;Changed the World&#39;</title>
-      <link>http://www.npr.org/2017/03/28/521779864/inside-darpa-the-pentagon-agency-whose-technology-has-changed-the-world</link>
-      <description>March 28, 2017 - Journalist Sharon Weinberger discusses the Defense Advance Research Projects Agency, which develops innovative scientific technologies for the military. Her new book is The Imagineers of War.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/03/20170328_fa_01.mp3?orgId=427869011&amp;topicId=1019&amp;d=2590&amp;p=13&amp;story=521779864&amp;t=progseg&amp;e=521787765&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[March 28, 2017 - Journalist Sharon Weinberger discusses the Defense Advance Research Projects Agency, which develops innovative scientific technologies for the military. Her new book is The Imagineers of War.
-
-<a href="http://www.npr.org/2017/03/28/521779864/inside-darpa-the-pentagon-agency-whose-technology-has-changed-the-world">http://www.npr.org/2017/03/28/521779864/inside-darpa-the-pentagon-agency-whose-technology-has-changed-the-world</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2590</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170328_atc_online_job_sites_age_discrimination.mp3?orgId=1&amp;topicId=1006&amp;d=138&amp;p=2&amp;story=521771515&amp;t=progseg&amp;e=521761226&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Older Workers Find Age Discrimination Built Right Into Some Job Websites</title>
-      <link>http://www.npr.org/2017/03/28/521771515/older-workers-find-age-discrimination-built-right-into-some-job-sites</link>
-      <description>March 28, 2017 - The sites screen out older job seekers by limiting the dates you can fill in forms, an investigation by the Illinois attorney general found. But other sites say they make a point of fairness.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170328_atc_online_job_sites_age_discrimination.mp3?orgId=1&amp;topicId=1006&amp;d=138&amp;p=2&amp;story=521771515&amp;t=progseg&amp;e=521761226&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/gettyimages-112239743_wide-d5eed992844a8e40e0098307b444de35ee508b5e-s800-c15.jpg"></a>
-
-March 28, 2017 - The sites screen out older job seekers by limiting the dates you can fill in forms, an investigation by the Illinois attorney general found. But other sites say they make a point of fairness.
-
-<a href="http://www.npr.org/2017/03/28/521771515/older-workers-find-age-discrimination-built-right-into-some-job-sites">http://www.npr.org/2017/03/28/521771515/older-workers-find-age-discrimination-built-right-into-some-job-sites</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/gettyimages-112239743_wide-d5eed992844a8e40e0098307b444de35ee508b5e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>138</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/03/28/521763351/elon-musk-seen-targeting-human-computer-link-in-new-venture</guid>
-      <title>Elon Musk Seen Targeting Human-Computer Link In New Venture</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/03/28/521763351/elon-musk-seen-targeting-human-computer-link-in-new-venture</link>
-      <description>March 28, 2017 - Speculation about Musk&#39;s new company, Neuralink, centers on the name and how it might correspond to his previous statements about incorporating artificial intelligence into human brains.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/gettyimages-610721260_wide-ffd734abfed7f77a51ee4f0aea4bbe0bfbf972af-s800-c15.jpg"></a>
-
-March 28, 2017 - Speculation about Musk's new company, Neuralink, centers on the name and how it might correspond to his previous statements about incorporating artificial intelligence into human brains.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/03/28/521763351/elon-musk-seen-targeting-human-computer-link-in-new-venture">http://www.npr.org/sections/thetwo-way/2017/03/28/521763351/elon-musk-seen-targeting-human-computer-link-in-new-venture</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/gettyimages-610721260_wide-ffd734abfed7f77a51ee4f0aea4bbe0bfbf972af-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170325_atc_howard_university_launches_effort_to_build_pipline_of_black_software_engineers_in_silicon_valley.mp3?orgId=150&amp;topicId=1013&amp;d=215&amp;story=521737097&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Google Hopes To Hire More Black Engineers By Bringing Students To Silicon Valley</title>
-      <link>http://www.npr.org/sections/ed/2017/03/28/521737097/google-hopes-to-hire-more-black-engineers-by-bringing-students-to-silicon-valley</link>
-      <description>March 28, 2017 - Howard, the historically black university in Washington, D.C., is sending computer science students to study at Google&#39;s headquarters in California, as part of an effort called Howard West.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170325_atc_howard_university_launches_effort_to_build_pipline_of_black_software_engineers_in_silicon_valley.mp3?orgId=150&amp;topicId=1013&amp;d=215&amp;story=521737097&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/27/howard-pic-e1490303843681_wide-1f9e742d3297137013e51a785b60dd164ca4e562-s800-c15.jpg"></a>
-
-March 28, 2017 - Howard, the historically black university in Washington, D.C., is sending computer science students to study at Google's headquarters in California, as part of an effort called Howard West.
-
-<a href="http://www.npr.org/sections/ed/2017/03/28/521737097/google-hopes-to-hire-more-black-engineers-by-bringing-students-to-silicon-valley">http://www.npr.org/sections/ed/2017/03/28/521737097/google-hopes-to-hire-more-black-engineers-by-bringing-students-to-silicon-valley</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/27/howard-pic-e1490303843681_wide-1f9e742d3297137013e51a785b60dd164ca4e562-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>215</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170327_atc_in_china_like_in_the_us_the_fight_over_ride_hailing_is_local.mp3?orgId=1&amp;topicId=1006&amp;d=450&amp;p=2&amp;story=521650068&amp;t=progseg&amp;e=521638081&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In China, As In The U.S., The Fight Over Ride Hailing Is Local</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/03/27/521650068/in-china-like-in-the-u-s-the-fight-over-ride-hailing-is-local</link>
-      <description>March 27, 2017 - Until recently, migrant workers lured by bonuses drove for China&#39;s largest Uber-like service. But some local governments banned out-of-town drivers, apparently to protect local jobs and curb growth.</description>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170327_atc_in_china_like_in_the_us_the_fight_over_ride_hailing_is_local.mp3?orgId=1&amp;topicId=1006&amp;d=450&amp;p=2&amp;story=521650068&amp;t=progseg&amp;e=521638081&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/27/2017-03-27-china-didi-ride-hailing-mkelly-0011_wide-e5a60c73591f20570960858e99a6ef481de2f7cc-s800-c15.jpg"></a>
-
-March 27, 2017 - Until recently, migrant workers lured by bonuses drove for China's largest Uber-like service. But some local governments banned out-of-town drivers, apparently to protect local jobs and curb growth.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/03/27/521650068/in-china-like-in-the-u-s-the-fight-over-ride-hailing-is-local">http://www.npr.org/sections/alltechconsidered/2017/03/27/521650068/in-china-like-in-the-u-s-the-fight-over-ride-hailing-is-local</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/27/2017-03-27-china-didi-ride-hailing-mkelly-0011_wide-e5a60c73591f20570960858e99a6ef481de2f7cc-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>450</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
