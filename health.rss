@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 18:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 18:30:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 18:15:08 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 18:30:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</guid>
+      <title>51 Babies Born With Zika-Related Birth Defects In The U.S. Last Year</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</link>
+      <description>April 4, 2017 - The Zika virus continues to impact a small number of pregnant women and their babies in the U.S., and there is no sign of it slowing down. &#34;Zika is here to stay,&#34; the CDC&#39;s acting director says.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/zika-us-1_wide-fdd2bb5d8d5b10c6bbeb8474fa5fbd851f67adbc-s800-c15.jpg"></a>
+
+April 4, 2017 - The Zika virus continues to impact a small number of pregnant women and their babies in the U.S., and there is no sign of it slowing down. "Zika is here to stay," the CDC's acting director says.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year">http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/zika-us-1_wide-fdd2bb5d8d5b10c6bbeb8474fa5fbd851f67adbc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</guid>
       <title>Taking Shortcuts In Drug Testing Can Put Patients At Risk</title>
@@ -241,21 +256,6 @@ March 30, 2017 - The bodywide inflammation known as sepsis kills about 300,000 p
 <a href="http://www.npr.org/sections/health-shots/2017/03/30/521918863/why-the-newly-proposed-sepsis-treatment-needs-more-study">http://www.npr.org/sections/health-shots/2017/03/30/521918863/why-the-newly-proposed-sepsis-treatment-needs-more-study</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/29/istock-501818326_wide-8a216df556bf9e0848d880d3ddcbec2990adeb5a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>255</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170330_atc_in_california_health_care_marketplace_appears_to_be_thriving.mp3?orgId=1&amp;topicId=1128&amp;d=236&amp;p=2&amp;story=522091627&amp;t=progseg&amp;e=522020571&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In California, Health Care Marketplace Appears To Be Thriving</title>
-      <link>http://www.npr.org/2017/03/30/522091627/in-california-health-care-marketplace-appears-to-be-thriving</link>
-      <description>March 30, 2017 - NPR&#39;s Ari Shapiro talks with Peter Lee, executive director of Covered California, about how state health care exchanges will work now that the AHCA has failed in Congress.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170330_atc_in_california_health_care_marketplace_appears_to_be_thriving.mp3?orgId=1&amp;topicId=1128&amp;d=236&amp;p=2&amp;story=522091627&amp;t=progseg&amp;e=522020571&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[March 30, 2017 - NPR's Ari Shapiro talks with Peter Lee, executive director of Covered California, about how state health care exchanges will work now that the AHCA has failed in Congress.
-
-<a href="http://www.npr.org/2017/03/30/522091627/in-california-health-care-marketplace-appears-to-be-thriving">http://www.npr.org/2017/03/30/522091627/in-california-health-care-marketplace-appears-to-be-thriving</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

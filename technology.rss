@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 18:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 18:30:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 18:15:05 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 18:30:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become</guid>
+      <title>The Father Of The Web Is Worried About How Ugly It&#39;s Become</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become</link>
+      <description>April 4, 2017 - When he invented the Web 28 years ago, Tim Berners-Lee saw it as a way to break apart silos and connect the world. Now he&#39;s increasingly troubled about its dark side, but he believes it can be fixed.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/04/gettyimages-143034371-1-_wide-aa4549c59af1a938aa95ef6b2e50d351ecc39049-s800-c15.jpg"></a>
+
+April 4, 2017 - When he invented the Web 28 years ago, Tim Berners-Lee saw it as a way to break apart silos and connect the world. Now he's increasingly troubled about its dark side, but he believes it can be fixed.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become">http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/gettyimages-143034371-1-_wide-aa4549c59af1a938aa95ef6b2e50d351ecc39049-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</guid>
       <title>How Two Georgia Tech Students Came Up With The Common App For Internships</title>
@@ -243,23 +258,6 @@ March 29, 2017 - In the era of streaming music, everything ever recorded is supp
 
 <a href="http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone">http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/28/bob-seger-uroda_wide-74c11dce663088fc67e8caea7bacf1666348ca2e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170328_me_release_of_possible_topics_for_2020_census_raises_concerns.mp3?orgId=1&amp;topicId=1091&amp;d=175&amp;story=521789446&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Run-Up To Census 2020 Raises Concerns Over Security And Politics</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/03/28/521789446/run-up-to-census-2020-raises-concerns-over-security-and-politics</link>
-      <description>March 28, 2017 - Results from the U.S. Census in 2020 could remake the political map. Some census experts say the stakes for the upcoming national headcount are higher than normal.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170328_me_release_of_possible_topics_for_2020_census_raises_concerns.mp3?orgId=1&amp;topicId=1091&amp;d=175&amp;story=521789446&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/ap_100410135477_wide-08571bf2f9966bd69a0c3e21643c9b15e3beca35-s800-c15.jpg"></a>
-
-March 28, 2017 - Results from the U.S. Census in 2020 could remake the political map. Some census experts say the stakes for the upcoming national headcount are higher than normal.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/03/28/521789446/run-up-to-census-2020-raises-concerns-over-security-and-politics">http://www.npr.org/sections/thetwo-way/2017/03/28/521789446/run-up-to-census-2020-raises-concerns-over-security-and-politics</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/ap_100410135477_wide-08571bf2f9966bd69a0c3e21643c9b15e3beca35-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>175</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
