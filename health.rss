@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 20:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 20:30:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 20:15:20 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 20:30:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/04/522190305/broth-loving-hipsters-are-pushing-up-the-price-of-bones</guid>
+      <title>Broth-Loving Hipsters Are Pushing Up The Price Of Bones</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/04/522190305/broth-loving-hipsters-are-pushing-up-the-price-of-bones</link>
+      <description>April 4, 2017 - With bone broth mania sweeping parts of the U.S. (we see you, LA), cheap bones are harder to come by. Some broth makers are moving away from the standard beef and chicken to new bones — like alpaca.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/bonebroth_wide-022b5882b0d7676da7bdf496685ee41a3fe347c6-s800-c15.jpeg"></a>
+
+April 4, 2017 - With bone broth mania sweeping parts of the U.S. (we see you, LA), cheap bones are harder to come by. Some broth makers are moving away from the standard beef and chicken to new bones — like alpaca.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/04/522190305/broth-loving-hipsters-are-pushing-up-the-price-of-bones">http://www.npr.org/sections/thesalt/2017/04/04/522190305/broth-loving-hipsters-are-pushing-up-the-price-of-bones</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/bonebroth_wide-022b5882b0d7676da7bdf496685ee41a3fe347c6-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency</guid>
+      <title>Citing Abortions in China, Trump Cuts Funds For U.N. Family Planning Agency</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency</link>
+      <description>April 4, 2017 - The administration claims the U.N. population agency supports China&#39;s &#34;coercive&#34; abortion policies. UNFPA calls the claim &#34;erroneous.&#34;</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/gettyimages-526508604-90_wide-a0c6377fef7f614239075c8f85285417c700aa03-s800-c15.jpg"></a>
+
+April 4, 2017 - The administration claims the U.N. population agency supports China's "coercive" abortion policies. UNFPA calls the claim "erroneous."
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency">http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/gettyimages-526508604-90_wide-a0c6377fef7f614239075c8f85285417c700aa03-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</guid>
       <title>51 Babies Born With Zika-Related Birth Defects In The U.S. Last Year</title>
@@ -224,38 +254,6 @@ March 31, 2017 - Buy an unhealthy snack and these vending machines take away 25 
 
 <a href="http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks">http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/ap_05121507613_wide-e9c51ea90b82fd2fa93e59e7a62fd0d19adaf2bc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/03/31/522082858/home-health-aides-fear-theyll-lose-hard-won-insurance-coverage</guid>
-      <title>Home Health Aides Fear They&#39;ll Lose Hard-Won Insurance Coverage</title>
-      <link>http://www.npr.org/sections/health-shots/2017/03/31/522082858/home-health-aides-fear-theyll-lose-hard-won-insurance-coverage</link>
-      <description>March 31, 2017 - Many health care aides were able to get insurance through the Affordable Care Act. But with the law&#39;s future uncertain, they don&#39;t know how their jobs or their doctor bills will be affected.</description>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/30/celeste-1_wide-782e6b502a9c5bd0303f465ef707d8d34b996f50-s800-c15.jpg"></a>
-
-March 31, 2017 - Many health care aides were able to get insurance through the Affordable Care Act. But with the law's future uncertain, they don't know how their jobs or their doctor bills will be affected.
-
-<a href="http://www.npr.org/sections/health-shots/2017/03/31/522082858/home-health-aides-fear-theyll-lose-hard-won-insurance-coverage">http://www.npr.org/sections/health-shots/2017/03/31/522082858/home-health-aides-fear-theyll-lose-hard-won-insurance-coverage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/30/celeste-1_wide-782e6b502a9c5bd0303f465ef707d8d34b996f50-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170330_atc_why_the_newly_proposed_sepsis_treatment_needs_more_study.mp3?orgId=1&amp;topicId=1128&amp;d=255&amp;p=2&amp;story=521918863&amp;t=progseg&amp;e=522020571&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why The Newly Proposed Sepsis Treatment Needs More Study</title>
-      <link>http://www.npr.org/sections/health-shots/2017/03/30/521918863/why-the-newly-proposed-sepsis-treatment-needs-more-study</link>
-      <description>March 30, 2017 - The bodywide inflammation known as sepsis kills about 300,000 people in U.S. hospitals each year. Promising treatments have come and gone, warn skeptical doctors, who call for rigorous research.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170330_atc_why_the_newly_proposed_sepsis_treatment_needs_more_study.mp3?orgId=1&amp;topicId=1128&amp;d=255&amp;p=2&amp;story=521918863&amp;t=progseg&amp;e=522020571&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/29/istock-501818326_wide-8a216df556bf9e0848d880d3ddcbec2990adeb5a-s800-c15.jpg"></a>
-
-March 30, 2017 - The bodywide inflammation known as sepsis kills about 300,000 people in U.S. hospitals each year. Promising treatments have come and gone, warn skeptical doctors, who call for rigorous research.
-
-<a href="http://www.npr.org/sections/health-shots/2017/03/30/521918863/why-the-newly-proposed-sepsis-treatment-needs-more-study">http://www.npr.org/sections/health-shots/2017/03/30/521918863/why-the-newly-proposed-sepsis-treatment-needs-more-study</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/istock-501818326_wide-8a216df556bf9e0848d880d3ddcbec2990adeb5a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>255</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
