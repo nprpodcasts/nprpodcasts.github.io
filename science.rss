@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 18:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 18:15:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 18:00:14 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 18:15:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</guid>
+      <title>Sound Matters: Sex And Death In The Rain Forest</title>
+      <link>http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</link>
+      <description>April 4, 2017 - Scientists eavesdropping in trees have decoded a high stakes game of hide and seek. Katydids rely on ultrasound to find mates and listen for bats, which use ultrasound to find the bugs, and eat them.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/04/bat-katydid_wide-b94066d9cd1aa19d613b277cc6b208837fe05b39-s800-c15.jpg"></a>
+
+April 4, 2017 - Scientists eavesdropping in trees have decoded a high stakes game of hide and seek. Katydids rely on ultrasound to find mates and listen for bats, which use ultrasound to find the bugs, and eat them.
+
+<a href="http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest">http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/bat-katydid_wide-b94066d9cd1aa19d613b277cc6b208837fe05b39-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</guid>
       <title>Taking Shortcuts In Drug Testing Can Put Patients At Risk</title>
@@ -237,21 +252,6 @@ March 30, 2017 - It has to do with language learning, according to a new study f
 <a href="http://www.npr.org/2017/03/30/522015717/epa-says-it-will-allow-continued-sale-of-controversial-pesticide">http://www.npr.org/2017/03/30/522015717/epa-says-it-will-allow-continued-sale-of-controversial-pesticide</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>90</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_fewer_zika-linked_birth_defects_than_expected.mp3?orgId=1&amp;topicId=1031&amp;d=107&amp;p=3&amp;story=522015647&amp;t=progseg&amp;e=522013891&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fewer Zika-Linked Birth Defects Than Expected</title>
-      <link>http://www.npr.org/2017/03/30/522015647/fewer-zika-linked-birth-defects-than-expected</link>
-      <description>March 30, 2017 - Scientists expected a surge of severe birth defects in Brazil because of the Zika outbreak. But that didn&#39;t happen last year. Researchers are re-examining the link between Zika and birth defects.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_fewer_zika-linked_birth_defects_than_expected.mp3?orgId=1&amp;topicId=1031&amp;d=107&amp;p=3&amp;story=522015647&amp;t=progseg&amp;e=522013891&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[March 30, 2017 - Scientists expected a surge of severe birth defects in Brazil because of the Zika outbreak. But that didn't happen last year. Researchers are re-examining the link between Zika and birth defects.
-
-<a href="http://www.npr.org/2017/03/30/522015647/fewer-zika-linked-birth-defects-than-expected">http://www.npr.org/2017/03/30/522015647/fewer-zika-linked-birth-defects-than-expected</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>107</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
