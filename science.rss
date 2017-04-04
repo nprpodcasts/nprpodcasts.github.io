@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 22:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 22:15:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 22:00:08 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 22:15:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -39,11 +39,12 @@ April 4, 2017 - The researchers say it's the first time an American badger has b
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170404_atc_sound_matters_sex_and_death_in_the_rain_forest.mp3?orgId=1&amp;topicId=1007&amp;d=371&amp;p=2&amp;story=521452464&amp;t=progseg&amp;e=522571594&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sound Matters: Sex And Death In The Rain Forest</title>
       <link>http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</link>
       <description>April 4, 2017 - Scientists eavesdropping in trees have decoded a high stakes game of hide and seek. Katydids rely on ultrasound to find mates and listen for bats, which use ultrasound to find the bugs, and eat them.</description>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170404_atc_sound_matters_sex_and_death_in_the_rain_forest.mp3?orgId=1&amp;topicId=1007&amp;d=371&amp;p=2&amp;story=521452464&amp;t=progseg&amp;e=522571594&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/04/bat-katydid_wide-b94066d9cd1aa19d613b277cc6b208837fe05b39-s800-c15.jpg"></a>
 
@@ -51,6 +52,7 @@ April 4, 2017 - Scientists eavesdropping in trees have decoded a high stakes gam
 
 <a href="http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest">http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/bat-katydid_wide-b94066d9cd1aa19d613b277cc6b208837fe05b39-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>371</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
