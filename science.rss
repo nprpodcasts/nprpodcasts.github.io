@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 16:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 16:45:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 16:30:22 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 16:45:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</guid>
+      <title>Taking Shortcuts In Drug Testing Can Put Patients At Risk</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</link>
+      <description>April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don&#39;t show true benefits and harms.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/04/drug-development-1_wide-c17272786ba8249b0ac3074d47b166544b01705b-s800-c15.jpg"></a>
+
+April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don't show true benefits and harms.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk">http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/drug-development-1_wide-c17272786ba8249b0ac3074d47b166544b01705b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</guid>
       <title>Trump Team Urges Skimpier Health Plans To Lure More People To Buy Insurance</title>
@@ -237,23 +252,6 @@ March 30, 2017 - It has to do with language learning, according to a new study f
 <a href="http://www.npr.org/2017/03/30/522015647/fewer-zika-linked-birth-defects-than-expected">http://www.npr.org/2017/03/30/522015647/fewer-zika-linked-birth-defects-than-expected</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>107</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_where_levees_fail_in_california_nature_can_step_in_to_nurture_rivers.mp3?orgId=150&amp;topicId=1025&amp;d=217&amp;p=2&amp;story=521939643&amp;t=progseg&amp;e=521885502&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Where Levees Fail In California, Nature Can Step In To Nurture Rivers</title>
-      <link>http://www.npr.org/2017/03/29/521939643/where-levees-fail-in-california-nature-can-step-in-to-nurture-rivers</link>
-      <description>March 29, 2017 - After devastating floods, California is looking to spend billions on dams and levees. Some are calling for a new approach to flood control, one that mimics nature instead of trying to contain it.</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_where_levees_fail_in_california_nature_can_step_in_to_nurture_rivers.mp3?orgId=150&amp;topicId=1025&amp;d=217&amp;p=2&amp;story=521939643&amp;t=progseg&amp;e=521885502&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/29/levee1_wide-4f1bd0c218a600f74fd2502d6a66cb1f55746d69-s800-c15.jpg"></a>
-
-March 29, 2017 - After devastating floods, California is looking to spend billions on dams and levees. Some are calling for a new approach to flood control, one that mimics nature instead of trying to contain it.
-
-<a href="http://www.npr.org/2017/03/29/521939643/where-levees-fail-in-california-nature-can-step-in-to-nurture-rivers">http://www.npr.org/2017/03/29/521939643/where-levees-fail-in-california-nature-can-step-in-to-nurture-rivers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/levee1_wide-4f1bd0c218a600f74fd2502d6a66cb1f55746d69-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>217</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

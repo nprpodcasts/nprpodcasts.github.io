@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 16:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 16:45:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 16:30:23 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 16:45:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</guid>
+      <title>Taking Shortcuts In Drug Testing Can Put Patients At Risk</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</link>
+      <description>April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don&#39;t show true benefits and harms.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/drug-development-1_wide-c17272786ba8249b0ac3074d47b166544b01705b-s800-c15.jpg"></a>
+
+April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don't show true benefits and harms.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk">http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/drug-development-1_wide-c17272786ba8249b0ac3074d47b166544b01705b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</guid>
       <title>Trump Team Urges Skimpier Health Plans To Lure More People To Buy Insurance</title>
@@ -241,21 +256,6 @@ March 30, 2017 - The bodywide inflammation known as sepsis kills about 300,000 p
 <a href="http://www.npr.org/2017/03/30/522091627/in-california-health-care-marketplace-appears-to-be-thriving">http://www.npr.org/2017/03/30/522091627/in-california-health-care-marketplace-appears-to-be-thriving</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/03/30/521958505/only-in-sweden-hundreds-of-refugee-children-gave-up-on-life</guid>
-      <title>In Sweden, Hundreds Of Refugee Children Gave Up On Life</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/03/30/521958505/only-in-sweden-hundreds-of-refugee-children-gave-up-on-life</link>
-      <description>March 30, 2017 - An article in this week&#39;s New Yorker writes about youngsters who fell into a comalike state in reaction to the news that their family may be deported. We interview the author.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/29/170403_r29648-1200x780-1490288448_wide-b83180342e4cd413e6f083377c362fd2170a5133-s800-c15.jpg"></a>
-
-March 30, 2017 - An article in this week's New Yorker writes about youngsters who fell into a comalike state in reaction to the news that their family may be deported. We interview the author.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/03/30/521958505/only-in-sweden-hundreds-of-refugee-children-gave-up-on-life">http://www.npr.org/sections/goatsandsoda/2017/03/30/521958505/only-in-sweden-hundreds-of-refugee-children-gave-up-on-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/170403_r29648-1200x780-1490288448_wide-b83180342e4cd413e6f083377c362fd2170a5133-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
