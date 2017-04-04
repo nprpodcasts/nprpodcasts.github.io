@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 06:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 15:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 06:30:04 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 15:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</guid>
+      <title>How Two Georgia Tech Students Came Up With The Common App For Internships</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</link>
+      <description>April 4, 2017 - Students create their profile and can apply for several internships with one click. Currently, InternBlitz is available to students at Georgia Tech, but there are plans to add more campuses soon.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/31/internblitz-founders_wide-594dd1784f9991bbc484bc6c52a1b18038d4fefb-s800-c15.jpg"></a>
+
+April 4, 2017 - Students create their profile and can apply for several internships with one click. Currently, InternBlitz is available to students at Georgia Tech, but there are plans to add more campuses soon.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships">http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/internblitz-founders_wide-594dd1784f9991bbc484bc6c52a1b18038d4fefb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_how_russian_twitter_bots_pumped_out_fake_news_during_the_2016_election.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=522503844&amp;t=progseg&amp;e=522501413&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Russian Twitter Bots Pumped Out Fake News During The 2016 Election</title>
@@ -245,21 +260,6 @@ March 28, 2017 - Results from the U.S. Census in 2020 could remake the political
 <a href="http://www.npr.org/sections/thetwo-way/2017/03/28/521789446/run-up-to-census-2020-raises-concerns-over-security-and-politics">http://www.npr.org/sections/thetwo-way/2017/03/28/521789446/run-up-to-census-2020-raises-concerns-over-security-and-politics</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/28/ap_100410135477_wide-08571bf2f9966bd69a0c3e21643c9b15e3beca35-s3000-c15.jpg"></itunes:image>
       <itunes:duration>175</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective</guid>
-      <title>As Congress Repeals Internet Privacy Rules, Putting Your Options In Perspective</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective</link>
-      <description>March 28, 2017 - President Trump is expected to sign a bill to overturn new privacy rules for Internet service providers. An expert says there are steps you can take, though they won&#39;t deliver absolute privacy.</description>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/gettyimages-2062515_wide-c365124a7e532d998c6729a182cfc735c0d13a08-s800-c15.jpg"></a>
-
-March 28, 2017 - President Trump is expected to sign a bill to overturn new privacy rules for Internet service providers. An expert says there are steps you can take, though they won't deliver absolute privacy.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective">http://www.npr.org/sections/alltechconsidered/2017/03/28/521813464/as-congress-repeals-internet-privacy-rules-putting-your-options-in-perspective</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/gettyimages-2062515_wide-c365124a7e532d998c6729a182cfc735c0d13a08-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

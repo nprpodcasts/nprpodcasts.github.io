@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 06:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 15:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 06:30:06 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 15:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</guid>
+      <title>Trump Team Urges Skimpier Health Plans To Lure More People To Buy Insurance</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</link>
+      <description>April 4, 2017 - A rule proposed by the Trump administration would likely raise the deductibles and copays of new policies sold on the exchanges, starting next fall. Monthly premiums would likely be cheaper.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/03/health-insurance-magnet_wide-96e00cfd462f31e3d2dd600498239ceb0c857797-s800-c15.jpg"></a>
+
+April 4, 2017 - A rule proposed by the Trump administration would likely raise the deductibles and copays of new policies sold on the exchanges, starting next fall. Monthly premiums would likely be cheaper.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance">http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/health-insurance-magnet_wide-96e00cfd462f31e3d2dd600498239ceb0c857797-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/04/03/522229032/inside-the-hole-what-happens-to-the-mind-in-isolation</guid>
       <title>Inside The Hole: What Happens To The Mind In Isolation?</title>
@@ -239,23 +254,6 @@ March 29, 2017 - After devastating floods, California is looking to spend billio
 <a href="http://www.npr.org/2017/03/29/521939643/where-levees-fail-in-california-nature-can-step-in-to-nurture-rivers">http://www.npr.org/2017/03/29/521939643/where-levees-fail-in-california-nature-can-step-in-to-nurture-rivers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/29/levee1_wide-4f1bd0c218a600f74fd2502d6a66cb1f55746d69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>217</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_launch_land_launch_spacex_tries_reusing_its_rocket_.mp3?orgId=1&amp;topicId=1026&amp;d=124&amp;p=3&amp;story=521941656&amp;t=progseg&amp;e=522013891&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>SpaceX Reuses A Rocket To Launch A Satellite</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/03/29/521941656/launch-land-launch-spacex-tries-reusing-its-rocket</link>
-      <description>March 29, 2017 - The private company sees Thursday&#39;s achievement as a step toward cheaper flights into deep space. The aerospace industry essentially has been throwing away its hefty and expensive rockets.</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_launch_land_launch_spacex_tries_reusing_its_rocket_.mp3?orgId=1&amp;topicId=1026&amp;d=124&amp;p=3&amp;story=521941656&amp;t=progseg&amp;e=522013891&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/30/spacex-flickr2_wide-476d3920f098583ec08ee8cf0cd92bf83c85180f-s800-c15.jpg"></a>
-
-March 29, 2017 - The private company sees Thursday's achievement as a step toward cheaper flights into deep space. The aerospace industry essentially has been throwing away its hefty and expensive rockets.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/03/29/521941656/launch-land-launch-spacex-tries-reusing-its-rocket">http://www.npr.org/sections/thetwo-way/2017/03/29/521941656/launch-land-launch-spacex-tries-reusing-its-rocket</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/30/spacex-flickr2_wide-476d3920f098583ec08ee8cf0cd92bf83c85180f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>124</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
