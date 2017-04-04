@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 20:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 20:45:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 20:30:05 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 20:45:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/04/522598144/video-badger-burying-a-cow-surprises-scientists</guid>
+      <title>VIDEO: Badger Burying A Cow Surprises Scientists</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/04/522598144/video-badger-burying-a-cow-surprises-scientists</link>
+      <description>April 4, 2017 - The researchers say it&#39;s the first time an American badger has been documented burying an animal larger than itself. It worked for five days and nights to accomplish the unexpected feat.</description>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/04/badger_wide-9e4d5dc7bc211c94fb44a0024f48b71548064147-s800-c15.jpeg"></a>
+
+April 4, 2017 - The researchers say it's the first time an American badger has been documented burying an animal larger than itself. It worked for five days and nights to accomplish the unexpected feat.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/04/522598144/video-badger-burying-a-cow-surprises-scientists">http://www.npr.org/sections/thetwo-way/2017/04/04/522598144/video-badger-burying-a-cow-surprises-scientists</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/badger_wide-9e4d5dc7bc211c94fb44a0024f48b71548064147-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/04/04/521452464/sound-matters-sex-and-death-in-the-rain-forest</guid>
       <title>Sound Matters: Sex And Death In The Rain Forest</title>
@@ -237,21 +252,6 @@ March 30, 2017 - It has to do with language learning, according to a new study f
 
 <a href="http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science">http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/bilingual_final-cbeck_wide-481550bd6cb67dcde384a87ac69c50d062ac46fc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_epa_says_it_will_allow_continued_sale_of_controversial_pesticide.mp3?orgId=1&amp;topicId=1007&amp;d=90&amp;p=3&amp;story=522015717&amp;t=progseg&amp;e=522013891&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>EPA Says It Will Allow Continued Sale Of Controversial Pesticide</title>
-      <link>http://www.npr.org/2017/03/30/522015717/epa-says-it-will-allow-continued-sale-of-controversial-pesticide</link>
-      <description>March 30, 2017 - The EPA is not going ahead with a proposed ban on a pesticide called chlorpyrifos, saying there&#39;s still scientific uncertainty over its safety. Environmental groups say it can harm young children.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/03/20170330_me_epa_says_it_will_allow_continued_sale_of_controversial_pesticide.mp3?orgId=1&amp;topicId=1007&amp;d=90&amp;p=3&amp;story=522015717&amp;t=progseg&amp;e=522013891&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[March 30, 2017 - The EPA is not going ahead with a proposed ban on a pesticide called chlorpyrifos, saying there's still scientific uncertainty over its safety. Environmental groups say it can harm young children.
-
-<a href="http://www.npr.org/2017/03/30/522015717/epa-says-it-will-allow-continued-sale-of-controversial-pesticide">http://www.npr.org/2017/03/30/522015717/epa-says-it-will-allow-continued-sale-of-controversial-pesticide</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>90</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
