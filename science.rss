@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2017 01:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 01:15:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Apr 2017 01:00:10 +0000</pubDate>
+    <pubDate>Tue, 04 Apr 2017 01:15:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/03/522229032/inside-the-hole-what-happens-to-the-mind-in-isolation</guid>
+      <title>Inside The Hole: What Happens To The Mind In Isolation?</title>
+      <link>http://www.npr.org/2017/04/03/522229032/inside-the-hole-what-happens-to-the-mind-in-isolation</link>
+      <description>April 3, 2017 - The use of solitary confinement in prisons has grown since the 1970s. Criminologist Keramet Reiter talks with us about the psychological effects that long-term isolation has on our minds.</description>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/03/gettyimages-566011765_wide-958baed7120c4b6422dc82cacbadb5777c20216c-s800-c15.jpg"></a>
+
+April 3, 2017 - The use of solitary confinement in prisons has grown since the 1970s. Criminologist Keramet Reiter talks with us about the psychological effects that long-term isolation has on our minds.
+
+<a href="http://www.npr.org/2017/04/03/522229032/inside-the-hole-what-happens-to-the-mind-in-isolation">http://www.npr.org/2017/04/03/522229032/inside-the-hole-what-happens-to-the-mind-in-isolation</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/gettyimages-566011765_wide-958baed7120c4b6422dc82cacbadb5777c20216c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/03/521415892/the-taste-of-wine-isnt-all-in-your-head-but-your-brain-sure-helps</guid>
       <title>The Taste Of Wine Isn&#39;t All In Your Head, But Your Brain Sure Helps</title>
@@ -241,23 +256,6 @@ March 29, 2017 - The private company sees Thursday's achievement as a step towar
 <a href="http://www.npr.org/sections/thetwo-way/2017/03/29/521941656/launch-land-launch-spacex-tries-reusing-its-rocket">http://www.npr.org/sections/thetwo-way/2017/03/29/521941656/launch-land-launch-spacex-tries-reusing-its-rocket</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/30/spacex-flickr2_wide-476d3920f098583ec08ee8cf0cd92bf83c85180f-s3000-c15.jpg"></itunes:image>
       <itunes:duration>124</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_fishermen_catch_50_pound_carp_in_the_middle_of_los_angeles.mp3?orgId=1&amp;topicId=1091&amp;d=167&amp;p=2&amp;story=521954082&amp;t=progseg&amp;e=521885502&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fishermen Catch 50-Pound Carp In The Middle Of Los Angeles</title>
-      <link>http://www.npr.org/2017/03/29/521954082/fishermen-catch-50-pound-carp-in-the-middle-of-los-angeles</link>
-      <description>March 29, 2017 - MacArthur Park in Los Angeles is not the most picturesque location, but it is where the California Ghetto Carping Club caught a 50 pound carp this week.</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/03/20170329_atc_fishermen_catch_50_pound_carp_in_the_middle_of_los_angeles.mp3?orgId=1&amp;topicId=1091&amp;d=167&amp;p=2&amp;story=521954082&amp;t=progseg&amp;e=521885502&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/29/fish-_wide-68d764f78acfbdebb1ec22c76a3c4c025066a6f8-s800-c15.jpg"></a>
-
-March 29, 2017 - MacArthur Park in Los Angeles is not the most picturesque location, but it is where the California Ghetto Carping Club caught a 50 pound carp this week.
-
-<a href="http://www.npr.org/2017/03/29/521954082/fishermen-catch-50-pound-carp-in-the-middle-of-los-angeles">http://www.npr.org/2017/03/29/521954082/fishermen-catch-50-pound-carp-in-the-middle-of-los-angeles</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/29/fish-_wide-68d764f78acfbdebb1ec22c76a3c4c025066a6f8-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>167</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
