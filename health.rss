@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 21:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 22:00:37 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 21:00:31 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 22:00:37 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</guid>
+      <title>Why Children Face The Greatest Danger From Chemical Weapons</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</link>
+      <description>April 5, 2017 - In a suspected chemical weapon attack like the one in Syria on Tuesday, children are the most vulnerable targets.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/05/gettyimages-664346648-90_wide-c46625b1181d7ff13012f6b772b9438c947d7a3a-s800-c15.jpg"></a>
+
+April 5, 2017 - In a suspected chemical weapon attack like the one in Syria on Tuesday, children are the most vulnerable targets.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons">http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/gettyimages-664346648-90_wide-c46625b1181d7ff13012f6b772b9438c947d7a3a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</guid>
       <title>Emergency Room Doctors Are Picking Noses — For Drug Delivery, That Is</title>
@@ -39,11 +54,12 @@ April 5, 2017 - Nasal versions of sedatives and overdose drugs are increasingly 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_how_diabetes_got_to_be_the_no_1_killer_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=332&amp;p=2&amp;story=522038318&amp;t=progseg&amp;e=522705705&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Diabetes Got To Be The No. 1 Killer In Mexico</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</link>
       <description>April 5, 2017 - Diabetes has become a public health crisis in Mexico. The government is struggling to pay for care and slow the rate at which people develop the life-threatening metabolic disorder.</description>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_how_diabetes_got_to_be_the_no_1_killer_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=332&amp;p=2&amp;story=522038318&amp;t=progseg&amp;e=522705705&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/woman-looks-at-pastries_wide-0e5404e0476184dbb6df64f6e714fd7a063e3d76-s800-c15.jpg"></a>
 
@@ -51,6 +67,7 @@ April 5, 2017 - Diabetes has become a public health crisis in Mexico. The govern
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico">http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/woman-looks-at-pastries_wide-0e5404e0476184dbb6df64f6e714fd7a063e3d76-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>332</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,23 +256,6 @@ April 3, 2017 - A New York City hospital has created a playlist of songs with th
 <a href="http://www.npr.org/sections/health-shots/2017/04/03/521913341/what-do-hanson-and-madonna-have-in-common-hits-ideal-for-saving-a-life">http://www.npr.org/sections/health-shots/2017/04/03/521913341/what-do-hanson-and-madonna-have-in-common-hits-ideal-for-saving-a-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/hanson_wide-f7105053276c73321039976578f71dad7debd253-s3000-c15.jpg"></itunes:image>
       <itunes:duration>152</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_brave_new_workers_a_burning_desire_to_get_medicinal_marijuana_license_.mp3?orgId=1&amp;topicId=1022&amp;d=382&amp;p=2&amp;story=522236358&amp;t=progseg&amp;e=522389021&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Brave New Workers&#39;: A Burning Desire To Get A Medicinal Marijuana License </title>
-      <link>http://www.npr.org/2017/04/02/522236358/brave-new-workers-a-burning-desire-to-get-medicinal-marijuana-license</link>
-      <description>April 2, 2017 - What happens to workers when an industry fails, new technology takes off? NPR brings you stories of Americans adapting to a changing economy. This week: Leaving the black cannabis market to go legal.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_brave_new_workers_a_burning_desire_to_get_medicinal_marijuana_license_.mp3?orgId=1&amp;topicId=1022&amp;d=382&amp;p=2&amp;story=522236358&amp;t=progseg&amp;e=522389021&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/mirage-n-sis_wide-8bb880cee2e8abe8b9cb430f6a00782863e76263-s800-c15.jpg"></a>
-
-April 2, 2017 - What happens to workers when an industry fails, new technology takes off? NPR brings you stories of Americans adapting to a changing economy. This week: Leaving the black cannabis market to go legal.
-
-<a href="http://www.npr.org/2017/04/02/522236358/brave-new-workers-a-burning-desire-to-get-medicinal-marijuana-license">http://www.npr.org/2017/04/02/522236358/brave-new-workers-a-burning-desire-to-get-medicinal-marijuana-license</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/mirage-n-sis_wide-8bb880cee2e8abe8b9cb430f6a00782863e76263-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>382</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
