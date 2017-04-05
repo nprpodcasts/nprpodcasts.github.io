@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 17:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 19:33:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 17:00:13 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 19:33:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/05/522731573/the-race-to-fish-slows-down-why-thats-good-for-fish-fishermen-and-diners</guid>
+      <title>The Race To Fish Slows Down. Why That&#39;s Good For Fish, Fishermen And Diners </title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/05/522731573/the-race-to-fish-slows-down-why-thats-good-for-fish-fishermen-and-diners</link>
+      <description>April 5, 2017 - Catch shares allot fishermen a portion of the catch in advance, in hopes of keeping them from racing each other to sea, sometimes in risky climes. They&#39;re controversial. They also work, a study finds.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/2013edftx137-1-_wide-94f778d32981a43b539df59e10cd2a60c9e21d85-s800-c15.jpg"></a>
+
+April 5, 2017 - Catch shares allot fishermen a portion of the catch in advance, in hopes of keeping them from racing each other to sea, sometimes in risky climes. They're controversial. They also work, a study finds.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/05/522731573/the-race-to-fish-slows-down-why-thats-good-for-fish-fishermen-and-diners">http://www.npr.org/sections/thesalt/2017/04/05/522731573/the-race-to-fish-slows-down-why-thats-good-for-fish-fishermen-and-diners</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/2013edftx137-1-_wide-94f778d32981a43b539df59e10cd2a60c9e21d85-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</guid>
       <title>Experts Suspect Nerve Agent Was Used In Syrian Attack</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</link>
       <description>April 5, 2017 - An attack on a rebel-held region of Syria on Tuesday has killed dozens of people. Video and eyewitness reports suggest powerful chemical weapons are responsible.</description>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 5, 2017 - An attack on a rebel-held region of Syria on Tuesday has killed dozens of people. Video and eyewitness reports suggest powerful chemical weapons are responsible.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/ap_17095584154202_wide-96018315c181949a77780a3ca5633c44380cfd97-s800-c15.jpg"></a>
+
+April 5, 2017 - An attack on a rebel-held region of Syria on Tuesday has killed dozens of people. Video and eyewitness reports suggest powerful chemical weapons are responsible.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack">http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/ap_17095584154202_wide-96018315c181949a77780a3ca5633c44380cfd97-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ March 30, 2017 - The last known Tasmanian tiger died more than eight decades ago
 <a href="http://www.npr.org/sections/thetwo-way/2017/03/30/522091683/back-from-the-dead-reported-sightings-fuel-hope-for-return-of-tasmanian-tigers">http://www.npr.org/sections/thetwo-way/2017/03/30/522091683/back-from-the-dead-reported-sightings-fuel-hope-for-return-of-tasmanian-tigers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/30/gettyimages-83208787_wide-661050a66cb87d18b0fb15e1758ae8e23facb861-s3000-c15.jpg"></itunes:image>
       <itunes:duration>222</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</guid>
-      <title>A Tiny Spot In Mouse Brains May Explain How Breathing Calms The Mind</title>
-      <link>http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</link>
-      <description>March 30, 2017 - A cluster of neurons connects breathing and emotion centers in mouse brains, researchers say. If this turns out to be true in humans, it could explain how controlled breathing calms the mind.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/30/breathing-1_wide-79f01804bd32843176eafdf321f20b4d52e56993-s800-c15.jpg"></a>
-
-March 30, 2017 - A cluster of neurons connects breathing and emotion centers in mouse brains, researchers say. If this turns out to be true in humans, it could explain how controlled breathing calms the mind.
-
-<a href="http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind">http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/30/breathing-1_wide-79f01804bd32843176eafdf321f20b4d52e56993-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
