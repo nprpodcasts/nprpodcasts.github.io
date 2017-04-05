@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 17:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 16:00:30 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 17:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</guid>
+      <title>Experts Suspect Nerve Agent Was Used In Syrian Attack</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</link>
+      <description>April 5, 2017 - An attack on a rebel-held region of Syria on Tuesday has killed dozens of people. Video and eyewitness reports suggest powerful chemical weapons are responsible.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 5, 2017 - An attack on a rebel-held region of Syria on Tuesday has killed dozens of people. Video and eyewitness reports suggest powerful chemical weapons are responsible.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack">http://www.npr.org/sections/thetwo-way/2017/04/05/522726068/experts-suspect-nerve-agent-was-used-in-syrian-attack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170405_me_brain_risk_from_weapons.mp3?orgId=1&amp;topicId=1128&amp;d=286&amp;p=3&amp;story=522613294&amp;t=progseg&amp;e=522690493&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Do U.S. Troops Risk Brain Injury When They Fire Heavy Weapons?</title>
@@ -241,21 +254,6 @@ March 30, 2017 - A cluster of neurons connects breathing and emotion centers in 
 
 <a href="http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind">http://www.npr.org/sections/health-shots/2017/03/30/522033368/a-tiny-spot-in-mouse-brains-may-explain-how-breathing-calms-the-mind</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/30/breathing-1_wide-79f01804bd32843176eafdf321f20b4d52e56993-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters</guid>
-      <title>A Forgotten Shipwreck Imperils Washington&#39;s Oysters</title>
-      <link>http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters</link>
-      <description>March 30, 2017 - The sunken Hero, an Antarctic research vessel from the 1960s, is leaking oil into Willapa Bay, where more than half of the state&#39;s oysters are grown. And no one knows how to remove it.</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/27/20170327_willapa-bay-sink_ms-2_wide-cd7f728512424ec165e801db661e991eeb89da68-s800-c15.jpg"></a>
-
-March 30, 2017 - The sunken Hero, an Antarctic research vessel from the 1960s, is leaking oil into Willapa Bay, where more than half of the state's oysters are grown. And no one knows how to remove it.
-
-<a href="http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters">http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/27/20170327_willapa-bay-sink_ms-2_wide-cd7f728512424ec165e801db661e991eeb89da68-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
