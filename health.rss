@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 19:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 21:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 19:47:53 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 21:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</guid>
+      <title>Emergency Room Doctors Are Picking Noses — For Drug Delivery, That Is</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</link>
+      <description>April 5, 2017 - Nasal versions of sedatives and overdose drugs are increasingly popular in emergency departments. Doctors like that they act quickly and don&#39;t require an IV to administer.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/05/ap_091022027493_wide-9f2d0ed528b22170504efa80d42ea8c6359f8815-s800-c15.jpg"></a>
+
+April 5, 2017 - Nasal versions of sedatives and overdose drugs are increasingly popular in emergency departments. Doctors like that they act quickly and don't require an IV to administer.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is">http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/ap_091022027493_wide-9f2d0ed528b22170504efa80d42ea8c6359f8815-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</guid>
+      <title>How Diabetes Got To Be The No. 1 Killer In Mexico</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</link>
+      <description>April 5, 2017 - Diabetes has become a public health crisis in Mexico. The government is struggling to pay for care and slow the rate at which people develop the life-threatening metabolic disorder.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/woman-looks-at-pastries_wide-0e5404e0476184dbb6df64f6e714fd7a063e3d76-s800-c15.jpg"></a>
+
+April 5, 2017 - Diabetes has become a public health crisis in Mexico. The government is struggling to pay for care and slow the rate at which people develop the life-threatening metabolic disorder.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico">http://www.npr.org/sections/goatsandsoda/2017/04/05/522038318/how-diabetes-got-to-be-the-no-1-killer-in-mexico</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/woman-looks-at-pastries_wide-0e5404e0476184dbb6df64f6e714fd7a063e3d76-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/05/522711509/do-you-zone-out-procrastinate-might-be-adult-adhd</guid>
       <title>Do You Zone Out? Procrastinate? Might Be Adult ADHD</title>
@@ -226,36 +256,6 @@ April 2, 2017 - What happens to workers when an industry fails, new technology t
 <a href="http://www.npr.org/2017/04/02/522236358/brave-new-workers-a-burning-desire-to-get-medicinal-marijuana-license">http://www.npr.org/2017/04/02/522236358/brave-new-workers-a-burning-desire-to-get-medicinal-marijuana-license</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/mirage-n-sis_wide-8bb880cee2e8abe8b9cb430f6a00782863e76263-s3000-c15.jpg"></itunes:image>
       <itunes:duration>382</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/02/522206721/short-film-how-water-gets-from-the-nile-to-thirsty-refugees</guid>
-      <title>Short Film: How Water Gets From The Nile To Thirsty Refugees</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/02/522206721/short-film-how-water-gets-from-the-nile-to-thirsty-refugees</link>
-      <description>April 2, 2017 - Hundreds of thousands of refugees have fled the civil war in South Sudan and resettled in Uganda. This 12-minute documentary shows the daily struggle to get water.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/leya-yt-master_wide-39e8b5ef0f226701b95c126e2f58283b069db081-s800-c15.jpg"></a>
-
-April 2, 2017 - Hundreds of thousands of refugees have fled the civil war in South Sudan and resettled in Uganda. This 12-minute documentary shows the daily struggle to get water.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/02/522206721/short-film-how-water-gets-from-the-nile-to-thirsty-refugees">http://www.npr.org/sections/goatsandsoda/2017/04/02/522206721/short-film-how-water-gets-from-the-nile-to-thirsty-refugees</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/leya-yt-master_wide-39e8b5ef0f226701b95c126e2f58283b069db081-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/02/520535846/for-centuries-these-asian-recipes-have-helped-new-moms-recover-from-childbirth</guid>
-      <title>For Centuries, These Asian Recipes Have Helped New Moms Recover From Childbirth</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/02/520535846/for-centuries-these-asian-recipes-have-helped-new-moms-recover-from-childbirth</link>
-      <description>April 2, 2017 - Postpartum soups and stews have traditionally been prepared for new moms by Asian grandmothers and aunts, the recipes passed down orally. A new cookbook seeks to preserve them before they&#39;re lost.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/17/postpartum-food-1020-3_wide-a1a5cb0430d01a40189fc36ebd82a2621e04c6e4-s800-c15.jpg"></a>
-
-April 2, 2017 - Postpartum soups and stews have traditionally been prepared for new moms by Asian grandmothers and aunts, the recipes passed down orally. A new cookbook seeks to preserve them before they're lost.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/02/520535846/for-centuries-these-asian-recipes-have-helped-new-moms-recover-from-childbirth">http://www.npr.org/sections/thesalt/2017/04/02/520535846/for-centuries-these-asian-recipes-have-helped-new-moms-recover-from-childbirth</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/17/postpartum-food-1020-3_wide-a1a5cb0430d01a40189fc36ebd82a2621e04c6e4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
