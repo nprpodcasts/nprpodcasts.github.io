@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 07:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 14:00:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 07:00:08 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 14:00:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170405_me_yahoo_and_aol_move_in_together_under_oath_verizons_new_digital_arm.mp3?orgId=1&amp;topicId=1006&amp;d=200&amp;p=3&amp;story=522671331&amp;t=progseg&amp;e=522690493&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Yahoo And AOL Move In Together Under &#39;Oath,&#39; Verizon&#39;s New Digital Arm</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/05/522671331/yahoo-and-aol-move-in-together-under-oath-verizons-new-digital-arm</link>
+      <description>April 5, 2017 - The digital content mashup of Internet oldsters will be led by Tim Armstrong, AOL&#39;s CEO. Though the Yahoo deal was widely panned, it gives Verizon a vast subscriber base appealing to advertisers.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170405_me_yahoo_and_aol_move_in_together_under_oath_verizons_new_digital_arm.mp3?orgId=1&amp;topicId=1006&amp;d=200&amp;p=3&amp;story=522671331&amp;t=progseg&amp;e=522690493&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/04/ap_110422031424_wide-a48499807c7a661bbdd615fb675241eaba1d7d1c-s800-c15.jpg"></a>
+
+April 5, 2017 - The digital content mashup of Internet oldsters will be led by Tim Armstrong, AOL's CEO. Though the Yahoo deal was widely panned, it gives Verizon a vast subscriber base appealing to advertisers.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/05/522671331/yahoo-and-aol-move-in-together-under-oath-verizons-new-digital-arm">http://www.npr.org/sections/alltechconsidered/2017/04/05/522671331/yahoo-and-aol-move-in-together-under-oath-verizons-new-digital-arm</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/ap_110422031424_wide-a48499807c7a661bbdd615fb675241eaba1d7d1c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become</guid>
       <title>The Father Of The Web Is Worried About How Ugly It&#39;s Become</title>
@@ -243,21 +260,6 @@ March 30, 2017 - NPR's Ari Shapiro talks with Jennifer Pahlka, founder and execu
 <a href="http://www.npr.org/2017/03/29/521909787/the-u-s-has-an-active-cyber-war-underway-to-thwart-the-north-korean-nuclear-thre">http://www.npr.org/2017/03/29/521909787/the-u-s-has-an-active-cyber-war-underway-to-thwart-the-north-korean-nuclear-thre</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2317</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone</guid>
-      <title>Where Have All The Bob Seger Albums Gone?</title>
-      <link>http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone</link>
-      <description>March 29, 2017 - In the era of streaming music, everything ever recorded is supposed to be at our fingertips. So how did one of the biggest names in the Classic Rock canon go missing?</description>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/bob-seger-uroda_wide-74c11dce663088fc67e8caea7bacf1666348ca2e-s800-c15.jpg"></a>
-
-March 29, 2017 - In the era of streaming music, everything ever recorded is supposed to be at our fingertips. So how did one of the biggest names in the Classic Rock canon go missing?
-
-<a href="http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone">http://www.npr.org/sections/therecord/2017/03/29/521642313/where-have-all-the-bob-seger-albums-gone</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/bob-seger-uroda_wide-74c11dce663088fc67e8caea7bacf1666348ca2e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

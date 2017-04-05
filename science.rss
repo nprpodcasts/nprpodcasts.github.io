@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 07:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 14:00:41 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 07:00:05 +0000</pubDate>
+    <pubDate>Wed, 05 Apr 2017 14:00:41 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170405_me_brain_risk_from_weapons.mp3?orgId=1&amp;topicId=1128&amp;d=286&amp;p=3&amp;story=522613294&amp;t=progseg&amp;e=522690493&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Do U.S. Troops Risk Brain Injury When They Fire Heavy Weapons?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/05/522613294/do-u-s-troops-risk-brain-injury-when-they-fire-heavy-weapons</link>
+      <description>April 5, 2017 - Some modern shoulder-fired weapons produce blast waves powerful enough to rattle the brain. A $30 million study aims to help the military figure out how much blast exposure, over time, is too much.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170405_me_brain_risk_from_weapons.mp3?orgId=1&amp;topicId=1128&amp;d=286&amp;p=3&amp;story=522613294&amp;t=progseg&amp;e=522690493&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/04/carl-gustav-1_wide-c94115e5f338b0711089c3ff95cee7d485b4c6d3-s800-c15.jpg"></a>
+
+April 5, 2017 - Some modern shoulder-fired weapons produce blast waves powerful enough to rattle the brain. A $30 million study aims to help the military figure out how much blast exposure, over time, is too much.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/05/522613294/do-u-s-troops-risk-brain-injury-when-they-fire-heavy-weapons">http://www.npr.org/sections/health-shots/2017/04/05/522613294/do-u-s-troops-risk-brain-injury-when-they-fire-heavy-weapons</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/carl-gustav-1_wide-c94115e5f338b0711089c3ff95cee7d485b4c6d3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>286</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/04/522598144/video-badger-burying-a-cow-surprises-scientists</guid>
       <title>VIDEO: Badger Burying A Cow Surprises Scientists</title>
@@ -239,21 +256,6 @@ March 30, 2017 - The sunken Hero, an Antarctic research vessel from the 1960s, i
 
 <a href="http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters">http://www.npr.org/sections/thesalt/2017/03/30/521666711/a-forgotten-shipwreck-imperils-washingtons-oysters</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/27/20170327_willapa-bay-sink_ms-2_wide-cd7f728512424ec165e801db661e991eeb89da68-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science</guid>
-      <title>A Surprising Explanation For Why Some Immigrants Excel In Science</title>
-      <link>http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science</link>
-      <description>March 30, 2017 - It has to do with language learning, according to a new study from Duke University.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science</description>
-      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/bilingual_final-cbeck_wide-481550bd6cb67dcde384a87ac69c50d062ac46fc-s800-c15.jpg"></a>
-
-March 30, 2017 - It has to do with language learning, according to a new study from Duke University.
-
-<a href="http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science">http://www.npr.org/sections/ed/2017/03/30/521794961/a-surprising-explanation-for-why-some-immigrants-excel-in-science</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/bilingual_final-cbeck_wide-481550bd6cb67dcde384a87ac69c50d062ac46fc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
