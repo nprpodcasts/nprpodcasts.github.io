@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 21:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 19:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 21:00:33 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 19:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</guid>
+      <title>Comcast Goes Mobile With Cellphone Service For Existing Customers</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</link>
+      <description>April 6, 2017 - Comcast&#39;s new cellphone offer will use Verizon&#39;s wireless network and Comcast&#39;s own Wi-Fi hotspots. Xfinity Mobile offers prices that are generally cheaper than major wireless carriers.</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/ap_17096478395400_wide-183f0e3af5fc378bd2a86d2b43c2f5cff7a6290f-s800-c15.jpg"></a>
+
+April 6, 2017 - Comcast's new cellphone offer will use Verizon's wireless network and Comcast's own Wi-Fi hotspots. Xfinity Mobile offers prices that are generally cheaper than major wireless carriers.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers">http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/ap_17096478395400_wide-183f0e3af5fc378bd2a86d2b43c2f5cff7a6290f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_amazon_to_refund_millions_in_unauthorized_in-app_purchases.mp3?orgId=1&amp;topicId=1049&amp;d=119&amp;p=3&amp;story=522826507&amp;t=progseg&amp;e=522826463&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Amazon To Refund Millions In Unauthorized In-App Purchases</title>
+      <link>http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</link>
+      <description>April 6, 2017 - The Federal Trade Commission sued Amazon and other companies after children racked up millions of dollars of in-app purchases without their parents&#39; knowledge. The FTC and Amazon have dropped appeals.</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_amazon_to_refund_millions_in_unauthorized_in-app_purchases.mp3?orgId=1&amp;topicId=1049&amp;d=119&amp;p=3&amp;story=522826507&amp;t=progseg&amp;e=522826463&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 6, 2017 - The Federal Trade Commission sued Amazon and other companies after children racked up millions of dollars of in-app purchases without their parents' knowledge. The FTC and Amazon have dropped appeals.
+
+<a href="http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases">http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/05/521835755/what-should-we-make-of-the-tweetstorm-or-thread-or-whatever-you-call-it</guid>
       <title>What Should We Make Of The &#39;Tweetstorm&#39; or &#39;Thread,&#39; Or Whatever You Call It?</title>
@@ -228,38 +258,6 @@ April 3, 2017 - Currently, insurance rates are calculated based on drivers' clai
 <a href="http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets">http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>214</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</guid>
-      <title>Meet 2 Race Sleuths Trying to Keep Marathoners Honest</title>
-      <link>http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</link>
-      <description>April 2, 2017 - Spring is a busy season for runners — and for the sleuths sniffing out race cheats. With an eye on the Boston Marathon, amateur investigators use math and methodology to protect the sport&#39;s integrity.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/07/istock-506979575_wide-49d3d315685c159ea885d7bb9bfd98c2b4ad2018-s800-c15.jpg"></a>
-
-April 2, 2017 - Spring is a busy season for runners — and for the sleuths sniffing out race cheats. With an eye on the Boston Marathon, amateur investigators use math and methodology to protect the sport's integrity.
-
-<a href="http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest">http://www.npr.org/2017/04/02/518811503/meet-two-race-sleuths-trying-to-keep-marathoners-honest</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/07/istock-506979575_wide-49d3d315685c159ea885d7bb9bfd98c2b4ad2018-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_from_wristwatches_to_radio_how_world_war_i_ushered_in_the_modern_world.mp3?orgId=1&amp;topicId=1136&amp;d=225&amp;p=10&amp;story=521792062&amp;t=progseg&amp;e=522357112&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>From Wristwatches To Radio, How World War I Ushered In The Modern World</title>
-      <link>http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world</link>
-      <description>April 2, 2017 - The war is remembered for trench warfare, millions of deaths and the failure to bring lasting peace. But it also brought together emerging technologies, remaking life on and off the battlefield.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_from_wristwatches_to_radio_how_world_war_i_ushered_in_the_modern_world.mp3?orgId=1&amp;topicId=1136&amp;d=225&amp;p=10&amp;story=521792062&amp;t=progseg&amp;e=522357112&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/28/ap_903037768936_wide-d3c48c6e2d0dec0a7175c65a8c6702b7dad02637-s800-c15.jpg"></a>
-
-April 2, 2017 - The war is remembered for trench warfare, millions of deaths and the failure to bring lasting peace. But it also brought together emerging technologies, remaking life on and off the battlefield.
-
-<a href="http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world">http://www.npr.org/sections/parallels/2017/04/02/521792062/from-wristwatches-to-radio-how-world-war-i-ushered-in-the-modern-world</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/ap_903037768936_wide-d3c48c6e2d0dec0a7175c65a8c6702b7dad02637-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

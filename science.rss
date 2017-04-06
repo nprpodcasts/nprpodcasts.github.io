@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2017 23:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 19:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Apr 2017 23:39:53 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 19:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,48 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</guid>
+      <title>In Giant Virus Genes, Hints About Their Mysterious Origin</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</link>
+      <description>April 6, 2017 - They&#39;re the Godzillas of the virus world, pushing the limit of what is considered alive. Researchers are trying to figure out where they came from. (And no, they aren&#39;t known to make people sick.)</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s800-c15.jpg"></a>
+
+April 6, 2017 - They're the Godzillas of the virus world, pushing the limit of what is considered alive. Researchers are trying to figure out where they came from. (And no, they aren't known to make people sick.)
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin">http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_how_flawed_science_is_undermining_good_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=426&amp;p=3&amp;story=522262881&amp;t=progseg&amp;e=522826463&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Flawed Science Is Undermining Good Medicine</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine</link>
+      <description>April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical research aimed at finding better treatments. But competition for scarce funding and tenure may be prompting some scientists to cut corners.</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_how_flawed_science_is_undermining_good_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=426&amp;p=3&amp;story=522262881&amp;t=progseg&amp;e=522826463&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/lab-research_wide-325b644acd7d34e1f1c229f81257b775be9f0952-s800-c15.jpg"></a>
+
+April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical research aimed at finding better treatments. But competition for scarce funding and tenure may be prompting some scientists to cut corners.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine">http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/lab-research_wide-325b644acd7d34e1f1c229f81257b775be9f0952-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>426</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_james_bakers_life_after_politics.mp3?orgId=1&amp;topicId=1091&amp;d=297&amp;p=2&amp;story=522756860&amp;t=progseg&amp;e=522705705&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ex-Secretary Of State Advocates Causes Not Key On Modern Republic Agenda</title>
-      <link>http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-on-modern-republic-agenda</link>
-      <description>April 5, 2017 - James Baker--who served in two Republican White Houses--is writing about causes that don&#39;t figure prominently on the modern Republican agenda. He&#39;s advocating a global ban on the sale of ivory.</description>
+      <title>Ex-Secretary Of State Advocates Causes Not Key In Modern Republican Agenda</title>
+      <link>http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-in-modern-republican-agenda</link>
+      <description>April 5, 2017 - James Baker, who served in two Republican White Houses, is writing about causes that don&#39;t figure prominently in the modern Republican agenda. He&#39;s advocating a global ban on the sale of ivory.</description>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_james_bakers_life_after_politics.mp3?orgId=1&amp;topicId=1091&amp;d=297&amp;p=2&amp;story=522756860&amp;t=progseg&amp;e=522705705&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 5, 2017 - James Baker--who served in two Republican White Houses--is writing about causes that don't figure prominently on the modern Republican agenda. He's advocating a global ban on the sale of ivory.
+      <itunes:summary><![CDATA[April 5, 2017 - James Baker, who served in two Republican White Houses, is writing about causes that don't figure prominently in the modern Republican agenda. He's advocating a global ban on the sale of ivory.
 
-<a href="http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-on-modern-republic-agenda">http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-on-modern-republic-agenda</a>]]></itunes:summary>
+<a href="http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-in-modern-republican-agenda">http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-in-modern-republican-agenda</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>297</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -196,11 +228,11 @@ April 3, 2017 - Savoring the flavor of wine activates more gray matter than solv
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_china_poised_to_fill_leadership_void_on_climate_policy_with_economic_incentives.mp3?orgId=1&amp;topicId=1125&amp;d=341&amp;p=2&amp;story=522394985&amp;t=progseg&amp;e=522389021&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>China Poised To Fill Leadership Void On Climate Policy – With Economic Incentives</title>
       <link>http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives</link>
-      <description>April 2, 2017 - Trump signed an executive order this week that will begin to roll back some of Obama&#39;s signature climate change policies. Georgetown University&#39;s Varum Sivaram explains what that could mean for China.</description>
+      <description>April 2, 2017 - President Trump signed an executive order to roll back climate change policies made by the Obama administration. Varun Sivaram at the Council on Foreign Relations explains what this means for China.</description>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170402_atc_china_poised_to_fill_leadership_void_on_climate_policy_with_economic_incentives.mp3?orgId=1&amp;topicId=1125&amp;d=341&amp;p=2&amp;story=522394985&amp;t=progseg&amp;e=522389021&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 2, 2017 - Trump signed an executive order this week that will begin to roll back some of Obama's signature climate change policies. Georgetown University's Varum Sivaram explains what that could mean for China.
+      <itunes:summary><![CDATA[April 2, 2017 - President Trump signed an executive order to roll back climate change policies made by the Obama administration. Varun Sivaram at the Council on Foreign Relations explains what this means for China.
 
 <a href="http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives">http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -222,36 +254,6 @@ March 31, 2017 - Artist and philosopher Jonathon Keats didn't need to create any
 <a href="http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems">http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/turtle.camo.street.biomimic_wide-70084c5755d8122322757d04c43e944ecd6ac742-s3000-c15.jpg"></itunes:image>
       <itunes:duration>643</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/03/31/521793691/a-tiny-fish-with-fearsome-fangs-uses-an-opioid-like-venom-to-escape-enemies</guid>
-      <title>A Tiny Fish With Fearsome Fangs Uses An Opioid-Like Venom To Escape Enemies</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/03/31/521793691/a-tiny-fish-with-fearsome-fangs-uses-an-opioid-like-venom-to-escape-enemies</link>
-      <description>March 31, 2017 - New research shows the 2-inch fangblenny bites bigger fish and releases an opioid-based venom. The larger fish becomes disoriented, and the little guy gets away.</description>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/fangblenny_wide-97886c39eb6b65921ebb735bca69e918d4099576-s800-c15.jpg"></a>
-
-March 31, 2017 - New research shows the 2-inch fangblenny bites bigger fish and releases an opioid-based venom. The larger fish becomes disoriented, and the little guy gets away.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/03/31/521793691/a-tiny-fish-with-fearsome-fangs-uses-an-opioid-like-venom-to-escape-enemies">http://www.npr.org/sections/thetwo-way/2017/03/31/521793691/a-tiny-fish-with-fearsome-fangs-uses-an-opioid-like-venom-to-escape-enemies</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/fangblenny_wide-97886c39eb6b65921ebb735bca69e918d4099576-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks</guid>
-      <title>Forcing People At Vending Machines To Wait Nudges Them To Buy Healthier Snacks</title>
-      <link>http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks</link>
-      <description>March 31, 2017 - Buy an unhealthy snack and these vending machines take away 25 seconds of your life you&#39;ll never get back. Healthy fare drops instantly. Research suggests this &#34;time tax&#34; helps us make better choices.</description>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/ap_05121507613_wide-e9c51ea90b82fd2fa93e59e7a62fd0d19adaf2bc-s800-c15.jpg"></a>
-
-March 31, 2017 - Buy an unhealthy snack and these vending machines take away 25 seconds of your life you'll never get back. Healthy fare drops instantly. Research suggests this "time tax" helps us make better choices.
-
-<a href="http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks">http://www.npr.org/sections/thesalt/2017/03/31/522189753/forcing-people-at-vending-machines-to-wait-nudges-them-to-buy-healthier-snacks</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/ap_05121507613_wide-e9c51ea90b82fd2fa93e59e7a62fd0d19adaf2bc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
