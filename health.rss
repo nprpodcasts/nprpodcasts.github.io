@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 21:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 22:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 21:00:22 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 22:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -67,11 +67,12 @@ April 6, 2017 - They're the Godzillas of the virus world, pushing the limit of w
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/06/521248448/fentanyl-adds-a-new-terror-for-people-abusing-opioids</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_fentanyl_adds_a_new_terror_for_people_abusing_opioids.mp3?orgId=329&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=521248448&amp;t=progseg&amp;e=522832310&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Fentanyl Adds A New Terror For People Abusing Opioids</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/06/521248448/fentanyl-adds-a-new-terror-for-people-abusing-opioids</link>
       <description>April 6, 2017 - People who abuse opioids are well aware of the risk posed by fentanyl, a powerful anesthetic that&#39;s increasingly slipped into heroin and other drugs. They&#39;re coming up with new tactics to survive.</description>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_fentanyl_adds_a_new_terror_for_people_abusing_opioids.mp3?orgId=329&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=521248448&amp;t=progseg&amp;e=522832310&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/23/0215_fenatyl-hi03_wide-e0effe1e292d101de3a7c987777a3d99f9a8d19e-s800-c15.jpg"></a>
 
@@ -79,6 +80,7 @@ April 6, 2017 - People who abuse opioids are well aware of the risk posed by fen
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/06/521248448/fentanyl-adds-a-new-terror-for-people-abusing-opioids">http://www.npr.org/sections/health-shots/2017/04/06/521248448/fentanyl-adds-a-new-terror-for-people-abusing-opioids</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/23/0215_fenatyl-hi03_wide-e0effe1e292d101de3a7c987777a3d99f9a8d19e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
