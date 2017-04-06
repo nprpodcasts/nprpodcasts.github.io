@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 19:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 21:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 19:00:10 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 21:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</guid>
+      <title>Bison Or Brian? From A Calorie Perspective, Cannibalism Didn&#39;t Pay For Paleo Humans</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</link>
+      <description>April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why&#39;d they do it?</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s800-c15.jpg"></a>
+
+April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why'd they do it?
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</guid>
       <title>In Giant Virus Genes, Hints About Their Mysterious Origin</title>
@@ -237,23 +252,6 @@ April 3, 2017 - Savoring the flavor of wine activates more gray matter than solv
 <a href="http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives">http://www.npr.org/2017/04/02/522394985/china-poised-to-fill-leadership-void-on-climate-policy-with-economic-incentives</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>341</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/han/2017/03/20170331_han_biomimicry.mp3?orgId=1&amp;topicId=1007&amp;d=643&amp;story=522226096&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Artist&#39;s Exhibit Borrows Human Tech To Solve Nature&#39;s Manmade Problems</title>
-      <link>http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems</link>
-      <description>March 31, 2017 - Artist and philosopher Jonathon Keats didn&#39;t need to create anything new to show the absurdity of human problem-solving. All he had to do was give human technology to animals.</description>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/han/2017/03/20170331_han_biomimicry.mp3?orgId=1&amp;topicId=1007&amp;d=643&amp;story=522226096&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/31/turtle.camo.street.biomimic_wide-70084c5755d8122322757d04c43e944ecd6ac742-s800-c15.jpg"></a>
-
-March 31, 2017 - Artist and philosopher Jonathon Keats didn't need to create anything new to show the absurdity of human problem-solving. All he had to do was give human technology to animals.
-
-<a href="http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems">http://www.npr.org/2017/03/31/522226096/artists-exhibit-borrows-human-tech-to-solve-natures-manmade-problems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/turtle.camo.street.biomimic_wide-70084c5755d8122322757d04c43e944ecd6ac742-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>643</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

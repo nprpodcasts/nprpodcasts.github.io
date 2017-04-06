@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 19:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 21:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 19:00:11 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 21:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</guid>
+      <title>Bison Or Brian? From A Calorie Perspective, Cannibalism Didn&#39;t Pay For Paleo Humans</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</link>
+      <description>April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why&#39;d they do it?</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s800-c15.jpg"></a>
+
+April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why'd they do it?
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</guid>
+      <title>CDC Issues New Warning On Zika Virus Ahead Of Mosquito Season</title>
+      <link>http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</link>
+      <description>April 6, 2017 - NPR&#39;s Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team&#39;s Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 6, 2017 - NPR's Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team's Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.
+
+<a href="http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season">http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</guid>
       <title>In Giant Virus Genes, Hints About Their Mysterious Origin</title>
@@ -224,38 +252,6 @@ April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers ch
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk">http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/testing-tube_wide-e83a655af4207e906e6225ebbcc3cb3c3206d1a4-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</guid>
-      <title>Trump Team Urges Skimpier Health Plans To Lure More People To Buy Insurance</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</link>
-      <description>April 4, 2017 - A rule proposed by the Trump administration would likely raise the deductibles and copays of new policies sold on the exchanges, starting next fall. Monthly premiums would likely be cheaper.</description>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/03/health-insurance-magnet_wide-96e00cfd462f31e3d2dd600498239ceb0c857797-s800-c15.jpg"></a>
-
-April 4, 2017 - A rule proposed by the Trump administration would likely raise the deductibles and copays of new policies sold on the exchanges, starting next fall. Monthly premiums would likely be cheaper.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance">http://www.npr.org/sections/health-shots/2017/04/04/522482563/trump-team-urges-skimpier-health-plans-to-lure-more-people-to-buy-insurance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/health-insurance-magnet_wide-96e00cfd462f31e3d2dd600498239ceb0c857797-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_overweight_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=522475728&amp;t=progseg&amp;e=522501413&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Carrying Some Extra Pounds May Not Be Good After All</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all</link>
-      <description>April 3, 2017 - A new study finds that people who are overweight, but not obese, have shorter life spans. It&#39;s the opposite of a 2013 study that got a lot of attention by finding a few pounds might be good for you.</description>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_overweight_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=522475728&amp;t=progseg&amp;e=522501413&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/03/gettyimages-170123579_wide-fdcd2c441343a4134709b282026810bac24edfb5-s800-c15.jpg"></a>
-
-April 3, 2017 - A new study finds that people who are overweight, but not obese, have shorter life spans. It's the opposite of a 2013 study that got a lot of attention by finding a few pounds might be good for you.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all">http://www.npr.org/sections/health-shots/2017/04/03/522475728/carrying-some-extra-pounds-may-not-be-good-after-all</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/gettyimages-170123579_wide-fdcd2c441343a4134709b282026810bac24edfb5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
