@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 23:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 22:00:07 +0000</pubDate>
+    <pubDate>Thu, 06 Apr 2017 23:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -39,24 +39,27 @@ April 6, 2017 - Archaeological records show ancient humans sometimes ate each ot
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_cdc_issues_new_warning_on_zika_virus_ahead_of_mosquito_season.mp3?orgId=1&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=522903447&amp;t=progseg&amp;e=522832310&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>CDC Issues New Warning On Zika Virus Ahead Of Mosquito Season</title>
       <link>http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</link>
       <description>April 6, 2017 - NPR&#39;s Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team&#39;s Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.</description>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_cdc_issues_new_warning_on_zika_virus_ahead_of_mosquito_season.mp3?orgId=1&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=522903447&amp;t=progseg&amp;e=522832310&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 6, 2017 - NPR's Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team's Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.
 
 <a href="http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season">http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_in_giant_virus_genes_hints_about_their_mysterious_origin.mp3?orgId=1&amp;topicId=1007&amp;d=188&amp;p=2&amp;story=522478901&amp;t=progseg&amp;e=522832310&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Giant Virus Genes, Hints About Their Mysterious Origin</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</link>
       <description>April 6, 2017 - They&#39;re the Godzillas of the virus world, pushing the limit of what is considered alive. Researchers are trying to figure out where they came from. (And no, they aren&#39;t known to make people sick.)</description>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_in_giant_virus_genes_hints_about_their_mysterious_origin.mp3?orgId=1&amp;topicId=1007&amp;d=188&amp;p=2&amp;story=522478901&amp;t=progseg&amp;e=522832310&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s800-c15.jpg"></a>
 
@@ -64,6 +67,7 @@ April 6, 2017 - They're the Godzillas of the virus world, pushing the limit of w
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin">http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
