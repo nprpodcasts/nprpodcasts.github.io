@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 23:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 23:00:08 +0000</pubDate>
+    <pubDate>Fri, 07 Apr 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,40 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_02.mp3?orgId=1&amp;topicId=1025&amp;d=535&amp;p=57&amp;story=522856713&amp;t=progseg&amp;e=522852772&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>James Hansen: What Makes A Scientist Take A Stand? </title>
+      <link>http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</link>
+      <description>April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he risked the loss of his job and reputation. But, he says, it was worth it — because he could not be silent about something so important.</description>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_02.mp3?orgId=1&amp;topicId=1025&amp;d=535&amp;p=57&amp;story=522856713&amp;t=progseg&amp;e=522852772&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s800-c15.jpg"></a>
+
+April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he risked the loss of his job and reputation. But, he says, it was worth it — because he could not be silent about something so important.
+
+<a href="http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand">http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>535</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_in_diabetes_fight_lifestyle_changes_prove_hard_to_come_by_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=307&amp;p=3&amp;story=522596080&amp;t=progseg&amp;e=522968409&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Diabetes Fight, Lifestyle Changes Prove Hard To Come By In Mexico</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico</link>
+      <description>April 7, 2017 - To curb diabetes, Mexico is trying to get people to cut down on soda, eat more healthful foods and exercise. But changing people&#39;s habits is easier said than done.</description>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_in_diabetes_fight_lifestyle_changes_prove_hard_to_come_by_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=307&amp;p=3&amp;story=522596080&amp;t=progseg&amp;e=522968409&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/doctor-running_wide-c115a378b20e51871e7ddf85fc492443ad2906f0-s800-c15.jpg"></a>
+
+April 7, 2017 - To curb diabetes, Mexico is trying to get people to cut down on soda, eat more healthful foods and exercise. But changing people's habits is easier said than done.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico">http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/doctor-running_wide-c115a378b20e51871e7ddf85fc492443ad2906f0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>307</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</guid>
       <title>Bison Or Brian? From A Calorie Perspective, Cannibalism Didn&#39;t Pay For Paleo Humans</title>
@@ -228,36 +262,6 @@ April 4, 2017 - The administration claims the U.N. population agency supports Ch
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency">http://www.npr.org/sections/goatsandsoda/2017/04/04/522040557/citing-abortions-in-china-trump-cuts-funds-for-u-n-family-planning-agency</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/gettyimages-526508604-90_wide-a0c6377fef7f614239075c8f85285417c700aa03-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</guid>
-      <title>51 Babies Born With Zika-Related Birth Defects In The U.S. Last Year</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</link>
-      <description>April 4, 2017 - The Zika virus continues to impact a small number of pregnant women and their babies in the U.S., and there is no sign of it slowing down. &#34;Zika is here to stay,&#34; the CDC&#39;s acting director says.</description>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/zika-us-1_wide-fdd2bb5d8d5b10c6bbeb8474fa5fbd851f67adbc-s800-c15.jpg"></a>
-
-April 4, 2017 - The Zika virus continues to impact a small number of pregnant women and their babies in the U.S., and there is no sign of it slowing down. "Zika is here to stay," the CDC's acting director says.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year">http://www.npr.org/sections/health-shots/2017/04/04/522569622/51-babies-born-with-zika-related-birth-defects-in-the-u-s-last-year</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/zika-us-1_wide-fdd2bb5d8d5b10c6bbeb8474fa5fbd851f67adbc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</guid>
-      <title>Taking Shortcuts In Drug Testing Can Put Patients At Risk</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</link>
-      <description>April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don&#39;t show true benefits and harms.</description>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/testing-tube_wide-e83a655af4207e906e6225ebbcc3cb3c3206d1a4-s800-c15.jpg"></a>
-
-April 4, 2017 - Researchers use intermediate endpoints like how a drug lowers cholesterol to get a quick sense of whether the drug might improve health. But those shortcuts often don't show true benefits and harms.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk">http://www.npr.org/sections/health-shots/2017/04/04/522583228/taking-shortcuts-in-drug-testing-can-put-patients-at-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/testing-tube_wide-e83a655af4207e906e6225ebbcc3cb3c3206d1a4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

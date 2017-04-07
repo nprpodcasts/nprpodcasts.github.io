@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2017 00:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 14:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 07 Apr 2017 00:00:05 +0000</pubDate>
+    <pubDate>Fri, 07 Apr 2017 14:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_morning_news_brief_trump_orders_syria_airstrikes_hosts_chinese_president.mp3?orgId=1&amp;topicId=1004&amp;d=620&amp;p=3&amp;story=522968561&amp;t=progseg&amp;e=522968409&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Morning News Brief: Trump Orders Syria Airstrikes, Hosts Chinese President</title>
+      <link>http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president</link>
+      <description>April 7, 2017 - President Trump says he ordered strikes against a Syrian air base in response to a chemical weapons attack ordered by Bashar Assad. Also, Trump met with China&#39;s President Xi Jinping.</description>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_morning_news_brief_trump_orders_syria_airstrikes_hosts_chinese_president.mp3?orgId=1&amp;topicId=1004&amp;d=620&amp;p=3&amp;story=522968561&amp;t=progseg&amp;e=522968409&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 7, 2017 - President Trump says he ordered strikes against a Syrian air base in response to a chemical weapons attack ordered by Bashar Assad. Also, Trump met with China's President Xi Jinping.
+
+<a href="http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president">http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>620</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</guid>
       <title>Twitter Sues Homeland Security To Protect Anonymity Of &#39;Alt Immigration&#39; Account</title>
@@ -243,21 +258,6 @@ April 3, 2017 - Currently, insurance rates are calculated based on drivers' clai
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance">http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/ap_957431211041_wide-e84d934556b3dfdfe342cb39cb4dfc44107b2819-s3000-c15.jpg"></itunes:image>
       <itunes:duration>240</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_arizona_solar.mp3?orgId=95&amp;topicId=1006&amp;d=232&amp;p=10&amp;story=522357476&amp;t=progseg&amp;e=522357112&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Solar Power Advocates Undeterred By Trump&#39;s Climate Policies</title>
-      <link>http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies</link>
-      <description>April 2, 2017 - Some worry that President Trump&#39;s rollback in climate policy will hurt renewable energy. But in Arizona, a state that has embraced solar energy, those in the industry say the outlook is still bright.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_arizona_solar.mp3?orgId=95&amp;topicId=1006&amp;d=232&amp;p=10&amp;story=522357476&amp;t=progseg&amp;e=522357112&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 2, 2017 - Some worry that President Trump's rollback in climate policy will hurt renewable energy. But in Arizona, a state that has embraced solar energy, those in the industry say the outlook is still bright.
-
-<a href="http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies">http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
