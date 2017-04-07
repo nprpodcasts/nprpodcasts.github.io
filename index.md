@@ -2,5 +2,12 @@
 title: NPR Podcasts (Legacy Edition)
 ---
 
-Coming soon, a way to access all your favorite podcasts that are no longer available at NPR.
+Here are NPR's Legacy Podcasts:
 
+https://nprpodcasts.github.io/health.rss
+
+https://nprpodcasts.github.io/science.rss
+
+https://nprpodcasts.github.io/technology.rss
+
+More to come...
