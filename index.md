@@ -6,11 +6,11 @@ title: NPR Podcasts (Legacy Edition)
 
 Below are links to the current Podcasts this site produces:
 
-(NPR Health & Science)[https://nprpodcasts.github.io/health.rss]
+[NPR Health & Science](https://nprpodcasts.github.io/health.rss)
 
-(NPR Science)[https://nprpodcasts.github.io/science.rss]
+[NPR Science](https://nprpodcasts.github.io/science.rss)
 
-(NPR Technology)[https://nprpodcasts.github.io/technology.rss]
+[NPR Technology](https://nprpodcasts.github.io/technology.rss)
 
 ## News
 
