@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 19:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 00:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Apr 2017 19:00:09 +0000</pubDate>
+    <pubDate>Fri, 07 Apr 2017 00:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</guid>
+      <title>Twitter Sues Homeland Security To Protect Anonymity Of &#39;Alt Immigration&#39; Account</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</link>
+      <description>April 6, 2017 - After the Trump administration set limits on some government Twitter accounts, anonymous &#34;rogue accounts&#34; popped up. Homeland Security demanded to know who was behind one; Twitter is fighting back.</description>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/screen-shot-2017-04-06-at-6.25.08-pm_wide-44cabc7df78e466854877d87cb6ee28dc68865f8-s800-c15.png"></a>
+
+April 6, 2017 - After the Trump administration set limits on some government Twitter accounts, anonymous "rogue accounts" popped up. Homeland Security demanded to know who was behind one; Twitter is fighting back.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account">http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/screen-shot-2017-04-06-at-6.25.08-pm_wide-44cabc7df78e466854877d87cb6ee28dc68865f8-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</guid>
       <title>Comcast Goes Mobile With Cellphone Service For Existing Customers</title>
@@ -243,21 +258,6 @@ April 3, 2017 - Currently, insurance rates are calculated based on drivers' clai
 <a href="http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies">http://www.npr.org/2017/04/02/522357476/solar-power-advocates-undeterred-by-trumps-climate-policies</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_trump_twitter_parody.mp3?orgId=1&amp;topicId=1048&amp;d=214&amp;p=10&amp;story=522357462&amp;t=progseg&amp;e=522357112&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Actors Give Voice To Trump&#39;s Tweets</title>
-      <link>http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets</link>
-      <description>April 2, 2017 - As long as there have been national leaders, there have been court jesters. Whether skewering the boss on stage, on TV or now, on Twitter, it&#39;s a tradition satirists take seriously.</description>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170402_wesun_trump_twitter_parody.mp3?orgId=1&amp;topicId=1048&amp;d=214&amp;p=10&amp;story=522357462&amp;t=progseg&amp;e=522357112&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 2, 2017 - As long as there have been national leaders, there have been court jesters. Whether skewering the boss on stage, on TV or now, on Twitter, it's a tradition satirists take seriously.
-
-<a href="http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets">http://www.npr.org/2017/04/02/522357462/actors-give-voice-to-trumps-tweets</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
