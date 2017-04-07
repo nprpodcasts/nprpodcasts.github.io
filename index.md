@@ -1,2 +1,2 @@
-Coming soon, a way to access all your legacy NPR Podcasts that are no longer available.
+Coming soon, a way to access all your favorite podcasts that are no longer available at NPR.
 
