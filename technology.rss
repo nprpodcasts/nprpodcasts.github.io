@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2017 13:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Apr 2017 13:00:19 +0000</pubDate>
+    <pubDate>Sat, 08 Apr 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</guid>
+      <title>Google Accused Of Underpaying Female Employees</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</link>
+      <description>April 8, 2017 - The U.S. Department of Labor is investigating Google for what an official called &#34;systemic compensation disparities&#34; between men and women. The government is suing the company to release its records.</description>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/08/ap_16323202356230_wide-d4cf20c8f481cabc8db57d8735aeb848ebb27d50-s800-c15.jpg"></a>
+
+April 8, 2017 - The U.S. Department of Labor is investigating Google for what an official called "systemic compensation disparities" between men and women. The government is suing the company to release its records.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees">http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/08/ap_16323202356230_wide-d4cf20c8f481cabc8db57d8735aeb848ebb27d50-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</guid>
       <title>Taser Changes Its Name To Axon And Offers Free Body Cameras For Police </title>
@@ -235,21 +250,6 @@ April 4, 2017 - When he invented the Web 28 years ago, Tim Berners-Lee saw it as
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become">http://www.npr.org/sections/alltechconsidered/2017/04/04/522593360/the-father-of-the-web-is-worried-about-how-ugly-its-become</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/gettyimages-143034371-1-_wide-aa4549c59af1a938aa95ef6b2e50d351ecc39049-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</guid>
-      <title>How Two Georgia Tech Students Came Up With The Common App For Internships</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</link>
-      <description>April 4, 2017 - Students create their profile and can apply for several internships with one click. Currently, InternBlitz is available to students at Georgia Tech, but there are plans to add more campuses soon.</description>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/31/internblitz-founders_wide-594dd1784f9991bbc484bc6c52a1b18038d4fefb-s800-c15.jpg"></a>
-
-April 4, 2017 - Students create their profile and can apply for several internships with one click. Currently, InternBlitz is available to students at Georgia Tech, but there are plans to add more campuses soon.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships">http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/internblitz-founders_wide-594dd1784f9991bbc484bc6c52a1b18038d4fefb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
