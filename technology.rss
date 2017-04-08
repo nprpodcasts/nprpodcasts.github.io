@@ -6,11 +6,11 @@
     <description>Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed.</description>
     <category>Technology</category>
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
-    <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
+    <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2017 14:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 13:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 07 Apr 2017 14:00:19 +0000</pubDate>
+    <pubDate>Sat, 08 Apr 2017 13:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</guid>
+      <title>Taser Changes Its Name To Axon And Offers Free Body Cameras For Police </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</link>
+      <description>April 7, 2017 - Axon, which is the name of the company&#39;s line of body cameras, says it will send law enforcement agencies one body camera per sworn officer to use for a year.</description>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/gettyimages-464977016_wide-5062b442a880f6f86c8a6444594852680de00974-s800-c15.jpg"></a>
+
+April 7, 2017 - Axon, which is the name of the company's line of body cameras, says it will send law enforcement agencies one body camera per sworn officer to use for a year.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name">http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/gettyimages-464977016_wide-5062b442a880f6f86c8a6444594852680de00974-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity</guid>
+      <title>Twitter Withdraws Lawsuit After DHS Drops Demands For Alt-Account&#39;s Identity</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity</link>
+      <description>April 7, 2017 - The social media giant alleged that the Department of Homeland Security was illegally trying to identify the anonymous @ALT_uscis account. In its latest filing, Twitter says the summons was withdrawn.</description>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 7, 2017 - The social media giant alleged that the Department of Homeland Security was illegally trying to identify the anonymous @ALT_uscis account. In its latest filing, Twitter says the summons was withdrawn.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity">http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_morning_news_brief_trump_orders_syria_airstrikes_hosts_chinese_president.mp3?orgId=1&amp;topicId=1004&amp;d=620&amp;p=3&amp;story=522968561&amp;t=progseg&amp;e=522968409&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Morning News Brief: Trump Orders Syria Airstrikes, Hosts Chinese President</title>
@@ -81,6 +109,21 @@ April 6, 2017 - Comcast's new cellphone offer will use Verizon's wireless networ
 <a href="http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases">http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>119</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</guid>
+      <title>Are We Witnessing The Beginning Of The End For Free Music Streaming?</title>
+      <link>http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</link>
+      <description>April 5, 2017 - Spotify has long evangelized free listening as a way to pull users in to paying for its service. The music industry&#39;s patience with the strategy seems to have run out.</description>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/05/gettyimages-157769158_wide-7a8140fb6aa59a793d79f8f50331a4e747d65186-s800-c15.jpg"></a>
+
+April 5, 2017 - Spotify has long evangelized free listening as a way to pull users in to paying for its service. The music industry's patience with the strategy seems to have run out.
+
+<a href="http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming">http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/gettyimages-157769158_wide-7a8140fb6aa59a793d79f8f50331a4e747d65186-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -207,57 +250,6 @@ April 4, 2017 - Students create their profile and can apply for several internsh
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships">http://www.npr.org/sections/alltechconsidered/2017/04/04/522038496/how-two-georgia-tech-students-came-up-with-the-common-app-for-internships</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/internblitz-founders_wide-594dd1784f9991bbc484bc6c52a1b18038d4fefb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_how_russian_twitter_bots_pumped_out_fake_news_during_the_2016_election.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=522503844&amp;t=progseg&amp;e=522501413&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Russian Twitter Bots Pumped Out Fake News During The 2016 Election</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election</link>
-      <description>April 3, 2017 - Clint Watts, a former FBI agent, describes a diffuse network of Russian hackers and propagandists conducting a misinformation campaign that didn&#39;t stop with the election of President Trump.</description>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_how_russian_twitter_bots_pumped_out_fake_news_during_the_2016_election.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=522503844&amp;t=progseg&amp;e=522501413&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/03/gettyimages-660571732_wide-2c2a23f9ba0cb535b9af8868dc20acc80256589c-s800-c15.jpg"></a>
-
-April 3, 2017 - Clint Watts, a former FBI agent, describes a diffuse network of Russian hackers and propagandists conducting a misinformation campaign that didn't stop with the election of President Trump.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election">http://www.npr.org/sections/alltechconsidered/2017/04/03/522503844/how-russian-twitter-bots-pumped-out-fake-news-during-the-2016-election</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/gettyimages-660571732_wide-2c2a23f9ba0cb535b9af8868dc20acc80256589c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>257</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_pittsburgh_offers_driving_lessons_for_ubers_autonomous_cars_.mp3?orgId=1&amp;topicId=1019&amp;d=460&amp;p=2&amp;story=522099560&amp;t=progseg&amp;e=522501413&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Pittsburgh Offers Driving Lessons For Uber&#39;s Autonomous Cars </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</link>
-      <description>April 3, 2017 - Uber has been testing driverless cars in the city for the past six months. Local officials are happy for the investment the experiment brings and for the boost to the city&#39;s reputation as a tech hub.</description>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170403_atc_pittsburgh_offers_driving_lessons_for_ubers_autonomous_cars_.mp3?orgId=1&amp;topicId=1019&amp;d=460&amp;p=2&amp;story=522099560&amp;t=progseg&amp;e=522501413&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s800-c15.jpg"></a>
-
-April 3, 2017 - Uber has been testing driverless cars in the city for the past six months. Local officials are happy for the investment the experiment brings and for the boost to the city's reputation as a tech hub.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars">http://www.npr.org/sections/alltechconsidered/2017/04/03/522099560/pittsburgh-offers-driving-lessons-for-ubers-autonomous-cars</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/032117-pittsburgh-65-_wide-2305dc4bdd0b4f1ef7f5520c1bd0517accd2f9c9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>460</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170403_me_self-driving_cars_raise_questions_about_who_carries_insurance.mp3?orgId=1&amp;topicId=1006&amp;d=240&amp;p=3&amp;story=522222975&amp;t=progseg&amp;e=522418464&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Self-Driving Cars Raise Questions About Who Carries Insurance</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance</link>
-      <description>April 3, 2017 - Currently, insurance rates are calculated based on drivers&#39; claims histories and driving records. Driverless cars are expected to shift the liability toward carmakers. But it won&#39;t happen all at once.</description>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170403_me_self-driving_cars_raise_questions_about_who_carries_insurance.mp3?orgId=1&amp;topicId=1006&amp;d=240&amp;p=3&amp;story=522222975&amp;t=progseg&amp;e=522418464&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/03/31/ap_957431211041_wide-e84d934556b3dfdfe342cb39cb4dfc44107b2819-s800-c15.jpg"></a>
-
-April 3, 2017 - Currently, insurance rates are calculated based on drivers' claims histories and driving records. Driverless cars are expected to shift the liability toward carmakers. But it won't happen all at once.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance">http://www.npr.org/sections/alltechconsidered/2017/04/03/522222975/self-driving-cars-raise-questions-about-who-carries-insurance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/31/ap_957431211041_wide-e84d934556b3dfdfe342cb39cb4dfc44107b2819-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
