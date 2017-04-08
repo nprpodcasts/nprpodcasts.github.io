@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2017 13:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 15:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Apr 2017 13:00:18 +0000</pubDate>
+    <pubDate>Sat, 08 Apr 2017 15:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -54,11 +54,12 @@ April 8, 2017 - A baby who was conceived through an experimental procedure desig
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170408_wesat_pork_tacos_topped_with_fries_fuel_for_mexicos_diabetes_epidemic.mp3?orgId=1&amp;topicId=1031&amp;d=319&amp;p=7&amp;story=522184483&amp;t=progseg&amp;e=523099103&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Pork Tacos Topped With Fries: Fuel For Mexico&#39;s Diabetes Epidemic</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic</link>
       <description>April 8, 2017 - Mexico knows how to fight infectious diseases. Tackling a chronic condition like diabetes is a new — and daunting — challenge.</description>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170408_wesat_pork_tacos_topped_with_fries_fuel_for_mexicos_diabetes_epidemic.mp3?orgId=1&amp;topicId=1031&amp;d=319&amp;p=7&amp;story=522184483&amp;t=progseg&amp;e=523099103&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/31/taco---closeup_wide-c1fae0dbc90acab80298ba60662736053796e0fa-s800-c15.jpg"></a>
 
@@ -66,6 +67,7 @@ April 8, 2017 - Mexico knows how to fight infectious diseases. Tackling a chroni
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic">http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/taco---closeup_wide-c1fae0dbc90acab80298ba60662736053796e0fa-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>319</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
