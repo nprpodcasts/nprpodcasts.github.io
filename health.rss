@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2017 18:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 17:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Apr 2017 18:00:06 +0000</pubDate>
+    <pubDate>Sun, 09 Apr 2017 17:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</guid>
+      <title>How Playing Tetris Tames The Trauma Of A Car Crash</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</link>
+      <description>April 9, 2017 - Researchers were able to dial down painful recollections of a car crash by having people play the video game Tetris while in the emergency room. The technique makes use of the malleability of memory.</description>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/07/traumafinal_wide-2c3cae0bca895d06675fcd5d044dbc1eee099483-s800-c15.jpeg"></a>
+
+April 9, 2017 - Researchers were able to dial down painful recollections of a car crash by having people play the video game Tetris while in the emergency room. The technique makes use of the malleability of memory.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash">http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/traumafinal_wide-2c3cae0bca895d06675fcd5d044dbc1eee099483-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</guid>
+      <title>Fresh Express Recalls Batch After Dead Bat Found In Prepackaged Salad</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</link>
+      <description>April 9, 2017 - Federal health officials are investigating the case, after a couple of Florida salad eaters stumbled upon a perhaps too organic spring mix purchased at Walmart.</description>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/09/gettyimages-2096930_wide-7018a5c48197fc0d22e9c3da80ba4910e98838b2-s800-c15.jpg"></a>
+
+April 9, 2017 - Federal health officials are investigating the case, after a couple of Florida salad eaters stumbled upon a perhaps too organic spring mix purchased at Walmart.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad">http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/09/gettyimages-2096930_wide-7018a5c48197fc0d22e9c3da80ba4910e98838b2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/08/523002516/when-gluten-is-the-villain-could-a-common-virus-be-the-trigger</guid>
       <title>When Gluten Is The Villain, Could A Common Virus Be The Trigger? </title>
@@ -228,36 +258,6 @@ April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical researc
 <a href="http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine">http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/05/lab-research_wide-325b644acd7d34e1f1c229f81257b775be9f0952-s3000-c15.jpg"></itunes:image>
       <itunes:duration>426</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</guid>
-      <title>Why Children Face The Greatest Danger From Chemical Weapons</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</link>
-      <description>April 5, 2017 - The effects of such weapons are more devastating for a number of reasons. And if children survive, they suffer from the trauma of the attack for far more years because they have more years to live.</description>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/05/gettyimages-664346648-90_wide-af9b680b8b207ec87982dddb490c1b72955fe6db-s800-c15.jpg"></a>
-
-April 5, 2017 - The effects of such weapons are more devastating for a number of reasons. And if children survive, they suffer from the trauma of the attack for far more years because they have more years to live.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons">http://www.npr.org/sections/goatsandsoda/2017/04/05/522761057/why-children-face-the-greatest-danger-from-chemical-weapons</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/gettyimages-664346648-90_wide-af9b680b8b207ec87982dddb490c1b72955fe6db-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</guid>
-      <title>Emergency Room Doctors Are Picking Noses — For Drug Delivery, That Is</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</link>
-      <description>April 5, 2017 - Nasal versions of sedatives and overdose drugs are increasingly popular in emergency departments. Doctors like that they act quickly and don&#39;t require an IV to administer.</description>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/05/ap_091022027493_wide-9f2d0ed528b22170504efa80d42ea8c6359f8815-s800-c15.jpg"></a>
-
-April 5, 2017 - Nasal versions of sedatives and overdose drugs are increasingly popular in emergency departments. Doctors like that they act quickly and don't require an IV to administer.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is">http://www.npr.org/sections/health-shots/2017/04/05/522735518/emergency-room-doctors-are-picking-noses-for-drug-delivery-that-is</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/ap_091022027493_wide-9f2d0ed528b22170504efa80d42ea8c6359f8815-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
