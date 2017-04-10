@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 19:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 21:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 19:00:10 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 21:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy</guid>
+      <title>States Introduce New Legislation To Protect Internet Privacy</title>
+      <link>http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy</link>
+      <description>April 10, 2017 - A recent move by Congress to strip the Federal Communications Commission of the power to protect Internet privacy has provoked outrage among some, and state legislatures may try to weigh in.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 10, 2017 - A recent move by Congress to strip the Federal Communications Commission of the power to protect Internet privacy has provoked outrage among some, and state legislatures may try to weigh in.
+
+<a href="http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy">http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/10/521594471/preserving-memories-in-emails-to-a-toddler-a-window-into-her-parents-love</guid>
       <title>Preserving Memories: In Emails To A Toddler, A Window Into Her Parents&#39; Love</title>
@@ -235,21 +248,6 @@ April 6, 2017 - Comcast's new cellphone offer will use Verizon's wireless networ
 <a href="http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases">http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>119</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</guid>
-      <title>Are We Witnessing The Beginning Of The End For Free Music Streaming?</title>
-      <link>http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</link>
-      <description>April 5, 2017 - Spotify has long evangelized free listening as a way to pull users in to paying for its service. The music industry&#39;s patience with the strategy seems to have run out.</description>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/05/gettyimages-157769158_wide-7a8140fb6aa59a793d79f8f50331a4e747d65186-s800-c15.jpg"></a>
-
-April 5, 2017 - Spotify has long evangelized free listening as a way to pull users in to paying for its service. The music industry's patience with the strategy seems to have run out.
-
-<a href="http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming">http://www.npr.org/sections/therecord/2017/04/05/522762634/are-we-witnessing-the-beginning-of-the-end-for-free-music-streaming</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/gettyimages-157769158_wide-7a8140fb6aa59a793d79f8f50331a4e747d65186-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

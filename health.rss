@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 18:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 21:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 18:00:32 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 21:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</guid>
+      <title>Ugandan Activist Nyanzi Arrested, Charged With Cyber Harrassment</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</link>
+      <description>April 10, 2017 - Stella Nyanzi&#39;s latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-aged girls — then she wrote about the president and his wife on social media.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-19c282a8234518cd9c67fefd57fc30c7538b488d-s800-c15.jpg"></a>
+
+April 10, 2017 - Stella Nyanzi's latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-aged girls — then she wrote about the president and his wife on social media.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment">http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-19c282a8234518cd9c67fefd57fc30c7538b488d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</guid>
       <title>A &#39;Hot Zone&#39; In The Brain May Reveal When, And Even What, We Dream</title>
@@ -239,21 +254,6 @@ April 7, 2017 - To curb diabetes, Mexico is trying to get people to cut down on 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico">http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/doctor-running_wide-7797a6bccd079f5904af555bab698d339a9a78eb-s3000-c15.jpg"></itunes:image>
       <itunes:duration>307</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</guid>
-      <title>Bison Or Brian? From A Calorie Perspective, Cannibalism Didn&#39;t Pay For Paleo Humans</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</link>
-      <description>April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why&#39;d they do it?</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s800-c15.jpg"></a>
-
-April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why'd they do it?
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
