@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 22:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 23:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 22:00:06 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 23:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_a_hot_zone_in_the_brain_may_reveal_when_and_even_what_we_dream.mp3?orgId=1&amp;topicId=1128&amp;d=188&amp;p=2&amp;story=523262108&amp;t=progseg&amp;e=523239380&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>A &#39;Hot Zone&#39; In The Brain May Reveal When, And Even What, We Dream</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</link>
       <description>April 10, 2017 - When people have dreams, an area near the back of the brain seems to wake up. And specific patterns of brain activity in that area can even reveal what we&#39;re dreaming about.</description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_a_hot_zone_in_the_brain_may_reveal_when_and_even_what_we_dream.mp3?orgId=1&amp;topicId=1128&amp;d=188&amp;p=2&amp;story=523262108&amp;t=progseg&amp;e=523239380&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 10, 2017 - When people have dreams, an area near the back of the brain see
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream">http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
