@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 21:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 21:00:22 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</guid>
+      <title>The Unexpected Cause Of This Awful Disease Lay Right Underfoot</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</link>
+      <description>April 10, 2017 - Farmers in a remote Ugandan tropical forest suffered from an excruciatingly painful foot ailment. Usually parasitic worms are the cause — but not this time.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-7d5df59b046645d87f59d10ee8e1bacadc80f162-s800-c15.jpg"></a>
+
+April 10, 2017 - Farmers in a remote Ugandan tropical forest suffered from an excruciatingly painful foot ailment. Usually parasitic worms are the cause — but not this time.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot">http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-7d5df59b046645d87f59d10ee8e1bacadc80f162-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</guid>
       <title>Ugandan Activist Nyanzi Arrested, Charged With Cyber Harrassment</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</link>
-      <description>April 10, 2017 - Stella Nyanzi&#39;s latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-aged girls — then she wrote about the president and his wife on social media.</description>
+      <description>April 10, 2017 - Stella Nyanzi&#39;s latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-age girls. Then she wrote about the president and his wife on social media.</description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-19c282a8234518cd9c67fefd57fc30c7538b488d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-44f7ca33958e8c57fe826cab6062253faacc8262-s800-c15.jpg"></a>
 
-April 10, 2017 - Stella Nyanzi's latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-aged girls — then she wrote about the president and his wife on social media.
+April 10, 2017 - Stella Nyanzi's latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-age girls. Then she wrote about the president and his wife on social media.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment">http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-19c282a8234518cd9c67fefd57fc30c7538b488d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-44f7ca33958e8c57fe826cab6062253faacc8262-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +252,6 @@ April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he
 <a href="http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand">http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s3000-c15.jpg"></itunes:image>
       <itunes:duration>535</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_in_diabetes_fight_lifestyle_changes_prove_hard_to_come_by_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=307&amp;p=3&amp;story=522596080&amp;t=progseg&amp;e=522968409&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Diabetes Fight, Lifestyle Changes Prove Hard To Come By In Mexico</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico</link>
-      <description>April 7, 2017 - To curb diabetes, Mexico is trying to get people to cut down on soda, eat more healthful foods and exercise. But changing people&#39;s habits is easier said than done.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_in_diabetes_fight_lifestyle_changes_prove_hard_to_come_by_in_mexico.mp3?orgId=1&amp;topicId=1031&amp;d=307&amp;p=3&amp;story=522596080&amp;t=progseg&amp;e=522968409&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/04/doctor-running_wide-7797a6bccd079f5904af555bab698d339a9a78eb-s800-c15.jpg"></a>
-
-April 7, 2017 - To curb diabetes, Mexico is trying to get people to cut down on soda, eat more healthful foods and exercise. But changing people's habits is easier said than done.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico">http://www.npr.org/sections/goatsandsoda/2017/04/07/522596080/in-diabetes-fight-lifestyle-changes-prove-hard-to-come-by-in-mexico</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/04/doctor-running_wide-7797a6bccd079f5904af555bab698d339a9a78eb-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>307</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
