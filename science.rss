@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 17:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 16:00:11 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 17:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</guid>
+      <title>Natural Gas Plant Makes A Play For Coal&#39;s Market, Using &#39;Clean&#39; Technology</title>
+      <link>http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</link>
+      <description>April 10, 2017 - The idea behind &#34;clean coal&#34; is technology that would capture for reuse most of the carbon dioxide emitted by coal-burning power plants. Entrepreneurs aim to use the same tech to clean natural gas.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/06/natural-gas-1_wide-dfa53cfe6d424c4f771ce0c5b869ededfbd8cd31-s800-c15.jpg"></a>
+
+April 10, 2017 - The idea behind "clean coal" is technology that would capture for reuse most of the carbon dioxide emitted by coal-burning power plants. Entrepreneurs aim to use the same tech to clean natural gas.
+
+<a href="http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology">http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/natural-gas-1_wide-dfa53cfe6d424c4f771ce0c5b869ededfbd8cd31-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/10/523254085/great-barrier-reef-hit-by-bleaching-for-the-second-year-in-a-row</guid>
       <title>Great Barrier Reef Hit By Bleaching For The Second Year In A Row </title>
@@ -247,23 +262,6 @@ April 6, 2017 - They're the Godzillas of the virus world, pushing the limit of w
 <a href="http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin">http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>188</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_how_flawed_science_is_undermining_good_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=426&amp;p=3&amp;story=522262881&amp;t=progseg&amp;e=522826463&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Flawed Science Is Undermining Good Medicine</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine</link>
-      <description>April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical research aimed at finding better treatments. But competition for scarce funding and tenure may be prompting some scientists to cut corners.</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_how_flawed_science_is_undermining_good_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=426&amp;p=3&amp;story=522262881&amp;t=progseg&amp;e=522826463&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/lab-research_wide-325b644acd7d34e1f1c229f81257b775be9f0952-s800-c15.jpg"></a>
-
-April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical research aimed at finding better treatments. But competition for scarce funding and tenure may be prompting some scientists to cut corners.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine">http://www.npr.org/sections/health-shots/2017/04/06/522262881/how-flawed-science-is-undermining-good-medicine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/lab-research_wide-325b644acd7d34e1f1c229f81257b775be9f0952-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>426</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
