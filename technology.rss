@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 23:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 14:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 09 Apr 2017 23:00:32 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 14:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_has_apple_lost_its_innovation_mojo_.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=3&amp;story=523035456&amp;t=progseg&amp;e=523237710&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Has Apple Lost Its Innovation Mojo? </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo</link>
+      <description>April 10, 2017 - Apple was once considered the most innovative company in the tech sector. But by some accounts, it&#39;s being shown up by products from Amazon, Microsoft and now Samsung.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_has_apple_lost_its_innovation_mojo_.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=3&amp;story=523035456&amp;t=progseg&amp;e=523237710&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/ap_16210587891666_wide-dbc01d4beb96f863fa02012aff62732a48b0a149-s800-c15.jpg"></a>
+
+April 10, 2017 - Apple was once considered the most innovative company in the tech sector. But by some accounts, it's being shown up by products from Amazon, Microsoft and now Samsung.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo">http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/ap_16210587891666_wide-dbc01d4beb96f863fa02012aff62732a48b0a149-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170409_atc_farmers_look_for_ways_to_circumvent_tractor_software_locks.mp3?orgId=203&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=523024776&amp;t=progseg&amp;e=523203709&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Farmers Look For Ways To Circumvent Tractor Software Locks</title>
@@ -233,21 +250,6 @@ April 5, 2017 - African-American professional drivers earn a median annual wage 
 
 <a href="http://www.npr.org/sections/codeswitch/2017/04/05/522597987/how-driverless-vehicles-could-harm-professional-drivers-of-color">http://www.npr.org/sections/codeswitch/2017/04/05/522597987/how-driverless-vehicles-could-harm-professional-drivers-of-color</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/04/egl_0990_credit_starskyrobotics_wide-07d50ccf73026f226416d3d0742b8d86400066b2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/05/522739004/once-an-alternative-to-mainstream-tv-youtube-now-offers-just-that-with-new-servi</guid>
-      <title>Once An Alternative To Mainstream TV, YouTube Now Offers Just That With New Service</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/05/522739004/once-an-alternative-to-mainstream-tv-youtube-now-offers-just-that-with-new-servi</link>
-      <description>April 5, 2017 - With its streaming TV service launching Wednesday, YouTube joins a crowded field. But it offers several features the others don&#39;t.</description>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/05/youtube2_wide-d6723212fbb55c158519e006c2fc4b8b8a918e67-s800-c15.jpg"></a>
-
-April 5, 2017 - With its streaming TV service launching Wednesday, YouTube joins a crowded field. But it offers several features the others don't.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/05/522739004/once-an-alternative-to-mainstream-tv-youtube-now-offers-just-that-with-new-servi">http://www.npr.org/sections/thetwo-way/2017/04/05/522739004/once-an-alternative-to-mainstream-tv-youtube-now-offers-just-that-with-new-servi</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/youtube2_wide-d6723212fbb55c158519e006c2fc4b8b8a918e67-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

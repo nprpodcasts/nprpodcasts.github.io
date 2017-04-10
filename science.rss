@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 19:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 09 Apr 2017 19:00:26 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_drugs_that_work_in_mice_often_fail_when_tried_in_people.mp3?orgId=1&amp;topicId=1066&amp;d=391&amp;p=3&amp;story=522775456&amp;t=progseg&amp;e=523237710&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Drugs That Work In Mice Often Fail When Tried In People</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people</link>
+      <description>April 10, 2017 - Most potential new drugs don&#39;t work when tested in people. It&#39;s a major disappointment and it drives up the cost of developing new drugs. One big reason is the use of animals in medical research.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_drugs_that_work_in_mice_often_fail_when_tried_in_people.mp3?orgId=1&amp;topicId=1066&amp;d=391&amp;p=3&amp;story=522775456&amp;t=progseg&amp;e=523237710&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/06/rat-research_wide-5ed0464f86838fceffe5a5acbe7c44c2b0c12f03-s800-c15.jpg"></a>
+
+April 10, 2017 - Most potential new drugs don't work when tested in people. It's a major disappointment and it drives up the cost of developing new drugs. One big reason is the use of animals in medical research.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people">http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/rat-research_wide-5ed0464f86838fceffe5a5acbe7c44c2b0c12f03-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>391</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170409_wesun_santa_monica_mountain_kitten.mp3?orgId=1&amp;topicId=1132&amp;d=176&amp;p=10&amp;story=523163935&amp;t=progseg&amp;e=523170002&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Mountain Lion Kitten Is Found, Leading To Excitement And Concern</title>
@@ -247,21 +264,6 @@ April 6, 2017 - U.S. taxpayers pay $30 billion a year to fund biomedical researc
 <a href="http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-in-modern-republican-agenda">http://www.npr.org/2017/04/05/522756860/ex-secretary-of-state-advocates-causes-not-key-in-modern-republican-agenda</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>297</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_cassinis_final_mission.mp3?orgId=1&amp;topicId=1007&amp;d=213&amp;p=2&amp;story=522756844&amp;t=progseg&amp;e=522705705&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>NASA&#39;s Cassini Begins Its Final Mission Before Self-Destruction</title>
-      <link>http://www.npr.org/2017/04/05/522756844/nasas-cassini-begins-its-final-mission-before-self-destruction</link>
-      <description>April 5, 2017 - NASA&#39;s Cassini&#39;s spacecraft will begin the final stages of its 20-year mission to Saturn before diving into the planet and ending its lengthy stretch orbiting the planet.</description>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170405_atc_cassinis_final_mission.mp3?orgId=1&amp;topicId=1007&amp;d=213&amp;p=2&amp;story=522756844&amp;t=progseg&amp;e=522705705&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 5, 2017 - NASA's Cassini's spacecraft will begin the final stages of its 20-year mission to Saturn before diving into the planet and ending its lengthy stretch orbiting the planet.
-
-<a href="http://www.npr.org/2017/04/05/522756844/nasas-cassini-begins-its-final-mission-before-self-destruction">http://www.npr.org/2017/04/05/522756844/nasas-cassini-begins-its-final-mission-before-self-destruction</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>213</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
