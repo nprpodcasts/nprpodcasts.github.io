@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 18:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 17:00:09 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 18:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/10/523005353/how-u-s-health-care-became-big-business</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</guid>
+      <title>A &#39;Hot Zone&#39; In The Brain May Reveal When, And Even What, We Dream</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</link>
+      <description>April 10, 2017 - When people have dreams, an area near the back of the brain seems to wake up. And specific patterns of brain activity in that area can even reveal what we&#39;re dreaming about.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s800-c15.jpg"></a>
+
+April 10, 2017 - When people have dreams, an area near the back of the brain seems to wake up. And specific patterns of brain activity in that area can even reveal what we're dreaming about.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream">http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170410_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2163&amp;p=13&amp;story=523005353&amp;t=progseg&amp;e=523279708&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>How U.S. Health Care Became Big Business</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/10/523005353/how-u-s-health-care-became-big-business</link>
       <description>April 10, 2017 - Writer Elisabeth Rosenthal has worked as a physician and says it&#39;s far more lucrative in the U.S. health system to provide a lifetime of treatments than a cure. Her new book is An American Sickness.</description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170410_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2163&amp;p=13&amp;story=523005353&amp;t=progseg&amp;e=523279708&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/prescription-cost_wide-44a19ca320f06646639ede5eab1c0b43e0e7d3cd-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ April 10, 2017 - Writer Elisabeth Rosenthal has worked as a physician and says i
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/10/523005353/how-u-s-health-care-became-big-business">http://www.npr.org/sections/health-shots/2017/04/10/523005353/how-u-s-health-care-became-big-business</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/10/prescription-cost_wide-44a19ca320f06646639ede5eab1c0b43e0e7d3cd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2163</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ April 6, 2017 - Archaeological records show ancient humans sometimes ate each ot
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_cdc_issues_new_warning_on_zika_virus_ahead_of_mosquito_season.mp3?orgId=1&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=522903447&amp;t=progseg&amp;e=522832310&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>CDC Issues New Warning On Zika Virus Ahead Of Mosquito Season</title>
-      <link>http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</link>
-      <description>April 6, 2017 - NPR&#39;s Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team&#39;s Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_cdc_issues_new_warning_on_zika_virus_ahead_of_mosquito_season.mp3?orgId=1&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=522903447&amp;t=progseg&amp;e=522832310&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 6, 2017 - NPR's Robert Siegel talks to Margaret Honein, co-leader for the CDC Zika Response Team's Pregnancy and Birth Defects Task Force, about the latest guidance on Zika at the start of mosquito season.
-
-<a href="http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season">http://www.npr.org/2017/04/06/522903447/cdc-issues-new-warning-on-zika-virus-ahead-of-mosquito-season</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

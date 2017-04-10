@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 18:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 17:00:12 +0000</pubDate>
+    <pubDate>Mon, 10 Apr 2017 18:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</guid>
+      <title>A &#39;Hot Zone&#39; In The Brain May Reveal When, And Even What, We Dream</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</link>
+      <description>April 10, 2017 - When people have dreams, an area near the back of the brain seems to wake up. And specific patterns of brain activity in that area can even reveal what we&#39;re dreaming about.</description>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s800-c15.jpg"></a>
+
+April 10, 2017 - When people have dreams, an area near the back of the brain seems to wake up. And specific patterns of brain activity in that area can even reveal what we're dreaming about.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream">http://www.npr.org/sections/health-shots/2017/04/10/523262108/a-hot-zone-in-the-brain-may-reveal-when-and-even-what-we-dream</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/dreaming-stars_wide-86ac3f89a8bbde698a586f0589ffededf252a41c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</guid>
       <title>Natural Gas Plant Makes A Play For Coal&#39;s Market, Using &#39;Clean&#39; Technology</title>
@@ -172,12 +187,12 @@ April 8, 2017 - A baby who was conceived through an experimental procedure desig
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170407_atc_michigans_tart_cherry_orchards_struggle_to_cope_with_erratic_spring_weather.mp3?orgId=434&amp;topicId=1053&amp;d=233&amp;p=2&amp;story=523004370&amp;t=progseg&amp;e=522976094&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/img_1407_wide-ebf2523d57258fde669b3542be4ff20082648931-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/img_1407_wide-27cd8b597fdaa4b439eb747ba6aee88d17b9cb02-s800-c15.jpg"></a>
 
 April 7, 2017 - An unpredictable spring this year unnerved tart cherry growers in Michigan, because these cherry trees are especially vulnerable to extreme weather shifts made more likely by climate change.
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/07/523004370/michigans-tart-cherry-orchards-struggle-to-cope-with-erratic-spring-weather">http://www.npr.org/sections/thesalt/2017/04/07/523004370/michigans-tart-cherry-orchards-struggle-to-cope-with-erratic-spring-weather</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_1407_wide-ebf2523d57258fde669b3542be4ff20082648931-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_1407_wide-27cd8b597fdaa4b439eb747ba6aee88d17b9cb02-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -245,23 +260,6 @@ April 6, 2017 - Archaeological records show ancient humans sometimes ate each ot
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_in_giant_virus_genes_hints_about_their_mysterious_origin.mp3?orgId=1&amp;topicId=1007&amp;d=188&amp;p=2&amp;story=522478901&amp;t=progseg&amp;e=522832310&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Giant Virus Genes, Hints About Their Mysterious Origin</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</link>
-      <description>April 6, 2017 - They&#39;re the Godzillas of the virus world, pushing the limit of what is considered alive. Researchers are trying to figure out where they came from. (And no, they aren&#39;t known to make people sick.)</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170406_atc_in_giant_virus_genes_hints_about_their_mysterious_origin.mp3?orgId=1&amp;topicId=1007&amp;d=188&amp;p=2&amp;story=522478901&amp;t=progseg&amp;e=522832310&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s800-c15.jpg"></a>
-
-April 6, 2017 - They're the Godzillas of the virus world, pushing the limit of what is considered alive. Researchers are trying to figure out where they came from. (And no, they aren't known to make people sick.)
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin">http://www.npr.org/sections/health-shots/2017/04/06/522478901/in-giant-virus-genes-hints-about-their-mysterious-origin</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/05/virus_wide-c07ca72f23b37155b93a49b203a0f316fbe0893e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
