@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 16:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 18:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Apr 2017 16:08:30 +0000</pubDate>
+    <pubDate>Tue, 11 Apr 2017 18:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</guid>
+      <title>Asbestos Deaths Remain A Public Health Concern, CDC Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</link>
+      <description>April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s800-c15.jpg"></a>
+
+April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds">http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Federal Task Force Softens Opposition To Routine Prostate Cancer Screening</title>
@@ -249,23 +264,6 @@ April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he
 <a href="http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand">http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s3000-c15.jpg"></itunes:image>
       <itunes:duration>535</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=756&amp;p=57&amp;story=522857511&amp;t=progseg&amp;e=522852772&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Adam Galinsky: What Drives Us To Speak Up?</title>
-      <link>http://www.npr.org/2017/04/07/522857511/adam-galinksy-what-drives-us-to-speak-up</link>
-      <description>April 7, 2017 - Social psychologist Adam Galinsky studies why it&#39;s so daunting to speak up — and what can help. He says the most powerful factor that compels us to take that risk is &#34;moral conviction.&#34;</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=756&amp;p=57&amp;story=522857511&amp;t=progseg&amp;e=522852772&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/06/adamgalinsky_2016x-embed_wide-13699f8e5e07fb1553ae6836403c8b725512ba39-s800-c15.jpg"></a>
-
-April 7, 2017 - Social psychologist Adam Galinsky studies why it's so daunting to speak up — and what can help. He says the most powerful factor that compels us to take that risk is "moral conviction."
-
-<a href="http://www.npr.org/2017/04/07/522857511/adam-galinksy-what-drives-us-to-speak-up">http://www.npr.org/2017/04/07/522857511/adam-galinksy-what-drives-us-to-speak-up</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/adamgalinsky_2016x-embed_wide-13699f8e5e07fb1553ae6836403c8b725512ba39-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>756</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

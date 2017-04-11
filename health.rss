@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 17:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 18:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Apr 2017 17:00:25 +0000</pubDate>
+    <pubDate>Tue, 11 Apr 2017 18:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</guid>
+      <title>Asbestos Deaths Remain A Public Health Concern, CDC Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</link>
+      <description>April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s800-c15.jpg"></a>
+
+April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds">http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/11/523388406/spinal-manipulation-can-alleviate-back-pain-study-concludes</guid>
       <title>Spinal Manipulation Can Alleviate Back Pain, Study Concludes</title>
@@ -243,21 +258,6 @@ April 8, 2017 - Mexico knows how to fight infectious diseases. Tackling a chroni
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic">http://www.npr.org/sections/goatsandsoda/2017/04/08/522184483/pork-tacos-topped-with-fries-fuel-for-mexicos-diabetes-epidemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/31/taco---closeup_wide-c1fae0dbc90acab80298ba60662736053796e0fa-s3000-c15.jpg"></itunes:image>
       <itunes:duration>317</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/07/523062846/postal-service-reports-increase-in-dog-attacks-on-letter-carriers</guid>
-      <title>Postal Service Reports Increase In Dog Attacks On Letter Carriers</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/07/523062846/postal-service-reports-increase-in-dog-attacks-on-letter-carriers</link>
-      <description>April 7, 2017 - The USPS said its employees were bitten in 6,755 attacks in 2016, and Los Angeles topped the list, with 80. The postal service also released safety tips.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/07/ap_743521792678_wide-da06423459d1ce476b85ac12965706cce57f66cb-s800-c15.jpg"></a>
-
-April 7, 2017 - The USPS said its employees were bitten in 6,755 attacks in 2016, and Los Angeles topped the list, with 80. The postal service also released safety tips.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/07/523062846/postal-service-reports-increase-in-dog-attacks-on-letter-carriers">http://www.npr.org/sections/thetwo-way/2017/04/07/523062846/postal-service-reports-increase-in-dog-attacks-on-letter-carriers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/ap_743521792678_wide-da06423459d1ce476b85ac12965706cce57f66cb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
