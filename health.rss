@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 00:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 16:08:02 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Apr 2017 00:00:13 +0000</pubDate>
+    <pubDate>Tue, 11 Apr 2017 16:08:02 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,26 +24,61 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Federal Task Force Softens Opposition To Routine Prostate Cancer Screening</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</link>
+      <description>April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s800-c15.jpg"></a>
+
+April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening">http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_why_send_a_firetruck_to_do_an_ambulances_job.mp3?orgId=308&amp;topicId=1003&amp;d=233&amp;p=3&amp;story=523025987&amp;t=progseg&amp;e=523369297&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Why Send A Firetruck To Do An Ambulance&#39;s Job?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/11/523025987/why-send-a-firetruck-to-do-an-ambulances-job</link>
+      <description>April 11, 2017 - Chicago&#39;s fire department gets 20 times more medical calls than fire calls, but it has twice as many firetrucks as ambulances. Other cities also face this disparity and there are calls for change.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_why_send_a_firetruck_to_do_an_ambulances_job.mp3?orgId=308&amp;topicId=1003&amp;d=233&amp;p=3&amp;story=523025987&amp;t=progseg&amp;e=523369297&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/chicago-firedept-20170317_181612-edit_wide-7cf76eec9d195c79875f095cfbee11b0e0caa820-s800-c15.jpg"></a>
+
+April 11, 2017 - Chicago's fire department gets 20 times more medical calls than fire calls, but it has twice as many firetrucks as ambulances. Other cities also face this disparity and there are calls for change.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/11/523025987/why-send-a-firetruck-to-do-an-ambulances-job">http://www.npr.org/sections/health-shots/2017/04/11/523025987/why-send-a-firetruck-to-do-an-ambulances-job</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/chicago-firedept-20170317_181612-edit_wide-7cf76eec9d195c79875f095cfbee11b0e0caa820-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</guid>
       <title>The Unexpected Cause Of This Awful Disease Lay Right Underfoot</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</link>
       <description>April 10, 2017 - Farmers in a remote Ugandan tropical forest suffered from an excruciatingly painful foot ailment. Usually parasitic worms are the cause — but not this time.</description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-7d5df59b046645d87f59d10ee8e1bacadc80f162-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-22f1496e4b45be34c632edba4c419a5411d933b7-s800-c15.jpg"></a>
 
 April 10, 2017 - Farmers in a remote Ugandan tropical forest suffered from an excruciatingly painful foot ailment. Usually parasitic worms are the cause — but not this time.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot">http://www.npr.org/sections/goatsandsoda/2017/04/10/523044853/the-unexpected-cause-of-this-awful-disease-lay-right-underfoot</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-7d5df59b046645d87f59d10ee8e1bacadc80f162-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/podopic1_1_wide-22f1496e4b45be34c632edba4c419a5411d933b7-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</guid>
-      <title>Ugandan Activist Nyanzi Arrested, Charged With Cyber Harassment</title>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_ugandan_activist_nyanzi_arrested_charged_with_cyber_harassment.mp3?orgId=1&amp;topicId=1031&amp;d=163&amp;p=3&amp;story=523278510&amp;t=progseg&amp;e=523369297&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Battle Over Free Sanitary Pads Lands Ugandan Activist In Jail</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</link>
       <description>April 10, 2017 - Stella Nyanzi&#39;s latest run-in with the regime of President Museveni began with a fight for free sanitary pads for school-age girls. Then she wrote about the president and his wife on social media.</description>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_ugandan_activist_nyanzi_arrested_charged_with_cyber_harassment.mp3?orgId=1&amp;topicId=1031&amp;d=163&amp;p=3&amp;story=523278510&amp;t=progseg&amp;e=523369297&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-44f7ca33958e8c57fe826cab6062253faacc8262-s800-c15.jpg"></a>
 
@@ -51,6 +86,7 @@ April 10, 2017 - Stella Nyanzi's latest run-in with the regime of President Muse
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment">http://www.npr.org/sections/goatsandsoda/2017/04/10/523278510/ugandan-activist-nyanzi-arrested-charged-with-cyber-harrassment</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-666842650_wide-44f7ca33958e8c57fe826cab6062253faacc8262-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>163</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,38 +258,6 @@ April 7, 2017 - If you're traveling this spring, be sure you're vaccinated. 2017
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/07/522867040/as-measles-surges-in-europe-officials-brace-for-a-rough-year">http://www.npr.org/sections/goatsandsoda/2017/04/07/522867040/as-measles-surges-in-europe-officials-brace-for-a-rough-year</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/promo-measles-seamus_wide-88d094171b6763c9a5b5f90c904ad40467edf15d-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/07/522897473/fda-approves-marketing-of-consumer-genetic-tests-for-some-conditions</guid>
-      <title>FDA Approves Marketing Of Consumer Genetic Tests For Some Conditions</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/07/522897473/fda-approves-marketing-of-consumer-genetic-tests-for-some-conditions</link>
-      <description>April 7, 2017 - The company 23andMe is now allowed to market tests that assess genetic risks for 10 health conditions, including Parkinson&#39;s and late-onset Alzheimer&#39;s diseases.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/07/23andme-3_wide-c593b26d4a368020218d9941a22380361c041f46-s800-c15.jpg"></a>
-
-April 7, 2017 - The company 23andMe is now allowed to market tests that assess genetic risks for 10 health conditions, including Parkinson's and late-onset Alzheimer's diseases.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/07/522897473/fda-approves-marketing-of-consumer-genetic-tests-for-some-conditions">http://www.npr.org/sections/health-shots/2017/04/07/522897473/fda-approves-marketing-of-consumer-genetic-tests-for-some-conditions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/23andme-3_wide-c593b26d4a368020218d9941a22380361c041f46-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_02.mp3?orgId=1&amp;topicId=1025&amp;d=535&amp;p=57&amp;story=522856713&amp;t=progseg&amp;e=522852772&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>James Hansen: What Makes A Scientist Take A Stand? </title>
-      <link>http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</link>
-      <description>April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he risked the loss of his job and reputation. But, he says, it was worth it — because he could not be silent about something so important.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170407_ted_02.mp3?orgId=1&amp;topicId=1025&amp;d=535&amp;p=57&amp;story=522856713&amp;t=progseg&amp;e=522852772&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s800-c15.jpg"></a>
-
-April 7, 2017 - When James Hansen spoke up about climate change in the 1980s, he risked the loss of his job and reputation. But, he says, it was worth it — because he could not be silent about something so important.
-
-<a href="http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand">http://www.npr.org/2017/04/07/522856713/james-hansen-what-makes-a-scientist-take-a-stand</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/jameshansen_2012-embed_wide-0fb63d6536e471a6254faa81a60b20d16cf79a06-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>535</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

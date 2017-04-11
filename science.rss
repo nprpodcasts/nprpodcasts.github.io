@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 16:08:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Apr 2017 23:00:28 +0000</pubDate>
+    <pubDate>Tue, 11 Apr 2017 16:08:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Federal Task Force Softens Opposition To Routine Prostate Cancer Screening</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</link>
+      <description>April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s800-c15.jpg"></a>
+
+April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening">http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_a_hot_zone_in_the_brain_may_reveal_when_and_even_what_we_dream.mp3?orgId=1&amp;topicId=1128&amp;d=188&amp;p=2&amp;story=523262108&amp;t=progseg&amp;e=523239380&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>A &#39;Hot Zone&#39; In The Brain May Reveal When, And Even What, We Dream</title>
@@ -249,21 +266,6 @@ April 7, 2017 - Social psychologist Adam Galinsky studies why it's so daunting t
 <a href="http://www.npr.org/2017/04/07/522857511/adam-galinksy-what-drives-us-to-speak-up">http://www.npr.org/2017/04/07/522857511/adam-galinksy-what-drives-us-to-speak-up</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/adamgalinsky_2016x-embed_wide-13699f8e5e07fb1553ae6836403c8b725512ba39-s3000-c15.jpg"></itunes:image>
       <itunes:duration>756</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</guid>
-      <title>Bison Or Brian? From A Calorie Perspective, Cannibalism Didn&#39;t Pay For Paleo Humans</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</link>
-      <description>April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why&#39;d they do it?</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s800-c15.jpg"></a>
-
-April 6, 2017 - Archaeological records show ancient humans sometimes ate each other. A new study suggests that hunting and eating other humans cost too much effort to be a regular thing. So why'd they do it?
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human">http://www.npr.org/sections/thesalt/2017/04/06/522880018/what-s-the-dietary-value-of-a-human</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/scisource_bd8365_wide-9a7ca5082c301f5bfd773ba9942c048ef613decb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

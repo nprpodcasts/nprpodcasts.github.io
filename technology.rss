@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 00:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 16:08:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Apr 2017 00:00:10 +0000</pubDate>
+    <pubDate>Tue, 11 Apr 2017 16:08:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,40 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_us_border_patrol_agents_step_up_cell_phone_searches.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;story=523313829&amp;siteplayer=true&amp;dl=1</guid>
+      <title>More Travelers Are Being Asked For Their Cellphones And Passwords Entering U.S.</title>
+      <link>http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s</link>
+      <description>April 11, 2017 - The Department of Homeland Security says such demands aren&#39;t routine and represent a fraction of those entering the country.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_us_border_patrol_agents_step_up_cell_phone_searches.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;story=523313829&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/10/ap_17049076306114_wide-24195615d1f45de50bfa3e92d51b0b0999f1e0e8-s800-c15.jpg"></a>
+
+April 11, 2017 - The Department of Homeland Security says such demands aren't routine and represent a fraction of those entering the country.
+
+<a href="http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s">http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/ap_17049076306114_wide-24195615d1f45de50bfa3e92d51b0b0999f1e0e8-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>222</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_wireless_industry_lobbies_statehouses_for_access_to_street_furniture.mp3?orgId=1146&amp;topicId=1014&amp;d=233&amp;p=2&amp;story=522246173&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Wireless Industry Lobbies Statehouses For Access To &#39;Street Furniture&#39;</title>
+      <link>http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture</link>
+      <description>April 11, 2017 - Instead of soaring towers with antennas on top, future cell sites will adorn power poles and streetlights owned by cities and towns that are wary of turning them over to wireless companies.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_wireless_industry_lobbies_statehouses_for_access_to_street_furniture.mp3?orgId=1146&amp;topicId=1014&amp;d=233&amp;p=2&amp;story=522246173&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-631870776_wide-523588470d8d57bcce922fde89a55c9261eccced-s800-c15.jpg"></a>
+
+April 11, 2017 - Instead of soaring towers with antennas on top, future cell sites will adorn power poles and streetlights owned by cities and towns that are wary of turning them over to wireless companies.
+
+<a href="http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture">http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-631870776_wide-523588470d8d57bcce922fde89a55c9261eccced-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_states_introduce_new_legislation_to_protect_internet_privacy.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=523311405&amp;t=progseg&amp;e=523239380&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>States Introduce New Legislation To Protect Internet Privacy</title>
@@ -224,36 +258,6 @@ April 6, 2017 - After the Trump administration set limits on some government Twi
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account">http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/screen-shot-2017-04-06-at-6.25.08-pm_wide-44cabc7df78e466854877d87cb6ee28dc68865f8-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</guid>
-      <title>Comcast Goes Mobile With Cellphone Service For Existing Customers</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</link>
-      <description>April 6, 2017 - Comcast&#39;s new cellphone offer will use Verizon&#39;s wireless network and Comcast&#39;s own Wi-Fi hotspots. Xfinity Mobile offers prices that are generally cheaper than major wireless carriers.</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/ap_17096478395400_wide-183f0e3af5fc378bd2a86d2b43c2f5cff7a6290f-s800-c15.jpg"></a>
-
-April 6, 2017 - Comcast's new cellphone offer will use Verizon's wireless network and Comcast's own Wi-Fi hotspots. Xfinity Mobile offers prices that are generally cheaper than major wireless carriers.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers">http://www.npr.org/sections/thetwo-way/2017/04/06/522851370/comcast-goes-mobile-with-cellphone-service-for-existing-customers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/ap_17096478395400_wide-183f0e3af5fc378bd2a86d2b43c2f5cff7a6290f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_amazon_to_refund_millions_in_unauthorized_in-app_purchases.mp3?orgId=1&amp;topicId=1049&amp;d=119&amp;p=3&amp;story=522826507&amp;t=progseg&amp;e=522826463&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Amazon To Refund Millions In Unauthorized In-App Purchases</title>
-      <link>http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</link>
-      <description>April 6, 2017 - The Federal Trade Commission sued Amazon and other companies after children racked up millions of dollars of in-app purchases without their parents&#39; knowledge. The FTC and Amazon have dropped appeals.</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170406_me_amazon_to_refund_millions_in_unauthorized_in-app_purchases.mp3?orgId=1&amp;topicId=1049&amp;d=119&amp;p=3&amp;story=522826507&amp;t=progseg&amp;e=522826463&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 6, 2017 - The Federal Trade Commission sued Amazon and other companies after children racked up millions of dollars of in-app purchases without their parents' knowledge. The FTC and Amazon have dropped appeals.
-
-<a href="http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases">http://www.npr.org/2017/04/06/522826507/amazon-to-refund-millions-in-unauthorized-in-app-purchases</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>119</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
