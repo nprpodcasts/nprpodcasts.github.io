@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 22:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 23:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 22:00:11 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 23:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170412_atc_on_the_navajo_nation_special-ed_students_await_water_thats_doesnt_stink.mp3?orgId=95&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=523303559&amp;t=progseg&amp;e=523553903&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>On The Navajo Nation, Special Ed Students Await Water That&#39;s Doesn&#39;t Stink</title>
       <link>http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</link>
       <description>April 12, 2017 - Fundraising is underway for a new filtration system at an Arizona school for Navajo children with disabilities. Now, the water runs black and smells like rotten eggs, but is technically safe to drink.</description>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170412_atc_on_the_navajo_nation_special-ed_students_await_water_thats_doesnt_stink.mp3?orgId=95&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=523303559&amp;t=progseg&amp;e=523553903&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 12, 2017 - Fundraising is underway for a new filtration system at an Arizo
 
 <a href="http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink">http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
