@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 00:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 14:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 00:00:13 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 14:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</guid>
+      <title>What Happens To A Congressman&#39;s Health Insurance If Obamacare Goes Down?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</link>
+      <description>April 12, 2017 - Under the Affordable Care Act, most members of Congress and staff who want to buy health insurance must buy it on the exchange. That requirement is not affected by bills aimed at replacing the ACA.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/congress-insurance_wide-03675364f66f8ae5e21fe9b316d10b88ac272071-s800-c15.jpg"></a>
+
+April 12, 2017 - Under the Affordable Care Act, most members of Congress and staff who want to buy health insurance must buy it on the exchange. That requirement is not affected by bills aimed at replacing the ACA.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down">http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/congress-insurance_wide-03675364f66f8ae5e21fe9b316d10b88ac272071-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_civilians_with_severe_burns_treated_at_texas_military_hospital.mp3?orgId=188&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=521003804&amp;t=progseg&amp;e=523361213&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Civilians With Severe Burns Treated At Texas Military Hospital</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital</link>
@@ -31,21 +46,22 @@
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_civilians_with_severe_burns_treated_at_texas_military_hospital.mp3?orgId=188&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=521003804&amp;t=progseg&amp;e=523361213&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-ffb353c381ce5b431fc5121e4b59761aef72bd21-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-6dab98c16029bac3eba927f48c3ce722a4c5feb9-s800-c15.jpg"></a>
 
 April 11, 2017 - The U.S. military's burn center in San Antonio is responsible for treating service members who are badly burned. But, to stay sharp, the medical teams there also treat civilians.
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital">http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-ffb353c381ce5b431fc5121e4b59761aef72bd21-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-6dab98c16029bac3eba927f48c3ce722a4c5feb9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Top Scientists Revamp Standards To Foster Integrity In Research</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</link>
       <description>April 11, 2017 - The National Academy of Sciences has toughened up its guidelines to call cutting corners, dubious statistics and not fully sharing research methods &#34;detrimental&#34; to science.</description>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s800-c15.jpg"></a>
 
@@ -53,6 +69,7 @@ April 11, 2017 - The National Academy of Sciences has toughened up its guideline
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research">http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -247,19 +264,6 @@ April 9, 2017 - Researchers were able to dial down painful recollections of a ca
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash">http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/traumafinal_wide-2c3cae0bca895d06675fcd5d044dbc1eee099483-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</guid>
-      <title>Fresh Express Recalls Batch After Dead Bat Found In Prepackaged Salad</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</link>
-      <description>April 9, 2017 - Federal health officials are investigating the case, after a couple of Florida salad eaters stumbled upon a perhaps too organic spring mix purchased at Walmart.</description>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 9, 2017 - Federal health officials are investigating the case, after a couple of Florida salad eaters stumbled upon a perhaps too organic spring mix purchased at Walmart.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad">http://www.npr.org/sections/thetwo-way/2017/04/09/523154228/fresh-express-issues-recall-after-dead-bat-reportedly-found-in-prepackaged-salad</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

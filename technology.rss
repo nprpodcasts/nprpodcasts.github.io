@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 19:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 14:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Apr 2017 19:00:26 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 14:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_tech_filter_bubble.mp3?orgId=329&amp;topicId=1019&amp;d=272&amp;p=3&amp;story=522760479&amp;t=progseg&amp;e=523533765&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tech Creates Our Political Echo Chambers. It Might Also Be A Solution</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution</link>
+      <description>April 12, 2017 - Social media took a lot of blame for intensifying polarization and partisan acrimony during the presidential campaign. Now some startups and researchers are trying to burst ideological filter bubbles.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_tech_filter_bubble.mp3?orgId=329&amp;topicId=1019&amp;d=272&amp;p=3&amp;story=522760479&amp;t=progseg&amp;e=523533765&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/0403_filter-bubble01_wide-0dda7c882f501465854c73480529ab147a34a77f-s800-c15.jpg"></a>
+
+April 12, 2017 - Social media took a lot of blame for intensifying polarization and partisan acrimony during the presidential campaign. Now some startups and researchers are trying to burst ideological filter bubbles.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution">http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/0403_filter-bubble01_wide-0dda7c882f501465854c73480529ab147a34a77f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>272</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_ride-hailing_app_geared_toward_women_debuts_in_boston.mp3?orgId=329&amp;topicId=1006&amp;d=207&amp;p=3&amp;story=523533948&amp;t=progseg&amp;e=523533765&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Ride-Hailing App Geared Toward Women Debuts In Boston</title>
+      <link>http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston</link>
+      <description>April 12, 2017 - A new ride-hailing service in Boston called Safr is aimed at getting female customers and employing female drivers. Some women drivers and passengers felt unsafe using other ride-hailing apps.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_ride-hailing_app_geared_toward_women_debuts_in_boston.mp3?orgId=329&amp;topicId=1006&amp;d=207&amp;p=3&amp;story=523533948&amp;t=progseg&amp;e=523533765&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 12, 2017 - A new ride-hailing service in Boston called Safr is aimed at getting female customers and employing female drivers. Some women drivers and passengers felt unsafe using other ride-hailing apps.
+
+<a href="http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston">http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>207</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_us_border_patrol_agents_step_up_cell_phone_searches.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;story=523313829&amp;siteplayer=true&amp;dl=1</guid>
       <title>More Travelers Entering U.S. Are Being Asked For Their Cellphones And Passwords</title>
@@ -228,36 +260,6 @@ April 7, 2017 - Axon, which is the name of the company's line of body cameras, s
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity">http://www.npr.org/sections/thetwo-way/2017/04/07/523022497/twitter-withdraws-lawsuit-after-dhs-drops-demands-for-alt-accounts-identity</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_morning_news_brief_trump_orders_syria_airstrikes_hosts_chinese_president.mp3?orgId=1&amp;topicId=1004&amp;d=620&amp;p=3&amp;story=522968561&amp;t=progseg&amp;e=522968409&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Morning News Brief: Trump Orders Syria Airstrikes, Hosts Chinese President</title>
-      <link>http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president</link>
-      <description>April 7, 2017 - President Trump says he ordered strikes against a Syrian air base in response to a chemical weapons attack ordered by Bashar Assad. Also, Trump met with China&#39;s President Xi Jinping.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_morning_news_brief_trump_orders_syria_airstrikes_hosts_chinese_president.mp3?orgId=1&amp;topicId=1004&amp;d=620&amp;p=3&amp;story=522968561&amp;t=progseg&amp;e=522968409&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 7, 2017 - President Trump says he ordered strikes against a Syrian air base in response to a chemical weapons attack ordered by Bashar Assad. Also, Trump met with China's President Xi Jinping.
-
-<a href="http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president">http://www.npr.org/2017/04/07/522968561/morning-news-brief-trump-orders-syria-airstrikes-hosts-chinese-president</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>620</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</guid>
-      <title>Twitter Sues Homeland Security To Protect Anonymity Of &#39;Alt Immigration&#39; Account</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</link>
-      <description>April 6, 2017 - After the Trump administration set limits on some government Twitter accounts, anonymous &#34;rogue accounts&#34; popped up. Homeland Security demanded to know who was behind one; Twitter is fighting back.</description>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/screen-shot-2017-04-06-at-6.25.08-pm_wide-44cabc7df78e466854877d87cb6ee28dc68865f8-s800-c15.png"></a>
-
-April 6, 2017 - After the Trump administration set limits on some government Twitter accounts, anonymous "rogue accounts" popped up. Homeland Security demanded to know who was behind one; Twitter is fighting back.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account">http://www.npr.org/sections/thetwo-way/2017/04/06/522914335/twitter-sues-homeland-security-to-protect-anonymity-of-alt-immigration-account</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/screen-shot-2017-04-06-at-6.25.08-pm_wide-44cabc7df78e466854877d87cb6ee28dc68865f8-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
