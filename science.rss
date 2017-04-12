@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 14:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 19:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 14:00:17 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 19:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</guid>
+      <title>No Ant Left Behind: Warrior Ants Carry Injured Comrades Home</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</link>
+      <description>April 12, 2017 - Don&#39;t call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s800-c15.jpg"></a>
+
+April 12, 2017 - Don't call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home">http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/12/521800847/a-forgotten-piece-of-african-american-history-on-the-great-plains</guid>
       <title>A Forgotten Piece Of African-American History On The Great Plains</title>
@@ -247,21 +262,6 @@ April 9, 2017 - The Internet is full of science fiction becoming science fact. N
 <a href="http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich">http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/timecop-1_wide-6b6cc4a81792b634cb4fcd84d99d57b514b9f556-s3000-c15.jpg"></itunes:image>
       <itunes:duration>273</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</guid>
-      <title>How Playing Tetris Tames The Trauma Of A Car Crash</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</link>
-      <description>April 9, 2017 - Researchers were able to dial down painful recollections of a car crash by having people play the video game Tetris while in the emergency room. The technique makes use of the malleability of memory.</description>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/traumafinal_wide-2c3cae0bca895d06675fcd5d044dbc1eee099483-s800-c15.jpeg"></a>
-
-April 9, 2017 - Researchers were able to dial down painful recollections of a car crash by having people play the video game Tetris while in the emergency room. The technique makes use of the malleability of memory.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash">http://www.npr.org/sections/health-shots/2017/04/09/523011446/how-playing-tetris-tames-the-trauma-of-a-car-crash</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/traumafinal_wide-2c3cae0bca895d06675fcd5d044dbc1eee099483-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
