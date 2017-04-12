@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 19:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 21:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 19:00:14 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 21:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</guid>
+      <title>There Are 60,000+ Species Of Tree Worldwide, Scientists Say</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</link>
+      <description>April 12, 2017 - More than half of those species are only found in a single country, and many of them face extinction. The scientists hope that this database will be an important tool for conservationists.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/12/gettyimages-133851155_wide-7a18344c1aad700e4b894c40994f4d7d0a6f21d1-s800-c15.jpg"></a>
+
+April 12, 2017 - More than half of those species are only found in a single country, and many of them face extinction. The scientists hope that this database will be an important tool for conservationists.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say">http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/gettyimages-133851155_wide-7a18344c1aad700e4b894c40994f4d7d0a6f21d1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</guid>
       <title>No Ant Left Behind: Warrior Ants Carry Injured Comrades Home</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</link>
       <description>April 12, 2017 - Don&#39;t call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.</description>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s800-c15.jpg"></a>
 
 April 12, 2017 - Don't call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home">http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -245,23 +260,6 @@ April 9, 2017 - A mountain lion kitten was found in the Santa Monica Mountains, 
 <a href="http://www.npr.org/2017/04/09/523163935/a-mountain-lion-kitten-is-found-leading-to-excitement-and-concern">http://www.npr.org/2017/04/09/523163935/a-mountain-lion-kitten-is-found-leading-to-excitement-and-concern</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/09/p-54-2_wide-518d23d15ed358cb5c5e063f620637e5172fd4a0-s3000-c15.jpg"></itunes:image>
       <itunes:duration>176</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170409_wesun_it_sounds_like_science_fiction_but_its_a_clich.mp3?orgId=1&amp;topicId=1007&amp;d=273&amp;p=10&amp;story=523030282&amp;t=progseg&amp;e=523170002&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>It Sounds Like Science Fiction But ... It&#39;s A Cliché</title>
-      <link>http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich</link>
-      <description>April 9, 2017 - The Internet is full of science fiction becoming science fact. NPR Science Editor Geoff Brumfiel is ready to make a stand. Sort of.&#xA;&#xA; - http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich</description>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170409_wesun_it_sounds_like_science_fiction_but_its_a_clich.mp3?orgId=1&amp;topicId=1007&amp;d=273&amp;p=10&amp;story=523030282&amp;t=progseg&amp;e=523170002&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/timecop-1_wide-6b6cc4a81792b634cb4fcd84d99d57b514b9f556-s800-c15.jpg"></a>
-
-April 9, 2017 - The Internet is full of science fiction becoming science fact. NPR Science Editor Geoff Brumfiel is ready to make a stand. Sort of.
-
-<a href="http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich">http://www.npr.org/2017/04/09/523030282/it-sounds-like-science-fiction-but-its-a-clich</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/timecop-1_wide-6b6cc4a81792b634cb4fcd84d99d57b514b9f556-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>273</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
