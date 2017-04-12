@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 19:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 22:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 19:00:16 +0000</pubDate>
+    <pubDate>Wed, 12 Apr 2017 22:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</guid>
+      <title>On The Navajo Nation, Special Ed Students Await Water That&#39;s Doesn&#39;t Stink</title>
+      <link>http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</link>
+      <description>April 12, 2017 - Fundraising is underway for a new filtration system at an Arizona school for Navajo children with disabilities. Now, the water runs black and smells like rotten eggs, but is technically safe to drink.</description>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s800-c15.jpg"></a>
+
+April 12, 2017 - Fundraising is underway for a new filtration system at an Arizona school for Navajo children with disabilities. Now, the water runs black and smells like rotten eggs, but is technically safe to drink.
+
+<a href="http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink">http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</guid>
       <title>No Ant Left Behind: Warrior Ants Carry Injured Comrades Home</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</link>
       <description>April 12, 2017 - Don&#39;t call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.</description>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s800-c15.jpg"></a>
 
 April 12, 2017 - Don't call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home">http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-b15faf5537ed2ad1468137b7180379dff19b553f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -247,23 +262,6 @@ April 10, 2017 - There are many ways beyond legislative repeal that the Trump ad
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/10/523020561/republicans-now-control-obamacare-will-your-coverage-change">http://www.npr.org/sections/health-shots/2017/04/10/523020561/republicans-now-control-obamacare-will-your-coverage-change</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/paul-ryan-healthcare_wide-fc4f05a986a1237d4f18da8dd347659f18ec9252-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_drugs_that_work_in_mice_often_fail_when_tried_in_people.mp3?orgId=1&amp;topicId=1066&amp;d=396&amp;p=3&amp;story=522775456&amp;t=progseg&amp;e=523237710&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Drugs That Work In Mice Often Fail When Tried In People</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people</link>
-      <description>April 10, 2017 - Most potential new drugs don&#39;t work when tested in people. It&#39;s a major disappointment and it drives up the cost of developing new drugs. One big reason is the use of animals in medical research.</description>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_drugs_that_work_in_mice_often_fail_when_tried_in_people.mp3?orgId=1&amp;topicId=1066&amp;d=396&amp;p=3&amp;story=522775456&amp;t=progseg&amp;e=523237710&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/06/rat-research_wide-5ed0464f86838fceffe5a5acbe7c44c2b0c12f03-s800-c15.jpg"></a>
-
-April 10, 2017 - Most potential new drugs don't work when tested in people. It's a major disappointment and it drives up the cost of developing new drugs. One big reason is the use of animals in medical research.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people">http://www.npr.org/sections/health-shots/2017/04/10/522775456/drugs-that-work-in-mice-often-fail-when-tried-in-people</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/rat-research_wide-5ed0464f86838fceffe5a5acbe7c44c2b0c12f03-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>396</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
