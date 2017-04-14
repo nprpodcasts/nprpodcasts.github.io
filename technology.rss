@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 21:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 13:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Apr 2017 21:00:26 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2017 13:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,68 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170414_me_youtube_ads.mp3?orgId=1&amp;topicId=1019&amp;d=208&amp;p=3&amp;story=523895647&amp;t=progseg&amp;e=523876653&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Online Video Producers Caught In Struggle Between Advertisers And YouTube</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube</link>
+      <description>April 14, 2017 - YouTube has tweaked algorithms to prevent ads from appearing next to objectionable and extremist videos. But the moves have left YouTube content creators earning less money.</description>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170414_me_youtube_ads.mp3?orgId=1&amp;topicId=1019&amp;d=208&amp;p=3&amp;story=523895647&amp;t=progseg&amp;e=523876653&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/14/ap_142450164879_wide-88ecc0648966d70401c9d5bda6e408faa88c6c49-s800-c15.jpg"></a>
+
+April 14, 2017 - YouTube has tweaked algorithms to prevent ads from appearing next to objectionable and extremist videos. But the moves have left YouTube content creators earning less money.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube">http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/ap_142450164879_wide-88ecc0648966d70401c9d5bda6e408faa88c6c49-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>208</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</guid>
+      <title>CIA Director Pompeo Denounces WikiLeaks As &#39;Hostile Intelligence Service&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</link>
+      <description>April 13, 2017 - After WikiLeaks founder Julian Assange published a defense of his methods in the Washington Post, Pompeo blasted him as a charlatan.</description>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/13/ap_17103727968359_wide-7b4793e60f0d5dee75d4a95e32cd8b2ea9a96a6b-s800-c15.jpg"></a>
+
+April 13, 2017 - After WikiLeaks founder Julian Assange published a defense of his methods in the Washington Post, Pompeo blasted him as a charlatan.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service">http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/ap_17103727968359_wide-7b4793e60f0d5dee75d4a95e32cd8b2ea9a96a6b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</guid>
+      <title>OK Google, Burger King Hijacked Your Speakers ... And Failed Pretty Quickly</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</link>
+      <description>April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake viewers&#39; Google Home speakers and use them for a makeshift promo. Sadly for Burger King, it wasn&#39;t long before the ploy hit some speed bumps.</description>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/13/gettyimages-158634037_wide-8d2fb0018f40130068df8080330b6045fd5bf1e3-s800-c15.jpg"></a>
+
+April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake viewers' Google Home speakers and use them for a makeshift promo. Sadly for Burger King, it wasn't long before the ploy hit some speed bumps.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly">http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/gettyimages-158634037_wide-8d2fb0018f40130068df8080330b6045fd5bf1e3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Using &#39;Sentiment Analysis&#39; To Understand Trump&#39;s Tweets</title>
+      <link>http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets</link>
+      <description>April 13, 2017 - Planet Money tries to make a program that reads Donald Trump&#39;s tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.</description>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 13, 2017 - Planet Money tries to make a program that reads Donald Trump's tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.
+
+<a href="http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets">http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>208</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_tech_filter_bubble.mp3?orgId=329&amp;topicId=1019&amp;d=272&amp;p=3&amp;story=522760479&amp;t=progseg&amp;e=523533765&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tech Creates Our Political Echo Chambers. It Might Also Be A Solution</title>
@@ -191,7 +253,7 @@ April 9, 2017 - Fixing a modern tractor takes more than the right parts, but als
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170409_wesun_misinformation_the_web.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;p=10&amp;story=523170115&amp;t=progseg&amp;e=523170002&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Misinformation Spreads On The Internet And How To Stop It</title>
+      <title>How Misinformation Spreads On The Internet</title>
       <link>http://www.npr.org/2017/04/09/523170115/how-misinformation-spreads-on-the-internet-and-how-to-stop-it</link>
       <description>April 9, 2017 - When tragic events happen, social media quickly fills with rumors and fake stories. NPR&#39;s Lulu Garcia-Navarro talks to Kate Starbird of the University of Washington about misinformation on the web.</description>
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
@@ -202,68 +264,6 @@ April 9, 2017 - Fixing a modern tractor takes more than the right parts, but als
 <a href="http://www.npr.org/2017/04/09/523170115/how-misinformation-spreads-on-the-internet-and-how-to-stop-it">http://www.npr.org/2017/04/09/523170115/how-misinformation-spreads-on-the-internet-and-how-to-stop-it</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/09/523019414/reading-the-game-bioshock-infinite</guid>
-      <title>Reading The Game: Bioshock Infinite</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/09/523019414/reading-the-game-bioshock-infinite</link>
-      <description>April 9, 2017 - It&#39;s a simple premise — a guy, a girl, a gun and a debt to repay — but in Bioshock Infinite it becomes a mind-bending story about politics, oppression, change and sacrifice. Set in a flying city.</description>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/bioshockinfinite_hero_web_wide-241dd257ad1788aa35452227897090b78ab557c5-s800-c15.jpg"></a>
-
-April 9, 2017 - It's a simple premise — a guy, a girl, a gun and a debt to repay — but in Bioshock Infinite it becomes a mind-bending story about politics, oppression, change and sacrifice. Set in a flying city.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/09/523019414/reading-the-game-bioshock-infinite">http://www.npr.org/sections/alltechconsidered/2017/04/09/523019414/reading-the-game-bioshock-infinite</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/bioshockinfinite_hero_web_wide-241dd257ad1788aa35452227897090b78ab557c5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_hatch_act_and_twitter.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;story=523057689&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Is The Hatch Act? And What Does It Mean For Government Employees And Twitter?</title>
-      <link>http://www.npr.org/2017/04/08/523057689/what-is-the-hatch-act-and-what-does-it-mean-for-government-employees-and-twitter</link>
-      <description>April 8, 2017 - Last weekend, a Trump staffer was accused of violating the 1939 law barring federal employees from certain political activities. But the jury&#39;s still out over whether he actually did.</description>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170407_me_hatch_act_and_twitter.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;story=523057689&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/08/ap_17091767063814amash_wide-e94d59d5ffb05132f8843af211e411147a65b28b-s800-c15.jpg"></a>
-
-April 8, 2017 - Last weekend, a Trump staffer was accused of violating the 1939 law barring federal employees from certain political activities. But the jury's still out over whether he actually did.
-
-<a href="http://www.npr.org/2017/04/08/523057689/what-is-the-hatch-act-and-what-does-it-mean-for-government-employees-and-twitter">http://www.npr.org/2017/04/08/523057689/what-is-the-hatch-act-and-what-does-it-mean-for-government-employees-and-twitter</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/08/ap_17091767063814amash_wide-e94d59d5ffb05132f8843af211e411147a65b28b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>221</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</guid>
-      <title>Google Accused Of Underpaying Female Employees</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</link>
-      <description>April 8, 2017 - The U.S. Department of Labor is investigating Google for what an official called &#34;systemic compensation disparities&#34; between men and women. The government is suing the company to release its records.</description>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/08/ap_16323202356230_wide-d4cf20c8f481cabc8db57d8735aeb848ebb27d50-s800-c15.jpg"></a>
-
-April 8, 2017 - The U.S. Department of Labor is investigating Google for what an official called "systemic compensation disparities" between men and women. The government is suing the company to release its records.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees">http://www.npr.org/sections/thetwo-way/2017/04/08/523129221/google-accused-of-underpaying-female-employees</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/08/ap_16323202356230_wide-d4cf20c8f481cabc8db57d8735aeb848ebb27d50-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</guid>
-      <title>Taser Changes Its Name To Axon And Offers Free Body Cameras For Police </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</link>
-      <description>April 7, 2017 - Axon, which is the name of the company&#39;s line of body cameras, says it will send law enforcement agencies one body camera per sworn officer to use for a year.</description>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/gettyimages-464977016_wide-5062b442a880f6f86c8a6444594852680de00974-s800-c15.jpg"></a>
-
-April 7, 2017 - Axon, which is the name of the company's line of body cameras, says it will send law enforcement agencies one body camera per sworn officer to use for a year.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name">http://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/gettyimages-464977016_wide-5062b442a880f6f86c8a6444594852680de00974-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
