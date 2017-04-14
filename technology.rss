@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 13:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 15:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 13:00:20 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2017 15:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -71,12 +71,12 @@ April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake view
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=522634994,94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Using &#39;Sentiment Analysis&#39; To Understand Trump&#39;s Tweets</title>
       <link>http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets</link>
       <description>April 13, 2017 - Planet Money tries to make a program that reads Donald Trump&#39;s tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.</description>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=522634994,94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 13, 2017 - Planet Money tries to make a program that reads Donald Trump's tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.
 
