@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 18:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 17:00:12 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2017 18:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</guid>
+      <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</link>
+      <description>April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.</description>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s800-c15.jpg"></a>
+
+April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it</guid>
       <title>A Family Of Ebola Fighters: &#39;With God&#39;s Help, We Made It&#39;</title>
@@ -237,21 +252,6 @@ April 11, 2017 - The National Academy of Sciences has toughened up its guideline
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research">http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/11/523310181/surprising-and-sobering-7-facts-about-global-health</guid>
-      <title>Surprising And Sobering: 7 Facts About Global Health</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/11/523310181/surprising-and-sobering-7-facts-about-global-health</link>
-      <description>April 11, 2017 - What&#39;s an often overlooked killer in the world of global health? Why is heart disease both rising and falling? How did the Model T solve a health problem?</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/gettyimages-124888734-90_wide-fdf4d43d953e696f1508beb4a026f453e7ab4f5c-s800-c15.jpg"></a>
-
-April 11, 2017 - What's an often overlooked killer in the world of global health? Why is heart disease both rising and falling? How did the Model T solve a health problem?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/11/523310181/surprising-and-sobering-7-facts-about-global-health">http://www.npr.org/sections/goatsandsoda/2017/04/11/523310181/surprising-and-sobering-7-facts-about-global-health</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/gettyimages-124888734-90_wide-fdf4d43d953e696f1508beb4a026f453e7ab4f5c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

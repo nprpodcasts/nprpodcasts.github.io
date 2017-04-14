@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 14:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 18:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 14:00:17 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2017 18:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</guid>
+      <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</link>
+      <description>April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.</description>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s800-c15.jpg"></a>
+
+April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523756092/signs-of-hospitality-to-life-found-on-saturns-moon-enceladus</guid>
       <title>Scientists Find Signs That Saturn&#39;s Moon Enceladus Might Be Hospitable To Life </title>
@@ -239,23 +254,6 @@ April 11, 2017 - Physically manipulating the spine appears to offer a modestly e
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/523388406/spinal-manipulation-can-alleviate-back-pain-study-concludes">http://www.npr.org/sections/health-shots/2017/04/11/523388406/spinal-manipulation-can-alleviate-back-pain-study-concludes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/istock-539331446-2_wide-05bd9f8a43b39f734f7e985df1f5b3b1da7675a4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Federal Task Force Softens Opposition To Routine Prostate Cancer Screening</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</link>
-      <description>April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170411_me_federal_task_force_softens_opposition_to_routine_prostate_cancer_screening.mp3?orgId=1&amp;topicId=1128&amp;d=230&amp;p=3&amp;story=522912221&amp;t=progseg&amp;e=523369297&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s800-c15.jpg"></a>
-
-April 11, 2017 - The U.S. Preventive Services Task Force proposes each man decide with his doctor whether to undergo routine PSA testing, citing recent evidence of benefits and ways to minimize downsides of screening.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening">http://www.npr.org/sections/health-shots/2017/04/11/522912221/federal-task-force-softens-opposition-to-routine-prostate-cancer-screening</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/drawing-blood_wide-221d87ccfd2e8345ab6ce9080d8f898d294576d1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
