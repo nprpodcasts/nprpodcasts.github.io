@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 20:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 21:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 20:00:12 +0000</pubDate>
+    <pubDate>Fri, 14 Apr 2017 21:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</guid>
+      <title>Trump Signs Bill That Allows States To Deny Funding To Planned Parenthood</title>
+      <link>http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</link>
+      <description>April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women&#39;s health.</description>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women's health.
+
+<a href="http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood">http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</guid>
       <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
@@ -235,23 +248,6 @@ April 11, 2017 - The U.S. military's burn center in San Antonio is responsible f
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital">http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-6dab98c16029bac3eba927f48c3ce722a4c5feb9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Top Scientists Revamp Standards To Foster Integrity In Research</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</link>
-      <description>April 11, 2017 - The National Academy of Sciences has toughened up its guidelines to call cutting corners, dubious statistics and not fully sharing research methods &#34;detrimental&#34; to science.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s800-c15.jpg"></a>
-
-April 11, 2017 - The National Academy of Sciences has toughened up its guidelines to call cutting corners, dubious statistics and not fully sharing research methods "detrimental" to science.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research">http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
