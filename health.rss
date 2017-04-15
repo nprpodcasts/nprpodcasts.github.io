@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 15:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Apr 2017 00:00:11 +0000</pubDate>
+    <pubDate>Sat, 15 Apr 2017 15:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,57 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tax Day And Health Insurance Under Trump</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</link>
+      <description>April 15, 2017 - To avoid penalties, people who didn&#39;t have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s800-c15.jpg"></a>
+
+April 15, 2017 - To avoid penalties, people who didn't have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump">http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>264</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>U.S. Health Care Wrestles With The &#39;Pre-Existing Condition&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</link>
+      <description>April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s800-c15.jpg"></a>
+
+April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition">http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_trespass_jail_repeat_how_one_man_has_spent_575_days_in_jail.mp3?orgId=375&amp;topicId=1029&amp;d=264&amp;p=7&amp;story=518692463&amp;t=progseg&amp;e=524076389&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Trespass, Jail, Repeat: How One Man Has Spent 575 Days in Jail</title>
+      <link>http://www.npr.org/2017/04/15/518692463/trespass-jail-repeat-how-one-man-has-spent-575-days-in-jail</link>
+      <description>April 15, 2017 - Michael Treadwell has schizophrenia and a drinking problem. He cycles in and out of jail on minor charges like public urination. It costs taxpayers major money, and he&#39;s not the only one.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_trespass_jail_repeat_how_one_man_has_spent_575_days_in_jail.mp3?orgId=375&amp;topicId=1029&amp;d=264&amp;p=7&amp;story=518692463&amp;t=progseg&amp;e=524076389&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/05/img_6778_wide-d8e20d9fe053f66c220bdd6f54d877aa28a8ec43-s800-c15.jpg"></a>
+
+April 15, 2017 - Michael Treadwell has schizophrenia and a drinking problem. He cycles in and out of jail on minor charges like public urination. It costs taxpayers major money, and he's not the only one.
+
+<a href="http://www.npr.org/2017/04/15/518692463/trespass-jail-repeat-how-one-man-has-spent-575-days-in-jail">http://www.npr.org/2017/04/15/518692463/trespass-jail-repeat-how-one-man-has-spent-575-days-in-jail</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/05/img_6778_wide-d8e20d9fe053f66c220bdd6f54d877aa28a8ec43-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>264</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_trump_signs_bill_that_allows_states_to_deny_funding_to_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=523997009&amp;t=progseg&amp;e=523907801&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump Signs Bill That Allows States To Deny Funding To Planned Parenthood</title>
@@ -203,55 +254,6 @@ April 12, 2017 - Fundraising is underway for a new filtration system at an Arizo
 <a href="http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink">http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_no_ant_left_behind_warrior_ants_carry_injured_comrades_home.mp3?orgId=1&amp;topicId=1128&amp;d=171&amp;p=3&amp;story=523313734&amp;t=progseg&amp;e=523709830&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>No Ant Left Behind: Warrior Ants Carry Injured Comrades Home</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</link>
-      <description>April 12, 2017 - Don&#39;t call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_no_ant_left_behind_warrior_ants_carry_injured_comrades_home.mp3?orgId=1&amp;topicId=1128&amp;d=171&amp;p=3&amp;story=523313734&amp;t=progseg&amp;e=523709830&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s800-c15.jpg"></a>
-
-April 12, 2017 - Don't call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home">http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>171</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</guid>
-      <title>What Happens To A Congressman&#39;s Health Insurance If Obamacare Goes Down?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</link>
-      <description>April 12, 2017 - Under the Affordable Care Act, most members of Congress and staff who want to buy health insurance must buy it on the exchange. That requirement is not affected by bills aimed at replacing the ACA.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/congress-insurance_wide-03675364f66f8ae5e21fe9b316d10b88ac272071-s800-c15.jpg"></a>
-
-April 12, 2017 - Under the Affordable Care Act, most members of Congress and staff who want to buy health insurance must buy it on the exchange. That requirement is not affected by bills aimed at replacing the ACA.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down">http://www.npr.org/sections/health-shots/2017/04/12/523335954/what-happens-to-a-congressmans-health-insurance-if-obamacare-goes-down</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/congress-insurance_wide-03675364f66f8ae5e21fe9b316d10b88ac272071-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_civilians_with_severe_burns_treated_at_texas_military_hospital.mp3?orgId=188&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=521003804&amp;t=progseg&amp;e=523361213&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Civilians With Severe Burns Treated At Texas Military Hospital</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital</link>
-      <description>April 11, 2017 - The U.S. military&#39;s burn center in San Antonio is responsible for treating service members who are badly burned. But, to stay sharp, the medical teams there also treat civilians.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_civilians_with_severe_burns_treated_at_texas_military_hospital.mp3?orgId=188&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=521003804&amp;t=progseg&amp;e=523361213&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-6dab98c16029bac3eba927f48c3ce722a4c5feb9-s800-c15.jpg"></a>
-
-April 11, 2017 - The U.S. military's burn center in San Antonio is responsible for treating service members who are badly burned. But, to stay sharp, the medical teams there also treat civilians.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital">http://www.npr.org/sections/health-shots/2017/04/11/521003804/civilians-with-severe-burns-treated-at-texas-military-hospital</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/23/burncentertworigby_wide-6dab98c16029bac3eba927f48c3ce722a4c5feb9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

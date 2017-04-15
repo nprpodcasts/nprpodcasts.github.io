@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 00:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 15:00:36 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Apr 2017 00:00:09 +0000</pubDate>
+    <pubDate>Sat, 15 Apr 2017 15:00:36 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>U.S. Health Care Wrestles With The &#39;Pre-Existing Condition&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</link>
+      <description>April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s800-c15.jpg"></a>
+
+April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition">http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Find A New Way To Make Water From Thin Air</title>
@@ -241,21 +258,6 @@ April 11, 2017 - The National Academy of Sciences has toughened up its guideline
 <a href="http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research">http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</guid>
-      <title>Asbestos Deaths Remain A Public Health Concern, CDC Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</link>
-      <description>April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s800-c15.jpg"></a>
-
-April 11, 2017 - Exposure to the tiny fibers in asbestos can lead people who work around the material to develop mesothelioma, a cancer of the thin membranes that line the chest and abdomen.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds">http://www.npr.org/sections/health-shots/2017/04/11/523277735/asbestos-deaths-remain-a-public-health-concern-cdc-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/asbestos-2_wide-4c15027dffe54b1163a6244f458a6d977dbe5d8e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
