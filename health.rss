@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 21:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 00:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 21:00:32 +0000</pubDate>
+    <pubDate>Sat, 15 Apr 2017 00:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,24 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_trump_signs_bill_that_allows_states_to_deny_funding_to_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=523997009&amp;t=progseg&amp;e=523907801&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump Signs Bill That Allows States To Deny Funding To Planned Parenthood</title>
       <link>http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</link>
       <description>April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women&#39;s health.</description>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_trump_signs_bill_that_allows_states_to_deny_funding_to_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=523997009&amp;t=progseg&amp;e=523907801&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women's health.
 
 <a href="http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood">http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>221</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</link>
       <description>April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.</description>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s800-c15.jpg"></a>
 
@@ -49,6 +52,7 @@ April 14, 2017 - The hypercompetitive world of biomedical research occasionally 
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>290</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

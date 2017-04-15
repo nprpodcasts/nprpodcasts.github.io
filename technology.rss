@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 19:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 00:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Apr 2017 19:00:10 +0000</pubDate>
+    <pubDate>Sat, 15 Apr 2017 00:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Find A New Way To Make Water From Thin Air</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</link>
       <description>April 14, 2017 - The device isn&#39;t the first technology that can turn water vapor into drinkable liquid water. But its creators say it uses less power and works in drier conditions — the key is something called a MOF.</description>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/14/prototype_31_wide-5ad1564f424504ce20bc55189bda806476d21091-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 14, 2017 - The device isn't the first technology that can turn water vapor
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air">http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/prototype_31_wide-5ad1564f424504ce20bc55189bda806476d21091-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>144</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
