@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 00:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2017 07:49:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Apr 2017 00:00:07 +0000</pubDate>
+    <pubDate>Sun, 16 Apr 2017 07:49:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/15/524139633/robert-taylor-a-pioneer-of-modern-computing-and-the-internet-dies-at-85</guid>
+      <title>Robert Taylor, A Pioneer Of Modern Computing And The Internet, Dies At 85</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/15/524139633/robert-taylor-a-pioneer-of-modern-computing-and-the-internet-dies-at-85</link>
+      <description>April 15, 2017 - Nearly 50 years ago, visionary Bob Taylor channeled his frustrations with inefficient communication methods into launching the personal computer, as well as the forerunner of today&#39;s Internet.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 15, 2017 - Nearly 50 years ago, visionary Bob Taylor channeled his frustrations with inefficient communication methods into launching the personal computer, as well as the forerunner of today's Internet.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/15/524139633/robert-taylor-a-pioneer-of-modern-computing-and-the-internet-dies-at-85">http://www.npr.org/sections/thetwo-way/2017/04/15/524139633/robert-taylor-a-pioneer-of-modern-computing-and-the-internet-dies-at-85</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Find A New Way To Make Water From Thin Air</title>
@@ -248,23 +261,6 @@ April 10, 2017 - Apple was once considered the most innovative company in the te
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo">http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/ap_16210587891666_wide-dbc01d4beb96f863fa02012aff62732a48b0a149-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170409_atc_farmers_look_for_ways_to_circumvent_tractor_software_locks.mp3?orgId=203&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=523024776&amp;t=progseg&amp;e=523203709&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Farmers Look For Ways To Circumvent Tractor Software Locks</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/09/523024776/farmers-look-for-ways-to-circumvent-tractor-software-locks</link>
-      <description>April 9, 2017 - Fixing a modern tractor takes more than the right parts, but also the right software. Farmers are lobbying for the ability to buy that software, and some are hacking their way around the problem.</description>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170409_atc_farmers_look_for_ways_to_circumvent_tractor_software_locks.mp3?orgId=203&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=523024776&amp;t=progseg&amp;e=523203709&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/ap_302681179763_wide-a0c3e386c1d111869a7ec6796a910710f9480a79-s800-c15.jpg"></a>
-
-April 9, 2017 - Fixing a modern tractor takes more than the right parts, but also the right software. Farmers are lobbying for the ability to buy that software, and some are hacking their way around the problem.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/09/523024776/farmers-look-for-ways-to-circumvent-tractor-software-locks">http://www.npr.org/sections/alltechconsidered/2017/04/09/523024776/farmers-look-for-ways-to-circumvent-tractor-software-locks</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/ap_302681179763_wide-a0c3e386c1d111869a7ec6796a910710f9480a79-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
