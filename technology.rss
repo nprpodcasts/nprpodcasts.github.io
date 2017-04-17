@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2017 07:49:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 15:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 16 Apr 2017 07:49:28 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 15:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_at_intel_a_retirement_perk_that_can_kick_off_a_new_career_as_a_paid_fellow.mp3?orgId=1&amp;topicId=1006&amp;d=223&amp;p=3&amp;story=523772071&amp;t=progseg&amp;e=524285721&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>At Intel, A Retirement Perk That Can Kick Off A New Career As A Paid Fellow</title>
+      <link>http://www.npr.org/2017/04/17/523772071/at-intel-a-retirement-perk-that-can-kick-off-a-new-career-as-a-paid-fellow</link>
+      <description>April 17, 2017 - The tech company pays retirement-age employees a stipend to transition to jobs with mission-driven nonprofits. And for some, the fellowship can turn into a second act.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_at_intel_a_retirement_perk_that_can_kick_off_a_new_career_as_a_paid_fellow.mp3?orgId=1&amp;topicId=1006&amp;d=223&amp;p=3&amp;story=523772071&amp;t=progseg&amp;e=524285721&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/14/gail-dougherty-edit_wide-dd6df23df3cead963cc626300c0c80a1c3f48417-s800-c15.jpg"></a>
+
+April 17, 2017 - The tech company pays retirement-age employees a stipend to transition to jobs with mission-driven nonprofits. And for some, the fellowship can turn into a second act.
+
+<a href="http://www.npr.org/2017/04/17/523772071/at-intel-a-retirement-perk-that-can-kick-off-a-new-career-as-a-paid-fellow">http://www.npr.org/2017/04/17/523772071/at-intel-a-retirement-perk-that-can-kick-off-a-new-career-as-a-paid-fellow</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/gail-dougherty-edit_wide-dd6df23df3cead963cc626300c0c80a1c3f48417-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>223</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170416_wesun_selling_your_internet_browsing_history.mp3?orgId=1&amp;topicId=1019&amp;d=211&amp;p=10&amp;story=524177364&amp;t=progseg&amp;e=524177149&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Selling Your Internet Browsing History</title>
+      <link>http://www.npr.org/2017/04/16/524177364/selling-your-internet-browsing-history</link>
+      <description>April 16, 2017 - Last month Congress repealed regulations that would have put hefty restrictions on Internet service providers. So what do these companies know about us and what can they do with that information?</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170416_wesun_selling_your_internet_browsing_history.mp3?orgId=1&amp;topicId=1019&amp;d=211&amp;p=10&amp;story=524177364&amp;t=progseg&amp;e=524177149&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 16, 2017 - Last month Congress repealed regulations that would have put hefty restrictions on Internet service providers. So what do these companies know about us and what can they do with that information?
+
+<a href="http://www.npr.org/2017/04/16/524177364/selling-your-internet-browsing-history">http://www.npr.org/2017/04/16/524177364/selling-your-internet-browsing-history</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>211</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/15/524139633/robert-taylor-a-pioneer-of-modern-computing-and-the-internet-dies-at-85</guid>
       <title>Robert Taylor, A Pioneer Of Modern Computing And The Internet, Dies At 85</title>
@@ -228,40 +260,6 @@ April 10, 2017 - TO: Ava / FROM: Dad / SUBJECT: Your very first email ever! / "H
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/10/521594471/preserving-memories-in-emails-to-a-toddler-a-window-into-her-parents-love">http://www.npr.org/sections/alltechconsidered/2017/04/10/521594471/preserving-memories-in-emails-to-a-toddler-a-window-into-her-parents-love</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/29/lbp_0656-1-_wide-7caf96878cf46b8df566d7d32cfc66dfea6d31b6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>207</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_natural_gas_plant_makes_a_play_for_coals_market_using_clean_technology.mp3?orgId=1&amp;topicId=1007&amp;d=238&amp;p=2&amp;story=522662776&amp;t=progseg&amp;e=523239380&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Natural Gas Plant Makes A Play For Coal&#39;s Market, Using &#39;Clean&#39; Technology</title>
-      <link>http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</link>
-      <description>April 10, 2017 - The idea behind &#34;clean coal&#34; is technology that would capture for reuse most of the carbon dioxide emitted by coal-burning power plants. Entrepreneurs aim to use similar tech to clean natural gas.</description>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_natural_gas_plant_makes_a_play_for_coals_market_using_clean_technology.mp3?orgId=1&amp;topicId=1007&amp;d=238&amp;p=2&amp;story=522662776&amp;t=progseg&amp;e=523239380&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/natural-gas-1_wide-dfa53cfe6d424c4f771ce0c5b869ededfbd8cd31-s800-c15.jpg"></a>
-
-April 10, 2017 - The idea behind "clean coal" is technology that would capture for reuse most of the carbon dioxide emitted by coal-burning power plants. Entrepreneurs aim to use similar tech to clean natural gas.
-
-<a href="http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology">http://www.npr.org/2017/04/07/522662776/natural-gas-plant-makes-a-play-for-coals-market-using-clean-technology</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/natural-gas-1_wide-dfa53cfe6d424c4f771ce0c5b869ededfbd8cd31-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>238</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_has_apple_lost_its_innovation_mojo_.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=3&amp;story=523035456&amp;t=progseg&amp;e=523237710&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Has Apple Lost Its Innovation Mojo? </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo</link>
-      <description>April 10, 2017 - Apple was once considered the most innovative company in the tech sector. But by some accounts, it&#39;s being shown up by products from Amazon, Microsoft and now Samsung.</description>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170410_me_has_apple_lost_its_innovation_mojo_.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=3&amp;story=523035456&amp;t=progseg&amp;e=523237710&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/07/ap_16210587891666_wide-dbc01d4beb96f863fa02012aff62732a48b0a149-s800-c15.jpg"></a>
-
-April 10, 2017 - Apple was once considered the most innovative company in the tech sector. But by some accounts, it's being shown up by products from Amazon, Microsoft and now Samsung.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo">http://www.npr.org/sections/alltechconsidered/2017/04/10/523035456/has-apple-lost-its-innovation-mojo</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/ap_16210587891666_wide-dbc01d4beb96f863fa02012aff62732a48b0a149-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

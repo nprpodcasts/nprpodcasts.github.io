@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 15:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 15:00:36 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Apr 2017 15:00:31 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 15:00:36 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,20 +24,82 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tax Day And Health Insurance Under Trump</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</link>
-      <description>April 15, 2017 - To avoid penalties, people who didn&#39;t have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.</description>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Untangling The Mystery Of Why Shoelaces Come Untied</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied</link>
+      <description>April 17, 2017 - Scientists at the University of California, Berkeley have figured out why shoelaces seem to come untied at the worst moments, like when you&#39;re running.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/tied_wide-648719b89532962b35cdb14796104eec34e21bf2-s800-c15.jpg"></a>
 
-April 15, 2017 - To avoid penalties, people who didn't have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.
+April 17, 2017 - Scientists at the University of California, Berkeley have figured out why shoelaces seem to come untied at the worst moments, like when you're running.
 
-<a href="http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump">http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>264</itunes:duration>
+<a href="http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied">http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tied_wide-648719b89532962b35cdb14796104eec34e21bf2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>146</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_powwow_sweat_promotes_fitness_through_traditional_dance.mp3?orgId=1146&amp;topicId=1066&amp;d=244&amp;p=3&amp;story=522994311&amp;t=progseg&amp;e=524285721&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Powwow Sweat&#39; Promotes Fitness Through Traditional Dance</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/17/522994311/powwow-sweat-promotes-fitness-through-traditional-dance</link>
+      <description>April 17, 2017 - Native Americans are 60 percent more likely to be obese than non-Hispanic whites. The Coeur D&#39;Alene Tribe in Idaho is using traditional dance to get fit and lose weight. They call it &#34;Powwow Sweat.&#34;</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_powwow_sweat_promotes_fitness_through_traditional_dance.mp3?orgId=1146&amp;topicId=1066&amp;d=244&amp;p=3&amp;story=522994311&amp;t=progseg&amp;e=524285721&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/powwowcrowhop0_wide-90e3db76a6fc49895f563784a5501c8e6f854379-s800-c15.jpg"></a>
+
+April 17, 2017 - Native Americans are 60 percent more likely to be obese than non-Hispanic whites. The Coeur D'Alene Tribe in Idaho is using traditional dance to get fit and lose weight. They call it "Powwow Sweat."
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/17/522994311/powwow-sweat-promotes-fitness-through-traditional-dance">http://www.npr.org/sections/health-shots/2017/04/17/522994311/powwow-sweat-promotes-fitness-through-traditional-dance</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/powwowcrowhop0_wide-90e3db76a6fc49895f563784a5501c8e6f854379-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>244</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/16/523592625/-when-i-was-your-age-and-other-conversational-pitfalls-of-talking-to-teens</guid>
+      <title>&#39;When I Was Your Age&#39; And Other Pitfalls Of Talking To Teens About Stress</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/16/523592625/-when-i-was-your-age-and-other-conversational-pitfalls-of-talking-to-teens</link>
+      <description>April 16, 2017 - Helping teenagers develop cognitive empathy, the ability to understand another person&#39;s perspective, can allow them to cope with stress better. But whether they accept help can be all in the phrasing.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/npr_cognitiveempathy_wide-57fb410c6e4b14cdc6df495acc2224a6ea4219a1-s800-c15.jpg"></a>
+
+April 16, 2017 - Helping teenagers develop cognitive empathy, the ability to understand another person's perspective, can allow them to cope with stress better. But whether they accept help can be all in the phrasing.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/16/523592625/-when-i-was-your-age-and-other-conversational-pitfalls-of-talking-to-teens">http://www.npr.org/sections/health-shots/2017/04/16/523592625/-when-i-was-your-age-and-other-conversational-pitfalls-of-talking-to-teens</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/npr_cognitiveempathy_wide-57fb410c6e4b14cdc6df495acc2224a6ea4219a1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</guid>
+      <title>Artist Sets Futuristic Dinner Party In World Reshaped By Rising Seas</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</link>
+      <description>April 16, 2017 - How will our diets shift as climate change causes sea-level rise and coastal flooding? Photographer Allie Wist attempts to answer that with pictures of an imagined &#34;post-sea-level-rise dinner party.&#34;</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/15/2016-11-19_flood1957_wide-490458a211b8add3546c3480a790a40c30f0d285-s800-c15.jpg"></a>
+
+April 16, 2017 - How will our diets shift as climate change causes sea-level rise and coastal flooding? Photographer Allie Wist attempts to answer that with pictures of an imagined "post-sea-level-rise dinner party."
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas">http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/15/2016-11-19_flood1957_wide-490458a211b8add3546c3480a790a40c30f0d285-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</guid>
+      <title>The Poetic Intimacy Of Administering Anesthesia</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</link>
+      <description>April 16, 2017 - An anesthesiologist and poet says her medical work is well-suited to poetry, as patients move in and out of consciousness under the doctor&#39;s watch.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/npr_anesthesia_sarawong_wide-359e30574964e736cf445a3d02040ab7399c9e1a-s800-c15.jpeg"></a>
+
+April 16, 2017 - An anesthesiologist and poet says her medical work is well-suited to poetry, as patients move in and out of consciousness under the doctor's watch.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia">http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/npr_anesthesia_sarawong_wide-359e30574964e736cf445a3d02040ab7399c9e1a-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -55,6 +117,23 @@ April 15, 2017 - Insurers and politicians struggle constantly to thread the need
 <a href="http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition">http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tax Day And Health Insurance Under Trump</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</link>
+      <description>April 15, 2017 - To avoid penalties, people who didn&#39;t have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.</description>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_tax_day_and_health_insurance_under_trump.mp3?orgId=105043435&amp;topicId=1027&amp;d=264&amp;p=7&amp;story=523968089&amp;t=progseg&amp;e=524076389&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s800-c15.jpg"></a>
+
+April 15, 2017 - To avoid penalties, people who didn't have health insurance in 2016 or who got federal assistance to pay the premiums need to take a little extra care when completing their tax forms this year.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump">http://www.npr.org/sections/health-shots/2017/04/15/523968089/tax-day-and-health-insurance-under-trump</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tax-forms_wide-502252954ab0b9ece0b8a9ded138a82b99ec936f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>264</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -177,83 +256,6 @@ April 14, 2017 - An outbreak in Brazil isn't slowing down as predicted. Dr. Anth
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door">http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/12/promo-yellow-fever-seamus_wide-4555a4bc585a38808b14baa035d66cbbc549f008-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/codeswitch/2017/04/14/510965856/this-week-in-race-a-house-that-flew-over-the-ocean-and-a-man-who-didnt-get-to-fl</guid>
-      <title>This Week In Race: A House That Flew Over The Ocean And A Man Who Didn&#39;t Get To Fly</title>
-      <link>http://www.npr.org/sections/codeswitch/2017/04/14/510965856/this-week-in-race-a-house-that-flew-over-the-ocean-and-a-man-who-didnt-get-to-fl</link>
-      <description>April 14, 2017 - You could say it&#39;s been a pretty turbulent week on the race beat.&#xA;&#xA; - http://www.npr.org/sections/codeswitch/2017/04/14/510965856/this-week-in-race-a-house-that-flew-over-the-ocean-and-a-man-who-didnt-get-to-fl</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/13/gettyimages-665310430_wide-8ae622ec9e71cb9fef30121bb68d32f84c03a5e6-s800-c15.jpg"></a>
-
-April 14, 2017 - You could say it's been a pretty turbulent week on the race beat.
-
-<a href="http://www.npr.org/sections/codeswitch/2017/04/14/510965856/this-week-in-race-a-house-that-flew-over-the-ocean-and-a-man-who-didnt-get-to-fl">http://www.npr.org/sections/codeswitch/2017/04/14/510965856/this-week-in-race-a-house-that-flew-over-the-ocean-and-a-man-who-didnt-get-to-fl</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/gettyimages-665310430_wide-8ae622ec9e71cb9fef30121bb68d32f84c03a5e6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/13/523569821/get-set-for-trump-revisions-to-your-affordable-care-act-insurance</guid>
-      <title>Get Set For Trump Revisions To Your Affordable Care Act Insurance</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/13/523569821/get-set-for-trump-revisions-to-your-affordable-care-act-insurance</link>
-      <description>April 13, 2017 - The Trump administration has finalized a rule that will make big changes in Obamacare health plans and eligibility as soon as this summer. Will it stabilize the insurance marketplace, too?</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/12/instability_wide-f9ea3c8007359f12d992803ac6270382ec472976-s800-c15.jpg"></a>
-
-April 13, 2017 - The Trump administration has finalized a rule that will make big changes in Obamacare health plans and eligibility as soon as this summer. Will it stabilize the insurance marketplace, too?
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/13/523569821/get-set-for-trump-revisions-to-your-affordable-care-act-insurance">http://www.npr.org/sections/health-shots/2017/04/13/523569821/get-set-for-trump-revisions-to-your-affordable-care-act-insurance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/instability_wide-f9ea3c8007359f12d992803ac6270382ec472976-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/codeswitch/2017/04/13/523746277/a-new-approach-to-helping-men-of-color-heal-after-a-violent-incident</guid>
-      <title>A New Approach To Helping Men Of Color Heal After A Violent Incident</title>
-      <link>http://www.npr.org/sections/codeswitch/2017/04/13/523746277/a-new-approach-to-helping-men-of-color-heal-after-a-violent-incident</link>
-      <description>April 13, 2017 - To figure out the best ways to help young black and Latino men heal, a nonprofit will train young men in New York City to conduct interviews with other young men of color.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/13/istock-131932440-edit2_wide-9d23268fba4ae244b79701472c816fc1d6c0c5c2-s800-c15.jpg"></a>
-
-April 13, 2017 - To figure out the best ways to help young black and Latino men heal, a nonprofit will train young men in New York City to conduct interviews with other young men of color.
-
-<a href="http://www.npr.org/sections/codeswitch/2017/04/13/523746277/a-new-approach-to-helping-men-of-color-heal-after-a-violent-incident">http://www.npr.org/sections/codeswitch/2017/04/13/523746277/a-new-approach-to-helping-men-of-color-heal-after-a-violent-incident</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/istock-131932440-edit2_wide-9d23268fba4ae244b79701472c816fc1d6c0c5c2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</guid>
-      <title>What Doesn&#39;t Kill You Can Maim: Unexpected Injuries From Opioids</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</link>
-      <description>April 13, 2017 - Emergency room doctors are just beginning to study a new kind of casualty in the opioid epidemic — patients who survive an overdose, but walk away with brain damage, kidney failure or dead muscle.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/fenatyl-1_wide-bd038ab7fae84bf6a5fad9b7606ec5f17473fe7c-s800-c15.jpg"></a>
-
-April 13, 2017 - Emergency room doctors are just beginning to study a new kind of casualty in the opioid epidemic — patients who survive an overdose, but walk away with brain damage, kidney failure or dead muscle.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids">http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/fenatyl-1_wide-bd038ab7fae84bf6a5fad9b7606ec5f17473fe7c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170412_atc_on_the_navajo_nation_special-ed_students_await_water_thats_doesnt_stink.mp3?orgId=95&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=523303559&amp;t=progseg&amp;e=523553903&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>On The Navajo Nation, Special Ed Students Await Water That Doesn&#39;t Stink</title>
-      <link>http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</link>
-      <description>April 12, 2017 - Fundraising is underway for a new filtration system at an Arizona school for Navajo children with disabilities. Now, the water runs black and smells like rotten eggs, but is technically safe to drink.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170412_atc_on_the_navajo_nation_special-ed_students_await_water_thats_doesnt_stink.mp3?orgId=95&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=523303559&amp;t=progseg&amp;e=523553903&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s800-c15.jpg"></a>
-
-April 12, 2017 - Fundraising is underway for a new filtration system at an Arizona school for Navajo children with disabilities. Now, the water runs black and smells like rotten eggs, but is technically safe to drink.
-
-<a href="http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink">http://www.npr.org/2017/04/12/523303559/on-the-navajo-nation-special-ed-students-await-water-thats-doesnt-stink</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/water_wide-78105d5f26b810677a952468def88d0ba3511c4b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

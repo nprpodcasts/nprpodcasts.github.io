@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2017 15:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 15:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Apr 2017 15:00:36 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 15:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,98 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Untangling The Mystery Of Why Shoelaces Come Untied</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied</link>
+      <description>April 17, 2017 - Scientists at the University of California, Berkeley have figured out why shoelaces seem to come untied at the worst moments, like when you&#39;re running.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/14/tied_wide-648719b89532962b35cdb14796104eec34e21bf2-s800-c15.jpg"></a>
+
+April 17, 2017 - Scientists at the University of California, Berkeley have figured out why shoelaces seem to come untied at the worst moments, like when you're running.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied">http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tied_wide-648719b89532962b35cdb14796104eec34e21bf2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>146</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170416_atc_louisiana.mp3?orgId=1&amp;topicId=1025&amp;d=239&amp;p=2&amp;story=524242254&amp;t=progseg&amp;e=524211527&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Climate Change In Louisiana Changes Diets Of Native Americans</title>
+      <link>http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans</link>
+      <description>April 16, 2017 - Freelance journalist Barry Yeoman says climate change and other man-made obstacles are pushing Native Americans away from traditional foods and towards processed dinners.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170416_atc_louisiana.mp3?orgId=1&amp;topicId=1025&amp;d=239&amp;p=2&amp;story=524242254&amp;t=progseg&amp;e=524211527&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 16, 2017 - Freelance journalist Barry Yeoman says climate change and other man-made obstacles are pushing Native Americans away from traditional foods and towards processed dinners.
+
+<a href="http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans">http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>239</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170416_wesun_spiders_in_australia.mp3?orgId=1&amp;topicId=1132&amp;d=256&amp;p=10&amp;story=524177420&amp;t=progseg&amp;e=524177149&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Spider Scientists Find 50 New Species</title>
+      <link>http://www.npr.org/2017/04/16/524177420/spider-scientists-find-50-new-species</link>
+      <description>April 16, 2017 - A team of arachnologists discovered over 50 new species of spider in Cape York, Australia. Dr. Robert Raven is one of them. He tells Lulu Garcia-Navarro about the expedition and their findings.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170416_wesun_spiders_in_australia.mp3?orgId=1&amp;topicId=1132&amp;d=256&amp;p=10&amp;story=524177420&amp;t=progseg&amp;e=524177149&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 16, 2017 - A team of arachnologists discovered over 50 new species of spider in Cape York, Australia. Dr. Robert Raven is one of them. He tells Lulu Garcia-Navarro about the expedition and their findings.
+
+<a href="http://www.npr.org/2017/04/16/524177420/spider-scientists-find-50-new-species">http://www.npr.org/2017/04/16/524177420/spider-scientists-find-50-new-species</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>256</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/16/508235759/as-a-boy-he-learned-about-science-by-rubbing-calves-ears</guid>
+      <title>As A Boy, He Learned About Science By Rubbing Calves&#39; Ears</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/16/508235759/as-a-boy-he-learned-about-science-by-rubbing-calves-ears</link>
+      <description>April 16, 2017 - Dr. Thumbi Mwangi had a eureka moment when he began researching a cattle disease in the U.S. The treatment was the same thing his dad the farmer had him do when he was growing up in Kenya.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/01/05/a-portrait1-50_wide-aaa115571c80a4686a1bee8100305a6375ab488e-s800-c15.jpg"></a>
+
+April 16, 2017 - Dr. Thumbi Mwangi had a eureka moment when he began researching a cattle disease in the U.S. The treatment was the same thing his dad the farmer had him do when he was growing up in Kenya.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/16/508235759/as-a-boy-he-learned-about-science-by-rubbing-calves-ears">http://www.npr.org/sections/goatsandsoda/2017/04/16/508235759/as-a-boy-he-learned-about-science-by-rubbing-calves-ears</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/01/05/a-portrait1-50_wide-aaa115571c80a4686a1bee8100305a6375ab488e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</guid>
+      <title>Artist Sets Futuristic Dinner Party In World Reshaped By Rising Seas</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</link>
+      <description>April 16, 2017 - How will our diets shift as climate change causes sea-level rise and coastal flooding? Photographer Allie Wist attempts to answer that with pictures of an imagined &#34;post-sea-level-rise dinner party.&#34;</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/15/2016-11-19_flood1957_wide-490458a211b8add3546c3480a790a40c30f0d285-s800-c15.jpg"></a>
+
+April 16, 2017 - How will our diets shift as climate change causes sea-level rise and coastal flooding? Photographer Allie Wist attempts to answer that with pictures of an imagined "post-sea-level-rise dinner party."
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas">http://www.npr.org/sections/thesalt/2017/04/16/520294246/artist-sets-futuristic-dinner-party-in-world-reshaped-by-rising-seas</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/15/2016-11-19_flood1957_wide-490458a211b8add3546c3480a790a40c30f0d285-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</guid>
+      <title>The Poetic Intimacy Of Administering Anesthesia</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</link>
+      <description>April 16, 2017 - An anesthesiologist and poet says her medical work is well-suited to poetry, as patients move in and out of consciousness under the doctor&#39;s watch.</description>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/14/npr_anesthesia_sarawong_wide-359e30574964e736cf445a3d02040ab7399c9e1a-s800-c15.jpeg"></a>
+
+April 16, 2017 - An anesthesiologist and poet says her medical work is well-suited to poetry, as patients move in and out of consciousness under the doctor's watch.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia">http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/npr_anesthesia_sarawong_wide-359e30574964e736cf445a3d02040ab7399c9e1a-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.S. Health Care Wrestles With The &#39;Pre-Existing Condition&#39;</title>
@@ -164,100 +256,6 @@ April 12, 2017 - More than half of those species are only found in a single coun
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say">http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/12/gettyimages-133851155_wide-7a18344c1aad700e4b894c40994f4d7d0a6f21d1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_no_ant_left_behind_warrior_ants_carry_injured_comrades_home.mp3?orgId=1&amp;topicId=1128&amp;d=171&amp;p=3&amp;story=523313734&amp;t=progseg&amp;e=523709830&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>No Ant Left Behind: Warrior Ants Carry Injured Comrades Home</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</link>
-      <description>April 12, 2017 - Don&#39;t call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_no_ant_left_behind_warrior_ants_carry_injured_comrades_home.mp3?orgId=1&amp;topicId=1128&amp;d=171&amp;p=3&amp;story=523313734&amp;t=progseg&amp;e=523709830&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s800-c15.jpg"></a>
-
-April 12, 2017 - Don't call it empathy, scientists say. These termite-eating ants only retrieve injured comrades on the way home from a hunt, not before. But the hurt ants do recover better at home — to fight again.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home">http://www.npr.org/sections/health-shots/2017/04/12/523313734/no-ant-left-behind-warrior-ants-carry-injured-comrades-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/ant-injury_wide-ca083f38a3ade6663408c1ead3bed44caf1d6a66-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>171</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/12/521800847/a-forgotten-piece-of-african-american-history-on-the-great-plains</guid>
-      <title>A Forgotten Piece Of African-American History On The Great Plains</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/12/521800847/a-forgotten-piece-of-african-american-history-on-the-great-plains</link>
-      <description>April 12, 2017 - Nearly a century ago, Dearfield, Colo., was a thriving African-American farm community, admired by many of its white neighbors. There were even early signs of integration. Then came the Dust Bowl.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/28/030817_dearfield_jackson_house_wide-6c8b798b77ae3b05e12f4a0e72bac7d795d3c7c5-s800-c15.jpg"></a>
-
-April 12, 2017 - Nearly a century ago, Dearfield, Colo., was a thriving African-American farm community, admired by many of its white neighbors. There were even early signs of integration. Then came the Dust Bowl.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/12/521800847/a-forgotten-piece-of-african-american-history-on-the-great-plains">http://www.npr.org/sections/thesalt/2017/04/12/521800847/a-forgotten-piece-of-african-american-history-on-the-great-plains</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/28/030817_dearfield_jackson_house_wide-6c8b798b77ae3b05e12f4a0e72bac7d795d3c7c5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/12/522068205/fungal-pesticides-offer-a-growing-alternative-to-traditional-chemicals</guid>
-      <title>Fungal Pesticides Offer A Growing Alternative To Traditional Chemicals</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/12/522068205/fungal-pesticides-offer-a-growing-alternative-to-traditional-chemicals</link>
-      <description>April 12, 2017 - The rise of organic produce has sparked a new interest in using biopesticides like fungi to kill insects, instead of traditional synthetic ones. But they are still just a tiny segment of the market.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/03/30/kudzu-mycosis-2_wide-5d81bb477628489675daad5f30719a9e13459448-s800-c15.jpg"></a>
-
-April 12, 2017 - The rise of organic produce has sparked a new interest in using biopesticides like fungi to kill insects, instead of traditional synthetic ones. But they are still just a tiny segment of the market.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/12/522068205/fungal-pesticides-offer-a-growing-alternative-to-traditional-chemicals">http://www.npr.org/sections/thesalt/2017/04/12/522068205/fungal-pesticides-offer-a-growing-alternative-to-traditional-chemicals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/30/kudzu-mycosis-2_wide-5d81bb477628489675daad5f30719a9e13459448-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_hb_college_admissions.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=214&amp;p=3&amp;story=523534103&amp;t=progseg&amp;e=523533765&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How To Get Low-Income Students Into Selective Colleges</title>
-      <link>http://www.npr.org/2017/04/12/523534103/how-to-get-low-income-students-into-selective-colleges</link>
-      <description>April 12, 2017 - New social science research looks at how to get more low-income students into college.&#xA;&#xA; - http://www.npr.org/2017/04/12/523534103/how-to-get-low-income-students-into-selective-colleges</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_hb_college_admissions.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=214&amp;p=3&amp;story=523534103&amp;t=progseg&amp;e=523533765&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 12, 2017 - New social science research looks at how to get more low-income students into college.
-
-<a href="http://www.npr.org/2017/04/12/523534103/how-to-get-low-income-students-into-selective-colleges">http://www.npr.org/2017/04/12/523534103/how-to-get-low-income-students-into-selective-colleges</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_cash-strapped_state_environmental_agencies_brace_for_budget_cuts.mp3?orgId=1&amp;topicId=1025&amp;d=218&amp;p=2&amp;story=523450904&amp;t=progseg&amp;e=523361213&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Cash-Strapped State Environmental Agencies Brace For Budget Cuts</title>
-      <link>http://www.npr.org/2017/04/11/523450904/cash-strapped-state-environmental-agencies-brace-for-budget-cuts</link>
-      <description>April 11, 2017 - Proposed budget cuts to the Environmental Protection Agency could leave state environmental agencies doing more with less money. But many say they are already strapped.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170411_atc_cash-strapped_state_environmental_agencies_brace_for_budget_cuts.mp3?orgId=1&amp;topicId=1025&amp;d=218&amp;p=2&amp;story=523450904&amp;t=progseg&amp;e=523361213&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 11, 2017 - Proposed budget cuts to the Environmental Protection Agency could leave state environmental agencies doing more with less money. But many say they are already strapped.
-
-<a href="http://www.npr.org/2017/04/11/523450904/cash-strapped-state-environmental-agencies-brace-for-budget-cuts">http://www.npr.org/2017/04/11/523450904/cash-strapped-state-environmental-agencies-brace-for-budget-cuts</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Top Scientists Revamp Standards To Foster Integrity In Research</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</link>
-      <description>April 11, 2017 - The National Academy of Sciences has toughened up its guidelines to call cutting corners, dubious statistics and not fully sharing research methods &#34;detrimental&#34; to science.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_top_scientists_revamp_standards_to_foster_integrity_in_research.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=3&amp;story=523406710&amp;t=progseg&amp;e=523533765&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s800-c15.jpg"></a>
-
-April 11, 2017 - The National Academy of Sciences has toughened up its guidelines to call cutting corners, dubious statistics and not fully sharing research methods "detrimental" to science.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research">http://www.npr.org/sections/health-shots/2017/04/11/523406710/top-scientists-revamp-standards-to-foster-integrity-in-research</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/dna-gels_wide-f9566abd6445db3d6c1a01140c08746ae5569df5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
