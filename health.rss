@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 15:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 19:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Apr 2017 15:00:36 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 19:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</guid>
+      <title>Home-Based Drug Treatment Program Costs Less And Works</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</link>
+      <description>April 17, 2017 - Treating addiction is expensive and patients often relapse. A new company is offering better results at a price that&#39;s lower in the long run — and clients get treatment right at home.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/07/in-home-1_wide-a981693bdb9e947e1a03e22ec4ef7c85db818961-s800-c15.jpg"></a>
+
+April 17, 2017 - Treating addiction is expensive and patients often relapse. A new company is offering better results at a price that's lower in the long run — and clients get treatment right at home.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works">http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/in-home-1_wide-a981693bdb9e947e1a03e22ec4ef7c85db818961-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Untangling The Mystery Of Why Shoelaces Come Untied</title>
@@ -241,21 +256,6 @@ April 14, 2017 - The overall increase in the number of Americans with health ins
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca">http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/health-insurance-map_wide-57828b00001f71dd6b7e14e383248e5ad76f685d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door</guid>
-      <title>Is Yellow Fever Knocking At Our Door?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door</link>
-      <description>April 14, 2017 - An outbreak in Brazil isn&#39;t slowing down as predicted. Dr. Anthony Fauci calls it &#34;a potential threat&#34; to the U.S.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/12/promo-yellow-fever-seamus_wide-4555a4bc585a38808b14baa035d66cbbc549f008-s800-c15.png"></a>
-
-April 14, 2017 - An outbreak in Brazil isn't slowing down as predicted. Dr. Anthony Fauci calls it "a potential threat" to the U.S.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door">http://www.npr.org/sections/goatsandsoda/2017/04/14/523312856/is-yellow-fever-knocking-at-our-door</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/promo-yellow-fever-seamus_wide-4555a4bc585a38808b14baa035d66cbbc549f008-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

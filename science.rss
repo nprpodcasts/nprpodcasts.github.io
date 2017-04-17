@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 15:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 19:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Apr 2017 15:00:34 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 19:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</guid>
+      <title>Home-Based Drug Treatment Program Costs Less And Works</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</link>
+      <description>April 17, 2017 - Treating addiction is expensive and patients often relapse. A new company is offering better results at a price that&#39;s lower in the long run — and clients get treatment right at home.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/in-home-1_wide-a981693bdb9e947e1a03e22ec4ef7c85db818961-s800-c15.jpg"></a>
+
+April 17, 2017 - Treating addiction is expensive and patients often relapse. A new company is offering better results at a price that's lower in the long run — and clients get treatment right at home.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works">http://www.npr.org/sections/health-shots/2017/04/17/523016186/home-based-drug-treatment-program-costs-less-and-works</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/in-home-1_wide-a981693bdb9e947e1a03e22ec4ef7c85db818961-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/17/523609388/peep-show-watch-us-calculate-the-speed-of-light-with-stale-easter-treats</guid>
+      <title>Peep Show: Watch Us Calculate The Speed Of Light With Stale Easter Treats</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/17/523609388/peep-show-watch-us-calculate-the-speed-of-light-with-stale-easter-treats</link>
+      <description>April 17, 2017 - NPR&#39;s Adam Cole demonstrates a science experiment that offers a new use for old Peeps. All you need is a ruler and a microwave.</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/13/peep-show_wide-1a17b9d0ecf62ca69d1c242f2b5026a84e48a4e0-s800-c15.png"></a>
+
+April 17, 2017 - NPR's Adam Cole demonstrates a science experiment that offers a new use for old Peeps. All you need is a ruler and a microwave.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/17/523609388/peep-show-watch-us-calculate-the-speed-of-light-with-stale-easter-treats">http://www.npr.org/sections/thesalt/2017/04/17/523609388/peep-show-watch-us-calculate-the-speed-of-light-with-stale-easter-treats</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/peep-show_wide-1a17b9d0ecf62ca69d1c242f2b5026a84e48a4e0-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170417_me_untangling_the_mystery_of_why_shoelaces_come_untied.mp3?orgId=1&amp;topicId=1128&amp;d=146&amp;p=3&amp;story=523636317&amp;t=progseg&amp;e=524285721&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Untangling The Mystery Of Why Shoelaces Come Untied</title>
@@ -226,36 +256,6 @@ April 13, 2017 - Eels sometimes swim thousands of miles from their birthplace in
 <a href="http://www.npr.org/2017/04/13/523717152/how-can-the-colorado-river-continue-to-support-36-million-people-in-7-states">http://www.npr.org/2017/04/13/523717152/how-can-the-colorado-river-continue-to-support-36-million-people-in-7-states</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>1586</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</guid>
-      <title>What Doesn&#39;t Kill You Can Maim: Unexpected Injuries From Opioids</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</link>
-      <description>April 13, 2017 - Emergency room doctors are just beginning to study a new kind of casualty in the opioid epidemic — patients who survive an overdose, but walk away with brain damage, kidney failure or dead muscle.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/11/fenatyl-1_wide-bd038ab7fae84bf6a5fad9b7606ec5f17473fe7c-s800-c15.jpg"></a>
-
-April 13, 2017 - Emergency room doctors are just beginning to study a new kind of casualty in the opioid epidemic — patients who survive an overdose, but walk away with brain damage, kidney failure or dead muscle.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids">http://www.npr.org/sections/health-shots/2017/04/13/523452905/what-doesnt-kill-you-can-maim-unexpected-injuries-from-opioids</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/11/fenatyl-1_wide-bd038ab7fae84bf6a5fad9b7606ec5f17473fe7c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</guid>
-      <title>There Are More Than 60,000 Tree Species Worldwide, Scientists Say</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</link>
-      <description>April 12, 2017 - More than half of those species are only found in a single country, and many of them face extinction. The scientists hope that this database will be an important tool for conservationists.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/12/gettyimages-133851155_wide-7a18344c1aad700e4b894c40994f4d7d0a6f21d1-s800-c15.jpg"></a>
-
-April 12, 2017 - More than half of those species are only found in a single country, and many of them face extinction. The scientists hope that this database will be an important tool for conservationists.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say">http://www.npr.org/sections/thetwo-way/2017/04/12/523616033/there-are-60-000-species-of-tree-worldwide-scientists-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/gettyimages-133851155_wide-7a18344c1aad700e4b894c40994f4d7d0a6f21d1-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
