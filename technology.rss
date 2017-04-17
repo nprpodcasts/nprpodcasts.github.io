@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 20:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 21:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Apr 2017 20:00:24 +0000</pubDate>
+    <pubDate>Mon, 17 Apr 2017 21:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/17/524393092/facebook-cracks-down-on-30-000-fake-accounts-in-france</guid>
+      <title>Facebook Cracks Down On 30,000 Fake Accounts In France</title>
+      <link>http://www.npr.org/2017/04/17/524393092/facebook-cracks-down-on-30-000-fake-accounts-in-france</link>
+      <description>April 17, 2017 - Facebook is targeting 30,000 fake accounts linked to France that are being used to spread fake news, spam, hoaxes and misinformation. The company said it is trying to &#34;reduce the spread of material generated through inauthentic activity, including spam, misinformation, or other deceptive content that is often shared by creators of fake accounts.&#34;</description>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 17, 2017 - Facebook is targeting 30,000 fake accounts linked to France that are being used to spread fake news, spam, hoaxes and misinformation. The company said it is trying to "reduce the spread of material generated through inauthentic activity, including spam, misinformation, or other deceptive content that is often shared by creators of fake accounts."
+
+<a href="http://www.npr.org/2017/04/17/524393092/facebook-cracks-down-on-30-000-fake-accounts-in-france">http://www.npr.org/2017/04/17/524393092/facebook-cracks-down-on-30-000-fake-accounts-in-france</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/17/524339669/ride-hailing-in-rural-america-like-uber-with-a-neighborly-feel</guid>
       <title>Ride Hailing In Rural America: Like Uber With A Neighborly Feel</title>
@@ -243,21 +256,6 @@ April 11, 2017 - Instead of soaring towers with antennas on top, future cell sit
 <a href="http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture">http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-631870776_wide-523588470d8d57bcce922fde89a55c9261eccced-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_states_introduce_new_legislation_to_protect_internet_privacy.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=523311405&amp;t=progseg&amp;e=523239380&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>States Introduce New Legislation To Protect Internet Privacy</title>
-      <link>http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy</link>
-      <description>April 10, 2017 - A recent move by Congress to strip the Federal Communications Commission of the power to protect Internet privacy has provoked outrage among some, and state legislatures may try to weigh in.</description>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_states_introduce_new_legislation_to_protect_internet_privacy.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=523311405&amp;t=progseg&amp;e=523239380&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 10, 2017 - A recent move by Congress to strip the Federal Communications Commission of the power to protect Internet privacy has provoked outrage among some, and state legislatures may try to weigh in.
-
-<a href="http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy">http://www.npr.org/2017/04/10/523311405/states-introduce-new-legislation-to-protect-internet-privacy</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
