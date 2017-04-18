@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 14:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 17:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 14:00:34 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 17:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</guid>
+      <title>WATCH: NASA Livestreams 360-Degree View Of Rocket Launch</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</link>
+      <description>April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s800-c15.jpg"></a>
+
+April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch">http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</guid>
       <title>Tech Is Dominating Efforts To Educate Syrian Refugees </title>
@@ -241,23 +256,6 @@ April 12, 2017 - Companies touting their wares at an annual border security conf
 <a href="http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston">http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>207</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_us_border_patrol_agents_step_up_cell_phone_searches.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;story=523313829&amp;siteplayer=true&amp;dl=1</guid>
-      <title>More Travelers Entering U.S. Are Being Asked For Their Cellphones And Passwords</title>
-      <link>http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s</link>
-      <description>April 11, 2017 - The Department of Homeland Security says such demands aren&#39;t routine and represent a fraction of those entering the country.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_us_border_patrol_agents_step_up_cell_phone_searches.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;story=523313829&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/10/ap_17049076306114_wide-24195615d1f45de50bfa3e92d51b0b0999f1e0e8-s800-c15.jpg"></a>
-
-April 11, 2017 - The Department of Homeland Security says such demands aren't routine and represent a fraction of those entering the country.
-
-<a href="http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s">http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/ap_17049076306114_wide-24195615d1f45de50bfa3e92d51b0b0999f1e0e8-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 14:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 17:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 14:00:36 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 17:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,12 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_researchers_examine_the_psychology_of_protest_movements.mp3?orgId=1&amp;topicId=1024&amp;d=209&amp;p=3&amp;story=524473948&amp;t=progseg&amp;e=524465020&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</guid>
+      <title>WATCH: NASA Livestreams 360-Degree View Of Rocket Launch</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</link>
+      <description>April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s800-c15.jpg"></a>
+
+April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch">http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_researchers_examine_the_psychology_of_protest_movements.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=209&amp;p=3&amp;story=524473948&amp;t=progseg&amp;e=524465020&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Examine The Psychology Of Protest Movements</title>
       <link>http://www.npr.org/2017/04/18/524473948/researchers-examine-the-psychology-of-protest-movements</link>
       <description>April 18, 2017 - Social science researchers examine whether extreme protest tactics are an effective way for recruiting popular support. The public may not be relating to protesters like the way protesters aimed for.</description>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_researchers_examine_the_psychology_of_protest_movements.mp3?orgId=1&amp;topicId=1024&amp;d=209&amp;p=3&amp;story=524473948&amp;t=progseg&amp;e=524465020&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_researchers_examine_the_psychology_of_protest_movements.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=209&amp;p=3&amp;story=524473948&amp;t=progseg&amp;e=524465020&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 18, 2017 - Social science researchers examine whether extreme protest tactics are an effective way for recruiting popular support. The public may not be relating to protesters like the way protesters aimed for.
 
@@ -245,21 +260,6 @@ April 14, 2017 - The hypercompetitive world of biomedical research occasionally 
 <a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
       <itunes:duration>290</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523756092/signs-of-hospitality-to-life-found-on-saturns-moon-enceladus</guid>
-      <title>Scientists Find Signs That Saturn&#39;s Moon Enceladus Might Be Hospitable To Life </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/13/523756092/signs-of-hospitality-to-life-found-on-saturns-moon-enceladus</link>
-      <description>April 13, 2017 - &#34;This is the closest we&#39;ve come, so far, to identifying a place with some of the ingredients needed for a habitable environment,&#34; NASA says. There are signs of a promising reaction under the surface.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/13/297191main_enceladus_full_wide-7257c243bda37e84ed0fe77d11025bdd7b7bbb46-s800-c15.jpg"></a>
-
-April 13, 2017 - "This is the closest we've come, so far, to identifying a place with some of the ingredients needed for a habitable environment," NASA says. There are signs of a promising reaction under the surface.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523756092/signs-of-hospitality-to-life-found-on-saturns-moon-enceladus">http://www.npr.org/sections/thetwo-way/2017/04/13/523756092/signs-of-hospitality-to-life-found-on-saturns-moon-enceladus</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/297191main_enceladus_full_wide-7257c243bda37e84ed0fe77d11025bdd7b7bbb46-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
