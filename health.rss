@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 22:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 14:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Apr 2017 22:00:39 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 14:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby</guid>
+      <title>Nonprofit Working To Block Drug Imports Has Ties To Pharma Lobby</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby</link>
+      <description>April 18, 2017 - An organization campaigning against foreign drug imports has deep connections to the lobbying group PhRMA, which includes Eli Lilly, Pfizer and Bayer, an analysis by Kaiser Health News reveals.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/17/pharma-1_wide-f453eba2b183c9a0ad3e4af24f79324203f36c64-s800-c15.jpg"></a>
+
+April 18, 2017 - An organization campaigning against foreign drug imports has deep connections to the lobbying group PhRMA, which includes Eli Lilly, Pfizer and Bayer, an analysis by Kaiser Health News reveals.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby">http://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/pharma-1_wide-f453eba2b183c9a0ad3e4af24f79324203f36c64-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_in_portugal_drug_use_is_treated_as_a_medical_issue_not_a_crime.mp3?orgId=1&amp;topicId=1004&amp;d=247&amp;p=3&amp;story=524380027&amp;t=progseg&amp;e=524465020&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Portugal, Drug Use Is Treated As A Medical Issue, Not A Crime</title>
+      <link>http://www.npr.org/sections/parallels/2017/04/18/524380027/in-portugal-drug-use-is-treated-as-a-medical-issue-not-a-crime</link>
+      <description>April 18, 2017 - Since 2001, possession or use of any drug has been treated as a health issue in Portugal. The country&#39;s drug-induced death rate has plummeted to five times lower than the European Union average.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170418_me_in_portugal_drug_use_is_treated_as_a_medical_issue_not_a_crime.mp3?orgId=1&amp;topicId=1004&amp;d=247&amp;p=3&amp;story=524380027&amp;t=progseg&amp;e=524465020&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/17/drugs21_wide-110ec5ea470b8ddad9bc65fe1e4fd1850aafa2d0-s800-c15.jpg"></a>
+
+April 18, 2017 - Since 2001, possession or use of any drug has been treated as a health issue in Portugal. The country's drug-induced death rate has plummeted to five times lower than the European Union average.
+
+<a href="http://www.npr.org/sections/parallels/2017/04/18/524380027/in-portugal-drug-use-is-treated-as-a-medical-issue-not-a-crime">http://www.npr.org/sections/parallels/2017/04/18/524380027/in-portugal-drug-use-is-treated-as-a-medical-issue-not-a-crime</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/drugs21_wide-110ec5ea470b8ddad9bc65fe1e4fd1850aafa2d0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170417_atc_home-based_drug_treatment_program_costs_less_and_works.mp3?orgId=375&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=523016186&amp;t=progseg&amp;e=524383015&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Home-Based Drug Treatment Program Costs Less And Works</title>
@@ -228,36 +260,6 @@ April 14, 2017 - It's the third anniversary of the Ebola pandemic; 2014 was a ca
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls">http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/14/523296216/navy-tells-sailors-to-leave-the-e-cigarette-on-shore</guid>
-      <title>Navy Tells Sailors To Leave The E-Cigarette On Shore</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/14/523296216/navy-tells-sailors-to-leave-the-e-cigarette-on-shore</link>
-      <description>April 14, 2017 - At least 15 &#34;mishaps&#34; have resulted in injuries or damage, the Navy says. The new policy bans the devices on ships, submarines, aircraft, boats, craft and heavy equipment.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/10/ap_594588347732_wide-86b3e24bb840b084d8e4b5fe33feba020d67a5b9-s800-c15.jpg"></a>
-
-April 14, 2017 - At least 15 "mishaps" have resulted in injuries or damage, the Navy says. The new policy bans the devices on ships, submarines, aircraft, boats, craft and heavy equipment.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523296216/navy-tells-sailors-to-leave-the-e-cigarette-on-shore">http://www.npr.org/sections/thetwo-way/2017/04/14/523296216/navy-tells-sailors-to-leave-the-e-cigarette-on-shore</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/ap_594588347732_wide-86b3e24bb840b084d8e4b5fe33feba020d67a5b9-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca</guid>
-      <title>Maps Show A Dramatic Rise In Health Insurance Coverage Under ACA</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca</link>
-      <description>April 14, 2017 - The overall increase in the number of Americans with health insurance draws attention to counties where the uninsured rate is still high, many of them in states that chose not to expand Medicaid.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/health-insurance-map_wide-57828b00001f71dd6b7e14e383248e5ad76f685d-s800-c15.jpg"></a>
-
-April 14, 2017 - The overall increase in the number of Americans with health insurance draws attention to counties where the uninsured rate is still high, many of them in states that chose not to expand Medicaid.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca">http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/health-insurance-map_wide-57828b00001f71dd6b7e14e383248e5ad76f685d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

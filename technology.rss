@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 22:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 14:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Apr 2017 22:00:35 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 14:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</guid>
+      <title>Tech Is Dominating Efforts To Educate Syrian Refugees </title>
+      <link>http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</link>
+      <description>April 18, 2017 - Half of private donors to Syrian students are funding educational technology, says a new report.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/17/gettyimages-507359356_wide-bf0e36c745adf344009751859373b8297d00f9ae-s800-c15.jpg"></a>
+
+April 18, 2017 - Half of private donors to Syrian students are funding educational technology, says a new report.
+
+<a href="http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees">http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/gettyimages-507359356_wide-bf0e36c745adf344009751859373b8297d00f9ae-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170417_atc_facebook_cracks_down_on_30000_fake_accounts_in_france.mp3?orgId=1&amp;topicId=1019&amp;d=209&amp;p=2&amp;story=524393092&amp;t=progseg&amp;e=524383015&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Facebook Cracks Down On 30,000 Fake Accounts In France</title>
@@ -243,23 +258,6 @@ April 11, 2017 - The Department of Homeland Security says such demands aren't ro
 <a href="http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s">http://www.npr.org/2017/04/11/523313829/more-travelers-are-being-asked-for-their-cellphones-and-passwords-entering-u-s</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/10/ap_17049076306114_wide-24195615d1f45de50bfa3e92d51b0b0999f1e0e8-s3000-c15.jpg"></itunes:image>
       <itunes:duration>222</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_wireless_industry_lobbies_statehouses_for_access_to_street_furniture.mp3?orgId=1146&amp;topicId=1014&amp;d=233&amp;p=2&amp;story=522246173&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Wireless Industry Lobbies Statehouses For Access To &#39;Street Furniture&#39;</title>
-      <link>http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture</link>
-      <description>April 11, 2017 - Instead of soaring towers with antennas on top, future cell sites will adorn power poles and streetlights owned by cities and towns that are wary of turning them over to wireless companies.</description>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170410_atc_wireless_industry_lobbies_statehouses_for_access_to_street_furniture.mp3?orgId=1146&amp;topicId=1014&amp;d=233&amp;p=2&amp;story=522246173&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/10/gettyimages-631870776_wide-523588470d8d57bcce922fde89a55c9261eccced-s800-c15.jpg"></a>
-
-April 11, 2017 - Instead of soaring towers with antennas on top, future cell sites will adorn power poles and streetlights owned by cities and towns that are wary of turning them over to wireless companies.
-
-<a href="http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture">http://www.npr.org/2017/04/11/522246173/wireless-industry-lobbies-statehouses-for-access-to-street-furniture</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/gettyimages-631870776_wide-523588470d8d57bcce922fde89a55c9261eccced-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
