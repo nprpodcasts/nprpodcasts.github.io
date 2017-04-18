@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 19:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 21:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 19:00:14 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 21:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,32 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/18/524569206/facebook-ceo-mark-zuckerberg-addresses-cleveland-murder</guid>
+      <title>Facebook CEO Mark Zuckerberg Addresses Cleveland Murder</title>
+      <link>http://www.npr.org/2017/04/18/524569206/facebook-ceo-mark-zuckerberg-addresses-cleveland-murder</link>
+      <description>April 18, 2017 - Facebook CEO Mark Zuckerberg gave his condolences to the family of a man murdered in Cleveland on Sunday, whose attacker shared videos of the killing on the social network.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 18, 2017 - Facebook CEO Mark Zuckerberg gave his condolences to the family of a man murdered in Cleveland on Sunday, whose attacker shared videos of the killing on the social network.
+
+<a href="http://www.npr.org/2017/04/18/524569206/facebook-ceo-mark-zuckerberg-addresses-cleveland-murder">http://www.npr.org/2017/04/18/524569206/facebook-ceo-mark-zuckerberg-addresses-cleveland-murder</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program</guid>
+      <title>Trump&#39;s Latest Executive Order Targets High Skilled Worker Visa Program</title>
+      <link>http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program</link>
+      <description>April 18, 2017 - President Trump announced an executive order on Tuesday that will sharpen the focus on the H1-B visa program. The tech industry is a key beneficiary and hopes this will prod Congress to overhaul the program.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 18, 2017 - President Trump announced an executive order on Tuesday that will sharpen the focus on the H1-B visa program. The tech industry is a key beneficiary and hopes this will prod Congress to overhaul the program.
+
+<a href="http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program">http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</guid>
       <title>WATCH: NASA Livestreams 360-Degree View Of Rocket Launch</title>
@@ -224,38 +250,6 @@ April 12, 2017 - Social media took a lot of blame for intensifying polarization 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution">http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/06/0403_filter-bubble01_wide-0dda7c882f501465854c73480529ab147a34a77f-s3000-c15.jpg"></itunes:image>
       <itunes:duration>272</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_with_trumps_border_plans_security_and_surveillance_companies_look_for_bigger_profits.mp3?orgId=1&amp;topicId=1006&amp;d=198&amp;p=3&amp;story=523533985&amp;t=progseg&amp;e=523533765&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>With Trump&#39;s Border Plans, Security And Surveillance Firms Eye Bigger Profits</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/12/523533985/with-trumps-border-plans-security-and-surveillance-firms-eye-bigger-profits</link>
-      <description>April 12, 2017 - Companies touting their wares at an annual border security conference in Texas are more upbeat than usual. The expo features cameras mounted on telescoping poles, spotlight weapons and lots of drones.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_with_trumps_border_plans_security_and_surveillance_companies_look_for_bigger_profits.mp3?orgId=1&amp;topicId=1006&amp;d=198&amp;p=3&amp;story=523533985&amp;t=progseg&amp;e=523533765&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/12/burnett_borderexpo_lightgun3_wide-a1b0a414c2f5b79e20804ce8d0b26b2b3be421c7-s800-c15.jpg"></a>
-
-April 12, 2017 - Companies touting their wares at an annual border security conference in Texas are more upbeat than usual. The expo features cameras mounted on telescoping poles, spotlight weapons and lots of drones.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/12/523533985/with-trumps-border-plans-security-and-surveillance-firms-eye-bigger-profits">http://www.npr.org/sections/alltechconsidered/2017/04/12/523533985/with-trumps-border-plans-security-and-surveillance-firms-eye-bigger-profits</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/burnett_borderexpo_lightgun3_wide-a1b0a414c2f5b79e20804ce8d0b26b2b3be421c7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>198</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_ride-hailing_app_geared_toward_women_debuts_in_boston.mp3?orgId=329&amp;topicId=1006&amp;d=207&amp;p=3&amp;story=523533948&amp;t=progseg&amp;e=523533765&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ride-Hailing App Geared Toward Women Debuts In Boston</title>
-      <link>http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston</link>
-      <description>April 12, 2017 - A new ride-hailing service in Boston called Safr is aimed at getting female customers and employing female drivers. Some women drivers and passengers felt unsafe using other ride-hailing apps.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_ride-hailing_app_geared_toward_women_debuts_in_boston.mp3?orgId=329&amp;topicId=1006&amp;d=207&amp;p=3&amp;story=523533948&amp;t=progseg&amp;e=523533765&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 12, 2017 - A new ride-hailing service in Boston called Safr is aimed at getting female customers and employing female drivers. Some women drivers and passengers felt unsafe using other ride-hailing apps.
-
-<a href="http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston">http://www.npr.org/2017/04/12/523533948/ride-hailing-app-geared-toward-women-debuts-in-boston</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>207</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
