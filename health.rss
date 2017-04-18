@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 14:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 18:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 14:00:38 +0000</pubDate>
+    <pubDate>Tue, 18 Apr 2017 18:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</guid>
+      <title>Secret Data On Hospital Inspections May Soon Become Public</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</link>
+      <description>April 18, 2017 - The federal government wants to require that private accreditors release reports of problems they find during hospital inspections. Right now, the reports are kept confidential.</description>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/18/surgery-blur_wide-a5ae10c6ce178b51d199e8fcd2fe02250b3bd7c2-s800-c15.jpg"></a>
+
+April 18, 2017 - The federal government wants to require that private accreditors release reports of problems they find during hospital inspections. Right now, the reports are kept confidential.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last">http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/surgery-blur_wide-a5ae10c6ce178b51d199e8fcd2fe02250b3bd7c2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/18/524363014/nonprofit-working-to-block-drug-imports-has-ties-to-pharma-lobby</guid>
       <title>Nonprofit Working To Block Drug Imports Has Ties To Pharma Lobby</title>
@@ -247,19 +262,6 @@ April 14, 2017 - It's the third anniversary of the Ebola pandemic; 2014 was a ca
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it">http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/12/10-90_wide-f3cbd8ba3cdaa4e42c8af7b4444a8ca040e93578-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls</guid>
-      <title>Michigan Doctor Charged With Performing Female Genital Mutilation On Girls</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls</link>
-      <description>April 14, 2017 - The Department of Justice says it believes this is the first case brought under a federal law that criminalizes the practice, which is widely condemned as a human rights violation.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 14, 2017 - The Department of Justice says it believes this is the first case brought under a federal law that criminalizes the practice, which is widely condemned as a human rights violation.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls">http://www.npr.org/sections/thetwo-way/2017/04/14/523917425/michigan-doctor-charged-with-performing-female-genital-mutilation-on-girls</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
