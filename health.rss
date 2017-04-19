@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2017 17:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 18:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Apr 2017 17:00:29 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2017 18:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</guid>
+      <title>Human Umbilical Cord Blood Helps Aging Mice Remember, Study Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</link>
+      <description>April 19, 2017 - Researchers found a protein in human umbilical cord plasma improved learning and memory in older mice, but there&#39;s no indication it would work in people.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-aa7d0903cb308904be41096905a47e269985231c-s800-c15.jpg"></a>
+
+April 19, 2017 - Researchers found a protein in human umbilical cord plasma improved learning and memory in older mice, but there's no indication it would work in people.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds">http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-aa7d0903cb308904be41096905a47e269985231c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families</guid>
       <title>When Active-Duty Service Members Struggle To Feed Their Families</title>
@@ -245,21 +260,6 @@ April 15, 2017 - Michael Treadwell has schizophrenia and a drinking problem. He 
 <a href="http://www.npr.org/2017/04/15/518692463/trespass-jail-repeat-how-one-man-has-spent-575-days-in-jail">http://www.npr.org/2017/04/15/518692463/trespass-jail-repeat-how-one-man-has-spent-575-days-in-jail</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/05/img_6778_wide-d8e20d9fe053f66c220bdd6f54d877aa28a8ec43-s3000-c15.jpg"></itunes:image>
       <itunes:duration>264</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_trump_signs_bill_that_allows_states_to_deny_funding_to_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=523997009&amp;t=progseg&amp;e=523907801&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Trump Signs Bill That Allows States To Deny Funding To Planned Parenthood</title>
-      <link>http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</link>
-      <description>April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women&#39;s health.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_trump_signs_bill_that_allows_states_to_deny_funding_to_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=523997009&amp;t=progseg&amp;e=523907801&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 14, 2017 - Earlier this week, President Trump signed a bill that could encourage states to withhold federal money from Planned Parenthood. Opponents say it will have a big impact on women's health.
-
-<a href="http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood">http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>221</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

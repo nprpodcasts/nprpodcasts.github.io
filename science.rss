@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2017 17:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 18:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Apr 2017 17:00:26 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2017 18:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</guid>
+      <title>Human Umbilical Cord Blood Helps Aging Mice Remember, Study Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</link>
+      <description>April 19, 2017 - Researchers found a protein in human umbilical cord plasma improved learning and memory in older mice, but there&#39;s no indication it would work in people.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-aa7d0903cb308904be41096905a47e269985231c-s800-c15.jpg"></a>
+
+April 19, 2017 - Researchers found a protein in human umbilical cord plasma improved learning and memory in older mice, but there's no indication it would work in people.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds">http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-aa7d0903cb308904be41096905a47e269985231c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/19/524680317/an-asteroid-is-swinging-by-earth-today-for-its-closest-visit-in-400-years</guid>
       <title>An Asteroid Is Swinging By Earth Today For Its Closest Visit In 400 Years</title>
@@ -239,23 +254,6 @@ April 16, 2017 - An anesthesiologist and poet says her medical work is well-suit
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia">http://www.npr.org/sections/health-shots/2017/04/16/523816317/the-poetic-intimacy-of-administering-anesthesia</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/npr_anesthesia_sarawong_wide-359e30574964e736cf445a3d02040ab7399c9e1a-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.S. Health Care Wrestles With The &#39;Pre-Existing Condition&#39;</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</link>
-      <description>April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.</description>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170415_wesat_us_health_care_wrestles_with_the_pre-existing_condition.mp3?orgId=432&amp;topicId=1027&amp;d=236&amp;p=7&amp;story=523577871&amp;t=progseg&amp;e=524076389&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s800-c15.jpg"></a>
-
-April 15, 2017 - Insurers and politicians struggle constantly to thread the needle between making sure people have good health insurance and figuring out who should pay, especially for those who need a lot of care.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition">http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
