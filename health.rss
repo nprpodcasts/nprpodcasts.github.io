@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 18:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 17:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 18:00:24 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2017 17:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families</guid>
+      <title>When Active-Duty Service Members Struggle To Feed Their Families</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families</link>
+      <description>April 19, 2017 - About 23,000 military families rely on food stamps, according to Census figures. But advocates say that number is only a partial picture of the need among people who are currently serving.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/foodstamp-1_wide-dd139d26d496f3518dbc6ad8965324d2419a11cb-s800-c15.jpg"></a>
+
+April 19, 2017 - About 23,000 military families rely on food stamps, according to Census figures. But advocates say that number is only a partial picture of the need among people who are currently serving.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families">http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/foodstamp-1_wide-dd139d26d496f3518dbc6ad8965324d2419a11cb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</guid>
+      <title>FDA Approval Of Hepatitis C Drugs For Kids Is Likely To Speed Treatment</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</link>
+      <description>April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s800-c15.jpg"></a>
+
+April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment">http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</guid>
       <title>Secret Data On Hospital Inspections May Soon Become Public</title>
@@ -230,38 +260,6 @@ April 15, 2017 - Michael Treadwell has schizophrenia and a drinking problem. He 
 <a href="http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood">http://www.npr.org/2017/04/14/523997009/trump-signs-bill-that-allows-states-to-deny-funding-to-planned-parenthood</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>221</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</link>
-      <description>April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s800-c15.jpg"></a>
-
-April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>290</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it</guid>
-      <title>A Family Of Ebola Fighters: &#39;With God&#39;s Help, We Made It&#39;</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it</link>
-      <description>April 14, 2017 - It&#39;s the third anniversary of the Ebola pandemic; 2014 was a catastrophic year. But one family in Liberia gave health workers a reason to celebrate.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/12/10-90_wide-f3cbd8ba3cdaa4e42c8af7b4444a8ca040e93578-s800-c15.jpg"></a>
-
-April 14, 2017 - It's the third anniversary of the Ebola pandemic; 2014 was a catastrophic year. But one family in Liberia gave health workers a reason to celebrate.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it">http://www.npr.org/sections/goatsandsoda/2017/04/14/523437067/a-family-of-ebola-fighters-with-gods-help-we-made-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/12/10-90_wide-f3cbd8ba3cdaa4e42c8af7b4444a8ca040e93578-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

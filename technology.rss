@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 17:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 23:00:11 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2017 17:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</guid>
+      <title>Malaysia Airlines Says It Will Use Satellites To Track Its Fleet</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</link>
+      <description>April 19, 2017 - Three years after MH Flight 370 disappeared from radar, Malaysia&#39;s national carrier says it will use satellites to track its planes at all times and that it will be the first airline to do so.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/ap_540123650828_wide-b0caf885a946de1cf8a86f92c73cdba97fecee46-s800-c15.jpg"></a>
+
+April 19, 2017 - Three years after MH Flight 370 disappeared from radar, Malaysia's national carrier says it will use satellites to track its planes at all times and that it will be the first airline to do so.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet">http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/ap_540123650828_wide-b0caf885a946de1cf8a86f92c73cdba97fecee46-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170419_me_zuckerberg_speech.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=524643659&amp;t=progseg&amp;e=524654613&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Facebook&#39;s New Grand Plan To Draw You In</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in</link>
+      <description>April 19, 2017 - In quintessential Silicon Valley style, Facebook CEO Mark Zuckerberg unveils ambitious plans to bring users from 2-D news feeds to 3-D imaginary worlds and neglects safety concerns.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170419_me_zuckerberg_speech.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=524643659&amp;t=progseg&amp;e=524654613&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/aarti-avatar_wide-3648ce0521597101e25b42e10265ee6f40d7a119-s800-c15.jpg"></a>
+
+April 19, 2017 - In quintessential Silicon Valley style, Facebook CEO Mark Zuckerberg unveils ambitious plans to bring users from 2-D news feeds to 3-D imaginary worlds and neglects safety concerns.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in">http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/aarti-avatar_wide-3648ce0521597101e25b42e10265ee6f40d7a119-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>261</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170418_atc_facebook_ceo_mark_zuckerberg_addresses_cleveland_murder.mp3?orgId=1&amp;topicId=1003&amp;d=56&amp;p=2&amp;story=524569206&amp;t=progseg&amp;e=524474035&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Facebook CEO Mark Zuckerberg Addresses Cleveland Murder</title>
@@ -222,38 +254,6 @@ April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake view
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly">http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/13/gettyimages-158634037_wide-8d2fb0018f40130068df8080330b6045fd5bf1e3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=522634994,94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Using &#39;Sentiment Analysis&#39; To Understand Trump&#39;s Tweets</title>
-      <link>http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets</link>
-      <description>April 13, 2017 - Planet Money tries to make a program that reads Donald Trump&#39;s tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170413_me_using_sentiment_analysis_to_understand_trumps_tweets.mp3?orgId=1&amp;topicId=1006&amp;aggIds=522634994,94427042&amp;d=208&amp;p=3&amp;story=523709894&amp;t=progseg&amp;e=523709830&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 13, 2017 - Planet Money tries to make a program that reads Donald Trump's tweets and then trades stocks. The first step is training the program to interpret the tweets using something called sentiment analysis.
-
-<a href="http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets">http://www.npr.org/2017/04/13/523709894/using-sentiment-analysis-to-understand-trumps-tweets</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_tech_filter_bubble.mp3?orgId=329&amp;topicId=1019&amp;d=272&amp;p=3&amp;story=522760479&amp;t=progseg&amp;e=523533765&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tech Creates Our Political Echo Chambers. It Might Also Be A Solution</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution</link>
-      <description>April 12, 2017 - Social media took a lot of blame for intensifying polarization and partisan acrimony during the presidential campaign. Now some startups and researchers are trying to burst ideological filter bubbles.</description>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170412_me_tech_filter_bubble.mp3?orgId=329&amp;topicId=1019&amp;d=272&amp;p=3&amp;story=522760479&amp;t=progseg&amp;e=523533765&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/06/0403_filter-bubble01_wide-0dda7c882f501465854c73480529ab147a34a77f-s800-c15.jpg"></a>
-
-April 12, 2017 - Social media took a lot of blame for intensifying polarization and partisan acrimony during the presidential campaign. Now some startups and researchers are trying to burst ideological filter bubbles.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution">http://www.npr.org/sections/alltechconsidered/2017/04/12/522760479/tech-creates-our-political-echo-chambers-it-might-also-be-a-solution</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/06/0403_filter-bubble01_wide-0dda7c882f501465854c73480529ab147a34a77f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>272</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

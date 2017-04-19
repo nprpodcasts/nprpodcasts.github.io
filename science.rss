@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 17:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 17:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Apr 2017 17:00:22 +0000</pubDate>
+    <pubDate>Wed, 19 Apr 2017 17:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/19/524680317/an-asteroid-is-swinging-by-earth-today-for-its-closest-visit-in-400-years</guid>
+      <title>An Asteroid Is Swinging By Earth Today For Its Closest Visit In 400 Years</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/19/524680317/an-asteroid-is-swinging-by-earth-today-for-its-closest-visit-in-400-years</link>
+      <description>April 19, 2017 - Don&#39;t worry: Astronomers say asteroid 2014 JO25, which is more than a third of a mile wide, will fly harmlessly past our planet. Still, it should come close enough to be visible with small telescopes.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/19/asteroidjo25-20170418_wide-9805c6f990cf76bf1f43b4e455aa08723d0e9ccd-s800-c15.png"></a>
+
+April 19, 2017 - Don't worry: Astronomers say asteroid 2014 JO25, which is more than a third of a mile wide, will fly harmlessly past our planet. Still, it should come close enough to be visible with small telescopes.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/19/524680317/an-asteroid-is-swinging-by-earth-today-for-its-closest-visit-in-400-years">http://www.npr.org/sections/thetwo-way/2017/04/19/524680317/an-asteroid-is-swinging-by-earth-today-for-its-closest-visit-in-400-years</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/asteroidjo25-20170418_wide-9805c6f990cf76bf1f43b4e455aa08723d0e9ccd-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</guid>
+      <title>FDA Approval Of Hepatitis C Drugs For Kids Is Likely To Speed Treatment</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</link>
+      <description>April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s800-c15.jpg"></a>
+
+April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment">http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</guid>
       <title>WATCH: NASA Livestreams 360-Degree View Of Rocket Launch</title>
@@ -226,40 +256,6 @@ April 15, 2017 - Insurers and politicians struggle constantly to thread the need
 <a href="http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition">http://www.npr.org/sections/health-shots/2017/04/15/523577871/u-s-health-care-wrestles-with-the-pre-existing-condition</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/12/pre-existing-conditions_wide-07c18128d45c91827fdb20a839076400540f06b5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Researchers Find A New Way To Make Water From Thin Air</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</link>
-      <description>April 14, 2017 - The device isn&#39;t the first technology that can turn water vapor into drinkable liquid water. But its creators say it uses less power and works in drier conditions — the key is something called a MOF.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_researchers_find_a_new_way_to_make_water_from_thin_air.mp3?orgId=1&amp;topicId=1025&amp;aggIds=156490415&amp;d=144&amp;p=2&amp;story=523796745&amp;t=progseg&amp;e=523907801&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/14/prototype_31_wide-5ad1564f424504ce20bc55189bda806476d21091-s800-c15.jpg"></a>
-
-April 14, 2017 - The device isn't the first technology that can turn water vapor into drinkable liquid water. But its creators say it uses less power and works in drier conditions — the key is something called a MOF.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air">http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/prototype_31_wide-5ad1564f424504ce20bc55189bda806476d21091-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>144</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How A Budget Squeeze Can Lead To Sloppy Science And Even Cheating</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</link>
-      <description>April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170414_atc_behavior_and_reproducibility.mp3?orgId=1&amp;topicId=1007&amp;d=290&amp;p=2&amp;story=523786179&amp;t=progseg&amp;e=523907801&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s800-c15.jpg"></a>
-
-April 14, 2017 - The hypercompetitive world of biomedical research occasionally drives scientists to cheat. More often, scientists make decisions that undercut their results. That can lead colleagues astray.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating">http://www.npr.org/sections/health-shots/2017/04/14/523786179/how-a-budget-squeeze-can-lead-to-sloppy-science-and-even-cheating</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/research_wide-1cc34d30143189d7e35933d6c02f4b25c82fcf05-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>290</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
