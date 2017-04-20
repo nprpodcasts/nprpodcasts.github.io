@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Apr 2017 19:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 22:00:37 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Apr 2017 19:00:29 +0000</pubDate>
+    <pubDate>Thu, 20 Apr 2017 22:00:37 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/20/524936065/when-it-comes-to-policymaking-the-rules-dont-apply-to-climate-change</guid>
+      <title>When It Comes To Policymaking, The Rules Don&#39;t Apply To Climate Change</title>
+      <link>http://www.npr.org/2017/04/20/524936065/when-it-comes-to-policymaking-the-rules-dont-apply-to-climate-change</link>
+      <description>April 20, 2017 - On Saturday, people from around the country will take to the streets in the March for Science. Organizers say that the point of the March is not to make science political, but to highlight the reality of science to politicians, as a guide in policymaking, in which science is an uncharted issue.</description>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 20, 2017 - On Saturday, people from around the country will take to the streets in the March for Science. Organizers say that the point of the March is not to make science political, but to highlight the reality of science to politicians, as a guide in policymaking, in which science is an uncharted issue.
+
+<a href="http://www.npr.org/2017/04/20/524936065/when-it-comes-to-policymaking-the-rules-dont-apply-to-climate-change">http://www.npr.org/2017/04/20/524936065/when-it-comes-to-policymaking-the-rules-dont-apply-to-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/20/524511231/researchers-find-yet-another-reason-why-naked-mole-rats-are-just-weird</guid>
       <title>Researchers Find Yet Another Reason Why Naked Mole-Rats Are Just Weird</title>
@@ -241,21 +254,6 @@ April 17, 2017 - Scientists at the University of California, Berkeley have figur
 <a href="http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied">http://www.npr.org/sections/health-shots/2017/04/17/523636317/untangling-the-mystery-of-why-shoelaces-come-untied</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/tied_wide-648719b89532962b35cdb14796104eec34e21bf2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>146</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170416_atc_louisiana.mp3?orgId=1&amp;topicId=1025&amp;d=239&amp;p=2&amp;story=524242254&amp;t=progseg&amp;e=524211527&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Climate Change In Louisiana Changes Diets Of Native Americans</title>
-      <link>http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans</link>
-      <description>April 16, 2017 - Freelance journalist Barry Yeoman says climate change and other man-made obstacles are pushing Native Americans away from traditional foods and towards processed dinners.</description>
-      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170416_atc_louisiana.mp3?orgId=1&amp;topicId=1025&amp;d=239&amp;p=2&amp;story=524242254&amp;t=progseg&amp;e=524211527&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 16, 2017 - Freelance journalist Barry Yeoman says climate change and other man-made obstacles are pushing Native Americans away from traditional foods and towards processed dinners.
-
-<a href="http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans">http://www.npr.org/2017/04/16/524242254/climate-change-in-louisiana-changes-diets-of-native-americans</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

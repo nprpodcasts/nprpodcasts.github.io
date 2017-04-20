@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Apr 2017 19:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 22:00:35 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Apr 2017 19:00:25 +0000</pubDate>
+    <pubDate>Thu, 20 Apr 2017 22:00:35 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_yosemite_rangers_use_technology_to_save_bears_from_cars.mp3?orgId=272&amp;topicId=1132&amp;d=233&amp;p=2&amp;story=524409047&amp;t=progseg&amp;e=524838907&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Yosemite Rangers Use Technology To Save Bears From Cars</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</link>
       <description>April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosemite. But rangers hope tracking tools, like the website where the public can track bears, will help keep both humans and bears safe.</description>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_yosemite_rangers_use_technology_to_save_bears_from_cars.mp3?orgId=272&amp;topicId=1132&amp;d=233&amp;p=2&amp;story=524409047&amp;t=progseg&amp;e=524838907&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosem
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars">http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
