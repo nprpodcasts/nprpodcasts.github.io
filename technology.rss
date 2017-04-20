@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2017 17:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 19:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Apr 2017 17:00:24 +0000</pubDate>
+    <pubDate>Thu, 20 Apr 2017 19:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,51 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</guid>
+      <title>Yosemite Rangers Use Technology To Save Bears From Cars</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</link>
+      <description>April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosemite. But rangers hope tracking tools, like the website where the public can track bears, will help keep both humans and bears safe.</description>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s800-c15.jpg"></a>
+
+April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosemite. But rangers hope tracking tools, like the website where the public can track bears, will help keep both humans and bears safe.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars">http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_president_trumps_new_order_gives_china_tech_opportunity_to_hire_american_too.mp3?orgId=1&amp;topicId=1019&amp;d=213&amp;p=2&amp;story=524751641&amp;t=progseg&amp;e=524655606&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>President Trump&#39;s New Order Gives China Tech Opportunity To &#39;Hire American&#39; Too</title>
+      <link>http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too</link>
+      <description>April 19, 2017 - The same week that President Trump issued his hire American executive order, the president of one of China&#39;s top tech companies said his company wants to do the same thing. Baidu&#39;s President Ya-Qin Zhang hit the Stanford University campus trying to recruit American computer science students.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_president_trumps_new_order_gives_china_tech_opportunity_to_hire_american_too.mp3?orgId=1&amp;topicId=1019&amp;d=213&amp;p=2&amp;story=524751641&amp;t=progseg&amp;e=524655606&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 19, 2017 - The same week that President Trump issued his hire American executive order, the president of one of China's top tech companies said his company wants to do the same thing. Baidu's President Ya-Qin Zhang hit the Stanford University campus trying to recruit American computer science students.
+
+<a href="http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too">http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>213</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_car_design_school_prepares_for_new_age_of_driverless_vehicles.mp3?orgId=1&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=524751571&amp;t=progseg&amp;e=524655606&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Car Design School Prepares For New Age Of Driverless Vehicles</title>
+      <link>http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles</link>
+      <description>April 19, 2017 - A car design school confronts the challenge of getting people to overcome their misgivings about driverless cars. Many Americans are not comfortable with self-driving cars, despite the fact that the industry is spending billions on the new technology.</description>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_car_design_school_prepares_for_new_age_of_driverless_vehicles.mp3?orgId=1&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=524751571&amp;t=progseg&amp;e=524655606&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 19, 2017 - A car design school confronts the challenge of getting people to overcome their misgivings about driverless cars. Many Americans are not comfortable with self-driving cars, despite the fact that the industry is spending billions on the new technology.
+
+<a href="http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles">http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>256</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</guid>
       <title>Malaysia Airlines Says It Will Use Satellites To Track Its Fleet</title>
@@ -207,53 +252,6 @@ April 14, 2017 - The device isn't the first technology that can turn water vapor
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air">http://www.npr.org/sections/thetwo-way/2017/04/14/523796745/researchers-find-a-new-way-to-make-water-from-thin-air</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/14/prototype_31_wide-5ad1564f424504ce20bc55189bda806476d21091-s3000-c15.jpg"></itunes:image>
       <itunes:duration>144</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170414_me_youtube_ads.mp3?orgId=1&amp;topicId=1019&amp;d=208&amp;p=3&amp;story=523895647&amp;t=progseg&amp;e=523876653&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Online Video Producers Caught In Struggle Between Advertisers And YouTube</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube</link>
-      <description>April 14, 2017 - YouTube has tweaked algorithms to prevent ads from appearing next to objectionable and extremist videos. But the moves have left YouTube content creators earning less money.</description>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170414_me_youtube_ads.mp3?orgId=1&amp;topicId=1019&amp;d=208&amp;p=3&amp;story=523895647&amp;t=progseg&amp;e=523876653&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/14/ap_142450164879_wide-88ecc0648966d70401c9d5bda6e408faa88c6c49-s800-c15.jpg"></a>
-
-April 14, 2017 - YouTube has tweaked algorithms to prevent ads from appearing next to objectionable and extremist videos. But the moves have left YouTube content creators earning less money.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube">http://www.npr.org/sections/alltechconsidered/2017/04/14/523895647/online-video-producers-caught-in-struggle-between-advertisers-and-youtube</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/ap_142450164879_wide-88ecc0648966d70401c9d5bda6e408faa88c6c49-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</guid>
-      <title>CIA Director Pompeo Denounces WikiLeaks As &#39;Hostile Intelligence Service&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</link>
-      <description>April 13, 2017 - After WikiLeaks founder Julian Assange published a defense of his methods in the Washington Post, Pompeo blasted him as a charlatan.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/13/ap_17103727968359_wide-7b4793e60f0d5dee75d4a95e32cd8b2ea9a96a6b-s800-c15.jpg"></a>
-
-April 13, 2017 - After WikiLeaks founder Julian Assange published a defense of his methods in the Washington Post, Pompeo blasted him as a charlatan.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service">http://www.npr.org/sections/thetwo-way/2017/04/13/523849965/cia-director-pompeo-denounces-wikileaks-as-hostile-intelligence-service</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/ap_17103727968359_wide-7b4793e60f0d5dee75d4a95e32cd8b2ea9a96a6b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</guid>
-      <title>OK Google, Burger King Hijacked Your Speakers ... And Failed Pretty Quickly</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</link>
-      <description>April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake viewers&#39; Google Home speakers and use them for a makeshift promo. Sadly for Burger King, it wasn&#39;t long before the ploy hit some speed bumps.</description>
-      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/13/gettyimages-158634037_wide-8d2fb0018f40130068df8080330b6045fd5bf1e3-s800-c15.jpg"></a>
-
-April 13, 2017 - The fast-food chain launched an ad Wednesday meant to wake viewers' Google Home speakers and use them for a makeshift promo. Sadly for Burger King, it wasn't long before the ploy hit some speed bumps.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly">http://www.npr.org/sections/thetwo-way/2017/04/13/523740193/ok-google-burger-king-hijacked-your-speakers-and-failed-pretty-quickly</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/13/gettyimages-158634037_wide-8d2fb0018f40130068df8080330b6045fd5bf1e3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
