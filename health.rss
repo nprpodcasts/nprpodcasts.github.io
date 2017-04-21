@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 19:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 20:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Apr 2017 19:00:05 +0000</pubDate>
+    <pubDate>Fri, 21 Apr 2017 20:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</guid>
+      <title>#CuriousGoat: Will Climate Change Help Ticks And Mosquitoes Spread Disease?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</link>
+      <description>April 21, 2017 - The disease-spreading bugs are creeping north in the states. But will they bring diseases like Lyme and Zika with them?</description>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/20/gettyimages-509567498_wide-d1dc2072f9ff7914410d77a1f4325fe7fdf48b3b-s800-c15.jpg"></a>
+
+April 21, 2017 - The disease-spreading bugs are creeping north in the states. But will they bring diseases like Lyme and Zika with them?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease">http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/20/gettyimages-509567498_wide-d1dc2072f9ff7914410d77a1f4325fe7fdf48b3b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</guid>
       <title>Juicero CEO Says Luxury Juicer Is &#39;Much More&#39; Than Juice; Internet Is Unimpressed</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</link>
       <description>April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn&#39;t actually need the press to get juice from the packets.</description>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn't actually need the press to get juice from the packets.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s800-c15.jpg"></a>
+
+April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn't actually need the press to get juice from the packets.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed">http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ April 19, 2017 - About 23,000 military families rely on food stamps, according t
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families">http://www.npr.org/sections/thesalt/2017/04/19/524563155/when-active-duty-service-members-struggle-to-feed-their-families</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/foodstamp-1_wide-dd139d26d496f3518dbc6ad8965324d2419a11cb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</guid>
-      <title>FDA Approval Of Hepatitis C Drugs For Kids Is Likely To Speed Treatment</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</link>
-      <description>April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s800-c15.jpg"></a>
-
-April 19, 2017 - Many insurers have required that adults with hepatitis C be very sick before they can get access to expensive drug treatment. But Medicaid has special rules that may get kids and teens access sooner.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment">http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
