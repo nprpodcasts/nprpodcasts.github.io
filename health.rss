@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 18:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 19:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Apr 2017 18:05:13 +0000</pubDate>
+    <pubDate>Fri, 21 Apr 2017 19:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</guid>
+      <title>Juicero CEO Says Luxury Juicer Is &#39;Much More&#39; Than Juice; Internet Is Unimpressed</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</link>
+      <description>April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn&#39;t actually need the press to get juice from the packets.</description>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn't actually need the press to get juice from the packets.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed">http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170421_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2251&amp;p=13&amp;story=522862053&amp;t=progseg&amp;e=524910416&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Girls &amp; Sex&#39; And The Importance Of Talking To Young Women About Pleasure</title>
@@ -237,21 +250,6 @@ April 19, 2017 - Many insurers have required that adults with hepatitis C be ver
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment">http://www.npr.org/sections/health-shots/2017/04/19/524373963/fda-approval-of-hepatitis-c-drugs-for-kids-is-likely-to-speed-treatment</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/17/harvoni-3_wide-3ac29014e87034f1264e25ccf8ce2cf69d67efde-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</guid>
-      <title>Secret Data On Hospital Inspections May Soon Become Public</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</link>
-      <description>April 18, 2017 - The federal government wants to require that private accreditors release reports of problems they find during hospital inspections. Right now, the reports are kept confidential.</description>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/18/surgery-blur_wide-a5ae10c6ce178b51d199e8fcd2fe02250b3bd7c2-s800-c15.jpg"></a>
-
-April 18, 2017 - The federal government wants to require that private accreditors release reports of problems they find during hospital inspections. Right now, the reports are kept confidential.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last">http://www.npr.org/sections/health-shots/2017/04/18/524513837/secret-data-on-hospital-inspections-may-become-public-at-last</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/surgery-blur_wide-a5ae10c6ce178b51d199e8fcd2fe02250b3bd7c2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
