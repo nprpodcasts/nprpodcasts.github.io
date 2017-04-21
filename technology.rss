@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 21:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 22:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Apr 2017 21:00:21 +0000</pubDate>
+    <pubDate>Fri, 21 Apr 2017 22:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_murder_video_again_raises_questions_about_how_facebook_handles_content.mp3?orgId=1&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=525042474&amp;t=progseg&amp;e=525013207&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Murder Video Again Raises Questions About How Facebook Handles Content</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content</link>
       <description>April 21, 2017 - A murder video uploaded to Facebook brought attention to how the company monitors upsetting content. Artificial intelligence may be a solution, but experts say it could bring unwanted results.</description>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_murder_video_again_raises_questions_about_how_facebook_handles_content.mp3?orgId=1&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=525042474&amp;t=progseg&amp;e=525013207&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/21/ap_17108732860385_wide-ab3677076d23a85a5529c121e68ca05f181cf8fa-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 21, 2017 - A murder video uploaded to Facebook brought attention to how th
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content">http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/ap_17108732860385_wide-ab3677076d23a85a5529c121e68ca05f181cf8fa-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>224</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
