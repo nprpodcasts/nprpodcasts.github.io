@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2017 11:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 13:01:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 22 Apr 2017 11:00:13 +0000</pubDate>
+    <pubDate>Sat, 22 Apr 2017 13:01:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science</guid>
+      <title>Dark Lives Of &#39;The Radium Girls&#39; Left A Bright Legacy For Workers, Science</title>
+      <link>http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science</link>
+      <description>April 22, 2017 - Kate Moore&#39;s new book digs into the short, painful lives of the Radium Girls, who worked painting luminous dials on watches and clocks — and were poisoned by the glowing radium paint they used.</description>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/2017-04-21-radium-girls-mcarrasquero-001_wide-1f654528b680657b3e5437b7e37d9df931f0a374-s800-c15.jpg"></a>
+
+April 22, 2017 - Kate Moore's new book digs into the short, painful lives of the Radium Girls, who worked painting luminous dials on watches and clocks — and were poisoned by the glowing radium paint they used.
+
+<a href="http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science">http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/2017-04-21-radium-girls-mcarrasquero-001_wide-1f654528b680657b3e5437b7e37d9df931f0a374-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</guid>
+      <title>&#39;Send Me A Friend&#39;: Anders Osborne Helps Musicians Stay Sober On Tour</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</link>
+      <description>April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to help musicians and others in the industry stay sober in work environments that are often centered around drugs and alcohol.</description>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-d982309301a609f363203b487e7fa4d5d1a95a03-s800-c15.jpg"></a>
+
+April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to help musicians and others in the industry stay sober in work environments that are often centered around drugs and alcohol.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour">http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-d982309301a609f363203b487e7fa4d5d1a95a03-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble</guid>
       <title>Hispanic Men Often Put Off Medical Care, Bringing Bigger Trouble</title>
@@ -220,38 +250,6 @@ April 19, 2017 - Almost half a million veterans gained health insurance through 
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act">http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/veteran-care-1_wide-ff927884ae7878617aeabc3239b700e2b1882485-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/19/524738537/trump-extends-troubled-va-program-that-pays-private-doctors</guid>
-      <title>Trump Extends Troubled VA Program That Pays Private Doctors</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/19/524738537/trump-extends-troubled-va-program-that-pays-private-doctors</link>
-      <description>April 19, 2017 - The Veterans Choice program was supposed to make it quicker and easier for vets to see a doctor by paying for private-sector care. But it&#39;s ended up being slower and more complicated.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/va-trump_wide-ea117ee699987fff4b26080ed7c068a7c0ff87c2-s800-c15.jpg"></a>
-
-April 19, 2017 - The Veterans Choice program was supposed to make it quicker and easier for vets to see a doctor by paying for private-sector care. But it's ended up being slower and more complicated.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/19/524738537/trump-extends-troubled-va-program-that-pays-private-doctors">http://www.npr.org/sections/health-shots/2017/04/19/524738537/trump-extends-troubled-va-program-that-pays-private-doctors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/va-trump_wide-ea117ee699987fff4b26080ed7c068a7c0ff87c2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_human_umbilical_cord_blood_helps_aging_mice_remember_study_finds.mp3?orgId=1&amp;topicId=1128&amp;d=211&amp;p=2&amp;story=523975844&amp;t=progseg&amp;e=524655606&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Human Umbilical Cord Blood Helps Aging Mice Remember, Study Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</link>
-      <description>April 19, 2017 - Researchers found that a protein in human umbilical cord plasma improved learning and memory in older mice, but there&#39;s no indication it would work in people.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_human_umbilical_cord_blood_helps_aging_mice_remember_study_finds.mp3?orgId=1&amp;topicId=1128&amp;d=211&amp;p=2&amp;story=523975844&amp;t=progseg&amp;e=524655606&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-703fdab8e5704189449c29317cdf3ff8684a4285-s800-c15.jpg"></a>
-
-April 19, 2017 - Researchers found that a protein in human umbilical cord plasma improved learning and memory in older mice, but there's no indication it would work in people.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds">http://www.npr.org/sections/health-shots/2017/04/19/523975844/human-umbilical-cord-blood-helps-aging-mice-remember-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/mouse-maze_wide-703fdab8e5704189449c29317cdf3ff8684a4285-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>211</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
