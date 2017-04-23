@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 22:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 16:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Apr 2017 22:00:12 +0000</pubDate>
+    <pubDate>Sun, 23 Apr 2017 16:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</guid>
+      <title>Dogs Are Doggos: An Internet Language Built Around Love For The Puppers</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</link>
+      <description>April 23, 2017 - DoggoLingo is a rising language on the Internet that&#39;s full of cutesy suffixes and onomatopoeias. It might even change the way you talk to your pet.</description>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/21/doggolingo-edit_wide-7a8aa7e6b3969d707b72a76d4181750ef49309ac-s800-c15.jpg"></a>
+
+April 23, 2017 - DoggoLingo is a rising language on the Internet that's full of cutesy suffixes and onomatopoeias. It might even change the way you talk to your pet.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers">http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/doggolingo-edit_wide-7a8aa7e6b3969d707b72a76d4181750ef49309ac-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_juicero_-_juice_in_a_bag.mp3?orgId=1&amp;topicId=1006&amp;d=235&amp;p=10&amp;story=525310236&amp;t=progseg&amp;e=525310191&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>High-Tech Luxury Juice Start-Up Faces Low-Tech Problem</title>
+      <link>http://www.npr.org/2017/04/23/525310236/high-tech-luxury-juice-start-up-faces-low-tech-problem</link>
+      <description>April 23, 2017 - The company Juicero sells bagged juice and expensive high-tech presses, but customers realized they could squeeze the juice by hand. Lynn Neary talks with Bloomberg&#39;s Olivia Zaleski about the company.</description>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_juicero_-_juice_in_a_bag.mp3?orgId=1&amp;topicId=1006&amp;d=235&amp;p=10&amp;story=525310236&amp;t=progseg&amp;e=525310191&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 23, 2017 - The company Juicero sells bagged juice and expensive high-tech presses, but customers realized they could squeeze the juice by hand. Lynn Neary talks with Bloomberg's Olivia Zaleski about the company.
+
+<a href="http://www.npr.org/2017/04/23/525310236/high-tech-luxury-juice-start-up-faces-low-tech-problem">http://www.npr.org/2017/04/23/525310236/high-tech-luxury-juice-start-up-faces-low-tech-problem</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_murder_video_again_raises_questions_about_how_facebook_handles_content.mp3?orgId=1&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=525042474&amp;t=progseg&amp;e=525013207&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Murder Video Again Raises Questions About How Facebook Handles Content</title>
@@ -230,36 +260,6 @@ April 19, 2017 - In quintessential Silicon Valley style, Facebook CEO Mark Zucke
 <a href="http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program">http://www.npr.org/2017/04/18/524569185/trumps-latest-executive-order-targets-high-skilled-worker-visa-program</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>209</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</guid>
-      <title>WATCH: NASA Livestreams 360-Degree View Of Rocket Launch</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</link>
-      <description>April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.</description>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s800-c15.jpg"></a>
-
-April 18, 2017 - A special 360-degree camera was installed on the launch pad near the base of the Atlas V rocket heading to the International Space Station.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch">http://www.npr.org/sections/thetwo-way/2017/04/18/524508253/watch-live-nasa-livestreams-360-degree-view-of-rocket-launch</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/orbital_atk_crs-7_atlas_v_on_pad_wide-c4052998f2428dcbfc80cb86ecde20bef63e6842-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</guid>
-      <title>Tech Is Dominating Efforts To Educate Syrian Refugees </title>
-      <link>http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</link>
-      <description>April 18, 2017 - Half of private donors to Syrian students are funding educational technology, a report says. It&#39;s not necessarily what schools need, one co-author says, considering they may lack reliable electricity.</description>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/17/gettyimages-507359356_wide-bf0e36c745adf344009751859373b8297d00f9ae-s800-c15.jpg"></a>
-
-April 18, 2017 - Half of private donors to Syrian students are funding educational technology, a report says. It's not necessarily what schools need, one co-author says, considering they may lack reliable electricity.
-
-<a href="http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees">http://www.npr.org/sections/ed/2017/04/18/523611124/tech-is-dominating-efforts-to-educate-syrian-refugees</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/17/gettyimages-507359356_wide-bf0e36c745adf344009751859373b8297d00f9ae-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

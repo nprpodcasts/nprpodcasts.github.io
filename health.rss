@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2017 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 16:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 22 Apr 2017 15:00:28 +0000</pubDate>
+    <pubDate>Sun, 23 Apr 2017 16:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_ancient_antibiotics.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=10&amp;story=525310264&amp;t=progseg&amp;e=525310191&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Ancientbiotics&#39; Researchers Look For Old Fixes To Modern Ailments</title>
+      <link>http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</link>
+      <description>April 23, 2017 - NPR&#39;s Lynn Neary speaks with Erin Connelly of the University of Pennsylvania about using medieval practices for modern medicine.&#xA;&#xA; - http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</description>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_ancient_antibiotics.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=10&amp;story=525310264&amp;t=progseg&amp;e=525310191&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 23, 2017 - NPR's Lynn Neary speaks with Erin Connelly of the University of Pennsylvania about using medieval practices for modern medicine.
+
+<a href="http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments">http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</guid>
+      <title>Chemo Scrambled My Brain</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</link>
+      <description>April 23, 2017 - After an incorrect dose of a chemotherapy drug for Crohn&#39;s disease caused Anne Webster&#39;s bone marrow to shut down, she decided that, if she survived, she&#39;d write about her experience.</description>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/chemo-brain-2_wide-f1a9444189e8dea198ae785f6583f59b6f7ff506-s800-c15.jpg"></a>
+
+April 23, 2017 - After an incorrect dose of a chemotherapy drug for Crohn's disease caused Anne Webster's bone marrow to shut down, she decided that, if she survived, she'd write about her experience.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain">http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/chemo-brain-2_wide-f1a9444189e8dea198ae785f6583f59b6f7ff506-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_dark_lives_of_the_radium_girls_left_a_bright_legacy_for_workers_science.mp3?orgId=1&amp;topicId=1033&amp;d=439&amp;p=7&amp;story=525063024&amp;t=progseg&amp;e=525188008&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Dark Lives Of &#39;The Radium Girls&#39; Left A Bright Legacy For Workers, Science</title>
@@ -48,12 +78,12 @@ April 22, 2017 - Kate Moore's new book digs into the short, painful lives of the
       <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_send_me_a_friend_anders_osborne_helps_musicians_stay_sober_on_tour.mp3?orgId=1&amp;topicId=1128&amp;d=287&amp;p=7&amp;story=525060029&amp;t=progseg&amp;e=525188008&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-d982309301a609f363203b487e7fa4d5d1a95a03-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-5d1812800d385818c5bcb20f5934856c9567ab88-s800-c15.jpg"></a>
 
 April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to help musicians and others in the industry stay sober in work environments that are often centered around drugs and alcohol.
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour">http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-d982309301a609f363203b487e7fa4d5d1a95a03-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-5d1812800d385818c5bcb20f5934856c9567ab88-s3000-c15.jpg"></itunes:image>
       <itunes:duration>287</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -222,38 +252,6 @@ April 20, 2017 - A new report looks at data from 184 countries. And raises the q
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person">http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/promo-scatterplot-seamus_wide-0ac0622998504376d7b6f5cbd695a925b1b1f001-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170421_me_how_do_former_opioid_addicts_safely_get_pain_relief_after_surgery.mp3?orgId=395&amp;topicId=1128&amp;d=275&amp;p=3&amp;story=519481712&amp;t=progseg&amp;e=525010755&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Do Former Opioid Addicts Safely Get Pain Relief After Surgery?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/20/519481712/how-do-former-opioid-addicts-safely-get-pain-relief-after-surgery</link>
-      <description>April 20, 2017 - Max Baker got treatment for his opioid dependency and kicked the habit. He&#39;d been clean for more than a year when a car accident and subsequent surgery returned him to addiction&#39;s spiral.</description>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170421_me_how_do_former_opioid_addicts_safely_get_pain_relief_after_surgery.mp3?orgId=395&amp;topicId=1128&amp;d=275&amp;p=3&amp;story=519481712&amp;t=progseg&amp;e=525010755&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/18/baker-1_wide-187636e938edca0f1af581f77649425280bc929e-s800-c15.jpg"></a>
-
-April 20, 2017 - Max Baker got treatment for his opioid dependency and kicked the habit. He'd been clean for more than a year when a car accident and subsequent surgery returned him to addiction's spiral.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/20/519481712/how-do-former-opioid-addicts-safely-get-pain-relief-after-surgery">http://www.npr.org/sections/health-shots/2017/04/20/519481712/how-do-former-opioid-addicts-safely-get-pain-relief-after-surgery</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/baker-1_wide-187636e938edca0f1af581f77649425280bc929e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>275</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act</guid>
-      <title>Many Veterans Gained Health Care Through The Affordable Care Act</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act</link>
-      <description>April 19, 2017 - Almost half a million veterans gained health insurance through the Affordable Care Act, cutting the number of uninsured vets by 40 percent.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/veteran-care-1_wide-ff927884ae7878617aeabc3239b700e2b1882485-s800-c15.jpg"></a>
-
-April 19, 2017 - Almost half a million veterans gained health insurance through the Affordable Care Act, cutting the number of uninsured vets by 40 percent.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act">http://www.npr.org/sections/health-shots/2017/04/19/524751540/many-veterans-gained-health-care-through-the-affordable-care-act</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/veteran-care-1_wide-ff927884ae7878617aeabc3239b700e2b1882485-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
