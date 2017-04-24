@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2017 16:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 14:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 23 Apr 2017 16:00:09 +0000</pubDate>
+    <pubDate>Mon, 24 Apr 2017 14:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_is_it_time_for_hearing_aids_to_be_sold_over_the_counter.mp3?orgId=1&amp;topicId=1066&amp;d=242&amp;p=3&amp;story=524946910&amp;t=progseg&amp;e=525359192&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Is It Time For Hearing Aids To Be Sold Over The Counter?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter</link>
+      <description>April 24, 2017 - About 35 million Americans suffer some hearing loss, but most don&#39;t do anything about it. There&#39;s a growing effort to make hearing aids easier and cheaper to buy.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_is_it_time_for_hearing_aids_to_be_sold_over_the_counter.mp3?orgId=1&amp;topicId=1066&amp;d=242&amp;p=3&amp;story=524946910&amp;t=progseg&amp;e=525359192&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/hearing-aids_wide-2de4e2a9017c3326360e308251f8dedbac02b315-s800-c15.jpg"></a>
+
+April 24, 2017 - About 35 million Americans suffer some hearing loss, but most don't do anything about it. There's a growing effort to make hearing aids easier and cheaper to buy.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter">http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/hearing-aids_wide-2de4e2a9017c3326360e308251f8dedbac02b315-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>242</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_ancient_antibiotics.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=10&amp;story=525310264&amp;t=progseg&amp;e=525310191&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Ancientbiotics&#39; Researchers Look For Old Fixes To Modern Ailments</title>
@@ -178,11 +195,12 @@ April 21, 2017 - House Republicans are taking another stab at replacing the Affo
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/20/524376484/dont-give-kids-cough-syrup-or-pain-meds-that-contain-codeine-fda-says</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_dont_give_kids_cough_syrup_or_pain_meds_that_contain_codeine_fda_says.mp3?orgId=1&amp;topicId=1128&amp;d=139&amp;p=3&amp;story=524376484&amp;t=progseg&amp;e=525359192&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Don&#39;t Give Kids Cough Syrup Or Pain Meds That Contain Codeine, FDA Says</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/20/524376484/dont-give-kids-cough-syrup-or-pain-meds-that-contain-codeine-fda-says</link>
       <description>April 20, 2017 - The agency expanded its warnings about prescription cough and pain medications that contain the narcotics codeine or tramadol, saying they can cause dangerously slow breathing in some kids.</description>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_dont_give_kids_cough_syrup_or_pain_meds_that_contain_codeine_fda_says.mp3?orgId=1&amp;topicId=1128&amp;d=139&amp;p=3&amp;story=524376484&amp;t=progseg&amp;e=525359192&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/20/cough-syrup-2_wide-f67aebbf1fae4823e9e99e932ada8bfff3af4eea-s800-c15.jpg"></a>
 
@@ -190,6 +208,7 @@ April 20, 2017 - The agency expanded its warnings about prescription cough and p
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/20/524376484/dont-give-kids-cough-syrup-or-pain-meds-that-contain-codeine-fda-says">http://www.npr.org/sections/health-shots/2017/04/20/524376484/dont-give-kids-cough-syrup-or-pain-meds-that-contain-codeine-fda-says</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/20/cough-syrup-2_wide-f67aebbf1fae4823e9e99e932ada8bfff3af4eea-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>139</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +256,6 @@ April 20, 2017 - Research in epilepsy has found a key to why small pulses of ele
 <a href="http://www.npr.org/sections/health-shots/2017/04/20/524374825/electrical-stimulation-to-boost-memory-maybe-its-all-in-the-timing">http://www.npr.org/sections/health-shots/2017/04/20/524374825/electrical-stimulation-to-boost-memory-maybe-its-all-in-the-timing</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/20/brain-lights_wide-4d461956998386a669b42b23d25e6ab9e89df15a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>205</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person</guid>
-      <title>What Country Spends The Most (And Least) On Health Care Per Person?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person</link>
-      <description>April 20, 2017 - A new report looks at data from 184 countries. And raises the question: Does more spending lead to better health outcomes?</description>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/promo-scatterplot-seamus_wide-0ac0622998504376d7b6f5cbd695a925b1b1f001-s800-c15.png"></a>
-
-April 20, 2017 - A new report looks at data from 184 countries. And raises the question: Does more spending lead to better health outcomes?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person">http://www.npr.org/sections/goatsandsoda/2017/04/20/524774195/what-country-spends-the-most-and-least-on-health-care-per-person</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/promo-scatterplot-seamus_wide-0ac0622998504376d7b6f5cbd695a925b1b1f001-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
