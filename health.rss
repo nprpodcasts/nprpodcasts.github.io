@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2017 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 18:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Apr 2017 15:00:19 +0000</pubDate>
+    <pubDate>Mon, 24 Apr 2017 18:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</guid>
+      <title>For Drone Pilots, Warfare May Be Remote But The Trauma Is Real</title>
+      <link>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</link>
+      <description>April 24, 2017 - They may not be in physical danger themselves but drone pilots and intelligence analysts who work with them &#34;no doubt are war fighters&#34; who experience psychological stress, says the Air Force.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s800-c15.jpg"></a>
+
+April 24, 2017 - They may not be in physical danger themselves but drone pilots and intelligence analysts who work with them "no doubt are war fighters" who experience psychological stress, says the Air Force.
+
+<a href="http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real">http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</guid>
+      <title>We&#39;re All Tired. But When Could Fatigue Mean a Medical Problem?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</link>
+      <description>April 24, 2017 - Avoiding your phone and TV at night and setting a firm bedtime might solve your problem if you feel tired a lot. But fatigue can also be a sign of disease.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/tired_wide-43e8d72c6e81cf2b9e2afdcbdb34eae6b8c32527-s800-c15.jpg"></a>
+
+April 24, 2017 - Avoiding your phone and TV at night and setting a firm bedtime might solve your problem if you feel tired a lot. But fatigue can also be a sign of disease.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem">http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/tired_wide-43e8d72c6e81cf2b9e2afdcbdb34eae6b8c32527-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_is_it_time_for_hearing_aids_to_be_sold_over_the_counter.mp3?orgId=1&amp;topicId=1066&amp;d=240&amp;p=3&amp;story=524946910&amp;t=progseg&amp;e=525359192&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Is It Time For Hearing Aids To Be Sold Over The Counter?</title>
@@ -224,38 +254,6 @@ April 20, 2017 - The agency expanded its warnings about prescription cough and p
 <a href="http://www.npr.org/2017/04/20/524936058/lawyer-behind-west-virginia-county-lawsuit-against-opioid-distributors">http://www.npr.org/2017/04/20/524936058/lawyer-behind-west-virginia-county-lawsuit-against-opioid-distributors</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>267</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/20/524881039/new-gop-health-proposal-could-ditch-protections-for-people-who-are-sick</guid>
-      <title>New GOP Health Proposal Could Ditch Protections For People Who Are Sick</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/20/524881039/new-gop-health-proposal-could-ditch-protections-for-people-who-are-sick</link>
-      <description>April 20, 2017 - The proposal allows states to put people with pre-existing conditions into high-risk pools and get rid of minimum health benefits for health insurance plans if they choose.</description>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/20/tom-macarthur_wide-d98d6dbfb6aa5c123a0b195cecc2299effd4cfdf-s800-c15.jpg"></a>
-
-April 20, 2017 - The proposal allows states to put people with pre-existing conditions into high-risk pools and get rid of minimum health benefits for health insurance plans if they choose.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/20/524881039/new-gop-health-proposal-could-ditch-protections-for-people-who-are-sick">http://www.npr.org/sections/health-shots/2017/04/20/524881039/new-gop-health-proposal-could-ditch-protections-for-people-who-are-sick</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/20/tom-macarthur_wide-d98d6dbfb6aa5c123a0b195cecc2299effd4cfdf-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_electrical_stimulation_to_boost_memory_maybe_its_all_in_the_timing.mp3?orgId=1&amp;topicId=1128&amp;d=205&amp;p=2&amp;story=524374825&amp;t=progseg&amp;e=524838907&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Electrical Stimulation To Boost Memory: Maybe It&#39;s All In The Timing</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/20/524374825/electrical-stimulation-to-boost-memory-maybe-its-all-in-the-timing</link>
-      <description>April 20, 2017 - Research in epilepsy has found a key to why small pulses of electricity to the brain sometimes help and sometimes hurt a failing memory. Brains hurt by physical trauma or dementia might benefit, too.</description>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_electrical_stimulation_to_boost_memory_maybe_its_all_in_the_timing.mp3?orgId=1&amp;topicId=1128&amp;d=205&amp;p=2&amp;story=524374825&amp;t=progseg&amp;e=524838907&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/20/brain-lights_wide-4d461956998386a669b42b23d25e6ab9e89df15a-s800-c15.jpg"></a>
-
-April 20, 2017 - Research in epilepsy has found a key to why small pulses of electricity to the brain sometimes help and sometimes hurt a failing memory. Brains hurt by physical trauma or dementia might benefit, too.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/20/524374825/electrical-stimulation-to-boost-memory-maybe-its-all-in-the-timing">http://www.npr.org/sections/health-shots/2017/04/20/524374825/electrical-stimulation-to-boost-memory-maybe-its-all-in-the-timing</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/20/brain-lights_wide-4d461956998386a669b42b23d25e6ab9e89df15a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>205</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
