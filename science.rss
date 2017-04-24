@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2017 16:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 21:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Apr 2017 16:00:05 +0000</pubDate>
+    <pubDate>Mon, 24 Apr 2017 21:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,59 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</guid>
+      <title>What Fish Is Good For Me And The Planet? New Documentary Explores </title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</link>
+      <description>April 24, 2017 - In order to investigate how eating fish affects our health as well as the oceans, author and fisherman Paul Greenberg spent a year eating fish every day.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/21/fl_thefishonmyplate4-2_wide-2d375e02db52cff81b35f05f34218b576759d9fe-s800-c15.jpg"></a>
+
+April 24, 2017 - In order to investigate how eating fish affects our health as well as the oceans, author and fisherman Paul Greenberg spent a year eating fish every day.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores">http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/fl_thefishonmyplate4-2_wide-2d375e02db52cff81b35f05f34218b576759d9fe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</guid>
+      <title>Hacking Lake Erie: Tech Competition Seeks Solutions To Water-Related Problems</title>
+      <link>http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</link>
+      <description>April 24, 2017 - A technology competition seeks solutions to Lake Erie&#39;s biggest problems, including harmful algae blooms and aging water systems. Teams in cities around the region are competing for thousands of dollars in prize money and consulting services to create apps and other tools.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 24, 2017 - A technology competition seeks solutions to Lake Erie's biggest problems, including harmful algae blooms and aging water systems. Teams in cities around the region are competing for thousands of dollars in prize money and consulting services to create apps and other tools.
+
+<a href="http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems">http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</guid>
+      <title>Astronaut Peggy Whitson Breaks NASA Record For Most Days In Space</title>
+      <link>http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</link>
+      <description>April 24, 2017 - NASA astronaut Peggy Whitson has now spent more time off-planet than any other American. On Monday morning, the president and Ivanka Trump called Whitson at the International Space Station to congratulate her.</description>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 24, 2017 - NASA astronaut Peggy Whitson has now spent more time off-planet than any other American. On Monday morning, the president and Ivanka Trump called Whitson at the International Space Station to congratulate her.
+
+<a href="http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space">http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</guid>
       <title>Astronaut Peggy Whitson Sets New NASA Record For Most Days In Space</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</link>
-      <description>April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump</description>
+      <description>April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump Monday morning.</description>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-f73b28f5acfeffc261374cd4d035d0f2970989db-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-947462a535f75da381fefdfac9a2bc59268c6a56-s800-c15.jpg"></a>
 
-April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump
+April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump Monday morning.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space">http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-f73b28f5acfeffc261374cd4d035d0f2970989db-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-947462a535f75da381fefdfac9a2bc59268c6a56-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -207,51 +248,6 @@ April 22, 2017 - Psychologists say anxiety over climate change is making some pe
 <a href="http://www.npr.org/2017/04/22/525188027/an-organizer-speaks-about-reasons-for-a-march-for-science">http://www.npr.org/2017/04/22/525188027/an-organizer-speaks-about-reasons-for-a-march-for-science</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>176</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/22/525113726/chew-on-this-for-earth-day-how-our-diets-impact-the-planet</guid>
-      <title>Chew On This For Earth Day: How Our Diets Impact The Planet</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/22/525113726/chew-on-this-for-earth-day-how-our-diets-impact-the-planet</link>
-      <description>April 22, 2017 - The foods we choose to put on our plates — or toss away – could have more of an ecological impact than many of us realize.</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/21/istock-165798910_wide-1999033ec825d468d28579ca8b8e2d35c36dfc9c-s800-c15.jpg"></a>
-
-April 22, 2017 - The foods we choose to put on our plates — or toss away – could have more of an ecological impact than many of us realize.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/22/525113726/chew-on-this-for-earth-day-how-our-diets-impact-the-planet">http://www.npr.org/sections/thesalt/2017/04/22/525113726/chew-on-this-for-earth-day-how-our-diets-impact-the-planet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/istock-165798910_wide-1999033ec825d468d28579ca8b8e2d35c36dfc9c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_march_for_science_organizers_work_to_maintain_non-partisan_position.mp3?orgId=1&amp;topicId=1007&amp;d=192&amp;p=2&amp;story=525110160&amp;t=progseg&amp;e=525013207&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>March For Science Organizers Work To Maintain Non-Partisan Position</title>
-      <link>http://www.npr.org/2017/04/21/525110160/march-for-science-organizers-work-to-maintain-non-partisan-position</link>
-      <description>April 21, 2017 - A March for Science will be held Saturday in Washington, D.C., and hundreds of other cities in the U.S. Organizers say the march is a non-partisan celebration of science. It&#39;s meant to both encourage political leaders to fund science and rely on scientific evidence when making policy decisions. Critics worry the march will turn into an anti-Trump rally and paint scientists as just another interest group.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_march_for_science_organizers_work_to_maintain_non-partisan_position.mp3?orgId=1&amp;topicId=1007&amp;d=192&amp;p=2&amp;story=525110160&amp;t=progseg&amp;e=525013207&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 21, 2017 - A March for Science will be held Saturday in Washington, D.C., and hundreds of other cities in the U.S. Organizers say the march is a non-partisan celebration of science. It's meant to both encourage political leaders to fund science and rely on scientific evidence when making policy decisions. Critics worry the march will turn into an anti-Trump rally and paint scientists as just another interest group.
-
-<a href="http://www.npr.org/2017/04/21/525110160/march-for-science-organizers-work-to-maintain-non-partisan-position">http://www.npr.org/2017/04/21/525110160/march-for-science-organizers-work-to-maintain-non-partisan-position</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>192</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/21/525095927/lights-off-blankets-out-lyrid-meteor-shower-peaks-tonight</guid>
-      <title>Lights Off, Blankets Out: Lyrid Meteor Shower Peaks Tonight</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/21/525095927/lights-off-blankets-out-lyrid-meteor-shower-peaks-tonight</link>
-      <description>April 21, 2017 - Conditions on Friday night and before dawn on Saturday should be ideal for spotting the streaks of space debris — leftover particles from a comet that was last seen in 1861.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/22/gettyimages-470727612_wide-61333812d1cd319ef2cd090d003152b2ed91a214-s800-c15.jpg"></a>
-
-April 21, 2017 - Conditions on Friday night and before dawn on Saturday should be ideal for spotting the streaks of space debris — leftover particles from a comet that was last seen in 1861.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/21/525095927/lights-off-blankets-out-lyrid-meteor-shower-peaks-tonight">http://www.npr.org/sections/thetwo-way/2017/04/21/525095927/lights-off-blankets-out-lyrid-meteor-shower-peaks-tonight</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/22/gettyimages-470727612_wide-61333812d1cd319ef2cd090d003152b2ed91a214-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
