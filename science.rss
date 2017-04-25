@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 18:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 21:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 18:02:30 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 21:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</guid>
+      <title>A Worm May Hold The Key To Biodegrading Plastic</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</link>
+      <description>April 25, 2017 - More than a trillion plastic bags are used annually. They&#39;re made of a notoriously resilient kind of plastic called polyethylene – but scientists have found that wax worms are able to break them down.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/19051745004_4c6553e683_k_wide-1e3d66a2290ab61ffd5a504c2440c34d0aa5fde2-s800-c15.jpg"></a>
+
+April 25, 2017 - More than a trillion plastic bags are used annually. They're made of a notoriously resilient kind of plastic called polyethylene – but scientists have found that wax worms are able to break them down.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic">http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/19051745004_4c6553e683_k_wide-1e3d66a2290ab61ffd5a504c2440c34d0aa5fde2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
       <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
@@ -235,23 +250,6 @@ April 22, 2017 - The actress plays a young African-American woman whose cells, w
 <a href="http://www.npr.org/2017/04/22/525044439/ren-e-elise-goldsberry-hopes-henrietta-lacks-movie-will-start-conversations">http://www.npr.org/2017/04/22/525044439/ren-e-elise-goldsberry-hopes-henrietta-lacks-movie-will-start-conversations</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/12d69970af211fd4a3b1a04097fb36ee43e7c52c91851985b96b3b5ab4d27f7c_wide-ae2ecc7d5b733c2ba82aad68068b0830f609aa0b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>445</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170422_atc_in_a_new_anti-science_era_bill_nye_saves_the_world_with_same_optimism.mp3?orgId=1&amp;topicId=1138&amp;d=506&amp;p=2&amp;story=525065105&amp;t=progseg&amp;e=525201537&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In A New &#39;Anti-Science&#39; Era, Bill Nye &#39;Saves The World&#39; With Same Optimism</title>
-      <link>http://www.npr.org/2017/04/22/525065105/in-a-new-anti-science-era-bill-nye-saves-the-world-with-same-optimism</link>
-      <description>April 22, 2017 - &#34;The Science Guy&#34; dons his lab coat and bow tie uniform yet again, this time, in a a new political context. In his new Netflix series, Nye tackles climate change deniers and beyond.</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170422_atc_in_a_new_anti-science_era_bill_nye_saves_the_world_with_same_optimism.mp3?orgId=1&amp;topicId=1138&amp;d=506&amp;p=2&amp;story=525065105&amp;t=progseg&amp;e=525201537&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/22/gettyimages-671574736_wide-ab2194f4193be6856a11226117517b9fbb6339ba-s800-c15.jpg"></a>
-
-April 22, 2017 - "The Science Guy" dons his lab coat and bow tie uniform yet again, this time, in a a new political context. In his new Netflix series, Nye tackles climate change deniers and beyond.
-
-<a href="http://www.npr.org/2017/04/22/525065105/in-a-new-anti-science-era-bill-nye-saves-the-world-with-same-optimism">http://www.npr.org/2017/04/22/525065105/in-a-new-anti-science-era-bill-nye-saves-the-world-with-same-optimism</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/22/gettyimages-671574736_wide-ab2194f4193be6856a11226117517b9fbb6339ba-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>506</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
