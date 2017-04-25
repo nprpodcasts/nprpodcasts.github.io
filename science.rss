@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 18:02:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 17:00:21 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 18:02:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</guid>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
+      <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</link>
+      <description>April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. &#34;You literally push a button and you get a flight,&#34; an Uber executive says. But will our Tomorrowland ever really arrive?</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s800-c15.jpg"></a>
+
+April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. "You literally push a button and you get a flight," an Uber executive says. But will our Tomorrowland ever really arrive?
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype">http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170425_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2060&amp;p=13&amp;story=525533732&amp;t=progseg&amp;e=525555169&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Psychiatrist Recalls &#39;Heartbreak And Hope&#39; On Bellevue&#39;s Prison Ward</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</link>
       <description>April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.</description>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170425_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2060&amp;p=13&amp;story=525533732&amp;t=progseg&amp;e=525555169&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York Cit
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward">http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2060</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -57,12 +74,12 @@ April 25, 2017 - Some urge ending funding to the Children's Health Insurance Pro
       <guid>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</guid>
       <title>Eat, Sleep, Repeat: How Kids&#39; Daily Routines Can Help Prevent Obesity</title>
       <link>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</link>
-      <description>April 25, 2017 - A new study finds that preschool-aged children who didn&#39;t have a set sleep routine were more likely to be overweight by the time they hit the preteen years.</description>
+      <description>April 25, 2017 - A new study finds that preschool-age children who didn&#39;t have a set sleep routine were more likely to be overweight by the time they hit the preteen years.</description>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s800-c15.jpg"></a>
 
-April 25, 2017 - A new study finds that preschool-aged children who didn't have a set sleep routine were more likely to be overweight by the time they hit the preteen years.
+April 25, 2017 - A new study finds that preschool-age children who didn't have a set sleep routine were more likely to be overweight by the time they hit the preteen years.
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity">http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s3000-c15.jpg"></itunes:image>
@@ -235,21 +252,6 @@ April 22, 2017 - "The Science Guy" dons his lab coat and bow tie uniform yet aga
 <a href="http://www.npr.org/2017/04/22/525065105/in-a-new-anti-science-era-bill-nye-saves-the-world-with-same-optimism">http://www.npr.org/2017/04/22/525065105/in-a-new-anti-science-era-bill-nye-saves-the-world-with-same-optimism</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/22/gettyimages-671574736_wide-ab2194f4193be6856a11226117517b9fbb6339ba-s3000-c15.jpg"></itunes:image>
       <itunes:duration>506</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science</guid>
-      <title>Saturday&#39;s March Aims To Stand Up For Science</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science</link>
-      <description>April 22, 2017 - &#34;I think the profession of science is under attack,&#34; says one organizer of the worldwide event. &#34;[We&#39;ve] left that open for politicians to [hijack] science for their own selfish needs.&#34;</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/22/ap_17112676127096-edit1_wide-ffba28174e1210a09b14be8c7da6a7df6bb4a637-s800-c15.jpg"></a>
-
-April 22, 2017 - "I think the profession of science is under attack," says one organizer of the worldwide event. "[We've] left that open for politicians to [hijack] science for their own selfish needs."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science">http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/22/ap_17112676127096-edit1_wide-ffba28174e1210a09b14be8c7da6a7df6bb4a637-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

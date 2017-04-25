@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 17:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 18:02:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 17:00:23 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 18:02:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170425_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2060&amp;p=13&amp;story=525533732&amp;t=progseg&amp;e=525555169&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Psychiatrist Recalls &#39;Heartbreak And Hope&#39; On Bellevue&#39;s Prison Ward</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</link>
       <description>April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.</description>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170425_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2060&amp;p=13&amp;story=525533732&amp;t=progseg&amp;e=525555169&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York Cit
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward">http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2060</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -87,12 +89,12 @@ April 25, 2017 - Some urge ending funding to the Children's Health Insurance Pro
       <guid>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</guid>
       <title>Eat, Sleep, Repeat: How Kids&#39; Daily Routines Can Help Prevent Obesity</title>
       <link>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</link>
-      <description>April 25, 2017 - A new study finds that preschool-aged children who didn&#39;t have a set sleep routine were more likely to be overweight by the time they hit the preteen years.</description>
+      <description>April 25, 2017 - A new study finds that preschool-age children who didn&#39;t have a set sleep routine were more likely to be overweight by the time they hit the preteen years.</description>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s800-c15.jpg"></a>
 
-April 25, 2017 - A new study finds that preschool-aged children who didn't have a set sleep routine were more likely to be overweight by the time they hit the preteen years.
+April 25, 2017 - A new study finds that preschool-age children who didn't have a set sleep routine were more likely to be overweight by the time they hit the preteen years.
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity">http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s3000-c15.jpg"></itunes:image>

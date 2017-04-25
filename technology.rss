@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 15:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 18:02:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 15:00:18 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 18:02:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
+      <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</link>
+      <description>April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. &#34;You literally push a button and you get a flight,&#34; an Uber executive says. But will our Tomorrowland ever really arrive?</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s800-c15.jpg"></a>
+
+April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. "You literally push a button and you get a flight," an Uber executive says. But will our Tomorrowland ever really arrive?
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype">http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</guid>
       <title>China Moves To Increase Number Of Electric Vehicles On Its Roads</title>
@@ -243,21 +258,6 @@ April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosem
 <a href="http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles">http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>256</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</guid>
-      <title>Malaysia Airlines Says It Will Use Satellites To Track Its Fleet</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</link>
-      <description>April 19, 2017 - Three years after MH Flight 370 disappeared from radar, Malaysia&#39;s national carrier says it will use satellites to track its planes at all times and that it will be the first airline to do so.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/ap_540123650828_wide-b0caf885a946de1cf8a86f92c73cdba97fecee46-s800-c15.jpg"></a>
-
-April 19, 2017 - Three years after MH Flight 370 disappeared from radar, Malaysia's national carrier says it will use satellites to track its planes at all times and that it will be the first airline to do so.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet">http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/ap_540123650828_wide-b0caf885a946de1cf8a86f92c73cdba97fecee46-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
