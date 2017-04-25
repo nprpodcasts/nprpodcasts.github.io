@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 16:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 15:00:22 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 16:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</guid>
+      <title>Why China Is Selling Cheap HIV Tests In Campus Vending Machines</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</link>
+      <description>April 25, 2017 - It&#39;s a pilot project to reach youth who are at risk of infection — and reluctant to come to clinics because of the stigma around HIV/AIDS. Is anyone buying?</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/hiv-vending_wide-7eb8fd4e68b7790e231eff0dd3b5258c77779437-s800-c15.jpg"></a>
+
+April 25, 2017 - It's a pilot project to reach youth who are at risk of infection — and reluctant to come to clinics because of the stigma around HIV/AIDS. Is anyone buying?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines">http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/hiv-vending_wide-7eb8fd4e68b7790e231eff0dd3b5258c77779437-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</guid>
+      <title>Scientists Create Artificial Womb That Could Help Prematurely Born Babies</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</link>
+      <description>April 25, 2017 - The device kept fetal lambs alive for about a month, allowing them to continue to mature. It has not been tested in humans, and some say the device raises ethical questions.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s800-c15.jpg"></a>
+
+April 25, 2017 - The device kept fetal lambs alive for about a month, allowing them to continue to mature. It has not been tested in humans, and some say the device raises ethical questions.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies">http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</guid>
       <title>Changes To Federal Insurance Plans Could Hurt Families Of Chronically Ill Kids</title>
@@ -222,36 +252,6 @@ April 22, 2017 - Men are more likely than women to put off going to the doctor. 
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble">http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/khn-cedillo-01_wide-dd631d4032d1ef39d850492ee301930b92c14a77-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</guid>
-      <title>#CuriousGoat: Will Climate Change Help Ticks And Mosquitoes Spread Disease?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</link>
-      <description>April 21, 2017 - The disease-spreading bugs are creeping north in the states. But will they bring diseases like Lyme and Zika with them?</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/20/gettyimages-509567498_wide-2800faff81b8576adb650b58bcfb466f496b79dc-s800-c15.jpg"></a>
-
-April 21, 2017 - The disease-spreading bugs are creeping north in the states. But will they bring diseases like Lyme and Zika with them?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease">http://www.npr.org/sections/goatsandsoda/2017/04/21/523066394/-curiousgoat-will-climate-change-help-ticks-and-mosquitoes-spread-disease</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/20/gettyimages-509567498_wide-2800faff81b8576adb650b58bcfb466f496b79dc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</guid>
-      <title>Juicero CEO Says Luxury Juicer Is &#39;Much More&#39; Than Juice; Internet Is Unimpressed</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</link>
-      <description>April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn&#39;t actually need the press to get juice from the packets.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s800-c15.jpg"></a>
-
-April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn't actually need the press to get juice from the packets.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed">http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
