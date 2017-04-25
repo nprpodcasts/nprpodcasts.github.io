@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 16:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 17:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 16:00:19 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 17:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</guid>
+      <title>Psychiatrist Recalls &#39;Heartbreak And Hope&#39; On Bellevue&#39;s Prison Ward</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</link>
+      <description>April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s800-c15.jpg"></a>
+
+April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward">http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</guid>
       <title>Why China Is Selling Cheap HIV Tests In Campus Vending Machines</title>
@@ -237,21 +252,6 @@ April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to h
 <a href="http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour">http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-5d1812800d385818c5bcb20f5934856c9567ab88-s3000-c15.jpg"></itunes:image>
       <itunes:duration>287</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble</guid>
-      <title>Hispanic Men Often Put Off Medical Care, Bringing Bigger Trouble</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble</link>
-      <description>April 22, 2017 - Men are more likely than women to put off going to the doctor. Hispanic men can face complications of culture, language and cost that make that even more likely.</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/khn-cedillo-01_wide-dd631d4032d1ef39d850492ee301930b92c14a77-s800-c15.jpg"></a>
-
-April 22, 2017 - Men are more likely than women to put off going to the doctor. Hispanic men can face complications of culture, language and cost that make that even more likely.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble">http://www.npr.org/sections/health-shots/2017/04/22/525076404/hispanic-men-often-put-off-medical-care-bringing-bigger-trouble</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/khn-cedillo-01_wide-dd631d4032d1ef39d850492ee301930b92c14a77-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

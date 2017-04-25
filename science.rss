@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 17:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 15:00:20 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 17:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</guid>
+      <title>Psychiatrist Recalls &#39;Heartbreak And Hope&#39; On Bellevue&#39;s Prison Ward</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</link>
+      <description>April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s800-c15.jpg"></a>
+
+April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York City for more than a decade. It was almost universal, she says, that they had suffered abuse or significant neglect as children.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward">http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</guid>
       <title>Changes To Federal Insurance Plans Could Hurt Families Of Chronically Ill Kids</title>
@@ -235,21 +250,6 @@ April 22, 2017 - "I think the profession of science is under attack," says one o
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science">http://www.npr.org/sections/thetwo-way/2017/04/22/525112932/saturdays-march-aims-to-stand-up-for-science</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/22/ap_17112676127096-edit1_wide-ffba28174e1210a09b14be8c7da6a7df6bb4a637-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_open-label_placebo_pill.mp3?orgId=1&amp;topicId=1007&amp;d=282&amp;p=7&amp;story=525188097&amp;t=progseg&amp;e=525188008&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Can Placebos Work If You Know They&#39;re Placebos?</title>
-      <link>http://www.npr.org/2017/04/22/525188097/can-placebos-work-if-you-know-theyre-placebos</link>
-      <description>April 22, 2017 - NPR&#39;s Mary Louise Kelly asks writer Robert Siegel about &#34;open label placebos&#34; and whether placebos work even when patients know they&#39;re placebos. He wrote about his experience in Smithsonian Magazine.</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_open-label_placebo_pill.mp3?orgId=1&amp;topicId=1007&amp;d=282&amp;p=7&amp;story=525188097&amp;t=progseg&amp;e=525188008&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 22, 2017 - NPR's Mary Louise Kelly asks writer Robert Siegel about "open label placebos" and whether placebos work even when patients know they're placebos. He wrote about his experience in Smithsonian Magazine.
-
-<a href="http://www.npr.org/2017/04/22/525188097/can-placebos-work-if-you-know-theyre-placebos">http://www.npr.org/2017/04/22/525188097/can-placebos-work-if-you-know-theyre-placebos</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>282</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
