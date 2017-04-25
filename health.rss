@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 18:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 22:00:56 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 18:02:32 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 22:00:56 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/codeswitch/2017/04/25/485887058/cherokee-nation-sues-wal-mart-cvs-walgreens-over-tribal-opioid-crisis</guid>
+      <title>Cherokee Nation Sues Wal-Mart, CVS, Walgreens Over Tribal Opioid Crisis</title>
+      <link>http://www.npr.org/sections/codeswitch/2017/04/25/485887058/cherokee-nation-sues-wal-mart-cvs-walgreens-over-tribal-opioid-crisis</link>
+      <description>April 25, 2017 - But the Cherokee tribe says these companies regularly filled large, suspicious prescriptions within the Cherokee Nation&#39;s 14 counties in northeastern Oklahoma.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/71974446_wide-d70ad6a4a87b2c987cd7e98c3eaede1c97543cc3-s800-c15.jpg"></a>
+
+April 25, 2017 - But the Cherokee tribe says these companies regularly filled large, suspicious prescriptions within the Cherokee Nation's 14 counties in northeastern Oklahoma.
+
+<a href="http://www.npr.org/sections/codeswitch/2017/04/25/485887058/cherokee-nation-sues-wal-mart-cvs-walgreens-over-tribal-opioid-crisis">http://www.npr.org/sections/codeswitch/2017/04/25/485887058/cherokee-nation-sues-wal-mart-cvs-walgreens-over-tribal-opioid-crisis</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/71974446_wide-d70ad6a4a87b2c987cd7e98c3eaede1c97543cc3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/04/20170425_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2060&amp;p=13&amp;story=525533732&amp;t=progseg&amp;e=525555169&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Psychiatrist Recalls &#39;Heartbreak And Hope&#39; On Bellevue&#39;s Prison Ward</title>
@@ -56,11 +71,12 @@ April 25, 2017 - It's a pilot project to reach youth who are at risk of infectio
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_scientists_create_artificial_womb_that_could_help_prematurely_born_babies.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=525044286&amp;t=progseg&amp;e=525516911&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Create Artificial Womb That Could Help Prematurely Born Babies</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</link>
       <description>April 25, 2017 - The device kept fetal lambs alive for about a month, allowing them to continue to mature. It has not been tested in humans, and some say the device raises ethical questions.</description>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_scientists_create_artificial_womb_that_could_help_prematurely_born_babies.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=525044286&amp;t=progseg&amp;e=525516911&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s800-c15.jpg"></a>
 
@@ -68,6 +84,7 @@ April 25, 2017 - The device kept fetal lambs alive for about a month, allowing t
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies">http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>260</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ April 22, 2017 - Kate Moore's new book digs into the short, painful lives of the
 <a href="http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science">http://www.npr.org/2017/04/22/525063024/dark-lives-of-the-radium-girls-left-a-bright-legacy-for-workers-science</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/2017-04-21-radium-girls-mcarrasquero-001_wide-1f654528b680657b3e5437b7e37d9df931f0a374-s3000-c15.jpg"></itunes:image>
       <itunes:duration>439</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_send_me_a_friend_anders_osborne_helps_musicians_stay_sober_on_tour.mp3?orgId=1&amp;topicId=1128&amp;d=287&amp;p=7&amp;story=525060029&amp;t=progseg&amp;e=525188008&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Send Me A Friend&#39;: Anders Osborne Helps Musicians Stay Sober On Tour</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</link>
-      <description>April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to help musicians and others in the industry stay sober in work environments that are often centered around drugs and alcohol.</description>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170422_wesat_send_me_a_friend_anders_osborne_helps_musicians_stay_sober_on_tour.mp3?orgId=1&amp;topicId=1128&amp;d=287&amp;p=7&amp;story=525060029&amp;t=progseg&amp;e=525188008&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-5d1812800d385818c5bcb20f5934856c9567ab88-s800-c15.jpg"></a>
-
-April 22, 2017 - New Orleans bluesman Anders Osborne is launching a program to help musicians and others in the industry stay sober in work environments that are often centered around drugs and alcohol.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour">http://www.npr.org/sections/health-shots/2017/04/22/525060029/send-me-a-friend-anders-osborne-helps-musicians-stay-sober-on-tour</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/anders-osborne-at-his-home-studio_wide-5d1812800d385818c5bcb20f5934856c9567ab88-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>287</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
