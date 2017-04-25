@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2017 22:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 15:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Apr 2017 22:00:38 +0000</pubDate>
+    <pubDate>Tue, 25 Apr 2017 15:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</guid>
+      <title>China Moves To Increase Number Of Electric Vehicles On Its Roads</title>
+      <link>http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</link>
+      <description>April 25, 2017 - By early next year, Beijing will require automakers in China to ensure that at least 8 percent of all vehicles they manufacture are electric.</description>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/24/1_wide-ce3fb4e4d61569ad33161bbd83a33bb375d45a28-s800-c15.jpg"></a>
+
+April 25, 2017 - By early next year, Beijing will require automakers in China to ensure that at least 8 percent of all vehicles they manufacture are electric.
+
+<a href="http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads">http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/1_wide-ce3fb4e4d61569ad33161bbd83a33bb375d45a28-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_hacking_lake_erie_tech_competition_seeks_solutions_to_water-related_problems.mp3?orgId=1&amp;topicId=1019&amp;d=201&amp;p=2&amp;story=525441604&amp;t=progseg&amp;e=525381007&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hacking Lake Erie: Tech Competition Seeks Solutions To Water-Related Problems</title>
@@ -243,23 +258,6 @@ April 19, 2017 - Three years after MH Flight 370 disappeared from radar, Malaysi
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet">http://www.npr.org/sections/thetwo-way/2017/04/19/524681431/malaysia-airlines-says-it-will-use-satellites-to-track-its-fleet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/ap_540123650828_wide-b0caf885a946de1cf8a86f92c73cdba97fecee46-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170419_me_zuckerberg_speech.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=524643659&amp;t=progseg&amp;e=524654613&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Facebook&#39;s New Grand Plan To Draw You In</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in</link>
-      <description>April 19, 2017 - In quintessential Silicon Valley style, Facebook CEO Mark Zuckerberg unveils ambitious plans to bring users from 2-D news feeds to 3-D imaginary worlds and neglects safety concerns.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170419_me_zuckerberg_speech.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=524643659&amp;t=progseg&amp;e=524654613&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/aarti-avatar_wide-3648ce0521597101e25b42e10265ee6f40d7a119-s800-c15.jpg"></a>
-
-April 19, 2017 - In quintessential Silicon Valley style, Facebook CEO Mark Zuckerberg unveils ambitious plans to bring users from 2-D news feeds to 3-D imaginary worlds and neglects safety concerns.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in">http://www.npr.org/sections/alltechconsidered/2017/04/19/524643659/facebooks-new-grand-plan-to-draw-you-in</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/aarti-avatar_wide-3648ce0521597101e25b42e10265ee6f40d7a119-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
