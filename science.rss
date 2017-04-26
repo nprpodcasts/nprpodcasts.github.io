@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 17:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 18:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 17:00:20 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 18:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought</guid>
+      <title>New Evidence Suggests Humans Arrived In The Americas Far Earlier Than Thought</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought</link>
+      <description>April 26, 2017 - Until now, the earliest signs of humans in the Americas dated back about 15,000 years. But new research puts people in California 130,000 years ago. Experts are wondering whether to believe it.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/26/early-americans-1_wide-cad8f572ea98627b0b85ae621ddef38f15c8f2a6-s800-c15.jpg"></a>
+
+April 26, 2017 - Until now, the earliest signs of humans in the Americas dated back about 15,000 years. But new research puts people in California 130,000 years ago. Experts are wondering whether to believe it.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought">http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/early-americans-1_wide-cad8f572ea98627b0b85ae621ddef38f15c8f2a6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525696238/cassini-spacecraft-starts-weaving-between-saturn-and-its-rings</guid>
       <title>Cassini Spacecraft Starts Weaving Between Saturn And Its Rings</title>
@@ -237,21 +252,6 @@ April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will
 <a href="http://www.npr.org/2017/04/23/525320213/voices-from-the-march-for-science">http://www.npr.org/2017/04/23/525320213/voices-from-the-march-for-science</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>135</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_cosmic_swan_dive.mp3?orgId=1&amp;topicId=1026&amp;d=86&amp;p=10&amp;story=525310229&amp;t=progseg&amp;e=525310191&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Cassini Spacecraft Heads To Saturn</title>
-      <link>http://www.npr.org/2017/04/23/525310229/cassini-spacecraft-heads-to-saturn</link>
-      <description>April 23, 2017 - The Cassini spacecraft, launched in 1997, has begun its final trip, which will end in its eventual destruction on Saturn. It recently sent back a picture of Earth from 870 million miles away.</description>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_cosmic_swan_dive.mp3?orgId=1&amp;topicId=1026&amp;d=86&amp;p=10&amp;story=525310229&amp;t=progseg&amp;e=525310191&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 23, 2017 - The Cassini spacecraft, launched in 1997, has begun its final trip, which will end in its eventual destruction on Saturn. It recently sent back a picture of Earth from 870 million miles away.
-
-<a href="http://www.npr.org/2017/04/23/525310229/cassini-spacecraft-heads-to-saturn">http://www.npr.org/2017/04/23/525310229/cassini-spacecraft-heads-to-saturn</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>86</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
