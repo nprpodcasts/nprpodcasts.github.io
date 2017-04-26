@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 21:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 22:00:48 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 21:00:15 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 22:00:48 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_health_care_showdown_or_not.mp3?orgId=1&amp;topicId=1003&amp;d=215&amp;p=2&amp;story=525764683&amp;t=progseg&amp;e=525699653&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Shutdown Averted: White House Backs Down On Health Care Demands</title>
       <link>http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</link>
       <description>April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.</description>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_health_care_showdown_or_not.mp3?orgId=1&amp;topicId=1003&amp;d=215&amp;p=2&amp;story=525764683&amp;t=progseg&amp;e=525699653&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.
 
 <a href="http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands">http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
