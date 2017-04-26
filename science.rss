@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 22:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 23:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 22:00:51 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 23:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/26/525764720/swipe-right-to-help-save-the-northern-white-rhino-from-extinction</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_drug_saves_women_in_child_birth.mp3?orgId=1&amp;topicId=1128&amp;d=121&amp;p=2&amp;story=525639110&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Overlooked Drug Could Save Thousands Of Moms After Childbirth</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth</link>
+      <description>April 26, 2017 - An inexpensive drug could dramatically reduce the number of deaths of mothers from bleeding after childbirth in low- and middle-income countries around the world.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_drug_saves_women_in_child_birth.mp3?orgId=1&amp;topicId=1128&amp;d=121&amp;p=2&amp;story=525639110&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/26/gettyimages-548001551_wide-2390399e90587df584608cc527772bb381caa075-s800-c15.jpg"></a>
+
+April 26, 2017 - An inexpensive drug could dramatically reduce the number of deaths of mothers from bleeding after childbirth in low- and middle-income countries around the world.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth">http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-548001551_wide-2390399e90587df584608cc527772bb381caa075-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>121</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_swipe_right_to_help_save_the_northern_white_rhino_from_extinction.mp3?orgId=1&amp;topicId=1132&amp;d=128&amp;p=2&amp;story=525764720&amp;t=progseg&amp;e=525699653&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Swipe Right To Help Save The Northern White Rhino From Extinction</title>
       <link>http://www.npr.org/2017/04/26/525764720/swipe-right-to-help-save-the-northern-white-rhino-from-extinction</link>
       <description>April 26, 2017 - To fund in vitro fertilization research, Ol Pejeta Conservancy CEO Richard Vigne says researchers teamed up with the dating app Tinder to feature &#34;Sudan&#34; as the &#34;Most Eligible Bachelor in the World.&#34;</description>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_swipe_right_to_help_save_the_northern_white_rhino_from_extinction.mp3?orgId=1&amp;topicId=1132&amp;d=128&amp;p=2&amp;story=525764720&amp;t=progseg&amp;e=525699653&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 26, 2017 - To fund in vitro fertilization research, Ol Pejeta Conservancy CEO Richard Vigne says researchers teamed up with the dating app Tinder to feature "Sudan" as the "Most Eligible Bachelor in the World."
 
 <a href="http://www.npr.org/2017/04/26/525764720/swipe-right-to-help-save-the-northern-white-rhino-from-extinction">http://www.npr.org/2017/04/26/525764720/swipe-right-to-help-save-the-northern-white-rhino-from-extinction</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>128</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +256,6 @@ April 24, 2017 - In order to investigate how eating fish affects our health as w
 <a href="http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems">http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>201</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_astronaut_peggy_whitson_breaks_nasa_record_for_most_days_in_space.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=2&amp;story=525441574&amp;t=progseg&amp;e=525381007&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Astronaut Peggy Whitson Breaks NASA Record For Most Days In Space</title>
-      <link>http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</link>
-      <description>April 24, 2017 - NASA astronaut Peggy Whitson has now spent more time off-planet than any other American. On Monday morning, the president and Ivanka Trump called Whitson at the International Space Station to congratulate her.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_astronaut_peggy_whitson_breaks_nasa_record_for_most_days_in_space.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=2&amp;story=525441574&amp;t=progseg&amp;e=525381007&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 24, 2017 - NASA astronaut Peggy Whitson has now spent more time off-planet than any other American. On Monday morning, the president and Ivanka Trump called Whitson at the International Space Station to congratulate her.
-
-<a href="http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space">http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>153</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
