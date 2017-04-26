@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 14:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 19:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 14:00:56 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 19:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</guid>
+      <title>In Surprise TED Talk, Pope Francis Asks The Powerful For &#39;Revolution Of Tenderness&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</link>
+      <description>April 26, 2017 - The pontiff&#39;s message seemed to be directed at the audience in the room. &#34;The more powerful you are,&#34; he said, &#34;the more responsible you are to act humbly. If you don&#39;t, your power will ruin you.&#34;</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/26/ted2017_042517_2rl0986-edit_wide-84df430d0f0dd4acf71532e697b9803138f8f1cd-s800-c15.jpg"></a>
+
+April 26, 2017 - The pontiff's message seemed to be directed at the audience in the room. "The more powerful you are," he said, "the more responsible you are to act humbly. If you don't, your power will ruin you."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness">http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/ted2017_042517_2rl0986-edit_wide-84df430d0f0dd4acf71532e697b9803138f8f1cd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</guid>
       <title>Energy Star Program For Homes And Appliances Is On Trump&#39;s Chopping Block</title>
@@ -241,23 +256,6 @@ April 21, 2017 - MIT Professor Erik Brynjolfsson sees a bright future where mach
 <a href="http://www.npr.org/2017/04/21/524700928/erik-brynjolfsson-in-a-race-with-machines-can-we-keep-up">http://www.npr.org/2017/04/21/524700928/erik-brynjolfsson-in-a-race-with-machines-can-we-keep-up</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/erikbrynjolfsson_2013-embed_wide-88b8bd56d943ce45f8841aa57b63051b831c1673-s3000-c15.jpg"></itunes:image>
       <itunes:duration>748</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_04.mp3?orgId=1&amp;topicId=1019&amp;d=1066&amp;p=57&amp;story=524702525&amp;t=progseg&amp;e=522858434&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Jeremy Howard: Will Artificial Intelligence Be The Last Human Invention?</title>
-      <link>http://www.npr.org/2017/04/21/524702525/jeremy-howard-will-artificial-intelligence-be-the-last-human-invention</link>
-      <description>April 21, 2017 - Jeremy Howard has studied machine learning for 25 years. He says artificial intelligence can help achieve amazing things. But he warns the impact on jobs may cause a great deal of social instability.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_04.mp3?orgId=1&amp;topicId=1019&amp;d=1066&amp;p=57&amp;story=524702525&amp;t=progseg&amp;e=522858434&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/jeremyhoward_2014x-embed_wide-439d6cd020c38bfd05aba8e3ea4aee8c3fab64f7-s800-c15.jpg"></a>
-
-April 21, 2017 - Jeremy Howard has studied machine learning for 25 years. He says artificial intelligence can help achieve amazing things. But he warns the impact on jobs may cause a great deal of social instability.
-
-<a href="http://www.npr.org/2017/04/21/524702525/jeremy-howard-will-artificial-intelligence-be-the-last-human-invention">http://www.npr.org/2017/04/21/524702525/jeremy-howard-will-artificial-intelligence-be-the-last-human-invention</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/jeremyhoward_2014x-embed_wide-439d6cd020c38bfd05aba8e3ea4aee8c3fab64f7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>1066</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

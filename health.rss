@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 14:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 19:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 14:00:59 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 19:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/26/525736888/tyson-foods-promises-better-conditions-and-safety-for-meat-workers</guid>
+      <title>Tyson Foods Promises Better Conditions And Safety For Meat Workers </title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/26/525736888/tyson-foods-promises-better-conditions-and-safety-for-meat-workers</link>
+      <description>April 26, 2017 - Meat-processing employs more than a half-million people. An investigation found they&#39;ve got some of the most dangerous factory jobs in America and suffer from injury, low pay and lack of work breaks.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/tyson_wide-54173c636eae6806c523810ecffc26eece1afc34-s800-c15.jpg"></a>
+
+April 26, 2017 - Meat-processing employs more than a half-million people. An investigation found they've got some of the most dangerous factory jobs in America and suffer from injury, low pay and lack of work breaks.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/26/525736888/tyson-foods-promises-better-conditions-and-safety-for-meat-workers">http://www.npr.org/sections/thesalt/2017/04/26/525736888/tyson-foods-promises-better-conditions-and-safety-for-meat-workers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/tyson_wide-54173c636eae6806c523810ecffc26eece1afc34-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</guid>
+      <title>&#39;Minibrains&#39; In A Dish Shed A Little Light On Autism And Epilepsy</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</link>
+      <description>April 26, 2017 - Experiments with small clusters of networked brain cells are helping scientists see how real brains develop normally, and what goes awry when cells have trouble making connections.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/brain-in-dish-1_wide-3273e53d986d7605e784f1dcce405c650e77be76-s800-c15.jpg"></a>
+
+April 26, 2017 - Experiments with small clusters of networked brain cells are helping scientists see how real brains develop normally, and what goes awry when cells have trouble making connections.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy">http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/brain-in-dish-1_wide-3273e53d986d7605e784f1dcce405c650e77be76-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside</guid>
       <title>How A Wild Berry Is Helping To Protect China&#39;s Giant Pandas And Its Countryside</title>
@@ -220,38 +250,6 @@ April 24, 2017 - Drone pilots and intelligence analysts who work with them may n
 
 <a href="http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real">http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</guid>
-      <title>We&#39;re All Tired. But When Could Fatigue Mean a Medical Problem?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</link>
-      <description>April 24, 2017 - Avoiding your phone and TV at night and setting a firm bedtime might solve your problem if you feel tired a lot. But fatigue can also be a sign of disease.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/tired_wide-43e8d72c6e81cf2b9e2afdcbdb34eae6b8c32527-s800-c15.jpg"></a>
-
-April 24, 2017 - Avoiding your phone and TV at night and setting a firm bedtime might solve your problem if you feel tired a lot. But fatigue can also be a sign of disease.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem">http://www.npr.org/sections/health-shots/2017/04/24/525385610/we-re-all-tired-but-when-could-fatigue-mean-a-medical-problem</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/tired_wide-43e8d72c6e81cf2b9e2afdcbdb34eae6b8c32527-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_is_it_time_for_hearing_aids_to_be_sold_over_the_counter.mp3?orgId=1&amp;topicId=1066&amp;d=240&amp;p=3&amp;story=524946910&amp;t=progseg&amp;e=525359192&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Is It Time For Hearing Aids To Be Sold Over The Counter?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter</link>
-      <description>April 24, 2017 - About 35 million Americans suffer some hearing loss, but most don&#39;t do anything about it. There&#39;s a growing effort to make hearing aids easier and cheaper to buy.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170424_me_is_it_time_for_hearing_aids_to_be_sold_over_the_counter.mp3?orgId=1&amp;topicId=1066&amp;d=240&amp;p=3&amp;story=524946910&amp;t=progseg&amp;e=525359192&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/hearing-aids_wide-2de4e2a9017c3326360e308251f8dedbac02b315-s800-c15.jpg"></a>
-
-April 24, 2017 - About 35 million Americans suffer some hearing loss, but most don't do anything about it. There's a growing effort to make hearing aids easier and cheaper to buy.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter">http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/hearing-aids_wide-2de4e2a9017c3326360e308251f8dedbac02b315-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
