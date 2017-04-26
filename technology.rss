@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2017 23:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 14:00:56 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Apr 2017 23:00:14 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 14:00:56 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,51 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</guid>
+      <title>Energy Star Program For Homes And Appliances Is On Trump&#39;s Chopping Block</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</link>
+      <description>April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to celebrate the energy efficiency program. Energy Star is among 50 EPA programs that would be eliminated under the president&#39;s budget plan.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/25/energystar_wide-2daee62f7383cdefc2800eafc56b27e6c4a97f5a-s800-c15.jpg"></a>
+
+April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to celebrate the energy efficiency program. Energy Star is among 50 EPA programs that would be eliminated under the president's budget plan.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block">http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/energystar_wide-2daee62f7383cdefc2800eafc56b27e6c4a97f5a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_morning_news_brief_trumps_tax_plan_north_korea_killings_on_facebook_live.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=525675131&amp;t=progseg&amp;e=525675082&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Morning News Brief: Trump&#39;s Tax Plan, North Korea, Killings On Facebook Live</title>
+      <link>http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live</link>
+      <description>April 26, 2017 - President Trump will announce his tax plan Wednesday. Also, Holly Bailey of Yahoo News talks about a briefing Senators will receive on North Korea, and another killing was broadcast on Facebook Live.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_morning_news_brief_trumps_tax_plan_north_korea_killings_on_facebook_live.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=525675131&amp;t=progseg&amp;e=525675082&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 26, 2017 - President Trump will announce his tax plan Wednesday. Also, Holly Bailey of Yahoo News talks about a briefing Senators will receive on North Korea, and another killing was broadcast on Facebook Live.
+
+<a href="http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live">http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>620</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_facebook_responding_to_another_broadcasted_killing.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=525675168&amp;t=progseg&amp;e=525675082&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Facebook Responding To Another Broadcasted Killing</title>
+      <link>http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing</link>
+      <description>April 26, 2017 - A man killed his infant daughter in Thailand and broadcast it live on Facebook. It comes just after the company dealt with another killing on Facebook Live that happened in Cleveland.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_facebook_responding_to_another_broadcasted_killing.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=525675168&amp;t=progseg&amp;e=525675082&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 26, 2017 - A man killed his infant daughter in Thailand and broadcast it live on Facebook. It comes just after the company dealt with another killing on Facebook Live that happened in Cleveland.
+
+<a href="http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing">http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
       <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
@@ -213,53 +258,6 @@ April 21, 2017 - Jeremy Howard has studied machine learning for 25 years. He say
 <a href="http://www.npr.org/2017/04/21/524702525/jeremy-howard-will-artificial-intelligence-be-the-last-human-invention">http://www.npr.org/2017/04/21/524702525/jeremy-howard-will-artificial-intelligence-be-the-last-human-invention</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/jeremyhoward_2014x-embed_wide-439d6cd020c38bfd05aba8e3ea4aee8c3fab64f7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>1066</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_yosemite_rangers_use_technology_to_save_bears_from_cars.mp3?orgId=272&amp;topicId=1132&amp;d=233&amp;p=2&amp;story=524409047&amp;t=progseg&amp;e=524838907&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Yosemite Rangers Use Technology To Save Bears From Cars</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</link>
-      <description>April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosemite. But rangers hope tracking tools, like the website where the public can track bears, will help keep both humans and bears safe.</description>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170420_atc_yosemite_rangers_use_technology_to_save_bears_from_cars.mp3?orgId=272&amp;topicId=1132&amp;d=233&amp;p=2&amp;story=524409047&amp;t=progseg&amp;e=524838907&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s800-c15.jpg"></a>
-
-April 20, 2017 - Speeding cars have become the biggest threat for bears in Yosemite. But rangers hope tracking tools, like the website where the public can track bears, will help keep both humans and bears safe.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars">http://www.npr.org/sections/alltechconsidered/2017/04/20/524409047/yosemite-rangers-use-technology-to-save-bears-from-cars</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/18/ap_407413262260_wide-2e9b9cbe0295a85461c4da9b271c585c604d656f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_president_trumps_new_order_gives_china_tech_opportunity_to_hire_american_too.mp3?orgId=1&amp;topicId=1019&amp;d=213&amp;p=2&amp;story=524751641&amp;t=progseg&amp;e=524655606&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>President Trump&#39;s New Order Gives China Tech Opportunity To &#39;Hire American&#39; Too</title>
-      <link>http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too</link>
-      <description>April 19, 2017 - The same week that President Trump issued his hire American executive order, the president of one of China&#39;s top tech companies said his company wants to do the same thing. Baidu&#39;s President Ya-Qin Zhang hit the Stanford University campus trying to recruit American computer science students.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_president_trumps_new_order_gives_china_tech_opportunity_to_hire_american_too.mp3?orgId=1&amp;topicId=1019&amp;d=213&amp;p=2&amp;story=524751641&amp;t=progseg&amp;e=524655606&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 19, 2017 - The same week that President Trump issued his hire American executive order, the president of one of China's top tech companies said his company wants to do the same thing. Baidu's President Ya-Qin Zhang hit the Stanford University campus trying to recruit American computer science students.
-
-<a href="http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too">http://www.npr.org/2017/04/19/524751641/president-trumps-new-order-gives-china-tech-opportunity-to-hire-american-too</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>213</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_car_design_school_prepares_for_new_age_of_driverless_vehicles.mp3?orgId=1&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=524751571&amp;t=progseg&amp;e=524655606&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Car Design School Prepares For New Age Of Driverless Vehicles</title>
-      <link>http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles</link>
-      <description>April 19, 2017 - A car design school confronts the challenge of getting people to overcome their misgivings about driverless cars. Many Americans are not comfortable with self-driving cars, despite the fact that the industry is spending billions on the new technology.</description>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170419_atc_car_design_school_prepares_for_new_age_of_driverless_vehicles.mp3?orgId=1&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=524751571&amp;t=progseg&amp;e=524655606&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 19, 2017 - A car design school confronts the challenge of getting people to overcome their misgivings about driverless cars. Many Americans are not comfortable with self-driving cars, despite the fact that the industry is spending billions on the new technology.
-
-<a href="http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles">http://www.npr.org/2017/04/19/524751571/car-design-school-prepares-for-new-age-of-driverless-vehicles</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>256</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

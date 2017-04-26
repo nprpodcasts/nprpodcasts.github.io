@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 03:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 14:00:59 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 03:00:27 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 14:00:59 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside</guid>
+      <title>How A Wild Berry Is Helping To Protect China&#39;s Giant Pandas And Its Countryside</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside</link>
+      <description>April 26, 2017 - Long before it became a &#34;superfood&#34; in the U.S., schisandra was made into soups and jams and prized as a medicinal plant. Now the berry is at the center of a dramatic new approach to conservation.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/img_1826_wide-1f1940e9982f027062930546c7b2003a4711bb4e-s800-c15.jpg"></a>
+
+April 26, 2017 - Long before it became a "superfood" in the U.S., schisandra was made into soups and jams and prized as a medicinal plant. Now the berry is at the center of a dramatic new approach to conservation.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside">http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/img_1826_wide-1f1940e9982f027062930546c7b2003a4711bb4e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</guid>
+      <title>Binge Drinkers Beware: Study Finds Link Between Alcohol And Heart Arrhythmias</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</link>
+      <description>April 26, 2017 - Researchers tested more than 3,000 people at Munich&#39;s Oktoberfest beer festival. They found getting drunk was associated with abnormal heart rhythms.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/cheers-1_wide-519c5103f37d1743f66ab2d873d6b1e3953589ac-s800-c15.jpg"></a>
+
+April 26, 2017 - Researchers tested more than 3,000 people at Munich's Oktoberfest beer festival. They found getting drunk was associated with abnormal heart rhythms.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias">http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/cheers-1_wide-519c5103f37d1743f66ab2d873d6b1e3953589ac-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/25/525405868/what-this-doctor-is-going-to-do-with-his-1-million-ted-prize</guid>
       <title>What This Doctor Is Going To Do With His $1 Million TED Prize</title>
@@ -222,36 +252,6 @@ April 24, 2017 - About 35 million Americans suffer some hearing loss, but most d
 <a href="http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter">http://www.npr.org/sections/health-shots/2017/04/24/524946910/is-it-time-for-hearing-aids-to-be-sold-over-the-counter</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/hearing-aids_wide-2de4e2a9017c3326360e308251f8dedbac02b315-s3000-c15.jpg"></itunes:image>
       <itunes:duration>240</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_ancient_antibiotics.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=10&amp;story=525310264&amp;t=progseg&amp;e=525310191&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Ancientbiotics&#39; Researchers Look For Old Fixes To Modern Ailments</title>
-      <link>http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</link>
-      <description>April 23, 2017 - NPR&#39;s Lynn Neary speaks with Erin Connelly of the University of Pennsylvania about using medieval practices for modern medicine.&#xA;&#xA; - http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</description>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170423_wesun_ancient_antibiotics.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=10&amp;story=525310264&amp;t=progseg&amp;e=525310191&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 23, 2017 - NPR's Lynn Neary speaks with Erin Connelly of the University of Pennsylvania about using medieval practices for modern medicine.
-
-<a href="http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments">http://www.npr.org/2017/04/23/525310264/ancientbiotics-researchers-look-for-old-fixes-to-modern-ailments</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</guid>
-      <title>Chemo Scrambled My Brain</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</link>
-      <description>April 23, 2017 - After an incorrect dose of a chemotherapy drug for Crohn&#39;s disease caused Anne Webster&#39;s bone marrow to shut down, she decided that, if she survived, she&#39;d write about her experience.</description>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/chemo-brain-2_wide-f1a9444189e8dea198ae785f6583f59b6f7ff506-s800-c15.jpg"></a>
-
-April 23, 2017 - After an incorrect dose of a chemotherapy drug for Crohn's disease caused Anne Webster's bone marrow to shut down, she decided that, if she survived, she'd write about her experience.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain">http://www.npr.org/sections/health-shots/2017/04/23/525062440/chemo-scrambled-my-brain</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/chemo-brain-2_wide-f1a9444189e8dea198ae785f6583f59b6f7ff506-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
