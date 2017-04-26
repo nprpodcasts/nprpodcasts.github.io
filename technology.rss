@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 19:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 21:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 19:00:22 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 21:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations</guid>
+      <title>FCC Chief Begins Rollback Of Net Neutrality Regulations</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations</link>
+      <description>April 26, 2017 - FCC Chairman Ajit Pai, a free market proponent, wants to repeal Obama-era regulations that treat Internet service providers like utilities. &#34;Nothing about the Internet was broken in 2015,&#34; he said.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/26/gettyimages-673446390_wide-24c7261a6dfe7a6938839186fe8e744fe79d04cd-s800-c15.jpg"></a>
+
+April 26, 2017 - FCC Chairman Ajit Pai, a free market proponent, wants to repeal Obama-era regulations that treat Internet service providers like utilities. "Nothing about the Internet was broken in 2015," he said.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations">http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-673446390_wide-24c7261a6dfe7a6938839186fe8e744fe79d04cd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</guid>
       <title>In Surprise TED Talk, Pope Francis Asks The Powerful For &#39;Revolution Of Tenderness&#39;</title>
@@ -239,23 +254,6 @@ April 21, 2017 - GE's Chief Economist Marco Annunziata is optimistic about "the 
 <a href="http://www.npr.org/2017/04/21/524701908/marco-annunziata-what-will-human-machine-collaboration-mean-for-our-jobs">http://www.npr.org/2017/04/21/524701908/marco-annunziata-what-will-human-machine-collaboration-mean-for-our-jobs</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/marcoannunziata_2013s-embed_wide-4ca1f2da71abdddf23b1c90f2c5153b5e3766c09-s3000-c15.jpg"></itunes:image>
       <itunes:duration>554</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_01.mp3?orgId=1&amp;topicId=1019&amp;d=748&amp;p=57&amp;story=524700928&amp;t=progseg&amp;e=522858434&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Erik Brynjolfsson: In A Race With Machines, Can We Keep Up?</title>
-      <link>http://www.npr.org/2017/04/21/524700928/erik-brynjolfsson-in-a-race-with-machines-can-we-keep-up</link>
-      <description>April 21, 2017 - MIT Professor Erik Brynjolfsson sees a bright future where machines serve as powerful tools and partners. But he says we can only shape this future if we keep up with the pace of innovation.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_01.mp3?orgId=1&amp;topicId=1019&amp;d=748&amp;p=57&amp;story=524700928&amp;t=progseg&amp;e=522858434&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/erikbrynjolfsson_2013-embed_wide-88b8bd56d943ce45f8841aa57b63051b831c1673-s800-c15.jpg"></a>
-
-April 21, 2017 - MIT Professor Erik Brynjolfsson sees a bright future where machines serve as powerful tools and partners. But he says we can only shape this future if we keep up with the pace of innovation.
-
-<a href="http://www.npr.org/2017/04/21/524700928/erik-brynjolfsson-in-a-race-with-machines-can-we-keep-up">http://www.npr.org/2017/04/21/524700928/erik-brynjolfsson-in-a-race-with-machines-can-we-keep-up</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/erikbrynjolfsson_2013-embed_wide-88b8bd56d943ce45f8841aa57b63051b831c1673-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>748</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

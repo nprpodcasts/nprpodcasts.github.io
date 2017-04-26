@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 19:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 21:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 19:00:26 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 21:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</guid>
+      <title>Shutdown Averted: White House Backs Down On Health Care Demands</title>
+      <link>http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</link>
+      <description>April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.
+
+<a href="http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands">http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/04/26/525736888/tyson-foods-promises-better-conditions-and-safety-for-meat-workers</guid>
       <title>Tyson Foods Promises Better Conditions And Safety For Meat Workers </title>
@@ -235,21 +248,6 @@ April 24, 2017 - Transmission was eliminated in the United States in the early 1
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/24/525405956/malaria-wiped-out-in-u-s-but-still-plagues-u-s-hospitals">http://www.npr.org/sections/goatsandsoda/2017/04/24/525405956/malaria-wiped-out-in-u-s-but-still-plagues-u-s-hospitals</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/2-up-malaria_wide-3aed17aaed2c02b5f7e26bca9cb01abdd8c4d076-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</guid>
-      <title>The Warfare May Be Remote But The Trauma Is Real</title>
-      <link>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</link>
-      <description>April 24, 2017 - Drone pilots and intelligence analysts who work with them may not be in physical danger themselves but &#34;no doubt are war fighters&#34; who experience psychological stress, says the Air Force.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s800-c15.jpg"></a>
-
-April 24, 2017 - Drone pilots and intelligence analysts who work with them may not be in physical danger themselves but "no doubt are war fighters" who experience psychological stress, says the Air Force.
-
-<a href="http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real">http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

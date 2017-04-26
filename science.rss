@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 19:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 21:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 19:00:24 +0000</pubDate>
+    <pubDate>Wed, 26 Apr 2017 21:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/codeswitch/2017/04/26/492848045/-it-s-not-your-father-s-lapd-and-that-s-a-good-thing</guid>
+      <title>&#34;It&#39;s Not Your Father&#39;s LAPD&#34;—And That&#39;s A Good Thing</title>
+      <link>http://www.npr.org/sections/codeswitch/2017/04/26/492848045/-it-s-not-your-father-s-lapd-and-that-s-a-good-thing</link>
+      <description>April 26, 2017 - &#34;I remember looking out the window the next day and thinking, &#39;That&#39;s weird. It doesn&#39;t snow here.&#39; But it wasn&#39;t snow. It was ashes. There were that many fires. Throughout the city.&#34;</description>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/26/gettyimages-145955786_wide-1b567fdd254aa33aea71a1b01c283db0b1bac310-s800-c15.jpg"></a>
+
+April 26, 2017 - "I remember looking out the window the next day and thinking, 'That's weird. It doesn't snow here.' But it wasn't snow. It was ashes. There were that many fires. Throughout the city."
+
+<a href="http://www.npr.org/sections/codeswitch/2017/04/26/492848045/-it-s-not-your-father-s-lapd-and-that-s-a-good-thing">http://www.npr.org/sections/codeswitch/2017/04/26/492848045/-it-s-not-your-father-s-lapd-and-that-s-a-good-thing</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-145955786_wide-1b567fdd254aa33aea71a1b01c283db0b1bac310-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</guid>
       <title>&#39;Minibrains&#39; In A Dish Shed A Little Light On Autism And Epilepsy</title>
@@ -237,21 +252,6 @@ April 24, 2017 - In order to investigate how eating fish affects our health as w
 <a href="http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space">http://www.npr.org/2017/04/24/525441574/astronaut-peggy-whitson-breaks-nasa-record-for-most-days-in-space</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>153</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</guid>
-      <title>Astronaut Peggy Whitson Sets NASA Record For Most Days In Space</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</link>
-      <description>April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump Monday morning.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-275b5341b58c5384d4b76e2bbcf29f9b27be1db7-s800-c15.jpg"></a>
-
-April 24, 2017 - When she comes back down to Earth this year, Peggy Whitson will have logged more than 650 days in space. She spoke to President Trump Monday morning.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space">http://www.npr.org/sections/thetwo-way/2017/04/24/525374569/astronaut-peggy-whitson-sets-new-nasa-record-for-most-days-in-space</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/ap_17095747873403_wide-275b5341b58c5384d4b76e2bbcf29f9b27be1db7-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
