@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 18:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 22:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 18:00:24 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 22:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</guid>
+      <title>Google Spins Up Its First Servers In Cuba</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</link>
+      <description>April 27, 2017 - The company can speed up delivery of high-bandwidth content like YouTube videos because the servers will now store data locally. But accessing the Internet in Cuba remains difficult and expensive.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-618158754_wide-70fff245ac706a6f4b9a9abb03a0db90b459cf51-s800-c15.jpg"></a>
+
+April 27, 2017 - The company can speed up delivery of high-bandwidth content like YouTube videos because the servers will now store data locally. But accessing the Internet in Cuba remains difficult and expensive.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba">http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-618158754_wide-70fff245ac706a6f4b9a9abb03a0db90b459cf51-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
       <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
@@ -78,10 +93,12 @@ April 27, 2017 - Police may soon have technology to tell if a driver involved in
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s800-c15.jpg"></a>
+
+April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
 
 <a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s3000-c15.jpg"></itunes:image>
       <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -235,21 +252,6 @@ April 24, 2017 - Drone pilots and intelligence analysts who work with them may n
 
 <a href="http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real">http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</guid>
-      <title>Dogs Are Doggos: An Internet Language Built Around Love For The Puppers</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</link>
-      <description>April 23, 2017 - DoggoLingo is a rising language on the Internet that&#39;s full of cutesy suffixes and onomatopoeias. It might even change the way you talk to your pet.</description>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/21/doggolingo-edit_wide-7a8aa7e6b3969d707b72a76d4181750ef49309ac-s800-c15.jpg"></a>
-
-April 23, 2017 - DoggoLingo is a rising language on the Internet that's full of cutesy suffixes and onomatopoeias. It might even change the way you talk to your pet.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers">http://www.npr.org/sections/alltechconsidered/2017/04/23/524514526/dogs-are-doggos-an-internet-language-built-around-love-for-the-puppers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/doggolingo-edit_wide-7a8aa7e6b3969d707b72a76d4181750ef49309ac-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
