@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 00:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 15:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 00:00:29 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 15:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_propublica_investigation_finds_nursing_homes_waste_tons_of_prescription_drugs.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=525833212&amp;t=progseg&amp;e=525832200&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>ProPublica Investigation Finds Nursing Homes Waste Tons Of Prescription Drugs</title>
+      <link>http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs</link>
+      <description>April 27, 2017 - A ProPublica investigation reveals nursing homes waste millions of dollars in prescription drugs every year. NPR&#39;s Steve Inskeep speaks with ProPublica&#39;s Marshall Allen about his reporting.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_propublica_investigation_finds_nursing_homes_waste_tons_of_prescription_drugs.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=525833212&amp;t=progseg&amp;e=525832200&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 27, 2017 - A ProPublica investigation reveals nursing homes waste millions of dollars in prescription drugs every year. NPR's Steve Inskeep speaks with ProPublica's Marshall Allen about his reporting.
+
+<a href="http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs">http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</guid>
+      <title>Welcome To The Poison Garden: Medicine&#39;s Medieval Roots</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</link>
+      <description>April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s800-c15.jpg"></a>
+
+April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots">http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_drug_saves_women_in_child_birth.mp3?orgId=1&amp;topicId=1128&amp;d=121&amp;p=2&amp;story=525639110&amp;t=progseg&amp;e=525699653&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Overlooked Drug Could Save Thousands Of Moms After Childbirth</title>
@@ -71,11 +101,12 @@ April 26, 2017 - Meat-processing employs more than a half-million people. An inv
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_minibrains_in_a_dish_shed_a_little_light_on_autism_and_epilepsy.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=3&amp;story=525705550&amp;t=progseg&amp;e=525832200&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Minibrains&#39; In A Dish Shed A Little Light On Autism And Epilepsy</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</link>
       <description>April 26, 2017 - Experiments with small clusters of networked brain cells are helping scientists see how real brains develop normally, and what goes awry when cells have trouble making connections.</description>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_minibrains_in_a_dish_shed_a_little_light_on_autism_and_epilepsy.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=3&amp;story=525705550&amp;t=progseg&amp;e=525832200&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/brain-in-dish-1_wide-3273e53d986d7605e784f1dcce405c650e77be76-s800-c15.jpg"></a>
 
@@ -83,6 +114,7 @@ April 26, 2017 - Experiments with small clusters of networked brain cells are he
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy">http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/brain-in-dish-1_wide-3273e53d986d7605e784f1dcce405c650e77be76-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,36 +254,6 @@ April 25, 2017 - A new study finds that preschool-age children who didn't have a
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity">http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</guid>
-      <title>What Fish Is Good For Me And The Planet? New Documentary Explores </title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</link>
-      <description>April 24, 2017 - In order to investigate how eating fish affects our health as well as the oceans, author and fisherman Paul Greenberg spent a year eating fish every day.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/fl_thefishonmyplate4-2_wide-2d375e02db52cff81b35f05f34218b576759d9fe-s800-c15.jpg"></a>
-
-April 24, 2017 - In order to investigate how eating fish affects our health as well as the oceans, author and fisherman Paul Greenberg spent a year eating fish every day.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores">http://www.npr.org/sections/thesalt/2017/04/24/525111293/what-fish-is-good-for-me-and-the-planet-new-documentary-explores</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/fl_thefishonmyplate4-2_wide-2d375e02db52cff81b35f05f34218b576759d9fe-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_us_tobacco_profits_soar_despite_drop_in_number_of_smokers.mp3?orgId=1&amp;topicId=1006&amp;d=228&amp;p=2&amp;story=525441653&amp;t=progseg&amp;e=525381007&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.S. Tobacco Profits Soar Despite Drop In Number Of Smokers</title>
-      <link>http://www.npr.org/2017/04/24/525441653/u-s-tobacco-profits-soar-despite-drop-in-number-of-smokers</link>
-      <description>April 24, 2017 - Despite a sharp decrease of smokers in the U.S., tobacco companies are more profitable than ever. NPR&#39;s Audie Cornish speaks with Jennifer Maloney of The Wall Street Journal about how cigarette companies have survived and thrived under tighter regulations.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_us_tobacco_profits_soar_despite_drop_in_number_of_smokers.mp3?orgId=1&amp;topicId=1006&amp;d=228&amp;p=2&amp;story=525441653&amp;t=progseg&amp;e=525381007&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 24, 2017 - Despite a sharp decrease of smokers in the U.S., tobacco companies are more profitable than ever. NPR's Audie Cornish speaks with Jennifer Maloney of The Wall Street Journal about how cigarette companies have survived and thrived under tighter regulations.
-
-<a href="http://www.npr.org/2017/04/24/525441653/u-s-tobacco-profits-soar-despite-drop-in-number-of-smokers">http://www.npr.org/2017/04/24/525441653/u-s-tobacco-profits-soar-despite-drop-in-number-of-smokers</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>228</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

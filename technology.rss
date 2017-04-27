@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2017 21:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 15:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Apr 2017 21:00:12 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 15:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,68 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_police_cracking_into_your_phone_for_texts.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=3&amp;story=525729013&amp;t=progseg&amp;e=525832200&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Textalyzer&#39; Aims To Curb Distracted Driving, But What About Privacy?</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525729013/textalyzer-aims-to-curb-distracted-driving-but-what-about-privacy</link>
+      <description>April 27, 2017 - Police may soon have technology to tell if a driver involved in an accident had been using a mobile device behind the wheel. Privacy advocates worry about letting police snoop on people&#39;s phones.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_police_cracking_into_your_phone_for_texts.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=3&amp;story=525729013&amp;t=progseg&amp;e=525832200&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/26/gettyimages-526624124_wide-787d0d3f631d58ff929e64fcc7308c734c83a0b5-s800-c15.jpg"></a>
+
+April 27, 2017 - Police may soon have technology to tell if a driver involved in an accident had been using a mobile device behind the wheel. Privacy advocates worry about letting police snoop on people's phones.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525729013/textalyzer-aims-to-curb-distracted-driving-but-what-about-privacy">http://www.npr.org/sections/alltechconsidered/2017/04/27/525729013/textalyzer-aims-to-curb-distracted-driving-but-what-about-privacy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-526624124_wide-787d0d3f631d58ff929e64fcc7308c734c83a0b5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_morning_news_brief_shutdown_unlikely_the_north_korean_border_textalyzer.mp3?orgId=1&amp;topicId=1014&amp;d=623&amp;p=3&amp;story=525833191&amp;t=progseg&amp;e=525832200&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Morning News Brief: Trump&#39;s NAFTA Reversal, The North Korean Border, &#39;Textalyzer&#39;</title>
+      <link>http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer</link>
+      <description>April 27, 2017 - President Trump has reversed course and says he won&#39;t withdraw from NAFTA. Also, a view into North Korea from the Chinese border and a proposed software to curb texting while driving.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_morning_news_brief_shutdown_unlikely_the_north_korean_border_textalyzer.mp3?orgId=1&amp;topicId=1014&amp;d=623&amp;p=3&amp;story=525833191&amp;t=progseg&amp;e=525832200&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 27, 2017 - President Trump has reversed course and says he won't withdraw from NAFTA. Also, a view into North Korea from the Chinese border and a proposed software to curb texting while driving.
+
+<a href="http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer">http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>623</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Instead Of Showing Off Wealth, Some Show Off Busy Schedules</title>
+      <link>http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</link>
+      <description>April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
+
+<a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>203</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_analyzing_trumps_patterns_of_tweeting.mp3?orgId=1&amp;topicId=1014&amp;d=174&amp;p=3&amp;story=525833198&amp;t=progseg&amp;e=525832200&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Analyzing Trump&#39;s Patterns Of Tweeting</title>
+      <link>http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting</link>
+      <description>April 27, 2017 - President Trump is ubiquitous on Twitter. And as we get close to 100 days, we&#39;ve learned about patterns, including what time of day he usually tweets and how often he makes negative statements.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_analyzing_trumps_patterns_of_tweeting.mp3?orgId=1&amp;topicId=1014&amp;d=174&amp;p=3&amp;story=525833198&amp;t=progseg&amp;e=525832200&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 27, 2017 - President Trump is ubiquitous on Twitter. And as we get close to 100 days, we've learned about patterns, including what time of day he usually tweets and how often he makes negative statements.
+
+<a href="http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting">http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>174</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations</guid>
       <title>FCC Chief Begins Rollback Of Net Neutrality Regulations</title>
@@ -188,72 +250,6 @@ April 23, 2017 - DoggoLingo is a rising language on the Internet that's full of 
 <a href="http://www.npr.org/2017/04/23/525310236/high-tech-luxury-juice-start-up-faces-low-tech-problem">http://www.npr.org/2017/04/23/525310236/high-tech-luxury-juice-start-up-faces-low-tech-problem</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_murder_video_again_raises_questions_about_how_facebook_handles_content.mp3?orgId=1&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=525042474&amp;t=progseg&amp;e=525013207&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Murder Video Again Raises Questions About How Facebook Handles Content</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content</link>
-      <description>April 21, 2017 - A murder video uploaded to Facebook brought attention to how the company monitors upsetting content. Artificial intelligence may be a solution, but experts say it could bring unwanted results.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170421_atc_murder_video_again_raises_questions_about_how_facebook_handles_content.mp3?orgId=1&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=525042474&amp;t=progseg&amp;e=525013207&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/21/ap_17108732860385_wide-ab3677076d23a85a5529c121e68ca05f181cf8fa-s800-c15.jpg"></a>
-
-April 21, 2017 - A murder video uploaded to Facebook brought attention to how the company monitors upsetting content. Artificial intelligence may be a solution, but experts say it could bring unwanted results.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content">http://www.npr.org/sections/alltechconsidered/2017/04/21/525042474/murder-video-again-raises-questions-about-how-facebook-handles-content</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/ap_17108732860385_wide-ab3677076d23a85a5529c121e68ca05f181cf8fa-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</guid>
-      <title>Juicero CEO Says Luxury Juicer Is &#39;Much More&#39; Than Juice; Internet Is Unimpressed</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</link>
-      <description>April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn&#39;t actually need the press to get juice from the packets.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s800-c15.jpg"></a>
-
-April 21, 2017 - The company says its $400 machine cold-presses juice out of packets sold via subscription. Then a Bloomberg News video showed people didn't actually need the press to get juice from the packets.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed">http://www.npr.org/sections/thetwo-way/2017/04/21/525055713/juicero-ceo-says-luxury-juicer-is-much-more-than-juice-internet-is-unimpressed</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/istock-181922227_wide-e8cf756ce0a90fd7b2eeef9ff286bbecf72523f2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_03.mp3?orgId=1&amp;topicId=1019&amp;d=550&amp;p=57&amp;story=524702119&amp;t=progseg&amp;e=522858434&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Maurice Conti: Can Machines Think And Feel For Themselves?</title>
-      <link>http://www.npr.org/2017/04/21/524702119/maurice-conti-can-machines-think-and-feel-for-themselves</link>
-      <description>April 21, 2017 - Futurist Maurice Conti says we&#39;ve entered a new era where machines and humans partner to do what neither can do alone. He calls it the &#34;Augmented Age.&#34;</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_03.mp3?orgId=1&amp;topicId=1019&amp;d=550&amp;p=57&amp;story=524702119&amp;t=progseg&amp;e=522858434&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/mauriceconti_2016x-embed_wide-3dc9690d3aacdf50bdd3668c332f86f38c44504a-s800-c15.jpg"></a>
-
-April 21, 2017 - Futurist Maurice Conti says we've entered a new era where machines and humans partner to do what neither can do alone. He calls it the "Augmented Age."
-
-<a href="http://www.npr.org/2017/04/21/524702119/maurice-conti-can-machines-think-and-feel-for-themselves">http://www.npr.org/2017/04/21/524702119/maurice-conti-can-machines-think-and-feel-for-themselves</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/mauriceconti_2016x-embed_wide-3dc9690d3aacdf50bdd3668c332f86f38c44504a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>550</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_02.mp3?orgId=1&amp;topicId=1019&amp;d=554&amp;p=57&amp;story=524701908&amp;t=progseg&amp;e=522858434&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Marco Annunziata: What Will Human-Machine Collaboration Mean For Our Jobs?</title>
-      <link>http://www.npr.org/2017/04/21/524701908/marco-annunziata-what-will-human-machine-collaboration-mean-for-our-jobs</link>
-      <description>April 21, 2017 - GE&#39;s Chief Economist Marco Annunziata is optimistic about &#34;the marriage of minds and machines&#34; — provided we manage it the right way.</description>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/04/20170421_ted_02.mp3?orgId=1&amp;topicId=1019&amp;d=554&amp;p=57&amp;story=524701908&amp;t=progseg&amp;e=522858434&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/marcoannunziata_2013s-embed_wide-4ca1f2da71abdddf23b1c90f2c5153b5e3766c09-s800-c15.jpg"></a>
-
-April 21, 2017 - GE's Chief Economist Marco Annunziata is optimistic about "the marriage of minds and machines" — provided we manage it the right way.
-
-<a href="http://www.npr.org/2017/04/21/524701908/marco-annunziata-what-will-human-machine-collaboration-mean-for-our-jobs">http://www.npr.org/2017/04/21/524701908/marco-annunziata-what-will-human-machine-collaboration-mean-for-our-jobs</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/marcoannunziata_2013s-embed_wide-4ca1f2da71abdddf23b1c90f2c5153b5e3766c09-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>554</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
