@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 18:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 19:20:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 18:00:28 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 19:20:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead</guid>
+      <title>As Trump And Congress Flip-Flop On Health Care, Insurers Try To Plan Ahead</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead</link>
+      <description>April 27, 2017 - Insurance companies face deadlines to offer Affordable Care Act plans for next year, but lawmakers and the White House have left key decisions up in the air.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/27/congress-numbers_wide-5918f3e59a197e01b4f099018136f1a79cd6050e-s800-c15.jpg"></a>
+
+April 27, 2017 - Insurance companies face deadlines to offer Affordable Care Act plans for next year, but lawmakers and the White House have left key decisions up in the air.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead">http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/congress-numbers_wide-5918f3e59a197e01b4f099018136f1a79cd6050e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
       <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
@@ -239,21 +254,6 @@ April 25, 2017 - The device kept fetal lambs alive for about a month, allowing t
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies">http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s3000-c15.jpg"></itunes:image>
       <itunes:duration>260</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</guid>
-      <title>Changes To Federal Insurance Plans Could Hurt Families Of Chronically Ill Kids</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</link>
-      <description>April 25, 2017 - Some urge ending funding to the Children&#39;s Health Insurance Program, and moving those 8 million kids to marketplace plans. But research shows the out-of-pocket costs to many families would soar.</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/asthma_wide-f07d73dc7063db3aa3e18aa2cddab82a7e113bad-s800-c15.jpg"></a>
-
-April 25, 2017 - Some urge ending funding to the Children's Health Insurance Program, and moving those 8 million kids to marketplace plans. But research shows the out-of-pocket costs to many families would soar.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids">http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/asthma_wide-f07d73dc7063db3aa3e18aa2cddab82a7e113bad-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

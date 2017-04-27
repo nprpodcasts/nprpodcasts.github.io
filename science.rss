@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 18:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 19:20:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 18:00:26 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 19:20:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round</guid>
+      <title>California Is On Its Way To Having An Avocado Crop Year-Round</title>
+      <link>http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round</link>
+      <description>April 27, 2017 - Americans ate 2 billion pounds of avocados last year; many came from Mexico. That&#39;s because avocados grow year-round in Mexico&#39;s climate, but not California&#39;s. Researchers are working to change that.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/avocado_3-2_wide-4d38d392bea7de97a47a1f3ad60fb2e66e722f6a-s800-c15.jpg"></a>
+
+April 27, 2017 - Americans ate 2 billion pounds of avocados last year; many came from Mexico. That's because avocados grow year-round in Mexico's climate, but not California's. Researchers are working to change that.
+
+<a href="http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round">http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/avocado_3-2_wide-4d38d392bea7de97a47a1f3ad60fb2e66e722f6a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
       <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
@@ -76,10 +91,12 @@ April 27, 2017 - The spacecraft is "showing us new wonders and demonstrating whe
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s800-c15.jpg"></a>
+
+April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
 
 <a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s3000-c15.jpg"></itunes:image>
       <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,23 +256,6 @@ April 26, 2017 - Scientists recently tracked eight baby whales using special sou
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525609671/recordings-reveal-baby-humpback-whales-whisper-to-their-mothers">http://www.npr.org/sections/thetwo-way/2017/04/26/525609671/recordings-reveal-baby-humpback-whales-whisper-to-their-mothers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/whispering-whales-1_wide-2f1410230a70ec3d4473a4bdc1adf9eec56200ab-s3000-c15.jpg"></itunes:image>
       <itunes:duration>125</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_plastic-eating_caterpillar.mp3?orgId=1&amp;topicId=1024&amp;d=119&amp;p=2&amp;story=525447206&amp;t=progseg&amp;e=525516911&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Lowly Wax Worm May Hold The Key To Biodegrading Plastic</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</link>
-      <description>April 25, 2017 - More than a trillion plastic bags are used annually. They&#39;re made of a notoriously resilient kind of plastic called polyethylene – but scientists have found that wax worms are able to break them down.</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_plastic-eating_caterpillar.mp3?orgId=1&amp;topicId=1024&amp;d=119&amp;p=2&amp;story=525447206&amp;t=progseg&amp;e=525516911&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/24/19051745004_4c6553e683_k_wide-1e3d66a2290ab61ffd5a504c2440c34d0aa5fde2-s800-c15.jpg"></a>
-
-April 25, 2017 - More than a trillion plastic bags are used annually. They're made of a notoriously resilient kind of plastic called polyethylene – but scientists have found that wax worms are able to break them down.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic">http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/19051745004_4c6553e683_k_wide-1e3d66a2290ab61ffd5a504c2440c34d0aa5fde2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>119</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
