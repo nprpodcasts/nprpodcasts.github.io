@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 19:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 21:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 19:20:10 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 21:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want</guid>
+      <title>New Health Care Bill Needs Moderate Republicans&#39; Support — What Do They Want?</title>
+      <link>http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want</link>
+      <description>April 27, 2017 - NPR&#39;s Audie Cornish talks with moderate Republican Congressman Leonard Lance of New Jersey about what he&#39;s looking for in the new health care bill.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 27, 2017 - NPR's Audie Cornish talks with moderate Republican Congressman Leonard Lance of New Jersey about what he's looking for in the new health care bill.
+
+<a href="http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want">http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/codeswitch/2017/04/27/483713242/because-i-was-harmed</guid>
+      <title>Because I Was Harmed</title>
+      <link>http://www.npr.org/sections/codeswitch/2017/04/27/483713242/because-i-was-harmed</link>
+      <description>April 27, 2017 - An advocate against female genital mutilation/cutting explains: &#34;I wanted to break the sense of powerlessness that persists generation after generation.&#34;&#xA;&#xA; - http://www.npr.org/sections/codeswitch/2017/04/27/483713242/because-i-was-harmed</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/27/fgmfinal_wide-bd769187fbb648ab90134354d64d130a29a599c3-s800-c15.jpg"></a>
+
+April 27, 2017 - An advocate against female genital mutilation/cutting explains: "I wanted to break the sense of powerlessness that persists generation after generation."
+
+<a href="http://www.npr.org/sections/codeswitch/2017/04/27/483713242/because-i-was-harmed">http://www.npr.org/sections/codeswitch/2017/04/27/483713242/because-i-was-harmed</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/fgmfinal_wide-bd769187fbb648ab90134354d64d130a29a599c3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead</guid>
       <title>As Trump And Congress Flip-Flop On Health Care, Insurers Try To Plan Ahead</title>
@@ -222,38 +250,6 @@ April 25, 2017 - Dr. Elizabeth Ford treated mentally ill inmates in New York Cit
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward">http://www.npr.org/sections/health-shots/2017/04/25/525533732/psychiatrist-recalls-heartbreak-and-hope-on-bellevues-prison-ward</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/bellevue-1_wide-51dd55b7c415dd7fbc868806d8caf9914f5a9da3-s3000-c15.jpg"></itunes:image>
       <itunes:duration>2060</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</guid>
-      <title>Why China Is Selling Cheap HIV Tests In Campus Vending Machines</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</link>
-      <description>April 25, 2017 - It&#39;s a pilot project to reach youth who are at risk of infection — and reluctant to come to clinics because of the stigma around HIV/AIDS. Is anyone buying?</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/hiv-vending_wide-7eb8fd4e68b7790e231eff0dd3b5258c77779437-s800-c15.jpg"></a>
-
-April 25, 2017 - It's a pilot project to reach youth who are at risk of infection — and reluctant to come to clinics because of the stigma around HIV/AIDS. Is anyone buying?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines">http://www.npr.org/sections/goatsandsoda/2017/04/25/525380494/why-china-is-selling-cheap-hiv-tests-in-campus-vending-machines</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/hiv-vending_wide-7eb8fd4e68b7790e231eff0dd3b5258c77779437-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_scientists_create_artificial_womb_that_could_help_prematurely_born_babies.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=525044286&amp;t=progseg&amp;e=525516911&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Create Artificial Womb That Could Help Prematurely Born Babies</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</link>
-      <description>April 25, 2017 - The device kept fetal lambs alive for about a month, allowing them to continue to mature. It has not been tested in humans, and some say the device raises ethical questions.</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_scientists_create_artificial_womb_that_could_help_prematurely_born_babies.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=525044286&amp;t=progseg&amp;e=525516911&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s800-c15.jpg"></a>
-
-April 25, 2017 - The device kept fetal lambs alive for about a month, allowing them to continue to mature. It has not been tested in humans, and some say the device raises ethical questions.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies">http://www.npr.org/sections/health-shots/2017/04/25/525044286/scientists-create-artificial-womb-that-could-help-prematurely-born-babies</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/system-with-lamb-1-_wide-14b5f1aaf877701e893e2cee562af15eefa3f390-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>260</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
