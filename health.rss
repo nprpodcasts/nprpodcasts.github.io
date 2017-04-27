@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 18:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 15:00:29 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 18:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
+      <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
+      <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
+
+April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_propublica_investigation_finds_nursing_homes_waste_tons_of_prescription_drugs.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=525833212&amp;t=progseg&amp;e=525832200&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>ProPublica Investigation Finds Nursing Homes Waste Tons Of Prescription Drugs</title>
@@ -239,21 +254,6 @@ April 25, 2017 - Some urge ending funding to the Children's Health Insurance Pro
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids">http://www.npr.org/sections/health-shots/2017/04/25/525475221/changes-to-federal-insurance-plans-could-hurt-families-of-chronically-ill-kids</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/asthma_wide-f07d73dc7063db3aa3e18aa2cddab82a7e113bad-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</guid>
-      <title>Eat, Sleep, Repeat: How Kids&#39; Daily Routines Can Help Prevent Obesity</title>
-      <link>http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</link>
-      <description>April 25, 2017 - A new study finds that preschool-age children who didn&#39;t have a set sleep routine were more likely to be overweight by the time they hit the preteen years.</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s800-c15.jpg"></a>
-
-April 25, 2017 - A new study finds that preschool-age children who didn't have a set sleep routine were more likely to be overweight by the time they hit the preteen years.
-
-<a href="http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity">http://www.npr.org/sections/thesalt/2017/04/25/525394739/eat-sleep-repeat-how-kids-daily-routines-can-help-prevent-obesity</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-532578244-90_wide-1456c026ee2ecdf7ced85968c50d56e755d4a135-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

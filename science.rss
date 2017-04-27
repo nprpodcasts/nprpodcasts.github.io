@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 17:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 18:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 17:00:18 +0000</pubDate>
+    <pubDate>Thu, 27 Apr 2017 18:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
+      <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
+      <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
+
+April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn</guid>
       <title>Cassini Craft Beams Closest Images Ever Taken Of Saturn</title>
@@ -241,21 +256,6 @@ April 25, 2017 - More than a trillion plastic bags are used annually. They're ma
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic">http://www.npr.org/sections/thetwo-way/2017/04/25/525447206/a-worm-may-hold-the-key-to-biodegrading-plastic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/19051745004_4c6553e683_k_wide-1e3d66a2290ab61ffd5a504c2440c34d0aa5fde2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>119</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
-      <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</link>
-      <description>April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. &#34;You literally push a button and you get a flight,&#34; an Uber executive says. But will our Tomorrowland ever really arrive?</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s800-c15.jpg"></a>
-
-April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. "You literally push a button and you get a flight," an Uber executive says. But will our Tomorrowland ever really arrive?
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype">http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
