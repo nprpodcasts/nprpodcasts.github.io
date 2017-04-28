@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 19:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 21:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Apr 2017 19:00:19 +0000</pubDate>
+    <pubDate>Fri, 28 Apr 2017 21:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</guid>
+      <title>NSA To Limit Some Collection Of Internet Communication</title>
+      <link>http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</link>
+      <description>April 28, 2017 - The agency will scale back its collection of &#34;about&#34; data, messages that are not only traveling to and from a foreign target, but those that mention one.</description>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/ap_800084015264_wide-b0b8d7fa110b4aaa515aab6f72aaaa81bc4c2211-s800-c15.jpg"></a>
+
+April 28, 2017 - The agency will scale back its collection of "about" data, messages that are not only traveling to and from a foreign target, but those that mention one.
+
+<a href="http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication">http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/ap_800084015264_wide-b0b8d7fa110b4aaa515aab6f72aaaa81bc4c2211-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</guid>
       <title>In &#39;The Circle&#39;, What We Give Up When We Share Ourselves </title>
@@ -237,23 +252,6 @@ April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sk
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype">http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_china_moves_to_increase_number_of_electric_vehicles_on_its_roads.mp3?orgId=1&amp;topicId=1125&amp;d=218&amp;p=2&amp;story=525412342&amp;t=progseg&amp;e=525516911&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>China Moves To Increase Number Of Electric Vehicles On Its Roads</title>
-      <link>http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</link>
-      <description>April 25, 2017 - By early next year, Beijing will require automakers in China to ensure that at least 8 percent of all vehicles they manufacture are electric.</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170425_atc_china_moves_to_increase_number_of_electric_vehicles_on_its_roads.mp3?orgId=1&amp;topicId=1125&amp;d=218&amp;p=2&amp;story=525412342&amp;t=progseg&amp;e=525516911&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/24/1_wide-ce3fb4e4d61569ad33161bbd83a33bb375d45a28-s800-c15.jpg"></a>
-
-April 25, 2017 - By early next year, Beijing will require automakers in China to ensure that at least 8 percent of all vehicles they manufacture are electric.
-
-<a href="http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads">http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/1_wide-ce3fb4e4d61569ad33161bbd83a33bb375d45a28-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
