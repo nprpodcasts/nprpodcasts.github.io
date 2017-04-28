@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 13:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 19:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Apr 2017 13:00:24 +0000</pubDate>
+    <pubDate>Fri, 28 Apr 2017 19:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</guid>
+      <title>In &#39;The Circle&#39;, What We Give Up When We Share Ourselves </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</link>
+      <description>April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopian view of where Silicon Valley is taking the world and captures the tech industry&#39;s failure to acknowledge the downside of its creations.</description>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s800-c15.jpg"></a>
+
+April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopian view of where Silicon Valley is taking the world and captures the tech industry's failure to acknowledge the downside of its creations.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves">http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170428_me_survery_says_workers_are_leaving_tech_jobs_because_of_mistreatment.mp3?orgId=1&amp;topicId=1019&amp;d=116&amp;p=3&amp;story=525992223&amp;t=progseg&amp;e=525991691&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Survey Says Workers Are Leaving Tech Jobs Because Of Mistreatment</title>
@@ -239,21 +254,6 @@ April 25, 2017 - By early next year, Beijing will require automakers in China to
 <a href="http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads">http://www.npr.org/sections/parallels/2017/04/25/525412342/china-moves-to-increase-number-of-electric-vehicles-on-its-roads</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/24/1_wide-ce3fb4e4d61569ad33161bbd83a33bb375d45a28-s3000-c15.jpg"></itunes:image>
       <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_hacking_lake_erie_tech_competition_seeks_solutions_to_water-related_problems.mp3?orgId=1&amp;topicId=1019&amp;d=201&amp;p=2&amp;story=525441604&amp;t=progseg&amp;e=525381007&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hacking Lake Erie: Tech Competition Seeks Solutions To Water-Related Problems</title>
-      <link>http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</link>
-      <description>April 24, 2017 - A technology competition seeks solutions to Lake Erie&#39;s biggest problems, including harmful algae blooms and aging water systems. Teams in cities around the region are competing for thousands of dollars in prize money and consulting services to create apps and other tools.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170424_atc_hacking_lake_erie_tech_competition_seeks_solutions_to_water-related_problems.mp3?orgId=1&amp;topicId=1019&amp;d=201&amp;p=2&amp;story=525441604&amp;t=progseg&amp;e=525381007&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 24, 2017 - A technology competition seeks solutions to Lake Erie's biggest problems, including harmful algae blooms and aging water systems. Teams in cities around the region are competing for thousands of dollars in prize money and consulting services to create apps and other tools.
-
-<a href="http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems">http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>201</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
