@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Apr 2017 22:00:28 +0000</pubDate>
+    <pubDate>Fri, 28 Apr 2017 00:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -39,11 +39,12 @@ April 27, 2017 - The company can speed up delivery of high-bandwidth content lik
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
       <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
 
@@ -51,6 +52,7 @@ April 27, 2017 - Police departments in about 95 percent of cities nationally hav
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>306</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
