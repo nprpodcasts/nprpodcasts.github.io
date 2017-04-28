@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 00:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 13:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Apr 2017 00:00:21 +0000</pubDate>
+    <pubDate>Fri, 28 Apr 2017 13:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170428_me_survery_says_workers_are_leaving_tech_jobs_because_of_mistreatment.mp3?orgId=1&amp;topicId=1019&amp;d=116&amp;p=3&amp;story=525992223&amp;t=progseg&amp;e=525991691&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Survey Says Workers Are Leaving Tech Jobs Because Of Mistreatment</title>
+      <link>http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment</link>
+      <description>April 28, 2017 - The tech industry is getting hit hard by turnover among workers who believe they&#39;ve been treated unfairly. It&#39;s most acute among underrepresented workers, including women and minorities.</description>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170428_me_survery_says_workers_are_leaving_tech_jobs_because_of_mistreatment.mp3?orgId=1&amp;topicId=1019&amp;d=116&amp;p=3&amp;story=525992223&amp;t=progseg&amp;e=525991691&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 28, 2017 - The tech industry is getting hit hard by turnover among workers who believe they've been treated unfairly. It's most acute among underrepresented workers, including women and minorities.
+
+<a href="http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment">http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>116</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</guid>
       <title>Google Spins Up Its First Servers In Cuba</title>
@@ -239,21 +254,6 @@ April 25, 2017 - By early next year, Beijing will require automakers in China to
 <a href="http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems">http://www.npr.org/2017/04/24/525441604/hacking-lake-erie-tech-competition-seeks-solutions-to-water-related-problems</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>201</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</guid>
-      <title>The Warfare May Be Remote But The Trauma Is Real</title>
-      <link>http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</link>
-      <description>April 24, 2017 - Drone pilots and intelligence analysts who work with them may not be in physical danger themselves but &#34;no doubt are war fighters&#34; who experience psychological stress, says the Air Force.</description>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s800-c15.jpg"></a>
-
-April 24, 2017 - Drone pilots and intelligence analysts who work with them may not be in physical danger themselves but "no doubt are war fighters" who experience psychological stress, says the Air Force.
-
-<a href="http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real">http://www.npr.org/2017/04/24/525413427/for-drone-pilots-warfare-may-be-remote-but-the-trauma-is-real</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/24/gettyimages-503831442-edit_wide-2e8acf98f63a368f3e18e644f8b34163a9f47dcb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
