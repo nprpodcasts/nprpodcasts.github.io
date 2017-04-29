@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 21:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 09:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Apr 2017 21:00:17 +0000</pubDate>
+    <pubDate>Sat, 29 Apr 2017 09:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</guid>
+      <title>Those TV Drug Ads Distract Us From The Medical Care We Need </title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</link>
+      <description>April 29, 2017 - Doctors spend lots of time answering questions about the latest drug ad, and that means less time answering questions that could really help your health, a primary care physician says.</description>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/tvdrugads_wide-7c7e4cfcd1ca72d426c2b07995712edc081b56bf-s800-c15.jpeg"></a>
+
+April 29, 2017 - Doctors spend lots of time answering questions about the latest drug ad, and that means less time answering questions that could really help your health, a primary care physician says.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need">http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/tvdrugads_wide-7c7e4cfcd1ca72d426c2b07995712edc081b56bf-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/28/526067401/u-s-supply-of-yellow-fever-vaccine-will-run-out-by-midsummer</guid>
       <title>U.S. Supply Of Yellow Fever Vaccine Will Run Out By Midsummer</title>
@@ -239,21 +254,6 @@ April 26, 2017 - Long before it became a "superfood" in the U.S., schisandra was
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside">http://www.npr.org/sections/thesalt/2017/04/26/525552957/how-a-wild-berry-helped-save-china-s-giant-pandas-and-its-countryside</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/img_1826_wide-1f1940e9982f027062930546c7b2003a4711bb4e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</guid>
-      <title>Binge Drinkers Beware: Study Finds Link Between Alcohol And Heart Arrhythmias</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</link>
-      <description>April 26, 2017 - Researchers tested more than 3,000 people at Munich&#39;s Oktoberfest beer festival. They found getting drunk was associated with abnormal heart rhythms.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/25/cheers-1_wide-519c5103f37d1743f66ab2d873d6b1e3953589ac-s800-c15.jpg"></a>
-
-April 26, 2017 - Researchers tested more than 3,000 people at Munich's Oktoberfest beer festival. They found getting drunk was associated with abnormal heart rhythms.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias">http://www.npr.org/sections/health-shots/2017/04/26/525579920/binge-drinkers-beware-study-finds-link-between-alcohol-and-heart-arrhythmias</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/cheers-1_wide-519c5103f37d1743f66ab2d873d6b1e3953589ac-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
