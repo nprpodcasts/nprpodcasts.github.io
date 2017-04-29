@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 21:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 14:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Apr 2017 21:00:14 +0000</pubDate>
+    <pubDate>Sat, 29 Apr 2017 14:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</guid>
+      <title>A Primer On The Future Of Net Neutrality Under Trump</title>
+      <link>http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</link>
+      <description>April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.&#xA;&#xA; - http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</description>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.
+
+<a href="http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump">http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</guid>
       <title>NSA To Limit Some Collection Of Internet Communication</title>
@@ -237,21 +250,6 @@ April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to 
 <a href="http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing">http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</guid>
-      <title>Flying Cars Are (Still) Coming: Should We Believe The Hype? </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</link>
-      <description>April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. &#34;You literally push a button and you get a flight,&#34; an Uber executive says. But will our Tomorrowland ever really arrive?</description>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s800-c15.jpg"></a>
-
-April 25, 2017 - Airbus and Uber are planning for a future of flying cars and sky taxis. "You literally push a button and you get a flight," an Uber executive says. But will our Tomorrowland ever really arrive?
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype">http://www.npr.org/sections/alltechconsidered/2017/04/25/525540611/flying-cars-are-still-coming-should-we-believe-the-hype</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/ehang_wide-920bff450a332c68b501a07ef8b6b476ccfb060f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
