@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2017 13:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 15:06:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 30 Apr 2017 13:08:37 +0000</pubDate>
+    <pubDate>Sun, 30 Apr 2017 15:06:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,24 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_cassinis_final_chapter.mp3?orgId=1&amp;topicId=1026&amp;d=313&amp;p=10&amp;story=526250837&amp;t=progseg&amp;e=526250654&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Saturn: Cassini&#39;s Final Chapter</title>
       <link>http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</link>
       <description>April 30, 2017 - After years, NASA&#39;s Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR&#39;s Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission&#39;s legacy.</description>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_cassinis_final_chapter.mp3?orgId=1&amp;topicId=1026&amp;d=313&amp;p=10&amp;story=526250837&amp;t=progseg&amp;e=526250654&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 30, 2017 - After years, NASA's Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR's Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission's legacy.
 
 <a href="http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter">http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>313</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_alaska_guessing_game_provides_climate_change_record.mp3?orgId=196&amp;topicId=1025&amp;d=194&amp;p=10&amp;story=526021209&amp;t=progseg&amp;e=526250654&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Alaska Guessing Game Provides Climate Change Record</title>
       <link>http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</link>
       <description>April 30, 2017 - Months behind the rest of the country, spring is advancing across Alaska. And a contest that has residents guess the date of river ice breakup is showing a trend toward earlier and earlier melt.</description>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_alaska_guessing_game_provides_climate_change_record.mp3?orgId=196&amp;topicId=1025&amp;d=194&amp;p=10&amp;story=526021209&amp;t=progseg&amp;e=526250654&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/28/icedrillers_wide-9822d6c8a58b91bb601fd4db25db34ef5f922fb5-s800-c15.jpg"></a>
 
@@ -49,6 +52,7 @@ April 30, 2017 - Months behind the rest of the country, spring is advancing acro
 
 <a href="http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record">http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/icedrillers_wide-9822d6c8a58b91bb601fd4db25db34ef5f922fb5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>194</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
