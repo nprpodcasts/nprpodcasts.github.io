@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2017 14:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 12:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 29 Apr 2017 14:00:16 +0000</pubDate>
+    <pubDate>Sun, 30 Apr 2017 12:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</guid>
+      <title>Turkey Blocks Wikipedia Accusing It Of Running &#39;Smear Campaign&#39; </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</link>
+      <description>April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It&#39;s the latest in what critics say is a crackdown on free speech.</description>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-acfadcfeeb8e4e5e590b149a79f4954eb6f90e69-s800-c15.jpg"></a>
+
+April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It's the latest in what critics say is a crackdown on free speech.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign">http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-acfadcfeeb8e4e5e590b149a79f4954eb6f90e69-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170429_wesat_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=222&amp;p=7&amp;story=526157951&amp;t=progseg&amp;e=526157210&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Primer On The Future Of Net Neutrality Under Trump</title>
       <link>http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</link>
       <description>April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.&#xA;&#xA; - http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</description>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170429_wesat_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=222&amp;p=7&amp;story=526157951&amp;t=progseg&amp;e=526157210&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.
 
 <a href="http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump">http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to 
 <a href="http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live">http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>620</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_facebook_responding_to_another_broadcasted_killing.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=525675168&amp;t=progseg&amp;e=525675082&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Facebook Responding To Another Broadcasted Killing</title>
-      <link>http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing</link>
-      <description>April 26, 2017 - A man killed his infant daughter in Thailand and broadcast it live on Facebook. It comes just after the company dealt with another killing on Facebook Live that happened in Cleveland.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_facebook_responding_to_another_broadcasted_killing.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=525675168&amp;t=progseg&amp;e=525675082&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 26, 2017 - A man killed his infant daughter in Thailand and broadcast it live on Facebook. It comes just after the company dealt with another killing on Facebook Live that happened in Cleveland.
-
-<a href="http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing">http://www.npr.org/2017/04/26/525675168/facebook-responding-to-another-broadcasted-killing</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
