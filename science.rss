@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2017 12:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 13:08:37 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 30 Apr 2017 12:00:18 +0000</pubDate>
+    <pubDate>Sun, 30 Apr 2017 13:08:37 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</guid>
+      <title>Saturn: Cassini&#39;s Final Chapter</title>
+      <link>http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</link>
+      <description>April 30, 2017 - After years, NASA&#39;s Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR&#39;s Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission&#39;s legacy.</description>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[April 30, 2017 - After years, NASA's Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR's Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission's legacy.
+
+<a href="http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter">http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</guid>
       <title>Alaska Guessing Game Provides Climate Change Record</title>
@@ -238,23 +251,6 @@ April 26, 2017 - Experiments with small clusters of networked brain cells are he
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy">http://www.npr.org/sections/health-shots/2017/04/26/525705550/minibrains-in-a-dish-shed-a-little-light-on-autism-and-epilepsy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/brain-in-dish-1_wide-3273e53d986d7605e784f1dcce405c650e77be76-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_new_evidence_suggests_humans_arrived_in_the_americas_far_earlier_than_thought.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=2&amp;story=525628056&amp;t=progseg&amp;e=525699653&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Evidence Suggests Humans Arrived In The Americas Far Earlier Than Thought</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought</link>
-      <description>April 26, 2017 - Until now, the earliest signs of humans in the Americas dated back about 15,000 years. But new research puts people in California 130,000 years ago. Experts are wondering whether to believe it.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_new_evidence_suggests_humans_arrived_in_the_americas_far_earlier_than_thought.mp3?orgId=1&amp;topicId=1007&amp;d=212&amp;p=2&amp;story=525628056&amp;t=progseg&amp;e=525699653&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/26/early-americans-1_wide-2e8c6dd571d83ded9c2d231eaaf48d60a1ba75b6-s800-c15.jpg"></a>
-
-April 26, 2017 - Until now, the earliest signs of humans in the Americas dated back about 15,000 years. But new research puts people in California 130,000 years ago. Experts are wondering whether to believe it.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought">http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/early-americans-1_wide-2e8c6dd571d83ded9c2d231eaaf48d60a1ba75b6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
