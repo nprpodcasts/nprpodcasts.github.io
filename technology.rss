@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 22:00:42 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 15:00:20 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 22:00:42 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration</guid>
+      <title>Airbnb Settles Suit With San Francisco, Aims To Smooth Host Registration</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration</link>
+      <description>May 1, 2017 - The short-term rental company has had an occasionally fraught relationship with its city of origin. But this lawsuit — which was joined by HomeAway — ended in an agreement lauded Monday by both sides.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/01/gettyimages-647181932_wide-fe36e1f6086c3542d6ad49d5b957e36a5e437453-s800-c15.jpg"></a>
+
+May 1, 2017 - The short-term rental company has had an occasionally fraught relationship with its city of origin. But this lawsuit — which was joined by HomeAway — ended in an agreement lauded Monday by both sides.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration">http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/gettyimages-647181932_wide-fe36e1f6086c3542d6ad49d5b957e36a5e437453-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Environmentalists, Coal Companies Rally Around Technology To Clean Up Coal</title>
@@ -103,11 +118,12 @@ April 28, 2017 - The agency will scale back its collection of "about" data, mess
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_in_the_circle_what_we_give_up_when_we_share_ourselves_.mp3?orgId=1&amp;topicId=1019&amp;d=297&amp;p=2&amp;story=525916707&amp;t=progseg&amp;e=526373720&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>In &#39;The Circle&#39;, What We Give Up When We Share Ourselves </title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</link>
       <description>April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopian view of where Silicon Valley is taking the world and captures the tech industry&#39;s failure to acknowledge the downside of its creations.</description>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_in_the_circle_what_we_give_up_when_we_share_ourselves_.mp3?orgId=1&amp;topicId=1019&amp;d=297&amp;p=2&amp;story=525916707&amp;t=progseg&amp;e=526373720&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s800-c15.jpg"></a>
 
@@ -115,6 +131,7 @@ April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopia
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves">http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>297</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +258,6 @@ April 26, 2017 - FCC Chairman Ajit Pai, a free market proponent, wants to repeal
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations">http://www.npr.org/sections/thetwo-way/2017/04/26/525705253/fcc-chief-begins-rollback-of-net-neutrality-regulations</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-673446390_wide-24c7261a6dfe7a6938839186fe8e744fe79d04cd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</guid>
-      <title>In Surprise TED Talk, Pope Francis Asks The Powerful For &#39;Revolution Of Tenderness&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</link>
-      <description>April 26, 2017 - The pontiff&#39;s message seemed to be directed at the audience in the room. &#34;The more powerful you are,&#34; he said, &#34;the more responsible you are to act humbly. If you don&#39;t, your power will ruin you.&#34;</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/26/ted2017_042517_2rl0986-edit_wide-84df430d0f0dd4acf71532e697b9803138f8f1cd-s800-c15.jpg"></a>
-
-April 26, 2017 - The pontiff's message seemed to be directed at the audience in the room. "The more powerful you are," he said, "the more responsible you are to act humbly. If you don't, your power will ruin you."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness">http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/ted2017_042517_2rl0986-edit_wide-84df430d0f0dd4acf71532e697b9803138f8f1cd-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
