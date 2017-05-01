@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2017 12:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 00:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 30 Apr 2017 12:00:20 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 00:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -39,21 +39,6 @@ April 30, 2017 - A researcher found that some of them don't want to be "rescued.
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</guid>
-      <title>A Trauma Nurse Reflects On &#39;Compassion Fatigue&#39;</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</link>
-      <description>April 30, 2017 - Years of treating grievously injured people starts to wear on a person. a trauma nurse in Minneapolis says. She explores &#34;compassion fatigue&#34; in a semi-autobiographical poem.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s800-c15.jpg"></a>
-
-April 30, 2017 - Years of treating grievously injured people starts to wear on a person. a trauma nurse in Minneapolis says. She explores "compassion fatigue" in a semi-autobiographical poem.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue">http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</guid>
       <title>Being A Guinea Pig For Science Can Be A Long, Slow Slog</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</link>
@@ -66,6 +51,21 @@ April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if in
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</guid>
+      <title>A Trauma Nurse Reflects On &#39;Compassion Fatigue&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</link>
+      <description>April 30, 2017 - Years of treating grievously injured people starts to wear on a person, a trauma nurse in Minneapolis says. She explores &#34;compassion fatigue&#34; in a semi-autobiographical poem.</description>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s800-c15.jpg"></a>
+
+April 30, 2017 - Years of treating grievously injured people starts to wear on a person, a trauma nurse in Minneapolis says. She explores "compassion fatigue" in a semi-autobiographical poem.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue">http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
