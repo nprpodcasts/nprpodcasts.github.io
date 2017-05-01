@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2017 12:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 01:00:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 30 Apr 2017 12:00:17 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 01:00:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Environmentalists, Coal Companies Rally Around Technology To Clean Up Coal</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</link>
+      <description>May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there&#39;s a way to capture it — which has drawn praise from traditional enemies.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s800-c15.jpg"></a>
+
+May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there's a way to capture it — which has drawn praise from traditional enemies.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal">http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</guid>
-      <title>Turkey Blocks Wikipedia Accusing It Of Running &#39;Smear Campaign&#39; </title>
+      <title>Turkey Blocks Wikipedia, Accusing It Of Running &#39;Smear Campaign&#39; </title>
       <link>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</link>
       <description>April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It&#39;s the latest in what critics say is a crackdown on free speech.</description>
       <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-acfadcfeeb8e4e5e590b149a79f4954eb6f90e69-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-f93abe2b5790fec568ab00d67aac1cccab7827e0-s800-c15.jpg"></a>
 
 April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It's the latest in what critics say is a crackdown on free speech.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign">http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-acfadcfeeb8e4e5e590b149a79f4954eb6f90e69-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-f93abe2b5790fec568ab00d67aac1cccab7827e0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block">http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/25/energystar_wide-2daee62f7383cdefc2800eafc56b27e6c4a97f5a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_morning_news_brief_trumps_tax_plan_north_korea_killings_on_facebook_live.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=525675131&amp;t=progseg&amp;e=525675082&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Morning News Brief: Trump&#39;s Tax Plan, North Korea, Killings On Facebook Live</title>
-      <link>http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live</link>
-      <description>April 26, 2017 - President Trump will announce his tax plan Wednesday. Also, Holly Bailey of Yahoo News talks about a briefing Senators will receive on North Korea, and another killing was broadcast on Facebook Live.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170426_me_morning_news_brief_trumps_tax_plan_north_korea_killings_on_facebook_live.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=525675131&amp;t=progseg&amp;e=525675082&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 26, 2017 - President Trump will announce his tax plan Wednesday. Also, Holly Bailey of Yahoo News talks about a briefing Senators will receive on North Korea, and another killing was broadcast on Facebook Live.
-
-<a href="http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live">http://www.npr.org/2017/04/26/525675131/morning-news-brief-trumps-tax-plan-north-korea-killings-on-facebook-live</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>620</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

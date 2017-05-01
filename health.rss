@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 00:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 01:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 00:00:27 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 01:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,72 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome</guid>
+      <title>NIH Study Aims To Unravel The Illness Known As &#39;Chronic Fatigue Syndrome&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome</link>
+      <description>May 1, 2017 - Researchers do not know what causes people with the condition now known as ME/CFS to suffer debilitating exhaustion and other symptoms that make many everyday activities all but impossible.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/brian-vastag-1_wide-d40f6a4df8e2415edd2df2fbd2bc7afb0c25135e-s800-c15.jpg"></a>
+
+May 1, 2017 - Researchers do not know what causes people with the condition now known as ME/CFS to suffer debilitating exhaustion and other symptoms that make many everyday activities all but impossible.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome">http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/brian-vastag-1_wide-d40f6a4df8e2415edd2df2fbd2bc7afb0c25135e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_celebrity_chef_tom_colicchio_we_can_end_hunger_in_this_country.mp3?orgId=1&amp;topicId=1053&amp;d=165&amp;p=3&amp;story=526048187&amp;t=progseg&amp;e=526349002&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Celebrity Chef Tom Colicchio: &#39;We Can End Hunger In This Country&#39;</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</link>
+      <description>May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of our nation&#39;s problems are related to food, and one the biggest ways to address this is to make meals more nutritious and accessible.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_celebrity_chef_tom_colicchio_we_can_end_hunger_in_this_country.mp3?orgId=1&amp;topicId=1053&amp;d=165&amp;p=3&amp;story=526048187&amp;t=progseg&amp;e=526349002&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-78f1cba0c9d8ec581dee3d75f627d4999ffea65d-s800-c15.jpg"></a>
+
+May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of our nation's problems are related to food, and one the biggest ways to address this is to make meals more nutritious and accessible.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country">http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-78f1cba0c9d8ec581dee3d75f627d4999ffea65d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>165</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_a_lazarus_patient_and_the_limits_of_a_lifesaving_stroke_procedure.mp3?orgId=432&amp;topicId=1066&amp;d=254&amp;p=3&amp;story=525896731&amp;t=progseg&amp;e=526349002&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>A Lazarus Patient And The Limits Of A Lifesaving Stroke Procedure</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure</link>
+      <description>May 1, 2017 - About 800,000 people have strokes each year in the U.S. Most are caused by clots that block blood to the brain. In some cases, doctors can remove the clot using a device that looks like a fishing net.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_a_lazarus_patient_and_the_limits_of_a_lifesaving_stroke_procedure.mp3?orgId=432&amp;topicId=1066&amp;d=254&amp;p=3&amp;story=525896731&amp;t=progseg&amp;e=526349002&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/kurt-hinrichs-1_wide-7b4f91758b7faea33f7d9c857f1c2f685ee99dd1-s800-c15.jpg"></a>
+
+May 1, 2017 - About 800,000 people have strokes each year in the U.S. Most are caused by clots that block blood to the brain. In some cases, doctors can remove the clot using a device that looks like a fishing net.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure">http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/kurt-hinrichs-1_wide-7b4f91758b7faea33f7d9c857f1c2f685ee99dd1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>254</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Yo-Yo Dieting May Pose Serious Risks For Heart Patients</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</link>
+      <description>May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s800-c15.jpg"></a>
+
+May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients">http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>131</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers</guid>
       <title>The Surprising Wishes Of India&#39;s Sex Workers</title>
@@ -39,21 +105,6 @@ April 30, 2017 - A researcher found that some of them don't want to be "rescued.
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</guid>
-      <title>Being A Guinea Pig For Science Can Be A Long, Slow Slog</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</link>
-      <description>April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won&#39;t answer that question.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s800-c15.jpg"></a>
-
-April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won't answer that question.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</guid>
       <title>A Trauma Nurse Reflects On &#39;Compassion Fatigue&#39;</title>
       <link>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</link>
@@ -66,6 +117,21 @@ April 30, 2017 - Years of treating grievously injured people starts to wear on a
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue">http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</guid>
+      <title>Being A Guinea Pig For Science Can Be A Long, Slow Slog</title>
+      <link>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</link>
+      <description>April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won&#39;t answer that question.</description>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s800-c15.jpg"></a>
+
+April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won't answer that question.
+
+<a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -190,68 +256,6 @@ April 27, 2017 - Police departments in about 95 percent of cities nationally hav
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
       <itunes:duration>306</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_propublica_investigation_finds_nursing_homes_waste_tons_of_prescription_drugs.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=525833212&amp;t=progseg&amp;e=525832200&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>ProPublica Investigation Finds Nursing Homes Waste Tons Of Prescription Drugs</title>
-      <link>http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs</link>
-      <description>April 27, 2017 - A ProPublica investigation reveals nursing homes waste millions of dollars in prescription drugs every year. NPR&#39;s Steve Inskeep speaks with ProPublica&#39;s Marshall Allen about his reporting.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_propublica_investigation_finds_nursing_homes_waste_tons_of_prescription_drugs.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=525833212&amp;t=progseg&amp;e=525832200&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - A ProPublica investigation reveals nursing homes waste millions of dollars in prescription drugs every year. NPR's Steve Inskeep speaks with ProPublica's Marshall Allen about his reporting.
-
-<a href="http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs">http://www.npr.org/2017/04/27/525833212/propublica-investigation-finds-nursing-homes-waste-tons-of-prescription-drugs</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</guid>
-      <title>Welcome To The Poison Garden: Medicine&#39;s Medieval Roots</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</link>
-      <description>April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s800-c15.jpg"></a>
-
-April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots">http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_drug_saves_women_in_child_birth.mp3?orgId=1&amp;topicId=1128&amp;d=121&amp;p=2&amp;story=525639110&amp;t=progseg&amp;e=525699653&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Overlooked Drug Could Save Thousands Of Moms After Childbirth</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth</link>
-      <description>April 26, 2017 - An inexpensive drug could dramatically reduce the number of deaths of mothers from bleeding after childbirth in low- and middle-income countries around the world.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_drug_saves_women_in_child_birth.mp3?orgId=1&amp;topicId=1128&amp;d=121&amp;p=2&amp;story=525639110&amp;t=progseg&amp;e=525699653&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/gettyimages-548001551_wide-2390399e90587df584608cc527772bb381caa075-s800-c15.jpg"></a>
-
-April 26, 2017 - An inexpensive drug could dramatically reduce the number of deaths of mothers from bleeding after childbirth in low- and middle-income countries around the world.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth">http://www.npr.org/sections/goatsandsoda/2017/04/26/525639110/overlooked-drug-could-save-thousands-of-moms-after-childbirth</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-548001551_wide-2390399e90587df584608cc527772bb381caa075-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>121</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_health_care_showdown_or_not.mp3?orgId=1&amp;topicId=1003&amp;d=215&amp;p=2&amp;story=525764683&amp;t=progseg&amp;e=525699653&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Shutdown Averted: White House Backs Down On Health Care Demands</title>
-      <link>http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</link>
-      <description>April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170426_atc_health_care_showdown_or_not.mp3?orgId=1&amp;topicId=1003&amp;d=215&amp;p=2&amp;story=525764683&amp;t=progseg&amp;e=525699653&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 26, 2017 - The White House appears to be backing down on multiple demands that were threatening a partial government shutdown, including withholding subsidies to help low-income people under Obamacare.
-
-<a href="http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands">http://www.npr.org/2017/04/26/525764683/shutdown-averted-white-house-backs-down-on-health-care-demands</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
