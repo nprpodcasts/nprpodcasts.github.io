@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 15:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 17:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 15:00:23 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 17:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/01/526069419/fasting-studies-clash-with-our-desire-to-eat-what-we-want-when-we-want-it</guid>
+      <title>Fasting Studies Clash With Our Desire To Eat What We Want, When We Want It</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/01/526069419/fasting-studies-clash-with-our-desire-to-eat-what-we-want-when-we-want-it</link>
+      <description>May 1, 2017 - Fasting every other day is no better for losing weight or keeping it off than restricting calories every day, a study suggests. And it&#39;s yet another example of how hard it is to study fasting.</description>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/intermittent-fasting-1_wide-f9be2295a54a2e24f3a46d063036e1bb0123dc05-s800-c15.jpg"></a>
+
+May 1, 2017 - Fasting every other day is no better for losing weight or keeping it off than restricting calories every day, a study suggests. And it's yet another example of how hard it is to study fasting.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/01/526069419/fasting-studies-clash-with-our-desire-to-eat-what-we-want-when-we-want-it">http://www.npr.org/sections/health-shots/2017/05/01/526069419/fasting-studies-clash-with-our-desire-to-eat-what-we-want-when-we-want-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/intermittent-fasting-1_wide-f9be2295a54a2e24f3a46d063036e1bb0123dc05-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome</guid>
       <title>NIH Study Aims To Unravel The Illness Known As &#39;Chronic Fatigue Syndrome&#39;</title>
@@ -46,12 +61,12 @@ May 1, 2017 - Researchers do not know what causes people with the condition now 
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_celebrity_chef_tom_colicchio_we_can_end_hunger_in_this_country.mp3?orgId=1&amp;topicId=1053&amp;d=165&amp;p=3&amp;story=526048187&amp;t=progseg&amp;e=526349002&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-78f1cba0c9d8ec581dee3d75f627d4999ffea65d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-8f8048eb530b7f59242bb9dbf12eebaa341c9bf5-s800-c15.jpg"></a>
 
 May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of our nation's problems are related to food. One of the biggest ways to address this is to make meals more nutritious and accessible.
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country">http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-78f1cba0c9d8ec581dee3d75f627d4999ffea65d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-8f8048eb530b7f59242bb9dbf12eebaa341c9bf5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>165</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,23 +254,6 @@ April 27, 2017 - Insurance companies face deadlines to offer Affordable Care Act
 <a href="http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead">http://www.npr.org/sections/health-shots/2017/04/27/525754974/as-trump-and-congress-flip-flop-on-health-care-insurers-try-to-plan-ahead</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/congress-numbers_wide-5918f3e59a197e01b4f099018136f1a79cd6050e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
-      <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
-
-April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>306</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
