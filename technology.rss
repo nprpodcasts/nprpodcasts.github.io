@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 01:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 15:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 01:00:04 +0000</pubDate>
+    <pubDate>Mon, 01 May 2017 15:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -38,6 +38,23 @@ May 1, 2017 - The industry has been in decline for years, partly because burning
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal">http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_it_is_neither_nor_it_is_both_tom_hanks_finds_no_easy_answers_in_the_circle.mp3?orgId=1&amp;topicId=1137&amp;d=542&amp;p=2&amp;story=526105460&amp;t=progseg&amp;e=526255643&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;It Is Neither Nor, It Is Both&#39;: Tom Hanks Finds No Easy Answers In &#39;The Circle&#39;</title>
+      <link>http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle</link>
+      <description>April 30, 2017 - In the film adaptation of Dave Eggers&#39; 2013 novel, Hanks plays Eamon Bailey, co-founder of a giant social media and tech company with the creepy mantra: &#34;Sharing is caring.&#34;</description>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_it_is_neither_nor_it_is_both_tom_hanks_finds_no_easy_answers_in_the_circle.mp3?orgId=1&amp;topicId=1137&amp;d=542&amp;p=2&amp;story=526105460&amp;t=progseg&amp;e=526255643&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/the-circle-m-486_circle_11610fdrv2r2_rgb_wide-df808e0da3c4d6be652f9aa6aed2fc1ba0fc197f-s800-c15.jpg"></a>
+
+April 30, 2017 - In the film adaptation of Dave Eggers' 2013 novel, Hanks plays Eamon Bailey, co-founder of a giant social media and tech company with the creepy mantra: "Sharing is caring."
+
+<a href="http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle">http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-486_circle_11610fdrv2r2_rgb_wide-df808e0da3c4d6be652f9aa6aed2fc1ba0fc197f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>542</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ April 26, 2017 - The pontiff's message seemed to be directed at the audience in 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness">http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/ted2017_042517_2rl0986-edit_wide-84df430d0f0dd4acf71532e697b9803138f8f1cd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</guid>
-      <title>Energy Star Program For Homes And Appliances Is On Trump&#39;s Chopping Block</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</link>
-      <description>April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to celebrate the energy efficiency program. Energy Star is among 50 EPA programs that would be eliminated under the president&#39;s budget plan.</description>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/25/energystar_wide-2daee62f7383cdefc2800eafc56b27e6c4a97f5a-s800-c15.jpg"></a>
-
-April 26, 2017 - Appliance makers and home builders are in Washington, D.C., to celebrate the energy efficiency program. Energy Star is among 50 EPA programs that would be eliminated under the president's budget plan.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block">http://www.npr.org/sections/thetwo-way/2017/04/26/525584142/energy-star-program-for-homes-and-appliances-is-on-trumps-chopping-block</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/25/energystar_wide-2daee62f7383cdefc2800eafc56b27e6c4a97f5a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
