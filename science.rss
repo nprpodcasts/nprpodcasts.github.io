@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 01:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 14:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 01:00:06 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 14:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170502_me_why_social_media_isnt_always_very_social.mp3?orgId=1&amp;topicId=1024&amp;d=424&amp;p=3&amp;story=526514168&amp;t=progseg&amp;e=526514132&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Why Social Media Isn&#39;t Always Very Social</title>
+      <link>http://www.npr.org/2017/05/02/526514168/why-social-media-isnt-always-very-social</link>
+      <description>May 2, 2017 - Studies show that people who spend more time on social media sites feel more socially isolated than those who don&#39;t. This might be because of a disconnect between our online lives and our real ones.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170502_me_why_social_media_isnt_always_very_social.mp3?orgId=1&amp;topicId=1024&amp;d=424&amp;p=3&amp;story=526514168&amp;t=progseg&amp;e=526514132&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 2, 2017 - Studies show that people who spend more time on social media sites feel more socially isolated than those who don't. This might be because of a disconnect between our online lives and our real ones.
+
+<a href="http://www.npr.org/2017/05/02/526514168/why-social-media-isnt-always-very-social">http://www.npr.org/2017/05/02/526514168/why-social-media-isnt-always-very-social</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>424</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</guid>
+      <title>A New Generation Overthrows Gender</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</link>
+      <description>May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don&#39;t fit into familiar gender categories.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s800-c15.jpg"></a>
+
+May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don't fit into familiar gender categories.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender">http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Environmentalists, Coal Companies Rally Around Technology To Clean Up Coal</title>
@@ -228,36 +258,6 @@ April 27, 2017 - Instead of buying expensive things, people now use busyness to 
 <a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s3000-c15.jpg"></itunes:image>
       <itunes:duration>203</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</guid>
-      <title>Welcome To The Poison Garden: Medicine&#39;s Medieval Roots</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</link>
-      <description>April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s800-c15.jpg"></a>
-
-April 27, 2017 - One corner of the garden of Alnwick Castle in northern England grows a hundred plants behind lock and key. Many of the toxic species there were used by medieval doctors — nasty plants adapted to heal.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots">http://www.npr.org/sections/health-shots/2017/04/27/525143152/welcome-to-the-poison-garden-medicines-medieval-roots</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/poison-garden-1_wide-416d720146ee3eccb7276d698fa62a0969ee1039-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525829219/cassini-spacecraft-re-establishes-contact-after-dive-between-saturn-and-its-ring</guid>
-      <title>Cassini Spacecraft Re-Establishes Contact After &#39;Dive&#39; Between Saturn And Its Rings</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/27/525829219/cassini-spacecraft-re-establishes-contact-after-dive-between-saturn-and-its-ring</link>
-      <description>April 27, 2017 - The Cassini probe has orbited Saturn for 13 years. This is the first time it entered the gap between the planet and its rings.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/cassini-earth_wide-1e2f1c6c5f4270a651e1bf7245a5eef0fab278e6-s800-c15.jpg"></a>
-
-April 27, 2017 - The Cassini probe has orbited Saturn for 13 years. This is the first time it entered the gap between the planet and its rings.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525829219/cassini-spacecraft-re-establishes-contact-after-dive-between-saturn-and-its-ring">http://www.npr.org/sections/thetwo-way/2017/04/27/525829219/cassini-spacecraft-re-establishes-contact-after-dive-between-saturn-and-its-ring</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/cassini-earth_wide-1e2f1c6c5f4270a651e1bf7245a5eef0fab278e6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

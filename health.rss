@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 14:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 01 May 2017 23:00:22 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 14:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Veterans At Risk Of Suicide Negotiate A Thorny Relationship With Guns</title>
+      <link>http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</link>
+      <description>May 2, 2017 - Researchers say putting guns out of reach reduces the chances that suicidal veterans could take their own lives, but changing the law is a controversial idea.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-f1f427cf6154cbd5efd1f2ad5076db62a98d3f79-s800-c15.jpg"></a>
+
+May 2, 2017 - Researchers say putting guns out of reach reduces the chances that suicidal veterans could take their own lives, but changing the law is a controversial idea.
+
+<a href="http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns">http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-f1f427cf6154cbd5efd1f2ad5076db62a98d3f79-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>272</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</guid>
+      <title>A New Generation Overthrows Gender</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</link>
+      <description>May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don&#39;t fit into familiar gender categories.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s800-c15.jpg"></a>
+
+May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don't fit into familiar gender categories.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender">http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_president_trump_promotes_revised_version_of_gop_health_care_bill.mp3?orgId=1&amp;topicId=1128&amp;d=223&amp;p=2&amp;story=526436036&amp;t=progseg&amp;e=526373720&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>President Trump Promotes Revised Version Of GOP Health Care Bill</title>
@@ -222,36 +254,6 @@ April 28, 2017 - Chris Ategeka left his native Uganda and earned an engineering 
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain">http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/33866281100_7133470eb2_o_wide-182d8d69045cb2dfedc71ed59dcbbf9d711124c1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/28/524512767/for-some-pre-hospice-care-can-be-a-good-alternative-to-hospitals</guid>
-      <title>For Some, Pre-Hospice Care Can Be A Good Alternative To Hospitals</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/28/524512767/for-some-pre-hospice-care-can-be-a-good-alternative-to-hospitals</link>
-      <description>April 28, 2017 - Through home visits, very ill people get help with pain, stress and symptoms. Medical centers, initially skeptical, now embrace the program because it helps patients and makes financial sense.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/19/pre-hospice-8_wide-1e7f3916abc70f0b846354cf591961e21cfdad3b-s800-c15.jpg"></a>
-
-April 28, 2017 - Through home visits, very ill people get help with pain, stress and symptoms. Medical centers, initially skeptical, now embrace the program because it helps patients and makes financial sense.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/28/524512767/for-some-pre-hospice-care-can-be-a-good-alternative-to-hospitals">http://www.npr.org/sections/health-shots/2017/04/28/524512767/for-some-pre-hospice-care-can-be-a-good-alternative-to-hospitals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/pre-hospice-8_wide-1e7f3916abc70f0b846354cf591961e21cfdad3b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_new_health_care_bill_needs_moderate_republicans_support_what_do_they_want.mp3?orgId=1&amp;topicId=1003&amp;d=283&amp;p=2&amp;story=525918227&amp;t=progseg&amp;e=525848511&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Health Care Bill Needs Moderate Republicans&#39; Support — What Do They Want?</title>
-      <link>http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want</link>
-      <description>April 27, 2017 - NPR&#39;s Audie Cornish talks with moderate Republican Congressman Leonard Lance of New Jersey about what he&#39;s looking for in the new health care bill.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_new_health_care_bill_needs_moderate_republicans_support_what_do_they_want.mp3?orgId=1&amp;topicId=1003&amp;d=283&amp;p=2&amp;story=525918227&amp;t=progseg&amp;e=525848511&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - NPR's Audie Cornish talks with moderate Republican Congressman Leonard Lance of New Jersey about what he's looking for in the new health care bill.
-
-<a href="http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want">http://www.npr.org/2017/04/27/525918227/new-health-care-bill-needs-moderate-republicans-support-what-do-they-want</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>283</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
