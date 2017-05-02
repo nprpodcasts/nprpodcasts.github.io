@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 16:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 18:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 16:00:38 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 18:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</guid>
+      <title>Death Rate Among Black Americans Declines, Especially For Elderly People</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</link>
+      <description>May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent over 17 years and was especially dramatic for those 65 and older. But young black people are still dying earlier than white Americans.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s800-c15.jpg"></a>
+
+May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent over 17 years and was especially dramatic for those 65 and older. But young black people are still dying earlier than white Americans.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people">http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay</guid>
       <title>Doctors Prescribe More Generics When Drug Reps Are Kept At Bay</title>
@@ -61,12 +76,12 @@ May 2, 2017 - This year's "State of Black America" report took the unusual step 
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-f1f427cf6154cbd5efd1f2ad5076db62a98d3f79-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-34458ab6ffda43ec374856ed900f7076b8a0368d-s800-c15.jpg"></a>
 
 May 2, 2017 - Researchers say putting guns out of reach reduces the chances that suicidal veterans could take their own lives, but changing the law is a controversial idea.
 
 <a href="http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns">http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-f1f427cf6154cbd5efd1f2ad5076db62a98d3f79-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-34458ab6ffda43ec374856ed900f7076b8a0368d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>272</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,21 +254,6 @@ April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if in
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</guid>
-      <title>Those TV Drug Ads Distract Us From The Medical Care We Need </title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</link>
-      <description>April 29, 2017 - Doctors spend lots of time answering questions about the latest drug ad, and that means less time answering questions that could really help your health, a primary care physician says.</description>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/tvdrugads_wide-7c7e4cfcd1ca72d426c2b07995712edc081b56bf-s800-c15.jpeg"></a>
-
-April 29, 2017 - Doctors spend lots of time answering questions about the latest drug ad, and that means less time answering questions that could really help your health, a primary care physician says.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need">http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/tvdrugads_wide-7c7e4cfcd1ca72d426c2b07995712edc081b56bf-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
