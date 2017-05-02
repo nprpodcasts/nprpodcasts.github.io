@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 18:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 19:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 18:00:11 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 19:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch</guid>
+      <title>Trump Administration Rolls Back Obama-Era Rules On Calorie Counts, School Lunch</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch</link>
+      <description>May 2, 2017 - The Trump administration has said it wants to remove burdensome regulation, and on Monday it served up a taste of what that looks like when it comes to two aspects of food policy.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/ap-1_wide-3be7bd53ae37eac0bd1655caa787cd129364a60d-s800-c15.jpg"></a>
+
+May 2, 2017 - The Trump administration has said it wants to remove burdensome regulation, and on Monday it served up a taste of what that looks like when it comes to two aspects of food policy.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch">http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/ap-1_wide-3be7bd53ae37eac0bd1655caa787cd129364a60d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</guid>
+      <title>A Child&#39;s Suffering Drives A Mother To Seek Untested Treatments</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</link>
+      <description>May 2, 2017 - When medication wasn&#39;t relieving her 3-year-old son&#39;s juvenile arthritis, Susannah Meadows started investigating non-medical treatments like diet and supplements.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/alternative-treatment_wide-f1bde07d808b62480e6de9d57063e36aee7faebb-s800-c15.jpg"></a>
+
+May 2, 2017 - When medication wasn't relieving her 3-year-old son's juvenile arthritis, Susannah Meadows started investigating non-medical treatments like diet and supplements.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments">http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/alternative-treatment_wide-f1bde07d808b62480e6de9d57063e36aee7faebb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</guid>
       <title>Death Rate Among Black Americans Declines, Especially For Elderly People</title>
@@ -224,36 +254,6 @@ April 30, 2017 - A researcher found that some of them don't want to be "rescued.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers">http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/03/02/npr_final_vblue_franziska_barczyk.jpg_wide-00167edb2de9e4d7676a7edba02511ec0d0d4d49-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</guid>
-      <title>A Trauma Nurse Reflects On &#39;Compassion Fatigue&#39;</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</link>
-      <description>April 30, 2017 - Years of treating grievously injured people starts to wear on a person, a trauma nurse in Minneapolis says. She explores &#34;compassion fatigue&#34; in a semi-autobiographical poem.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s800-c15.jpg"></a>
-
-April 30, 2017 - Years of treating grievously injured people starts to wear on a person, a trauma nurse in Minneapolis says. She explores "compassion fatigue" in a semi-autobiographical poem.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue">http://www.npr.org/sections/health-shots/2017/04/30/526056664/a-trauma-nurse-reflects-on-compassion-fatigue</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/affliction-still_wide-62ff1fe6d5f041949096fcf8344d221633506e6e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</guid>
-      <title>Being A Guinea Pig For Science Can Be A Long, Slow Slog</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</link>
-      <description>April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won&#39;t answer that question.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s800-c15.jpg"></a>
-
-April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won't answer that question.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
