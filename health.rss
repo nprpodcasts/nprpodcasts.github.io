@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 20:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 23:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 20:00:32 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 23:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -54,11 +54,12 @@ May 2, 2017 - When medication wasn't relieving her 3-year-old son's juvenile art
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170502_atc_death_rate_among_black_americans_declines_especially_for_elderly_people.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=526433607&amp;t=progseg&amp;e=526527076&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Death Rate Among Black Americans Declines, Especially For Elderly People</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</link>
       <description>May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent over 17 years and was especially dramatic for those 65 and older. But young black people are still dying earlier than white Americans.</description>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170502_atc_death_rate_among_black_americans_declines_especially_for_elderly_people.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=526433607&amp;t=progseg&amp;e=526527076&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s800-c15.jpg"></a>
 
@@ -66,6 +67,7 @@ May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent ov
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people">http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
