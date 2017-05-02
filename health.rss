@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 14:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 16:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 14:00:29 +0000</pubDate>
+    <pubDate>Tue, 02 May 2017 16:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay</guid>
+      <title>Doctors Prescribe More Generics When Drug Reps Are Kept At Bay</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay</link>
+      <description>May 2, 2017 - Doctors were more likely to choose generic drugs over pricier brand names when teaching hospitals limited access by pharmaceutical sales representatives, a study finds.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/prescriptions_wide-8eb619a10aeb5c5b57d1d5c0a6889558e157546d-s800-c15.jpg"></a>
+
+May 2, 2017 - Doctors were more likely to choose generic drugs over pricier brand names when teaching hospitals limited access by pharmaceutical sales representatives, a study finds.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay">http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/prescriptions_wide-8eb619a10aeb5c5b57d1d5c0a6889558e157546d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</guid>
+      <title>The Fine Print In The &#39;State of Black America&#39; Report</title>
+      <link>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</link>
+      <description>May 2, 2017 - This year&#39;s &#34;State of Black America&#34; report took the unusual step of warning that the organization now has a new priority: protecting areas of progress from retrenchment during the next few years.</description>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/black-male-teachers_wide-fcce0e198779cad13df5013813ca048c9ccfe650-s800-c15.jpg"></a>
+
+May 2, 2017 - This year's "State of Black America" report took the unusual step of warning that the organization now has a new priority: protecting areas of progress from retrenchment during the next few years.
+
+<a href="http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report">http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/black-male-teachers_wide-fcce0e198779cad13df5013813ca048c9ccfe650-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1</guid>
       <title>Veterans At Risk Of Suicide Negotiate A Thorny Relationship With Guns</title>
@@ -224,36 +254,6 @@ April 29, 2017 - Doctors spend lots of time answering questions about the latest
 
 <a href="http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need">http://www.npr.org/sections/health-shots/2017/04/29/525877472/those-tv-drug-ads-distract-us-from-the-medical-care-we-need</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/tvdrugads_wide-7c7e4cfcd1ca72d426c2b07995712edc081b56bf-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/28/526067401/u-s-supply-of-yellow-fever-vaccine-will-run-out-by-midsummer</guid>
-      <title>U.S. Supply Of Yellow Fever Vaccine Will Run Out By Midsummer</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/28/526067401/u-s-supply-of-yellow-fever-vaccine-will-run-out-by-midsummer</link>
-      <description>April 28, 2017 - Officials are working on an emergency import deal for another vaccine that is not licensed in the U.S. Even then, a limited number of doses will be available at only a small number of clinics.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-151052126_wide-33636df8d49455f2ba8a1e49e33b47ebe9568e0b-s800-c15.jpg"></a>
-
-April 28, 2017 - Officials are working on an emergency import deal for another vaccine that is not licensed in the U.S. Even then, a limited number of doses will be available at only a small number of clinics.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/28/526067401/u-s-supply-of-yellow-fever-vaccine-will-run-out-by-midsummer">http://www.npr.org/sections/health-shots/2017/04/28/526067401/u-s-supply-of-yellow-fever-vaccine-will-run-out-by-midsummer</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-151052126_wide-33636df8d49455f2ba8a1e49e33b47ebe9568e0b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain</guid>
-      <title>His Parents&#39; Death Gave Him A Mission: Stop The Medical Brain Drain</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain</link>
-      <description>April 28, 2017 - Chris Ategeka left his native Uganda and earned an engineering degree in the U.S. He could have gone to Silicon Valley — but his personal history set him on a different path.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/26/33866281100_7133470eb2_o_wide-182d8d69045cb2dfedc71ed59dcbbf9d711124c1-s800-c15.jpg"></a>
-
-April 28, 2017 - Chris Ategeka left his native Uganda and earned an engineering degree in the U.S. He could have gone to Silicon Valley — but his personal history set him on a different path.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain">http://www.npr.org/sections/goatsandsoda/2017/04/28/525756657/his-parents-death-gave-him-a-mission-stop-the-medical-brain-drain</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/26/33866281100_7133470eb2_o_wide-182d8d69045cb2dfedc71ed59dcbbf9d711124c1-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
