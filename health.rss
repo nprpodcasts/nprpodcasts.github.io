@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 23:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 05:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 23:00:21 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 05:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_porn_star_plays_new_role_as_advocate_for_industry.mp3?orgId=1&amp;topicId=1022&amp;d=306&amp;p=2&amp;story=526038437&amp;t=progseg&amp;e=526255643&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Porn Star Plays New Role As Advocate For Industry</title>
+      <link>http://www.npr.org/2017/04/30/526038437/porn-star-plays-new-role-as-advocate-for-industry</link>
+      <description>May 3, 2017 - This week on &#39;Brave New Workers&#39;: After 20 years working as a performer in the adult entertainment industry, Alana Evans is putting her efforts into organizing for the Adult Performers Actors Guild.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_porn_star_plays_new_role_as_advocate_for_industry.mp3?orgId=1&amp;topicId=1022&amp;d=306&amp;p=2&amp;story=526038437&amp;t=progseg&amp;e=526255643&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/30/alana-1_wide-345c6c57cea67d7a187a3b4b1fb8e43da55369df-s800-c15.jpg"></a>
+
+May 3, 2017 - This week on 'Brave New Workers': After 20 years working as a performer in the adult entertainment industry, Alana Evans is putting her efforts into organizing for the Adult Performers Actors Guild.
+
+<a href="http://www.npr.org/2017/04/30/526038437/porn-star-plays-new-role-as-advocate-for-industry">http://www.npr.org/2017/04/30/526038437/porn-star-plays-new-role-as-advocate-for-industry</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/30/alana-1_wide-345c6c57cea67d7a187a3b4b1fb8e43da55369df-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>306</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170503_me_worlds_oldest_man_dies.mp3?orgId=1&amp;topicId=1129&amp;d=56&amp;p=3&amp;story=526690256&amp;t=progseg&amp;e=526673255&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Man Who Claimed To Be 146 Years Old Dies In Indonesia</title>
+      <link>http://www.npr.org/2017/05/03/526690256/man-who-claimed-to-be-146-years-old-dies-in-indonesia</link>
+      <description>May 3, 2017 - An Indonesian who claimed to have been born in 1870 died this week. If true, at 146, he would have been the oldest person ever by far. Indonesia didn&#39;t record births until 1900, however.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170503_me_worlds_oldest_man_dies.mp3?orgId=1&amp;topicId=1129&amp;d=56&amp;p=3&amp;story=526690256&amp;t=progseg&amp;e=526673255&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 3, 2017 - An Indonesian who claimed to have been born in 1870 died this week. If true, at 146, he would have been the oldest person ever by far. Indonesia didn't record births until 1900, however.
+
+<a href="http://www.npr.org/2017/05/03/526690256/man-who-claimed-to-be-146-years-old-dies-in-indonesia">http://www.npr.org/2017/05/03/526690256/man-who-claimed-to-be-146-years-old-dies-in-indonesia</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526622567/as-house-gop-struggles-with-a-health-care-bill-republican-options-narrow</guid>
+      <title>As House GOP Struggles With A Health Care Bill, Republican Options Narrow</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526622567/as-house-gop-struggles-with-a-health-care-bill-republican-options-narrow</link>
+      <description>May 3, 2017 - Despite pressure from the White House and GOP leaders, Republicans have not yet secured enough votes to get health care replacement through the House, let alone the Senate. So, what are their choices?</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/peter-king-1_wide-759a32f1afc5b9a195be53ba6d2d79911216be54-s800-c15.jpg"></a>
+
+May 3, 2017 - Despite pressure from the White House and GOP leaders, Republicans have not yet secured enough votes to get health care replacement through the House, let alone the Senate. So, what are their choices?
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/03/526622567/as-house-gop-struggles-with-a-health-care-bill-republican-options-narrow">http://www.npr.org/sections/health-shots/2017/05/03/526622567/as-house-gop-struggles-with-a-health-care-bill-republican-options-narrow</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/peter-king-1_wide-759a32f1afc5b9a195be53ba6d2d79911216be54-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch</guid>
       <title>More Salt In School Lunch, Less Nutrition Info On Menus: Trump Rolls Back Food Rules</title>
@@ -87,7 +134,7 @@ May 2, 2017 - Doctors were more likely to choose generic drugs over pricier bran
     </item>
     <item>
       <guid>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</guid>
-      <title>The Fine Print In The &#39;State of Black America&#39; Report</title>
+      <title>The Fine Print In The &#39;State Of Black America&#39; Report</title>
       <link>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</link>
       <description>May 2, 2017 - This year&#39;s &#34;State of Black America&#34; report took the unusual step of warning that the organization now has a new priority: protecting areas of progress from retrenchment during the next few years.</description>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
@@ -207,55 +254,6 @@ May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of 
 <a href="http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country">http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-8f8048eb530b7f59242bb9dbf12eebaa341c9bf5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>165</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_a_lazarus_patient_and_the_limits_of_a_lifesaving_stroke_procedure.mp3?orgId=432&amp;topicId=1066&amp;d=254&amp;p=3&amp;story=525896731&amp;t=progseg&amp;e=526349002&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Lazarus Patient And The Limits Of A Lifesaving Stroke Procedure</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure</link>
-      <description>May 1, 2017 - About 800,000 people have strokes each year in the U.S. Most are caused by clots that block blood to the brain. In some cases, doctors can remove the clot using a device that looks like a fishing net.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_a_lazarus_patient_and_the_limits_of_a_lifesaving_stroke_procedure.mp3?orgId=432&amp;topicId=1066&amp;d=254&amp;p=3&amp;story=525896731&amp;t=progseg&amp;e=526349002&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/kurt-hinrichs-1_wide-7b4f91758b7faea33f7d9c857f1c2f685ee99dd1-s800-c15.jpg"></a>
-
-May 1, 2017 - About 800,000 people have strokes each year in the U.S. Most are caused by clots that block blood to the brain. In some cases, doctors can remove the clot using a device that looks like a fishing net.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure">http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/kurt-hinrichs-1_wide-7b4f91758b7faea33f7d9c857f1c2f685ee99dd1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>254</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Yo-Yo Dieting May Pose Serious Risks For Heart Patients</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</link>
-      <description>May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s800-c15.jpg"></a>
-
-May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients">http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>131</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers</guid>
-      <title>The Surprising Wishes Of India&#39;s Sex Workers</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers</link>
-      <description>April 30, 2017 - A researcher found that some of them don&#39;t want to be &#34;rescued.&#34; And that in one community, sex work is a traditional occupation for married women.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/03/02/npr_final_vblue_franziska_barczyk.jpg_wide-00167edb2de9e4d7676a7edba02511ec0d0d4d49-s800-c15.jpeg"></a>
-
-April 30, 2017 - A researcher found that some of them don't want to be "rescued." And that in one community, sex work is a traditional occupation for married women.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers">http://www.npr.org/sections/goatsandsoda/2017/04/30/518156410/the-surprising-wishes-of-indias-sex-workers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/03/02/npr_final_vblue_franziska_barczyk.jpg_wide-00167edb2de9e4d7676a7edba02511ec0d0d4d49-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
