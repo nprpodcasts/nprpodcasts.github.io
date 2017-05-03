@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2017 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 22:00:37 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 03 May 2017 17:00:21 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 22:00:37 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/03/526785635/did-you-get-a-weird-invitation-to-edit-a-google-doc-its-best-not-to-click</guid>
+      <title>Did You Get A Weird Invitation To Edit A Google Doc? It&#39;s Best Not To Click</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/03/526785635/did-you-get-a-weird-invitation-to-edit-a-google-doc-its-best-not-to-click</link>
+      <description>May 3, 2017 - The reason why: It&#39;s probably not legit. A vast phishing scam has been emailing malicious files masquerading as Google Docs. Does a recent edit invitation smell fishy to you? Just delete it.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/03/capture-it1_wide-620df7bfa84a0a9af1e0a825b2e49bf12145ea3b-s800-c15.png"></a>
+
+May 3, 2017 - The reason why: It's probably not legit. A vast phishing scam has been emailing malicious files masquerading as Google Docs. Does a recent edit invitation smell fishy to you? Just delete it.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/03/526785635/did-you-get-a-weird-invitation-to-edit-a-google-doc-its-best-not-to-click">http://www.npr.org/sections/thetwo-way/2017/05/03/526785635/did-you-get-a-weird-invitation-to-edit-a-google-doc-its-best-not-to-click</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/capture-it1_wide-620df7bfa84a0a9af1e0a825b2e49bf12145ea3b-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content</guid>
       <title>Facebook Plans To Add 3,000 Workers To Monitor, Remove Violent Content</title>
@@ -243,23 +258,6 @@ April 27, 2017 - Police may soon have technology to tell if a driver involved in
 <a href="http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer">http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>623</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Instead Of Showing Off Wealth, Some Show Off Busy Schedules</title>
-      <link>http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</link>
-      <description>April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_instead_of_showing_off_wealth_some_show_off_busy_schedule.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=203&amp;p=3&amp;story=525833226&amp;t=progseg&amp;e=525832200&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s800-c15.jpg"></a>
-
-April 27, 2017 - Instead of buying expensive things, people now use busyness to show their high status. New research finds that many celebrities use social media to boast about their lack of time, not their wealth.
-
-<a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

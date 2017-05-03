@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2017 17:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 22:00:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 03 May 2017 17:00:22 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 22:00:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_autism_fears_fueling_minnesotas_measles_outbreak_.mp3?orgId=111&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=526723028&amp;t=progseg&amp;e=526673258&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Unfounded Autism Fears Are Fueling Minnesota&#39;s Measles Outbreak </title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak</link>
+      <description>May 3, 2017 - State health officials are struggling to contain a measles outbreak that has sickened mostly Somali-American children. The vaccination rate is low in this tight community that&#39;s worried about autism.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_autism_fears_fueling_minnesotas_measles_outbreak_.mp3?orgId=111&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=526723028&amp;t=progseg&amp;e=526673258&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/03/measles-1_wide-c4f2babc60a4ed3f710bb8a791ab409e07e59b5b-s800-c15.jpg"></a>
+
+May 3, 2017 - State health officials are struggling to contain a measles outbreak that has sickened mostly Somali-American children. The vaccination rate is low in this tight community that's worried about autism.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak">http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/measles-1_wide-c4f2babc60a4ed3f710bb8a791ab409e07e59b5b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>221</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears</guid>
+      <title>Understanding The History Behind Communities&#39; Vaccine Fears</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears</link>
+      <description>May 3, 2017 - A measles outbreak in Minnesota&#39;s Somali-American community is the latest example of the challenges public health officials face in addressing deeply ingrained concerns about vaccine safety.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/02/mmr-1_wide-baf37a73149201158fe9aa8ed2ef19e9f7109c51-s800-c15.jpg"></a>
+
+May 3, 2017 - A measles outbreak in Minnesota's Somali-American community is the latest example of the challenges public health officials face in addressing deeply ingrained concerns about vaccine safety.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears">http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/mmr-1_wide-baf37a73149201158fe9aa8ed2ef19e9f7109c51-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</guid>
       <title>Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative</title>
@@ -226,38 +258,6 @@ April 27, 2017 - Americans ate 2 billion pounds of avocados last year; many came
 
 <a href="http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round">http://www.npr.org/sections/thesalt/2017/04/27/525737123/california-is-on-its-way-to-having-an-avocado-crop-year-round</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/avocado_3-2_wide-4d38d392bea7de97a47a1f3ad60fb2e66e722f6a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
-      <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
-
-April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>306</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn</guid>
-      <title>Cassini Craft Beams Closest Images Ever Taken Of Saturn</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn</link>
-      <description>April 27, 2017 - The spacecraft is &#34;showing us new wonders and demonstrating where our curiosity can take us if we dare,&#34; NASA&#39;s planetary science director says.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/27/cassini1_wide-2ce9059500dc3fb3f07e3a94554d402e41251fbf-s800-c15.jpg"></a>
-
-April 27, 2017 - The spacecraft is "showing us new wonders and demonstrating where our curiosity can take us if we dare," NASA's planetary science director says.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn">http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/cassini1_wide-2ce9059500dc3fb3f07e3a94554d402e41251fbf-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
