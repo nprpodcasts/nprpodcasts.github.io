@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 17:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 02 May 2017 23:00:19 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 17:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</guid>
+      <title>Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</link>
+      <description>May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s800-c15.jpg"></a>
+
+May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative">http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/02/526605120/microscopic-cars-square-off-in-big-race</guid>
       <title>Microscopic Cars Square Off In Big Race</title>
@@ -243,21 +258,6 @@ April 27, 2017 - The spacecraft is "showing us new wonders and demonstrating whe
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn">http://www.npr.org/sections/thetwo-way/2017/04/27/525855868/cassini-craft-beams-closest-images-ever-taken-of-saturn</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/cassini1_wide-2ce9059500dc3fb3f07e3a94554d402e41251fbf-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_the_north_korean_electromagnetic_pulse_threat_or_lack_thereof.mp3?orgId=1&amp;topicId=1007&amp;d=146&amp;p=3&amp;story=525833275&amp;t=progseg&amp;e=525832200&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The North Korean Electromagnetic Pulse Threat, Or Lack Thereof</title>
-      <link>http://www.npr.org/2017/04/27/525833275/the-north-korean-electromagnetic-pulse-threat-or-lack-thereof</link>
-      <description>April 27, 2017 - Can a nuclear weapon in space fired by North Korea knock off much of the world&#39;s electricity? Jeffrey Lewis, of the Middlebury Institute of International Studies, says not really.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_the_north_korean_electromagnetic_pulse_threat_or_lack_thereof.mp3?orgId=1&amp;topicId=1007&amp;d=146&amp;p=3&amp;story=525833275&amp;t=progseg&amp;e=525832200&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - Can a nuclear weapon in space fired by North Korea knock off much of the world's electricity? Jeffrey Lewis, of the Middlebury Institute of International Studies, says not really.
-
-<a href="http://www.npr.org/2017/04/27/525833275/the-north-korean-electromagnetic-pulse-threat-or-lack-thereof">http://www.npr.org/2017/04/27/525833275/the-north-korean-electromagnetic-pulse-threat-or-lack-thereof</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>146</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

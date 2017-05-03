@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2017 05:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 17:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 03 May 2017 05:00:08 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 17:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,8 +24,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</guid>
+      <title>Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</link>
+      <description>May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s800-c15.jpg"></a>
+
+May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative">http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_porn_star_plays_new_role_as_advocate_for_industry.mp3?orgId=1&amp;topicId=1022&amp;d=306&amp;p=2&amp;story=526038437&amp;t=progseg&amp;e=526255643&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Porn Star Plays New Role As Advocate For Industry</title>
+      <title>Porn Star Plays New Role As Advocate For Industry Workers</title>
       <link>http://www.npr.org/2017/04/30/526038437/porn-star-plays-new-role-as-advocate-for-industry</link>
       <description>May 3, 2017 - This week on &#39;Brave New Workers&#39;: After 20 years working as a performer in the adult entertainment industry, Alana Evans is putting her efforts into organizing for the Adult Performers Actors Guild.</description>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
@@ -237,23 +252,6 @@ May 1, 2017 - Researchers do not know what causes people with the condition now 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome">http://www.npr.org/sections/health-shots/2017/05/01/526372209/nih-study-aims-to-unravel-the-illness-known-as-chronic-fatigue-syndrome</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/brian-vastag-1_wide-d40f6a4df8e2415edd2df2fbd2bc7afb0c25135e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_celebrity_chef_tom_colicchio_we_can_end_hunger_in_this_country.mp3?orgId=1&amp;topicId=1053&amp;d=165&amp;p=3&amp;story=526048187&amp;t=progseg&amp;e=526349002&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Celebrity Chef Tom Colicchio: &#39;We Can End Hunger In This Country&#39;</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</link>
-      <description>May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of our nation&#39;s problems are related to food. One of the biggest ways to address this is to make meals more nutritious and accessible.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_celebrity_chef_tom_colicchio_we_can_end_hunger_in_this_country.mp3?orgId=1&amp;topicId=1053&amp;d=165&amp;p=3&amp;story=526048187&amp;t=progseg&amp;e=526349002&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-8f8048eb530b7f59242bb9dbf12eebaa341c9bf5-s800-c15.jpg"></a>
-
-May 1, 2017 - The Top Chef judge, restaurateur and hunger advocate says many of our nation's problems are related to food. One of the biggest ways to address this is to make meals more nutritious and accessible.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country">http://www.npr.org/sections/thesalt/2017/05/01/526048187/celebrity-chef-tom-colicchio-we-can-end-hunger-in-this-country</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-674161168_wide-8f8048eb530b7f59242bb9dbf12eebaa341c9bf5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>165</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

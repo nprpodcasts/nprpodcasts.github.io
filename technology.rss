@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2017 05:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 17:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 03 May 2017 05:00:05 +0000</pubDate>
+    <pubDate>Wed, 03 May 2017 17:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content</guid>
+      <title>Facebook Plans To Add 3,000 Workers To Monitor, Remove Violent Content</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content</link>
+      <description>May 3, 2017 - &#34;If we&#39;re going to build a safe community, we need to respond quickly,&#34; Mark Zuckerberg wrote Wednesday. The hiring spree comes amid a spate of violent videos uploaded to the site by users.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/03/gettyimages-512015968_wide-64aadd2e26f26484b73870550e5535fd02635f96-s800-c15.jpg"></a>
+
+May 3, 2017 - "If we're going to build a safe community, we need to respond quickly," Mark Zuckerberg wrote Wednesday. The hiring spree comes amid a spate of violent videos uploaded to the site by users.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content">http://www.npr.org/sections/thetwo-way/2017/05/03/526727711/facebook-plans-to-add-3-000-workers-to-monitor-remove-violent-content</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/gettyimages-512015968_wide-64aadd2e26f26484b73870550e5535fd02635f96-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170503_me_visa_workaround.mp3?orgId=329&amp;topicId=1019&amp;d=277&amp;p=3&amp;story=526549402&amp;t=progseg&amp;e=526673255&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>Without A Special Visa, Foreign Startup Founders Turn To A Workaround</title>
@@ -245,21 +260,6 @@ April 27, 2017 - Instead of buying expensive things, people now use busyness to 
 <a href="http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules">http://www.npr.org/2017/04/27/525833226/instead-of-showing-off-wealth-some-show-off-busy-schedules</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-88584035_wide-deabd9185a3c15f5fca56998c7f022114ed951bb-s3000-c15.jpg"></itunes:image>
       <itunes:duration>203</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_analyzing_trumps_patterns_of_tweeting.mp3?orgId=1&amp;topicId=1014&amp;d=174&amp;p=3&amp;story=525833198&amp;t=progseg&amp;e=525832200&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Analyzing Trump&#39;s Patterns Of Tweeting</title>
-      <link>http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting</link>
-      <description>April 27, 2017 - President Trump is ubiquitous on Twitter. And as we get close to 100 days, we&#39;ve learned about patterns, including what time of day he usually tweets and how often he makes negative statements.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_analyzing_trumps_patterns_of_tweeting.mp3?orgId=1&amp;topicId=1014&amp;d=174&amp;p=3&amp;story=525833198&amp;t=progseg&amp;e=525832200&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - President Trump is ubiquitous on Twitter. And as we get close to 100 days, we've learned about patterns, including what time of day he usually tweets and how often he makes negative statements.
-
-<a href="http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting">http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>174</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
