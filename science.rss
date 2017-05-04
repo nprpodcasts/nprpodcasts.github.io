@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 22:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 23:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 22:00:31 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 23:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</guid>
+      <title>Denmark Now Has A Wild Wolf Pack Again — For The First Time In 200 Years</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</link>
+      <description>May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female has migrated more than 340 miles from Germany to join a small group of wolves in the Jutland peninsula.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/16-nov-2016---foto-2-af-3-foto-anonym-via-thomas-boesdal_wide-0195a113eae6be5b8445db8018fad2452bd6c9e4-s800-c15.jpg"></a>
+
+May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female has migrated more than 340 miles from Germany to join a small group of wolves in the Jutland peninsula.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years">http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/16-nov-2016---foto-2-af-3-foto-anonym-via-thomas-boesdal_wide-0195a113eae6be5b8445db8018fad2452bd6c9e4-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</guid>
       <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
@@ -241,23 +256,6 @@ May 1, 2017 - People with heart disease should keep their weight down, but it ca
 <a href="http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter">http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>313</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_alaska_guessing_game_provides_climate_change_record.mp3?orgId=196&amp;topicId=1025&amp;d=194&amp;p=10&amp;story=526021209&amp;t=progseg&amp;e=526250654&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Alaska Guessing Game Provides Climate Change Record</title>
-      <link>http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</link>
-      <description>April 30, 2017 - Months behind the rest of the country, spring is advancing across Alaska. And a contest that has residents guess the date of river ice breakup is showing a trend toward earlier and earlier melt.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_alaska_guessing_game_provides_climate_change_record.mp3?orgId=196&amp;topicId=1025&amp;d=194&amp;p=10&amp;story=526021209&amp;t=progseg&amp;e=526250654&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/28/icedrillers_wide-9822d6c8a58b91bb601fd4db25db34ef5f922fb5-s800-c15.jpg"></a>
-
-April 30, 2017 - Months behind the rest of the country, spring is advancing across Alaska. And a contest that has residents guess the date of river ice breakup is showing a trend toward earlier and earlier melt.
-
-<a href="http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record">http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/icedrillers_wide-9822d6c8a58b91bb601fd4db25db34ef5f922fb5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>194</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

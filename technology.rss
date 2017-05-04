@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 22:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 23:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 22:00:30 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 23:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_google_doc_users_hit_by_massive_email_phishing_scam.mp3?orgId=1&amp;topicId=1019&amp;d=163&amp;p=2&amp;story=526931972&amp;t=progseg&amp;e=526842842&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Doc Users Hit By Massive Email Phishing Scam</title>
       <link>http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</link>
       <description>May 4, 2017 - A new phishing scam comes in the form of a Google doc link from what looks like a known source. An IT professional explains.&#xA;&#xA; - http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</description>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_google_doc_users_hit_by_massive_email_phishing_scam.mp3?orgId=1&amp;topicId=1019&amp;d=163&amp;p=2&amp;story=526931972&amp;t=progseg&amp;e=526842842&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 4, 2017 - A new phishing scam comes in the form of a Google doc link from what looks like a known source. An IT professional explains.
 
 <a href="http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam">http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>163</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
