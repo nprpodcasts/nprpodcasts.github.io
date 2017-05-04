@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 11:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 13:00:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 11:00:08 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 13:00:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526830849/san-bernardino-victims-families-accuse-tech-giants-of-enabling-isis</guid>
+      <title>San Bernardino Victims&#39; Families Accuse Tech Giants Of Enabling ISIS </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526830849/san-bernardino-victims-families-accuse-tech-giants-of-enabling-isis</link>
+      <description>May 4, 2017 - Facebook, Google and Twitter have been accused in a new lawsuit of aiding terrorism. The suit was filed by family members of three of the victims in the 2015 San Bernardino terrorist attack.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/04/ap_16337740122487_wide-73e082e22484150975b66fe996713af04afaddd3-s800-c15.jpg"></a>
+
+May 4, 2017 - Facebook, Google and Twitter have been accused in a new lawsuit of aiding terrorism. The suit was filed by family members of three of the victims in the 2015 San Bernardino terrorist attack.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526830849/san-bernardino-victims-families-accuse-tech-giants-of-enabling-isis">http://www.npr.org/sections/thetwo-way/2017/05/04/526830849/san-bernardino-victims-families-accuse-tech-giants-of-enabling-isis</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/ap_16337740122487_wide-73e082e22484150975b66fe996713af04afaddd3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170504_me_morning_news_brief_gop_health_care_plan_trump_eases_restrictions_on_religious_groups.mp3?orgId=1&amp;topicId=1014&amp;d=622&amp;p=3&amp;story=526833437&amp;t=progseg&amp;e=526833431&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Morning News Brief: GOP Health Care Plan, Trump Eases Religious Group Restrictions</title>
@@ -239,23 +254,6 @@ April 27, 2017 - The company can speed up delivery of high-bandwidth content lik
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba">http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-618158754_wide-70fff245ac706a6f4b9a9abb03a0db90b459cf51-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Hunt Hard Evidence On How Cop Cameras Affect Behavior</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</link>
-      <description>April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_scientists_hunt_hard_evidence_on_how_cop_cameras_affect_behavior.mp3?orgId=1&amp;topicId=1007&amp;d=306&amp;p=2&amp;story=525081998&amp;t=progseg&amp;e=525848511&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s800-c15.jpg"></a>
-
-April 27, 2017 - Police departments in about 95 percent of cities nationally have put wearable cameras on officers, or soon plan to. But do these body cameras make neighborhoods safer? Scientists want to find out.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior">http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-456026872_wide-d2fa37b4fd20407d05ffa447e3a65616390387b3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>306</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
