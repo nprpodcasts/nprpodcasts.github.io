@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 16:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 15:00:20 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 16:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/04/526866090/house-set-to-vote-on-gop-health-care-bill</guid>
+      <title>House Set To Vote On GOP Health Care Bill</title>
+      <link>http://www.npr.org/2017/05/04/526866090/house-set-to-vote-on-gop-health-care-bill</link>
+      <description>May 4, 2017 - GOP leaders are optimistic their bill will pass, but the vote is expected to be close.&#xA;&#xA; - http://www.npr.org/2017/05/04/526866090/house-set-to-vote-on-gop-health-care-bill</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/ap_17123554644915walden_wide-88a00fa875ea26bb3a7144481f7b451c6da305d9-s800-c15.jpg"></a>
+
+May 4, 2017 - GOP leaders are optimistic their bill will pass, but the vote is expected to be close.
+
+<a href="http://www.npr.org/2017/05/04/526866090/house-set-to-vote-on-gop-health-care-bill">http://www.npr.org/2017/05/04/526866090/house-set-to-vote-on-gop-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/ap_17123554644915walden_wide-88a00fa875ea26bb3a7144481f7b451c6da305d9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team</guid>
+      <title>To Bring Down Stubbornly High Blood Pressure, It Helps To Have A Team</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team</link>
+      <description>May 4, 2017 - A quick prescription and annual lecture from a doctor often aren&#39;t enough to help people control hypertension. So some clinics now mobilize teams of health pros to motivate and support patients.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/rigby-1_wide-13b190853acc3c1d8a3d64e39dac2b557936cc0d-s800-c15.jpg"></a>
+
+May 4, 2017 - A quick prescription and annual lecture from a doctor often aren't enough to help people control hypertension. So some clinics now mobilize teams of health pros to motivate and support patients.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team">http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/rigby-1_wide-13b190853acc3c1d8a3d64e39dac2b557936cc0d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/04/526854352/gop-expected-to-pass-its-health-care-bill-at-long-last-but-still-a-long-way-to-g</guid>
       <title>GOP Expected To Pass Its Health Care Bill At Long Last, But Still A Long Way To Go</title>
@@ -222,38 +252,6 @@ May 2, 2017 - The Trump administration says it wants to remove burdensome regula
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch">http://www.npr.org/sections/thesalt/2017/05/02/526448646/trump-administration-rolls-back-obama-era-rules-on-calorie-counts-school-lunch</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/ap-1_wide-3be7bd53ae37eac0bd1655caa787cd129364a60d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</guid>
-      <title>A Child&#39;s Suffering Drives A Mother To Seek Untested Treatments</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</link>
-      <description>May 2, 2017 - When medication wasn&#39;t relieving her 3-year-old son&#39;s juvenile arthritis, Susannah Meadows started investigating non-medical treatments like diet and supplements.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/alternative-treatment_wide-f1bde07d808b62480e6de9d57063e36aee7faebb-s800-c15.jpg"></a>
-
-May 2, 2017 - When medication wasn't relieving her 3-year-old son's juvenile arthritis, Susannah Meadows started investigating non-medical treatments like diet and supplements.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments">http://www.npr.org/sections/health-shots/2017/05/02/526436381/a-childs-suffering-drives-a-mother-to-seek-untested-treatments</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/alternative-treatment_wide-f1bde07d808b62480e6de9d57063e36aee7faebb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170502_atc_death_rate_among_black_americans_declines_especially_for_elderly_people.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=526433607&amp;t=progseg&amp;e=526527076&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Death Rate Among Black Americans Declines, Especially For Elderly People</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</link>
-      <description>May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent over 17 years and was especially dramatic for those 65 and older. But young black people are still dying earlier than white Americans.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170502_atc_death_rate_among_black_americans_declines_especially_for_elderly_people.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=526433607&amp;t=progseg&amp;e=526527076&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s800-c15.jpg"></a>
-
-May 2, 2017 - The CDC says the death rate for black Americans fell 25 percent over 17 years and was especially dramatic for those 65 and older. But young black people are still dying earlier than white Americans.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people">http://www.npr.org/sections/health-shots/2017/05/02/526433607/death-rate-among-black-americans-declines-especially-for-elderly-people</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/population-death-rates_wide-bf4eac04b406aa1fd8b34a70bd7f12f88019805d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
