@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 02:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 06:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 02:00:10 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 06:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</guid>
+      <title>The Daredevils Without Landlines — And Why Health Experts Are Tracking Them</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</link>
+      <description>May 4, 2017 - It&#39;s official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s800-c15.jpg"></a>
+
+May 4, 2017 - It's official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them">http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_house_republicans_vote_on_health_care_thursday.mp3?orgId=1&amp;topicId=1014&amp;d=236&amp;p=2&amp;story=526810299&amp;t=progseg&amp;e=526673258&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
       <title>House Republican Leaders Plan Vote On Revised Health Care Bill</title>
@@ -237,23 +252,6 @@ May 2, 2017 - This year's "State of Black America" report took the unusual step 
 
 <a href="http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report">http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/black-male-teachers_wide-fcce0e198779cad13df5013813ca048c9ccfe650-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Veterans At Risk Of Suicide Negotiate A Thorny Relationship With Guns</title>
-      <link>http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</link>
-      <description>May 2, 2017 - Researchers say putting guns out of reach reduces the chances that suicidal veterans could take their own lives, but changing the law is a controversial idea.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_veterans_advocates_hope_to_prevent_suicide_by_limiting_access_to_guns.mp3?orgId=1&amp;topicId=1003&amp;d=272&amp;story=526421055&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-34458ab6ffda43ec374856ed900f7076b8a0368d-s800-c15.jpg"></a>
-
-May 2, 2017 - Researchers say putting guns out of reach reduces the chances that suicidal veterans could take their own lives, but changing the law is a controversial idea.
-
-<a href="http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns">http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-34458ab6ffda43ec374856ed900f7076b8a0368d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>272</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

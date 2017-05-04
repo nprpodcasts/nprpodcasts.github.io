@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 01:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 06:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 01:00:16 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 06:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</guid>
+      <title>The Daredevils Without Landlines — And Why Health Experts Are Tracking Them</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</link>
+      <description>May 4, 2017 - It&#39;s official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s800-c15.jpg"></a>
+
+May 4, 2017 - It's official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them">http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/03/526785635/did-you-get-a-weird-invitation-to-edit-a-google-doc-its-best-not-to-click</guid>
       <title>Did You Get A Weird Invitation To Edit A Google Doc? It&#39;s Best Not To Click</title>
@@ -243,21 +258,6 @@ April 27, 2017 - Police may soon have technology to tell if a driver involved in
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/27/525729013/textalyzer-aims-to-curb-distracted-driving-but-what-about-privacy">http://www.npr.org/sections/alltechconsidered/2017/04/27/525729013/textalyzer-aims-to-curb-distracted-driving-but-what-about-privacy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/26/gettyimages-526624124_wide-787d0d3f631d58ff929e64fcc7308c734c83a0b5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>215</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_morning_news_brief_shutdown_unlikely_the_north_korean_border_textalyzer.mp3?orgId=1&amp;topicId=1014&amp;d=623&amp;p=3&amp;story=525833191&amp;t=progseg&amp;e=525832200&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Morning News Brief: Trump&#39;s NAFTA Reversal, The North Korean Border, &#39;Textalyzer&#39;</title>
-      <link>http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer</link>
-      <description>April 27, 2017 - President Trump has reversed course and says he won&#39;t withdraw from NAFTA. Also, a view into North Korea from the Chinese border and a proposed software to curb texting while driving.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170427_me_morning_news_brief_shutdown_unlikely_the_north_korean_border_textalyzer.mp3?orgId=1&amp;topicId=1014&amp;d=623&amp;p=3&amp;story=525833191&amp;t=progseg&amp;e=525832200&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - President Trump has reversed course and says he won't withdraw from NAFTA. Also, a view into North Korea from the Chinese border and a proposed software to curb texting while driving.
-
-<a href="http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer">http://www.npr.org/2017/04/27/525833191/morning-news-brief-trumps-nafta-reversal-the-north-korean-border-textalyzer</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>623</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
