@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 06:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 10:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 06:00:26 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 10:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526782407/spit-test-may-reveal-the-severity-of-a-child-s-concussion</guid>
+      <title>Spit Test May Reveal The Severity Of A Child&#39;s Concussion</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/04/526782407/spit-test-may-reveal-the-severity-of-a-child-s-concussion</link>
+      <description>May 4, 2017 - By measuring fragments of genetic material in saliva, scientists were able to accurately predict whether a young person&#39;s concussion symptoms would last days or weeks.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/header-2_wide-f805f42bd8529dee19c5be76826ed254b8f5c83f-s800-c15.jpg"></a>
+
+May 4, 2017 - By measuring fragments of genetic material in saliva, scientists were able to accurately predict whether a young person's concussion symptoms would last days or weeks.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/04/526782407/spit-test-may-reveal-the-severity-of-a-child-s-concussion">http://www.npr.org/sections/health-shots/2017/05/04/526782407/spit-test-may-reveal-the-severity-of-a-child-s-concussion</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/header-2_wide-f805f42bd8529dee19c5be76826ed254b8f5c83f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</guid>
       <title>The Daredevils Without Landlines — And Why Health Experts Are Tracking Them</title>
@@ -237,21 +252,6 @@ May 2, 2017 - Doctors were more likely to choose generic drugs over pricier bran
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay">http://www.npr.org/sections/health-shots/2017/05/02/526558565/doctors-prescribe-more-generics-when-drug-reps-are-kept-at-bay</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/prescriptions_wide-8eb619a10aeb5c5b57d1d5c0a6889558e157546d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</guid>
-      <title>The Fine Print In The &#39;State Of Black America&#39; Report</title>
-      <link>http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</link>
-      <description>May 2, 2017 - This year&#39;s &#34;State of Black America&#34; report took the unusual step of warning that the organization now has a new priority: protecting areas of progress from retrenchment during the next few years.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/black-male-teachers_wide-fcce0e198779cad13df5013813ca048c9ccfe650-s800-c15.jpg"></a>
-
-May 2, 2017 - This year's "State of Black America" report took the unusual step of warning that the organization now has a new priority: protecting areas of progress from retrenchment during the next few years.
-
-<a href="http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report">http://www.npr.org/sections/codeswitch/2017/05/02/499244087/the-fine-print-in-the-state-of-black-america-report</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/black-male-teachers_wide-fcce0e198779cad13df5013813ca048c9ccfe650-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
