@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 15:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 22:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 15:00:18 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 22:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,51 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</guid>
+      <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</link>
+      <description>May 4, 2017 - Just three &#34;no&#34; votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s800-c15.jpg"></a>
+
+May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch">http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_citizen_scientist_challenges_math_behind_red_light_camera_tickets.mp3?orgId=1&amp;topicId=1007&amp;d=216&amp;p=2&amp;story=526931921&amp;t=progseg&amp;e=526842842&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Citizen Scientist Challenges Math Behind Red Light Camera Tickets</title>
+      <link>http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets</link>
+      <description>May 4, 2017 - A man in Oregon is challenging the math behind red light camera tickets. Mats Järlström calculates that drivers who end up in an intersection when the light goes yellow can be trapped in a no-win dilemma, particularly if they are making a turn. NPR&#39;s Kelly McEvers talks to Aarian Marshall, who wrote about the case for Wired magazine.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_citizen_scientist_challenges_math_behind_red_light_camera_tickets.mp3?orgId=1&amp;topicId=1007&amp;d=216&amp;p=2&amp;story=526931921&amp;t=progseg&amp;e=526842842&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 4, 2017 - A man in Oregon is challenging the math behind red light camera tickets. Mats Järlström calculates that drivers who end up in an intersection when the light goes yellow can be trapped in a no-win dilemma, particularly if they are making a turn. NPR's Kelly McEvers talks to Aarian Marshall, who wrote about the case for Wired magazine.
+
+<a href="http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets">http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>216</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise</guid>
+      <title>America&#39;s Protected Natural Areas Are Polluted, By Noise</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise</link>
+      <description>May 4, 2017 - A new survey shows that the sound of cars and planes and other forms of noise pollution are rampant across the American wilderness. In many cases, man-made noise is drowning out the background sounds.</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/zion-1_wide-cf4dd7593c505e82ab78e47e051cebf1fc069a59-s800-c15.jpg"></a>
+
+May 4, 2017 - A new survey shows that the sound of cars and planes and other forms of noise pollution are rampant across the American wilderness. In many cases, man-made noise is drowning out the background sounds.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise">http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/zion-1_wide-cf4dd7593c505e82ab78e47e051cebf1fc069a59-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team</guid>
       <title>To Bring Down Stubbornly High Blood Pressure, It Helps To Have A Team</title>
@@ -213,51 +258,6 @@ April 30, 2017 - Months behind the rest of the country, spring is advancing acro
 <a href="http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record">http://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/icedrillers_wide-9822d6c8a58b91bb601fd4db25db34ef5f922fb5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>194</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</guid>
-      <title>Being A Guinea Pig For Science Can Be A Long, Slow Slog</title>
-      <link>http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</link>
-      <description>April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won&#39;t answer that question.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s800-c15.jpg"></a>
-
-April 30, 2017 - Brandie Jefferson volunteered for a clinical trial to see if intermittent fasting can help treat multiple sclerosis. Five months in, she realizes that this study won't answer that question.
-
-<a href="http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog">http://www.npr.org/sections/health-shots/2017/04/30/526047449/being-a-guinea-pig-for-science-can-be-a-long-slow-slog</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/fasting-food-1_wide-2570358ec36300e7a375e000d26483e998179139-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/29/526179637/thousands-of-marchers-expected-to-take-on-trumps-climate-policies</guid>
-      <title>Marchers Unite To Take On Trump&#39;s Climate Policies</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/29/526179637/thousands-of-marchers-expected-to-take-on-trumps-climate-policies</link>
-      <description>April 29, 2017 - On the symbolic 100th day in office for President Trump, who has denied climate change, protesters are rallying in front of the White House to call for better environmental protections.</description>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/29/img_1782-copy_wide-655884d06dc5cc51e88abf3186b572925f4a6255-s800-c15.jpg"></a>
-
-April 29, 2017 - On the symbolic 100th day in office for President Trump, who has denied climate change, protesters are rallying in front of the White House to call for better environmental protections.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/29/526179637/thousands-of-marchers-expected-to-take-on-trumps-climate-policies">http://www.npr.org/sections/thetwo-way/2017/04/29/526179637/thousands-of-marchers-expected-to-take-on-trumps-climate-policies</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/29/img_1782-copy_wide-655884d06dc5cc51e88abf3186b572925f4a6255-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_florida_battles_with_tricky_removal_of_costly_muck_in_indian_river_lagoon.mp3?orgId=1&amp;topicId=1003&amp;d=223&amp;p=2&amp;story=525918318&amp;t=progseg&amp;e=525848511&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Florida Battles With Tricky Removal Of Costly Muck In Indian River Lagoon</title>
-      <link>http://www.npr.org/2017/04/27/525918318/florida-battles-with-tricky-removal-of-costly-muck-in-indian-river-lagoon</link>
-      <description>April 27, 2017 - In Florida, an effort is underway to remove more than million cubic feet of muck sullying the Indian River Lagoon, considered North America&#39;s most biologically diverse estuary. It&#39;s a mess.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170427_atc_florida_battles_with_tricky_removal_of_costly_muck_in_indian_river_lagoon.mp3?orgId=1&amp;topicId=1003&amp;d=223&amp;p=2&amp;story=525918318&amp;t=progseg&amp;e=525848511&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 27, 2017 - In Florida, an effort is underway to remove more than million cubic feet of muck sullying the Indian River Lagoon, considered North America's most biologically diverse estuary. It's a mess.
-
-<a href="http://www.npr.org/2017/04/27/525918318/florida-battles-with-tricky-removal-of-costly-muck-in-indian-river-lagoon">http://www.npr.org/2017/04/27/525918318/florida-battles-with-tricky-removal-of-costly-muck-in-indian-river-lagoon</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

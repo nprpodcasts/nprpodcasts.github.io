@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 13:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 22:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 13:00:51 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 22:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</guid>
+      <title>Google Doc Users Hit By Massive Email Phishing Scam</title>
+      <link>http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</link>
+      <description>May 4, 2017 - A new phishing scam comes in the form of a Google doc link from what looks like a known source. An IT professional explains.&#xA;&#xA; - http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 4, 2017 - A new phishing scam comes in the form of a Google doc link from what looks like a known source. An IT professional explains.
+
+<a href="http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam">http://www.npr.org/2017/05/04/526931972/google-doc-users-hit-by-massive-email-phishing-scam</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526893839/eu-drops-its-antitrust-probe-over-amazon-e-book-contracts</guid>
+      <title>EU Drops Its Antitrust Probe Over Amazon E-Book Contracts</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526893839/eu-drops-its-antitrust-probe-over-amazon-e-book-contracts</link>
+      <description>May 4, 2017 - The European Union&#39;s executive arm closed the investigation after accepting Amazon&#39;s promise to strip its publisher contracts of clauses that the commission feared were &#34;harmful to consumers.&#34;</description>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/04/gettyimages-492770814_wide-5955c5edfb023a390c95763cdc3ccc1e237946c3-s800-c15.jpg"></a>
+
+May 4, 2017 - The European Union's executive arm closed the investigation after accepting Amazon's promise to strip its publisher contracts of clauses that the commission feared were "harmful to consumers."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526893839/eu-drops-its-antitrust-probe-over-amazon-e-book-contracts">http://www.npr.org/sections/thetwo-way/2017/05/04/526893839/eu-drops-its-antitrust-probe-over-amazon-e-book-contracts</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/gettyimages-492770814_wide-5955c5edfb023a390c95763cdc3ccc1e237946c3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526830849/san-bernardino-victims-families-accuse-tech-giants-of-enabling-isis</guid>
       <title>San Bernardino Victims&#39; Families Accuse Tech Giants Of Enabling ISIS </title>
@@ -57,12 +85,12 @@ May 4, 2017 - Facebook, Google and Twitter have been accused in a new lawsuit of
       <guid>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</guid>
       <title>The Daredevils Without Landlines — And Why Health Experts Are Tracking Them</title>
       <link>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</link>
-      <description>May 4, 2017 - It&#39;s official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.</description>
+      <description>May 4, 2017 - It&#39;s official: A majority of U.S. homes only have mobile phones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.</description>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s800-c15.jpg"></a>
 
-May 4, 2017 - It's official: A majority of U.S. homes only have mobile telephones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.
+May 4, 2017 - It's official: A majority of U.S. homes only have mobile phones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.
 
 <a href="http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them">http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s3000-c15.jpg"></itunes:image>
@@ -224,36 +252,6 @@ April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopia
 <a href="http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves">http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>329</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170428_me_survery_says_workers_are_leaving_tech_jobs_because_of_mistreatment.mp3?orgId=1&amp;topicId=1019&amp;d=116&amp;p=3&amp;story=525992223&amp;t=progseg&amp;e=525991691&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Survey Says Workers Are Leaving Tech Jobs Because Of Mistreatment</title>
-      <link>http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment</link>
-      <description>April 28, 2017 - The tech industry is getting hit hard by turnover among workers who believe they&#39;ve been treated unfairly. It&#39;s most acute among underrepresented workers, including women and minorities.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/04/20170428_me_survery_says_workers_are_leaving_tech_jobs_because_of_mistreatment.mp3?orgId=1&amp;topicId=1019&amp;d=116&amp;p=3&amp;story=525992223&amp;t=progseg&amp;e=525991691&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 28, 2017 - The tech industry is getting hit hard by turnover among workers who believe they've been treated unfairly. It's most acute among underrepresented workers, including women and minorities.
-
-<a href="http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment">http://www.npr.org/2017/04/28/525992223/survery-says-workers-are-leaving-tech-jobs-because-of-mistreatment</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>116</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</guid>
-      <title>Google Spins Up Its First Servers In Cuba</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</link>
-      <description>April 27, 2017 - The company can speed up delivery of high-bandwidth content like YouTube videos because the servers will now store data locally. But accessing the Internet in Cuba remains difficult and expensive.</description>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/gettyimages-618158754_wide-70fff245ac706a6f4b9a9abb03a0db90b459cf51-s800-c15.jpg"></a>
-
-April 27, 2017 - The company can speed up delivery of high-bandwidth content like YouTube videos because the servers will now store data locally. But accessing the Internet in Cuba remains difficult and expensive.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba">http://www.npr.org/sections/thetwo-way/2017/04/27/525896190/google-spins-up-its-first-servers-in-cuba</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/gettyimages-618158754_wide-70fff245ac706a6f4b9a9abb03a0db90b459cf51-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
