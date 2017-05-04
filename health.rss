@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2017 22:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 00:00:42 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 03 May 2017 22:00:42 +0000</pubDate>
+    <pubDate>Thu, 04 May 2017 00:00:42 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</guid>
-      <title>Is The GOP Health Bill Morphing Into Yet Another Big Federal Program?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</link>
-      <description>May 3, 2017 - The proposals to create federal high risk-pools will create another big group of people whose health care costs are paid for by the federal government.</description>
+      <guid>http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</guid>
+      <title>House Republican Leaders Plan Vote On Revised Health Care Bill</title>
+      <link>http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</link>
+      <description>May 3, 2017 - House Republican leaders are planning a vote on the American Health Care Act on Thursday. The bill has been revised to provide options for states to opt out of some key Obamacare requirements.</description>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/upton-1_wide-69df0a4b45869f1c6b2c2d24343b7d3acd7fcfa6-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[May 3, 2017 - House Republican leaders are planning a vote on the American Health Care Act on Thursday. The bill has been revised to provide options for states to opt out of some key Obamacare requirements.
 
-May 3, 2017 - The proposals to create federal high risk-pools will create another big group of people whose health care costs are paid for by the federal government.
+<a href="http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill">http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</guid>
+      <title>House To Vote On GOP Health Care Bill Thursday With Leadership Sure Of Support</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</link>
+      <description>May 3, 2017 - After a series of changes, including one to create federal high-risk pools, the Republicans&#39; health care plan is headed back to the House floor for a vote. The majority leader says it will pass.</description>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/gettyimages-678044678_wide-28425e3d278c9b68c7424b1adae812b9ffbff930-s800-c15.jpg"></a>
+
+May 3, 2017 - After a series of changes, including one to create federal high-risk pools, the Republicans' health care plan is headed back to the House floor for a vote. The majority leader says it will pass.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program">http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/upton-1_wide-69df0a4b45869f1c6b2c2d24343b7d3acd7fcfa6-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/gettyimages-678044678_wide-28425e3d278c9b68c7424b1adae812b9ffbff930-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +252,6 @@ May 2, 2017 - Researchers say putting guns out of reach reduces the chances that
 <a href="http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns">http://www.npr.org/2017/05/02/526421055/veterans-at-risk-of-suicide-negotiate-a-thorny-relationship-with-guns</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/istock-163824583_wide-34458ab6ffda43ec374856ed900f7076b8a0368d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>272</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</guid>
-      <title>A New Generation Overthrows Gender</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</link>
-      <description>May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don&#39;t fit into familiar gender categories.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s800-c15.jpg"></a>
-
-May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don't fit into familiar gender categories.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender">http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
