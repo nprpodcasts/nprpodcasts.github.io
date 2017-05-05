@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 02:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 10:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 02:00:15 +0000</pubDate>
+    <pubDate>Fri, 05 May 2017 10:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</guid>
+      <title>Health Care Vote Could Threaten Republican House Majority</title>
+      <link>http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</link>
+      <description>May 5, 2017 - Some of the most vulnerable House Republicans voted in favor of the GOP health care plan — and Democrats are already trying to use it against them as they anticipate the 2018 midterm elections.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/gettyimages-678632196_wide-6f9029050c72c60736d37db265c11780160c9df1-s800-c15.jpg"></a>
+
+May 5, 2017 - Some of the most vulnerable House Republicans voted in favor of the GOP health care plan — and Democrats are already trying to use it against them as they anticipate the 2018 midterm elections.
+
+<a href="http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority">http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/gettyimages-678632196_wide-6f9029050c72c60736d37db265c11780160c9df1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</guid>
+      <title>Measuring Drug Impairment In Drivers Is Easier Said Than Done</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</link>
+      <description>May 5, 2017 - A report on the potential influence of alcohol or drug impairment on traffic fatalities points to the difficulty of comparing alcohol impairment standards to other drugs.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/pills-driving_wide-60e86822af9a8f1b088c57eeeda1282bdb0bf023-s800-c15.jpg"></a>
+
+May 5, 2017 - A report on the potential influence of alcohol or drug impairment on traffic fatalities points to the difficulty of comparing alcohol impairment standards to other drugs.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done">http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/pills-driving_wide-60e86822af9a8f1b088c57eeeda1282bdb0bf023-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</guid>
       <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
@@ -224,36 +254,6 @@ May 4, 2017 - It's official: A majority of U.S. homes only have mobile phones. B
 <a href="http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill">http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</guid>
-      <title>House To Vote On GOP Health Care Bill Thursday With Leadership Sure Of Support</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</link>
-      <description>May 3, 2017 - After a series of changes, including one to create federal high-risk pools, the Republicans&#39; health care plan is headed back to the House floor for a vote. The majority leader says it will pass.</description>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/gettyimages-678044678_wide-28425e3d278c9b68c7424b1adae812b9ffbff930-s800-c15.jpg"></a>
-
-May 3, 2017 - After a series of changes, including one to create federal high-risk pools, the Republicans' health care plan is headed back to the House floor for a vote. The majority leader says it will pass.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program">http://www.npr.org/sections/health-shots/2017/05/03/526771424/is-the-gop-health-bill-morphing-into-yet-another-big-federal-program</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/gettyimages-678044678_wide-28425e3d278c9b68c7424b1adae812b9ffbff930-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_trump_lobbies_house_republicans_to_vote_for_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=220&amp;p=2&amp;story=526779483&amp;t=progseg&amp;e=526673258&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Trump Lobbies House Republicans To Vote For Health Care Bill</title>
-      <link>http://www.npr.org/2017/05/03/526779483/trump-lobbies-house-republicans-to-vote-for-health-care-bill</link>
-      <description>May 3, 2017 - President Trump personally lobbied House Republicans on Wednesday to vote for the revised GOP plan to repeal and replace the Affordable Care Act.</description>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_trump_lobbies_house_republicans_to_vote_for_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=220&amp;p=2&amp;story=526779483&amp;t=progseg&amp;e=526673258&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 3, 2017 - President Trump personally lobbied House Republicans on Wednesday to vote for the revised GOP plan to repeal and replace the Affordable Care Act.
-
-<a href="http://www.npr.org/2017/05/03/526779483/trump-lobbies-house-republicans-to-vote-for-health-care-bill">http://www.npr.org/2017/05/03/526779483/trump-lobbies-house-republicans-to-vote-for-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

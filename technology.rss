@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2017 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 10:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 04 May 2017 23:00:16 +0000</pubDate>
+    <pubDate>Fri, 05 May 2017 10:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</guid>
+      <title>New Software Can Mimic Anyone&#39;s Voice</title>
+      <link>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</link>
+      <description>May 5, 2017 - A company in Canada has come up with away to recreate anyone&#39;s voice and get it to say almost anything. It opens up dangerous possibilities, however.&#xA;&#xA; - http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 5, 2017 - A company in Canada has come up with away to recreate anyone's voice and get it to say almost anything. It opens up dangerous possibilities, however.
+
+<a href="http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice">http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/05/526916610/fcc-chief-net-neutrality-rules-treating-internet-as-utility-stifle-growth</guid>
+      <title>FCC Chief: Net Neutrality Rules Treating Internet As Utility Stifle Growth</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/05/526916610/fcc-chief-net-neutrality-rules-treating-internet-as-utility-stifle-growth</link>
+      <description>May 5, 2017 - FCC Chairman Ajit Pai is repealing Obama-era regulations for Internet providers. He tells NPR he prefers taking targeted action against actual harms, not preemptively regulating hypothetical ones.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/04/2017-05-04-fccpai_mg_8641_wide-0b084529f0dc9e8503d6258b43e8929523b2ff67-s800-c15.jpg"></a>
+
+May 5, 2017 - FCC Chairman Ajit Pai is repealing Obama-era regulations for Internet providers. He tells NPR he prefers taking targeted action against actual harms, not preemptively regulating hypothetical ones.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/05/526916610/fcc-chief-net-neutrality-rules-treating-internet-as-utility-stifle-growth">http://www.npr.org/sections/alltechconsidered/2017/05/05/526916610/fcc-chief-net-neutrality-rules-treating-internet-as-utility-stifle-growth</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/2017-05-04-fccpai_mg_8641_wide-0b084529f0dc9e8503d6258b43e8929523b2ff67-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_google_doc_users_hit_by_massive_email_phishing_scam.mp3?orgId=1&amp;topicId=1019&amp;d=163&amp;p=2&amp;story=526931972&amp;t=progseg&amp;e=526842842&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Doc Users Hit By Massive Email Phishing Scam</title>
@@ -222,38 +250,6 @@ April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It's t
 <a href="http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump">http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>222</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</guid>
-      <title>NSA To Limit Some Collection Of Internet Communication</title>
-      <link>http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</link>
-      <description>April 28, 2017 - The agency will scale back its collection of &#34;about&#34; data, messages that are not only traveling to and from a foreign target, but those that mention one.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/ap_800084015264_wide-b0b8d7fa110b4aaa515aab6f72aaaa81bc4c2211-s800-c15.jpg"></a>
-
-April 28, 2017 - The agency will scale back its collection of "about" data, messages that are not only traveling to and from a foreign target, but those that mention one.
-
-<a href="http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication">http://www.npr.org/2017/04/28/526092530/nsa-to-limit-some-collection-of-internet-communication</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/ap_800084015264_wide-b0b8d7fa110b4aaa515aab6f72aaaa81bc4c2211-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_in_the_circle_what_we_give_up_when_we_share_ourselves_.mp3?orgId=1&amp;topicId=1019&amp;d=329&amp;p=2&amp;story=525916707&amp;t=progseg&amp;e=526373720&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In &#39;The Circle&#39;, What We Give Up When We Share Ourselves </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</link>
-      <description>April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopian view of where Silicon Valley is taking the world and captures the tech industry&#39;s failure to acknowledge the downside of its creations.</description>
-      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170501_atc_in_the_circle_what_we_give_up_when_we_share_ourselves_.mp3?orgId=1&amp;topicId=1019&amp;d=329&amp;p=2&amp;story=525916707&amp;t=progseg&amp;e=526373720&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s800-c15.jpg"></a>
-
-April 28, 2017 - The film, based on the book by Dave Eggers, presents a dystopian view of where Silicon Valley is taking the world and captures the tech industry's failure to acknowledge the downside of its creations.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves">http://www.npr.org/sections/alltechconsidered/2017/04/28/525916707/in-the-circle-what-we-give-up-when-we-share-ourselves</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-329_tc_still.00104457rcr_rgb_wide-c5f2b72234bfb2834ce858becba6043cc4c06e6d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>329</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
