@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 10:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 12:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 10:00:10 +0000</pubDate>
+    <pubDate>Fri, 05 May 2017 12:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</guid>
+      <title>Why Taste Buds Dull As We Age</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</link>
+      <description>May 5, 2017 - You&#39;re born with roughly 9,000 taste buds, and they&#39;re very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that changes as we age.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s800-c15.jpg"></a>
+
+May 5, 2017 - You're born with roughly 9,000 taste buds, and they're very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that changes as we age.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age">http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</guid>
       <title>Health Care Vote Could Threaten Republican House Majority</title>
@@ -239,21 +254,6 @@ May 4, 2017 - It's official: A majority of U.S. homes only have mobile phones. B
 
 <a href="http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them">http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_house_republicans_vote_on_health_care_thursday.mp3?orgId=1&amp;topicId=1014&amp;d=236&amp;p=2&amp;story=526810299&amp;t=progseg&amp;e=526673258&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
-      <title>House Republican Leaders Plan Vote On Revised Health Care Bill</title>
-      <link>http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</link>
-      <description>May 3, 2017 - House Republican leaders are planning a vote on the American Health Care Act on Thursday. The bill has been revised to provide options for states to opt out of some key Obamacare requirements.</description>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_house_republicans_vote_on_health_care_thursday.mp3?orgId=1&amp;topicId=1014&amp;d=236&amp;p=2&amp;story=526810299&amp;t=progseg&amp;e=526673258&amp;seg=21&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 3, 2017 - House Republican leaders are planning a vote on the American Health Care Act on Thursday. The bill has been revised to provide options for states to opt out of some key Obamacare requirements.
-
-<a href="http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill">http://www.npr.org/2017/05/03/526810299/house-republican-leaders-plan-vote-on-revised-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 11:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 12:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 11:00:10 +0000</pubDate>
+    <pubDate>Fri, 05 May 2017 12:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</guid>
+      <title>Why Taste Buds Dull As We Age</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</link>
+      <description>May 5, 2017 - You&#39;re born with roughly 9,000 taste buds, and they&#39;re very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that changes as we age.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s800-c15.jpg"></a>
+
+May 5, 2017 - You're born with roughly 9,000 taste buds, and they're very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that changes as we age.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age">http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</guid>
       <title>Denmark Now Has A Wild Wolf Pack Again — For The First Time In 200 Years</title>
@@ -243,21 +258,6 @@ May 1, 2017 - People with heart disease should keep their weight down, but it ca
 <a href="http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients">http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>131</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_cassinis_final_chapter.mp3?orgId=1&amp;topicId=1026&amp;d=313&amp;p=10&amp;story=526250837&amp;t=progseg&amp;e=526250654&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Saturn: Cassini&#39;s Final Chapter</title>
-      <link>http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</link>
-      <description>April 30, 2017 - After years, NASA&#39;s Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR&#39;s Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission&#39;s legacy.</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/04/20170430_wesun_cassinis_final_chapter.mp3?orgId=1&amp;topicId=1026&amp;d=313&amp;p=10&amp;story=526250837&amp;t=progseg&amp;e=526250654&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 30, 2017 - After years, NASA's Cassini spacecraft will soon begin its final act — a plunge into Saturn. NPR's Lulu Garcia-Navarro talks to Dr. Carolyn Porco, head of the imaging team, about the mission's legacy.
-
-<a href="http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter">http://www.npr.org/2017/04/30/526250837/saturn-cassinis-final-chapter</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>313</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
