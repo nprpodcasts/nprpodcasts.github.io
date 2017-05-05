@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 16:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 17:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 16:00:31 +0000</pubDate>
+    <pubDate>Fri, 05 May 2017 17:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</guid>
+      <title>Crayola Gives The People What They Want: A New Blue Crayon</title>
+      <link>http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</link>
+      <description>May 5, 2017 - After Crayola announced it was retiring the yellow crayon Dandelion, the company said its replacement would be blue, but would it be a true blue? No, it&#39;s actually an accidental blue.</description>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/05/yinmnbluecrayon-lablifestyle_digital_01_wide-150368297b430e761215845d0061385cdb1dd5ed-s800-c15.jpg"></a>
+
+May 5, 2017 - After Crayola announced it was retiring the yellow crayon Dandelion, the company said its replacement would be blue, but would it be a true blue? No, it's actually an accidental blue.
+
+<a href="http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon">http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/yinmnbluecrayon-lablifestyle_digital_01_wide-150368297b430e761215845d0061385cdb1dd5ed-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</guid>
       <title>Why Taste Buds Dull As We Age</title>
@@ -241,23 +256,6 @@ May 1, 2017 - About 800,000 people have strokes each year in the U.S. Most are c
 <a href="http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure">http://www.npr.org/sections/health-shots/2017/05/01/525896731/a-lazarus-patient-and-the-limits-of-a-lifesaving-stroke-procedure</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/28/kurt-hinrichs-1_wide-7b4f91758b7faea33f7d9c857f1c2f685ee99dd1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>254</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Yo-Yo Dieting May Pose Serious Risks For Heart Patients</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</link>
-      <description>May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_yo-yo_dieting_may_pose_serious_risks_for_heart_patients.mp3?orgId=1&amp;topicId=1066&amp;d=131&amp;p=3&amp;story=526048767&amp;t=progseg&amp;e=526349002&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s800-c15.jpg"></a>
-
-May 1, 2017 - People with heart disease should keep their weight down, but it can be hard to lose weight and keep it off. Now a study shows big fluctuations may increase the risk of heart attack and stroke.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients">http://www.npr.org/sections/health-shots/2017/05/01/526048767/-yo-yo-dieting-poses-serious-risks-for-heart-patients</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/gettyimages-585093403_wide-24c85d2e0cb2fe45749b40aa7be314ce553d04e4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>131</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
