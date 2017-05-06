@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 15:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 23:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 15:00:06 +0000</pubDate>
+    <pubDate>Sat, 06 May 2017 23:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170506_atc_france_election_eve.mp3?orgId=1&amp;topicId=1124&amp;d=264&amp;p=2&amp;story=527196369&amp;t=progseg&amp;e=527152996&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>On The Eve Of French Election, Hackers Release Data From Macron Campaign</title>
+      <link>http://www.npr.org/2017/05/06/527196369/on-the-eve-of-french-election-hackers-release-data-from-macron-campaign</link>
+      <description>May 6, 2017 - French voters head to the polls on Sunday in the presidential election runoff. They&#39;re choosing between two candidates with starkly different views about the future of France.</description>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170506_atc_france_election_eve.mp3?orgId=1&amp;topicId=1124&amp;d=264&amp;p=2&amp;story=527196369&amp;t=progseg&amp;e=527152996&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 6, 2017 - French voters head to the polls on Sunday in the presidential election runoff. They're choosing between two candidates with starkly different views about the future of France.
+
+<a href="http://www.npr.org/2017/05/06/527196369/on-the-eve-of-french-election-hackers-release-data-from-macron-campaign">http://www.npr.org/2017/05/06/527196369/on-the-eve-of-french-election-hackers-release-data-from-macron-campaign</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>264</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</guid>
       <title>New Software Can Mimic Anyone&#39;s Voice</title>
@@ -237,21 +252,6 @@ April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It's t
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign">http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-f93abe2b5790fec568ab00d67aac1cccab7827e0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170429_wesat_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=222&amp;p=7&amp;story=526157951&amp;t=progseg&amp;e=526157210&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Primer On The Future Of Net Neutrality Under Trump</title>
-      <link>http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</link>
-      <description>April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.&#xA;&#xA; - http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</description>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/04/20170429_wesat_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=222&amp;p=7&amp;story=526157951&amp;t=progseg&amp;e=526157210&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[April 29, 2017 - The Federal Communications Commission is taking steps to repeal regulations for Internet service providers that the FCC approved in 2015.
-
-<a href="http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump">http://www.npr.org/2017/04/29/526157951/a-primer-on-the-future-of-net-neutrality-under-trump</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
