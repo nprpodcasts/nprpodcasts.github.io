@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2017 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 21:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 06 May 2017 04:00:11 +0000</pubDate>
+    <pubDate>Sat, 06 May 2017 21:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</guid>
+      <title>As GOP Health Care Push Moves To Senate, White House Questions Value of CBO Analysis</title>
+      <link>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</link>
+      <description>May 6, 2017 - &#34;I think I know the gospel pretty well,&#34; a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, &#34;and I&#39;d say the CBO is not the gospel.&#34;</description>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 6, 2017 - "I think I know the gospel pretty well," a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, "and I'd say the CBO is not the gospel."
+
+<a href="http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy">http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170506_wesat_businesses_push_back_on_paid-sick-leave_laws.mp3?orgId=1&amp;topicId=1003&amp;d=220&amp;p=7&amp;story=527053441&amp;t=progseg&amp;e=527139899&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Businesses Push Back On Paid-Sick-Leave Laws</title>
@@ -233,21 +246,6 @@ May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough
 <a href="http://www.npr.org/2017/05/04/526931886/house-passes-revised-version-of-republican-health-care-bill">http://www.npr.org/2017/05/04/526931886/house-passes-revised-version-of-republican-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>358</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill</guid>
-      <title>Winners And Losers Under The House GOP Health Bill</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill</link>
-      <description>May 4, 2017 - The version of the American Health Care Act passed by the House eliminates taxes on corporations and wealthy people and shrinks Medicaid coverage. A chart breaks down who would be affected and how.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/congress-winners-losers_wide-0ee2e51c59778f468ecf98f39b59eeafe68db190-s800-c15.jpg"></a>
-
-May 4, 2017 - The version of the American Health Care Act passed by the House eliminates taxes on corporations and wealthy people and shrinks Medicaid coverage. A chart breaks down who would be affected and how.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/congress-winners-losers_wide-0ee2e51c59778f468ecf98f39b59eeafe68db190-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
