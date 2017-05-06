@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 23:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 04:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 05 May 2017 23:00:30 +0000</pubDate>
+    <pubDate>Sat, 06 May 2017 04:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170506_wesat_businesses_push_back_on_paid-sick-leave_laws.mp3?orgId=1&amp;topicId=1003&amp;d=220&amp;p=7&amp;story=527053441&amp;t=progseg&amp;e=527139899&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Businesses Push Back On Paid-Sick-Leave Laws</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws</link>
+      <description>May 6, 2017 - Dozens of states and cities require businesses to offer paid sick leave. But some employers are looking for ways to pre-empt those requirements, including at the federal level.</description>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170506_wesat_businesses_push_back_on_paid-sick-leave_laws.mp3?orgId=1&amp;topicId=1003&amp;d=220&amp;p=7&amp;story=527053441&amp;t=progseg&amp;e=527139899&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/ap_358639040243_wide-504bde0c1f30d4c9fcd806a7a4ae8053f4c8d782-s800-c15.jpg"></a>
+
+May 6, 2017 - Dozens of states and cities require businesses to offer paid sick leave. But some employers are looking for ways to pre-empt those requirements, including at the federal level.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws">http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_358639040243_wide-504bde0c1f30d4c9fcd806a7a4ae8053f4c8d782-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>220</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</guid>
+      <title>Female Genital Mutilation: What It Does To A Woman</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</link>
+      <description>May 6, 2017 - The charges brought against two U.S. doctors for alleged female genital mutilation brought renewed attention to the ritual. We interview a World Health Organization specialist to learn more.</description>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/fgm_wide-234535942fccf4f7b22b9ac439105f3d23c61cf2-s800-c15.jpg"></a>
+
+May 6, 2017 - The charges brought against two U.S. doctors for alleged female genital mutilation brought renewed attention to the ritual. We interview a World Health Organization specialist to learn more.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman">http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/fgm_wide-234535942fccf4f7b22b9ac439105f3d23c61cf2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/05/527076657/leaked-document-indicates-big-proposed-cuts-to-drug-czars-office</guid>
       <title>Leaked Document Indicates Big Proposed Cuts To Drug Czar&#39;s Office</title>
@@ -216,40 +248,6 @@ May 4, 2017 - The version of the American Health Care Act passed by the House el
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/04/526925764/winners-and-losers-under-the-house-gop-health-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/congress-winners-losers_wide-0ee2e51c59778f468ecf98f39b59eeafe68db190-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_heres_whats_in_the_house-approved_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=239&amp;p=2&amp;story=526887531&amp;t=progseg&amp;e=526842842&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Here Is What&#39;s In The House-Approved Health Care Bill</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/04/526887531/heres-whats-in-the-house-approved-health-care-bill</link>
-      <description>May 4, 2017 - The House GOP&#39;s bill to replace the Affordable Care Act would all but eliminate the requirement that people buy health insurance and shrink Medicaid coverage. It also cuts taxes for the wealthy.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_heres_whats_in_the_house-approved_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=239&amp;p=2&amp;story=526887531&amp;t=progseg&amp;e=526842842&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/seema-tom-mike_wide-0c2d0088aa62cc44b211ad52411511af40c21613-s800-c15.jpg"></a>
-
-May 4, 2017 - The House GOP's bill to replace the Affordable Care Act would all but eliminate the requirement that people buy health insurance and shrink Medicaid coverage. It also cuts taxes for the wealthy.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/04/526887531/heres-whats-in-the-house-approved-health-care-bill">http://www.npr.org/sections/health-shots/2017/05/04/526887531/heres-whats-in-the-house-approved-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/seema-tom-mike_wide-0c2d0088aa62cc44b211ad52411511af40c21613-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_helping_wheelchair_users_navigate_mexico_citys_hectic_streets_and_sidewalks.mp3?orgId=1&amp;topicId=1127&amp;d=232&amp;p=2&amp;story=525884861&amp;t=progseg&amp;e=526842842&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Helping Wheelchair Users Navigate Mexico City&#39;s Hectic Streets And Sidewalks</title>
-      <link>http://www.npr.org/sections/parallels/2017/05/04/525884861/helping-wheelchair-users-navigate-mexico-citys-hectic-streets-and-sidewalks</link>
-      <description>May 4, 2017 - Mexico City can be unfriendly terrain for those in a wheelchair. But a new program aims to help them better navigate the city&#39;s bad traffic, broken pavement and oblivious pedestrians.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_helping_wheelchair_users_navigate_mexico_citys_hectic_streets_and_sidewalks.mp3?orgId=1&amp;topicId=1127&amp;d=232&amp;p=2&amp;story=525884861&amp;t=progseg&amp;e=526842842&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/img_8229_wide-b62e7d5a1a50ec156370daf78883d2b36b7c701b-s800-c15.jpg"></a>
-
-May 4, 2017 - Mexico City can be unfriendly terrain for those in a wheelchair. But a new program aims to help them better navigate the city's bad traffic, broken pavement and oblivious pedestrians.
-
-<a href="http://www.npr.org/sections/parallels/2017/05/04/525884861/helping-wheelchair-users-navigate-mexico-citys-hectic-streets-and-sidewalks">http://www.npr.org/sections/parallels/2017/05/04/525884861/helping-wheelchair-users-navigate-mexico-citys-hectic-streets-and-sidewalks</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/img_8229_wide-b62e7d5a1a50ec156370daf78883d2b36b7c701b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
