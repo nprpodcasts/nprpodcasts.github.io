@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2017 13:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2017 15:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 07 May 2017 13:00:20 +0000</pubDate>
+    <pubDate>Sun, 07 May 2017 15:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170507_wesun_spacesuit_shortage.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=10&amp;story=527250368&amp;t=progseg&amp;e=527250339&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>NASA Has A Spacesuit Shortage</title>
       <link>http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</link>
       <description>May 7, 2017 - NASA has only 11 spacesuits in use, and they were designed decades ago. Spacesuit designer Pablo de Leon tells Lulu Garcia-Navarro about how the shortage affects operations in space.</description>
       <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170507_wesun_spacesuit_shortage.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=10&amp;story=527250368&amp;t=progseg&amp;e=527250339&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 7, 2017 - NASA has only 11 spacesuits in use, and they were designed decades ago. Spacesuit designer Pablo de Leon tells Lulu Garcia-Navarro about how the shortage affects operations in space.
 
 <a href="http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage">http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
