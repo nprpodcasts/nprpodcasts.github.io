@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 17:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 08 May 2017 16:00:30 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 17:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/08/526523520/public-restrooms-become-ground-zero-in-the-opioid-epidemic</guid>
+      <title>Public Restrooms Become Ground Zero In The Opioid Epidemic</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/08/526523520/public-restrooms-become-ground-zero-in-the-opioid-epidemic</link>
+      <description>May 8, 2017 - People often turn to public restrooms as a place to get high on opioids. It has led some establishments to close their facilities, while others are training employees to help people who overdose.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/bathrooom-1_wide-680c9292efde559a33ba47726cecb74dbb770f89-s800-c15.jpg"></a>
+
+May 8, 2017 - People often turn to public restrooms as a place to get high on opioids. It has led some establishments to close their facilities, while others are training employees to help people who overdose.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/08/526523520/public-restrooms-become-ground-zero-in-the-opioid-epidemic">http://www.npr.org/sections/health-shots/2017/05/08/526523520/public-restrooms-become-ground-zero-in-the-opioid-epidemic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/bathrooom-1_wide-680c9292efde559a33ba47726cecb74dbb770f89-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/08/527103885/life-expectancy-can-vary-by-20-years-depending-on-where-you-live</guid>
       <title>Life Expectancy Can Vary By 20 Years Depending On Where You Live</title>
@@ -235,21 +250,6 @@ May 5, 2017 - President Trump campaigned on fighting the opioid crisis. Now a pr
 <a href="http://www.npr.org/2017/05/05/527092428/house-approval-of-health-care-bill-represents-major-victory-for-trump">http://www.npr.org/2017/05/05/527092428/house-approval-of-health-care-bill-represents-major-victory-for-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>231</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</guid>
-      <title>Why Taste Buds Dull As We Age</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</link>
-      <description>May 5, 2017 - You&#39;re born with roughly 9,000 taste buds, and they&#39;re very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that can change as we age.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s800-c15.jpg"></a>
-
-May 5, 2017 - You're born with roughly 9,000 taste buds, and they're very good at regenerating — which is why you can recover the ability to taste just days after burning your tongue. But that can change as we age.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age">http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
