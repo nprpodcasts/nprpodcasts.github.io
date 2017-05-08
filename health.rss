@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 19:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 08 May 2017 17:00:12 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 19:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</guid>
+      <title>Trump&#39;s Budget Would Eliminate A Key Funder Of Research On Coastal Pollution</title>
+      <link>http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</link>
+      <description>May 8, 2017 - The Sea Grant program, which funds research on coastal environments, is slated by White House for elimination in 2018. If it goes, a project that finds leaking septic tanks goes down the drain, too.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/septic-promo_wide-910a55fa6fd38ca78868517eea585001d4578774-s800-c15.jpg"></a>
+
+May 8, 2017 - The Sea Grant program, which funds research on coastal environments, is slated by White House for elimination in 2018. If it goes, a project that finds leaking septic tanks goes down the drain, too.
+
+<a href="http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution">http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/septic-promo_wide-910a55fa6fd38ca78868517eea585001d4578774-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/08/526523520/public-restrooms-become-ground-zero-in-the-opioid-epidemic</guid>
       <title>Public Restrooms Become Ground Zero In The Opioid Epidemic</title>
@@ -235,21 +250,6 @@ May 5, 2017 - President Trump campaigned on fighting the opioid crisis. Now a pr
 <a href="http://www.npr.org/2017/05/05/527092464/advocates-support-efforts-to-install-public-changing-tables-for-disabled-adults">http://www.npr.org/2017/05/05/527092464/advocates-support-efforts-to-install-public-changing-tables-for-disabled-adults</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170505_atc_house_approval_of_health_care_bill_represents_major_victory_for_trump.mp3?orgId=1&amp;topicId=1014&amp;d=231&amp;p=2&amp;story=527092428&amp;t=progseg&amp;e=527016319&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>House Approval Of Health Care Bill Represents Major Victory For Trump</title>
-      <link>http://www.npr.org/2017/05/05/527092428/house-approval-of-health-care-bill-represents-major-victory-for-trump</link>
-      <description>May 5, 2017 - President Trump is still learning the ways of Washington. But House passage of the health care bill is a victory for the novice politician.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170505_atc_house_approval_of_health_care_bill_represents_major_victory_for_trump.mp3?orgId=1&amp;topicId=1014&amp;d=231&amp;p=2&amp;story=527092428&amp;t=progseg&amp;e=527016319&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 5, 2017 - President Trump is still learning the ways of Washington. But House passage of the health care bill is a victory for the novice politician.
-
-<a href="http://www.npr.org/2017/05/05/527092428/house-approval-of-health-care-bill-represents-major-victory-for-trump">http://www.npr.org/2017/05/05/527092428/house-approval-of-health-care-bill-represents-major-victory-for-trump</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>231</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

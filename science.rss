@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 16:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 19:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 08 May 2017 16:00:28 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 19:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</guid>
+      <title>Trump&#39;s Budget Would Eliminate A Key Funder Of Research On Coastal Pollution</title>
+      <link>http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</link>
+      <description>May 8, 2017 - The Sea Grant program, which funds research on coastal environments, is slated by White House for elimination in 2018. If it goes, a project that finds leaking septic tanks goes down the drain, too.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/08/septic-promo_wide-910a55fa6fd38ca78868517eea585001d4578774-s800-c15.jpg"></a>
+
+May 8, 2017 - The Sea Grant program, which funds research on coastal environments, is slated by White House for elimination in 2018. If it goes, a project that finds leaking septic tanks goes down the drain, too.
+
+<a href="http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution">http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/septic-promo_wide-910a55fa6fd38ca78868517eea585001d4578774-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</guid>
       <title>Secret U.S. Space Plane Lands With A Boom In Florida</title>
@@ -239,21 +254,6 @@ May 2, 2017 - Studies show that people who spend more time on social media sites
 <a href="http://www.npr.org/2017/05/02/526514168/why-social-media-isnt-always-very-social">http://www.npr.org/2017/05/02/526514168/why-social-media-isnt-always-very-social</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/gettyimages-480815331_wide-3180206feab113d49362da8f6a5a50f9d33927fc-s3000-c15.jpg"></itunes:image>
       <itunes:duration>424</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</guid>
-      <title>A New Generation Overthrows Gender</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</link>
-      <description>May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don&#39;t fit into familiar gender categories.</description>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s800-c15.jpg"></a>
-
-May 2, 2017 - Parents, schools and elected officials are working to catch up and adapt to the needs of children and teens who don't fit into familiar gender categories.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender">http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
