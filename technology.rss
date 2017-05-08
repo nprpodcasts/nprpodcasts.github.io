@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2017 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 16:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 06 May 2017 23:00:28 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 16:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</guid>
+      <title>When You&#39;re Not Quite Sure If Your Teacher Is Human</title>
+      <link>http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</link>
+      <description>May 8, 2017 - When this computer science professor became overwhelmed with the number of questions students were asking, he recruited artificial intelligence to help serve up some answers.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/npr-ai-teaching-artwork-100--v2_wide-ebf59ae9500957c2a490e99348f2760c826c1f6e-s800-c15.jpg"></a>
+
+May 8, 2017 - When this computer science professor became overwhelmed with the number of questions students were asking, he recruited artificial intelligence to help serve up some answers.
+
+<a href="http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human">http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/npr-ai-teaching-artwork-100--v2_wide-ebf59ae9500957c2a490e99348f2760c826c1f6e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</guid>
+      <title>Google Moves In And Wants To Pump 1.5 Million Gallons Of Water Per Day</title>
+      <link>http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</link>
+      <description>May 8, 2017 - The company says it needs that much water to cool its servers at a South Carolina data center. Now, community leaders are having to balance economic benefits with environmental impact.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s800-c15.jpg"></a>
+
+May 8, 2017 - The company says it needs that much water to cool its servers at a South Carolina data center. Now, community leaders are having to balance economic benefits with environmental impact.
+
+<a href="http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day">http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170506_atc_france_election_eve.mp3?orgId=1&amp;topicId=1124&amp;d=264&amp;p=2&amp;story=527196369&amp;t=progseg&amp;e=527152996&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>On The Eve Of French Election, Hackers Release Data From Macron Campaign</title>
@@ -39,16 +69,18 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_new_software_can_mimic_anyones_voice.mp3?orgId=1&amp;topicId=1019&amp;d=101&amp;p=3&amp;story=527013820&amp;t=progseg&amp;e=527341990&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>New Software Can Mimic Anyone&#39;s Voice</title>
       <link>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</link>
       <description>May 5, 2017 - A company in Canada has come up with away to recreate anyone&#39;s voice and get it to say almost anything. It opens up dangerous possibilities, however.&#xA;&#xA; - http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</description>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_new_software_can_mimic_anyones_voice.mp3?orgId=1&amp;topicId=1019&amp;d=101&amp;p=3&amp;story=527013820&amp;t=progseg&amp;e=527341990&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 5, 2017 - A company in Canada has come up with away to recreate anyone's voice and get it to say almost anything. It opens up dangerous possibilities, however.
 
 <a href="http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice">http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>101</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -220,38 +252,6 @@ May 1, 2017 - The industry has been in decline for years, partly because burning
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal">http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_it_is_neither_nor_it_is_both_tom_hanks_finds_no_easy_answers_in_the_circle.mp3?orgId=1&amp;topicId=1137&amp;d=542&amp;p=2&amp;story=526105460&amp;t=progseg&amp;e=526255643&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;It Is Neither Nor, It Is Both&#39;: Tom Hanks Finds No Easy Answers In &#39;The Circle&#39;</title>
-      <link>http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle</link>
-      <description>April 30, 2017 - In the film adaptation of Dave Eggers&#39; 2013 novel, Hanks plays Eamon Bailey, co-founder of a giant social media and tech company with the creepy mantra: &#34;Sharing is caring.&#34;</description>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/04/20170430_atc_it_is_neither_nor_it_is_both_tom_hanks_finds_no_easy_answers_in_the_circle.mp3?orgId=1&amp;topicId=1137&amp;d=542&amp;p=2&amp;story=526105460&amp;t=progseg&amp;e=526255643&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/the-circle-m-486_circle_11610fdrv2r2_rgb_wide-df808e0da3c4d6be652f9aa6aed2fc1ba0fc197f-s800-c15.jpg"></a>
-
-April 30, 2017 - In the film adaptation of Dave Eggers' 2013 novel, Hanks plays Eamon Bailey, co-founder of a giant social media and tech company with the creepy mantra: "Sharing is caring."
-
-<a href="http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle">http://www.npr.org/2017/04/30/526105460/it-is-neither-nor-it-is-both-tom-hanks-finds-no-easy-answers-in-the-circle</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/the-circle-m-486_circle_11610fdrv2r2_rgb_wide-df808e0da3c4d6be652f9aa6aed2fc1ba0fc197f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>542</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</guid>
-      <title>Turkey Blocks Wikipedia, Accusing It Of Running &#39;Smear Campaign&#39; </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</link>
-      <description>April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It&#39;s the latest in what critics say is a crackdown on free speech.</description>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-f93abe2b5790fec568ab00d67aac1cccab7827e0-s800-c15.jpg"></a>
-
-April 29, 2017 - Wikipedia refused to remove content, leading to the ban. It's the latest in what critics say is a crackdown on free speech.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign">http://www.npr.org/sections/thetwo-way/2017/04/29/526184731/turkey-blocks-wikipedia-accusing-it-of-running-smear-campaign</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/29/gettyimages-157634090_wide-f93abe2b5790fec568ab00d67aac1cccab7827e0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

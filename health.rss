@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2017 13:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 16:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 07 May 2017 13:00:21 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 16:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/08/527103885/life-expectancy-can-vary-by-20-years-depending-on-where-you-live</guid>
+      <title>Life Expectancy Can Vary By 20 Years Depending On Where You Live</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/08/527103885/life-expectancy-can-vary-by-20-years-depending-on-where-you-live</link>
+      <description>May 8, 2017 - Geographic inequality in lifespan is growing in the United States, with people in some counties living more than 20 years longer than those in others.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/longevity-gap-1_wide-1a29a1a617a26b295588ad1cf140c2b191369d81-s800-c15.jpg"></a>
+
+May 8, 2017 - Geographic inequality in lifespan is growing in the United States, with people in some counties living more than 20 years longer than those in others.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/08/527103885/life-expectancy-can-vary-by-20-years-depending-on-where-you-live">http://www.npr.org/sections/health-shots/2017/05/08/527103885/life-expectancy-can-vary-by-20-years-depending-on-where-you-live</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/longevity-gap-1_wide-1a29a1a617a26b295588ad1cf140c2b191369d81-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care</guid>
+      <title>Obama Calls On Congress To Have &#39;Courage&#39; On Health Care</title>
+      <link>http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care</link>
+      <description>May 8, 2017 - Receiving the John F. Kennedy Profile in Courage Award for his own work on health care, the former president said, &#34;It actually doesn&#39;t take a lot of courage to aid those who are already powerful.&#34;</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/gettyimages-680140142_wide-b0d458300a3bdfba47bdf8103b1e107a1b2d96a7-s800-c15.jpg"></a>
+
+May 8, 2017 - Receiving the John F. Kennedy Profile in Courage Award for his own work on health care, the former president said, "It actually doesn't take a lot of courage to aid those who are already powerful."
+
+<a href="http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care">http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-680140142_wide-b0d458300a3bdfba47bdf8103b1e107a1b2d96a7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_fresh_food_by_prescription_this_health_care_firm_is_trimming_costs_and_waistlines.mp3?orgId=1&amp;topicId=1134&amp;d=382&amp;p=3&amp;story=526952657&amp;t=progseg&amp;e=527341990&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Fresh Food By Prescription: This Health Care Firm Is Trimming Costs — And Waistlines</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline</link>
+      <description>May 8, 2017 - The rising prevalence and cost of Type 2 diabetes has doctors at Geisinger Health System turning to food as a form of medicine. They&#39;re prescribing free, fresh food to low-income patients.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_fresh_food_by_prescription_this_health_care_firm_is_trimming_costs_and_waistlines.mp3?orgId=1&amp;topicId=1134&amp;d=382&amp;p=3&amp;story=526952657&amp;t=progseg&amp;e=527341990&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/istock-164321266_wide-3aef9ded23bca95f54f04260a37a5a74f08b2e92-s800-c15.jpg"></a>
+
+May 8, 2017 - The rising prevalence and cost of Type 2 diabetes has doctors at Geisinger Health System turning to food as a form of medicine. They're prescribing free, fresh food to low-income patients.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline">http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/istock-164321266_wide-3aef9ded23bca95f54f04260a37a5a74f08b2e92-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>382</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/07/525568821/my-food-struggle-in-pictures-when-what-i-ate-made-me-good-or-bad</guid>
       <title>My Food Struggle In Pictures: When What I Ate Made Me &#39;Good&#39; Or &#39;Bad&#39;</title>
@@ -60,24 +107,24 @@ May 7, 2017 - The leaders and rank-and-file of the House know that what they hav
       <description>May 7, 2017 - A mishap in Colombia highlights the dark side of cosmetic work in a country that is a hot spot for body rehabbing. Each year, hundreds of thousands of procedures are performed on locals and tourists.</description>
       <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/jcc2_wide-e8374dedd9b704b358addfcfa8c1138d247dd699-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/jcc2_wide-9157e419f8743af5e2f046a8ac459e4117f0b13b-s800-c15.jpg"></a>
 
 May 7, 2017 - A mishap in Colombia highlights the dark side of cosmetic work in a country that is a hot spot for body rehabbing. Each year, hundreds of thousands of procedures are performed on locals and tourists.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/07/526863774/quest-for-beauty-in-colombia-sometimes-ends-in-tragedy">http://www.npr.org/sections/goatsandsoda/2017/05/07/526863774/quest-for-beauty-in-colombia-sometimes-ends-in-tragedy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/jcc2_wide-e8374dedd9b704b358addfcfa8c1138d247dd699-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/jcc2_wide-9157e419f8743af5e2f046a8ac459e4117f0b13b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <guid>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</guid>
-      <title>As GOP Health Care Push Moves To Senate, White House Questions Value of CBO Analysis</title>
+      <title>As GOP Health Care Push Moves To Senate, White House Questions Value Of CBO Analysis</title>
       <link>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</link>
-      <description>May 6, 2017 - &#34;I think I know the gospel pretty well,&#34; a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, &#34;and I&#39;d say the CBO is not the gospel.&#34;</description>
+      <description>May 6, 2017 - &#34;I think I know the Gospel pretty well,&#34; a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, &#34;and I&#39;d say the CBO is not the Gospel.&#34;</description>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/ap_17125062049779_wide-1a6d480463481a18aa788079518d2b7aa4285fac-s800-c15.jpg"></a>
 
-May 6, 2017 - "I think I know the gospel pretty well," a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, "and I'd say the CBO is not the gospel."
+May 6, 2017 - "I think I know the Gospel pretty well," a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, "and I'd say the CBO is not the Gospel."
 
 <a href="http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy">http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_17125062049779_wide-1a6d480463481a18aa788079518d2b7aa4285fac-s3000-c15.jpg"></itunes:image>
@@ -203,51 +250,6 @@ May 5, 2017 - You're born with roughly 9,000 taste buds, and they're very good a
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age">http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</guid>
-      <title>Health Care Vote Could Threaten Republican House Majority</title>
-      <link>http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</link>
-      <description>May 5, 2017 - Some of the most vulnerable House Republicans voted in favor of the GOP health care plan — and Democrats are already trying to use it against them ahead of the 2018 midterm elections.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/gettyimages-678632196_wide-95795b1e92f4564d5082ba0c696c4ab5c7bc0035-s800-c15.jpg"></a>
-
-May 5, 2017 - Some of the most vulnerable House Republicans voted in favor of the GOP health care plan — and Democrats are already trying to use it against them ahead of the 2018 midterm elections.
-
-<a href="http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority">http://www.npr.org/2017/05/05/526969730/health-care-vote-could-threaten-republican-house-majority</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/gettyimages-678632196_wide-95795b1e92f4564d5082ba0c696c4ab5c7bc0035-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</guid>
-      <title>Measuring Drug Impairment In Drivers Is Easier Said Than Done</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</link>
-      <description>May 5, 2017 - A report on the potential influence of alcohol or drug impairment on traffic fatalities points to the difficulty of comparing alcohol impairment standards to other drugs.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/pills-driving_wide-e8ac3a7627d3efc15be7e354a23d5ccfbd994511-s800-c15.jpg"></a>
-
-May 5, 2017 - A report on the potential influence of alcohol or drug impairment on traffic fatalities points to the difficulty of comparing alcohol impairment standards to other drugs.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done">http://www.npr.org/sections/health-shots/2017/05/05/526264342/measuring-drug-impairment-in-drivers-is-easier-said-than-done</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/pills-driving_wide-e8ac3a7627d3efc15be7e354a23d5ccfbd994511-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</guid>
-      <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</link>
-      <description>May 4, 2017 - Just three &#34;no&#34; votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s800-c15.jpg"></a>
-
-May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch">http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

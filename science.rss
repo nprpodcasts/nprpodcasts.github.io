@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2017 15:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 16:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 07 May 2017 15:00:12 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 16:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</guid>
+      <title>Secret U.S. Space Plane Lands With A Boom In Florida</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</link>
+      <description>May 8, 2017 - For a secret aircraft, the X-37B wasn&#39;t very stealthy about its return to Earth. The space plane was launched in 2015.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/08/3362967_wide-e9cdae8cea70f1c1da3fbe7e12db41d1952cc3f2-s800-c15.jpg"></a>
+
+May 8, 2017 - For a secret aircraft, the X-37B wasn't very stealthy about its return to Earth. The space plane was launched in 2015.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida">http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/3362967_wide-e9cdae8cea70f1c1da3fbe7e12db41d1952cc3f2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170507_wesun_spacesuit_shortage.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=10&amp;story=527250368&amp;t=progseg&amp;e=527250339&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>NASA Has A Spacesuit Shortage</title>
@@ -84,11 +99,12 @@ May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=315&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</link>
       <description>May 4, 2017 - Just three &#34;no&#34; votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.</description>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=315&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s800-c15.jpg"></a>
 
@@ -96,6 +112,7 @@ May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch">http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>315</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ May 2, 2017 - Parents, schools and elected officials are working to catch up and
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender">http://www.npr.org/sections/health-shots/2017/05/02/526067768/a-new-generation-overthrows-gender</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/max-1_wide-7ba5ad95bafdcd031b2c39c49c78f412dd100260-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Environmentalists, Coal Companies Rally Around Technology To Clean Up Coal</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</link>
-      <description>May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there&#39;s a way to capture it — which has drawn praise from traditional enemies.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s800-c15.jpg"></a>
-
-May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there's a way to capture it — which has drawn praise from traditional enemies.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal">http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
