@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 16:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 21:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 08 May 2017 16:00:26 +0000</pubDate>
+    <pubDate>Mon, 08 May 2017 21:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</guid>
+      <title>Restaurants With Low Yelp Ratings Suffer Under Higher Minimum Wages</title>
+      <link>http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</link>
+      <description>May 8, 2017 - Minimum wage increases in the San Francisco Bay Area have had an impact on the local restaurant industry, according to a study released by Harvard Business School. Restaurants with low or middling Yelp reviews have become more likely to go out of business. Places with high reviews have been unaffected. The study doesn&#39;t attempt to determine whether the wage increases have been good for employees or the local economy overall.</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 8, 2017 - Minimum wage increases in the San Francisco Bay Area have had an impact on the local restaurant industry, according to a study released by Harvard Business School. Restaurants with low or middling Yelp reviews have become more likely to go out of business. Places with high reviews have been unaffected. The study doesn't attempt to determine whether the wage increases have been good for employees or the local economy overall.
+
+<a href="http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages">http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</guid>
       <title>When You&#39;re Not Quite Sure If Your Teacher Is Human</title>
@@ -235,23 +248,6 @@ May 1, 2017 - The short-term rental company has had an occasionally fraught rela
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration">http://www.npr.org/sections/thetwo-way/2017/05/01/526421009/airbnb-settles-suit-with-san-francisco-aims-to-smooth-host-registration</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/gettyimages-647181932_wide-fe36e1f6086c3542d6ad49d5b957e36a5e437453-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Environmentalists, Coal Companies Rally Around Technology To Clean Up Coal</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</link>
-      <description>May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there&#39;s a way to capture it — which has drawn praise from traditional enemies.</description>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170501_me_environmentalists_coal_companies_rally_around_technology_to_clean_up_coal.mp3?orgId=1&amp;topicId=1025&amp;d=233&amp;p=3&amp;story=524764617&amp;t=progseg&amp;e=526349002&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s800-c15.jpg"></a>
-
-May 1, 2017 - The industry has been in decline for years, partly because burning coal creates CO2 and warms the atmosphere. But there's a way to capture it — which has drawn praise from traditional enemies.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal">http://www.npr.org/sections/thetwo-way/2017/05/01/524764617/environmentalists-coal-companies-rally-around-technology-to-clean-up-coal</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/19/coal_wide-9ba4769cd1e874b05e29b28104ce9a1ab2344b69-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
