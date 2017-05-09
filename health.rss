@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 22:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 14:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 08 May 2017 22:00:10 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 14:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,36 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</guid>
+      <title>New Businesses Give Restaurant Workers The Tips They Ache For: Wellness</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</link>
+      <description>May 9, 2017 - Waiting, cooking and tending bar can take a heavy toll on the body and mind. Several health-minded support services are springing up to help workers stay in the game for the long term.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/brenner_npr_bartending_08_wide-6b59e38b27eddd6b9f165728c5e9ca35a7422d37-s800-c15.jpg"></a>
+
+May 9, 2017 - Waiting, cooking and tending bar can take a heavy toll on the body and mind. Several health-minded support services are springing up to help workers stay in the game for the long term.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness">http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/brenner_npr_bartending_08_wide-6b59e38b27eddd6b9f165728c5e9ca35a7422d37-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</guid>
+      <title>Medicare Didn&#39;t Investigate Suspicious Reports Of Hospital Infections</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</link>
+      <description>May 9, 2017 - The inspector general at Health and Human Services says that Medicare should have done an in-depth review of suspicious reports from hospitals, to keep them from covering up problems with infections.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/hospital-1_wide-49bd3e70ae15459a87729f8276dcd9aef6887013-s800-c15.jpg"></a>
+
+May 9, 2017 - The inspector general at Health and Human Services says that Medicare should have done an in-depth review of suspicious reports from hospitals, to keep them from covering up problems with infections.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections">http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/hospital-1_wide-49bd3e70ae15459a87729f8276dcd9aef6887013-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_gop_health_bill_leaves_some_key_aca_protections_up_to_state_legislatures.mp3?orgId=17&amp;topicId=1128&amp;d=210&amp;p=2&amp;story=527415655&amp;t=progseg&amp;e=527360254&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>GOP Health Bill Leaves Many &#39;Pre-Existing Condition&#39; Protections Up To States</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states</link>
@@ -31,12 +61,12 @@
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_gop_health_bill_leaves_some_key_aca_protections_up_to_state_legislatures.mp3?orgId=17&amp;topicId=1128&amp;d=210&amp;p=2&amp;story=527415655&amp;t=progseg&amp;e=527360254&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-a40329bba208c370a7ac97b8a4859ffa2fc13d8b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-218b57f03aa37598aa5e7a39d2736a9bb55805e2-s800-c15.jpg"></a>
 
 May 8, 2017 - Before the Affordable Care Act, people with pre-existing conditions often couldn't get health insurance — or paid sky-high premiums. The bill passed by the House last week would let states decide.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states">http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-a40329bba208c370a7ac97b8a4859ffa2fc13d8b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-218b57f03aa37598aa5e7a39d2736a9bb55805e2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -230,36 +260,6 @@ May 6, 2017 - The charges brought against two U.S. doctors for alleged female ge
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman">http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/fgm_wide-234535942fccf4f7b22b9ac439105f3d23c61cf2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/05/527076657/leaked-document-indicates-big-proposed-cuts-to-drug-czars-office</guid>
-      <title>Leaked Document Indicates Big Proposed Cuts To Drug Czar&#39;s Office</title>
-      <link>http://www.npr.org/2017/05/05/527076657/leaked-document-indicates-big-proposed-cuts-to-drug-czars-office</link>
-      <description>May 5, 2017 - President Trump campaigned on fighting the opioid crisis. Now a preliminary White House budget document, obtained by NPR, calls for significant cuts to the office quarterbacking the federal response.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/ondcp-logo_wide-5deca4b6a464a15ccf57bbd31bdc1c9ead5630b9-s800-c15.jpg"></a>
-
-May 5, 2017 - President Trump campaigned on fighting the opioid crisis. Now a preliminary White House budget document, obtained by NPR, calls for significant cuts to the office quarterbacking the federal response.
-
-<a href="http://www.npr.org/2017/05/05/527076657/leaked-document-indicates-big-proposed-cuts-to-drug-czars-office">http://www.npr.org/2017/05/05/527076657/leaked-document-indicates-big-proposed-cuts-to-drug-czars-office</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ondcp-logo_wide-5deca4b6a464a15ccf57bbd31bdc1c9ead5630b9-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170505_atc_people_with_pre-existing_conditions_worry_about_losing_health_coverage.mp3?orgId=1&amp;topicId=1128&amp;d=173&amp;p=2&amp;story=527092485&amp;t=progseg&amp;e=527016319&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>People With Pre-Existing Conditions Worry About Losing Health Coverage</title>
-      <link>http://www.npr.org/2017/05/05/527092485/people-with-pre-existing-conditions-worry-about-losing-health-coverage</link>
-      <description>May 5, 2017 - As the American Health Care Act moves toward the Senate, many people around the country are reacting to it. Among them, people with pre-existing conditions who worry about losing their coverage.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170505_atc_people_with_pre-existing_conditions_worry_about_losing_health_coverage.mp3?orgId=1&amp;topicId=1128&amp;d=173&amp;p=2&amp;story=527092485&amp;t=progseg&amp;e=527016319&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 5, 2017 - As the American Health Care Act moves toward the Senate, many people around the country are reacting to it. Among them, people with pre-existing conditions who worry about losing their coverage.
-
-<a href="http://www.npr.org/2017/05/05/527092485/people-with-pre-existing-conditions-worry-about-losing-health-coverage">http://www.npr.org/2017/05/05/527092485/people-with-pre-existing-conditions-worry-about-losing-health-coverage</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>173</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
