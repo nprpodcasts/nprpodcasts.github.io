@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 21:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 23:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 21:00:15 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 23:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</guid>
+      <title>Primitive Human-Like Species Lived More Recently Than Expected</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</link>
+      <description>May 9, 2017 - The surprising finding suggests that small-brained Homo naledi may have lived at the same times as early humans in South Africa, complicating previous notions about human origins.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/09/skull_wide-c16aa483bbbbec22a6d0fca0f7266e4edabfc2c5-s800-c15.jpg"></a>
+
+May 9, 2017 - The surprising finding suggests that small-brained Homo naledi may have lived at the same times as early humans in South Africa, complicating previous notions about human origins.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected">http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/skull_wide-c16aa483bbbbec22a6d0fca0f7266e4edabfc2c5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527575457/australian-fossils-hint-at-where-to-search-for-life-on-mars</guid>
       <title>Australian Fossils Hint At Where To Search For Life On Mars</title>
@@ -239,23 +254,6 @@ May 4, 2017 - A quick prescription and annual lecture from a doctor often aren't
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team">http://www.npr.org/sections/health-shots/2017/05/04/526475132/to-bring-down-stubbornly-high-blood-pressure-it-helps-to-have-a-team</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/rigby-1_wide-13b190853acc3c1d8a3d64e39dac2b557936cc0d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_autism_fears_fueling_minnesotas_measles_outbreak_.mp3?orgId=111&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=526723028&amp;t=progseg&amp;e=526673258&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Unfounded Autism Fears Are Fueling Minnesota&#39;s Measles Outbreak </title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak</link>
-      <description>May 3, 2017 - State health officials are struggling to contain a measles outbreak that has sickened mostly Somali-American children. The vaccination rate is low in this tight community that&#39;s worried about autism.</description>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170503_atc_autism_fears_fueling_minnesotas_measles_outbreak_.mp3?orgId=111&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=526723028&amp;t=progseg&amp;e=526673258&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/03/measles-1_wide-c4f2babc60a4ed3f710bb8a791ab409e07e59b5b-s800-c15.jpg"></a>
-
-May 3, 2017 - State health officials are struggling to contain a measles outbreak that has sickened mostly Somali-American children. The vaccination rate is low in this tight community that's worried about autism.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak">http://www.npr.org/sections/health-shots/2017/05/03/526723028/autism-fears-fueling-minnesotas-measles-outbreak</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/measles-1_wide-c4f2babc60a4ed3f710bb8a791ab409e07e59b5b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>221</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

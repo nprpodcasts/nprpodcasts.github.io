@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 21:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 23:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 21:00:16 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 23:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,48 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</guid>
+      <title>Drug Resistant TB Is Predicted To Steadily Spread In 4 Countries</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</link>
+      <description>May 9, 2017 - The case numbers are already high in certain countries. It&#39;s not only hard to treat — it&#39;s extremely contagious.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 9, 2017 - The case numbers are already high in certain countries. It's not only hard to treat — it's extremely contagious.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries">http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_fact-checking_republicans_defense_of_the_gop_health_bill.mp3?orgId=1&amp;topicId=1128&amp;d=254&amp;p=2&amp;story=527627331&amp;t=progseg&amp;e=527544466&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Fact-Checking Republicans&#39; Defense Of The GOP Health Bill</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</link>
+      <description>May 9, 2017 - In TV appearances and meetings with constituents, House Republicans are highlighting parts of the law that protect consumers, while glossing over loopholes that allow insurers to avoid paying.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_fact-checking_republicans_defense_of_the_gop_health_bill.mp3?orgId=1&amp;topicId=1128&amp;d=254&amp;p=2&amp;story=527627331&amp;t=progseg&amp;e=527544466&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-001e920fdd06d546c41bcf85af9090b7923f383d-s800-c15.jpg"></a>
+
+May 9, 2017 - In TV appearances and meetings with constituents, House Republicans are highlighting parts of the law that protect consumers, while glossing over loopholes that allow insurers to avoid paying.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-001e920fdd06d546c41bcf85af9090b7923f383d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>254</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_colorado_governor_on_republican_health_care_bill_this_is_not_an_improvement.mp3?orgId=1&amp;topicId=1014&amp;d=377&amp;p=2&amp;story=527640423&amp;t=progseg&amp;e=527544466&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Colorado Governor On Republican Health Care Bill: This Is Not An Improvement</title>
       <link>http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</link>
       <description>May 9, 2017 - NPR&#39;s Robert Siegel talks to Colorado Gov. John Hickenlooper about health care reform. Colorado expanded Medicaid under the Affordable Care Act and would either have to take on that funding burden or change eligibility requirements under the American Health Care Act.</description>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_colorado_governor_on_republican_health_care_bill_this_is_not_an_improvement.mp3?orgId=1&amp;topicId=1014&amp;d=377&amp;p=2&amp;story=527640423&amp;t=progseg&amp;e=527544466&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 9, 2017 - NPR's Robert Siegel talks to Colorado Gov. John Hickenlooper about health care reform. Colorado expanded Medicaid under the Affordable Care Act and would either have to take on that funding burden or change eligibility requirements under the American Health Care Act.
 
 <a href="http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement">http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>377</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -67,11 +99,12 @@ May 9, 2017 - More than 70 drugs approved by the FDA from 2001 to 2010 ran into 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_dont_screen_for_thyroid_cancer_task_force_says.mp3?orgId=1&amp;topicId=1128&amp;d=137&amp;p=2&amp;story=527569291&amp;t=progseg&amp;e=527544466&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Don&#39;t Screen For Thyroid Cancer, Task Force Says</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</link>
       <description>May 9, 2017 - A federal task force says the risks of screening outweigh benefits. Many thyroid growths never develop into dangerous cancers, and overdiagnosis can lead people to have unnecessary surgery.</description>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_dont_screen_for_thyroid_cancer_task_force_says.mp3?orgId=1&amp;topicId=1128&amp;d=137&amp;p=2&amp;story=527569291&amp;t=progseg&amp;e=527544466&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s800-c15.jpg"></a>
 
@@ -79,6 +112,7 @@ May 9, 2017 - A federal task force says the risks of screening outweigh benefits
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says">http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>137</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -226,36 +260,6 @@ May 8, 2017 - The rising prevalence and cost of Type 2 diabetes has doctors at G
 <a href="http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline">http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/05/istock-164321266_wide-3aef9ded23bca95f54f04260a37a5a74f08b2e92-s3000-c15.jpg"></itunes:image>
       <itunes:duration>382</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/07/525568821/my-food-struggle-in-pictures-when-what-i-ate-made-me-good-or-bad</guid>
-      <title>My Food Struggle In Pictures: When What I Ate Made Me &#39;Good&#39; Or &#39;Bad&#39;</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/07/525568821/my-food-struggle-in-pictures-when-what-i-ate-made-me-good-or-bad</link>
-      <description>May 7, 2017 - For the writer and her sister, the family&#39;s tendency to talk about food choices in moral terms triggered an unhealthy obsession with eating and a skewed sense of self-worth.</description>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/28/moralfood_1_wide-d3f8b08975f2ecafae5d71f79eec140a2d72fc35-s800-c15.jpg"></a>
-
-May 7, 2017 - For the writer and her sister, the family's tendency to talk about food choices in moral terms triggered an unhealthy obsession with eating and a skewed sense of self-worth.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/07/525568821/my-food-struggle-in-pictures-when-what-i-ate-made-me-good-or-bad">http://www.npr.org/sections/thesalt/2017/05/07/525568821/my-food-struggle-in-pictures-when-what-i-ate-made-me-good-or-bad</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/moralfood_1_wide-d3f8b08975f2ecafae5d71f79eec140a2d72fc35-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/07/527127968/dont-count-on-the-senate-to-save-obamacare-or-to-save-the-house</guid>
-      <title>Don&#39;t Count On The Senate To Save Obamacare, Or To Save The House</title>
-      <link>http://www.npr.org/2017/05/07/527127968/dont-count-on-the-senate-to-save-obamacare-or-to-save-the-house</link>
-      <description>May 7, 2017 - The leaders and rank-and-file of the House know that what they have done so far is not yet law. It may not even qualify as a rough draft. Giant steps remain, and some in the GOP may well be grateful.</description>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/06/ap_17124700694940ryan_wide-81cf491ce518b55ed031d2d31668208ae18a9bbb-s800-c15.jpg"></a>
-
-May 7, 2017 - The leaders and rank-and-file of the House know that what they have done so far is not yet law. It may not even qualify as a rough draft. Giant steps remain, and some in the GOP may well be grateful.
-
-<a href="http://www.npr.org/2017/05/07/527127968/dont-count-on-the-senate-to-save-obamacare-or-to-save-the-house">http://www.npr.org/2017/05/07/527127968/dont-count-on-the-senate-to-save-obamacare-or-to-save-the-house</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/06/ap_17124700694940ryan_wide-81cf491ce518b55ed031d2d31668208ae18a9bbb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

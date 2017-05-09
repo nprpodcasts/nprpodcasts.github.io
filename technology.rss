@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 21:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 23:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 21:00:17 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 23:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -101,11 +101,12 @@ May 8, 2017 - When this computer science professor became overwhelmed with the n
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_google_moves_in_and_wants_to_pump_15_million_gallons_of_water_per_day.mp3?orgId=1&amp;topicId=1091&amp;d=244&amp;p=2&amp;story=527214026&amp;t=progseg&amp;e=527544466&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Moves In And Wants To Pump 1.5 Million Gallons Of Water Per Day</title>
       <link>http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</link>
       <description>May 8, 2017 - The company says it needs that much water to cool its servers at a South Carolina data center. Now, community leaders are having to balance economic benefits with environmental impact.</description>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_google_moves_in_and_wants_to_pump_15_million_gallons_of_water_per_day.mp3?orgId=1&amp;topicId=1091&amp;d=244&amp;p=2&amp;story=527214026&amp;t=progseg&amp;e=527544466&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s800-c15.jpg"></a>
 
@@ -113,6 +114,7 @@ May 8, 2017 - The company says it needs that much water to cool its servers at a
 
 <a href="http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day">http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>244</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
