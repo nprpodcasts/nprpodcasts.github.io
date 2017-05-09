@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 15:00:19 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</guid>
+      <title>Don&#39;t Screen For Thyroid Cancer, Task Force Says</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</link>
+      <description>May 9, 2017 - A federal task force says the risks of screening outweigh benefits. Many thyroid growths never develop into dangerous cancers, and overdiagnosis can lead people to have unnecessary surgery.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s800-c15.jpg"></a>
+
+May 9, 2017 - A federal task force says the risks of screening outweigh benefits. Many thyroid growths never develop into dangerous cancers, and overdiagnosis can lead people to have unnecessary surgery.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says">http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</guid>
       <title>New Businesses Give Restaurant Workers The Tips They Ache For: Wellness</title>
@@ -245,21 +260,6 @@ May 6, 2017 - Dozens of states and cities require businesses to offer paid sick 
 <a href="http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws">http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_358639040243_wide-504bde0c1f30d4c9fcd806a7a4ae8053f4c8d782-s3000-c15.jpg"></itunes:image>
       <itunes:duration>220</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</guid>
-      <title>Female Genital Mutilation: What It Does To A Woman</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</link>
-      <description>May 6, 2017 - The charges brought against two U.S. doctors for alleged female genital mutilation brought renewed attention to the ritual. We interview a World Health Organization specialist to learn more.</description>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/04/fgm_wide-234535942fccf4f7b22b9ac439105f3d23c61cf2-s800-c15.jpg"></a>
-
-May 6, 2017 - The charges brought against two U.S. doctors for alleged female genital mutilation brought renewed attention to the ritual. We interview a World Health Organization specialist to learn more.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman">http://www.npr.org/sections/goatsandsoda/2017/05/06/526766230/female-genital-mutilation-what-it-does-to-a-woman</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/fgm_wide-234535942fccf4f7b22b9ac439105f3d23c61cf2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
