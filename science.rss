@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 02:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 19:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 02:00:09 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 19:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527440895/baby-dragon-found-in-china-is-the-newest-species-of-dinosaur</guid>
+      <title>&#39;Baby Dragon&#39; Found In China Is The Newest Species Of Dinosaur</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527440895/baby-dragon-found-in-china-is-the-newest-species-of-dinosaur</link>
+      <description>May 9, 2017 - The Beibeilong was a giant, bird-like dinosaur that lived some 90 million years ago. Scientists say it had massive feathered wings, a bird-like skull and could grow to more than 26 feet long.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/08/beibeilong-artist-render_wide-669da65858ed004bb97ddbada705c9fe360e62ca-s800-c15.jpg"></a>
+
+May 9, 2017 - The Beibeilong was a giant, bird-like dinosaur that lived some 90 million years ago. Scientists say it had massive feathered wings, a bird-like skull and could grow to more than 26 feet long.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527440895/baby-dragon-found-in-china-is-the-newest-species-of-dinosaur">http://www.npr.org/sections/thetwo-way/2017/05/09/527440895/baby-dragon-found-in-china-is-the-newest-species-of-dinosaur</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/beibeilong-artist-render_wide-669da65858ed004bb97ddbada705c9fe360e62ca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/08/527442620/magic-or-math-the-appeal-of-coincidences-and-the-reality</guid>
       <title>Magic, Or Math? The Appeal Of Coincidences, And The Reality</title>
@@ -241,21 +256,6 @@ May 3, 2017 - A measles outbreak in Minnesota's Somali-American community is the
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears">http://www.npr.org/sections/health-shots/2017/05/03/526595475/understanding-the-history-behind-communities-vaccine-fears</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/02/mmr-1_wide-baf37a73149201158fe9aa8ed2ef19e9f7109c51-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</guid>
-      <title>Urgent Care Services For Cancer Patients Offer A Gentler ER Alternative</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</link>
-      <description>May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.</description>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s800-c15.jpg"></a>
-
-May 3, 2017 - Some hospitals and oncology practices are setting up urgent care sites tailored to the needs of cancer patients, to help keep them out of the emergency room when complications or side effects arise.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative">http://www.npr.org/sections/health-shots/2017/05/03/526594004/urgent-care-services-for-cancer-patients-offer-a-gentler-er-alternative</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/02/cancer-center_wide-7f75731f12f31c07acd44ebac4c81528b115ac55-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 19:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 17:00:09 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 19:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</guid>
+      <title>The Global Gap In Health Care Dollars For Young And Old Is Huge</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</link>
+      <description>May 9, 2017 - The U.S. has one kind of gap. The developing world has another, as a new report points out.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 9, 2017 - The U.S. has one kind of gap. The developing world has another, as a new report points out.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world">http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</guid>
       <title>One-Third Of New Drugs Had Safety Problems After FDA Approval</title>
@@ -243,21 +256,6 @@ May 7, 2017 - A mishap in Colombia highlights the dark side of cosmetic work in 
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/07/526863774/quest-for-beauty-in-colombia-sometimes-ends-in-tragedy">http://www.npr.org/sections/goatsandsoda/2017/05/07/526863774/quest-for-beauty-in-colombia-sometimes-ends-in-tragedy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/jcc2_wide-9157e419f8743af5e2f046a8ac459e4117f0b13b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</guid>
-      <title>As GOP Health Care Push Moves To Senate, White House Questions Value Of CBO Analysis</title>
-      <link>http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</link>
-      <description>May 6, 2017 - &#34;I think I know the Gospel pretty well,&#34; a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, &#34;and I&#39;d say the CBO is not the Gospel.&#34;</description>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/ap_17125062049779_wide-1a6d480463481a18aa788079518d2b7aa4285fac-s800-c15.jpg"></a>
-
-May 6, 2017 - "I think I know the Gospel pretty well," a White House spokeswoman said after the House passed a health care bill without the official legislative scoring, "and I'd say the CBO is not the Gospel."
-
-<a href="http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy">http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_17125062049779_wide-1a6d480463481a18aa788079518d2b7aa4285fac-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
