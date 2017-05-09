@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 16:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 17:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 09 May 2017 16:00:13 +0000</pubDate>
+    <pubDate>Tue, 09 May 2017 17:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</guid>
+      <title>One-Third Of New Drugs Had Safety Problems After FDA Approval</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</link>
+      <description>May 9, 2017 - More than 70 drugs approved by the FDA from 2001 to 2010 ran into safety concerns that prompted in withdrawals from the market, &#34;black box&#34; warnings or other actions.</description>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/bextra-1_wide-4b2eea372d648a5eb8934612c47b3123d4c2adc0-s800-c15.jpg"></a>
+
+May 9, 2017 - More than 70 drugs approved by the FDA from 2001 to 2010 ran into safety concerns that prompted in withdrawals from the market, "black box" warnings or other actions.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval">http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/bextra-1_wide-4b2eea372d648a5eb8934612c47b3123d4c2adc0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</guid>
       <title>Don&#39;t Screen For Thyroid Cancer, Task Force Says</title>
@@ -243,23 +258,6 @@ May 6, 2017 - "I think I know the Gospel pretty well," a White House spokeswoman
 
 <a href="http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy">http://www.npr.org/2017/05/06/526866697/as-gop-health-care-push-moves-to-senate-white-house-questions-value-of-cbo-analy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_17125062049779_wide-1a6d480463481a18aa788079518d2b7aa4285fac-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170506_wesat_businesses_push_back_on_paid-sick-leave_laws.mp3?orgId=1&amp;topicId=1003&amp;d=220&amp;p=7&amp;story=527053441&amp;t=progseg&amp;e=527139899&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Businesses Push Back On Paid-Sick-Leave Laws</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws</link>
-      <description>May 6, 2017 - Dozens of states and cities require businesses to offer paid sick leave. But some employers are looking for ways to pre-empt those requirements, including at the federal level.</description>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170506_wesat_businesses_push_back_on_paid-sick-leave_laws.mp3?orgId=1&amp;topicId=1003&amp;d=220&amp;p=7&amp;story=527053441&amp;t=progseg&amp;e=527139899&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/ap_358639040243_wide-504bde0c1f30d4c9fcd806a7a4ae8053f4c8d782-s800-c15.jpg"></a>
-
-May 6, 2017 - Dozens of states and cities require businesses to offer paid sick leave. But some employers are looking for ways to pre-empt those requirements, including at the federal level.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws">http://www.npr.org/sections/health-shots/2017/05/06/527053441/businesses-push-back-on-paid-sick-leave-laws</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/ap_358639040243_wide-504bde0c1f30d4c9fcd806a7a4ae8053f4c8d782-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
