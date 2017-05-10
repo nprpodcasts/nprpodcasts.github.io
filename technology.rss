@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2017 00:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 09:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 10 May 2017 00:00:07 +0000</pubDate>
+    <pubDate>Wed, 10 May 2017 09:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</guid>
+      <title>NATO Takes Aim At Disinformation Campaigns</title>
+      <link>http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</link>
+      <description>May 10, 2017 - The NATO alliance is dealing with a new perceived threat: disinformation. Steve Inskeep talks with Janis Sarts of the NATO Strategic Communications Centre of Excellence about countermeasures.</description>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 10, 2017 - The NATO alliance is dealing with a new perceived threat: disinformation. Steve Inskeep talks with Janis Sarts of the NATO Strategic Communications Centre of Excellence about countermeasures.
+
+<a href="http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns">http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527674171/fcc-experiences-denial-of-service-attacks-senators-respond</guid>
       <title>FCC Experiences &#39;Denial-Of-Service&#39; Attacks, Senators Respond</title>
@@ -237,21 +250,6 @@ May 4, 2017 - Facebook, Google and Twitter have been accused in a new lawsuit of
 <a href="http://www.npr.org/2017/05/04/526833437/morning-news-brief-gop-health-care-plan-trump-eases-religious-group-restrictions">http://www.npr.org/2017/05/04/526833437/morning-news-brief-gop-health-care-plan-trump-eases-religious-group-restrictions</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>622</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</guid>
-      <title>The Daredevils Without Landlines — And Why Health Experts Are Tracking Them</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</link>
-      <description>May 4, 2017 - It&#39;s official: A majority of U.S. homes only have mobile phones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s800-c15.jpg"></a>
-
-May 4, 2017 - It's official: A majority of U.S. homes only have mobile phones. But who knew wireless-only households were into risky behavior? A Centers for Disease Control and Prevention researcher explains.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them">http://www.npr.org/sections/alltechconsidered/2015/12/03/458225197/the-daredevils-without-landlines-and-why-health-experts-are-tracking-them</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2015/12/03/istock_000050680886_small_wide-e051aa3f14e636baa830dd12f57cf879d8c319da-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
