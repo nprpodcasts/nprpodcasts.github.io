@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2017 00:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 18:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 10 May 2017 00:00:10 +0000</pubDate>
+    <pubDate>Wed, 10 May 2017 18:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</guid>
+      <title>Why Do Children Love Those Fad Toys So?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</link>
+      <description>May 10, 2017 - Today it&#39;s fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.</description>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s800-c15.jpg"></a>
+
+May 10, 2017 - Today it's fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so">http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</guid>
       <title>Drug Resistant TB Is Predicted To Steadily Spread In 4 Countries</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</link>
       <description>May 9, 2017 - The case numbers are already high in certain countries. It&#39;s not only hard to treat — it&#39;s extremely contagious.</description>
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 9, 2017 - The case numbers are already high in certain countries. It's not only hard to treat — it's extremely contagious.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/gettyimages-524985986_wide-1c3b543843f6ac720c61d8fcc45c48d704686d00-s800-c15.jpg"></a>
+
+May 9, 2017 - The case numbers are already high in certain countries. It's not only hard to treat — it's extremely contagious.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries">http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-524985986_wide-1c3b543843f6ac720c61d8fcc45c48d704686d00-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -44,12 +61,12 @@
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_fact-checking_republicans_defense_of_the_gop_health_bill.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=527627331&amp;t=progseg&amp;e=527544466&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-001e920fdd06d546c41bcf85af9090b7923f383d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-a44eef0a395b5679032c110a926447604cfe505b-s800-c15.jpg"></a>
 
 May 9, 2017 - In TV appearances and meetings with constituents, House Republicans are highlighting parts of the law that protect consumers, while glossing over loopholes that allow insurers to avoid paying.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-001e920fdd06d546c41bcf85af9090b7923f383d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-a44eef0a395b5679032c110a926447604cfe505b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -243,23 +260,6 @@ May 8, 2017 - Receiving the John F. Kennedy Profile in Courage Award for his own
 
 <a href="http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care">http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-680140142_wide-b0d458300a3bdfba47bdf8103b1e107a1b2d96a7-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_fresh_food_by_prescription_this_health_care_firm_is_trimming_costs_and_waistlines.mp3?orgId=1&amp;topicId=1134&amp;d=382&amp;p=3&amp;story=526952657&amp;t=progseg&amp;e=527341990&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fresh Food By Prescription: This Health Care Firm Is Trimming Costs — And Waistlines</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline</link>
-      <description>May 8, 2017 - The rising prevalence and cost of Type 2 diabetes has doctors at Geisinger Health System turning to food as a form of medicine. They&#39;re prescribing free, fresh food to low-income patients.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_fresh_food_by_prescription_this_health_care_firm_is_trimming_costs_and_waistlines.mp3?orgId=1&amp;topicId=1134&amp;d=382&amp;p=3&amp;story=526952657&amp;t=progseg&amp;e=527341990&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/istock-164321266_wide-3aef9ded23bca95f54f04260a37a5a74f08b2e92-s800-c15.jpg"></a>
-
-May 8, 2017 - The rising prevalence and cost of Type 2 diabetes has doctors at Geisinger Health System turning to food as a form of medicine. They're prescribing free, fresh food to low-income patients.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline">http://www.npr.org/sections/thesalt/2017/05/08/526952657/fresh-food-by-prescription-this-health-care-firm-is-trimming-costs-and-waistline</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/istock-164321266_wide-3aef9ded23bca95f54f04260a37a5a74f08b2e92-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>382</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

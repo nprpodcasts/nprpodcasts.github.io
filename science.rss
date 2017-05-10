@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2017 09:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 18:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 10 May 2017 09:00:11 +0000</pubDate>
+    <pubDate>Wed, 10 May 2017 18:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</guid>
+      <title>Why Do Children Love Those Fad Toys So?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</link>
+      <description>May 10, 2017 - Today it&#39;s fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.</description>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s800-c15.jpg"></a>
+
+May 10, 2017 - Today it's fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so">http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</guid>
       <title>How Illegal Gold Mining Relates To The Spread Of Malaria</title>
@@ -235,23 +250,6 @@ May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough
 <a href="http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets">http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>216</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170505_me_americas_protected_natural_areas_are_polluted_by_noise.mp3?orgId=1&amp;topicId=1007&amp;d=158&amp;p=3&amp;story=526889161&amp;t=progseg&amp;e=527011946&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>America&#39;s Protected Natural Areas Are Polluted, By Noise</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise</link>
-      <description>May 4, 2017 - A new survey shows that the sound of cars and planes and other forms of noise pollution are rampant across the American wilderness. In many cases, man-made noise is drowning out the background sounds.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170505_me_americas_protected_natural_areas_are_polluted_by_noise.mp3?orgId=1&amp;topicId=1007&amp;d=158&amp;p=3&amp;story=526889161&amp;t=progseg&amp;e=527011946&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/zion-1_wide-cf4dd7593c505e82ab78e47e051cebf1fc069a59-s800-c15.jpg"></a>
-
-May 4, 2017 - A new survey shows that the sound of cars and planes and other forms of noise pollution are rampant across the American wilderness. In many cases, man-made noise is drowning out the background sounds.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise">http://www.npr.org/sections/thetwo-way/2017/05/04/526889161/americas-protected-natural-areas-are-polluted-by-noise</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/zion-1_wide-cf4dd7593c505e82ab78e47e051cebf1fc069a59-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>158</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
