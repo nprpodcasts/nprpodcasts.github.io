@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 16:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 15:00:19 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 16:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</guid>
+      <title>Tesla Begins Taking Orders For Its Solar Energy Roof Tile Systems</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</link>
+      <description>May 11, 2017 - Tesla offers an &#34;infinity&#34; warranty on its tiles that integrate solar power into roof coverings. The company has published a web tool that can estimate costs and savings</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-5d28a90ad39632d44d8380214b9c83558c1b4235-s800-c15.jpg"></a>
+
+May 11, 2017 - Tesla offers an "infinity" warranty on its tiles that integrate solar power into roof coverings. The company has published a web tool that can estimate costs and savings
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems">http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-5d28a90ad39632d44d8380214b9c83558c1b4235-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</guid>
       <title>Lead Dust From Firearms Can Pose A Silent Health Risk</title>
@@ -235,23 +250,6 @@ May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years">http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/16-nov-2016---foto-2-af-3-foto-anonym-via-thomas-boesdal_wide-0195a113eae6be5b8445db8018fad2452bd6c9e4-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=362&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</link>
-      <description>May 4, 2017 - Just three &#34;no&#34; votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=362&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s800-c15.jpg"></a>
-
-May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch">http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>362</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
