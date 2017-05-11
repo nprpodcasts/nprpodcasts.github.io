@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 22:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 23:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 22:00:08 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 23:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says</guid>
+      <title>Heroin Epidemic Is Driving A Spike In Hepatitis C Cases, CDC Says</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says</link>
+      <description>May 11, 2017 - From 2010 to 2015, the number of new infections leaped nearly 300 percent, according to the Centers for Disease Control and Prevention. And researchers appear confident of the cause.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/gettyimages-467450471_wide-30cc17c006a8eaaff69f1a172ef80806a0927cec-s800-c15.jpg"></a>
+
+May 11, 2017 - From 2010 to 2015, the number of new infections leaped nearly 300 percent, according to the Centers for Disease Control and Prevention. And researchers appear confident of the cause.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says">http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/gettyimages-467450471_wide-30cc17c006a8eaaff69f1a172ef80806a0927cec-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/11/527792274/superbugs-crawled-out-of-the-ocean-450-million-years-ago</guid>
+      <title>Superbugs &#39;Crawled Out&#39; Of The Ocean 450 Million Years Ago</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/11/527792274/superbugs-crawled-out-of-the-ocean-450-million-years-ago</link>
+      <description>May 11, 2017 - We think of antibiotic-resistance as a modern-day problem. Now scientists have evidence that these superbugs have been around for eons. Clues to their origin are offering clues to their defeat.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/old-microbes_wide-0d4a21b3d8fe8f305e3271791fbafeeedaa53a3b-s800-c15.jpg"></a>
+
+May 11, 2017 - We think of antibiotic-resistance as a modern-day problem. Now scientists have evidence that these superbugs have been around for eons. Clues to their origin are offering clues to their defeat.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/11/527792274/superbugs-crawled-out-of-the-ocean-450-million-years-ago">http://www.npr.org/sections/goatsandsoda/2017/05/11/527792274/superbugs-crawled-out-of-the-ocean-450-million-years-ago</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/old-microbes_wide-0d4a21b3d8fe8f305e3271791fbafeeedaa53a3b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/11/527995708/trumps-proposed-usaid-head-knows-aid-and-politics</guid>
       <title>Trump&#39;s Proposed USAID Head Knows Aid — And Politics</title>
@@ -59,15 +89,15 @@ May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the 
       <guid>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</guid>
       <title>Is Rape A Pre-existing Condition? Not Exactly.</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</link>
-      <description>May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for health care tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.</description>
+      <description>May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for conditions tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-91b1204d42fbc76bd803110b83027abe6aba56a0-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-756bac1331856af7c3386f36775b34ed5ba7d4b3-s800-c15.jpg"></a>
 
-May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for health care tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.
+May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for conditions tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly">http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-91b1204d42fbc76bd803110b83027abe6aba56a0-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-756bac1331856af7c3386f36775b34ed5ba7d4b3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,38 +252,6 @@ May 9, 2017 - The U.S. has one kind of gap. The developing world has another, as
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world">http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/promo_wide-706db3136b9918d255a28de482dd2111cad78364-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</guid>
-      <title>One-Third Of New Drugs Had Safety Problems After FDA Approval</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</link>
-      <description>May 9, 2017 - More than 70 drugs approved by the FDA from 2001 to 2010 ran into safety concerns that prompted withdrawals from the market, &#34;black box&#34; warnings or other actions.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/bextra-1_wide-4b2eea372d648a5eb8934612c47b3123d4c2adc0-s800-c15.jpg"></a>
-
-May 9, 2017 - More than 70 drugs approved by the FDA from 2001 to 2010 ran into safety concerns that prompted withdrawals from the market, "black box" warnings or other actions.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval">http://www.npr.org/sections/health-shots/2017/05/09/527575055/one-third-of-new-drugs-had-safety-problems-after-fda-approval</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/bextra-1_wide-4b2eea372d648a5eb8934612c47b3123d4c2adc0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_dont_screen_for_thyroid_cancer_task_force_says.mp3?orgId=1&amp;topicId=1128&amp;d=137&amp;p=2&amp;story=527569291&amp;t=progseg&amp;e=527544466&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Don&#39;t Screen For Thyroid Cancer, Task Force Says</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</link>
-      <description>May 9, 2017 - A federal task force says the risks of screening outweigh benefits. Many thyroid growths never develop into dangerous cancers, and overdiagnosis can lead people to have unnecessary surgery.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_dont_screen_for_thyroid_cancer_task_force_says.mp3?orgId=1&amp;topicId=1128&amp;d=137&amp;p=2&amp;story=527569291&amp;t=progseg&amp;e=527544466&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s800-c15.jpg"></a>
-
-May 9, 2017 - A federal task force says the risks of screening outweigh benefits. Many thyroid growths never develop into dangerous cancers, and overdiagnosis can lead people to have unnecessary surgery.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says">http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>137</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
