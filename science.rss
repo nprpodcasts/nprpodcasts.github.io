@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 19:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 17:00:21 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 19:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/527941678/disappearing-montana-glaciers-a-bellwether-of-melting-to-come</guid>
+      <title>Disappearing Montana Glaciers A &#39;Bellwether&#39; Of Melting To Come?</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/11/527941678/disappearing-montana-glaciers-a-bellwether-of-melting-to-come</link>
+      <description>May 11, 2017 - Glaciers there are &#34;an early indicator of the kinds of changes that are going to occur elsewhere,&#34; a scientist says. Since 1966, the glaciers in Glacier National Park shrunk an average of 39 percent.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/11/chaney-glacier_wide-05ab38e5a566b61488354e5ba860d21b0be0f650-s800-c15.jpg"></a>
+
+May 11, 2017 - Glaciers there are "an early indicator of the kinds of changes that are going to occur elsewhere," a scientist says. Since 1966, the glaciers in Glacier National Park shrunk an average of 39 percent.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/11/527941678/disappearing-montana-glaciers-a-bellwether-of-melting-to-come">http://www.npr.org/sections/thetwo-way/2017/05/11/527941678/disappearing-montana-glaciers-a-bellwether-of-melting-to-come</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/chaney-glacier_wide-05ab38e5a566b61488354e5ba860d21b0be0f650-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</guid>
       <title>Tesla Begins Taking Orders For Its Solar Energy Roof Tile Systems</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</link>
       <description>May 11, 2017 - The company offers an &#34;infinity&#34; warranty on its tiles that integrate solar power into roof coverings. Tesla has published a web tool that can estimate costs and savings.</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-5d28a90ad39632d44d8380214b9c83558c1b4235-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-553051747d1fda058da4ebd0529d66ab4617d765-s800-c15.jpg"></a>
 
 May 11, 2017 - The company offers an "infinity" warranty on its tiles that integrate solar power into roof coverings. Tesla has published a web tool that can estimate costs and savings.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems">http://www.npr.org/sections/thetwo-way/2017/05/11/527930243/tesla-begins-taking-orders-for-its-solar-energy-roof-tile-systems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-5d28a90ad39632d44d8380214b9c83558c1b4235-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/ap_17130702914832_wide-553051747d1fda058da4ebd0529d66ab4617d765-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +250,6 @@ May 5, 2017 - You're born with roughly 9,000 taste buds, and they're very good a
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age">http://www.npr.org/sections/thesalt/2017/05/05/526750174/why-taste-buds-dull-as-we-age</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/03/tastebud_wide-9e331637db240cbfe34557b6a97f594ed992ade0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</guid>
-      <title>Denmark Now Has A Wild Wolf Pack Again — For The First Time In 200 Years</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</link>
-      <description>May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female has migrated more than 340 miles from Germany to join a small group of wolves in the Jutland peninsula.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/16-nov-2016---foto-2-af-3-foto-anonym-via-thomas-boesdal_wide-0195a113eae6be5b8445db8018fad2452bd6c9e4-s800-c15.jpg"></a>
-
-May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female has migrated more than 340 miles from Germany to join a small group of wolves in the Jutland peninsula.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years">http://www.npr.org/sections/thetwo-way/2017/05/04/526937018/denmark-now-has-a-wild-wolf-pack-again-for-the-first-time-in-200-years</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/04/16-nov-2016---foto-2-af-3-foto-anonym-via-thomas-boesdal_wide-0195a113eae6be5b8445db8018fad2452bd6c9e4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

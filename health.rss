@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 18:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 19:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 18:00:07 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 19:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</guid>
+      <title>Why Your Sense Of Smell Is Better Than You Might Think</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</link>
+      <description>May 11, 2017 - A neuroscientist argues that our noses are more powerful than we think. Humans, he says, actually have a great sense of smell.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s800-c15.jpg"></a>
+
+May 11, 2017 - A neuroscientist argues that our noses are more powerful than we think. Humans, he says, actually have a great sense of smell.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think">http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</guid>
       <title>Cholera 101: An Ancient Disease Keeps Cropping Up</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</link>
-      <description>May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world&#39;s worst outbreak. Why does this water-born disease remain a global health risk?</description>
+      <description>May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world&#39;s worst outbreak. Why does this waterborne disease remain a global health risk?</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/gettyimages-463899545a_wide-c68dd28b722647f7cdb272f797a011ac721cb832-s800-c15.jpg"></a>
 
-May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world's worst outbreak. Why does this water-born disease remain a global health risk?
+May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world's worst outbreak. Why does this waterborne disease remain a global health risk?
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up">http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-463899545a_wide-c68dd28b722647f7cdb272f797a011ac721cb832-s3000-c15.jpg"></itunes:image>
@@ -237,23 +252,6 @@ May 8, 2017 - Before the Affordable Care Act, people with pre-existing condition
 <a href="http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states">http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-218b57f03aa37598aa5e7a39d2736a9bb55805e2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>210</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_is_a_stradivarius_violin_easier_to_hear_science_says_nope.mp3?orgId=1&amp;topicId=1128&amp;d=187&amp;p=2&amp;story=527057108&amp;t=progseg&amp;e=527360254&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Is A Stradivarius Violin Easier To Hear? Science Says Nope</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/08/527057108/is-a-stradivarius-violin-easier-to-hear-science-says-nope</link>
-      <description>May 8, 2017 - Old Italian violins like those made by Stradivari are famous for their ability to project their sound. But a study found people in a blind test thought new violins projected better than old ones.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_is_a_stradivarius_violin_easier_to_hear_science_says_nope.mp3?orgId=1&amp;topicId=1128&amp;d=187&amp;p=2&amp;story=527057108&amp;t=progseg&amp;e=527360254&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/violin-preference-1_wide-ab93c8e0c1cf656f6e3c78ec8e9b449e59d784df-s800-c15.jpg"></a>
-
-May 8, 2017 - Old Italian violins like those made by Stradivari are famous for their ability to project their sound. But a study found people in a blind test thought new violins projected better than old ones.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/08/527057108/is-a-stradivarius-violin-easier-to-hear-science-says-nope">http://www.npr.org/sections/health-shots/2017/05/08/527057108/is-a-stradivarius-violin-easier-to-hear-science-says-nope</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/violin-preference-1_wide-ab93c8e0c1cf656f6e3c78ec8e9b449e59d784df-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>187</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
