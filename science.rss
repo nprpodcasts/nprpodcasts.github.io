@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2017 18:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 15:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 10 May 2017 18:00:14 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 15:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</guid>
+      <title>Lead Dust From Firearms Can Pose A Silent Health Risk</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</link>
+      <description>May 10, 2017 - The Department of Defense has increased protections for military personnel from exposure to lead from firearms. It can be a health problem for people using recreational shooting ranges, too.</description>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/09/lead-spray_wide-eda657b5e4048bfef772f9fbaff8734e1deb60be-s800-c15.jpg"></a>
+
+May 10, 2017 - The Department of Defense has increased protections for military personnel from exposure to lead from firearms. It can be a health problem for people using recreational shooting ranges, too.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk">http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/lead-spray_wide-eda657b5e4048bfef772f9fbaff8734e1deb60be-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</guid>
       <title>Why Do Children Love Those Fad Toys So?</title>
@@ -39,16 +54,18 @@ May 10, 2017 - Today it's fidget spinners, but soon it will be another little gi
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170511_me_how_illegal_gold_mining_relates_to_the_spread_of_malaria.mp3?orgId=1&amp;topicId=1007&amp;d=206&amp;p=3&amp;story=527720163&amp;t=progseg&amp;e=527894909&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Illegal Gold Mining Relates To The Spread Of Malaria</title>
       <link>http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</link>
-      <description>May 10, 2017 - New social science research shows that there is a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.</description>
+      <description>May 10, 2017 - New social science research shows a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.</description>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170511_me_how_illegal_gold_mining_relates_to_the_spread_of_malaria.mp3?orgId=1&amp;topicId=1007&amp;d=206&amp;p=3&amp;story=527720163&amp;t=progseg&amp;e=527894909&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 10, 2017 - New social science research shows that there is a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.
+      <itunes:summary><![CDATA[May 10, 2017 - New social science research shows a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.
 
 <a href="http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria">http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -221,12 +238,12 @@ May 4, 2017 - Citing CCTV footage and DNA samples, two researchers say a female 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=315&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=362&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>5 Things To Watch As GOP Health Bill Moves To The Senate</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</link>
       <description>May 4, 2017 - Just three &#34;no&#34; votes by Senate Republicans would likely be enough to sink the GOP health bill. Democrats who lost the battle in the House are still convinced they can win the political war.</description>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=315&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170507_atc_5_things_to_watch_as_gop_health_bill_moves_to_the_senate.mp3?orgId=105043435&amp;topicId=1027&amp;d=362&amp;p=2&amp;story=526922980&amp;t=progseg&amp;e=527289238&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s800-c15.jpg"></a>
 
@@ -234,22 +251,7 @@ May 4, 2017 - Just three "no" votes by Senate Republicans would likely be enough
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch">http://www.npr.org/sections/health-shots/2017/05/04/526922980/gop-health-bill-moves-to-the-senate-5-things-to-watch</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/04/paul-ryan-ahca_wide-96912a52c5ab5cf7c4f11bf756bd6deb4d33ccd2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>315</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_citizen_scientist_challenges_math_behind_red_light_camera_tickets.mp3?orgId=1&amp;topicId=1007&amp;d=216&amp;p=2&amp;story=526931921&amp;t=progseg&amp;e=526842842&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Citizen Scientist Challenges Math Behind Red Light Camera Tickets</title>
-      <link>http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets</link>
-      <description>May 4, 2017 - A man in Oregon is challenging the math behind red light camera tickets. Mats Järlström calculates that drivers who end up in an intersection when the light goes yellow can be trapped in a no-win dilemma, particularly if they are making a turn. NPR&#39;s Kelly McEvers talks to Aarian Marshall, who wrote about the case for Wired magazine.</description>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170504_atc_citizen_scientist_challenges_math_behind_red_light_camera_tickets.mp3?orgId=1&amp;topicId=1007&amp;d=216&amp;p=2&amp;story=526931921&amp;t=progseg&amp;e=526842842&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 4, 2017 - A man in Oregon is challenging the math behind red light camera tickets. Mats Järlström calculates that drivers who end up in an intersection when the light goes yellow can be trapped in a no-win dilemma, particularly if they are making a turn. NPR's Kelly McEvers talks to Aarian Marshall, who wrote about the case for Wired magazine.
-
-<a href="http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets">http://www.npr.org/2017/05/04/526931921/citizen-scientist-challenges-math-behind-red-light-camera-tickets</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>216</itunes:duration>
+      <itunes:duration>362</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
