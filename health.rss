@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 19:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 20:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 19:00:16 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 20:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</guid>
+      <title>Is Rape A Pre-existing Condition? Not Exactly.</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</link>
+      <description>May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for health care tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-91b1204d42fbc76bd803110b83027abe6aba56a0-s800-c15.jpg"></a>
+
+May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for health care tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly">http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-91b1204d42fbc76bd803110b83027abe6aba56a0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</guid>
       <title>Why Your Sense Of Smell Is Better Than You Might Think</title>
@@ -235,23 +250,6 @@ May 9, 2017 - The inspector general at Health and Human Services says Medicare s
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections">http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/hospital-1_wide-49bd3e70ae15459a87729f8276dcd9aef6887013-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_gop_health_bill_leaves_some_key_aca_protections_up_to_state_legislatures.mp3?orgId=17&amp;topicId=1128&amp;d=210&amp;p=2&amp;story=527415655&amp;t=progseg&amp;e=527360254&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Health Bill Leaves Many &#39;Pre-Existing Condition&#39; Protections Up To States</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states</link>
-      <description>May 8, 2017 - Before the Affordable Care Act, people with pre-existing conditions often couldn&#39;t get health insurance — or paid sky-high premiums. The bill passed by the House last week would let states decide.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_gop_health_bill_leaves_some_key_aca_protections_up_to_state_legislatures.mp3?orgId=17&amp;topicId=1128&amp;d=210&amp;p=2&amp;story=527415655&amp;t=progseg&amp;e=527360254&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-218b57f03aa37598aa5e7a39d2736a9bb55805e2-s800-c15.jpg"></a>
-
-May 8, 2017 - Before the Affordable Care Act, people with pre-existing conditions often couldn't get health insurance — or paid sky-high premiums. The bill passed by the House last week would let states decide.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states">http://www.npr.org/sections/health-shots/2017/05/08/527415655/gop-health-bill-leaves-many-pre-existing-condition-protections-up-to-states</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/fines-2_wide-218b57f03aa37598aa5e7a39d2736a9bb55805e2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
