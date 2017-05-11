@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 21:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 21:00:09 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/11/527995708/trumps-proposed-usaid-head-knows-aid-and-politics</guid>
+      <title>Trump&#39;s Proposed USAID Head Knows Aid — And Politics</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/11/527995708/trumps-proposed-usaid-head-knows-aid-and-politics</link>
+      <description>May 11, 2017 - Mark Green is a former congressman, ambassador — and teacher of English in Kenya. What are aid groups saying about his nomination?</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/mark-green_wide-300da84c77e0a7e7826c3c7b5e9ced5da7c96e00-s800-c15.jpg"></a>
+
+May 11, 2017 - Mark Green is a former congressman, ambassador — and teacher of English in Kenya. What are aid groups saying about his nomination?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/11/527995708/trumps-proposed-usaid-head-knows-aid-and-politics">http://www.npr.org/sections/goatsandsoda/2017/05/11/527995708/trumps-proposed-usaid-head-knows-aid-and-politics</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/mark-green_wide-300da84c77e0a7e7826c3c7b5e9ced5da7c96e00-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_nebraska_shuts_down_liquor_stores_near_dry_native_american_reservation.mp3?orgId=1&amp;topicId=1091&amp;d=233&amp;p=2&amp;story=527832897&amp;t=progseg&amp;e=527904880&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>With Alcoholism Rampant On Nearby Reservation, Nebraska Shuts Town&#39;s Liquor Stores</title>
       <link>http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</link>
       <description>May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the dry Pine Ridge reservation, where half the adults struggle with alcohol abuse. But critics say the move infringes upon business rights.</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_nebraska_shuts_down_liquor_stores_near_dry_native_american_reservation.mp3?orgId=1&amp;topicId=1091&amp;d=233&amp;p=2&amp;story=527832897&amp;t=progseg&amp;e=527904880&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/051117-whiteclay-closes-3_wide-3ac97ca6fb452505d801ddfeafd3364c20e96e66-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the 
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores">http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/051117-whiteclay-closes-3_wide-3ac97ca6fb452505d801ddfeafd3364c20e96e66-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -54,11 +71,12 @@ May 11, 2017 - Before the Affordable Care Act, rape victims could have been deni
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_why_your_sense_of_smell_is_better_than_you_might_think.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=527750147&amp;t=progseg&amp;e=527904880&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why Your Sense Of Smell Is Better Than You Might Think</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</link>
       <description>May 11, 2017 - A neuroscientist argues that our noses are more powerful than we think. Humans, he says, actually have a great sense of smell.</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_why_your_sense_of_smell_is_better_than_you_might_think.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=527750147&amp;t=progseg&amp;e=527904880&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s800-c15.jpg"></a>
 
@@ -66,6 +84,7 @@ May 11, 2017 - A neuroscientist argues that our noses are more powerful than we 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think">http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +254,6 @@ May 9, 2017 - A federal task force says the risks of screening outweigh benefits
 <a href="http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says">http://www.npr.org/sections/health-shots/2017/05/09/527569291/dont-screen-for-thyroid-cancer-task-force-says</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/thyroid-ultrasound_wide-0a3182c774f978dfe0a1d278220766a60362e777-s3000-c15.jpg"></itunes:image>
       <itunes:duration>137</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</guid>
-      <title>New Businesses Give Restaurant Workers The Tips They Ache For: Wellness</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</link>
-      <description>May 9, 2017 - Waiting, cooking and tending bar can take a heavy toll on the body and mind. Several health-minded support services are springing up to help workers stay in the game for the long term.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/01/brenner_npr_bartending_08_wide-6b59e38b27eddd6b9f165728c5e9ca35a7422d37-s800-c15.jpg"></a>
-
-May 9, 2017 - Waiting, cooking and tending bar can take a heavy toll on the body and mind. Several health-minded support services are springing up to help workers stay in the game for the long term.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness">http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/brenner_npr_bartending_08_wide-6b59e38b27eddd6b9f165728c5e9ca35a7422d37-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
