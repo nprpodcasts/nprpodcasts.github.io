@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 16:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 18:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 16:00:05 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 18:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</guid>
+      <title>What Pepe The Frog&#39;s Death Can Teach Us About The Internet</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</link>
+      <description>May 11, 2017 - His creator killed the frog in a comic strip, after the character spent much of 2016 tied to the alt-right. Pepe&#39;s sad tale is a modern parable of how awful the Internet can be.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/10/gettyimages-674144948_wide-2f948bfd7382e4d42489823af5b37c0a9adf0bca-s800-c15.jpg"></a>
+
+May 11, 2017 - His creator killed the frog in a comic strip, after the character spent much of 2016 tied to the alt-right. Pepe's sad tale is a modern parable of how awful the Internet can be.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet">http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/gettyimages-674144948_wide-2f948bfd7382e4d42489823af5b37c0a9adf0bca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</guid>
       <title>Will Foreign Mischief In U.S. Elections Become &#39;The New Normal&#39;?</title>
       <link>http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</link>
       <description>May 11, 2017 - Bitterly divided over the Russian meddling in the 2016 campaign, leaders in Washington so far are not focused on deterring more interference in the next major elections.</description>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-143123a881c1438e35430b582fd2c6154696ed8c-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-093353d9650e90ea33cb489db65c1a19b9b442c2-s800-c15.jpg"></a>
 
 May 11, 2017 - Bitterly divided over the Russian meddling in the 2016 campaign, leaders in Washington so far are not focused on deterring more interference in the next major elections.
 
 <a href="http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal">http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-143123a881c1438e35430b582fd2c6154696ed8c-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-093353d9650e90ea33cb489db65c1a19b9b442c2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ May 8, 2017 - The company says it needs that much water to cool its servers at a
 <a href="http://www.npr.org/2017/05/06/527196369/on-the-eve-of-french-election-hackers-release-data-from-macron-campaign">http://www.npr.org/2017/05/06/527196369/on-the-eve-of-french-election-hackers-release-data-from-macron-campaign</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>264</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_new_software_can_mimic_anyones_voice.mp3?orgId=1&amp;topicId=1019&amp;d=101&amp;p=3&amp;story=527013820&amp;t=progseg&amp;e=527341990&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Software Can Mimic Anyone&#39;s Voice</title>
-      <link>http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</link>
-      <description>May 5, 2017 - A company in Canada has come up with away to recreate anyone&#39;s voice and get it to say almost anything. It opens up dangerous possibilities, however.&#xA;&#xA; - http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170508_me_new_software_can_mimic_anyones_voice.mp3?orgId=1&amp;topicId=1019&amp;d=101&amp;p=3&amp;story=527013820&amp;t=progseg&amp;e=527341990&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 5, 2017 - A company in Canada has come up with away to recreate anyone's voice and get it to say almost anything. It opens up dangerous possibilities, however.
-
-<a href="http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice">http://www.npr.org/2017/05/05/527013820/new-software-can-mimic-anyones-voice</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>101</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
