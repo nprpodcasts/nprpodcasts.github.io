@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 20:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 21:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 20:00:14 +0000</pubDate>
+    <pubDate>Thu, 11 May 2017 21:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</guid>
+      <title>With Alcoholism Rampant On Nearby Reservation, Nebraska Shuts Town&#39;s Liquor Stores</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</link>
+      <description>May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the dry Pine Ridge reservation, where half the adults struggle with alcohol abuse. But critics say the move infringes upon business rights.</description>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/051117-whiteclay-closes-3_wide-3ac97ca6fb452505d801ddfeafd3364c20e96e66-s800-c15.jpg"></a>
+
+May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the dry Pine Ridge reservation, where half the adults struggle with alcohol abuse. But critics say the move infringes upon business rights.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores">http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/051117-whiteclay-closes-3_wide-3ac97ca6fb452505d801ddfeafd3364c20e96e66-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</guid>
       <title>Is Rape A Pre-existing Condition? Not Exactly.</title>
@@ -235,21 +250,6 @@ May 9, 2017 - Waiting, cooking and tending bar can take a heavy toll on the body
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness">http://www.npr.org/sections/thesalt/2017/05/09/524398689/new-businesses-give-restaurant-workers-the-tips-they-ache-for-wellness</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/01/brenner_npr_bartending_08_wide-6b59e38b27eddd6b9f165728c5e9ca35a7422d37-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</guid>
-      <title>Medicare Didn&#39;t Investigate Suspicious Reports Of Hospital Infections</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</link>
-      <description>May 9, 2017 - The inspector general at Health and Human Services says Medicare should have done an in-depth review of suspicious reports from hospitals to keep them from covering up problems with infections.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/hospital-1_wide-49bd3e70ae15459a87729f8276dcd9aef6887013-s800-c15.jpg"></a>
-
-May 9, 2017 - The inspector general at Health and Human Services says Medicare should have done an in-depth review of suspicious reports from hospitals to keep them from covering up problems with infections.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections">http://www.npr.org/sections/health-shots/2017/05/09/527432852/medicare-didnt-investigate-suspicious-reports-of-hospital-infections</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/hospital-1_wide-49bd3e70ae15459a87729f8276dcd9aef6887013-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
