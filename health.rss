@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 19:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 20:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 19:00:06 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 20:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -66,6 +66,21 @@ May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website ca
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a1170512.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Friday News Roundup - Domestic</title>
+      <link>http://the1a.org/shows/2017-05-12/friday-news-roundup-domestic</link>
+      <description>May 12, 2017 - The controversial firing of FBI Director James Comey dominated the news this week. Guest host John Donvan and a panel of journalists discuss that and other happenings around the U.S., including the Texas governor&#39;s ban on sanctuary cities and how Shaquille O&#39;Neal might do as a sheriff.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a1170512.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - The controversial firing of FBI Director James Comey dominated the news this week. Guest host John Donvan and a panel of journalists discuss that and other happenings around the U.S., including the Texas governor's ban on sanctuary cities and how Shaquille O'Neal might do as a sheriff.
+
+<a href="http://the1a.org/shows/2017-05-12/friday-news-roundup-domestic">http://the1a.org/shows/2017-05-12/friday-news-roundup-domestic</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2826</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ May 11, 2017 - This is the latest study to find that arthroscopic surgery doesn'
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain">http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/11/gettyimages-151032865_wide-878a2fda2d29a42bbab8abd6693882d13eb91c15-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands</guid>
-      <title>How To Do A Really Good Job Washing Your Hands</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands</link>
-      <description>May 10, 2017 - A recent study gives thumbs up to the World Health Organization&#39;s 6-step plan. The problem is that lots of people — including health workers — fail to scrub.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/08/gettyimages-150782231a_wide-4f89f004855036eb8bf2311ae9e713cb2b245650-s800-c15.jpg"></a>
-
-May 10, 2017 - A recent study gives thumbs up to the World Health Organization's 6-step plan. The problem is that lots of people — including health workers — fail to scrub.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands">http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-150782231a_wide-4f89f004855036eb8bf2311ae9e713cb2b245650-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
