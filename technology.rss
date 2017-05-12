@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 21:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 20:00:19 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 21:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</guid>
+      <title>British Hospitals Among Targets Of Global Ransomware Attack</title>
+      <link>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</link>
+      <description>May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.
+
+<a href="http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack">http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</guid>
       <title>Where ICE Already Has Direct Lines to Law-Enforcement Databases With Immigrant Data</title>
@@ -42,15 +55,15 @@ May 12, 2017 - Immigration and Customs Enforcement documents show that for years
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
       <title>Ransomware Attacks Ravage Computer Networks In Dozens Of Countries</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</link>
-      <description>May 12, 2017 - Malware called The same malware is being blamed for large-scale attacks in and Asia. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.</description>
+      <description>May 12, 2017 - Malware called Wana Decryptor is being blamed for large-scale attacks around the world. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/gettyimages-649554760_wide-e2a75cf8e20ecd912c9fe99ec17f10fb381feb3a-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s800-c15.png"></a>
 
-May 12, 2017 - Malware called The same malware is being blamed for large-scale attacks in and Asia. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.
+May 12, 2017 - Malware called Wana Decryptor is being blamed for large-scale attacks around the world. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded">http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/gettyimages-649554760_wide-e2a75cf8e20ecd912c9fe99ec17f10fb381feb3a-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,23 +248,6 @@ May 8, 2017 - The decision could have global consequences: The court ruled that 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech">http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-180397525_wide-eda2b5ebb0f1852545b1dae4a8c10321638674bb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_longtime_tech_reporter_walt_mossberg_is_signing_off.mp3?orgId=1&amp;topicId=1019&amp;d=434&amp;p=2&amp;story=527407726&amp;t=progseg&amp;e=527360254&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>After Decades Covering It, Tech Still Amazes Walt Mossberg</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/08/527407726/after-decades-covering-it-tech-still-amazes-walt-mossberg</link>
-      <description>May 8, 2017 - He began covering personal technology in the 1990s, when he says tech columns were written &#34;by geeks for geeks.&#34; As he retires, Mossberg reflects on how tech has evolved, often in unexpected ways.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_longtime_tech_reporter_walt_mossberg_is_signing_off.mp3?orgId=1&amp;topicId=1019&amp;d=434&amp;p=2&amp;story=527407726&amp;t=progseg&amp;e=527360254&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/08/WaltMossberg_wide-9551d5b8c77de72b6667bbb7be2ed1a3bd769562-s800-c15.jpeg"></a>
-
-May 8, 2017 - He began covering personal technology in the 1990s, when he says tech columns were written "by geeks for geeks." As he retires, Mossberg reflects on how tech has evolved, often in unexpected ways.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/08/527407726/after-decades-covering-it-tech-still-amazes-walt-mossberg">http://www.npr.org/sections/alltechconsidered/2017/05/08/527407726/after-decades-covering-it-tech-still-amazes-walt-mossberg</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/WaltMossberg_wide-9551d5b8c77de72b6667bbb7be2ed1a3bd769562-s3000-c15.jpeg"></itunes:image>
-      <itunes:duration>434</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

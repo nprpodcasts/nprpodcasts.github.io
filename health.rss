@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 20:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 21:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 20:00:22 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 21:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program</guid>
+      <title>Michelle Obama Slams Trump For Rolling Back Her School Meals Program</title>
+      <link>http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program</link>
+      <description>May 12, 2017 - Days after the Trump administration changed the rules on school lunches and postponed new regulations requiring calorie labeling on menus, former First Lady Michelle Obama spoke out. She told an annual health conference Friday to &#34;look at [the] motives&#34; behind the government&#39;s decision, without naming Trump.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - Days after the Trump administration changed the rules on school lunches and postponed new regulations requiring calorie labeling on menus, former First Lady Michelle Obama spoke out. She told an annual health conference Friday to "look at [the] motives" behind the government's decision, without naming Trump.
+
+<a href="http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program">http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
@@ -241,21 +254,6 @@ May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up">http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-463899545a_wide-c68dd28b722647f7cdb272f797a011ac721cb832-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain</guid>
-      <title>Arthroscopic Surgery Doesn&#39;t Help With Arthritis Knee Pain</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain</link>
-      <description>May 11, 2017 - This is the latest study to find that arthroscopic surgery doesn&#39;t reduce pain for people with knee arthritis, and can cause other problems. The procedure remains popular in the U.S.</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/gettyimages-151032865_wide-878a2fda2d29a42bbab8abd6693882d13eb91c15-s800-c15.jpg"></a>
-
-May 11, 2017 - This is the latest study to find that arthroscopic surgery doesn't reduce pain for people with knee arthritis, and can cause other problems. The procedure remains popular in the U.S.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain">http://www.npr.org/sections/health-shots/2017/05/11/527915056/arthroscopic-surgery-doesnt-help-with-arthritis-knee-pain</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/gettyimages-151032865_wide-878a2fda2d29a42bbab8abd6693882d13eb91c15-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
