@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 12:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 13:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 12:00:09 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 13:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/05/20170512_ted_01.mp3?orgId=1&amp;topicId=1001&amp;d=747&amp;p=57&amp;story=527939178&amp;t=progseg&amp;e=526949840&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Sue Klebold: When Your Son Does The Unthinkable, Can You Forgive Him And Yourself?</title>
+      <link>http://www.npr.org/2017/05/12/527939178/sue-klebold-when-your-son-does-the-unthinkable-can-you-forgive-him-and-yourself</link>
+      <description>May 12, 2017 - Sue Klebold&#39;s son Dylan was one of the two shooters at Columbine High School. Nearly 20 years later, she talks about her struggle to understand his actions, and to find forgiveness.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/05/20170512_ted_01.mp3?orgId=1&amp;topicId=1001&amp;d=747&amp;p=57&amp;story=527939178&amp;t=progseg&amp;e=526949840&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/sueklebold_2016p-embed_wide-753e16cd545d9519dfb4219bbde1f60b0669d60f-s800-c15.jpg"></a>
+
+May 12, 2017 - Sue Klebold's son Dylan was one of the two shooters at Columbine High School. Nearly 20 years later, she talks about her struggle to understand his actions, and to find forgiveness.
+
+<a href="http://www.npr.org/2017/05/12/527939178/sue-klebold-when-your-son-does-the-unthinkable-can-you-forgive-him-and-yourself">http://www.npr.org/2017/05/12/527939178/sue-klebold-when-your-son-does-the-unthinkable-can-you-forgive-him-and-yourself</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/sueklebold_2016p-embed_wide-753e16cd545d9519dfb4219bbde1f60b0669d60f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>747</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_focus_on_infants_during_childbirth_leaves_us_moms_in_danger_.mp3?orgId=1&amp;topicId=1150&amp;d=422&amp;p=3&amp;story=527806002&amp;t=progseg&amp;e=528068779&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Focus On Infants During Childbirth Leaves U.S. Moms In Danger </title>
@@ -239,23 +256,6 @@ May 9, 2017 - The case numbers are already high in certain countries. It's not o
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries">http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-524985986_wide-1c3b543843f6ac720c61d8fcc45c48d704686d00-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_fact-checking_republicans_defense_of_the_gop_health_bill.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=527627331&amp;t=progseg&amp;e=527544466&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fact-Checking Republicans&#39; Defense Of The GOP Health Bill</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</link>
-      <description>May 9, 2017 - In TV appearances and meetings with constituents, House Republicans are highlighting parts of the law that protect consumers, while glossing over loopholes that allow insurers to avoid paying.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_fact-checking_republicans_defense_of_the_gop_health_bill.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=527627331&amp;t=progseg&amp;e=527544466&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-a44eef0a395b5679032c110a926447604cfe505b-s800-c15.jpg"></a>
-
-May 9, 2017 - In TV appearances and meetings with constituents, House Republicans are highlighting parts of the law that protect consumers, while glossing over loopholes that allow insurers to avoid paying.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-a44eef0a395b5679032c110a926447604cfe505b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
