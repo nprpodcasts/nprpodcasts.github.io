@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 11:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 16:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 11:00:15 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 16:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
+      <title>Ransom Software Takes Over Computers In England&#39;s NHS Hospital System</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</link>
+      <description>May 12, 2017 - England&#39;s National Health Service is scrambling to respond to a large cyber attack that has crippled its ability to treat patients, after computer users in the public health system were hit.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - England's National Health Service is scrambling to respond to a large cyber attack that has crippled its ability to treat patients, after computer users in the public health system were hit.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded">http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</guid>
+      <title>Fake Medical News Can Now Be Fact-Checked In India</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</link>
+      <description>May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s800-c15.jpg"></a>
+
+May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_what_pepe_the_frogs_death_can_teach_us_about_the_internet.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=527590762&amp;t=progseg&amp;e=528068779&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>What Pepe The Frog&#39;s Death Can Teach Us About The Internet</title>
@@ -222,38 +250,6 @@ May 8, 2017 - He began covering personal technology in the 1990s, when he says t
 <a href="http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages">http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</guid>
-      <title>When You&#39;re Not Quite Sure If Your Teacher Is Human</title>
-      <link>http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</link>
-      <description>May 8, 2017 - When this computer science professor became overwhelmed with the number of questions students were asking, he recruited artificial intelligence to help serve up some answers.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/28/npr-ai-teaching-artwork-100--v2_wide-ebf59ae9500957c2a490e99348f2760c826c1f6e-s800-c15.jpg"></a>
-
-May 8, 2017 - When this computer science professor became overwhelmed with the number of questions students were asking, he recruited artificial intelligence to help serve up some answers.
-
-<a href="http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human">http://www.npr.org/sections/ed/2017/05/08/524550295/when-youre-not-quite-sure-if-your-teacher-is-human</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/28/npr-ai-teaching-artwork-100--v2_wide-ebf59ae9500957c2a490e99348f2760c826c1f6e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_google_moves_in_and_wants_to_pump_15_million_gallons_of_water_per_day.mp3?orgId=1&amp;topicId=1091&amp;d=244&amp;p=2&amp;story=527214026&amp;t=progseg&amp;e=527544466&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Google Moves In And Wants To Pump 1.5 Million Gallons Of Water Per Day</title>
-      <link>http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</link>
-      <description>May 8, 2017 - The company says it needs that much water to cool its servers at a South Carolina data center. Now, community leaders are having to balance economic benefits with environmental impact.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_google_moves_in_and_wants_to_pump_15_million_gallons_of_water_per_day.mp3?orgId=1&amp;topicId=1091&amp;d=244&amp;p=2&amp;story=527214026&amp;t=progseg&amp;e=527544466&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s800-c15.jpg"></a>
-
-May 8, 2017 - The company says it needs that much water to cool its servers at a South Carolina data center. Now, community leaders are having to balance economic benefits with environmental impact.
-
-<a href="http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day">http://www.npr.org/2017/05/08/527214026/google-moves-in-and-wants-to-pump-1-5-million-gallons-of-water-per-day</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/06/ap_894802067286_wide-a0f53b9fb27339878439d8570bfe130ffacbc402-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>244</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
