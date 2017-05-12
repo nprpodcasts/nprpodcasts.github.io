@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 02:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 19:00:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 02:00:09 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 19:00:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
+      <link>http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</link>
+      <description>May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.
+
+<a href="http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny">http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1837</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says</guid>
       <title>Heroin Epidemic Is Driving A Spike In Hepatitis C Cases, CDC Says</title>
@@ -235,21 +250,6 @@ May 8, 2017 - For a secret aircraft, the X-37B wasn't very stealthy about its re
 <a href="http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage">http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</guid>
-      <title>Crayola Gives The People What They Want: A New Blue Crayon</title>
-      <link>http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</link>
-      <description>May 5, 2017 - After Crayola announced it was retiring the yellow crayon Dandelion, the company said its replacement would be blue, but would it be a true blue? No, it&#39;s actually an accidental blue.</description>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/05/yinmnbluecrayon-lablifestyle_digital_01_wide-150368297b430e761215845d0061385cdb1dd5ed-s800-c15.jpg"></a>
-
-May 5, 2017 - After Crayola announced it was retiring the yellow crayon Dandelion, the company said its replacement would be blue, but would it be a true blue? No, it's actually an accidental blue.
-
-<a href="http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon">http://www.npr.org/2017/05/05/526808319/crayola-gives-the-people-what-they-want-a-new-blue-crayon</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/yinmnbluecrayon-lablifestyle_digital_01_wide-150368297b430e761215845d0061385cdb1dd5ed-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

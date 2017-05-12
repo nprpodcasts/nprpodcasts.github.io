@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 17:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 19:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 17:00:08 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 19:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
+      <link>http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</link>
+      <description>May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.
+
+<a href="http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny">http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1837</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents</guid>
       <title>Inflatable Beds: Dangerous For Infants, Attractive To Cash-Strapped Parents</title>
@@ -241,21 +256,6 @@ May 10, 2017 - A recent study gives thumbs up to the World Health Organization's
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands">http://www.npr.org/sections/goatsandsoda/2017/05/10/527047739/how-to-do-a-really-good-job-washing-your-hands</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-150782231a_wide-4f89f004855036eb8bf2311ae9e713cb2b245650-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</guid>
-      <title>Lead Dust From Firearms Can Pose A Silent Health Risk</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</link>
-      <description>May 10, 2017 - The Department of Defense has increased protections for military personnel from exposure to lead from firearms. It can be a health problem for people using recreational shooting ranges, too.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/lead-spray_wide-eda657b5e4048bfef772f9fbaff8734e1deb60be-s800-c15.jpg"></a>
-
-May 10, 2017 - The Department of Defense has increased protections for military personnel from exposure to lead from firearms. It can be a health problem for people using recreational shooting ranges, too.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk">http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/lead-spray_wide-eda657b5e4048bfef772f9fbaff8734e1deb60be-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
