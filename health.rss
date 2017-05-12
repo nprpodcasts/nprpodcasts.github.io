@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 15:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 14:00:26 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 15:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</guid>
+      <title>Fake Medical News Can Now Be Fact-Checked In India</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</link>
+      <description>May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s800-c15.jpg"></a>
+
+May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/05/20170512_ted_01.mp3?orgId=1&amp;topicId=1001&amp;d=747&amp;p=57&amp;story=527939178&amp;t=progseg&amp;e=526949840&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sue Klebold: When Your Son Does The Unthinkable, Can You Forgive Him And Yourself?</title>
@@ -241,21 +256,6 @@ May 10, 2017 - Today it's fidget spinners, but soon it will be another little gi
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so">http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</guid>
-      <title>Drug Resistant TB Is Predicted To Steadily Spread In 4 Countries</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</link>
-      <description>May 9, 2017 - The case numbers are already high in certain countries. It&#39;s not only hard to treat — it&#39;s extremely contagious.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/gettyimages-524985986_wide-1c3b543843f6ac720c61d8fcc45c48d704686d00-s800-c15.jpg"></a>
-
-May 9, 2017 - The case numbers are already high in certain countries. It's not only hard to treat — it's extremely contagious.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries">http://www.npr.org/sections/goatsandsoda/2017/05/09/527631455/drug-resistant-tb-is-predicted-to-steadily-spread-in-4-countries</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-524985986_wide-1c3b543843f6ac720c61d8fcc45c48d704686d00-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
