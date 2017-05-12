@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 09:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 11 May 2017 23:00:09 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 09:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/12/527936103/communities-key-to-fighting-opioid-crisis-hhs-secretary-says</guid>
+      <title>Communities Key To Fighting Opioid Crisis, HHS Secretary Says</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/12/527936103/communities-key-to-fighting-opioid-crisis-hhs-secretary-says</link>
+      <description>May 12, 2017 - Health and Human Services Secretary Tom Price is touring communities that have been hit hard by painkiller overdoses and heroin. He says, when it comes to opioid abuse, &#34;We&#39;re losing as a nation.&#34;</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/tom-price-portrait_wide-d5c701f6b388fcd6f89adb72907f48eab09934b0-s800-c15.jpg"></a>
+
+May 12, 2017 - Health and Human Services Secretary Tom Price is touring communities that have been hit hard by painkiller overdoses and heroin. He says, when it comes to opioid abuse, "We're losing as a nation."
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/12/527936103/communities-key-to-fighting-opioid-crisis-hhs-secretary-says">http://www.npr.org/sections/health-shots/2017/05/12/527936103/communities-key-to-fighting-opioid-crisis-hhs-secretary-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/tom-price-portrait_wide-d5c701f6b388fcd6f89adb72907f48eab09934b0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/11/528004120/heroin-epidemic-is-driving-a-spike-in-hepatitis-c-cases-cdc-says</guid>
       <title>Heroin Epidemic Is Driving A Spike In Hepatitis C Cases, CDC Says</title>
@@ -237,21 +252,6 @@ May 9, 2017 - In TV appearances and meetings with constituents, House Republican
 <a href="http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement">http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>377</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</guid>
-      <title>The Global Gap In Health Care Dollars For Young And Old Is Huge</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</link>
-      <description>May 9, 2017 - The U.S. has one kind of gap. The developing world has another, as a new report points out.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/promo_wide-706db3136b9918d255a28de482dd2111cad78364-s800-c15.jpg"></a>
-
-May 9, 2017 - The U.S. has one kind of gap. The developing world has another, as a new report points out.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world">http://www.npr.org/sections/goatsandsoda/2017/05/09/527453473/old-people-get-very-little-health-care-in-the-developing-world</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/promo_wide-706db3136b9918d255a28de482dd2111cad78364-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
