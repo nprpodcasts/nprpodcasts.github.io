@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 18:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 17:00:09 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 18:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</guid>
+      <title>Where ICE Already Has Direct Lines to Law-Enforcement Databases With Immigrant Data</title>
+      <link>http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</link>
+      <description>May 12, 2017 - Immigration and Customs Enforcement documents show that for years, law enforcement in hundreds of jurisdictions, including major sanctuary cities, are feeding information into regional databases.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/gettyimages-675555390_wide-efdccf078673dc87c3ec8d78c75bb7b2ee2b4e5b-s800-c15.jpg"></a>
+
+May 12, 2017 - Immigration and Customs Enforcement documents show that for years, law enforcement in hundreds of jurisdictions, including major sanctuary cities, are feeding information into regional databases.
+
+<a href="http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d">http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/gettyimages-675555390_wide-efdccf078673dc87c3ec8d78c75bb7b2ee2b4e5b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
       <title>Cyberattack Hits England&#39;s National Health Service With Ransom Demands</title>
@@ -237,21 +252,6 @@ May 8, 2017 - He began covering personal technology in the 1990s, when he says t
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/08/527407726/after-decades-covering-it-tech-still-amazes-walt-mossberg">http://www.npr.org/sections/alltechconsidered/2017/05/08/527407726/after-decades-covering-it-tech-still-amazes-walt-mossberg</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/WaltMossberg_wide-9551d5b8c77de72b6667bbb7be2ed1a3bd769562-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>434</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_restaurants_with_low_yelp_ratings_suffer_under_higher_minimum_wages.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=2&amp;story=527452861&amp;t=progseg&amp;e=527360254&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Restaurants With Low Yelp Ratings Suffer Under Higher Minimum Wages</title>
-      <link>http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</link>
-      <description>May 8, 2017 - Minimum wage increases in the San Francisco Bay Area have had an impact on the local restaurant industry, according to a study released by Harvard Business School. Restaurants with low or middling Yelp reviews have become more likely to go out of business. Places with high reviews have been unaffected. The study doesn&#39;t attempt to determine whether the wage increases have been good for employees or the local economy overall.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170508_atc_restaurants_with_low_yelp_ratings_suffer_under_higher_minimum_wages.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=2&amp;story=527452861&amp;t=progseg&amp;e=527360254&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 8, 2017 - Minimum wage increases in the San Francisco Bay Area have had an impact on the local restaurant industry, according to a study released by Harvard Business School. Restaurants with low or middling Yelp reviews have become more likely to go out of business. Places with high reviews have been unaffected. The study doesn't attempt to determine whether the wage increases have been good for employees or the local economy overall.
-
-<a href="http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages">http://www.npr.org/2017/05/08/527452861/restaurants-with-low-yelp-ratings-suffer-under-higher-minimum-wages</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
