@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 15:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 17:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 15:00:13 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 17:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents</guid>
+      <title>Inflatable Beds: Dangerous For Infants, Attractive To Cash-Strapped Parents</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents</link>
+      <description>May 12, 2017 - Inflatable beds are increasingly popular, and their soft, impermeable surfaces, increase risk of sudden infant death. But they are often the only bed that a family can afford.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/air-mattress-1_wide-9c4672ded66413e927d83743244e1cd80a009666-s800-c15.jpg"></a>
+
+May 12, 2017 - Inflatable beds are increasingly popular, and their soft, impermeable surfaces, increase risk of sudden infant death. But they are often the only bed that a family can afford.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents">http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/air-mattress-1_wide-9c4672ded66413e927d83743244e1cd80a009666-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</guid>
       <title>Fake Medical News Can Now Be Fact-Checked In India</title>
@@ -241,21 +256,6 @@ May 10, 2017 - The Department of Defense has increased protections for military 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk">http://www.npr.org/sections/health-shots/2017/05/10/527648768/lead-dust-from-firearms-can-pose-a-silent-health-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/lead-spray_wide-eda657b5e4048bfef772f9fbaff8734e1deb60be-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</guid>
-      <title>Why Do Children Love Those Fad Toys So?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</link>
-      <description>May 10, 2017 - Today it&#39;s fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s800-c15.jpg"></a>
-
-May 10, 2017 - Today it's fidget spinners, but soon it will be another little gizmo that children dearly, desperately want. The complicated social dynamics of childhood are one big reason.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so">http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
