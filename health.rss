@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 10:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 11:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 10:00:07 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 11:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_focus_on_infants_during_childbirth_leaves_us_moms_in_danger_.mp3?orgId=1&amp;topicId=1150&amp;d=422&amp;p=3&amp;story=527806002&amp;t=progseg&amp;e=528068779&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Focus On Infants During Childbirth Leaves U.S. Moms In Danger </title>
       <link>http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</link>
       <description>May 12, 2017 - The U.S. has the worst rate of maternal deaths in the developed world: Sixty percent of the 700 to 900 deaths each year are preventable, including that of neonatal nurse Lauren Bloomstein.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_focus_on_infants_during_childbirth_leaves_us_moms_in_danger_.mp3?orgId=1&amp;topicId=1150&amp;d=422&amp;p=3&amp;story=527806002&amp;t=progseg&amp;e=528068779&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/img_3626_wide-ea89102a9bb0c124ff2f019e20bc4b499be7865b-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ May 12, 2017 - The U.S. has the worst rate of maternal deaths in the developed w
 
 <a href="http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger">http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/11/img_3626_wide-ea89102a9bb0c124ff2f019e20bc4b499be7865b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
