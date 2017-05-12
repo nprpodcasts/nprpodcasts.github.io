@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 21:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 22:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 21:00:19 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 22:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</guid>
+      <title>Hackers Used Stolen NSA Tool To Conduct Global Cyberattacks</title>
+      <link>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</link>
+      <description>May 12, 2017 - NPR&#39;s Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - NPR's Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.
+
+<a href="http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks">http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</guid>
       <title>British Hospitals Among Targets Of Global Ransomware Attack</title>
@@ -55,12 +68,12 @@ May 12, 2017 - Immigration and Customs Enforcement documents show that for years
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
       <title>Ransomware Attacks Ravage Computer Networks In Dozens Of Countries</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</link>
-      <description>May 12, 2017 - Malware called Wana Decryptor is being blamed for large-scale attacks around the world. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.</description>
+      <description>May 12, 2017 - &#34;We&#39;ll likely look back at this as a watershed moment,&#34; says Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s800-c15.png"></a>
 
-May 12, 2017 - Malware called Wana Decryptor is being blamed for large-scale attacks around the world. In the U.K., hospitals scrambled to cope after the cyberattack crippled their ability to treat patients.
+May 12, 2017 - "We'll likely look back at this as a watershed moment," says Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded">http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s3000-c15.png"></itunes:image>
@@ -233,21 +246,6 @@ May 9, 2017 - A company in Wisconsin has found a low-tech solution to the high-t
 <a href="http://www.npr.org/2017/05/09/527541039/draft-horses-are-enlisted-to-help-maintain-remote-cell-towers">http://www.npr.org/2017/05/09/527541039/draft-horses-are-enlisted-to-help-maintain-remote-cell-towers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/farmer-jason-julian-leads-billings-to-the-trailer-1_wide-6454e9966950021118fec2cae6f965c5542757c1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>227</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech</guid>
-      <title>Austrian Court Rules Facebook Must Delete Hate Speech</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech</link>
-      <description>May 8, 2017 - The decision could have global consequences: The court ruled that the harsh words against an Austrian politician must be deleted from Facebook worldwide.</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/08/gettyimages-180397525_wide-eda2b5ebb0f1852545b1dae4a8c10321638674bb-s800-c15.jpg"></a>
-
-May 8, 2017 - The decision could have global consequences: The court ruled that the harsh words against an Austrian politician must be deleted from Facebook worldwide.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech">http://www.npr.org/sections/thetwo-way/2017/05/08/527398995/austrian-court-rules-facebook-must-delete-hate-speech</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/gettyimages-180397525_wide-eda2b5ebb0f1852545b1dae4a8c10321638674bb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
