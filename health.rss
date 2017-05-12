@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 09:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 10:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 09:00:15 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 10:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</guid>
+      <title>Focus On Infants During Childbirth Leaves U.S. Moms In Danger </title>
+      <link>http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</link>
+      <description>May 12, 2017 - The U.S. has the worst rate of maternal deaths in the developed world: Sixty percent of the 700 to 900 deaths each year are preventable, including that of neonatal nurse Lauren Bloomstein.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/img_3626_wide-ea89102a9bb0c124ff2f019e20bc4b499be7865b-s800-c15.jpg"></a>
+
+May 12, 2017 - The U.S. has the worst rate of maternal deaths in the developed world: Sixty percent of the 700 to 900 deaths each year are preventable, including that of neonatal nurse Lauren Bloomstein.
+
+<a href="http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger">http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/img_3626_wide-ea89102a9bb0c124ff2f019e20bc4b499be7865b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/12/527936103/communities-key-to-fighting-opioid-crisis-hhs-secretary-says</guid>
       <title>Communities Key To Fighting Opioid Crisis, HHS Secretary Says</title>
@@ -237,21 +252,6 @@ May 9, 2017 - In TV appearances and meetings with constituents, House Republican
 <a href="http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill">http://www.npr.org/sections/health-shots/2017/05/09/527627331/fact-checking-republicans-defense-of-the-gop-health-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/rod-blum-1_wide-a44eef0a395b5679032c110a926447604cfe505b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_colorado_governor_on_republican_health_care_bill_this_is_not_an_improvement.mp3?orgId=1&amp;topicId=1014&amp;d=377&amp;p=2&amp;story=527640423&amp;t=progseg&amp;e=527544466&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Colorado Governor On Republican Health Care Bill: This Is Not An Improvement</title>
-      <link>http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</link>
-      <description>May 9, 2017 - NPR&#39;s Robert Siegel talks to Colorado Gov. John Hickenlooper about health care reform. Colorado expanded Medicaid under the Affordable Care Act and would either have to take on that funding burden or change eligibility requirements under the American Health Care Act.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170509_atc_colorado_governor_on_republican_health_care_bill_this_is_not_an_improvement.mp3?orgId=1&amp;topicId=1014&amp;d=377&amp;p=2&amp;story=527640423&amp;t=progseg&amp;e=527544466&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 9, 2017 - NPR's Robert Siegel talks to Colorado Gov. John Hickenlooper about health care reform. Colorado expanded Medicaid under the Affordable Care Act and would either have to take on that funding burden or change eligibility requirements under the American Health Care Act.
-
-<a href="http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement">http://www.npr.org/2017/05/09/527640423/colorado-governor-on-republican-health-care-bill-this-is-not-an-improvement</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>377</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
