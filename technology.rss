@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 22:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 23:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 22:00:31 +0000</pubDate>
+    <pubDate>Fri, 12 May 2017 23:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,29 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=278&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hackers Used Stolen NSA Tool To Conduct Global Cyberattacks</title>
       <link>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</link>
       <description>May 12, 2017 - NPR&#39;s Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=278&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 12, 2017 - NPR's Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.
 
 <a href="http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks">http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>278</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_british_hospitals_among_targets_of_global_ransomware_attack.mp3?orgId=1&amp;topicId=1124&amp;d=137&amp;p=2&amp;story=528166432&amp;t=progseg&amp;e=528060515&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>British Hospitals Among Targets Of Global Ransomware Attack</title>
       <link>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</link>
       <description>May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_british_hospitals_among_targets_of_global_ransomware_attack.mp3?orgId=1&amp;topicId=1124&amp;d=137&amp;p=2&amp;story=528166432&amp;t=progseg&amp;e=528060515&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.
 
 <a href="http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack">http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>137</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
