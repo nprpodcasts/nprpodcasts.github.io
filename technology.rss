@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 00:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 01:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 13 May 2017 00:00:17 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 01:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,31 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_worldwide_cyber_attack.mp3?orgId=1&amp;topicId=1019&amp;d=230&amp;p=2&amp;story=528193771&amp;t=progseg&amp;e=528060515&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
       <title>Ransomware Attacks Hit Computer Systems In Dozens Of Countries</title>
       <link>http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</link>
       <description>May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_worldwide_cyber_attack.mp3?orgId=1&amp;topicId=1019&amp;d=230&amp;p=2&amp;story=528193771&amp;t=progseg&amp;e=528060515&amp;seg=21&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.
 
 <a href="http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries">http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=278&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=203&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hackers Used Stolen NSA Tool To Conduct Global Cyberattacks</title>
       <link>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</link>
       <description>May 12, 2017 - NPR&#39;s Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=278&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=203&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 12, 2017 - NPR's Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.
 
 <a href="http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks">http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>278</itunes:duration>
+      <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
