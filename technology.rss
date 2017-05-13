@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 00:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 23:00:05 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 00:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</guid>
+      <title>Ransomware Attacks Hit Computer Systems In Dozens Of Countries</title>
+      <link>http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</link>
+      <description>May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.</description>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.
+
+<a href="http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries">http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=278&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hackers Used Stolen NSA Tool To Conduct Global Cyberattacks</title>
@@ -233,23 +246,6 @@ May 9, 2017 - Carter Wilkerson was on a mission to get free chicken nuggets from
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet">http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/10-piece-chicken-nuggets-ss_0_wide-7051c9be906457311c8120cc2c6e5850276548c2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170509_me_draft_horses_are_enlisted_to_help_maintain_remote_cell_towers.mp3?orgId=674&amp;topicId=1006&amp;d=227&amp;p=3&amp;story=527541039&amp;t=progseg&amp;e=527526119&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Draft Horses Are Helping Upgrade Cell Towers In Wisconsin</title>
-      <link>http://www.npr.org/2017/05/09/527541039/draft-horses-are-enlisted-to-help-maintain-remote-cell-towers</link>
-      <description>May 9, 2017 - A company in Wisconsin has found a low-tech solution to the high-tech problem of maintaining cell phone antennas in hard-to-reach areas. It hearkens back to the state&#39;s logging heritage.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170509_me_draft_horses_are_enlisted_to_help_maintain_remote_cell_towers.mp3?orgId=674&amp;topicId=1006&amp;d=227&amp;p=3&amp;story=527541039&amp;t=progseg&amp;e=527526119&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/farmer-jason-julian-leads-billings-to-the-trailer-1_wide-6454e9966950021118fec2cae6f965c5542757c1-s800-c15.jpg"></a>
-
-May 9, 2017 - A company in Wisconsin has found a low-tech solution to the high-tech problem of maintaining cell phone antennas in hard-to-reach areas. It hearkens back to the state's logging heritage.
-
-<a href="http://www.npr.org/2017/05/09/527541039/draft-horses-are-enlisted-to-help-maintain-remote-cell-towers">http://www.npr.org/2017/05/09/527541039/draft-horses-are-enlisted-to-help-maintain-remote-cell-towers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/farmer-jason-julian-leads-billings-to-the-trailer-1_wide-6454e9966950021118fec2cae6f965c5542757c1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>227</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
