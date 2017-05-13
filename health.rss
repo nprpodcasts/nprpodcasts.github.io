@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 23:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 08:01:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 23:00:08 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 08:01:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules</guid>
+      <title>Here&#39;s What Michelle Obama Thinks About Trump&#39;s School Lunch Rules</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules</link>
+      <description>May 13, 2017 - The former first lady got fired up talking about the issues she championed during her eight years in the White House. Last week the Trump administration announced changes to school nutrition rules.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/fullsizerender_wide-c32a82cda617641db3dc3011809e723806030d63-s800-c15.jpg"></a>
+
+May 13, 2017 - The former first lady got fired up talking about the issues she championed during her eight years in the White House. Last week the Trump administration announced changes to school nutrition rules.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules">http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/fullsizerender_wide-c32a82cda617641db3dc3011809e723806030d63-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_michelle_obama_slams_trump_for_rolling_back_her_school_meals_program.mp3?orgId=1&amp;topicId=1128&amp;d=259&amp;p=2&amp;story=528166474&amp;t=progseg&amp;e=528060515&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Michelle Obama Slams Trump For Rolling Back Her School Meals Program</title>
@@ -241,21 +256,6 @@ May 11, 2017 - A neuroscientist argues that our noses are more powerful than we 
 <a href="http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think">http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s3000-c15.jpg"></itunes:image>
       <itunes:duration>257</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</guid>
-      <title>Cholera 101: An Ancient Disease Keeps Cropping Up</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</link>
-      <description>May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world&#39;s worst outbreak. Why does this waterborne disease remain a global health risk?</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/09/gettyimages-463899545a_wide-c68dd28b722647f7cdb272f797a011ac721cb832-s800-c15.jpg"></a>
-
-May 11, 2017 - The latest cholera surge is in Yemen, and Haiti is still fighting the world's worst outbreak. Why does this waterborne disease remain a global health risk?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up">http://www.npr.org/sections/goatsandsoda/2017/05/11/527586471/cholera-101-an-ancient-disease-keeps-cropping-up</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-463899545a_wide-c68dd28b722647f7cdb272f797a011ac721cb832-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

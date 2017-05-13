@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 06:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 08:01:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 13 May 2017 06:00:21 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 08:01:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</guid>
+      <title>Security Expert Weighs In On Worldwide Ransomware Hack</title>
+      <link>http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</link>
+      <description>May 13, 2017 - NPR&#39;S Scott Simon speaks with Matt Tait, of Capital Alpha Security in the United Kingdom, about the ransomware hacks in dozens of countries on Friday.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 13, 2017 - NPR'S Scott Simon speaks with Matt Tait, of Capital Alpha Security in the United Kingdom, about the ransomware hacks in dozens of countries on Friday.
+
+<a href="http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack">http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_ransomware_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=7&amp;story=528236680&amp;t=progseg&amp;e=528236596&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Ransomware Attacks Computer Networks Around The Globe</title>
+      <link>http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe</link>
+      <description>May 13, 2017 - Massive cyberattacks spread throughout the world, affecting computer systems in nearly 100 countries. The hackers reportedly used a flaw in Microsoft software identified by the NSA.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_ransomware_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=7&amp;story=528236680&amp;t=progseg&amp;e=528236596&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 13, 2017 - Massive cyberattacks spread throughout the world, affecting computer systems in nearly 100 countries. The hackers reportedly used a flaw in Microsoft software identified by the NSA.
+
+<a href="http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe">http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_worldwide_cyber_attack.mp3?orgId=1&amp;topicId=1019&amp;d=230&amp;p=2&amp;story=528193771&amp;t=progseg&amp;e=528060515&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
       <title>Ransomware Attacks Hit Computer Systems In Dozens Of Countries</title>
@@ -87,12 +115,12 @@ May 12, 2017 - ICE documents show that for years, law enforcement agencies in hu
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
       <title>Ransomware Attacks Ravage Computer Networks In Dozens Of Countries</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</link>
-      <description>May 12, 2017 - &#34;We&#39;ll likely look back at this as a watershed moment,&#34; says Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.</description>
+      <description>May 12, 2017 - &#34;We&#39;ll likely look back at this as a watershed moment,&#34; says Nebraska Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.</description>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s800-c15.png"></a>
 
-May 12, 2017 - "We'll likely look back at this as a watershed moment," says Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.
+May 12, 2017 - "We'll likely look back at this as a watershed moment," says Nebraska Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded">http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s3000-c15.png"></itunes:image>
@@ -218,36 +246,6 @@ May 10, 2017 - Disney reported better-than-expected quarterly earnings, but ques
 <a href="http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns">http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>295</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527674171/fcc-experiences-denial-of-service-attacks-senators-respond</guid>
-      <title>FCC Experiences &#39;Denial-Of-Service&#39; Attacks, Senators Respond</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527674171/fcc-experiences-denial-of-service-attacks-senators-respond</link>
-      <description>May 9, 2017 - Two senators have written a letter to FCC Chairman Ajit Pai inquiring into the attacks that took place Sunday night. They overwhelmed the agency&#39;s public commenting system.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/gettyimages-464495720_wide-1641cd8748e0834995a695e4f0d95ae72a3a7a82-s800-c15.jpg"></a>
-
-May 9, 2017 - Two senators have written a letter to FCC Chairman Ajit Pai inquiring into the attacks that took place Sunday night. They overwhelmed the agency's public commenting system.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527674171/fcc-experiences-denial-of-service-attacks-senators-respond">http://www.npr.org/sections/thetwo-way/2017/05/09/527674171/fcc-experiences-denial-of-service-attacks-senators-respond</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/gettyimages-464495720_wide-1641cd8748e0834995a695e4f0d95ae72a3a7a82-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet</guid>
-      <title>Quest For Free Chicken Nuggets Inspires Twitter&#39;s Most Retweeted Tweet </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet</link>
-      <description>May 9, 2017 - Carter Wilkerson was on a mission to get free chicken nuggets from Wendy&#39;s. In the process, he dethroned Ellen DeGeneres&#39; Oscar selfie for the most retweets ever. Oh, and he also got the free nuggets.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/10-piece-chicken-nuggets-ss_0_wide-7051c9be906457311c8120cc2c6e5850276548c2-s800-c15.jpg"></a>
-
-May 9, 2017 - Carter Wilkerson was on a mission to get free chicken nuggets from Wendy's. In the process, he dethroned Ellen DeGeneres' Oscar selfie for the most retweets ever. Oh, and he also got the free nuggets.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet">http://www.npr.org/sections/thetwo-way/2017/05/09/527597422/quest-for-free-chicken-nuggets-inspires-twitters-most-retweeted-tweet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/10-piece-chicken-nuggets-ss_0_wide-7051c9be906457311c8120cc2c6e5850276548c2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
