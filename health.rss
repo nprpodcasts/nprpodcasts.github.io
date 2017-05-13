@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 08:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 23:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 13 May 2017 08:01:12 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 23:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_in_rural_alaska_a_young_doctor_walks_to_his_patients_bedside_.mp3?orgId=1&amp;topicId=1027&amp;aggIds=512460254&amp;d=284&amp;p=2&amp;story=527787511&amp;t=progseg&amp;e=528287479&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Rural Alaska, A Young Doctor Walks To His Patient&#39;s Bedside </title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/13/527787511/in-rural-alaska-a-young-doctor-walks-to-his-patients-bedside</link>
+      <description>May 13, 2017 - Dr. Adam McMahan comes to Klukwan, a tiny town in Southeast Alaska, just two days a week. But he&#39;s come to know his patients well, and attends to more than just their medical needs.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_in_rural_alaska_a_young_doctor_walks_to_his_patients_bedside_.mp3?orgId=1&amp;topicId=1027&amp;aggIds=512460254&amp;d=284&amp;p=2&amp;story=527787511&amp;t=progseg&amp;e=528287479&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/170427klukwan_nadworny0482_small_wide-691639f6d9fde37bf6a30461f3b8137b958cdc98-s800-c15.jpg"></a>
+
+May 13, 2017 - Dr. Adam McMahan comes to Klukwan, a tiny town in Southeast Alaska, just two days a week. But he's come to know his patients well, and attends to more than just their medical needs.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/13/527787511/in-rural-alaska-a-young-doctor-walks-to-his-patients-bedside">http://www.npr.org/sections/health-shots/2017/05/13/527787511/in-rural-alaska-a-young-doctor-walks-to-his-patients-bedside</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/170427klukwan_nadworny0482_small_wide-691639f6d9fde37bf6a30461f3b8137b958cdc98-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>284</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules</guid>
       <title>Here&#39;s What Michelle Obama Thinks About Trump&#39;s School Lunch Rules</title>
@@ -239,23 +256,6 @@ May 11, 2017 - Before the Affordable Care Act, rape victims could have been deni
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly">http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-756bac1331856af7c3386f36775b34ed5ba7d4b3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_why_your_sense_of_smell_is_better_than_you_might_think.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=527750147&amp;t=progseg&amp;e=527904880&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Your Sense Of Smell Is Better Than You Might Think</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</link>
-      <description>May 11, 2017 - A neuroscientist argues that our noses are more powerful than we think. Humans, he says, actually have a great sense of smell.</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170511_atc_why_your_sense_of_smell_is_better_than_you_might_think.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=527750147&amp;t=progseg&amp;e=527904880&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s800-c15.jpg"></a>
-
-May 11, 2017 - A neuroscientist argues that our noses are more powerful than we think. Humans, he says, actually have a great sense of smell.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think">http://www.npr.org/sections/health-shots/2017/05/11/527750147/why-your-sense-of-smell-is-better-than-you-might-think</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/sense-of-smell_wide-7f04208ada2af88f063ffcd5a0b27bfd8d2c8411-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

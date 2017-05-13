@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 08:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 23:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 13 May 2017 08:01:08 +0000</pubDate>
+    <pubDate>Sat, 13 May 2017 23:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyberattacks.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=528287801&amp;t=progseg&amp;e=528287479&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Security Researcher And Microsoft Worked To Stop Spread Of Cyberattack</title>
+      <link>http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack</link>
+      <description>May 13, 2017 - NPR&#39;s Mary Louise Kelly talks about the implications of Friday&#39;s massive cyberattack with Michael Sulmeyer, director of the Cyber Security Project at Harvard&#39;s Kennedy School of Government.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyberattacks.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=528287801&amp;t=progseg&amp;e=528287479&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 13, 2017 - NPR's Mary Louise Kelly talks about the implications of Friday's massive cyberattack with Michael Sulmeyer, director of the Cyber Security Project at Harvard's Kennedy School of Government.
+
+<a href="http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack">http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>257</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyber_update.mp3?orgId=1&amp;topicId=1019&amp;d=171&amp;p=2&amp;story=528287794&amp;t=progseg&amp;e=528287479&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Cyber Security Experts Say Malware Used In Friday&#39;s Attack Is Especially Malicious </title>
+      <link>http://www.npr.org/2017/05/13/528287794/cyber-security-experts-say-malware-used-in-fridays-attack-is-especially-maliciou</link>
+      <description>May 13, 2017 - Cybersecurity professionals from more than 100 countries are working to restore computer systems that were paralyzed by Friday&#39;s unprecedented global ransomware attack.</description>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyber_update.mp3?orgId=1&amp;topicId=1019&amp;d=171&amp;p=2&amp;story=528287794&amp;t=progseg&amp;e=528287479&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 13, 2017 - Cybersecurity professionals from more than 100 countries are working to restore computer systems that were paralyzed by Friday's unprecedented global ransomware attack.
+
+<a href="http://www.npr.org/2017/05/13/528287794/cyber-security-experts-say-malware-used-in-fridays-attack-is-especially-maliciou">http://www.npr.org/2017/05/13/528287794/cyber-security-experts-say-malware-used-in-fridays-attack-is-especially-maliciou</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>171</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</guid>
       <title>Security Expert Weighs In On Worldwide Ransomware Hack</title>
@@ -216,36 +246,6 @@ May 10, 2017 - The company is donating about half the space in a six-story build
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/10/527801805/new-amazon-building-in-seattle-will-include-a-homeless-shelter">http://www.npr.org/sections/thetwo-way/2017/05/10/527801805/new-amazon-building-in-seattle-will-include-a-homeless-shelter</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/gettyimages-528252944_wide-d99acf240d2afca560422bf640c3eeaf8cff4441-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/10/527715624/espn-troubles-cloud-disney-earnings-apple-surpasses-800-billion-mark</guid>
-      <title>ESPN Troubles Cloud Disney Earnings; Apple Surpasses $800 Billion Mark</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/10/527715624/espn-troubles-cloud-disney-earnings-apple-surpasses-800-billion-mark</link>
-      <description>May 10, 2017 - Disney reported better-than-expected quarterly earnings, but questions about ESPN&#39;s health eclipsed results. Apple is the first U.S. company to surpass the $800 billion mark in market capitalization.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/10/ap_488917711165_wide-86fb8fb01b9d8530e9bd100fc5da03eb57c0fbdc-s800-c15.jpg"></a>
-
-May 10, 2017 - Disney reported better-than-expected quarterly earnings, but questions about ESPN's health eclipsed results. Apple is the first U.S. company to surpass the $800 billion mark in market capitalization.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/10/527715624/espn-troubles-cloud-disney-earnings-apple-surpasses-800-billion-mark">http://www.npr.org/sections/thetwo-way/2017/05/10/527715624/espn-troubles-cloud-disney-earnings-apple-surpasses-800-billion-mark</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/ap_488917711165_wide-86fb8fb01b9d8530e9bd100fc5da03eb57c0fbdc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170510_me_nato_takes_aim_at_disinformation_campaigns.mp3?orgId=1&amp;topicId=1004&amp;d=295&amp;p=3&amp;story=527720078&amp;t=progseg&amp;e=527720043&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>NATO Takes Aim At Disinformation Campaigns</title>
-      <link>http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</link>
-      <description>May 10, 2017 - The NATO alliance is dealing with a new perceived threat: disinformation. Steve Inskeep talks with Janis Sarts of the NATO Strategic Communications Centre of Excellence about countermeasures.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170510_me_nato_takes_aim_at_disinformation_campaigns.mp3?orgId=1&amp;topicId=1004&amp;d=295&amp;p=3&amp;story=527720078&amp;t=progseg&amp;e=527720043&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 10, 2017 - The NATO alliance is dealing with a new perceived threat: disinformation. Steve Inskeep talks with Janis Sarts of the NATO Strategic Communications Centre of Excellence about countermeasures.
-
-<a href="http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns">http://www.npr.org/2017/05/10/527720078/nato-takes-aim-at-disinformation-campaigns</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>295</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
