@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2017 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 15:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 12 May 2017 19:00:04 +0000</pubDate>
+    <pubDate>Sun, 14 May 2017 15:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170514_wesun_synthetic_genome.mp3?orgId=1&amp;topicId=1024&amp;d=232&amp;p=10&amp;story=528335247&amp;t=progseg&amp;e=528330126&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Scientists Raise Concern By Wanting To Create Synthetic Human Genomes  </title>
+      <link>http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes</link>
+      <description>May 14, 2017 - In New York, hundreds of scientists discussed a highly ambitious and controversial project. They want to create synthetic genetic codes for all kinds of creatures — including the human genetic code.</description>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170514_wesun_synthetic_genome.mp3?orgId=1&amp;topicId=1024&amp;d=232&amp;p=10&amp;story=528335247&amp;t=progseg&amp;e=528330126&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 14, 2017 - In New York, hundreds of scientists discussed a highly ambitious and controversial project. They want to create synthetic genetic codes for all kinds of creatures — including the human genetic code.
+
+<a href="http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes">http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</guid>
+      <title>A Mother Finds Joy In Helping A Child Navigate Their Shared Traits</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</link>
+      <description>May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.</description>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s800-c15.jpg"></a>
+
+May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits">http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
@@ -220,36 +250,6 @@ May 8, 2017 - The Sea Grant program, which funds research on coastal environment
 <a href="http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution">http://www.npr.org/2017/05/08/527095737/trumps-budget-would-eliminate-a-key-funder-of-research-on-coastal-pollution</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/08/septic-promo_wide-910a55fa6fd38ca78868517eea585001d4578774-s3000-c15.jpg"></itunes:image>
       <itunes:duration>284</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</guid>
-      <title>Secret U.S. Space Plane Lands With A Boom In Florida</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</link>
-      <description>May 8, 2017 - For a secret aircraft, the X-37B wasn&#39;t very stealthy about its return to Earth. The space plane was launched in 2015.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</description>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/08/3362967_wide-e9cdae8cea70f1c1da3fbe7e12db41d1952cc3f2-s800-c15.jpg"></a>
-
-May 8, 2017 - For a secret aircraft, the X-37B wasn't very stealthy about its return to Earth. The space plane was launched in 2015.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida">http://www.npr.org/sections/thetwo-way/2017/05/08/527374507/secret-u-s-space-plane-lands-with-a-boom-in-florida</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/3362967_wide-e9cdae8cea70f1c1da3fbe7e12db41d1952cc3f2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170507_wesun_spacesuit_shortage.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=10&amp;story=527250368&amp;t=progseg&amp;e=527250339&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>NASA Has A Spacesuit Shortage</title>
-      <link>http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</link>
-      <description>May 7, 2017 - NASA has only 11 spacesuits in use, and they were designed decades ago. Spacesuit designer Pablo de Leon tells Lulu Garcia-Navarro about how the shortage affects operations in space.</description>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170507_wesun_spacesuit_shortage.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=10&amp;story=527250368&amp;t=progseg&amp;e=527250339&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 7, 2017 - NASA has only 11 spacesuits in use, and they were designed decades ago. Spacesuit designer Pablo de Leon tells Lulu Garcia-Navarro about how the shortage affects operations in space.
-
-<a href="http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage">http://www.npr.org/2017/05/07/527250368/nasa-has-a-spacesuit-shortage</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

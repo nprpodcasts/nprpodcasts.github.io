@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2017 23:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 15:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 13 May 2017 23:00:08 +0000</pubDate>
+    <pubDate>Sun, 14 May 2017 15:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</guid>
+      <title>A Mother Finds Joy In Helping A Child Navigate Their Shared Traits</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</link>
+      <description>May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.</description>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s800-c15.jpg"></a>
+
+May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits">http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_in_rural_alaska_a_young_doctor_walks_to_his_patients_bedside_.mp3?orgId=1&amp;topicId=1027&amp;aggIds=512460254&amp;d=284&amp;p=2&amp;story=527787511&amp;t=progseg&amp;e=528287479&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Rural Alaska, A Young Doctor Walks To His Patient&#39;s Bedside </title>
@@ -241,21 +256,6 @@ May 11, 2017 - The state shuttered stores in Whiteclay, Neb., which borders the 
 <a href="http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores">http://www.npr.org/sections/thesalt/2017/05/11/527832897/with-alcoholism-rampant-on-nearby-reservation-nebraska-shuts-towns-liquor-stores</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/051117-whiteclay-closes-3_wide-3ac97ca6fb452505d801ddfeafd3364c20e96e66-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</guid>
-      <title>Is Rape A Pre-Existing Condition? Not Exactly</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</link>
-      <description>May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for conditions tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-756bac1331856af7c3386f36775b34ed5ba7d4b3-s800-c15.jpg"></a>
-
-May 11, 2017 - Before the Affordable Care Act, rape victims could have been denied coverage for conditions tied to their assault. Some worry those practices could return if the current GOP health bill becomes law.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly">http://www.npr.org/sections/health-shots/2017/05/11/527938951/is-rape-a-pre-existing-condition-not-exactly</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/macarthur-townhall_wide-756bac1331856af7c3386f36775b34ed5ba7d4b3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
