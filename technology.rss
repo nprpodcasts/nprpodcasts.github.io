@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 May 2017 19:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 15:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 14 May 2017 19:00:18 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 15:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</guid>
+      <title>WannaCry Ransomware: Microsoft Calls Out NSA For &#39;Stockpiling&#39; Vulnerabilities</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</link>
+      <description>May 15, 2017 - The NSA&#39;s losing control of the software behind the WannaCry cyberattack is like &#34;the U.S. military having some of its Tomahawk missiles stolen,&#34; Microsoft President Brad Smith says.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/15/gettyimages-682557416_wide-bcaeefca02059da3afb40653131ede32674772ff-s800-c15.jpg"></a>
+
+May 15, 2017 - The NSA's losing control of the software behind the WannaCry cyberattack is like "the U.S. military having some of its Tomahawk missiles stolen," Microsoft President Brad Smith says.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities">http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/gettyimages-682557416_wide-bcaeefca02059da3afb40653131ede32674772ff-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170515_me_ransomware_cyber_attack.mp3?orgId=1&amp;topicId=1122&amp;d=286&amp;p=3&amp;story=528432310&amp;t=progseg&amp;e=528407670&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Global Cyberattack Spreads, U.S. Avoids Worst Of It </title>
+      <link>http://www.npr.org/2017/05/15/528432310/global-cyber-attack-spreads-u-s-avoids-worst-of-it</link>
+      <description>May 15, 2017 - Universities, hospitals, railways and other institutions in China are the latest targets. David Greene talks to Michael Chertoff, who served as Homeland Security secretary under President Bush.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170515_me_ransomware_cyber_attack.mp3?orgId=1&amp;topicId=1122&amp;d=286&amp;p=3&amp;story=528432310&amp;t=progseg&amp;e=528407670&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 15, 2017 - Universities, hospitals, railways and other institutions in China are the latest targets. David Greene talks to Michael Chertoff, who served as Homeland Security secretary under President Bush.
+
+<a href="http://www.npr.org/2017/05/15/528432310/global-cyber-attack-spreads-u-s-avoids-worst-of-it">http://www.npr.org/2017/05/15/528432310/global-cyber-attack-spreads-u-s-avoids-worst-of-it</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>286</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/14/528355526/repercussions-continue-from-global-ransomware-attack</guid>
       <title>Repercussions Continue From Global Ransomware Attack</title>
@@ -218,36 +248,6 @@ May 11, 2017 - His creator killed the frog in a comic strip, after the character
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet">http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/gettyimages-674144948_wide-2f948bfd7382e4d42489823af5b37c0a9adf0bca-s3000-c15.jpg"></itunes:image>
       <itunes:duration>220</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/05/11/527829909/the-mp3-is-officially-dead-according-to-its-creators</guid>
-      <title>The MP3 Is Officially Dead, According To Its Creators</title>
-      <link>http://www.npr.org/sections/therecord/2017/05/11/527829909/the-mp3-is-officially-dead-according-to-its-creators</link>
-      <description>May 11, 2017 - The MP3 upended the way the world receives and hears music, for better and for worse. Now it&#39;s dead.&#xA;&#xA; - http://www.npr.org/sections/therecord/2017/05/11/527829909/the-mp3-is-officially-dead-according-to-its-creators</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/11/gettyimages-1983649_wide-3a7b81a2ca1719c5f4d37785818a5babd6167ce1-s800-c15.jpg"></a>
-
-May 11, 2017 - The MP3 upended the way the world receives and hears music, for better and for worse. Now it's dead.
-
-<a href="http://www.npr.org/sections/therecord/2017/05/11/527829909/the-mp3-is-officially-dead-according-to-its-creators">http://www.npr.org/sections/therecord/2017/05/11/527829909/the-mp3-is-officially-dead-according-to-its-creators</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/11/gettyimages-1983649_wide-3a7b81a2ca1719c5f4d37785818a5babd6167ce1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</guid>
-      <title>Will Foreign Mischief In U.S. Elections Become &#39;The New Normal&#39;?</title>
-      <link>http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</link>
-      <description>May 11, 2017 - Bitterly divided over the Russian meddling in the 2016 campaign, leaders in Washington so far are not focused on deterring more interference in the next major elections.</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-093353d9650e90ea33cb489db65c1a19b9b442c2-s800-c15.jpg"></a>
-
-May 11, 2017 - Bitterly divided over the Russian meddling in the 2016 campaign, leaders in Washington so far are not focused on deterring more interference in the next major elections.
-
-<a href="http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal">http://www.npr.org/2017/05/11/525429568/will-foreign-mischief-in-u-s-elections-become-the-new-normal</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/istock-532256370_wide-093353d9650e90ea33cb489db65c1a19b9b442c2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
