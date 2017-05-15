@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 20:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 20:00:09 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,45 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</guid>
+      <title>Former White House CIO Outlines How To Safe Guard Against Malware</title>
+      <link>http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</link>
+      <description>May 15, 2017 - NPR&#39;s Audie Cornish talks with cybersecurity expert and former White House Chief Information Officer Theresa Payton about consumer protection against malware and what to do if you&#39;re hit with ransomware.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 15, 2017 - NPR's Audie Cornish talks with cybersecurity expert and former White House Chief Information Officer Theresa Payton about consumer protection against malware and what to do if you're hit with ransomware.
+
+<a href="http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware">http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/15/528502904/hackers-likely-stole-nsa-research-to-conduct-global-ransomware-attack</guid>
+      <title>Hackers Likely Stole NSA Research To Conduct Global Ransomware Attack</title>
+      <link>http://www.npr.org/2017/05/15/528502904/hackers-likely-stole-nsa-research-to-conduct-global-ransomware-attack</link>
+      <description>May 15, 2017 - The ransomware attacks hitting European and Asian computers were made in part possible by National Security Agency research into computer exploits. NPR&#39;s Audie Cornish talks to researcher Nicholas Weaver about these leaked exploits and how they compromise U.S. intelligence.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 15, 2017 - The ransomware attacks hitting European and Asian computers were made in part possible by National Security Agency research into computer exploits. NPR's Audie Cornish talks to researcher Nicholas Weaver about these leaked exploits and how they compromise U.S. intelligence.
+
+<a href="http://www.npr.org/2017/05/15/528502904/hackers-likely-stole-nsa-research-to-conduct-global-ransomware-attack">http://www.npr.org/2017/05/15/528502904/hackers-likely-stole-nsa-research-to-conduct-global-ransomware-attack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide</guid>
+      <title>Ransomware Attacks Begin To Stabilize After Compromising Networks Worldwide</title>
+      <link>http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide</link>
+      <description>May 15, 2017 - The volume of ransomware attacks is slowing or stabilizing around the world, according to government officials and security experts. And the amount of ransom paid out by victims is relatively small — just tens of thousands of dollars. But the scope of the attack in more than 100 countries is still massive, its disruptions are widespread, and the weaknesses it exposed in computer systems can only be described as frightening.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 15, 2017 - The volume of ransomware attacks is slowing or stabilizing around the world, according to government officials and security experts. And the amount of ransom paid out by victims is relatively small — just tens of thousands of dollars. But the scope of the attack in more than 100 countries is still massive, its disruptions are widespread, and the weaknesses it exposed in computer systems can only be described as frightening.
+
+<a href="http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide">http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</guid>
       <title>WannaCry Ransomware: What We Know Monday</title>
@@ -201,51 +240,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack">http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>137</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</guid>
-      <title>Where ICE Already Has Direct Lines To Law-Enforcement Databases With Immigrant Data</title>
-      <link>http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</link>
-      <description>May 12, 2017 - ICE documents show that for years, law enforcement agencies in hundreds of jurisdictions, including major sanctuary cities, have been feeding information into regional databases.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/gettyimages-675555390_wide-efdccf078673dc87c3ec8d78c75bb7b2ee2b4e5b-s800-c15.jpg"></a>
-
-May 12, 2017 - ICE documents show that for years, law enforcement agencies in hundreds of jurisdictions, including major sanctuary cities, have been feeding information into regional databases.
-
-<a href="http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d">http://www.npr.org/sections/codeswitch/2017/05/12/479070535/where-ice-already-has-direct-lines-to-law-enforcement-databases-with-immigrant-d</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/gettyimages-675555390_wide-efdccf078673dc87c3ec8d78c75bb7b2ee2b4e5b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</guid>
-      <title>Ransomware Attacks Ravage Computer Networks In Dozens Of Countries</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</link>
-      <description>May 12, 2017 - &#34;We&#39;ll likely look back at this as a watershed moment,&#34; says Nebraska Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s800-c15.png"></a>
-
-May 12, 2017 - "We'll likely look back at this as a watershed moment," says Nebraska Sen. Ben Sasse, as malware called Wana Decryptor is blamed for large-scale attacks around the world.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded">http://www.npr.org/sections/thetwo-way/2017/05/12/528119808/large-cyber-attack-hits-englands-nhs-hospital-system-ransoms-demanded</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/screen-shot-2017-05-12-at-4.27.03-pm_wide-5a170fa12c7e9c2c41fbe788d5dea5ee37849642-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</guid>
-      <title>Fake Medical News Can Now Be Fact-Checked In India</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</link>
-      <description>May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s800-c15.jpg"></a>
-
-May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
