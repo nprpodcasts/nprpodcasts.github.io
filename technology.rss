@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 16:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 16:00:27 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</guid>
+      <title>WannaCry Ransomware: What We Know Monday</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</link>
+      <description>May 15, 2017 - A Homeland Security official says that so far, &#34;the U.S. is still in a relatively good place.&#34; But because of its success, the malware is being tweaked to foil attempts to stop its spread.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/15/screen-shot-2017-05-15-at-9.52.45-am_wide-bf417d9152596eecb7d904ed46e8c79bba78e118-s800-c15.png"></a>
+
+May 15, 2017 - A Homeland Security official says that so far, "the U.S. is still in a relatively good place." But because of its success, the malware is being tweaked to foil attempts to stop its spread.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday">http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/screen-shot-2017-05-15-at-9.52.45-am_wide-bf417d9152596eecb7d904ed46e8c79bba78e118-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</guid>
       <title>WannaCry Ransomware: Microsoft Calls Out NSA For &#39;Stockpiling&#39; Vulnerabilities</title>
@@ -231,23 +246,6 @@ May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website ca
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_what_pepe_the_frogs_death_can_teach_us_about_the_internet.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=527590762&amp;t=progseg&amp;e=528068779&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Pepe The Frog&#39;s Death Can Teach Us About The Internet</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</link>
-      <description>May 11, 2017 - His creator killed the frog in a comic strip, after the character spent much of 2016 tied to the alt-right. Pepe&#39;s sad tale is a modern parable of how awful the Internet can be.</description>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170512_me_what_pepe_the_frogs_death_can_teach_us_about_the_internet.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=527590762&amp;t=progseg&amp;e=528068779&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/10/gettyimages-674144948_wide-2f948bfd7382e4d42489823af5b37c0a9adf0bca-s800-c15.jpg"></a>
-
-May 11, 2017 - His creator killed the frog in a comic strip, after the character spent much of 2016 tied to the alt-right. Pepe's sad tale is a modern parable of how awful the Internet can be.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet">http://www.npr.org/sections/alltechconsidered/2017/05/11/527590762/what-pepe-the-frogs-death-can-teach-us-about-the-internet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/gettyimages-674144948_wide-2f948bfd7382e4d42489823af5b37c0a9adf0bca-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
