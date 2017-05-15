@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 16:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 20:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 16:00:29 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 20:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528470657/millions-of-pieces-of-plastic-are-piling-up-on-otherwise-pristine-pacific-island</guid>
+      <title>Millions Of Pieces Of Plastic Are Piling Up On Otherwise Pristine Pacific Island </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/15/528470657/millions-of-pieces-of-plastic-are-piling-up-on-otherwise-pristine-pacific-island</link>
+      <description>May 15, 2017 - Researchers found more than 17 tons of plastic debris on an uninhabited island in the South Pacific. It&#39;s some 3,000 miles from the nearest big city, but ocean currents bring a steady supply of trash.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/15/plastic-on-henderson-island_wide-d3e65ceab521e2740ca6ae14e14bef5f36aff0aa-s800-c15.jpg"></a>
+
+May 15, 2017 - Researchers found more than 17 tons of plastic debris on an uninhabited island in the South Pacific. It's some 3,000 miles from the nearest big city, but ocean currents bring a steady supply of trash.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528470657/millions-of-pieces-of-plastic-are-piling-up-on-otherwise-pristine-pacific-island">http://www.npr.org/sections/thetwo-way/2017/05/15/528470657/millions-of-pieces-of-plastic-are-piling-up-on-otherwise-pristine-pacific-island</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/plastic-on-henderson-island_wide-d3e65ceab521e2740ca6ae14e14bef5f36aff0aa-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/15/527656425/how-to-give-vegan-ice-cream-that-creamy-taste-minus-the-milk</guid>
       <title>How To Give Vegan &#39;Ice Cream&#39; That Creamy Taste, Minus The Milk</title>
@@ -233,21 +248,6 @@ May 9, 2017 - The surprising finding suggests that small-brained Homo naledi may
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected">http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/09/skull_wide-d2226b75d410dbb17006a4a4dd4466f3c3f98847-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527575457/australian-fossils-hint-at-where-to-search-for-life-on-mars</guid>
-      <title>Australian Fossils Hint At Where To Search For Life On Mars</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527575457/australian-fossils-hint-at-where-to-search-for-life-on-mars</link>
-      <description>May 9, 2017 - Scientists say the rocks lend weight to a theory that life on Earth originated, as Darwin wrote, &#34;in some warm little pond&#34; on land, suggesting we should look for it in similar environments on Mars.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/09/bubbles-preserved-in-a-sticky-microbial-substance-provide-evidence-for-life-living-around-hot-springs-on-land--paper-image_wide-90526feeb4a1e12870fc4d2160a843fac148c95d-s800-c15.png"></a>
-
-May 9, 2017 - Scientists say the rocks lend weight to a theory that life on Earth originated, as Darwin wrote, "in some warm little pond" on land, suggesting we should look for it in similar environments on Mars.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527575457/australian-fossils-hint-at-where-to-search-for-life-on-mars">http://www.npr.org/sections/thetwo-way/2017/05/09/527575457/australian-fossils-hint-at-where-to-search-for-life-on-mars</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/bubbles-preserved-in-a-sticky-microbial-substance-provide-evidence-for-life-living-around-hot-springs-on-land--paper-image_wide-90526feeb4a1e12870fc4d2160a843fac148c95d-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
