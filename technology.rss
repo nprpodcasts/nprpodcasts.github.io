@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 22:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 23:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 22:00:29 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 23:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_former_white_house_cio_outlines_how_to_safe_guard_against_malware.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=528502953&amp;t=progseg&amp;e=528443161&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Former White House CIO Outlines How To Safe Guard Against Malware</title>
       <link>http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</link>
       <description>May 15, 2017 - NPR&#39;s Audie Cornish talks with cybersecurity expert and former White House Chief Information Officer Theresa Payton about consumer protection against malware and what to do if you&#39;re hit with ransomware.</description>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_former_white_house_cio_outlines_how_to_safe_guard_against_malware.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=528502953&amp;t=progseg&amp;e=528443161&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 15, 2017 - NPR's Audie Cornish talks with cybersecurity expert and former White House Chief Information Officer Theresa Payton about consumer protection against malware and what to do if you're hit with ransomware.
 
 <a href="http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware">http://www.npr.org/2017/05/15/528502953/former-white-house-cio-outlines-how-to-safe-guard-against-malware</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

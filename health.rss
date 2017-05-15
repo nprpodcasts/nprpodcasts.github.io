@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 23:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 22:00:28 +0000</pubDate>
+    <pubDate>Mon, 15 May 2017 23:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -84,11 +84,12 @@ May 15, 2017 - Female physicians with children say they have almost all experien
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/15/527966937/leaving-segregated-neighborhoods-lowers-blacks-blood-pressure</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_leaving_segregated_neighborhoods_lowers_blacks_blood_pressure.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=527966937&amp;t=progseg&amp;e=528443161&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Leaving Segregated Neighborhoods Lowers Blacks&#39; Blood Pressure</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/15/527966937/leaving-segregated-neighborhoods-lowers-blacks-blood-pressure</link>
       <description>May 15, 2017 - African-Americans experienced a drop in blood pressure when they moved from highly segregated neighborhoods to more integrated areas, according to a study that followed people&#39;s health for decades.</description>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_leaving_segregated_neighborhoods_lowers_blacks_blood_pressure.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=527966937&amp;t=progseg&amp;e=528443161&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/blood-pressure-1_wide-c20023b5928c19fd4fe3b5b8d09a853f450f8c97-s800-c15.jpg"></a>
 
@@ -96,6 +97,7 @@ May 15, 2017 - African-Americans experienced a drop in blood pressure when they 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/15/527966937/leaving-segregated-neighborhoods-lowers-blacks-blood-pressure">http://www.npr.org/sections/health-shots/2017/05/15/527966937/leaving-segregated-neighborhoods-lowers-blacks-blood-pressure</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/blood-pressure-1_wide-c20023b5928c19fd4fe3b5b8d09a853f450f8c97-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
