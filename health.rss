@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 10:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 16:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 10:00:08 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 16:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</guid>
+      <title>Price&#39;s Remarks On Opioid Treatment Were Unscientific And Damaging, Experts Say</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</link>
+      <description>May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price, asking that he correct remarks in which he called medication-assisted treatment for addiction as &#34;substituting one opioid for another.&#34;</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s800-c15.jpg"></a>
+
+May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price, asking that he correct remarks in which he called medication-assisted treatment for addiction as "substituting one opioid for another."
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say">http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</guid>
+      <title>Trump Refusal to &#39;Bail Out&#39; Insurers Might End Up Making Policies Cheaper</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</link>
+      <description>May 16, 2017 - It&#39;s a weird twist: If the government refuses to reimburse insurance companies for cost-sharing subsidies, it could make health insurance a lot cheaper for people buying on the exchanges in 2018.</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/trump-health-care-1_wide-ade8ab1950440ae3a5fbce51f0749dcd6a1abb8f-s800-c15.jpg"></a>
+
+May 16, 2017 - It's a weird twist: If the government refuses to reimburse insurance companies for cost-sharing subsidies, it could make health insurance a lot cheaper for people buying on the exchanges in 2018.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper">http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/trump-health-care-1_wide-ade8ab1950440ae3a5fbce51f0749dcd6a1abb8f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</guid>
       <title>GOP Health Bill Penalizes Patients Who Let Insurance Lapse</title>
@@ -224,36 +254,6 @@ May 13, 2017 - The former first lady got fired up talking about the issues she c
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules">http://www.npr.org/sections/thesalt/2017/05/13/528170555/heres-what-michelle-obama-thinks-about-trumps-school-lunch-rules</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/fullsizerender_wide-c32a82cda617641db3dc3011809e723806030d63-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_michelle_obama_slams_trump_for_rolling_back_her_school_meals_program.mp3?orgId=1&amp;topicId=1128&amp;d=259&amp;p=2&amp;story=528166474&amp;t=progseg&amp;e=528060515&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Michelle Obama Slams Trump For Rolling Back Her School Meals Program</title>
-      <link>http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program</link>
-      <description>May 12, 2017 - Days after the Trump administration changed the rules on school lunches and postponed new regulations requiring calorie labeling on menus, former First Lady Michelle Obama spoke out. She told an annual health conference Friday to &#34;look at [the] motives&#34; behind the government&#39;s decision, without naming Trump.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_michelle_obama_slams_trump_for_rolling_back_her_school_meals_program.mp3?orgId=1&amp;topicId=1128&amp;d=259&amp;p=2&amp;story=528166474&amp;t=progseg&amp;e=528060515&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - Days after the Trump administration changed the rules on school lunches and postponed new regulations requiring calorie labeling on menus, former First Lady Michelle Obama spoke out. She told an annual health conference Friday to "look at [the] motives" behind the government's decision, without naming Trump.
-
-<a href="http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program">http://www.npr.org/2017/05/12/528166474/michelle-obama-slams-trump-for-rolling-back-her-school-meals-program</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>259</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
-      <link>http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</link>
-      <description>May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.
-
-<a href="http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny">http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>1837</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
