@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 22:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 23:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 22:00:11 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 23:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -27,12 +27,12 @@
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</guid>
       <title>How Many Teenagers Die Each Day ... And Why</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</link>
-      <description>May 16, 2017 - A new report from the World Health Organization looks at the causes — and possible remedies.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</description>
+      <description>May 16, 2017 - A new report from the World Health Organization looks at the causes — and how most of the deaths could be prevented.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/seamus-promo_wide-16cac3aa77fa6b93fe4f8788288f2ce4656447c7-s800-c15.jpg"></a>
 
-May 16, 2017 - A new report from the World Health Organization looks at the causes — and possible remedies.
+May 16, 2017 - A new report from the World Health Organization looks at the causes — and how most of the deaths could be prevented.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why">http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/seamus-promo_wide-16cac3aa77fa6b93fe4f8788288f2ce4656447c7-s3000-c15.jpg"></itunes:image>
@@ -73,11 +73,12 @@ May 16, 2017 - Some people on heroin die because the drug was laced with somethi
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_why_are_americans_drinking_less_cows_milk_its_appeal_has_curdled.mp3?orgId=1&amp;topicId=1134&amp;d=495&amp;p=2&amp;story=528460207&amp;t=progseg&amp;e=528577944&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why Are Americans Drinking Less Cow&#39;s Milk? Its Appeal Has Curdled</title>
       <link>http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</link>
       <description>May 16, 2017 - In the 1900s, nutritionists and dairy producers helped convince Americans that cow&#39;s milk was nature&#39;s perfect food. But the science and tastes have changed, and we&#39;re guzzling much less than before.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_why_are_americans_drinking_less_cows_milk_its_appeal_has_curdled.mp3?orgId=1&amp;topicId=1134&amp;d=495&amp;p=2&amp;story=528460207&amp;t=progseg&amp;e=528577944&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/milk_wide-bbb543903cabee072694d2083ab9ee591a469b77-s800-c15.jpg"></a>
 
@@ -85,6 +86,7 @@ May 16, 2017 - In the 1900s, nutritionists and dairy producers helped convince A
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled">http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/milk_wide-bbb543903cabee072694d2083ab9ee591a469b77-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>495</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -180,16 +182,18 @@ May 15, 2017 - The cholera crisis — with more than 11,000 cases — is overwhe
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_psychiatrists_divided_over_the_goldwater_rule_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1029&amp;d=276&amp;p=2&amp;story=528502969&amp;t=progseg&amp;e=528577944&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Psychiatrists Divided Over The &#39;Goldwater Rule&#39; In The Age Of Trump</title>
       <link>http://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump</link>
       <description>May 15, 2017 - NPR&#39;s Audie Cornish talks with Jane Mayer of The New Yorker about the debate among psychiatrists within the American Psychiatric Association about breaking from the Goldwater rule and making pronouncements about President Trump&#39;s mental health.</description>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_psychiatrists_divided_over_the_goldwater_rule_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1029&amp;d=276&amp;p=2&amp;story=528502969&amp;t=progseg&amp;e=528577944&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 15, 2017 - NPR's Audie Cornish talks with Jane Mayer of The New Yorker about the debate among psychiatrists within the American Psychiatric Association about breaking from the Goldwater rule and making pronouncements about President Trump's mental health.
 
 <a href="http://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump">http://www.npr.org/2017/05/15/528502969/psychiatrists-divided-over-the-goldwater-rule-in-the-age-of-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>276</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
