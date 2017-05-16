@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 12:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 13:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 12:00:12 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 13:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -40,32 +40,34 @@ May 16, 2017 - Google security researcher Neel Mehta pointed out similarities be
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyber_analysts_say_wannacry_ransomware_wasnt_very_sophisticated.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=528570788&amp;t=progseg&amp;e=528557620&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Cyber Analysts Say WannaCry Ransomware Wasn&#39;t Very Sophisticated</title>
-      <link>http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</link>
-      <description>May 16, 2017 - There&#39;s very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.</description>
+      <title>From Kill Switch To Bitcoin, &#39;WannaCry&#39; Showing Signs Of Amateur Flaws</title>
+      <link>http://www.npr.org/2017/05/16/528570788/from-kill-switch-to-bitcoin-wannacry-showing-signs-of-amateur-flaws</link>
+      <description>May 16, 2017 - There&#39;s very little law enforcement can do to catch purveyors of ransomware — unless they slip up. The criminals behind the WannaCry attack may have done just that.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyber_analysts_say_wannacry_ransomware_wasnt_very_sophisticated.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=528570788&amp;t=progseg&amp;e=528557620&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 16, 2017 - There's very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_17133191234349_wide-27170c4e0e11e5aa3937d632ac72ffd83adaa482-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated">http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+May 16, 2017 - There's very little law enforcement can do to catch purveyors of ransomware — unless they slip up. The criminals behind the WannaCry attack may have done just that.
+
+<a href="http://www.npr.org/2017/05/16/528570788/from-kill-switch-to-bitcoin-wannacry-showing-signs-of-amateur-flaws">http://www.npr.org/2017/05/16/528570788/from-kill-switch-to-bitcoin-wannacry-showing-signs-of-amateur-flaws</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_17133191234349_wide-27170c4e0e11e5aa3937d632ac72ffd83adaa482-s3000-c15.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=125&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=124&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Cyberattack Culprits Demand Ransom Be Paid In Bitcoins</title>
       <link>http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins</link>
       <description>May 16, 2017 - Hackers have been targeting users and demanding bitcoins as ransom. Since not all their victims have used bitcoin before, they&#39;ve been sending their victims bitcoin tutorials.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=125&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=124&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 16, 2017 - Hackers have been targeting users and demanding bitcoins as ransom. Since not all their victims have used bitcoin before, they've been sending their victims bitcoin tutorials.
 
 <a href="http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins">http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>125</itunes:duration>
+      <itunes:duration>124</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
