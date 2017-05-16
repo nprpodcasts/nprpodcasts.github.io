@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 02:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 23:00:09 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 02:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</guid>
+      <title>The Fox And The Hedgehog: The Triumphs And Perils Of Going Big</title>
+      <link>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</link>
+      <description>May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That&#39;s the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s800-c15.png"></a>
+
+May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That's the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.
+
+<a href="http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big">http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_yemens_medical_crisis.mp3?orgId=1&amp;topicId=1031&amp;d=195&amp;p=2&amp;story=528498233&amp;t=progseg&amp;e=528443161&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why A Man Is On An IV In His Car Outside A Hospital In Yemen</title>
@@ -54,18 +69,18 @@ May 15, 2017 - The cholera crisis — with more than 11,000 cases — is overwhe
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_advocates_push_for_trump_to_take_swift_action_on_the_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=268&amp;p=2&amp;story=528166453&amp;t=progseg&amp;e=528443161&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_advocates_push_for_trump_to_take_swift_action_on_the_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=275&amp;p=2&amp;story=528166453&amp;t=progseg&amp;e=528443161&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Advocates Push For Trump To Take Swift Action On The Opioid Crisis</title>
       <link>http://www.npr.org/2017/05/15/528166453/advocates-push-for-trump-to-take-swift-action-on-the-opioid-crisis</link>
       <description>May 15, 2017 - President Trump campaigned promising he would help out in a big way with the opioid crisis. But since taking office, lawmakers and advocates say there isn&#39;t much to show for it.</description>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_advocates_push_for_trump_to_take_swift_action_on_the_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=268&amp;p=2&amp;story=528166453&amp;t=progseg&amp;e=528443161&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_advocates_push_for_trump_to_take_swift_action_on_the_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=275&amp;p=2&amp;story=528166453&amp;t=progseg&amp;e=528443161&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 15, 2017 - President Trump campaigned promising he would help out in a big way with the opioid crisis. But since taking office, lawmakers and advocates say there isn't much to show for it.
 
 <a href="http://www.npr.org/2017/05/15/528166453/advocates-push-for-trump-to-take-swift-action-on-the-opioid-crisis">http://www.npr.org/2017/05/15/528166453/advocates-push-for-trump-to-take-swift-action-on-the-opioid-crisis</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>268</itunes:duration>
+      <itunes:duration>275</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ May 12, 2017 - Inflatable beds are increasingly popular, and their soft, imperme
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents">http://www.npr.org/sections/health-shots/2017/05/12/527652923/inflatable-beds-dangerous-for-infants-attractive-to-cash-strapped-parents</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/11/air-mattress-1_wide-9c4672ded66413e927d83743244e1cd80a009666-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</guid>
-      <title>Fake Medical News Can Now Be Fact-Checked In India</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</link>
-      <description>May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s800-c15.jpg"></a>
-
-May 12, 2017 - Whatsapp is spreading bogus medical advice in India. A website called Check4Spam is debunking the claims.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india">http://www.npr.org/sections/goatsandsoda/2017/05/12/526687362/fake-medical-news-can-now-be-fact-checked-in-india</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/03/snakeinfridge_wide-8712e5b1a4df8587b3b5063687b164f11ffe1f9e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

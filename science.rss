@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 21:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 02:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 21:00:20 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 02:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</guid>
+      <title>The Fox And The Hedgehog: The Triumphs And Perils Of Going Big</title>
+      <link>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</link>
+      <description>May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That&#39;s the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s800-c15.png"></a>
+
+May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That's the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.
+
+<a href="http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big">http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528470657/millions-of-pieces-of-plastic-are-piling-up-on-otherwise-pristine-pacific-island</guid>
       <title>Millions Of Pieces Of Plastic Are Piling Up On An Otherwise Pristine Pacific Island </title>
@@ -233,21 +248,6 @@ May 10, 2017 - Today it's fidget spinners, but soon it will be another little gi
 <a href="http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria">http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>206</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</guid>
-      <title>Primitive Humanlike Species Lived More Recently Than Expected</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</link>
-      <description>May 9, 2017 - The surprising finding suggests that small-brained Homo naledi may have lived at the same time as early humans in South Africa, complicating previous notions about human origins.</description>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/09/skull_wide-d2226b75d410dbb17006a4a4dd4466f3c3f98847-s800-c15.jpg"></a>
-
-May 9, 2017 - The surprising finding suggests that small-brained Homo naledi may have lived at the same time as early humans in South Africa, complicating previous notions about human origins.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected">http://www.npr.org/sections/thetwo-way/2017/05/09/527624658/primitive-human-like-species-lived-more-recently-than-expected</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/09/skull_wide-d2226b75d410dbb17006a4a4dd4466f3c3f98847-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
