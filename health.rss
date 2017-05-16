@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 21:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 22:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 21:00:12 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 22:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</guid>
+      <title>How Many Teenagers Die Each Day ... And Why</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</link>
+      <description>May 16, 2017 - A new report from the World Health Organization looks at the causes — and possible remedies.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/seamus-promo_wide-16cac3aa77fa6b93fe4f8788288f2ce4656447c7-s800-c15.jpg"></a>
+
+May 16, 2017 - A new report from the World Health Organization looks at the causes — and possible remedies.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why">http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/seamus-promo_wide-16cac3aa77fa6b93fe4f8788288f2ce4656447c7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_candidates_confront_gop_health_care_bill_in_montana_special_election.mp3?orgId=214&amp;topicId=1128&amp;d=198&amp;p=2&amp;story=528598340&amp;t=progseg&amp;e=528577944&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Candidates Confront GOP Health Care Bill In Montana Special Election</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election</link>
       <description>May 16, 2017 - Health care is on the minds of many potential voters in Montana, but the House health bill itself is unlikely to sway entrenched Republican voters in the special election next week.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_candidates_confront_gop_health_care_bill_in_montana_special_election.mp3?orgId=214&amp;topicId=1128&amp;d=198&amp;p=2&amp;story=528598340&amp;t=progseg&amp;e=528577944&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/montana-deabte-1_wide-d313f9709e1372c479527af8c3207023400c3fbf-s800-c15.jpg"></a>
 
@@ -36,14 +52,16 @@ May 16, 2017 - Health care is on the minds of many potential voters in Montana, 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election">http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/montana-deabte-1_wide-d313f9709e1372c479527af8c3207023400c3fbf-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>198</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_an_experiment_helps_heroin_users_test_their_street_drugs_for_fentanyl.mp3?orgId=552&amp;topicId=1128&amp;d=337&amp;p=2&amp;story=527924429&amp;t=progseg&amp;e=528577944&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>An Experiment Helps Heroin Users Test Their Street Drugs For Fentanyl</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</link>
       <description>May 16, 2017 - Some people on heroin die because the drug was laced with something much stronger — like fentanyl. A few needle exchange programs give users test strips to check their drug&#39;s content before injecting.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_an_experiment_helps_heroin_users_test_their_street_drugs_for_fentanyl.mp3?orgId=552&amp;topicId=1128&amp;d=337&amp;p=2&amp;story=527924429&amp;t=progseg&amp;e=528577944&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/rapid-response-1_wide-2e74f0ff8a2646af7d4831635c98eb6c2b7c0f74-s800-c15.jpg"></a>
 
@@ -51,6 +69,7 @@ May 16, 2017 - Some people on heroin die because the drug was laced with somethi
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl">http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/rapid-response-1_wide-2e74f0ff8a2646af7d4831635c98eb6c2b7c0f74-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>337</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -87,12 +106,12 @@ May 16, 2017 - Snuggles ate some heroin, according to the woman who brought the 
       <guid>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</guid>
       <title>Price&#39;s Remarks On Opioid Treatment Were Unscientific And Damaging, Experts Say</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</link>
-      <description>May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price, asking that he correct remarks in which he called medication-assisted treatment for addiction &#34;substituting one opioid for another.&#34;</description>
+      <description>May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price asking that he correct remarks in which he called medication-assisted treatment for addiction &#34;substituting one opioid for another.&#34;</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s800-c15.jpg"></a>
 
-May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price, asking that he correct remarks in which he called medication-assisted treatment for addiction "substituting one opioid for another."
+May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price asking that he correct remarks in which he called medication-assisted treatment for addiction "substituting one opioid for another."
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say">http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s3000-c15.jpg"></itunes:image>
@@ -235,23 +254,6 @@ May 15, 2017 - A high school in New Mexico is experimenting with light-shielding
 <a href="http://www.npr.org/sections/health-shots/2017/05/15/527952956/stressed-out-high-schoolers-advised-to-take-a-nap-pod">http://www.npr.org/sections/health-shots/2017/05/15/527952956/stressed-out-high-schoolers-advised-to-take-a-nap-pod</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/nap-pods-1_wide-11dbbe7ba4ee2218ca6684fdbac7f5ae926f1711-s3000-c15.jpg"></itunes:image>
       <itunes:duration>199</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170515_me_yawning_may_promote_social_bonding_even_between_dogs_and_humans.mp3?orgId=1&amp;topicId=1066&amp;d=185&amp;p=3&amp;story=527106576&amp;t=progseg&amp;e=528407670&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Yawning May Promote Social Bonding Even Between Dogs And Humans</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/15/527106576/yawning-may-promote-social-bonding-even-between-dogs-and-humans</link>
-      <description>May 15, 2017 - Bears do it, bats do it. So do dogs and humans. They all yawn. It&#39;s a common behavior, but why is a bit of a mystery. Researchers think yawning may perk up the brain and help with social bonding.</description>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170515_me_yawning_may_promote_social_bonding_even_between_dogs_and_humans.mp3?orgId=1&amp;topicId=1066&amp;d=185&amp;p=3&amp;story=527106576&amp;t=progseg&amp;e=528407670&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/yawning-1_wide-fc7d5d45d40bf6be5eec7ae0900ed7cf669a59eb-s800-c15.jpg"></a>
-
-May 15, 2017 - Bears do it, bats do it. So do dogs and humans. They all yawn. It's a common behavior, but why is a bit of a mystery. Researchers think yawning may perk up the brain and help with social bonding.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/15/527106576/yawning-may-promote-social-bonding-even-between-dogs-and-humans">http://www.npr.org/sections/health-shots/2017/05/15/527106576/yawning-may-promote-social-bonding-even-between-dogs-and-humans</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/yawning-1_wide-fc7d5d45d40bf6be5eec7ae0900ed7cf669a59eb-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

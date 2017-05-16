@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 21:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 22:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 21:00:10 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 22:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -37,11 +37,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_an_experiment_helps_heroin_users_test_their_street_drugs_for_fentanyl.mp3?orgId=552&amp;topicId=1128&amp;d=337&amp;p=2&amp;story=527924429&amp;t=progseg&amp;e=528577944&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>An Experiment Helps Heroin Users Test Their Street Drugs For Fentanyl</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</link>
       <description>May 16, 2017 - Some people on heroin die because the drug was laced with something much stronger — like fentanyl. A few needle exchange programs give users test strips to check their drug&#39;s content before injecting.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_an_experiment_helps_heroin_users_test_their_street_drugs_for_fentanyl.mp3?orgId=552&amp;topicId=1128&amp;d=337&amp;p=2&amp;story=527924429&amp;t=progseg&amp;e=528577944&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/15/rapid-response-1_wide-2e74f0ff8a2646af7d4831635c98eb6c2b7c0f74-s800-c15.jpg"></a>
 
@@ -49,6 +50,7 @@ May 16, 2017 - Some people on heroin die because the drug was laced with somethi
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl">http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/rapid-response-1_wide-2e74f0ff8a2646af7d4831635c98eb6c2b7c0f74-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>337</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
