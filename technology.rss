@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 11:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 10:00:05 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 11:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -34,6 +34,21 @@
 
 <a href="http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated">http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=125&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Cyberattack Culprits Demand Ransom Be Paid In Bitcoins</title>
+      <link>http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins</link>
+      <description>May 16, 2017 - Hackers have been targeting users and demanding bitcoins as ransom. Since not all their victims have used bitcoin before, they&#39;ve been sending their victims bitcoin tutorials.</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyberattack_culprits_demand_ransom_be_paid_in_bitcoins.mp3?orgId=1&amp;topicId=1019&amp;d=125&amp;p=3&amp;story=528570753&amp;t=progseg&amp;e=528557620&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 16, 2017 - Hackers have been targeting users and demanding bitcoins as ransom. Since not all their victims have used bitcoin before, they've been sending their victims bitcoin tutorials.
+
+<a href="http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins">http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>125</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -229,21 +244,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe">http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_worldwide_cyber_attack.mp3?orgId=1&amp;topicId=1019&amp;d=230&amp;p=2&amp;story=528193771&amp;t=progseg&amp;e=528060515&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ransomware Attacks Hit Computer Systems In Dozens Of Countries</title>
-      <link>http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</link>
-      <description>May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_worldwide_cyber_attack.mp3?orgId=1&amp;topicId=1019&amp;d=230&amp;p=2&amp;story=528193771&amp;t=progseg&amp;e=528060515&amp;seg=21&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - Hackers used a ransomware attack on Friday compromise the computer networks of telecommunications companies, health care systems and other corporations around the world.
-
-<a href="http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries">http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
