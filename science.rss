@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 02:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 10:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 02:00:08 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 10:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</guid>
+      <title>GOP Health Bill Penalizes Patients Who Let Insurance Lapse</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</link>
+      <description>May 16, 2017 - In some states, a break in health coverage of more than 63 days would let insurers charge premiums of any price for a year — putting health insurance out of reach for many sick people, analysts say.</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s800-c15.jpg"></a>
+
+May 16, 2017 - In some states, a break in health coverage of more than 63 days would let insurers charge premiums of any price for a year — putting health insurance out of reach for many sick people, analysts say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse">http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</guid>
       <title>The Fox And The Hedgehog: The Triumphs And Perils Of Going Big</title>
@@ -233,21 +248,6 @@ May 10, 2017 - Today it's fidget spinners, but soon it will be another little gi
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so">http://www.npr.org/sections/health-shots/2017/05/10/527769527/why-do-children-love-those-fad-toys-so</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/10/furby-2_wide-8dd8370ef3e590a2241dec26fdd149da49a2b735-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170511_me_how_illegal_gold_mining_relates_to_the_spread_of_malaria.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=527720163&amp;t=progseg&amp;e=527894909&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Illegal Gold Mining Relates To The Spread Of Malaria</title>
-      <link>http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</link>
-      <description>May 10, 2017 - New social science research shows a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.</description>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170511_me_how_illegal_gold_mining_relates_to_the_spread_of_malaria.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=527720163&amp;t=progseg&amp;e=527894909&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 10, 2017 - New social science research shows a correlation between illegal gold mining and the spread of malaria. We explore why this might be the case.
-
-<a href="http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria">http://www.npr.org/2017/05/10/527720163/how-illegal-gold-mining-relates-to-the-spread-of-malaria</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

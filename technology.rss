@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 09:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 10:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 09:00:24 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 10:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</guid>
+      <title>Cyber Analysts Say WannaCry Ransomware Wasn&#39;t Very Sophisticated</title>
+      <link>http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</link>
+      <description>May 16, 2017 - There&#39;s very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 16, 2017 - There's very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.
+
+<a href="http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated">http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</guid>
       <title>Microsoft&#39;s President Reflects On Cyberattack, Helping Pirates And The NSA</title>
@@ -231,21 +244,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries">http://www.npr.org/2017/05/12/528193771/ransomware-attacks-hit-computer-systems-in-dozens-of-countries</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>230</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=203&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hackers Used Stolen NSA Tool To Conduct Global Cyberattacks</title>
-      <link>http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</link>
-      <description>May 12, 2017 - NPR&#39;s Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_cybersecurity_and_hospitals.mp3?orgId=1&amp;topicId=1019&amp;d=203&amp;p=2&amp;story=528166439&amp;t=progseg&amp;e=528060515&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - NPR's Robert Siegel talks to Craig Timberg of The Washington Post about the tool hackers stole from the National Security Agency to conduct massive cyberattacks around the world on Friday.
-
-<a href="http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks">http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
