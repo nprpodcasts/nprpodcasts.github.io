@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 11:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 12:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 11:00:06 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 12:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</guid>
+      <title>North Korea May Be Linked To WannaCry Ransomware, Researchers Say</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</link>
+      <description>May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that&#39;s been blamed for the Sony Pictures hack of 2014.</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/gettyimages-681472762_wide-af1005fb24508b88cb3cd8671d962aefe066a86c-s800-c15.jpg"></a>
+
+May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that's been blamed for the Sony Pictures hack of 2014.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say">http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/gettyimages-681472762_wide-af1005fb24508b88cb3cd8671d962aefe066a86c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyber_analysts_say_wannacry_ransomware_wasnt_very_sophisticated.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=528570788&amp;t=progseg&amp;e=528557620&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Cyber Analysts Say WannaCry Ransomware Wasn&#39;t Very Sophisticated</title>
       <link>http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</link>
       <description>May 16, 2017 - There&#39;s very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_cyber_analysts_say_wannacry_ransomware_wasnt_very_sophisticated.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=528570788&amp;t=progseg&amp;e=528557620&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 16, 2017 - There's very little law enforcement can do to catch purveyors of ransomware — unless they screw up, or anger all the wrong people. The criminals behind the WannaCry attack may have done both.
 
 <a href="http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated">http://www.npr.org/2017/05/16/528570788/cyber-analysts-say-wannacry-ransomware-wasnt-very-sophisticated</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -52,11 +69,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_microsofts_president_on_ransomware_helping_pirates_and_the_nsa.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=528555400&amp;t=progseg&amp;e=528557620&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Microsoft&#39;s President Reflects On Cyberattack, Helping Pirates And The NSA</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</link>
       <description>May 16, 2017 - Microsoft&#39;s president discusses the company efforts to contain the global WannaCry virus, which includes helping people who pirated his software, and he calls for a &#34;Digital Geneva Convention.&#34;</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_microsofts_president_on_ransomware_helping_pirates_and_the_nsa.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=528555400&amp;t=progseg&amp;e=528557620&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s800-c15.jpg"></a>
 
@@ -64,6 +82,7 @@ May 16, 2017 - Microsoft's president discusses the company efforts to contain th
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa">http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -229,21 +248,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack">http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>198</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_ransomware_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=7&amp;story=528236680&amp;t=progseg&amp;e=528236596&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ransomware Attacks Computer Networks Around The Globe</title>
-      <link>http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe</link>
-      <description>May 13, 2017 - Massive cyberattacks spread throughout the world, affecting computer systems in nearly 100 countries. The hackers reportedly used a flaw in Microsoft software identified by the NSA.</description>
-      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_ransomware_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=7&amp;story=528236680&amp;t=progseg&amp;e=528236596&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 13, 2017 - Massive cyberattacks spread throughout the world, affecting computer systems in nearly 100 countries. The hackers reportedly used a flaw in Microsoft software identified by the NSA.
-
-<a href="http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe">http://www.npr.org/2017/05/13/528236680/ransomware-attacks-computer-networks-around-the-globe</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
