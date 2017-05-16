@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 19:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 16:00:32 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 19:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a1170516-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>WannaCry, Gonna Cry: Cybersecurity In The Face Of Ransomware</title>
+      <link>http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</link>
+      <description>May 16, 2017 - We live on a hackable planet. How do we stay safe?&#xA;&#xA; - http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a1170516-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 16, 2017 - We live on a hackable planet. How do we stay safe?
+
+<a href="http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware">http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1536</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</guid>
       <title>North Korea May Be Linked To WannaCry Ransomware, Researchers Say</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</link>
       <description>May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that has been blamed for the Sony Pictures hack of 2014.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/gettyimages-681472762_wide-e33e1de33724b43c8a27aa4f580c276e8036a33f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_16231139374_wide-cae140f1e3d8f9c5aef73c0c1c33820f5b502f16-s800-c15.jpg"></a>
 
 May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that has been blamed for the Sony Pictures hack of 2014.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say">http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/gettyimages-681472762_wide-e33e1de33724b43c8a27aa4f580c276e8036a33f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_16231139374_wide-cae140f1e3d8f9c5aef73c0c1c33820f5b502f16-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +250,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/13/528287794/cyber-security-experts-say-malware-used-in-fridays-attack-is-especially-maliciou">http://www.npr.org/2017/05/13/528287794/cyber-security-experts-say-malware-used-in-fridays-attack-is-especially-maliciou</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>171</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_cyber_expert_on_hack.mp3?orgId=1&amp;topicId=1019&amp;d=198&amp;p=7&amp;story=528259272&amp;t=progseg&amp;e=528236596&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Security Expert Weighs In On Worldwide Ransomware Hack</title>
-      <link>http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</link>
-      <description>May 13, 2017 - NPR&#39;S Scott Simon speaks with Matt Tait, of Capital Alpha Security in the United Kingdom, about the ransomware hacks in dozens of countries on Friday.</description>
-      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170513_wesat_cyber_expert_on_hack.mp3?orgId=1&amp;topicId=1019&amp;d=198&amp;p=7&amp;story=528259272&amp;t=progseg&amp;e=528236596&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 13, 2017 - NPR'S Scott Simon speaks with Matt Tait, of Capital Alpha Security in the United Kingdom, about the ransomware hacks in dozens of countries on Friday.
-
-<a href="http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack">http://www.npr.org/2017/05/13/528259272/security-expert-weighs-in-on-worldwide-ransomware-hack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>198</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
