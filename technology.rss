@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 09:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 15 May 2017 23:00:07 +0000</pubDate>
+    <pubDate>Tue, 16 May 2017 09:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</guid>
+      <title>Microsoft&#39;s President Reflects On Cyberattack, Helping Pirates And The NSA</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</link>
+      <description>May 16, 2017 - Microsoft&#39;s president discusses the company efforts to contain the global WannaCry virus, which includes helping people who pirated his software, and he calls for a &#34;Digital Geneva Convention.&#34;</description>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s800-c15.jpg"></a>
+
+May 16, 2017 - Microsoft's president discusses the company efforts to contain the global WannaCry virus, which includes helping people who pirated his software, and he calls for a "Digital Geneva Convention."
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa">http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_former_white_house_cio_outlines_how_to_safe_guard_against_malware.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=528502953&amp;t=progseg&amp;e=528443161&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Former White House CIO Outlines How To Safe Guard Against Malware</title>
@@ -231,21 +246,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 <a href="http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks">http://www.npr.org/2017/05/12/528166439/hackers-used-stolen-nsa-tool-to-conduct-global-cyberattacks</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>203</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_british_hospitals_among_targets_of_global_ransomware_attack.mp3?orgId=1&amp;topicId=1124&amp;d=137&amp;p=2&amp;story=528166432&amp;t=progseg&amp;e=528060515&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>British Hospitals Among Targets Of Global Ransomware Attack</title>
-      <link>http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</link>
-      <description>May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170512_atc_british_hospitals_among_targets_of_global_ransomware_attack.mp3?orgId=1&amp;topicId=1124&amp;d=137&amp;p=2&amp;story=528166432&amp;t=progseg&amp;e=528060515&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - Some doctors and hospitals in Britain are canceling routine treatment on Friday after what appears to have been a major cyber attack. It might be linked to similar attacks reported elsewhere in Europe.
-
-<a href="http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack">http://www.npr.org/2017/05/12/528166432/british-hospitals-among-targets-of-global-ransomware-attack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>137</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
