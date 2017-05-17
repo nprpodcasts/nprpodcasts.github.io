@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2017 21:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 17:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 16 May 2017 21:00:08 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 17:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</guid>
+      <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
+      <link>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</link>
+      <description>May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s800-c15.jpg"></a>
+
+May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.
+
+<a href="http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home">http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls</guid>
       <title>Long Before &#39;WannaCry&#39; Ransomware, Decades Of Cyber &#39;Wake-Up Calls&#39;</title>
@@ -235,21 +250,6 @@ May 14, 2017 - Memes about the advanced placement exams turned up on social medi
 
 <a href="http://www.npr.org/2017/05/14/528140036/ap-test-takers-tweets-may-not-give-away-answers-but-they-raise-questions">http://www.npr.org/2017/05/14/528140036/ap-test-takers-tweets-may-not-give-away-answers-but-they-raise-questions</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/13/istock-504046476_wide-1e2fe775c84399516978b2631767bdb3a8a44e97-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyberattacks.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=528287801&amp;t=progseg&amp;e=528287479&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Security Researcher And Microsoft Worked To Stop Spread Of Cyberattack</title>
-      <link>http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack</link>
-      <description>May 13, 2017 - NPR&#39;s Mary Louise Kelly talks about the implications of Friday&#39;s massive cyberattack with Michael Sulmeyer, director of the Cyber Security Project at Harvard&#39;s Kennedy School of Government.</description>
-      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170513_atc_cyberattacks.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=2&amp;story=528287801&amp;t=progseg&amp;e=528287479&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 13, 2017 - NPR's Mary Louise Kelly talks about the implications of Friday's massive cyberattack with Michael Sulmeyer, director of the Cyber Security Project at Harvard's Kennedy School of Government.
-
-<a href="http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack">http://www.npr.org/2017/05/13/528287801/security-researcher-and-microsoft-worked-to-stop-spread-of-cyberattack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
