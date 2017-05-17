@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 22:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 23:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 22:00:11 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 23:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/17/528826774/many-of-california-s-salmon-populations-unlikely-to-survive-the-century</guid>
+      <title>Many Of California&#39;s Salmon Populations Unlikely To Survive The Century</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/17/528826774/many-of-california-s-salmon-populations-unlikely-to-survive-the-century</link>
+      <description>May 17, 2017 - Climate change, damns and agriculture are threatening Chinook salmon, the iconic fish at the core of the state&#39;s fishing industry, a report predicts. And 23 other fish species are also seen in danger.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/17/gettyimages-486096459_wide-c75cca42c28b29426e0aaa65c361604895092bc9-s800-c15.jpg"></a>
+
+May 17, 2017 - Climate change, damns and agriculture are threatening Chinook salmon, the iconic fish at the core of the state's fishing industry, a report predicts. And 23 other fish species are also seen in danger.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/17/528826774/many-of-california-s-salmon-populations-unlikely-to-survive-the-century">http://www.npr.org/sections/thesalt/2017/05/17/528826774/many-of-california-s-salmon-populations-unlikely-to-survive-the-century</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/gettyimages-486096459_wide-c75cca42c28b29426e0aaa65c361604895092bc9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science</guid>
       <title>Tragic Love Triangle Is Sad For Lonely Rare Snail, Still Good For Science</title>
@@ -54,11 +69,12 @@ May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other pr
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
       <link>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</link>
       <description>May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.</description>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s800-c15.jpg"></a>
 
@@ -66,6 +82,7 @@ May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official rec
 
 <a href="http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home">http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>443</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ May 14, 2017 - Archaeologists announced the discovery of the mummies in central 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/14/528368929/photos-17-mummies-unearthed-in-egypt">http://www.npr.org/sections/thetwo-way/2017/05/14/528368929/photos-17-mummies-unearthed-in-egypt</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/14/gettyimages-682615850_wide-11ed6e921e5e396daeadb7f9647b84ef2bce61ea-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170514_wesun_synthetic_genome.mp3?orgId=1&amp;topicId=1024&amp;d=232&amp;p=10&amp;story=528335247&amp;t=progseg&amp;e=528330126&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Raise Concern By Wanting To Create Synthetic Human Genomes  </title>
-      <link>http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes</link>
-      <description>May 14, 2017 - In New York, hundreds of scientists discussed a highly ambitious and controversial project. They want to create synthetic genetic codes for all kinds of creatures — including the human genetic code.</description>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170514_wesun_synthetic_genome.mp3?orgId=1&amp;topicId=1024&amp;d=232&amp;p=10&amp;story=528335247&amp;t=progseg&amp;e=528330126&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 14, 2017 - In New York, hundreds of scientists discussed a highly ambitious and controversial project. They want to create synthetic genetic codes for all kinds of creatures — including the human genetic code.
-
-<a href="http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes">http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

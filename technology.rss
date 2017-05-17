@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 23:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 17:00:21 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 23:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
       <link>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</link>
       <description>May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.</description>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official rec
 
 <a href="http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home">http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>443</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
