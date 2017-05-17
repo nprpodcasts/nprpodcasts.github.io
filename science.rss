@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 17:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 19:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 17:00:23 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 19:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</guid>
+      <title>Orangutan Moms Are The Primate Champs Of Breast-Feeding</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</link>
+      <description>May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s800-c15.jpg"></a>
+
+May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding">http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</guid>
       <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
@@ -239,21 +254,6 @@ May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show y
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits">http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Power Of Genes, And The Line Between Biology And Destiny</title>
-      <link>http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</link>
-      <description>May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.</description>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170512_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1837&amp;p=13&amp;story=528097708&amp;t=progseg&amp;e=528098249&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 12, 2017 - Dr. Siddhartha Mukherjee says genetics play a significant role in identity, temperament, sexual orientation and disease risk — but that environment also matters. Originally broadcast May 15, 2016.
-
-<a href="http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny">http://www.npr.org/2017/05/12/528097708/the-power-of-genes-and-the-line-between-biology-and-destiny</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>1837</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

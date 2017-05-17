@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 18:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 18:00:26 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</guid>
+      <title>Orangutan Moms Are The Primate Champs Of Breast-Feeding</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</link>
+      <description>May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s800-c15.jpg"></a>
+
+May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding">http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns</guid>
       <title>Common Lead Test Can Give False Results, FDA Warns</title>
@@ -114,17 +129,19 @@ May 17, 2017 - A law student was touched when she had a seizure during a big exa
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_texas_and_planned_parenthood.mp3?orgId=1&amp;d=148&amp;p=2&amp;story=528657247&amp;t=progseg&amp;e=528577944&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Texas Wants Medicaid Funds, Right To Keep Planned Parenthood From Getting Any</title>
-      <link>http://www.npr.org/2017/05/16/528657247/texas-wants-medicaid-funds-right-to-keep-planned-parenthood-from-getting-any</link>
-      <description>May 16, 2017 - In 2011, the state gave up millions in federal Medicaid funding so it could exclude the chain of clinics, which counts abortion among the procedures it provides, from its women&#39;s health program.</description>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_texas_and_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=528657247&amp;t=progseg&amp;e=528577944&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Texas Wants To Set Its Own Rules For Federal Family Planning Funds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/16/528657247/texas-wants-medicaid-funds-and-the-right-to-set-its-own-rules</link>
+      <description>May 16, 2017 - In 2011, Texas gave up millions in federal Medicaid funding so it could exclude Planned Parenthood, which counts abortion among the procedures it provides, from its women&#39;s health program.</description>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_texas_and_planned_parenthood.mp3?orgId=1&amp;d=148&amp;p=2&amp;story=528657247&amp;t=progseg&amp;e=528577944&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_texas_and_planned_parenthood.mp3?orgId=1&amp;topicId=1128&amp;d=148&amp;p=2&amp;story=528657247&amp;t=progseg&amp;e=528577944&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 16, 2017 - In 2011, the state gave up millions in federal Medicaid funding so it could exclude the chain of clinics, which counts abortion among the procedures it provides, from its women's health program.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/texas-state-house_wide-2dbd371d6a9f63dd5e8da8504bc1543cfedb9a6d-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/05/16/528657247/texas-wants-medicaid-funds-right-to-keep-planned-parenthood-from-getting-any">http://www.npr.org/2017/05/16/528657247/texas-wants-medicaid-funds-right-to-keep-planned-parenthood-from-getting-any</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+May 16, 2017 - In 2011, Texas gave up millions in federal Medicaid funding so it could exclude Planned Parenthood, which counts abortion among the procedures it provides, from its women's health program.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/16/528657247/texas-wants-medicaid-funds-and-the-right-to-set-its-own-rules">http://www.npr.org/sections/health-shots/2017/05/16/528657247/texas-wants-medicaid-funds-and-the-right-to-set-its-own-rules</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/texas-state-house_wide-2dbd371d6a9f63dd5e8da8504bc1543cfedb9a6d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>148</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -237,21 +254,6 @@ May 16, 2017 - It's a weird twist: If the government refuses to reimburse insura
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper">http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/trump-health-care-1_wide-ade8ab1950440ae3a5fbce51f0749dcd6a1abb8f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</guid>
-      <title>GOP Health Bill Penalizes Patients Who Let Insurance Lapse</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</link>
-      <description>May 16, 2017 - In some states, a break in health coverage of more than 63 days would let insurers charge premiums of any price for a year — putting health insurance out of reach for many sick people, analysts say.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s800-c15.jpg"></a>
-
-May 16, 2017 - In some states, a break in health coverage of more than 63 days would let insurers charge premiums of any price for a year — putting health insurance out of reach for many sick people, analysts say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse">http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
