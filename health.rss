@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 17:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 18:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 17:00:25 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 18:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns</guid>
+      <title>Common Lead Test Can Give False Results, FDA Warns</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns</link>
+      <description>May 17, 2017 - Common blood tests for lead can give falsely-low results in certain cases, according to a new warning from the Food and Drug Administration.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/ap_16321829435480_wide-367b9e4327052c9320f6c7571604bc0788050913-s800-c15.jpg"></a>
+
+May 17, 2017 - Common blood tests for lead can give falsely-low results in certain cases, according to a new warning from the Food and Drug Administration.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns">http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/ap_16321829435480_wide-367b9e4327052c9320f6c7571604bc0788050913-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/17/528620977/ethics-of-aid-should-donated-health-dollars-go-to-children-first</guid>
       <title>Ethics Of Aid: Should Donated Health Dollars Go To &#39;Children First&#39;?</title>
@@ -39,18 +54,33 @@ May 17, 2017 - That's how health aid is now allocated in the developing world. S
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170517.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>A Tale Of Four Famines</title>
+      <link>http://the1a.org/shows/2017-05-17/a-tale-of-four-famines</link>
+      <description>May 17, 2017 - Climate and conflict have left millions with little to no access to food in Somalia, South Sudan, Nigeria and Yemen.&#xA;&#xA; - http://the1a.org/shows/2017-05-17/a-tale-of-four-famines</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170517.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 17, 2017 - Climate and conflict have left millions with little to no access to food in Somalia, South Sudan, Nigeria and Yemen.
+
+<a href="http://the1a.org/shows/2017-05-17/a-tale-of-four-famines">http://the1a.org/shows/2017-05-17/a-tale-of-four-famines</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2828</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/17/527960631/the-idea-the-gop-s-health-care-bill-borrows-from-maine</guid>
       <title>Secret To Maine&#39;s Touted High-Risk Pool? Enough Money</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/17/527960631/the-idea-the-gop-s-health-care-bill-borrows-from-maine</link>
       <description>May 17, 2017 - GOP legislators say Maine&#39;s &#34;invisible high-risk pool&#34; was a good model for how to insure people who have pre-existing conditions. Critics say Maine&#39;s program was much better funded than the GOP plan.</description>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/maine-capital-1_wide-57773872d87957615c40cd6d4b7e6efbdf6a6b5b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/maine-capital-1_wide-f85922a12aba5a5c5f1f540a2679a1f1286b619d-s800-c15.jpg"></a>
 
 May 17, 2017 - GOP legislators say Maine's "invisible high-risk pool" was a good model for how to insure people who have pre-existing conditions. Critics say Maine's program was much better funded than the GOP plan.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/17/527960631/the-idea-the-gop-s-health-care-bill-borrows-from-maine">http://www.npr.org/sections/health-shots/2017/05/17/527960631/the-idea-the-gop-s-health-care-bill-borrows-from-maine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/maine-capital-1_wide-57773872d87957615c40cd6d4b7e6efbdf6a6b5b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/maine-capital-1_wide-f85922a12aba5a5c5f1f540a2679a1f1286b619d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,38 +252,6 @@ May 16, 2017 - In some states, a break in health coverage of more than 63 days w
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse">http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</guid>
-      <title>The Fox And The Hedgehog: The Triumphs And Perils Of Going Big</title>
-      <link>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</link>
-      <description>May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That&#39;s the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.</description>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s800-c15.png"></a>
-
-May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That's the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.
-
-<a href="http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big">http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_yemens_medical_crisis.mp3?orgId=1&amp;topicId=1031&amp;d=195&amp;p=2&amp;story=528498233&amp;t=progseg&amp;e=528443161&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why A Man Is On An IV In His Car Outside A Hospital In Yemen</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/15/528498233/why-a-man-is-on-an-iv-in-his-car-outside-a-hospital-in-yemen</link>
-      <description>May 15, 2017 - The cholera crisis — with more than 11,000 cases — is overwhelming the health care system in the war-torn country.</description>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170515_atc_yemens_medical_crisis.mp3?orgId=1&amp;topicId=1031&amp;d=195&amp;p=2&amp;story=528498233&amp;t=progseg&amp;e=528443161&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/ap_17135469065540-2_wide-8b7af315b05073a0caf84405d3a7d874c29556e1-s800-c15.jpg"></a>
-
-May 15, 2017 - The cholera crisis — with more than 11,000 cases — is overwhelming the health care system in the war-torn country.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/15/528498233/why-a-man-is-on-an-iv-in-his-car-outside-a-hospital-in-yemen">http://www.npr.org/sections/goatsandsoda/2017/05/15/528498233/why-a-man-is-on-an-iv-in-his-car-outside-a-hospital-in-yemen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/ap_17135469065540-2_wide-8b7af315b05073a0caf84405d3a7d874c29556e1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>195</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
