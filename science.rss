@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 19:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 22:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 19:00:20 +0000</pubDate>
+    <pubDate>Wed, 17 May 2017 22:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science</guid>
+      <title>Tragic Love Triangle Is Sad For Lonely Rare Snail, Still Good For Science</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science</link>
+      <description>May 17, 2017 - A garden snail with a rare genetic condition can&#39;t mate with normal snails; scientists launch an international search for a mate; two possible mates are found. But they mate with each other instead.</description>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/17/jeremy_and_baby2_wide-1502c605d1f3dfb437274e429d5d4980b9928c7d-s800-c15.jpg"></a>
+
+May 17, 2017 - A garden snail with a rare genetic condition can't mate with normal snails; scientists launch an international search for a mate; two possible mates are found. But they mate with each other instead.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science">http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/jeremy_and_baby2_wide-1502c605d1f3dfb437274e429d5d4980b9928c7d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</guid>
       <title>Orangutan Moms Are The Primate Champs Of Breast-Feeding</title>
@@ -239,21 +254,6 @@ May 14, 2017 - Archaeologists announced the discovery of the mummies in central 
 <a href="http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes">http://www.npr.org/2017/05/14/528335247/scientists-raise-concern-by-wanting-to-create-synthetic-human-genomes</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</guid>
-      <title>A Mother Finds Joy In Helping A Child Navigate Their Shared Traits</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</link>
-      <description>May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.</description>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s800-c15.jpg"></a>
-
-May 14, 2017 - An unexpectedly rich reward of motherhood is the chance to show your child how to deal with traits passed down from you. A third-generation perfectionist and her daughter compare notes on Mr. P.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits">http://www.npr.org/sections/health-shots/2017/05/14/528116476/a-mother-finds-joy-in-helping-a-child-navigate-their-shared-traits</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/mr-p_wide-b46d70cbc2b86e705435ea6f6d6a08e309fbd10a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
