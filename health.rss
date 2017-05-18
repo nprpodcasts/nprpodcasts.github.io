@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 19:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 22:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 17 May 2017 19:00:21 +0000</pubDate>
+    <pubDate>Thu, 18 May 2017 22:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</guid>
+      <title>Women Opt To Skip Pelvic Exams When Told They Have Little Benefit</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</link>
+      <description>May 18, 2017 - OB-GYNs and primary doctors disagree on whether women need a pelvic exam every year. When women were told a medical society recommended against it, they were much less likely to have the exam.</description>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/gettyimages-530067419_wide-dfcd40c032cf632dded2d90392fe5aafe15d1d78-s800-c15.jpg"></a>
+
+May 18, 2017 - OB-GYNs and primary doctors disagree on whether women need a pelvic exam every year. When women were told a medical society recommended against it, they were much less likely to have the exam.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit">http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/gettyimages-530067419_wide-dfcd40c032cf632dded2d90392fe5aafe15d1d78-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</guid>
+      <title>Is &#39;Internet Addiction&#39; Real?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</link>
+      <description>May 18, 2017 - What started out as web surfing by a healthy teen descended into online obsession and isolation. Was it depression, internet addiction or both? Whatever you call it, rehab is now part of the answer.</description>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/internet-addiction-1_wide-b0c7bfbc056c785f04216cfb134536777768a4eb-s800-c15.jpg"></a>
+
+May 18, 2017 - What started out as web surfing by a healthy teen descended into online obsession and isolation. Was it depression, internet addiction or both? Whatever you call it, rehab is now part of the answer.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real">http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/internet-addiction-1_wide-b0c7bfbc056c785f04216cfb134536777768a4eb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_orangutan_moms_are_the_primate_champs_of_breast-feeding.mp3?orgId=1&amp;topicId=1128&amp;d=162&amp;p=3&amp;story=528776636&amp;t=progseg&amp;e=528899957&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Orangutan Moms Are The Primate Champs Of Breast-Feeding</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</link>
       <description>May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.</description>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_orangutan_moms_are_the_primate_champs_of_breast-feeding.mp3?orgId=1&amp;topicId=1128&amp;d=162&amp;p=3&amp;story=528776636&amp;t=progseg&amp;e=528899957&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s800-c15.jpg"></a>
 
@@ -36,6 +67,7 @@ May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other pr
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding">http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>162</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -45,12 +77,12 @@ May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other pr
       <description>May 17, 2017 - Common blood tests for lead can give falsely-low results in certain cases, according to a new warning from the Food and Drug Administration.</description>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/ap_16321829435480_wide-367b9e4327052c9320f6c7571604bc0788050913-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/istock-155146213_wide-9546ad2fe1424aba888201881158091c50e71ec4-s800-c15.jpg"></a>
 
 May 17, 2017 - Common blood tests for lead can give falsely-low results in certain cases, according to a new warning from the Food and Drug Administration.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns">http://www.npr.org/sections/health-shots/2017/05/17/528793444/common-lead-test-can-give-false-results-fda-warns</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/ap_16321829435480_wide-367b9e4327052c9320f6c7571604bc0788050913-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/istock-155146213_wide-9546ad2fe1424aba888201881158091c50e71ec4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,36 +256,6 @@ May 16, 2017 - Snuggles ate some heroin, according to the woman who brought the 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan">http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/snuggles_wide-979878681899e9ea2d94961abbf7b90d25031e2e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</guid>
-      <title>Price&#39;s Remarks On Opioid Treatment Were Unscientific And Damaging, Experts Say</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</link>
-      <description>May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price asking that he correct remarks in which he called medication-assisted treatment for addiction &#34;substituting one opioid for another.&#34;</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s800-c15.jpg"></a>
-
-May 16, 2017 - Nearly 700 experts signed a letter to HHS Secretary Tom Price asking that he correct remarks in which he called medication-assisted treatment for addiction "substituting one opioid for another."
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say">http://www.npr.org/sections/health-shots/2017/05/16/528614422/prices-remarks-on-opioid-treatment-were-unscientific-and-damaging-experts-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/tom-price-1_wide-80212c79baa2e7c89b58f972f0fd57e68f0fec60-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</guid>
-      <title>Trump Refusal to &#39;Bail Out&#39; Insurers Might End Up Making Policies Cheaper</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</link>
-      <description>May 16, 2017 - It&#39;s a weird twist: If the government refuses to reimburse insurance companies for cost-sharing subsidies, it could make health insurance a lot cheaper for people buying on the exchanges in 2018.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/trump-health-care-1_wide-ade8ab1950440ae3a5fbce51f0749dcd6a1abb8f-s800-c15.jpg"></a>
-
-May 16, 2017 - It's a weird twist: If the government refuses to reimburse insurance companies for cost-sharing subsidies, it could make health insurance a lot cheaper for people buying on the exchanges in 2018.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper">http://www.npr.org/sections/health-shots/2017/05/16/528584408/trump-refusal-to-bail-out-insurers-might-end-up-making-policies-cheaper</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/trump-health-care-1_wide-ade8ab1950440ae3a5fbce51f0749dcd6a1abb8f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
