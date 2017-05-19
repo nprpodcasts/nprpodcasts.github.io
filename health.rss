@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 22:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 00:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 18 May 2017 22:00:32 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 00:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</guid>
+      <title>Fact Check: &#39;We Don&#39;t Have Health Care In This Country,&#39; Trump Says</title>
+      <link>http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</link>
+      <description>May 18, 2017 - The president said on Thursday the Affordable Care Act is &#34;dead. It&#39;s gone.&#34; The Senate is considering repeal legislation passed by the House, but Obamacare isn&#39;t faring as badly as Trump suggests.</description>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/ap_17138754623847_wide-8c48030f2083064c4a566eab4e5d852539b2011b-s800-c15.jpg"></a>
+
+May 18, 2017 - The president said on Thursday the Affordable Care Act is "dead. It's gone." The Senate is considering repeal legislation passed by the House, but Obamacare isn't faring as badly as Trump suggests.
+
+<a href="http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says">http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/ap_17138754623847_wide-8c48030f2083064c4a566eab4e5d852539b2011b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</guid>
       <title>Women Opt To Skip Pelvic Exams When Told They Have Little Benefit</title>
@@ -241,21 +256,6 @@ May 16, 2017 - In the 1900s, nutritionists and dairy producers helped convince A
 <a href="http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled">http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/milk_wide-bbb543903cabee072694d2083ab9ee591a469b77-s3000-c15.jpg"></itunes:image>
       <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan</guid>
-      <title>Pet Rat In Vancouver Overdoses On Heroin, Saved By Narcan</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan</link>
-      <description>May 16, 2017 - Snuggles ate some heroin, according to the woman who brought the little rodent into an overdose prevention site in Canada. Volunteers administered a drug that reverses opioid overdoses.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/snuggles_wide-979878681899e9ea2d94961abbf7b90d25031e2e-s800-c15.jpg"></a>
-
-May 16, 2017 - Snuggles ate some heroin, according to the woman who brought the little rodent into an overdose prevention site in Canada. Volunteers administered a drug that reverses opioid overdoses.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan">http://www.npr.org/sections/thetwo-way/2017/05/16/528622327/pet-rat-in-vancouver-overdoses-on-heroin-saved-by-narcan</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/snuggles_wide-979878681899e9ea2d94961abbf7b90d25031e2e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
