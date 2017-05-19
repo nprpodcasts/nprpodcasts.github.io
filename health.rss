@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2017 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 19:00:44 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 19 May 2017 17:00:28 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 19:00:44 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</guid>
+      <title>The Ripple Effect Of Cuts To U.S. Funds For Overseas Abortion Services</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</link>
+      <description>May 19, 2017 - Foreign aid restrictions first introduced by Ronald Reagan in 1984 have been expanded by the Trump administration. They could hinder HIV prevention and the fight against infectious disease.</description>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/gag-rule_wide-6dffe26128748a164a7985359444034ad6208117-s800-c15.jpg"></a>
+
+May 19, 2017 - Foreign aid restrictions first introduced by Ronald Reagan in 1984 have been expanded by the Trump administration. They could hinder HIV prevention and the fight against infectious disease.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services">http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/gag-rule_wide-6dffe26128748a164a7985359444034ad6208117-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain</guid>
       <title>Poll: Doctors Are Still Prescribing Lots Of Opioids For Low Back Pain</title>
@@ -235,23 +250,6 @@ May 16, 2017 - A new report from the World Health Organization looks at the caus
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why">http://www.npr.org/sections/goatsandsoda/2017/05/16/528643258/how-many-teenagers-die-each-day-and-why</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/seamus-promo_wide-16cac3aa77fa6b93fe4f8788288f2ce4656447c7-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_candidates_confront_gop_health_care_bill_in_montana_special_election.mp3?orgId=214&amp;topicId=1128&amp;d=198&amp;p=2&amp;story=528598340&amp;t=progseg&amp;e=528577944&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Candidates Confront GOP Health Care Bill In Montana Special Election</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election</link>
-      <description>May 16, 2017 - Health care is on the minds of many potential voters in Montana, but the House health bill itself is unlikely to sway entrenched Republican voters in the special election next week.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_candidates_confront_gop_health_care_bill_in_montana_special_election.mp3?orgId=214&amp;topicId=1128&amp;d=198&amp;p=2&amp;story=528598340&amp;t=progseg&amp;e=528577944&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/16/montana-deabte-1_wide-d313f9709e1372c479527af8c3207023400c3fbf-s800-c15.jpg"></a>
-
-May 16, 2017 - Health care is on the minds of many potential voters in Montana, but the House health bill itself is unlikely to sway entrenched Republican voters in the special election next week.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election">http://www.npr.org/sections/health-shots/2017/05/16/528598340/candidates-confront-gop-health-care-bill-in-montana-special-election</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/montana-deabte-1_wide-d313f9709e1372c479527af8c3207023400c3fbf-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>198</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
