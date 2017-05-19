@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2017 17:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 18:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 19 May 2017 17:00:32 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 18:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,21 +23,6 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170519.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Friday News Roundup - International</title>
-      <link>http://the1a.org/shows/2017-05-19/friday-news-roundup-international</link>
-      <description>May 19, 2017 - Turkey&#39;s president comes to Washington, but it&#39;s his bodyguards who leave a mark. Vladimir Putin says he can prove President Trump did not give secrets to Russia. And it&#39;s a pilgrimage of sorts as Donald Trump prepares to visit Saudi Arabia, Israel and the Vatican.</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170519.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 19, 2017 - Turkey's president comes to Washington, but it's his bodyguards who leave a mark. Vladimir Putin says he can prove President Trump did not give secrets to Russia. And it's a pilgrimage of sorts as Donald Trump prepares to visit Saudi Arabia, Israel and the Vatican.
-
-<a href="http://the1a.org/shows/2017-05-19/friday-news-roundup-international">http://the1a.org/shows/2017-05-19/friday-news-roundup-international</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2829</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170519_me_google_is_investing_in_immersive_technology.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=3&amp;story=529081034&amp;t=progseg&amp;e=529080914&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Is Investing In &#39;Immersive Technology&#39;</title>
@@ -252,6 +237,21 @@ May 16, 2017 - Microsoft President Brad Smith calls for a "Digital Geneva Conven
 <a href="http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide">http://www.npr.org/2017/05/15/528502897/ransomware-attacks-begin-to-stabilize-after-compromising-networks-worldwide</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>196</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</guid>
+      <title>WannaCry Ransomware: What We Know Monday</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</link>
+      <description>May 15, 2017 - A Homeland Security official says that so far, &#34;the U.S. is still in a relatively good place.&#34; But because of the malware&#39;s success, it is being tweaked to foil attempts to stop its spread.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/15/screen-shot-2017-05-15-at-9.52.45-am_wide-bf417d9152596eecb7d904ed46e8c79bba78e118-s800-c15.png"></a>
+
+May 15, 2017 - A Homeland Security official says that so far, "the U.S. is still in a relatively good place." But because of the malware's success, it is being tweaked to foil attempts to stop its spread.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday">http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/screen-shot-2017-05-15-at-9.52.45-am_wide-bf417d9152596eecb7d904ed46e8c79bba78e118-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
