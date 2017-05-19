@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2017 00:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 15:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 19 May 2017 00:00:09 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 15:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</guid>
+      <title>The Slums Of Buenos Aires Are Too Wet And Too Dry</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</link>
+      <description>May 19, 2017 - On rainy days, wastewater floods into homes. Yet on those very same days, residents often can&#39;t draw water from their taps.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</description>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/villa-31_wide-69bc6cdd6032741d95474b596d7aa0062eb9b20d-s800-c15.jpg"></a>
+
+May 19, 2017 - On rainy days, wastewater floods into homes. Yet on those very same days, residents often can't draw water from their taps.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry">http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/villa-31_wide-69bc6cdd6032741d95474b596d7aa0062eb9b20d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</guid>
       <title>Fact Check: &#39;We Don&#39;t Have Health Care In This Country,&#39; Trump Says</title>
@@ -239,23 +254,6 @@ May 16, 2017 - Some people on heroin die because the drug was laced with somethi
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl">http://www.npr.org/sections/health-shots/2017/05/16/527924429/an-experiment-helps-heroin-users-test-their-street-drugs-for-fentanyl</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/rapid-response-1_wide-2e74f0ff8a2646af7d4831635c98eb6c2b7c0f74-s3000-c15.jpg"></itunes:image>
       <itunes:duration>337</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_why_are_americans_drinking_less_cows_milk_its_appeal_has_curdled.mp3?orgId=1&amp;topicId=1134&amp;d=495&amp;p=2&amp;story=528460207&amp;t=progseg&amp;e=528577944&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Are Americans Drinking Less Cow&#39;s Milk? Its Appeal Has Curdled</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</link>
-      <description>May 16, 2017 - In the 1900s, nutritionists and dairy producers helped convince Americans that cow&#39;s milk was nature&#39;s perfect food. But the science and tastes have changed, and we&#39;re guzzling much less than before.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170516_atc_why_are_americans_drinking_less_cows_milk_its_appeal_has_curdled.mp3?orgId=1&amp;topicId=1134&amp;d=495&amp;p=2&amp;story=528460207&amp;t=progseg&amp;e=528577944&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/milk_wide-bbb543903cabee072694d2083ab9ee591a469b77-s800-c15.jpg"></a>
-
-May 16, 2017 - In the 1900s, nutritionists and dairy producers helped convince Americans that cow's milk was nature's perfect food. But the science and tastes have changed, and we're guzzling much less than before.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled">http://www.npr.org/sections/thesalt/2017/05/16/528460207/why-are-americans-drinking-less-cows-milk-its-appeal-has-curdled</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/milk_wide-bbb543903cabee072694d2083ab9ee591a469b77-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 22:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 15:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 18 May 2017 22:00:26 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 15:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170519_me_google_is_investing_in_immersive_technology.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=3&amp;story=529081034&amp;t=progseg&amp;e=529080914&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Google Is Investing In &#39;Immersive Technology&#39;</title>
+      <link>http://www.npr.org/2017/05/19/529081034/google-is-investing-in-immersive-technology</link>
+      <description>May 19, 2017 - Google is making a push into virtual reality with a headset that doesn&#39;t require a user to connect to a phone or computer. Amidst massive hype, virtual reality has been slow to take off.</description>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170519_me_google_is_investing_in_immersive_technology.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=3&amp;story=529081034&amp;t=progseg&amp;e=529080914&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 19, 2017 - Google is making a push into virtual reality with a headset that doesn't require a user to connect to a phone or computer. Amidst massive hype, virtual reality has been slow to take off.
+
+<a href="http://www.npr.org/2017/05/19/529081034/google-is-investing-in-immersive-technology">http://www.npr.org/2017/05/19/529081034/google-is-investing-in-immersive-technology</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>210</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations</guid>
       <title>FCC Votes To Begin Rollback Of Net Neutrality Regulations</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations</link>
       <description>May 18, 2017 - The vote begins a months-long process to collect — once again — public comment on how the government should regulate Internet service providers. The FCC is repealing Obama-era rules.</description>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 18, 2017 - The vote begins a months-long process to collect — once again — public comment on how the government should regulate Internet service providers. The FCC is repealing Obama-era rules.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/19/ap_291001750037_wide-cc469fae8ddfaa13bcd80b851dae0782d89ee7d6-s800-c15.jpg"></a>
+
+May 18, 2017 - The vote begins a months-long process to collect — once again — public comment on how the government should regulate Internet service providers. The FCC is repealing Obama-era rules.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations">http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/ap_291001750037_wide-cc469fae8ddfaa13bcd80b851dae0782d89ee7d6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ May 15, 2017 - A Homeland Security official says that so far, "the U.S. is still
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday">http://www.npr.org/sections/thetwo-way/2017/05/15/528451534/wannacry-ransomware-what-we-know-monday</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/screen-shot-2017-05-15-at-9.52.45-am_wide-bf417d9152596eecb7d904ed46e8c79bba78e118-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</guid>
-      <title>WannaCry Ransomware: Microsoft Calls Out NSA For &#39;Stockpiling&#39; Vulnerabilities</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</link>
-      <description>May 15, 2017 - The NSA&#39;s losing control of the software behind the WannaCry cyberattack is like &#34;the U.S. military having some of its Tomahawk missiles stolen,&#34; Microsoft President Brad Smith says.</description>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/15/gettyimages-682557416_wide-bcaeefca02059da3afb40653131ede32674772ff-s800-c15.jpg"></a>
-
-May 15, 2017 - The NSA's losing control of the software behind the WannaCry cyberattack is like "the U.S. military having some of its Tomahawk missiles stolen," Microsoft President Brad Smith says.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities">http://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/gettyimages-682557416_wide-bcaeefca02059da3afb40653131ede32674772ff-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 23:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 15:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 18 May 2017 23:00:08 +0000</pubDate>
+    <pubDate>Fri, 19 May 2017 15:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/19/528993681/public-to-epa-on-cutting-regulations-no</guid>
+      <title>Public To EPA On Cutting Regulations: &#39;No!&#39;  </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/19/528993681/public-to-epa-on-cutting-regulations-no</link>
+      <description>May 19, 2017 - The Environmental Protection Agency asked for public input on &#34;job-killing regulations&#34; and has now received more than 28,000 comments, many of which urge the agency not to roll back protections.</description>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/19/gettyimages-671595622_wide-cb2b8bcaf33dcc1340e94c0bfa654f648243cd24-s800-c15.jpg"></a>
+
+May 19, 2017 - The Environmental Protection Agency asked for public input on "job-killing regulations" and has now received more than 28,000 comments, many of which urge the agency not to roll back protections.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/19/528993681/public-to-epa-on-cutting-regulations-no">http://www.npr.org/sections/thetwo-way/2017/05/19/528993681/public-to-epa-on-cutting-regulations-no</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/gettyimages-671595622_wide-cb2b8bcaf33dcc1340e94c0bfa654f648243cd24-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170518_atc_shell_ceo_on_paris_accord.mp3?orgId=1&amp;topicId=1025&amp;d=478&amp;p=2&amp;story=528998592&amp;t=progseg&amp;e=528901938&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Energy Companies Urge Trump To Remain In Paris Climate Agreement</title>
@@ -245,21 +260,6 @@ May 16, 2017 - In some states, a break in health coverage of more than 63 days w
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse">http://www.npr.org/sections/health-shots/2017/05/16/528508443/gop-health-bill-penalizes-patients-who-let-insurance-lapse</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/patient-insurance_wide-4d58758b37184a30667425f5b1f9a4a3393ef840-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</guid>
-      <title>The Fox And The Hedgehog: The Triumphs And Perils Of Going Big</title>
-      <link>http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</link>
-      <description>May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That&#39;s the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.</description>
-      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s800-c15.png"></a>
-
-May 15, 2017 - The parable of the fox and the hedgehog tells us that there are some who are guided by one big idea. That's the story of Don Laub, a surgeon whose single-mindedness was his triumph, and his downfall.
-
-<a href="http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big">http://www.npr.org/2017/05/15/528041635/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
