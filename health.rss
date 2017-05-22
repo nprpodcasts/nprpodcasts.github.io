@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2017 18:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 22:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 22 May 2017 18:00:28 +0000</pubDate>
+    <pubDate>Mon, 22 May 2017 22:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/22/529494944/face-to-face-sleep-education-plus-baby-boxes-reduces-bed-sharing</guid>
+      <title>Face-To-Face Sleep Education Plus &#39;Baby Boxes&#39; Reduces Bed Sharing</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/22/529494944/face-to-face-sleep-education-plus-baby-boxes-reduces-bed-sharing</link>
+      <description>May 22, 2017 - The two-pronged approach to promoting safe sleep led to a 25 percent drop in the risky practice of bed sharing with babies in the first eight days of life, a study found. But more research is needed.</description>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/baby-box-update-2_wide-35d5ca8f371b1a8fe9b7883efd4ef27edaf623a6-s800-c15.jpg"></a>
+
+May 22, 2017 - The two-pronged approach to promoting safe sleep led to a 25 percent drop in the risky practice of bed sharing with babies in the first eight days of life, a study found. But more research is needed.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/22/529494944/face-to-face-sleep-education-plus-baby-boxes-reduces-bed-sharing">http://www.npr.org/sections/health-shots/2017/05/22/529494944/face-to-face-sleep-education-plus-baby-boxes-reduces-bed-sharing</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/baby-box-update-2_wide-35d5ca8f371b1a8fe9b7883efd4ef27edaf623a6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_in_rural_counties_hunger_is_rising_but_food_donations_arent.mp3?orgId=1&amp;topicId=1091&amp;d=320&amp;p=2&amp;story=529493413&amp;t=progseg&amp;e=529472973&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Some Rural Counties, Hunger Is Rising, But Food Donations Aren&#39;t</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/22/529493413/in-some-rural-counties-hunger-is-rising-but-food-donations-arent</link>
+      <description>May 22, 2017 - Pantries in southwest Virginia — where poverty is rampant and coal jobs are vanishing — will take whatever they can get to stock bare shelves. Some also offer help with health care and job training.</description>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_in_rural_counties_hunger_is_rising_but_food_donations_arent.mp3?orgId=1&amp;topicId=1091&amp;d=320&amp;p=2&amp;story=529493413&amp;t=progseg&amp;e=529472973&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/img_5132_wide-6fb74ff9ccab9ee9ec72616ba47e35181eb110ab-s800-c15.jpg"></a>
+
+May 22, 2017 - Pantries in southwest Virginia — where poverty is rampant and coal jobs are vanishing — will take whatever they can get to stock bare shelves. Some also offer help with health care and job training.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/22/529493413/in-some-rural-counties-hunger-is-rising-but-food-donations-arent">http://www.npr.org/sections/thesalt/2017/05/22/529493413/in-some-rural-counties-hunger-is-rising-but-food-donations-arent</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/img_5132_wide-6fb74ff9ccab9ee9ec72616ba47e35181eb110ab-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>320</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/22/529144353/as-gop-tarries-on-health-bill-funding-for-childrens-health-languishes</guid>
       <title>As GOP Tarries On Health Bill, Funding For Children&#39;s Health Languishes</title>
@@ -224,36 +256,6 @@ May 19, 2017 - On rainy days, wastewater floods into homes. Yet on those very sa
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry">http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/12/villa-31_wide-69bc6cdd6032741d95474b596d7aa0062eb9b20d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</guid>
-      <title>Fact Check: &#39;We Don&#39;t Have Health Care In This Country,&#39; Trump Says</title>
-      <link>http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</link>
-      <description>May 18, 2017 - The president said on Thursday the Affordable Care Act is &#34;dead. It&#39;s gone.&#34; The Senate is considering repeal legislation passed by the House, but Obamacare isn&#39;t faring as badly as Trump suggests.</description>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/ap_17138754623847_wide-8c48030f2083064c4a566eab4e5d852539b2011b-s800-c15.jpg"></a>
-
-May 18, 2017 - The president said on Thursday the Affordable Care Act is "dead. It's gone." The Senate is considering repeal legislation passed by the House, but Obamacare isn't faring as badly as Trump suggests.
-
-<a href="http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says">http://www.npr.org/2017/05/18/529022011/fact-check-we-dont-have-health-care-in-this-country-trump-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/ap_17138754623847_wide-8c48030f2083064c4a566eab4e5d852539b2011b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</guid>
-      <title>Women Opt To Skip Pelvic Exams When Told They Have Little Benefit</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</link>
-      <description>May 18, 2017 - OB-GYNs and primary doctors disagree on whether women need a pelvic exam every year. When women were told a medical society recommended against it, they were much less likely to have the exam.</description>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/gettyimages-530067419_wide-dfcd40c032cf632dded2d90392fe5aafe15d1d78-s800-c15.jpg"></a>
-
-May 18, 2017 - OB-GYNs and primary doctors disagree on whether women need a pelvic exam every year. When women were told a medical society recommended against it, they were much less likely to have the exam.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit">http://www.npr.org/sections/health-shots/2017/05/18/529005614/women-opt-to-skip-pelvic-exams-when-told-they-have-little-benefit</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/gettyimages-530067419_wide-dfcd40c032cf632dded2d90392fe5aafe15d1d78-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
