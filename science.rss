@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2017 18:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 20:00:36 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 22 May 2017 18:00:26 +0000</pubDate>
+    <pubDate>Mon, 22 May 2017 20:00:36 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery</guid>
+      <title>At 94, Lithium-Ion Pioneer Eyes A New Longer-Lasting Battery</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery</link>
+      <description>May 22, 2017 - In 1980, John Goodenough&#39;s work led to the lithium-ion battery, now found in everything from phones to electric cars. He and fellow researchers say they&#39;ve come up with a faster-charging alternative.</description>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/22/perez_goodenoughbattery_20170516_004_wide-0413e824590c2a2b8be802c53665f7a77afc798f-s800-c15.jpg"></a>
+
+May 22, 2017 - In 1980, John Goodenough's work led to the lithium-ion battery, now found in everything from phones to electric cars. He and fellow researchers say they've come up with a faster-charging alternative.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery">http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/perez_goodenoughbattery_20170516_004_wide-0413e824590c2a2b8be802c53665f7a77afc798f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</guid>
       <title>Pediatricians Advise No Fruit Juice Until Kids Are 1</title>
@@ -241,23 +256,6 @@ May 17, 2017 - A garden snail with a rare genetic condition can't mate with norm
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science">http://www.npr.org/sections/thetwo-way/2017/05/17/528796939/tragic-love-triangle-is-sad-for-lonely-rare-snail-still-good-for-science</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/17/jeremy_and_baby2_wide-1502c605d1f3dfb437274e429d5d4980b9928c7d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_orangutan_moms_are_the_primate_champs_of_breast-feeding.mp3?orgId=1&amp;topicId=1128&amp;d=162&amp;p=3&amp;story=528776636&amp;t=progseg&amp;e=528899957&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Orangutan Moms Are The Primate Champs Of Breast-Feeding</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</link>
-      <description>May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.</description>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_orangutan_moms_are_the_primate_champs_of_breast-feeding.mp3?orgId=1&amp;topicId=1128&amp;d=162&amp;p=3&amp;story=528776636&amp;t=progseg&amp;e=528899957&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s800-c15.jpg"></a>
-
-May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other primate. That may help offspring survive food shortages. But humans may have gained a survival advantage from weaning earlier.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding">http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>162</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
