@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2017 04:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 18:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 20 May 2017 04:00:18 +0000</pubDate>
+    <pubDate>Mon, 22 May 2017 18:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,55 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</guid>
+      <title>Pediatricians Advise No Fruit Juice Until Kids Are 1</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</link>
+      <description>May 22, 2017 - Older kids should limit the amount of juice they drink too. Whole fruit is better than juice because it contains fiber, which slows the absorption of sugar and fills you up the way juice doesn&#39;t.</description>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/19/juice-1_wide-3829cb94070e4f795d4cca8be8638ca6b7e527b3-s800-c15.jpg"></a>
+
+May 22, 2017 - Older kids should limit the amount of juice they drink too. Whole fruit is better than juice because it contains fiber, which slows the absorption of sugar and fills you up the way juice doesn't.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1">http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/juice-1_wide-3829cb94070e4f795d4cca8be8638ca6b7e527b3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_cloud_eggs_the_latest_instagram_food_fad_is_actually_centuries_old.mp3?orgId=1&amp;topicId=1053&amp;d=195&amp;p=10&amp;story=529127751&amp;t=progseg&amp;e=529364442&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Cloud Eggs: The Latest Instagram Food Fad Is Actually Centuries Old</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old</link>
+      <description>May 21, 2017 - The fanciful dish was meant to impress nearly 400 years ago, so don&#39;t roll your eyes at photos of these pretty edibles: They&#39;re actually a time-honored tradition tinged with a bit of kitchen science.</description>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_cloud_eggs_the_latest_instagram_food_fad_is_actually_centuries_old.mp3?orgId=1&amp;topicId=1053&amp;d=195&amp;p=10&amp;story=529127751&amp;t=progseg&amp;e=529364442&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/20/myeggs2_wide-6e2ae9bacbb9d8e8401d1fa95c682b003664afc4-s800-c15.jpg"></a>
+
+May 21, 2017 - The fanciful dish was meant to impress nearly 400 years ago, so don't roll your eyes at photos of these pretty edibles: They're actually a time-honored tradition tinged with a bit of kitchen science.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old">http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/myeggs2_wide-6e2ae9bacbb9d8e8401d1fa95c682b003664afc4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>195</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_why_brain_scientists_are_still_obsessed_with_the_curious_case_of_phineas_gage.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=10&amp;story=528966102&amp;t=progseg&amp;e=529364442&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Why Brain Scientists Are Still Obsessed With The Curious Case Of Phineas Gage</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</link>
+      <description>May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-pound iron bar through his head. The injury changed his personality, and our understanding of the brain.</description>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_why_brain_scientists_are_still_obsessed_with_the_curious_case_of_phineas_gage.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=10&amp;story=528966102&amp;t=progseg&amp;e=529364442&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-fb644553dc02e856ca76f4b2373327b7b894ed92-s800-c15.jpg"></a>
+
+May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-pound iron bar through his head. The injury changed his personality, and our understanding of the brain.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage">http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-fb644553dc02e856ca76f4b2373327b7b894ed92-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/20/529148056/scientists-sneak-a-peek-at-how-ladybugs-fold-their-wings</guid>
       <title>Scientists Sneak A Peek At How Ladybugs Fold Their Wings</title>
@@ -54,11 +103,12 @@ May 20, 2017 - Mary Mann's new book digs into a phenomenon as old as humanity: b
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists One Step Closer To 3-D-Printed Ovaries To Treat Infertility</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</link>
       <description>May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.</description>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s800-c15.jpg"></a>
 
@@ -66,6 +116,7 @@ May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovar
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility">http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -207,55 +258,6 @@ May 17, 2017 - Orangutans breast-feed up to nine years, longer than any other pr
 <a href="http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding">http://www.npr.org/sections/health-shots/2017/05/17/528776636/orangutan-moms-are-the-primate-champs-of-breast-feeding</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/17/orangutan-babies-1_wide-0409f3a070d22e004467882321212d24b4ee0a9d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>162</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
-      <link>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</link>
-      <description>May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.</description>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s800-c15.jpg"></a>
-
-May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.
-
-<a href="http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home">http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>443</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170517_me_advice_for_your_dinner_party_stories_keep_it_familiar.mp3?orgId=1&amp;topicId=1129&amp;aggIds=423302056&amp;d=210&amp;p=3&amp;story=528730666&amp;t=progseg&amp;e=528730512&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Advice For Your Dinner Party Stories: Keep It Familiar</title>
-      <link>http://www.npr.org/2017/05/17/528730666/advice-for-your-dinner-party-stories-keep-it-familiar</link>
-      <description>May 17, 2017 - There&#39;s a difference between the stories we tell and the stories we like to hear. New social science research finds most of us like to listen to stories about familiar things.</description>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170517_me_advice_for_your_dinner_party_stories_keep_it_familiar.mp3?orgId=1&amp;topicId=1129&amp;aggIds=423302056&amp;d=210&amp;p=3&amp;story=528730666&amp;t=progseg&amp;e=528730512&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 17, 2017 - There's a difference between the stories we tell and the stories we like to hear. New social science research finds most of us like to listen to stories about familiar things.
-
-<a href="http://www.npr.org/2017/05/17/528730666/advice-for-your-dinner-party-stories-keep-it-familiar">http://www.npr.org/2017/05/17/528730666/advice-for-your-dinner-party-stories-keep-it-familiar</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170517_me_tyrannosaurus_rexs_bite_force_measured_8000_pounds_scientists_say.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=3&amp;story=528677883&amp;t=progseg&amp;e=528730512&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tyrannosaurus Rex&#39;s Bite Force Measured 8,000 Pounds, Scientists Say</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/17/528677883/tyrannosaurus-rexs-bite-force-measured-8-000-pounds-scientists-say</link>
-      <description>May 17, 2017 - &#34;That&#39;s like setting three small cars on top of the jaws of a T. rex — that&#39;s basically what was pushing down,&#34; a researcher says. Humans bite with a measly 200 pounds of force.</description>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170517_me_tyrannosaurus_rexs_bite_force_measured_8000_pounds_scientists_say.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=3&amp;story=528677883&amp;t=progseg&amp;e=528730512&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/16/jawmuscles_wide-1d6ed99991bf569635d7e818b77e0122cd773ed9-s800-c15.jpg"></a>
-
-May 17, 2017 - "That's like setting three small cars on top of the jaws of a T. rex — that's basically what was pushing down," a researcher says. Humans bite with a measly 200 pounds of force.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/17/528677883/tyrannosaurus-rexs-bite-force-measured-8-000-pounds-scientists-say">http://www.npr.org/sections/thetwo-way/2017/05/17/528677883/tyrannosaurus-rexs-bite-force-measured-8-000-pounds-scientists-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/jawmuscles_wide-1d6ed99991bf569635d7e818b77e0122cd773ed9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>142</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

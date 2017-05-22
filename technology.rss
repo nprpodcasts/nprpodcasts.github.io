@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2017 04:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 18:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 20 May 2017 04:00:16 +0000</pubDate>
+    <pubDate>Mon, 22 May 2017 18:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,29 +24,52 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_feeling_sidelined_by_mainstream_social_media_far-right_users_jump_to_gab.mp3?orgId=1&amp;topicId=1019&amp;d=244&amp;p=10&amp;story=529005840&amp;t=progseg&amp;e=529364442&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Feeling Sidelined By Mainstream Social Media, Far-Right Users Jump To Gab</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/21/529005840/feeling-sidelined-by-mainstream-social-media-far-right-users-jump-to-gab</link>
+      <description>May 21, 2017 - Criticized for being affiliated with the alt-right, the social site Gab now reports 170,000 users. It has found a niche among some conservatives and others who feel stifled by Facebook and Twitter.</description>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_feeling_sidelined_by_mainstream_social_media_far-right_users_jump_to_gab.mp3?orgId=1&amp;topicId=1019&amp;d=244&amp;p=10&amp;story=529005840&amp;t=progseg&amp;e=529364442&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/19/front-page_wide-489cab3888e71a49261e7387c313cdc47ab956d2-s800-c15.jpg"></a>
+
+May 21, 2017 - Criticized for being affiliated with the alt-right, the social site Gab now reports 170,000 users. It has found a niche among some conservatives and others who feel stifled by Facebook and Twitter.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/21/529005840/feeling-sidelined-by-mainstream-social-media-far-right-users-jump-to-gab">http://www.npr.org/sections/alltechconsidered/2017/05/21/529005840/feeling-sidelined-by-mainstream-social-media-far-right-users-jump-to-gab</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/front-page_wide-489cab3888e71a49261e7387c313cdc47ab956d2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>244</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_minecraft_parrots.mp3?orgId=1&amp;topicId=1003&amp;d=64&amp;p=7&amp;story=529257386&amp;t=progseg&amp;e=529256355&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Don&#39;t Feed Parrots Chocolate, Despite What Happens In Minecraft</title>
       <link>http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</link>
       <description>May 20, 2017 - In the game Minecraft, a chocolate chip cookie will tame a parrot, but they&#39;re poisonous to the birds in real life. Minecraft has promised to update the game.</description>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_minecraft_parrots.mp3?orgId=1&amp;topicId=1003&amp;d=64&amp;p=7&amp;story=529257386&amp;t=progseg&amp;e=529256355&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 20, 2017 - In the game Minecraft, a chocolate chip cookie will tame a parrot, but they're poisonous to the birds in real life. Minecraft has promised to update the game.
 
 <a href="http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft">http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>64</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_ransomware_attack_on_charity.mp3?orgId=1151&amp;topicId=1019&amp;d=218&amp;p=7&amp;story=529257365&amp;t=progseg&amp;e=529256355&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Small Indiana Nonprofit Falls Victim To Ransom Cyberattack</title>
       <link>http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</link>
       <description>May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It&#39;s still recovering after hackers stole data.&#xA;&#xA; - http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</description>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_ransomware_attack_on_charity.mp3?orgId=1151&amp;topicId=1019&amp;d=218&amp;p=7&amp;story=529257365&amp;t=progseg&amp;e=529256355&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It's still recovering after hackers stole data.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-d9f51d543eae64b762f8ac58e1a97006b4889a65-s800-c15.jpg"></a>
+
+May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It's still recovering after hackers stole data.
 
 <a href="http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack">http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-d9f51d543eae64b762f8ac58e1a97006b4889a65-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -65,11 +88,12 @@ May 20, 2017 - Point your camera at a flower and your phone identifies it. Walk 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists One Step Closer To 3-D-Printed Ovaries To Treat Infertility</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</link>
       <description>May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.</description>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s800-c15.jpg"></a>
 
@@ -77,6 +101,7 @@ May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovar
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility">http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -231,23 +256,6 @@ May 16, 2017 - There's very little law enforcement can do to catch purveyors of 
 <a href="http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins">http://www.npr.org/2017/05/16/528570753/cyberattack-culprits-demand-ransom-be-paid-in-bitcoins</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>124</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_microsofts_president_on_ransomware_helping_pirates_and_the_nsa.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=528555400&amp;t=progseg&amp;e=528557620&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Microsoft President Urges Nuclear-Like Limits On Cyberweapons   </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</link>
-      <description>May 16, 2017 - Microsoft President Brad Smith calls for a &#34;Digital Geneva Convention&#34; under which governments would set limits on the creation of cyberweapons, just like they did for nuclear weapons.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170516_me_microsofts_president_on_ransomware_helping_pirates_and_the_nsa.mp3?orgId=1&amp;topicId=1019&amp;d=261&amp;p=3&amp;story=528555400&amp;t=progseg&amp;e=528557620&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s800-c15.jpg"></a>
-
-May 16, 2017 - Microsoft President Brad Smith calls for a "Digital Geneva Convention" under which governments would set limits on the creation of cyberweapons, just like they did for nuclear weapons.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa">http://www.npr.org/sections/alltechconsidered/2017/05/16/528555400/microsofts-president-reflects-on-cyberattack-helping-pirates-and-the-nsa</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_333256494687_wide-5ffc17980a0ea597ad1a50c7a2c987fded1dc1a2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
