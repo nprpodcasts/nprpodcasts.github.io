@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2017 22:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 00:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 22 May 2017 22:00:05 +0000</pubDate>
+    <pubDate>Tue, 23 May 2017 00:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,29 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/22/529518708/federal-computers-dodge-global-malware-attack-this-time</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>At The Dawn Of Recorded Sound, No One Cared</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared</link>
+      <description>May 22, 2017 - In the late 19th century, French inventor Edouard-Leon Scott de Martinville patented the earliest known sound recording device. But his accomplishments were only recognized recently.</description>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-35e6ae074d21d798a24eca3352ebb6d862c543a8-s800-c15.jpg"></a>
+
+May 22, 2017 - In the late 19th century, French inventor Edouard-Leon Scott de Martinville patented the earliest known sound recording device. But his accomplishments were only recognized recently.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared">http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-35e6ae074d21d798a24eca3352ebb6d862c543a8-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_federal_computers_dodge_global_malware_attack_this_time.mp3?orgId=1&amp;topicId=1014&amp;d=217&amp;p=2&amp;story=529518708&amp;t=progseg&amp;e=529472973&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Federal Computers Dodge Global Malware Attack ... This Time</title>
       <link>http://www.npr.org/2017/05/22/529518708/federal-computers-dodge-global-malware-attack-this-time</link>
       <description>May 22, 2017 - Experts say federal agencies have taken steps to secure networks, but they remain vulnerable.&#xA;&#xA; - http://www.npr.org/2017/05/22/529518708/federal-computers-dodge-global-malware-attack-this-time</description>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_federal_computers_dodge_global_malware_attack_this_time.mp3?orgId=1&amp;topicId=1014&amp;d=217&amp;p=2&amp;story=529518708&amp;t=progseg&amp;e=529472973&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/22/14504378266_979d5a747f_o_wide-6eee3c13c0be07f874e647c5f784f5470d35e4b1-s800-c15.jpg"></a>
 
@@ -36,6 +54,7 @@ May 22, 2017 - Experts say federal agencies have taken steps to secure networks,
 
 <a href="http://www.npr.org/2017/05/22/529518708/federal-computers-dodge-global-malware-attack-this-time">http://www.npr.org/2017/05/22/529518708/federal-computers-dodge-global-malware-attack-this-time</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/22/14504378266_979d5a747f_o_wide-6eee3c13c0be07f874e647c5f784f5470d35e4b1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>217</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +260,6 @@ May 16, 2017 - "The [WannaCry] attack is a wake-up call for all of us," Microsof
 <a href="http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware">http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>1536</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</guid>
-      <title>North Korea May Be Linked To WannaCry Ransomware, Researchers Say</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</link>
-      <description>May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that has been blamed for the Sony Pictures hack of 2014.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_16231139374_wide-cae140f1e3d8f9c5aef73c0c1c33820f5b502f16-s800-c15.jpg"></a>
-
-May 16, 2017 - Google security researcher Neel Mehta pointed out similarities between WannaCry and malware used by Lazarus, the group that has been blamed for the Sony Pictures hack of 2014.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say">http://www.npr.org/sections/thetwo-way/2017/05/16/528587064/north-korea-may-be-linked-to-wannacry-ransomware-researchers-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_16231139374_wide-cae140f1e3d8f9c5aef73c0c1c33820f5b502f16-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
