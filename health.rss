@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2017 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 06:00:35 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 22 May 2017 22:00:09 +0000</pubDate>
+    <pubDate>Tue, 23 May 2017 06:00:35 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</guid>
+      <title>Nacho Cheese Sauce Tainted With Botulism Kills California Man</title>
+      <link>http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</link>
+      <description>May 23, 2017 - An outbreak of botulism caused by nacho cheese sauce from a gas station has hospitalized nine people and killed one man in northern California.</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-c5b294e6e66d7902b471a2f58d891ff581d9a572-s800-c15.jpg"></a>
+
+May 23, 2017 - An outbreak of botulism caused by nacho cheese sauce from a gas station has hospitalized nine people and killed one man in northern California.
+
+<a href="http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man">http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-c5b294e6e66d7902b471a2f58d891ff581d9a572-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/22/529494944/face-to-face-sleep-education-plus-baby-boxes-reduces-bed-sharing</guid>
       <title>Face-To-Face Sleep Education Plus &#39;Baby Boxes&#39; Reduces Bed Sharing</title>
@@ -241,21 +256,6 @@ May 19, 2017 - More than half of Americans suffer lower back pain each year, the
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain">http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/18/promo-truven2-seamus_wide-86b28374601e4d044729cbbf20b7b22ef2a40b93-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</guid>
-      <title>The Slums Of Buenos Aires Are Too Wet And Too Dry</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</link>
-      <description>May 19, 2017 - On rainy days, wastewater floods into homes. Yet on those very same days, residents often can&#39;t draw water from their taps.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/villa-31_wide-69bc6cdd6032741d95474b596d7aa0062eb9b20d-s800-c15.jpg"></a>
-
-May 19, 2017 - On rainy days, wastewater floods into homes. Yet on those very same days, residents often can't draw water from their taps.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry">http://www.npr.org/sections/goatsandsoda/2017/05/19/527995345/the-slums-of-buenos-aires-are-too-wet-and-too-dry</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/villa-31_wide-69bc6cdd6032741d95474b596d7aa0062eb9b20d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
