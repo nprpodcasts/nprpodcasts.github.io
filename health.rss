@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 06:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 08:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 23 May 2017 06:00:35 +0000</pubDate>
+    <pubDate>Tue, 23 May 2017 08:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/23/529565222/gop-bill-could-undercut-some-coverage-in-job-based-insurance</guid>
+      <title>GOP Bill Could Undercut Some Coverage In Job-Based Insurance</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/23/529565222/gop-bill-could-undercut-some-coverage-in-job-based-insurance</link>
+      <description>May 23, 2017 - If states opted to change so-called essential health benefits, as the current health care bill allows, out-of-pocket spending limits and caps on coverage in large group insurance plans could weaken.</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/health-insurance-1_wide-600ae4d8152998a1ab52dfa40f9f399f7f985c74-s800-c15.jpg"></a>
+
+May 23, 2017 - If states opted to change so-called essential health benefits, as the current health care bill allows, out-of-pocket spending limits and caps on coverage in large group insurance plans could weaken.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/23/529565222/gop-bill-could-undercut-some-coverage-in-job-based-insurance">http://www.npr.org/sections/health-shots/2017/05/23/529565222/gop-bill-could-undercut-some-coverage-in-job-based-insurance</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/health-insurance-1_wide-600ae4d8152998a1ab52dfa40f9f399f7f985c74-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</guid>
       <title>Nacho Cheese Sauce Tainted With Botulism Kills California Man</title>
       <link>http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</link>
       <description>May 23, 2017 - An outbreak of botulism caused by nacho cheese sauce from a gas station has hospitalized nine people and killed one man in northern California.</description>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-c5b294e6e66d7902b471a2f58d891ff581d9a572-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-bf6b1936a169ffb6de32477837f040b25acf6c7c-s800-c15.jpg"></a>
 
 May 23, 2017 - An outbreak of botulism caused by nacho cheese sauce from a gas station has hospitalized nine people and killed one man in northern California.
 
 <a href="http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man">http://www.npr.org/sections/thesalt/2017/05/23/529589579/nacho-cheese-sauce-tainted-with-botulism-kills-california-man</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-c5b294e6e66d7902b471a2f58d891ff581d9a572-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/21911_lores1_wide-bf6b1936a169ffb6de32477837f040b25acf6c7c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ May 19, 2017 - Foreign aid restrictions introduced by President Ronald Reagan in
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services">http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/17/gag-rule_wide-aa0477532526dcd10fa54a8573b9650d909e8c40-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain</guid>
-      <title>Poll: Doctors Are Still Prescribing Lots Of Opioids For Low Back Pain</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain</link>
-      <description>May 19, 2017 - More than half of Americans suffer lower back pain each year, the latest NPR/Truven Health Analytics survey finds. And they&#39;re often not going for treatments recommended as safest and most effective.</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/promo-truven2-seamus_wide-86b28374601e4d044729cbbf20b7b22ef2a40b93-s800-c15.png"></a>
-
-May 19, 2017 - More than half of Americans suffer lower back pain each year, the latest NPR/Truven Health Analytics survey finds. And they're often not going for treatments recommended as safest and most effective.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain">http://www.npr.org/sections/health-shots/2017/05/19/528516985/poll-doctors-are-still-prescribing-lots-of-opioids-for-low-back-pain</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/promo-truven2-seamus_wide-86b28374601e4d044729cbbf20b7b22ef2a40b93-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
