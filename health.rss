@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 16:01:01 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 23 May 2017 08:00:26 +0000</pubDate>
+    <pubDate>Tue, 23 May 2017 16:01:01 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</guid>
+      <title>Medical Research, Health Care Face Deep Cuts In Trump Budget</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</link>
+      <description>May 23, 2017 - The administration&#39;s proposed budget would cut billions out of health programs at the NIH, CDC, and FDA, as well as Medicaid services for children, the elderly and disabled.</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-b1692e1c208ddbca735d46a53f99a80fb91290fb-s800-c15.jpg"></a>
+
+May 23, 2017 - The administration's proposed budget would cut billions out of health programs at the NIH, CDC, and FDA, as well as Medicaid services for children, the elderly and disabled.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget">http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-b1692e1c208ddbca735d46a53f99a80fb91290fb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/23/529565222/gop-bill-could-undercut-some-coverage-in-job-based-insurance</guid>
       <title>GOP Bill Could Undercut Some Coverage In Job-Based Insurance</title>
@@ -241,21 +256,6 @@ May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovar
 <a href="http://www.npr.org/2017/05/19/529175737/50-years-ago-a-network-of-clergy-helped-women-seeking-abortion">http://www.npr.org/2017/05/19/529175737/50-years-ago-a-network-of-clergy-helped-women-seeking-abortion</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>224</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</guid>
-      <title>Trump&#39;s Restrictions For Abortion Funding Overseas Could Hinder HIV Prevention</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</link>
-      <description>May 19, 2017 - Foreign aid restrictions introduced by President Ronald Reagan in 1984 have been expanded by the Trump administration. They could hinder HIV prevention and the fight against infectious disease.</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/17/gag-rule_wide-aa0477532526dcd10fa54a8573b9650d909e8c40-s800-c15.jpg"></a>
-
-May 19, 2017 - Foreign aid restrictions introduced by President Ronald Reagan in 1984 have been expanded by the Trump administration. They could hinder HIV prevention and the fight against infectious disease.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services">http://www.npr.org/sections/goatsandsoda/2017/05/19/528778797/the-ripple-effect-of-cuts-to-u-s-funds-for-overseas-abortion-services</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/17/gag-rule_wide-aa0477532526dcd10fa54a8573b9650d909e8c40-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
