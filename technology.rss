@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 00:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 06:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 23 May 2017 00:00:10 +0000</pubDate>
+    <pubDate>Wed, 24 May 2017 06:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</guid>
+      <title>&#39;Like A God,&#39; Google A.I. Beats Human Champ Of Notoriously Complex Go Game</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</link>
+      <description>May 23, 2017 - &#34;Last year, it was still quite humanlike when it played,&#34; the world&#39;s No. 1 Go player, Ke Jie, said after losing the first in a three-match series. &#34;But this year, it became like a god of Go.&#34;</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/23/ap_17143158300958_wide-740035e4f1ac2f91cd79423a73cacfe38f5435db-s800-c15.jpg"></a>
+
+May 23, 2017 - "Last year, it was still quite humanlike when it played," the world's No. 1 Go player, Ke Jie, said after losing the first in a three-match series. "But this year, it became like a god of Go."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game">http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143158300958_wide-740035e4f1ac2f91cd79423a73cacfe38f5435db-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>At The Dawn Of Recorded Sound, No One Cared</title>
@@ -114,12 +129,12 @@ May 21, 2017 - Criticized for being affiliated with the alt-right, the social si
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_ransomware_attack_on_charity.mp3?orgId=1151&amp;topicId=1019&amp;d=218&amp;p=7&amp;story=529257365&amp;t=progseg&amp;e=529256355&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-d9f51d543eae64b762f8ac58e1a97006b4889a65-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-b189b17f886d752fa51d82773ad40a825ad6c0ff-s800-c15.jpg"></a>
 
 May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It's still recovering after hackers stole data.
 
 <a href="http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack">http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-d9f51d543eae64b762f8ac58e1a97006b4889a65-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-b189b17f886d752fa51d82773ad40a825ad6c0ff-s3000-c15.jpg"></itunes:image>
       <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -245,21 +260,6 @@ May 16, 2017 - "The [WannaCry] attack is a wake-up call for all of us," Microsof
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls">http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_100823135874_wide-bca7c2ee4b06273d34bc22a9138b202d7b2e0217-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/05/a1170516-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>WannaCry, Gonna Cry: Cybersecurity In The Face Of Ransomware</title>
-      <link>http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</link>
-      <description>May 16, 2017 - We live on a hackable planet. How do we stay safe?&#xA;&#xA; - http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a1170516-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 16, 2017 - We live on a hackable planet. How do we stay safe?
-
-<a href="http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware">http://the1a.org/shows/2017-05-16/wannacry-gonnacry-cybersecurity-in-the-face-of-ransomware</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>1536</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

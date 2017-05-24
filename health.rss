@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 16:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 06:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 23 May 2017 16:01:01 +0000</pubDate>
+    <pubDate>Wed, 24 May 2017 06:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,80 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170523_atc_world_health_organization_elects_first_director_general_from_africa.mp3?orgId=1&amp;topicId=1031&amp;d=169&amp;p=2&amp;story=529712013&amp;t=progseg&amp;e=529625208&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>World Health Organization Elects First Director-General From Africa</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/23/529712013/world-health-organization-elects-first-director-general-from-africa</link>
+      <description>May 23, 2017 - The new leader, Tedros Adhanom Ghebreyesus of Ethiopia, will be expected to reform the bureaucratic agency and deal with the world&#39;s growing health problems.</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170523_atc_world_health_organization_elects_first_director_general_from_africa.mp3?orgId=1&amp;topicId=1031&amp;d=169&amp;p=2&amp;story=529712013&amp;t=progseg&amp;e=529625208&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/t_wide-6f8a6dc40b92c25b16237ba9e382b2a3d58cedb9-s800-c15.jpg"></a>
+
+May 23, 2017 - The new leader, Tedros Adhanom Ghebreyesus of Ethiopia, will be expected to reform the bureaucratic agency and deal with the world's growing health problems.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/23/529712013/world-health-organization-elects-first-director-general-from-africa">http://www.npr.org/sections/goatsandsoda/2017/05/23/529712013/world-health-organization-elects-first-director-general-from-africa</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/t_wide-6f8a6dc40b92c25b16237ba9e382b2a3d58cedb9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>169</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/23/529685650/study-finds-20-percent-of-children-killed-in-car-crashes-were-improperly-restrai</guid>
+      <title>Study Finds 20 Percent Of Children In Fatal Car Crashes Were Improperly Restrained</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/23/529685650/study-finds-20-percent-of-children-killed-in-car-crashes-were-improperly-restrai</link>
+      <description>May 23, 2017 - A review of child deaths after fatal car crashes found wide variations by state and region, and suggests state authorities could radically decrease child deaths by changing traffic safety laws.</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/seatbelt-1_wide-8ef49a0fe630aa1201c4d27336d0faea0263bcba-s800-c15.jpg"></a>
+
+May 23, 2017 - A review of child deaths after fatal car crashes found wide variations by state and region, and suggests state authorities could radically decrease child deaths by changing traffic safety laws.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/23/529685650/study-finds-20-percent-of-children-killed-in-car-crashes-were-improperly-restrai">http://www.npr.org/sections/health-shots/2017/05/23/529685650/study-finds-20-percent-of-children-killed-in-car-crashes-were-improperly-restrai</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/seatbelt-1_wide-8ef49a0fe630aa1201c4d27336d0faea0263bcba-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170523_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;d=1209&amp;p=13&amp;story=529671017&amp;t=progseg&amp;e=529675691&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Smile Stealers&#39; Recalls A Time When Dentists Routinely Reached For The Pliers </title>
+      <link>http://www.npr.org/2017/05/23/529671017/smile-stealers-recalls-a-time-when-dentists-routinely-reached-for-the-pliers</link>
+      <description>May 23, 2017 - Medical historian Richard Barnett traces the history of dentistry in his new book. He says that prior to the 18th century, the profession was often practiced by charlatans with &#34;big muscles.&#34;</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/05/20170523_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;d=1209&amp;p=13&amp;story=529671017&amp;t=progseg&amp;e=529675691&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 23, 2017 - Medical historian Richard Barnett traces the history of dentistry in his new book. He says that prior to the 18th century, the profession was often practiced by charlatans with "big muscles."
+
+<a href="http://www.npr.org/2017/05/23/529671017/smile-stealers-recalls-a-time-when-dentists-routinely-reached-for-the-pliers">http://www.npr.org/2017/05/23/529671017/smile-stealers-recalls-a-time-when-dentists-routinely-reached-for-the-pliers</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1209</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</guid>
       <title>Medical Research, Health Care Face Deep Cuts In Trump Budget</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</link>
-      <description>May 23, 2017 - The administration&#39;s proposed budget would cut billions out of health programs at the NIH, CDC, and FDA, as well as Medicaid services for children, the elderly and disabled.</description>
+      <description>May 23, 2017 - The administration&#39;s proposed budget would cut billions out of health programs at the NIH, CDC and FDA, as well as Medicaid services for children, the elderly and disabled.</description>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-b1692e1c208ddbca735d46a53f99a80fb91290fb-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-9a2ac4407c3158a6e45c147a5d454dd0acabc289-s800-c15.jpg"></a>
 
-May 23, 2017 - The administration's proposed budget would cut billions out of health programs at the NIH, CDC, and FDA, as well as Medicaid services for children, the elderly and disabled.
+May 23, 2017 - The administration's proposed budget would cut billions out of health programs at the NIH, CDC and FDA, as well as Medicaid services for children, the elderly and disabled.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget">http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-b1692e1c208ddbca735d46a53f99a80fb91290fb-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-9a2ac4407c3158a6e45c147a5d454dd0acabc289-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170523-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>What&#39;s the Consensus on Consent?</title>
+      <link>http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</link>
+      <description>May 23, 2017 - Saying yes or no to a sexual advance should be straightforward. How do we clarify the rules on sexual consent?&#xA;&#xA; - http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</description>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170523-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 23, 2017 - Saying yes or no to a sexual advance should be straightforward. How do we clarify the rules on sexual consent?
+
+<a href="http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent">http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2111</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -187,75 +249,13 @@ May 21, 2017 - It's not the way things usually go. But at the time, Dr. Dilantha
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_why_brain_scientists_are_still_obsessed_with_the_curious_case_of_phineas_gage.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=10&amp;story=528966102&amp;t=progseg&amp;e=529364442&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-fb644553dc02e856ca76f4b2373327b7b894ed92-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-3a48ea964b28b2fcdeb7027046c8617f28dad4aa-s800-c15.jpg"></a>
 
 May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-pound iron bar through his head. The injury changed his personality, and our understanding of the brain.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage">http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-fb644553dc02e856ca76f4b2373327b7b894ed92-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-3a48ea964b28b2fcdeb7027046c8617f28dad4aa-s3000-c15.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/20/529291384/new-laws-in-the-u-k-and-eu-further-restrict-tobacco-industry</guid>
-      <title>New Laws In The U.K. And EU Further Restrict Tobacco Industry</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/20/529291384/new-laws-in-the-u-k-and-eu-further-restrict-tobacco-industry</link>
-      <description>May 20, 2017 - An EU directive goes into force today, with new rules regulating the tobacco industry. The U.K. is going further: Cigarettes must now be sold in plain green packaging with graphic health warnings.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/20/ap_17110359631637_wide-a00aa6fe26a05c990d5e53821f4c7de2e8301095-s800-c15.jpg"></a>
-
-May 20, 2017 - An EU directive goes into force today, with new rules regulating the tobacco industry. The U.K. is going further: Cigarettes must now be sold in plain green packaging with graphic health warnings.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/20/529291384/new-laws-in-the-u-k-and-eu-further-restrict-tobacco-industry">http://www.npr.org/sections/thetwo-way/2017/05/20/529291384/new-laws-in-the-u-k-and-eu-further-restrict-tobacco-industry</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/ap_17110359631637_wide-a00aa6fe26a05c990d5e53821f4c7de2e8301095-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists One Step Closer To 3-D-Printed Ovaries To Treat Infertility</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</link>
-      <description>May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s800-c15.jpg"></a>
-
-May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility">http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>185</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170519_atc_health_care_industry_drives_job_growth_at_the_expense_of_efficiency.mp3?orgId=1&amp;topicId=1128&amp;d=271&amp;p=2&amp;story=529175744&amp;t=progseg&amp;e=529086479&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Health Care Industry Drives Job Growth At The Expense Of Efficiency</title>
-      <link>http://www.npr.org/2017/05/19/529175744/health-care-industry-drives-job-growth-at-the-expense-of-efficiency</link>
-      <description>May 19, 2017 - As the debate over health care continues in Washington, one thing not in dispute is that health care industry employment has been going up steadily over the past decade. In Ohio, health care industry jobs now outnumber those in manufacturing. The jobs are good news to state and local economies, but some analysts also say it&#39;s a reflection of the high costs and complexity of health care.</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170519_atc_health_care_industry_drives_job_growth_at_the_expense_of_efficiency.mp3?orgId=1&amp;topicId=1128&amp;d=271&amp;p=2&amp;story=529175744&amp;t=progseg&amp;e=529086479&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 19, 2017 - As the debate over health care continues in Washington, one thing not in dispute is that health care industry employment has been going up steadily over the past decade. In Ohio, health care industry jobs now outnumber those in manufacturing. The jobs are good news to state and local economies, but some analysts also say it's a reflection of the high costs and complexity of health care.
-
-<a href="http://www.npr.org/2017/05/19/529175744/health-care-industry-drives-job-growth-at-the-expense-of-efficiency">http://www.npr.org/2017/05/19/529175744/health-care-industry-drives-job-growth-at-the-expense-of-efficiency</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>271</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170519_atc_50_years_ago_a_network_of_clergy_helped_women_seeking_abortion.mp3?orgId=1&amp;topicId=1003&amp;d=224&amp;p=2&amp;story=529175737&amp;t=progseg&amp;e=529086479&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>50 Years Ago, A Network Of Clergy Helped Women Seeking Abortion</title>
-      <link>http://www.npr.org/2017/05/19/529175737/50-years-ago-a-network-of-clergy-helped-women-seeking-abortion</link>
-      <description>May 19, 2017 - Before Roe v. Wade, a network of clergy helped counsel women seeking abortions and sometimes helped them find abortion providers. Some of them are gathering in New York this weekend to mark the 50th anniversary.</description>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170519_atc_50_years_ago_a_network_of_clergy_helped_women_seeking_abortion.mp3?orgId=1&amp;topicId=1003&amp;d=224&amp;p=2&amp;story=529175737&amp;t=progseg&amp;e=529086479&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 19, 2017 - Before Roe v. Wade, a network of clergy helped counsel women seeking abortions and sometimes helped them find abortion providers. Some of them are gathering in New York this weekend to mark the 50th anniversary.
-
-<a href="http://www.npr.org/2017/05/19/529175737/50-years-ago-a-network-of-clergy-helped-women-seeking-abortion">http://www.npr.org/2017/05/19/529175737/50-years-ago-a-network-of-clergy-helped-women-seeking-abortion</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
