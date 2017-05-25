@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2017 17:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 19:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 25 May 2017 17:00:20 +0000</pubDate>
+    <pubDate>Thu, 25 May 2017 19:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</guid>
+      <title>Many Adults Don&#39;t Think Exposure To Vaping Is Bad For Kids</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</link>
+      <description>May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don&#39;t think secondhand vape is dangerous for children.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s800-c15.jpg"></a>
+
+May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don't think secondhand vape is dangerous for children.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids">http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</guid>
       <title>Patient, Doctor Groups Say New CBO Score Reveals Health Care Bill&#39;s Flaws</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</link>
       <description>May 25, 2017 - The latest analysis by the Congressional Budget Office says the bill would lead to 23 million fewer people having insurance coverage and would cut the federal deficit by $119 billion over 10 years.</description>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-88e1e27449e0086ce78815731d6e802dcc641097-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-bd18899c60070a736f589a89713d0030b0d593cf-s800-c15.jpg"></a>
 
 May 25, 2017 - The latest analysis by the Congressional Budget Office says the bill would lead to 23 million fewer people having insurance coverage and would cut the federal deficit by $119 billion over 10 years.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws">http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-88e1e27449e0086ce78815731d6e802dcc641097-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-bd18899c60070a736f589a89713d0030b0d593cf-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ May 23, 2017 - The administration's proposed budget would cut billions out of he
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget">http://www.npr.org/sections/health-shots/2017/05/23/529654114/medical-research-health-care-face-deep-cuts-in-trump-budget</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143556921774_wide-9a2ac4407c3158a6e45c147a5d454dd0acabc289-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170523-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>What&#39;s the Consensus on Consent?</title>
-      <link>http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</link>
-      <description>May 23, 2017 - Saying yes or no to a sexual advance should be straightforward. How do we clarify the rules on sexual consent?&#xA;&#xA; - http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</description>
-      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170523-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 23, 2017 - Saying yes or no to a sexual advance should be straightforward. How do we clarify the rules on sexual consent?
-
-<a href="http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent">http://the1a.org/shows/2017-05-23/whats-the-consensus-on-consent</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2111</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

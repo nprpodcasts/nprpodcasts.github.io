@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2017 16:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 19:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 25 May 2017 16:00:19 +0000</pubDate>
+    <pubDate>Thu, 25 May 2017 19:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</guid>
+      <title>Juno Spacecraft Reveals Spectacular Cyclones At Jupiter&#39;s Poles</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</link>
+      <description>May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant&#39;s north and south poles. The probe has also returned other data that have project scientists scratching their heads.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s800-c15.jpg"></a>
+
+May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant's north and south poles. The probe has also returned other data that have project scientists scratching their heads.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles">http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</guid>
+      <title>Many Adults Don&#39;t Think Exposure To Vaping Is Bad For Kids</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</link>
+      <description>May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don&#39;t think secondhand vape is dangerous for children.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s800-c15.jpg"></a>
+
+May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don't think secondhand vape is dangerous for children.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids">http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_how_elections_influence_judges.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=200&amp;p=3&amp;story=529977252&amp;t=progseg&amp;e=529977195&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Elections Influence Judges</title>
@@ -228,36 +258,6 @@ May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-p
 <a href="http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage">http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-3a48ea964b28b2fcdeb7027046c8617f28dad4aa-s3000-c15.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/20/529148056/scientists-sneak-a-peek-at-how-ladybugs-fold-their-wings</guid>
-      <title>Scientists Sneak A Peek At How Ladybugs Fold Their Wings</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/20/529148056/scientists-sneak-a-peek-at-how-ladybugs-fold-their-wings</link>
-      <description>May 20, 2017 - Ladybugs are famous for their spotted wing cases. But researchers in Japan were interested in what was happening under that colorful exterior: How delicate wings were folding origami-like into place.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/19/screen-shot-2017-05-19-at-3.15.15-pm_wide-1367640d7c3090a065cbd4550695d4d68220202b-s800-c15.png"></a>
-
-May 20, 2017 - Ladybugs are famous for their spotted wing cases. But researchers in Japan were interested in what was happening under that colorful exterior: How delicate wings were folding origami-like into place.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/20/529148056/scientists-sneak-a-peek-at-how-ladybugs-fold-their-wings">http://www.npr.org/sections/thetwo-way/2017/05/20/529148056/scientists-sneak-a-peek-at-how-ladybugs-fold-their-wings</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/screen-shot-2017-05-19-at-3.15.15-pm_wide-1367640d7c3090a065cbd4550695d4d68220202b-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/20/527998428/we-have-always-been-bored-yawn-wonders-why</guid>
-      <title>We Have Always Been Bored — &#39;Yawn&#39; Wonders Why</title>
-      <link>http://www.npr.org/2017/05/20/527998428/we-have-always-been-bored-yawn-wonders-why</link>
-      <description>May 20, 2017 - Mary Mann&#39;s new book digs into a phenomenon as old as humanity: boredom. Why do we get bored? Is there a cure? Yawn is a thoughtful read, but its mix of autobiography and scholarship doesn&#39;t jell.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/19/2017-05-19_yawn_rzaldivar_01-v2_wide-e874837cdcf09f6d46931edfd136a48af4ffbc91-s800-c15.jpg"></a>
-
-May 20, 2017 - Mary Mann's new book digs into a phenomenon as old as humanity: boredom. Why do we get bored? Is there a cure? Yawn is a thoughtful read, but its mix of autobiography and scholarship doesn't jell.
-
-<a href="http://www.npr.org/2017/05/20/527998428/we-have-always-been-bored-yawn-wonders-why">http://www.npr.org/2017/05/20/527998428/we-have-always-been-bored-yawn-wonders-why</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/2017-05-19_yawn_rzaldivar_01-v2_wide-e874837cdcf09f6d46931edfd136a48af4ffbc91-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
