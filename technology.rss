@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2017 16:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 18:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 25 May 2017 16:00:16 +0000</pubDate>
+    <pubDate>Thu, 25 May 2017 18:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/25/530016562/google-a-i-clinches-series-against-humanitys-last-best-hope-to-win-at-go</guid>
+      <title>Google A.I. Clinches Series Against Humanity&#39;s Last, Best Hope To Win At Go</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/25/530016562/google-a-i-clinches-series-against-humanitys-last-best-hope-to-win-at-go</link>
+      <description>May 25, 2017 - Ke Jie is a wunderkind — the 19-year-old undisputed master of what might well be the world&#39;s most complex game. And he just soundly lost a best-of-three series to an artificial intelligence program.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/25/gettyimages-688097364_wide-449445f9a096aa86764e907b6711373d15f6c723-s800-c15.jpg"></a>
+
+May 25, 2017 - Ke Jie is a wunderkind — the 19-year-old undisputed master of what might well be the world's most complex game. And he just soundly lost a best-of-three series to an artificial intelligence program.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530016562/google-a-i-clinches-series-against-humanitys-last-best-hope-to-win-at-go">http://www.npr.org/sections/thetwo-way/2017/05/25/530016562/google-a-i-clinches-series-against-humanitys-last-best-hope-to-win-at-go</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/gettyimages-688097364_wide-449445f9a096aa86764e907b6711373d15f6c723-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_computer_says_go.mp3?orgId=1&amp;topicId=1019&amp;d=54&amp;p=3&amp;story=529977203&amp;t=progseg&amp;e=529977195&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Computer Wins Again In Chinese Game Of Go</title>
@@ -245,21 +260,6 @@ May 18, 2017 - The vote begins a months-long process to collect — once again �
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations">http://www.npr.org/sections/thetwo-way/2017/05/18/528941897/fcc-votes-to-begin-rollback-of-net-neutrality-regulations</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/19/ap_291001750037_wide-cc469fae8ddfaa13bcd80b851dae0782d89ee7d6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</guid>
-      <title>Is &#39;Internet Addiction&#39; Real?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</link>
-      <description>May 18, 2017 - What started out as web surfing by a healthy teen descended into online obsession and isolation. Was it depression, internet addiction or both? Whatever you call it, rehab is now part of the answer.</description>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/15/internet-addiction-1_wide-b0c7bfbc056c785f04216cfb134536777768a4eb-s800-c15.jpg"></a>
-
-May 18, 2017 - What started out as web surfing by a healthy teen descended into online obsession and isolation. Was it depression, internet addiction or both? Whatever you call it, rehab is now part of the answer.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real">http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/internet-addiction-1_wide-b0c7bfbc056c785f04216cfb134536777768a4eb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
