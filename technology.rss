@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 May 2017 06:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 16:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 24 May 2017 06:00:06 +0000</pubDate>
+    <pubDate>Thu, 25 May 2017 16:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_computer_says_go.mp3?orgId=1&amp;topicId=1019&amp;d=54&amp;p=3&amp;story=529977203&amp;t=progseg&amp;e=529977195&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Computer Wins Again In Chinese Game Of Go</title>
+      <link>http://www.npr.org/2017/05/25/529977203/computer-wins-again-in-chinese-game-of-go</link>
+      <description>May 25, 2017 - Google&#39;s AlphaGo program has won two games against Chinese player Ke Jie in the game of go, which has billions of possible moves and had been hard for computers to play.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_computer_says_go.mp3?orgId=1&amp;topicId=1019&amp;d=54&amp;p=3&amp;story=529977203&amp;t=progseg&amp;e=529977195&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 25, 2017 - Google's AlphaGo program has won two games against Chinese player Ke Jie in the game of go, which has billions of possible moves and had been hard for computers to play.
+
+<a href="http://www.npr.org/2017/05/25/529977203/computer-wins-again-in-chinese-game-of-go">http://www.npr.org/2017/05/25/529977203/computer-wins-again-in-chinese-game-of-go</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_fitness_trackers_good_at_measuring_heart_rate_not_so_good_at_measuring_calories.mp3?orgId=1&amp;topicId=1128&amp;d=201&amp;p=2&amp;story=529839681&amp;t=progseg&amp;e=529806030&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Fitness Trackers: Good at Measuring Heart Rate, Not So Good At Measuring Calories</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories</link>
+      <description>May 24, 2017 - A study of seven popular fitness trackers found they are generally good at measuring heart rate, but may mislead consumers about how many calories they have burned.</description>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_fitness_trackers_good_at_measuring_heart_rate_not_so_good_at_measuring_calories.mp3?orgId=1&amp;topicId=1128&amp;d=201&amp;p=2&amp;story=529839681&amp;t=progseg&amp;e=529806030&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/24/wearables-1_wide-17fc305d37182b711ff67ea9253289bb67eab98e-s800-c15.jpg"></a>
+
+May 24, 2017 - A study of seven popular fitness trackers found they are generally good at measuring heart rate, but may mislead consumers about how many calories they have burned.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories">http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/wearables-1_wide-17fc305d37182b711ff67ea9253289bb67eab98e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</guid>
+      <title>After Manchester, Social Media Helps And Hurts, Venues Stay Alert And Shows Go On</title>
+      <link>http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</link>
+      <description>May 24, 2017 - In the wake of the bombing on Monday night at an Ariana Grande concert, venues have stepped up security, a promoter laments the imperfect security and social media is useful and harmful — again.</description>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/24/gettyimages-687723606_wide-261c53a1dcd55e8685f8c3db656d0abff3a22664-s800-c15.jpg"></a>
+
+May 24, 2017 - In the wake of the bombing on Monday night at an Ariana Grande concert, venues have stepped up security, a promoter laments the imperfect security and social media is useful and harmful — again.
+
+<a href="http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on">http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/gettyimages-687723606_wide-261c53a1dcd55e8685f8c3db656d0abff3a22664-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</guid>
       <title>&#39;Like A God,&#39; Google A.I. Beats Human Champ Of Notoriously Complex Go Game</title>
@@ -46,12 +93,12 @@ May 23, 2017 - "Last year, it was still quite humanlike when it played," the wor
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-35e6ae074d21d798a24eca3352ebb6d862c543a8-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-1693cf8b944e8e05fc9e1fa33392c7a14272c8f7-s800-c15.jpg"></a>
 
 May 22, 2017 - In the late 19th century, French inventor Edouard-Leon Scott de Martinville patented the earliest known sound recording device. But his accomplishments were only recognized recently.
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared">http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-35e6ae074d21d798a24eca3352ebb6d862c543a8-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-1693cf8b944e8e05fc9e1fa33392c7a14272c8f7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -213,53 +260,6 @@ May 18, 2017 - What started out as web surfing by a healthy teen descended into 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real">http://www.npr.org/sections/health-shots/2017/05/18/527799301/is-internet-addiction-real</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/15/internet-addiction-1_wide-b0c7bfbc056c785f04216cfb134536777768a4eb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_morning_news_brief_robert_mueller_as_special_counsel_new_google_products.mp3?orgId=1&amp;topicId=1014&amp;d=622&amp;p=3&amp;story=528899972&amp;t=progseg&amp;e=528899957&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Morning News Brief: Robert Mueller As Special Counsel, New Google Products</title>
-      <link>http://www.npr.org/2017/05/18/528899972/morning-news-brief-robert-mueller-as-special-counsel-new-google-products</link>
-      <description>May 18, 2017 - Former FBI Director Robert Mueller has been appointed as a special counsel to investigate Russian influence in the election. And Google has unveiled its latest product ideas.</description>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170518_me_morning_news_brief_robert_mueller_as_special_counsel_new_google_products.mp3?orgId=1&amp;topicId=1014&amp;d=622&amp;p=3&amp;story=528899972&amp;t=progseg&amp;e=528899957&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 18, 2017 - Former FBI Director Robert Mueller has been appointed as a special counsel to investigate Russian influence in the election. And Google has unveiled its latest product ideas.
-
-<a href="http://www.npr.org/2017/05/18/528899972/morning-news-brief-robert-mueller-as-special-counsel-new-google-products">http://www.npr.org/2017/05/18/528899972/morning-news-brief-robert-mueller-as-special-counsel-new-google-products</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>622</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Total Failure: When The Space Shuttle Didn&#39;t Come Home</title>
-      <link>http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</link>
-      <description>May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.</description>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170517_atc_total_failure_when_the_space_shuttle_didnt_come_home.mp3?orgId=1&amp;topicId=1026&amp;d=443&amp;p=2&amp;story=527052122&amp;t=progseg&amp;e=528732863&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s800-c15.jpg"></a>
-
-May 17, 2017 - In Part 1 of the series Total Failure, a former NASA official recalls the disastrous mission of the space shuttle Columbia in 2003 and how the accident changed his life forever.
-
-<a href="http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home">http://www.npr.org/2017/05/17/527052122/total-failure-when-the-space-shuttle-didnt-come-home</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/failure-columbia_wide-09b5804c375595cb0b8c35c694e96c3daa0c4ccc-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>443</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls</guid>
-      <title>Long Before &#39;WannaCry&#39; Ransomware, Decades Of Cyber &#39;Wake-Up Calls&#39;</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls</link>
-      <description>May 16, 2017 - &#34;The [WannaCry] attack is a wake-up call for all of us,&#34; Microsoft&#39;s president wrote about last week&#39;s incident. How many times have we heard cyberattacks described this way? Let&#39;s look back.</description>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/16/ap_100823135874_wide-bca7c2ee4b06273d34bc22a9138b202d7b2e0217-s800-c15.jpg"></a>
-
-May 16, 2017 - "The [WannaCry] attack is a wake-up call for all of us," Microsoft's president wrote about last week's incident. How many times have we heard cyberattacks described this way? Let's look back.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls">http://www.npr.org/sections/alltechconsidered/2017/05/16/528447819/long-before-wannacry-ransomware-decades-of-cyber-wake-up-calls</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/16/ap_100823135874_wide-bca7c2ee4b06273d34bc22a9138b202d7b2e0217-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
