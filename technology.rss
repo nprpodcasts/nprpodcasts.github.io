@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 19:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 22:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 26 May 2017 19:00:35 +0000</pubDate>
+    <pubDate>Fri, 26 May 2017 22:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</guid>
+      <title>After A Terrorist Attack, Social Media Can Cause More Harm Than Good</title>
+      <link>http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</link>
+      <description>May 26, 2017 - NPR&#39;s Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.</description>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 26, 2017 - NPR's Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.
+
+<a href="http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good">http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/26/530159142/mark-zuckerberg-tells-harvard-graduates-to-embrace-globalism-a-sense-of-purpose</guid>
       <title>Mark Zuckerberg Tells Harvard Graduates To Embrace Globalism, &#39;A Sense Of Purpose&#39;</title>
@@ -243,23 +256,6 @@ May 20, 2017 - Point your camera at a flower and your phone identifies it. Walk 
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive">http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/19/ap_16315559510165_wide-874cbfae11d9e067017359fc1bac41816e508139-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists One Step Closer To 3-D-Printed Ovaries To Treat Infertility</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</link>
-      <description>May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_scientists_one_step_closer_to_3-d-printed_ovaries_to_treat_infertility.mp3?orgId=1&amp;topicId=1128&amp;d=185&amp;p=7&amp;story=528646323&amp;t=progseg&amp;e=529256355&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s800-c15.jpg"></a>
-
-May 20, 2017 - Researchers printed gelatin scaffolds into which they placed ovarian tissue, and then implanted the new organs in mice. Three out of seven female mice produced healthy offspring using the technology.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility">http://www.npr.org/sections/health-shots/2017/05/20/528646323/scientists-one-step-closer-to-3-d-printed-ovaries-to-treat-infertility</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/mouse-ovary-2_wide-de0a8f5a089a21564e35173c6b1dc0e38bbc724d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
