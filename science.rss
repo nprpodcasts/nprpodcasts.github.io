@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 19:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 23:00:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 26 May 2017 19:00:28 +0000</pubDate>
+    <pubDate>Fri, 26 May 2017 23:00:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_as_brains_mature_more_robust_information_networks_boost_self-control.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=529828305&amp;t=progseg&amp;e=530164049&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>As Brains Mature, More Robust Information Networks Boost Self-Control</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</link>
       <description>May 26, 2017 - Sometime between grade school and grad school, the brain&#39;s information highways get remapped in a way that dramatically reins in impulsive behavior.</description>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_as_brains_mature_more_robust_information_networks_boost_self-control.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=529828305&amp;t=progseg&amp;e=530164049&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ May 26, 2017 - Sometime between grade school and grad school, the brain's inform
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature">http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>176</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

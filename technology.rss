@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 23:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 26 May 2017 22:00:28 +0000</pubDate>
+    <pubDate>Fri, 26 May 2017 23:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_how_sharing_on_social_media_after_an_attack_helps_terrorists_spread_message.mp3?orgId=1&amp;topicId=1019&amp;d=260&amp;p=2&amp;story=530257519&amp;t=progseg&amp;e=530164049&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>After A Terrorist Attack, Social Media Can Cause More Harm Than Good</title>
       <link>http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</link>
       <description>May 26, 2017 - NPR&#39;s Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.</description>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_how_sharing_on_social_media_after_an_attack_helps_terrorists_spread_message.mp3?orgId=1&amp;topicId=1019&amp;d=260&amp;p=2&amp;story=530257519&amp;t=progseg&amp;e=530164049&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 26, 2017 - NPR's Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.
 
 <a href="http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good">http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>260</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
