@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 May 2017 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 19:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 25 May 2017 19:00:17 +0000</pubDate>
+    <pubDate>Fri, 26 May 2017 19:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,59 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</guid>
+      <title>As Brains Mature, More Robust Information Networks Boost Self-Control</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</link>
+      <description>May 26, 2017 - Sometime between grade school and grad school, the brain&#39;s information highways get remapped in a way that dramatically reins in impulsive behavior.</description>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s800-c15.jpg"></a>
+
+May 26, 2017 - Sometime between grade school and grad school, the brain's information highways get remapped in a way that dramatically reins in impulsive behavior.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature">http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/05/20170526_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=746&amp;p=57&amp;story=529957471&amp;t=progseg&amp;e=529942441&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Abigail Marsh: Are We Wired To Be Altruistic?</title>
+      <link>http://www.npr.org/2017/05/26/529957471/abigail-marsh-are-we-wired-to-be-altruistic</link>
+      <description>May 26, 2017 - When Abigail Marsh was 19, a complete stranger risked his life to save her from a car accident. Today, she studies what motivates us to help others — and why some of us are &#34;extraordinary&#34; altruists.</description>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/05/20170526_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=746&amp;p=57&amp;story=529957471&amp;t=progseg&amp;e=529942441&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/abigailmarsh_2016t-embed_wide-4a6e45a4a052d08cc2cbe61aef4224c30a321ddb-s800-c15.jpg"></a>
+
+May 26, 2017 - When Abigail Marsh was 19, a complete stranger risked his life to save her from a car accident. Today, she studies what motivates us to help others — and why some of us are "extraordinary" altruists.
+
+<a href="http://www.npr.org/2017/05/26/529957471/abigail-marsh-are-we-wired-to-be-altruistic">http://www.npr.org/2017/05/26/529957471/abigail-marsh-are-we-wired-to-be-altruistic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/abigailmarsh_2016t-embed_wide-4a6e45a4a052d08cc2cbe61aef4224c30a321ddb-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>746</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg</guid>
+      <title>Scientists Pinpoint How A Flamingo Balances On One Leg</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg</link>
+      <description>May 25, 2017 - What appears to be a feat actually requires almost no muscle effort from the bird. The researchers found even a dead flamingo&#39;s body will fall into a stable one-leg balance if positioned vertically.</description>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/9304749484_dabab78304_o_wide-28312ce46e32626283ce8177420a9df3848d1985-s800-c15.jpg"></a>
+
+May 25, 2017 - What appears to be a feat actually requires almost no muscle effort from the bird. The researchers found even a dead flamingo's body will fall into a stable one-leg balance if positioned vertically.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg">http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/9304749484_dabab78304_o_wide-28312ce46e32626283ce8177420a9df3848d1985-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170525_atc_juno_spacecraft_reveals_spectacular_cyclones_at_jupiters_poles.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=127&amp;p=2&amp;story=530002348&amp;t=progseg&amp;e=529981740&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Juno Spacecraft Reveals Spectacular Cyclones At Jupiter&#39;s Poles</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</link>
       <description>May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant&#39;s north and south poles. The probe has also returned other data that have project scientists scratching their heads.</description>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170525_atc_juno_spacecraft_reveals_spectacular_cyclones_at_jupiters_poles.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=127&amp;p=2&amp;story=530002348&amp;t=progseg&amp;e=529981740&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s800-c15.jpg"></a>
 
@@ -36,6 +84,7 @@ May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant's north a
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles">http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>127</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -209,55 +258,6 @@ May 22, 2017 - In 1980, John Goodenough's work led to the lithium-ion battery, n
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery">http://www.npr.org/sections/alltechconsidered/2017/05/22/529116034/at-94-lithium-ion-pioneer-eyes-a-new-longer-lasting-battery</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/22/perez_goodenoughbattery_20170516_004_wide-415f36f26c48bd09ada30eaac7dd9c0b4b320ed4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>223</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</guid>
-      <title>Pediatricians Advise No Fruit Juice Until Kids Are 1</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</link>
-      <description>May 22, 2017 - Older kids should limit the amount of juice they drink too. Whole fruit is better than juice because it contains fiber, which slows the absorption of sugar and fills you up the way juice doesn&#39;t.</description>
-      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/19/juice-1_wide-3829cb94070e4f795d4cca8be8638ca6b7e527b3-s800-c15.jpg"></a>
-
-May 22, 2017 - Older kids should limit the amount of juice they drink too. Whole fruit is better than juice because it contains fiber, which slows the absorption of sugar and fills you up the way juice doesn't.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1">http://www.npr.org/sections/health-shots/2017/05/22/528970924/pediatricians-advise-no-fruit-juice-until-kids-are-1</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/juice-1_wide-3829cb94070e4f795d4cca8be8638ca6b7e527b3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_cloud_eggs_the_latest_instagram_food_fad_is_actually_centuries_old.mp3?orgId=1&amp;topicId=1053&amp;d=195&amp;p=10&amp;story=529127751&amp;t=progseg&amp;e=529364442&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Cloud Eggs: The Latest Instagram Food Fad Is Actually Centuries Old</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old</link>
-      <description>May 21, 2017 - The fanciful dish was meant to impress nearly 400 years ago, so don&#39;t roll your eyes at photos of these pretty edibles: They&#39;re actually a time-honored tradition tinged with a bit of kitchen science.</description>
-      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_cloud_eggs_the_latest_instagram_food_fad_is_actually_centuries_old.mp3?orgId=1&amp;topicId=1053&amp;d=195&amp;p=10&amp;story=529127751&amp;t=progseg&amp;e=529364442&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/20/myeggs2_wide-6e2ae9bacbb9d8e8401d1fa95c682b003664afc4-s800-c15.jpg"></a>
-
-May 21, 2017 - The fanciful dish was meant to impress nearly 400 years ago, so don't roll your eyes at photos of these pretty edibles: They're actually a time-honored tradition tinged with a bit of kitchen science.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old">http://www.npr.org/sections/thesalt/2017/05/21/529127751/cloud-eggs-the-latest-instagram-food-fad-is-actually-centuries-old</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/myeggs2_wide-6e2ae9bacbb9d8e8401d1fa95c682b003664afc4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>195</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_why_brain_scientists_are_still_obsessed_with_the_curious_case_of_phineas_gage.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=10&amp;story=528966102&amp;t=progseg&amp;e=529364442&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Brain Scientists Are Still Obsessed With The Curious Case Of Phineas Gage</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</link>
-      <description>May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-pound iron bar through his head. The injury changed his personality, and our understanding of the brain.</description>
-      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170521_wesun_why_brain_scientists_are_still_obsessed_with_the_curious_case_of_phineas_gage.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=10&amp;story=528966102&amp;t=progseg&amp;e=529364442&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-3a48ea964b28b2fcdeb7027046c8617f28dad4aa-s800-c15.jpg"></a>
-
-May 21, 2017 - In 1848, a railroad worker survived an accident that drove a 13-pound iron bar through his head. The injury changed his personality, and our understanding of the brain.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage">http://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/18/phineas-1_wide-3a48ea964b28b2fcdeb7027046c8617f28dad4aa-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
