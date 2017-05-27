@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 May 2017 09:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 26 May 2017 23:00:07 +0000</pubDate>
+    <pubDate>Sat, 27 May 2017 09:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
+      <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</link>
+      <description>May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.</description>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s800-c15.jpg"></a>
+
+May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</guid>
+      <title>U.K.&#39;s Anti-Terrorism Programs Under Scrutiny</title>
+      <link>http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</link>
+      <description>May 27, 2017 - Some of the U.K. government&#39;s responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.</description>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 27, 2017 - Some of the U.K. government's responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.
+
+<a href="http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny">http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_how_sharing_on_social_media_after_an_attack_helps_terrorists_spread_message.mp3?orgId=1&amp;topicId=1019&amp;d=260&amp;p=2&amp;story=530257519&amp;t=progseg&amp;e=530164049&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>After A Terrorist Attack, Social Media Can Cause More Harm Than Good</title>
@@ -226,38 +254,6 @@ May 21, 2017 - Criticized for being affiliated with the alt-right, the social si
 <a href="http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft">http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>64</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_ransomware_attack_on_charity.mp3?orgId=1151&amp;topicId=1019&amp;d=218&amp;p=7&amp;story=529257365&amp;t=progseg&amp;e=529256355&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Small Indiana Nonprofit Falls Victim To Ransom Cyberattack</title>
-      <link>http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</link>
-      <description>May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It&#39;s still recovering after hackers stole data.&#xA;&#xA; - http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_ransomware_attack_on_charity.mp3?orgId=1151&amp;topicId=1019&amp;d=218&amp;p=7&amp;story=529257365&amp;t=progseg&amp;e=529256355&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-b189b17f886d752fa51d82773ad40a825ad6c0ff-s800-c15.jpg"></a>
-
-May 20, 2017 - A small Indiana nonprofit was devastated by a malware attack earlier this year. It's still recovering after hackers stole data.
-
-<a href="http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack">http://www.npr.org/2017/05/20/529257365/small-indiana-nonprofit-falls-victim-to-ransom-cyberattack</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/little-red-door_wide-b189b17f886d752fa51d82773ad40a825ad6c0ff-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive</guid>
-      <title>In Google&#39;s Vision Of The Future, Computing Is Immersive </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive</link>
-      <description>May 20, 2017 - Point your camera at a flower and your phone identifies it. Walk into a store and your phone leads you to the item you&#39;re looking for. It&#39;s part of a future world blurring the virtual and the real.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/19/ap_16315559510165_wide-874cbfae11d9e067017359fc1bac41816e508139-s800-c15.jpg"></a>
-
-May 20, 2017 - Point your camera at a flower and your phone identifies it. Walk into a store and your phone leads you to the item you're looking for. It's part of a future world blurring the virtual and the real.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive">http://www.npr.org/sections/alltechconsidered/2017/05/20/529146185/in-googles-vision-of-the-future-computing-is-immersive</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/ap_16315559510165_wide-874cbfae11d9e067017359fc1bac41816e508139-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

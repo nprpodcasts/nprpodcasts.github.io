@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 May 2017 09:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 26 May 2017 23:00:05 +0000</pubDate>
+    <pubDate>Sat, 27 May 2017 09:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
+      <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</link>
+      <description>May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.</description>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s800-c15.jpg"></a>
+
+May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</guid>
+      <title>Two Sisters Try To Tackle Drug Use At A Montana Indian Reservation</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</link>
+      <description>May 27, 2017 - With a lack of treatment options at the Fort Belknap reservation, the pair has sparked a grassroots response to substance abuse by creating peer support groups — the only choice for many seeking help.</description>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/counselor-2_wide-eaae8221fdc7700b8d3370a3e1c8e207f23cd570-s800-c15.jpg"></a>
+
+May 27, 2017 - With a lack of treatment options at the Fort Belknap reservation, the pair has sparked a grassroots response to substance abuse by creating peer support groups — the only choice for many seeking help.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation">http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/counselor-2_wide-eaae8221fdc7700b8d3370a3e1c8e207f23cd570-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_in_arizona_doctors_criticize_tightening_of_late-term_abortion_rules.mp3?orgId=1&amp;topicId=1091&amp;d=258&amp;p=2&amp;story=530257471&amp;t=progseg&amp;e=530164049&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Arizona, Doctors Criticize Tightening Of Late Abortion Rules</title>
@@ -222,36 +252,6 @@ May 24, 2017 - The nonpartisan Congressional Budget Office estimates that the Re
 
 <a href="http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured">http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/24/gettyimages-649341364_wide-d6d7f78a7e8acec5d47f08cb812f5880eae3a9a8-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_scientists_develop_new_treatment_strategies_for_child_psychopaths.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=529893128&amp;t=progseg&amp;e=529806030&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Develop New Treatment Strategies For Child Psychopaths</title>
-      <link>http://www.npr.org/2017/05/24/529893128/scientists-develop-new-treatment-strategies-for-child-psychopaths</link>
-      <description>May 24, 2017 - NPR&#39;s Audie Cornish speaks with writer Barbara Bradley Hagerty about her piece in The Atlantic on the children who are psychopaths, new treatment strategies and the brain science driving it.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_scientists_develop_new_treatment_strategies_for_child_psychopaths.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=529893128&amp;t=progseg&amp;e=529806030&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 24, 2017 - NPR's Audie Cornish speaks with writer Barbara Bradley Hagerty about her piece in The Atlantic on the children who are psychopaths, new treatment strategies and the brain science driving it.
-
-<a href="http://www.npr.org/2017/05/24/529893128/scientists-develop-new-treatment-strategies-for-child-psychopaths">http://www.npr.org/2017/05/24/529893128/scientists-develop-new-treatment-strategies-for-child-psychopaths</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_health_care_industry_responds_to_cbo_score_for_house-approved_bill.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=529893088&amp;t=progseg&amp;e=529806030&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Health Care Industry Anticipates CBO Score For House-Approved Bill</title>
-      <link>http://www.npr.org/2017/05/24/529893088/health-care-industry-anticipates-cbo-score-for-house-approved-bill</link>
-      <description>May 24, 2017 - NPR&#39;s Audie Cornish speaks with Caroline Pearson, senior vice president of Avalere Health, about what the new CBO score for the American Health Care Act means for reconciliation with the Senate.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_health_care_industry_responds_to_cbo_score_for_house-approved_bill.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=2&amp;story=529893088&amp;t=progseg&amp;e=529806030&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 24, 2017 - NPR's Audie Cornish speaks with Caroline Pearson, senior vice president of Avalere Health, about what the new CBO score for the American Health Care Act means for reconciliation with the Senate.
-
-<a href="http://www.npr.org/2017/05/24/529893088/health-care-industry-anticipates-cbo-score-for-house-approved-bill">http://www.npr.org/2017/05/24/529893088/health-care-industry-anticipates-cbo-score-for-house-approved-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
