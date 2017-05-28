@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 09:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 14:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 27 May 2017 09:00:10 +0000</pubDate>
+    <pubDate>Sun, 28 May 2017 14:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
+      <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</link>
+      <description>May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.</description>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s800-c15.jpg"></a>
+
+May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
       <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
@@ -39,16 +54,18 @@ May 27, 2017 - Some compare the democratization of personal computing in the 197
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_uk_anti_terrorism_strategy.mp3?orgId=1&amp;topicId=1124&amp;d=262&amp;p=7&amp;story=530337262&amp;t=progseg&amp;e=530337192&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.K.&#39;s Anti-Terrorism Programs Under Scrutiny</title>
       <link>http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</link>
       <description>May 27, 2017 - Some of the U.K. government&#39;s responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.</description>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_uk_anti_terrorism_strategy.mp3?orgId=1&amp;topicId=1124&amp;d=262&amp;p=7&amp;story=530337262&amp;t=progseg&amp;e=530337192&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 27, 2017 - Some of the U.K. government's responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.
 
 <a href="http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny">http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>262</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ May 21, 2017 - Criticized for being affiliated with the alt-right, the social si
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/21/529005840/feeling-sidelined-by-mainstream-social-media-far-right-users-jump-to-gab">http://www.npr.org/sections/alltechconsidered/2017/05/21/529005840/feeling-sidelined-by-mainstream-social-media-far-right-users-jump-to-gab</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/19/front-page_wide-489cab3888e71a49261e7387c313cdc47ab956d2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>244</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_minecraft_parrots.mp3?orgId=1&amp;topicId=1003&amp;d=64&amp;p=7&amp;story=529257386&amp;t=progseg&amp;e=529256355&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Don&#39;t Feed Parrots Chocolate, Despite What Happens In Minecraft</title>
-      <link>http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</link>
-      <description>May 20, 2017 - In the game Minecraft, a chocolate chip cookie will tame a parrot, but they&#39;re poisonous to the birds in real life. Minecraft has promised to update the game.</description>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170520_wesat_minecraft_parrots.mp3?orgId=1&amp;topicId=1003&amp;d=64&amp;p=7&amp;story=529257386&amp;t=progseg&amp;e=529256355&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 20, 2017 - In the game Minecraft, a chocolate chip cookie will tame a parrot, but they're poisonous to the birds in real life. Minecraft has promised to update the game.
-
-<a href="http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft">http://www.npr.org/2017/05/20/529257386/dont-feed-parrots-chocolate-despite-what-happens-in-minecraft</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>64</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

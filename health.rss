@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 09:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 14:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 27 May 2017 09:00:08 +0000</pubDate>
+    <pubDate>Sun, 28 May 2017 14:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
+      <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</link>
+      <description>May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.</description>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s800-c15.jpg"></a>
+
+May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
       <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
@@ -237,21 +252,6 @@ May 24, 2017 - Some 55 percent of families with kids on SNAP have jobs — they 
 <a href="http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act">http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>223</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured</guid>
-      <title>GOP Health Plan Would Leave 23 Million More Uninsured, Budget Office Says</title>
-      <link>http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured</link>
-      <description>May 24, 2017 - The nonpartisan Congressional Budget Office estimates that the Republicans&#39; Obamacare repeal-and-replace bill would also reduce the deficit and leave some sick Americans unable to buy coverage.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/gettyimages-649341364_wide-d6d7f78a7e8acec5d47f08cb812f5880eae3a9a8-s800-c15.jpg"></a>
-
-May 24, 2017 - The nonpartisan Congressional Budget Office estimates that the Republicans' Obamacare repeal-and-replace bill would also reduce the deficit and leave some sick Americans unable to buy coverage.
-
-<a href="http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured">http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/gettyimages-649341364_wide-d6d7f78a7e8acec5d47f08cb812f5880eae3a9a8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
