@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2017 14:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 21:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 28 May 2017 14:00:19 +0000</pubDate>
+    <pubDate>Sun, 28 May 2017 21:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,70 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</guid>
+      <title>Watch Women Shame Men Who Pee In Public</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</link>
+      <description>May 29, 2017 - The idea behind this viral ad is to convince men how important it is to have a toilet in the house. That&#39;s a major issue in India, where more than 500 million people are loo-less.</description>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/indian-toilet-021_wide-9f0a30489172f4cd6d99c4aeed4b8a3ae0f686c1-s800-c15.jpg"></a>
+
+May 29, 2017 - The idea behind this viral ad is to convince men how important it is to have a toilet in the house. That's a major issue in India, where more than 500 million people are loo-less.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public">http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/indian-toilet-021_wide-9f0a30489172f4cd6d99c4aeed4b8a3ae0f686c1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_handshake-free_zones_target_spread_of_germs_in_the_hospital.mp3?orgId=105043435&amp;topicId=1066&amp;d=203&amp;p=3&amp;story=529878742&amp;t=progseg&amp;e=530554171&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Handshake-Free Zones Target Spread Of Germs In The Hospital</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital</link>
+      <description>May 29, 2017 - Hospital-acquired infections can be life-threatening, and unwashed hands are often to blame. One hospital in California thinks banishing handshakes could help reduce infections.</description>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_handshake-free_zones_target_spread_of_germs_in_the_hospital.mp3?orgId=105043435&amp;topicId=1066&amp;d=203&amp;p=3&amp;story=529878742&amp;t=progseg&amp;e=530554171&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/handshake-1_wide-199de045ba2e584740fa5163ca52b1717503e35a-s800-c15.jpeg"></a>
+
+May 29, 2017 - Hospital-acquired infections can be life-threatening, and unwashed hands are often to blame. One hospital in California thinks banishing handshakes could help reduce infections.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital">http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/handshake-1_wide-199de045ba2e584740fa5163ca52b1717503e35a-s3000-c15.jpeg"></itunes:image>
+      <itunes:duration>203</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_adult_adhd_cant_be_diagnosed_with_a_simple_screening_test_doctors_warn.mp3?orgId=1&amp;topicId=1128&amp;d=186&amp;p=3&amp;story=527654633&amp;t=progseg&amp;e=530554171&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Adult ADHD Can&#39;t Be Diagnosed With A Simple Screening Test, Doctors Warn</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/29/527654633/adult-adhd-cant-be-diagnosed-with-a-simple-screening-test-doctors-warn</link>
+      <description>May 29, 2017 - Despite support from the World Health Organization for the latest adult ADHD screening survey, some researchers worry that it will lead to over-prescribing of powerful amphetamines.</description>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_adult_adhd_cant_be_diagnosed_with_a_simple_screening_test_doctors_warn.mp3?orgId=1&amp;topicId=1128&amp;d=186&amp;p=3&amp;story=527654633&amp;t=progseg&amp;e=530554171&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/adhd_wide-3933b145c5e43696a23926daa70deb2d059ba767-s800-c15.jpg"></a>
+
+May 29, 2017 - Despite support from the World Health Organization for the latest adult ADHD screening survey, some researchers worry that it will lead to over-prescribing of powerful amphetamines.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/29/527654633/adult-adhd-cant-be-diagnosed-with-a-simple-screening-test-doctors-warn">http://www.npr.org/sections/health-shots/2017/05/29/527654633/adult-adhd-cant-be-diagnosed-with-a-simple-screening-test-doctors-warn</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/adhd_wide-3933b145c5e43696a23926daa70deb2d059ba767-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170528_atc_from_nfl_player_to_neurosurgeon_why_cant_i_do_both.mp3?orgId=1&amp;topicId=1055&amp;d=372&amp;p=2&amp;story=530504767&amp;t=progseg&amp;e=530468883&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>From NFL Player To Neurosurgeon: &#39;Why Can&#39;t I Do Both?&#39;</title>
+      <link>http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both</link>
+      <description>May 28, 2017 - Myron Rolle talks about his long journey from playing football at Florida State University and joining the NFL to going to Harvard medical school to start his residency in neurosurgery.</description>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170528_atc_from_nfl_player_to_neurosurgeon_why_cant_i_do_both.mp3?orgId=1&amp;topicId=1055&amp;d=372&amp;p=2&amp;story=530504767&amp;t=progseg&amp;e=530468883&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 28, 2017 - Myron Rolle talks about his long journey from playing football at Florida State University and joining the NFL to going to Harvard medical school to start his residency in neurosurgery.
+
+<a href="http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both">http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>372</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
       <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
@@ -190,68 +254,6 @@ May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids">http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</guid>
-      <title>Patient, Doctor Groups Say New CBO Score Reveals Health Care Bill&#39;s Flaws</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</link>
-      <description>May 25, 2017 - The latest analysis by the Congressional Budget Office says the bill would lead to 23 million fewer people having insurance coverage and would cut the federal deficit by $119 billion over 10 years.</description>
-      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-25e0c4260d42d2e13a2a45c0f5e8c53f695eb38d-s800-c15.jpg"></a>
-
-May 25, 2017 - The latest analysis by the Congressional Budget Office says the bill would lead to 23 million fewer people having insurance coverage and would cut the federal deficit by $119 billion over 10 years.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws">http://www.npr.org/sections/health-shots/2017/05/25/529909663/patient-doctor-groups-say-new-cbo-score-reveals-health-bills-flaws</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ap_17142814649372_wide-25e0c4260d42d2e13a2a45c0f5e8c53f695eb38d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_eating_chocolate_-_a_little_each_week_-_can_lower_risk_of_a_fluttery_heart.mp3?orgId=1&amp;topicId=1134&amp;d=191&amp;p=2&amp;story=529843647&amp;t=progseg&amp;e=529806030&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Eating Chocolate, A Little Each Week, May Lower The Risk Of A Heart Flutter</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/24/529843647/eating-chocolate-a-little-each-week-may-lower-the-risk-of-a-heart-flutter</link>
-      <description>May 24, 2017 - The latest evidence that a chocolate habit may lower your risk of heart disease: A study finds people who ate small amounts of chocolate several times a week had a lower risk of atrial fibrillation.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_eating_chocolate_-_a_little_each_week_-_can_lower_risk_of_a_fluttery_heart.mp3?orgId=1&amp;topicId=1134&amp;d=191&amp;p=2&amp;story=529843647&amp;t=progseg&amp;e=529806030&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/npr_chocolatehearthealth_0011_wide-f6c0f6ebb8be324bb4325b836d80d37e5c81aed2-s800-c15.jpg"></a>
-
-May 24, 2017 - The latest evidence that a chocolate habit may lower your risk of heart disease: A study finds people who ate small amounts of chocolate several times a week had a lower risk of atrial fibrillation.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/24/529843647/eating-chocolate-a-little-each-week-may-lower-the-risk-of-a-heart-flutter">http://www.npr.org/sections/thesalt/2017/05/24/529843647/eating-chocolate-a-little-each-week-may-lower-the-risk-of-a-heart-flutter</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/npr_chocolatehearthealth_0011_wide-f6c0f6ebb8be324bb4325b836d80d37e5c81aed2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>191</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/24/529831472/trump-wants-families-on-food-stamps-to-get-jobs-the-majority-already-work</guid>
-      <title>Trump Wants Families On Food Stamps To Get Jobs. The Majority Already Work</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/24/529831472/trump-wants-families-on-food-stamps-to-get-jobs-the-majority-already-work</link>
-      <description>May 24, 2017 - Some 55 percent of families with kids on SNAP have jobs — they just don&#39;t earn enough to live on. Many states where reliance on SNAP is heaviest voted overwhelmingly for Trump last November.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/foodstamp_wide-32d861b51bb9081cb5100e2badf921ac3d65ca19-s800-c15.jpg"></a>
-
-May 24, 2017 - Some 55 percent of families with kids on SNAP have jobs — they just don't earn enough to live on. Many states where reliance on SNAP is heaviest voted overwhelmingly for Trump last November.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/24/529831472/trump-wants-families-on-food-stamps-to-get-jobs-the-majority-already-work">http://www.npr.org/sections/thesalt/2017/05/24/529831472/trump-wants-families-on-food-stamps-to-get-jobs-the-majority-already-work</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/foodstamp_wide-32d861b51bb9081cb5100e2badf921ac3d65ca19-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_cbo_releases_score_for_house-approved_american_health_care_act.mp3?orgId=1&amp;topicId=1014&amp;d=223&amp;p=2&amp;story=529893114&amp;t=progseg&amp;e=529806030&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>CBO Releases Score For House-Approved American Health Care Act</title>
-      <link>http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act</link>
-      <description>May 24, 2017 - The Congressional Budget Office gave its projections Wednesday on the costs and impact of the version of the American Health Care Act passed by the House earlier this month.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_cbo_releases_score_for_house-approved_american_health_care_act.mp3?orgId=1&amp;topicId=1014&amp;d=223&amp;p=2&amp;story=529893114&amp;t=progseg&amp;e=529806030&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 24, 2017 - The Congressional Budget Office gave its projections Wednesday on the costs and impact of the version of the American Health Care Act passed by the House earlier this month.
-
-<a href="http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act">http://www.npr.org/2017/05/24/529893114/cbo-releases-score-for-house-approved-american-health-care-act</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
