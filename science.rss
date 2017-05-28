@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 18:10:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 28 May 2017 14:00:21 +0000</pubDate>
+    <pubDate>Sun, 28 May 2017 18:10:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170528_wesun_lulus_log_storms_on_jupiter.mp3?orgId=1&amp;topicId=1026&amp;d=291&amp;p=10&amp;story=530447121&amp;t=progseg&amp;e=530446748&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>NASA Spacecraft Finds Storms On Jupiter</title>
       <link>http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter</link>
       <description>May 28, 2017 - Raging cyclones and an uneven magnetic field: NPR&#39;s Lulu Garcia-Navarro talks to NASA scientist Jack Connerney about the surprising findings made by a spacecraft orbiting Jupiter.</description>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170528_wesun_lulus_log_storms_on_jupiter.mp3?orgId=1&amp;topicId=1026&amp;d=291&amp;p=10&amp;story=530447121&amp;t=progseg&amp;e=530446748&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 28, 2017 - Raging cyclones and an uneven magnetic field: NPR's Lulu Garcia-Navarro talks to NASA scientist Jack Connerney about the surprising findings made by a spacecraft orbiting Jupiter.
 
 <a href="http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter">http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>291</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
