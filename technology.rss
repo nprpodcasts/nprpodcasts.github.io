@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 29 May 2017 20:00:19 +0000</pubDate>
+    <pubDate>Mon, 29 May 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</guid>
+      <title>Flipbooks Help Prisoners Stay Connected To Their Loved Ones</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</link>
+      <description>May 29, 2017 - For people in prison, rules limiting access to technology make seeing video of their kids&#39; first steps difficult. But a Colorado woman is using a 19th century solution for this 21st century problem.</description>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s800-c15.jpg"></a>
+
+May 29, 2017 - For people in prison, rules limiting access to technology make seeing video of their kids' first steps difficult. But a Colorado woman is using a 19th century solution for this 21st century problem.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones">http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</guid>
       <title>British Airways IT Meltdown Leaves Passengers Stranded</title>
@@ -231,23 +246,6 @@ May 23, 2017 - "Last year, it was still quite humanlike when it played," the wor
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game">http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143158300958_wide-740035e4f1ac2f91cd79423a73cacfe38f5435db-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>At The Dawn Of Recorded Sound, No One Cared</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared</link>
-      <description>May 22, 2017 - In the late 19th century, French inventor Edouard-Leon Scott de Martinville patented the earliest known sound recording device. But his accomplishments were only recognized recently.</description>
-      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170522_atc_nj_tech_considered.mp3?orgId=1&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=529550254&amp;t=progseg&amp;e=529472973&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-1693cf8b944e8e05fc9e1fa33392c7a14272c8f7-s800-c15.jpg"></a>
-
-May 22, 2017 - In the late 19th century, French inventor Edouard-Leon Scott de Martinville patented the earliest known sound recording device. But his accomplishments were only recognized recently.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared">http://www.npr.org/sections/alltechconsidered/2017/05/22/529550254/at-the-dawn-of-recorded-sound-no-one-cared</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/phonograph-img_1241-edit_wide-1693cf8b944e8e05fc9e1fa33392c7a14272c8f7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
