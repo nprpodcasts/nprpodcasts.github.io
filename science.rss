@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 18:22:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 21:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 18:22:59 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 21:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</guid>
+      <title>College Art Professor Challenges Students To Build Insect Motels</title>
+      <link>http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</link>
+      <description>May 30, 2017 - A concerned University of Wisconsin, Milwaukee art instructor challenged her students to construct insect motels out of natural, untreated materials. Each motel must provide an appropriate habitat for a particular insect and attract human interest too, as each has a QR Code with information about why that bug or bee matters in nature and needs to be nurtured. Nearly 100 are installed in a state park overlooking Lake Michigan in downtown Milwaukee.</description>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 30, 2017 - A concerned University of Wisconsin, Milwaukee art instructor challenged her students to construct insect motels out of natural, untreated materials. Each motel must provide an appropriate habitat for a particular insect and attract human interest too, as each has a QR Code with information about why that bug or bee matters in nature and needs to be nurtured. Nearly 100 are installed in a state park overlooking Lake Michigan in downtown Milwaukee.
+
+<a href="http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels">http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</guid>
       <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
@@ -239,23 +252,6 @@ May 25, 2017 - What appears to be a feat actually requires almost no muscle effo
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg">http://www.npr.org/sections/thetwo-way/2017/05/25/530046238/scientists-pinpoint-how-a-flamingo-balances-on-one-leg</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/9304749484_dabab78304_o_wide-28312ce46e32626283ce8177420a9df3848d1985-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170525_atc_juno_spacecraft_reveals_spectacular_cyclones_at_jupiters_poles.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=127&amp;p=2&amp;story=530002348&amp;t=progseg&amp;e=529981740&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Juno Spacecraft Reveals Spectacular Cyclones At Jupiter&#39;s Poles</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</link>
-      <description>May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant&#39;s north and south poles. The probe has also returned other data that have project scientists scratching their heads.</description>
-      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170525_atc_juno_spacecraft_reveals_spectacular_cyclones_at_jupiters_poles.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=127&amp;p=2&amp;story=530002348&amp;t=progseg&amp;e=529981740&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s800-c15.jpg"></a>
-
-May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant's north and south poles. The probe has also returned other data that have project scientists scratching their heads.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles">http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>127</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

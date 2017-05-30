@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 17:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 21:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 17:00:26 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 21:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,46 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide</guid>
+      <title>13 Reasons Why Not: Michigan Teens Talk Honestly About Suicide</title>
+      <link>http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide</link>
+      <description>May 30, 2017 - The popular Netflix show 13 Reasons Why is about a teen who commits suicide. Youth Radio brings us the story of one Michigan high school&#39;s project called 13 Reasons Why Not. It features 13 stories of students overcoming their struggles.</description>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 30, 2017 - The popular Netflix show 13 Reasons Why is about a teen who commits suicide. Youth Radio brings us the story of one Michigan high school's project called 13 Reasons Why Not. It features 13 stories of students overcoming their struggles.
+
+<a href="http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide">http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</guid>
+      <title>Powerful New Ebola Vaccine Heads To Congo To Help Stop Outbreak</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</link>
+      <description>May 30, 2017 - The Democratic Republic of Congo has been fighting a small Ebola outbreak since April. Now its government has given the green light to use a new Ebola vaccine.</description>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/30/gettyimages-465767080-55_wide-613a024b242244c89534bfc1a35d21a2cc7aa5ae-s800-c15.jpg"></a>
+
+May 30, 2017 - The Democratic Republic of Congo has been fighting a small Ebola outbreak since April. Now its government has given the green light to use a new Ebola vaccine.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak">http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/gettyimages-465767080-55_wide-613a024b242244c89534bfc1a35d21a2cc7aa5ae-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</guid>
       <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</link>
       <description>May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.</description>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s800-c15.jpg"></a>
 
 May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives">http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +252,6 @@ May 26, 2017 - According to the federal government, the top complaint about nurs
 <a href="http://www.npr.org/sections/health-shots/2017/05/26/529915765/states-try-to-keep-nursing-homes-from-kicking-out-less-lucrative-patients">http://www.npr.org/sections/health-shots/2017/05/26/529915765/states-try-to-keep-nursing-homes-from-kicking-out-less-lucrative-patients</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/man on wheelchair_wide-42d6b3190064258e7e6ae7b8f1dd9a4035494c96-s3000-c15.jpg"></itunes:image>
       <itunes:duration>299</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_as_brains_mature_more_robust_information_networks_boost_self-control.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=529828305&amp;t=progseg&amp;e=530164049&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>As Brains Mature, More Robust Information Networks Boost Self-Control</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</link>
-      <description>May 26, 2017 - Sometime between grade school and grad school, the brain&#39;s information highways get remapped in a way that dramatically reins in impulsive behavior.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_as_brains_mature_more_robust_information_networks_boost_self-control.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=529828305&amp;t=progseg&amp;e=530164049&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s800-c15.jpg"></a>
-
-May 26, 2017 - Sometime between grade school and grad school, the brain's information highways get remapped in a way that dramatically reins in impulsive behavior.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature">http://www.npr.org/sections/health-shots/2017/05/26/529828305/more-robust-information-networks-boost-self-control-as-brains-mature</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/teen-brains-1_wide-356505abf8d85226633496cd4792976e9e958acd-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>176</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic</guid>
-      <title>This 3-Year-Old&#39;s Murder Is Part Of South Africa&#39;s Alarming &#39;Epidemic&#39;</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic</link>
-      <description>May 26, 2017 - Courtney Pieters&#39; death this month made headlines and sparked an outcry. The country is only now beginning to address its high rate of child murder.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/A-photo-of-Courtney-Pieters_wide-a1a1020603cac4be048c14e647a8a5e052264264-s800-c15.png"></a>
-
-May 26, 2017 - Courtney Pieters' death this month made headlines and sparked an outcry. The country is only now beginning to address its high rate of child murder.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic">http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/A-photo-of-Courtney-Pieters_wide-a1a1020603cac4be048c14e647a8a5e052264264-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
