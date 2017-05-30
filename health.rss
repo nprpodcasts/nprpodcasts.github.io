@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 14:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 17:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 14:31:13 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 17:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</guid>
+      <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</link>
+      <description>May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.</description>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s800-c15.jpg"></a>
+
+May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives">http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170530_me_zika_vaccine.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=3&amp;story=529887446&amp;t=progseg&amp;e=530677866&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>States Fear Price Of New Zika Vaccine Will Be More Than They Can Pay</title>
@@ -241,21 +256,6 @@ May 26, 2017 - Courtney Pieters' death this month made headlines and sparked an 
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic">http://www.npr.org/sections/goatsandsoda/2017/05/26/530011693/this-3-year-olds-murder-is-part-of-south-africa-s-alarming-epidemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/A-photo-of-Courtney-Pieters_wide-a1a1020603cac4be048c14e647a8a5e052264264-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/26/530012837/can-comfort-care-at-the-er-help-older-people-live-longer-and-suffer-less</guid>
-      <title>Can Comfort Care At The ER Help Older People Live Longer And Suffer Less?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/26/530012837/can-comfort-care-at-the-er-help-older-people-live-longer-and-suffer-less</link>
-      <description>May 26, 2017 - Many older patients have problems that an emergency room is ill-equipped to handle, but often there is nowhere else to go. So some hospitals are adding palliative care consultants to the front lines.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/palliative_wide-70f9adc484b0fc3af56d895e29097573eaa5e01b-s800-c15.jpg"></a>
-
-May 26, 2017 - Many older patients have problems that an emergency room is ill-equipped to handle, but often there is nowhere else to go. So some hospitals are adding palliative care consultants to the front lines.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/26/530012837/can-comfort-care-at-the-er-help-older-people-live-longer-and-suffer-less">http://www.npr.org/sections/health-shots/2017/05/26/530012837/can-comfort-care-at-the-er-help-older-people-live-longer-and-suffer-less</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/palliative_wide-70f9adc484b0fc3af56d895e29097573eaa5e01b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

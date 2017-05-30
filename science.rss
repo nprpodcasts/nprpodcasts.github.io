@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 14:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 17:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 14:31:10 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 17:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</guid>
+      <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</link>
+      <description>May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.</description>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s800-c15.jpg"></a>
+
+May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives">http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-1026cdfad41835b338b44863d5c061bff455f5fd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong</guid>
       <title>How A Theory Of Crime And Policing Was Born, And Went Terribly Wrong</title>
@@ -241,21 +256,6 @@ May 25, 2017 - The NASA has spotted enormous cyclones at the gas giant's north a
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles">http://www.npr.org/sections/thetwo-way/2017/05/25/530002348/juno-spacecraft-reveals-spectacular-cyclones-at-jupiters-poles</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/space-tornado_wide-30fad50d3c6b1f1d358e45076bc94234b43c44f0-s3000-c15.jpg"></itunes:image>
       <itunes:duration>127</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</guid>
-      <title>Many Adults Don&#39;t Think Exposure To Vaping Is Bad For Kids</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</link>
-      <description>May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don&#39;t think secondhand vape is dangerous for children.</description>
-      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s800-c15.jpg"></a>
-
-May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs float around in the aerosol from e-cigarettes. But a survey finds many adults don't think secondhand vape is dangerous for children.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids">http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
