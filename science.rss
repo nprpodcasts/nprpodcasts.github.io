@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2017 21:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 06:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 28 May 2017 21:00:29 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 06:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong</guid>
+      <title>How A Theory Of Crime And Policing Was Born, And Went Terribly Wrong</title>
+      <link>http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong</link>
+      <description>May 29, 2017 - Decades ago, researchers introduced a new theory of policing. It&#39;s called &#34;broken windows&#34; and is seen by many as a cure-all for crime. But the idea is often used in ways its creators never intended.</description>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/gettyimages-97829814-353ffb3ecdeaa5969f9ed003a20de33201e178f4_wide-00002e1073ccddebcffd0337cf1632537eaf38fa-s800-c15.jpg"></a>
+
+May 29, 2017 - Decades ago, researchers introduced a new theory of policing. It's called "broken windows" and is seen by many as a cure-all for crime. But the idea is often used in ways its creators never intended.
+
+<a href="http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong">http://www.npr.org/2017/05/29/530192364/how-a-theory-of-crime-and-policing-was-born-and-went-terribly-wrong</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/gettyimages-97829814-353ffb3ecdeaa5969f9ed003a20de33201e178f4_wide-00002e1073ccddebcffd0337cf1632537eaf38fa-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_how_an_interview_with_a_shark_researcher_wound_up_starring_a_shark.mp3?orgId=1&amp;topicId=1132&amp;d=214&amp;p=3&amp;story=530240481&amp;t=progseg&amp;e=530554171&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>How An Interview With A Shark Researcher Wound Up Starring A Shark</title>
@@ -241,21 +256,6 @@ May 25, 2017 - Nicotine, heavy metals and tiny particles that can harm the lungs
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids">http://www.npr.org/sections/health-shots/2017/05/25/530026958/many-adults-dont-think-exposure-to-vaping-is-bad-for-kids</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/25/ecigs-1_wide-41f64867944065e9b7bd672fca50d4562eebb16b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_how_elections_influence_judges.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=200&amp;p=3&amp;story=529977252&amp;t=progseg&amp;e=529977195&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Elections Influence Judges</title>
-      <link>http://www.npr.org/2017/05/25/529977252/how-elections-influence-judges</link>
-      <description>May 25, 2017 - Social science research looks at the relationship between how judges rule and how they are influenced by election campaigns.&#xA;&#xA; - http://www.npr.org/2017/05/25/529977252/how-elections-influence-judges</description>
-      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170525_me_how_elections_influence_judges.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=200&amp;p=3&amp;story=529977252&amp;t=progseg&amp;e=529977195&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 25, 2017 - Social science research looks at the relationship between how judges rule and how they are influenced by election campaigns.
-
-<a href="http://www.npr.org/2017/05/25/529977252/how-elections-influence-judges">http://www.npr.org/2017/05/25/529977252/how-elections-influence-judges</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>200</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

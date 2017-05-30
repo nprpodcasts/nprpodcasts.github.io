@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2017 21:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 06:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 29 May 2017 21:00:06 +0000</pubDate>
+    <pubDate>Tue, 30 May 2017 06:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_prisoners_and_babies_first_steps.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=525874568&amp;t=progseg&amp;e=530560423&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Flipbooks Help Prisoners Stay Connected To Their Loved Ones</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</link>
       <description>May 29, 2017 - For people in prison, rules limiting access to technology make seeing video of their kids&#39; first steps difficult. But a Colorado woman is using a 19th century solution for this 21st century problem.</description>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_prisoners_and_babies_first_steps.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=525874568&amp;t=progseg&amp;e=530560423&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s800-c15.jpg"></a>
 
@@ -36,27 +37,31 @@ May 29, 2017 - For people in prison, rules limiting access to technology make se
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones">http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_british_airways_it_meltdown_leaves_passengers_stranded.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=530617251&amp;t=progseg&amp;e=530560423&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>British Airways IT Meltdown Leaves Passengers Stranded</title>
       <link>http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</link>
       <description>May 29, 2017 - NPR&#39;s Robert Siegel speaks with Robert Wall of The Wall Street Journal about the British Airways software issue which required cancelling flights.</description>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_british_airways_it_meltdown_leaves_passengers_stranded.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=530617251&amp;t=progseg&amp;e=530560423&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 29, 2017 - NPR's Robert Siegel speaks with Robert Wall of The Wall Street Journal about the British Airways software issue which required cancelling flights.
 
 <a href="http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded">http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_for_video_soundtracks_computers_are_the_new_composers.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=2&amp;story=530259126&amp;t=progseg&amp;e=530560423&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>For Video Soundtracks, Computers Are The New Composers</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</link>
       <description>May 29, 2017 - In some cases, the job of composer might be going the way of typewriter repairman and bowling pinsetter as software creates music more cheaply and quickly than humans. Can you hear the difference?</description>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_for_video_soundtracks_computers_are_the_new_composers.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=2&amp;story=530259126&amp;t=progseg&amp;e=530560423&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/27/istock-641120048_wide-0e4fb381252d27b5d44802c4a8349449f37df214-s800-c15.jpg"></a>
 
@@ -64,6 +69,7 @@ May 29, 2017 - In some cases, the job of composer might be going the way of type
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers">http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/27/istock-641120048_wide-0e4fb381252d27b5d44802c4a8349449f37df214-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
