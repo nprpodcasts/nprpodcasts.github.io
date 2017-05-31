@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 21:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 05:09:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 21:00:17 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 05:09:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,24 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_college_art_professor_challenges_students_to_build_insect_motels.mp3?orgId=1&amp;topicId=1047&amp;d=183&amp;p=2&amp;story=530769818&amp;t=progseg&amp;e=530711699&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>College Art Professor Challenges Students To Build Insect Motels</title>
       <link>http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</link>
       <description>May 30, 2017 - A concerned University of Wisconsin, Milwaukee art instructor challenged her students to construct insect motels out of natural, untreated materials. Each motel must provide an appropriate habitat for a particular insect and attract human interest too, as each has a QR Code with information about why that bug or bee matters in nature and needs to be nurtured. Nearly 100 are installed in a state park overlooking Lake Michigan in downtown Milwaukee.</description>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_college_art_professor_challenges_students_to_build_insect_motels.mp3?orgId=1&amp;topicId=1047&amp;d=183&amp;p=2&amp;story=530769818&amp;t=progseg&amp;e=530711699&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 30, 2017 - A concerned University of Wisconsin, Milwaukee art instructor challenged her students to construct insect motels out of natural, untreated materials. Each motel must provide an appropriate habitat for a particular insect and attract human interest too, as each has a QR Code with information about why that bug or bee matters in nature and needs to be nurtured. Nearly 100 are installed in a state park overlooking Lake Michigan in downtown Milwaukee.
 
 <a href="http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels">http://www.npr.org/2017/05/30/530769818/college-art-professor-challenges-students-to-build-insect-motels</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>183</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_are_state_rules_for_treating_sepsis_really_saving_lives.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=530224517&amp;t=progseg&amp;e=530711699&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
       <link>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</link>
       <description>May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.</description>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_are_state_rules_for_treating_sepsis_really_saving_lives.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=530224517&amp;t=progseg&amp;e=530711699&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s800-c15.jpg"></a>
 
@@ -49,6 +52,7 @@ May 30, 2017 - Some states dictate how doctors must treat this life-threatening 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives">http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
