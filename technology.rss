@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 17:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 19:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 17:00:18 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 19:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -39,16 +39,33 @@ May 31, 2017 - In the late summer of 1982, one man worked around the clock to pr
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</guid>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170531-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Call Me: Why Backchannels Matter</title>
+      <link>http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</link>
+      <description>May 31, 2017 - What are backchannels with foreign nations for? And can they be abused?&#xA;&#xA; - http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170531-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 31, 2017 - What are backchannels with foreign nations for? And can they be abused?
+
+<a href="http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter">http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>659</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/05/a1170531.mp3?siteplayer=true&amp;dl=1</guid>
       <title>The Internet&#39;s First Amendment: The New Fight For Net Neutrality</title>
       <link>http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</link>
       <description>May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?</description>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a1170531.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?
 
 <a href="http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality">http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2828</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ May 25, 2017 - Ke Jie is a wunderkind — the 19-year-old undisputed master of w
 <a href="http://www.npr.org/2017/05/25/529977203/computer-wins-again-in-chinese-game-of-go">http://www.npr.org/2017/05/25/529977203/computer-wins-again-in-chinese-game-of-go</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>54</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage</guid>
-      <title>Should The Police Control Their Own Body Camera Footage? </title>
-      <link>http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage</link>
-      <description>May 25, 2017 - There is a growing perception that body cameras, now generating millions of hours of footage, are there less to keep tabs on police, and more to keep tabs on the public.</description>
-      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/24/bodycamera_wide-5b9352cb40cfe461e9483956e23f05519eb21d5f-s800-c15.jpg"></a>
-
-May 25, 2017 - There is a growing perception that body cameras, now generating millions of hours of footage, are there less to keep tabs on police, and more to keep tabs on the public.
-
-<a href="http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage">http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/bodycamera_wide-5b9352cb40cfe461e9483956e23f05519eb21d5f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

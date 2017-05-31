@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 17:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 17:00:17 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</guid>
+      <title>&#39;Like Brain Boot Camp&#39;: Using Music To Ease Hearing Loss</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</link>
+      <description>May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s800-c15.jpg"></a>
+
+May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss">http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</guid>
       <title>We Asked, You Answered: Does U.S. Foreign Aid Raise Living Standards?</title>
@@ -45,12 +60,12 @@ May 31, 2017 - Researchers are split on the issue. We asked our audience to weig
       <description>May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.</description>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-6c5e3290cf47fb59b4047b518308a919261c7610-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-f2f9ac19dcf5155c4533cf5e7f289f2a742adc42-s800-c15.jpg"></a>
 
 May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million">http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-6c5e3290cf47fb59b4047b518308a919261c7610-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-f2f9ac19dcf5155c4533cf5e7f289f2a742adc42-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ May 29, 2017 - Despite support from the World Health Organization for the latest
 <a href="http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both">http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>372</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
-      <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</link>
-      <description>May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.</description>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s800-c15.jpg"></a>
-
-May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

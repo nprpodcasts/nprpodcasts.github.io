@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 17:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 19:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 17:00:15 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 19:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</guid>
+      <title>&#39;Like Brain Boot Camp&#39;: Using Music To Ease Hearing Loss</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</link>
+      <description>May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s800-c15.jpg"></a>
+
+May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss">http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/2017/05/31/530890143/trump-has-multiple-escape-routes-from-paris-climate-accord</guid>
       <title>Trump Has Multiple Escape Routes From Paris Climate Accord </title>
       <link>http://www.npr.org/2017/05/31/530890143/trump-has-multiple-escape-routes-from-paris-climate-accord</link>
       <description>May 31, 2017 - President Trump is nearing a decision on whether to pull out of the Paris climate agreement and has been meeting this week with competing voices in his Cabinet.</description>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/31/gettyimages-659299592_wide-9c2ad40d0975faee7696486e7f34272763c0067a-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/31/gettyimages-659299592_wide-787b967145ac43f1b53fdff6a2164ae1464dc9ec-s800-c15.jpg"></a>
 
 May 31, 2017 - President Trump is nearing a decision on whether to pull out of the Paris climate agreement and has been meeting this week with competing voices in his Cabinet.
 
 <a href="http://www.npr.org/2017/05/31/530890143/trump-has-multiple-escape-routes-from-paris-climate-accord">http://www.npr.org/2017/05/31/530890143/trump-has-multiple-escape-routes-from-paris-climate-accord</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/gettyimages-659299592_wide-9c2ad40d0975faee7696486e7f34272763c0067a-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/gettyimages-659299592_wide-787b967145ac43f1b53fdff6a2164ae1464dc9ec-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ May 27, 2017 - Two scientists agree that pesticide-laden dust from planting equi
 <a href="http://www.npr.org/2017/05/27/530337283/richard-dawkins-on-terrorism-and-religion">http://www.npr.org/2017/05/27/530337283/richard-dawkins-on-terrorism-and-religion</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>310</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_paris.mp3?orgId=1&amp;topicId=1025&amp;d=218&amp;p=7&amp;story=530337304&amp;t=progseg&amp;e=530337192&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Market Forces May Impact Emissions More Than Climate Agreements</title>
-      <link>http://www.npr.org/2017/05/27/530337304/market-forces-may-impact-emissions-more-than-climate-agreements</link>
-      <description>May 27, 2017 - Today President Trump is at the G-7 summit and high on the agenda is climate change. Many world leaders are imploring Trump stay in the global climate agreement, but emissions are going down already.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_paris.mp3?orgId=1&amp;topicId=1025&amp;d=218&amp;p=7&amp;story=530337304&amp;t=progseg&amp;e=530337192&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 27, 2017 - Today President Trump is at the G-7 summit and high on the agenda is climate change. Many world leaders are imploring Trump stay in the global climate agreement, but emissions are going down already.
-
-<a href="http://www.npr.org/2017/05/27/530337304/market-forces-may-impact-emissions-more-than-climate-agreements">http://www.npr.org/2017/05/27/530337304/market-forces-may-impact-emissions-more-than-climate-agreements</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
