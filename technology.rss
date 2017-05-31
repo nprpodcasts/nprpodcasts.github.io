@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 06:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 14:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 30 May 2017 06:00:18 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 14:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Activists Build Human Rights Abuse Cases With Help From Cellphone Videos</title>
+      <link>http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</link>
+      <description>May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalogue as it builds legal cases. Computer scientists are creating tools to analyze the videos.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s800-c15.jpg"></a>
+
+May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalogue as it builds legal cases. Computer scientists are creating tools to analyze the videos.
+
+<a href="http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos">http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>336</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_prisoners_and_babies_first_steps.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=525874568&amp;t=progseg&amp;e=530560423&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Flipbooks Help Prisoners Stay Connected To Their Loved Ones</title>
@@ -237,21 +254,6 @@ May 24, 2017 - In the wake of the bombing on Monday night at an Ariana Grande co
 
 <a href="http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on">http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/24/gettyimages-687723606_wide-261c53a1dcd55e8685f8c3db656d0abff3a22664-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</guid>
-      <title>&#39;Like A God,&#39; Google A.I. Beats Human Champ Of Notoriously Complex Go Game</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</link>
-      <description>May 23, 2017 - &#34;Last year, it was still quite humanlike when it played,&#34; the world&#39;s No. 1 Go player, Ke Jie, said after losing the first in a three-match series. &#34;But this year, it became like a god of Go.&#34;</description>
-      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/23/ap_17143158300958_wide-740035e4f1ac2f91cd79423a73cacfe38f5435db-s800-c15.jpg"></a>
-
-May 23, 2017 - "Last year, it was still quite humanlike when it played," the world's No. 1 Go player, Ke Jie, said after losing the first in a three-match series. "But this year, it became like a god of Go."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game">http://www.npr.org/sections/thetwo-way/2017/05/23/529673475/like-a-god-google-a-i-beats-human-champ-of-notoriously-complex-go-game</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ap_17143158300958_wide-740035e4f1ac2f91cd79423a73cacfe38f5435db-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 05:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 14:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 05:09:36 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 14:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</guid>
+      <title>Medicare Advantage Insurers Settle Whistleblower Suit For $32 Million</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</link>
+      <description>May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-6c5e3290cf47fb59b4047b518308a919261c7610-s800-c15.jpg"></a>
+
+May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million">http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-6c5e3290cf47fb59b4047b518308a919261c7610-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_poll_shows_americans_think_their_health_care_will_get_worse.mp3?orgId=1&amp;topicId=1027&amp;d=148&amp;p=3&amp;story=530843602&amp;t=progseg&amp;e=530842588&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Poll: Americans Increasingly Think Their Health Care Will Get Worse</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/31/530843602/poll-americans-increasingly-think-their-health-care-will-get-worse</link>
+      <description>May 31, 2017 - A survey by the Kaiser Family Foundation found that about half of people now have a favorable view of the Affordable Care Act, or Obamacare, while one-third prefer the Republican alternative.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_poll_shows_americans_think_their_health_care_will_get_worse.mp3?orgId=1&amp;topicId=1027&amp;d=148&amp;p=3&amp;story=530843602&amp;t=progseg&amp;e=530842588&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/seamus-kaiser-poll_wide-150a3a6d22bce6e552109a6a282213c78efaa94d-s800-c15.png"></a>
+
+May 31, 2017 - A survey by the Kaiser Family Foundation found that about half of people now have a favorable view of the Affordable Care Act, or Obamacare, while one-third prefer the Republican alternative.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/31/530843602/poll-americans-increasingly-think-their-health-care-will-get-worse">http://www.npr.org/sections/health-shots/2017/05/31/530843602/poll-americans-increasingly-think-their-health-care-will-get-worse</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/seamus-kaiser-poll_wide-150a3a6d22bce6e552109a6a282213c78efaa94d-s3000-c15.png"></itunes:image>
+      <itunes:duration>148</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler</guid>
+      <title>New Rules May Make Online Health Insurance Sales Simpler</title>
+      <link>http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler</link>
+      <description>May 31, 2017 - A rules change lets insurers and brokers sell health coverage on the federal exchange directly. That should be easier, but also raises questions about whether customers get unbiased information.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/30/gettyimages-481125249_wide-a24393e5ddd18a4b72cc1c5f7231a621dc782ca9-s800-c15.jpg"></a>
+
+May 31, 2017 - A rules change lets insurers and brokers sell health coverage on the federal exchange directly. That should be easier, but also raises questions about whether customers get unbiased information.
+
+<a href="http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler">http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/gettyimages-481125249_wide-a24393e5ddd18a4b72cc1c5f7231a621dc782ca9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_13_reasons_why_not_michigan_teens_talk_honestly_about_suicide.mp3?orgId=1&amp;topicId=1029&amp;aggIds=4692815&amp;d=300&amp;p=2&amp;story=530769850&amp;t=progseg&amp;e=530711699&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>13 Reasons Why Not: Michigan Teens Talk Honestly About Suicide</title>
@@ -209,53 +256,6 @@ May 27, 2017 - Some compare the democratization of personal computing in the 197
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</guid>
-      <title>2 Sisters Try To Tackle Drug Use At A Montana Indian Reservation</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</link>
-      <description>May 27, 2017 - With a lack of treatment options at the Fort Belknap reservation, the pair has sparked a grass-roots response to substance abuse by creating peer support groups, the only choice for many seeking help.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/22/counselor-2_wide-fb6ecd575e571e1f25b29f0b7bdbbc31efd7d727-s800-c15.jpg"></a>
-
-May 27, 2017 - With a lack of treatment options at the Fort Belknap reservation, the pair has sparked a grass-roots response to substance abuse by creating peer support groups, the only choice for many seeking help.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation">http://www.npr.org/sections/health-shots/2017/05/27/529112467/two-sisters-try-to-tackle-drug-use-at-a-montana-indian-reservation</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/counselor-2_wide-fb6ecd575e571e1f25b29f0b7bdbbc31efd7d727-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_in_arizona_doctors_criticize_tightening_of_late-term_abortion_rules.mp3?orgId=1&amp;topicId=1091&amp;d=258&amp;p=2&amp;story=530257471&amp;t=progseg&amp;e=530164049&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Arizona, Doctors Criticize Tightening Of Late Abortion Rules</title>
-      <link>http://www.npr.org/2017/05/26/530257471/in-arizona-doctors-criticize-tightening-of-late-abortion-rules</link>
-      <description>May 26, 2017 - Many states have laws about what to do if there are signs of life after an abortion. But Arizona legislators have passed new rules that some doctors say go against national standards of care.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_in_arizona_doctors_criticize_tightening_of_late-term_abortion_rules.mp3?orgId=1&amp;topicId=1091&amp;d=258&amp;p=2&amp;story=530257471&amp;t=progseg&amp;e=530164049&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 26, 2017 - Many states have laws about what to do if there are signs of life after an abortion. But Arizona legislators have passed new rules that some doctors say go against national standards of care.
-
-<a href="http://www.npr.org/2017/05/26/530257471/in-arizona-doctors-criticize-tightening-of-late-abortion-rules">http://www.npr.org/2017/05/26/530257471/in-arizona-doctors-criticize-tightening-of-late-abortion-rules</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>258</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_states_attempt_to_rein_in_nursing_home_evictions.mp3?orgId=1&amp;topicId=1128&amp;d=299&amp;p=2&amp;story=529915765&amp;t=progseg&amp;e=530164049&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>As Nursing Homes Evict Patients, States Question Motives</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/26/529915765/states-try-to-keep-nursing-homes-from-kicking-out-less-lucrative-patients</link>
-      <description>May 26, 2017 - According to the federal government, the top complaint about nursing homes is wrongful eviction. Advocates say nursing homes want residents who pay more but require less care.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_states_attempt_to_rein_in_nursing_home_evictions.mp3?orgId=1&amp;topicId=1128&amp;d=299&amp;p=2&amp;story=529915765&amp;t=progseg&amp;e=530164049&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/25/man on wheelchair_wide-42d6b3190064258e7e6ae7b8f1dd9a4035494c96-s800-c15.jpg"></a>
-
-May 26, 2017 - According to the federal government, the top complaint about nursing homes is wrongful eviction. Advocates say nursing homes want residents who pay more but require less care.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/26/529915765/states-try-to-keep-nursing-homes-from-kicking-out-less-lucrative-patients">http://www.npr.org/sections/health-shots/2017/05/26/529915765/states-try-to-keep-nursing-homes-from-kicking-out-less-lucrative-patients</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/man on wheelchair_wide-42d6b3190064258e7e6ae7b8f1dd9a4035494c96-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>299</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
