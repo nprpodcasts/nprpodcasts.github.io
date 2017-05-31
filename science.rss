@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 20:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 21:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 20:00:49 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 21:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,45 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/05/31/530929922/scientists-urge-governments-to-protect-coral-reefs-from-climate-change</guid>
+      <title>Scientists Urge Governments To Protect Coral Reefs From Climate Change</title>
+      <link>http://www.npr.org/2017/05/31/530929922/scientists-urge-governments-to-protect-coral-reefs-from-climate-change</link>
+      <description>May 31, 2017 - A paper published in Nature by the world&#39;s top scientists says climate change is making irreversible changes to the world&#39;s coral reefs, and the role before governments is to steer coral reefs in a way that maintains their biological functions.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 31, 2017 - A paper published in Nature by the world's top scientists says climate change is making irreversible changes to the world's coral reefs, and the role before governments is to steer coral reefs in a way that maintains their biological functions.
+
+<a href="http://www.npr.org/2017/05/31/530929922/scientists-urge-governments-to-protect-coral-reefs-from-climate-change">http://www.npr.org/2017/05/31/530929922/scientists-urge-governments-to-protect-coral-reefs-from-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/31/530929878/chief-climate-negotiator-warns-against-consequences-of-leaving-paris-accord</guid>
+      <title>Chief Climate Negotiator Warns Against Consequences Of Leaving Paris Accord</title>
+      <link>http://www.npr.org/2017/05/31/530929878/chief-climate-negotiator-warns-against-consequences-of-leaving-paris-accord</link>
+      <description>May 31, 2017 - NPR&#39;s Ari Shapiro talks with Todd Stern, former United States special envoy for climate change, about President Trump&#39;s likely withdrawal from the Paris climate accord. Stern led the negotiations for this deal.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 31, 2017 - NPR's Ari Shapiro talks with Todd Stern, former United States special envoy for climate change, about President Trump's likely withdrawal from the Paris climate accord. Stern led the negotiations for this deal.
+
+<a href="http://www.npr.org/2017/05/31/530929878/chief-climate-negotiator-warns-against-consequences-of-leaving-paris-accord">http://www.npr.org/2017/05/31/530929878/chief-climate-negotiator-warns-against-consequences-of-leaving-paris-accord</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/31/530929869/president-trump-expected-to-make-decision-on-paris-climate-accord</guid>
+      <title>President Trump Expected To Make Decision On Paris Climate Accord</title>
+      <link>http://www.npr.org/2017/05/31/530929869/president-trump-expected-to-make-decision-on-paris-climate-accord</link>
+      <description>May 31, 2017 - President Trump is expected to make a decision regarding whether or not the U.S. will pull out of the Paris climate accord. NPR takes a look at the potential political and environmental impacts of leaving the agreement.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 31, 2017 - President Trump is expected to make a decision regarding whether or not the U.S. will pull out of the Paris climate accord. NPR takes a look at the potential political and environmental impacts of leaving the agreement.
+
+<a href="http://www.npr.org/2017/05/31/530929869/president-trump-expected-to-make-decision-on-paris-climate-accord">http://www.npr.org/2017/05/31/530929869/president-trump-expected-to-make-decision-on-paris-climate-accord</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/31/530743287/nasa-plans-to-launch-a-probe-next-year-to-touch-the-sun</guid>
       <title>NASA Plans To Launch A Probe Next Year To &#39;Touch The Sun&#39;</title>
@@ -209,51 +248,6 @@ May 29, 2017 - Hospital-acquired infections can be life-threatening, and unwashe
 <a href="http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both">http://www.npr.org/2017/05/28/530504767/from-nfl-player-to-neurosurgeon-why-cant-i-do-both</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>372</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170528_wesun_lulus_log_storms_on_jupiter.mp3?orgId=1&amp;topicId=1026&amp;d=291&amp;p=10&amp;story=530447121&amp;t=progseg&amp;e=530446748&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>NASA Spacecraft Finds Storms On Jupiter</title>
-      <link>http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter</link>
-      <description>May 28, 2017 - Raging cyclones and an uneven magnetic field: NPR&#39;s Lulu Garcia-Navarro talks to NASA scientist Jack Connerney about the surprising findings made by a spacecraft orbiting Jupiter.</description>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/05/20170528_wesun_lulus_log_storms_on_jupiter.mp3?orgId=1&amp;topicId=1026&amp;d=291&amp;p=10&amp;story=530447121&amp;t=progseg&amp;e=530446748&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 28, 2017 - Raging cyclones and an uneven magnetic field: NPR's Lulu Garcia-Navarro talks to NASA scientist Jack Connerney about the surprising findings made by a spacecraft orbiting Jupiter.
-
-<a href="http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter">http://www.npr.org/2017/05/28/530447121/nasa-spacecraft-finds-storms-on-jupiter</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>291</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
-      <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</link>
-      <description>May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.</description>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s800-c15.jpg"></a>
-
-May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
-      <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</link>
-      <description>May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s800-c15.jpg"></a>
-
-May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
