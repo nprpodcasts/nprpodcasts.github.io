@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 21:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 22:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 21:00:36 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 22:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/31/530929307/ohio-sues-5-major-drug-companies-for-fueling-opioid-epidemic</guid>
+      <title>Ohio Sues 5 Major Drug Companies For &#39;Fueling Opioid Epidemic&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/31/530929307/ohio-sues-5-major-drug-companies-for-fueling-opioid-epidemic</link>
+      <description>May 31, 2017 - The state&#39;s attorney general filed the lawsuit Wednesday, alleging fraudulent marketing. &#34;They knew they were wrong,&#34; Mike DeWine says, &#34;but they did it anyway — and they continue to do it.&#34;</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/ap_16273781823723_wide-bad3ef0b1cf012d54eb889caac3b490239bdead0-s800-c15.jpg"></a>
+
+May 31, 2017 - The state's attorney general filed the lawsuit Wednesday, alleging fraudulent marketing. "They knew they were wrong," Mike DeWine says, "but they did it anyway — and they continue to do it."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/31/530929307/ohio-sues-5-major-drug-companies-for-fueling-opioid-epidemic">http://www.npr.org/sections/thetwo-way/2017/05/31/530929307/ohio-sues-5-major-drug-companies-for-fueling-opioid-epidemic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/ap_16273781823723_wide-bad3ef0b1cf012d54eb889caac3b490239bdead0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/05/31/528949740/meet-a-home-contractor-who-helps-older-people-age-in-place</guid>
+      <title>Meet A Home Contractor Who Helps Older People Age In Place</title>
+      <link>http://www.npr.org/2017/05/31/528949740/meet-a-home-contractor-who-helps-older-people-age-in-place</link>
+      <description>May 31, 2017 - Leon Watts of Los Angeles has seen his clients&#39; needs change as they&#39;ve aged. He decided he could do even more for them if he got a master&#39;s degree in gerontology.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/img_1057edit_wide-8917026cbf76a165173c72719b99c83ff9451dbe-s800-c15.jpg"></a>
+
+May 31, 2017 - Leon Watts of Los Angeles has seen his clients' needs change as they've aged. He decided he could do even more for them if he got a master's degree in gerontology.
+
+<a href="http://www.npr.org/2017/05/31/528949740/meet-a-home-contractor-who-helps-older-people-age-in-place">http://www.npr.org/2017/05/31/528949740/meet-a-home-contractor-who-helps-older-people-age-in-place</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_1057edit_wide-8917026cbf76a165173c72719b99c83ff9451dbe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/05/31/530929951/ohio-sues-drug-companies-over-role-in-creating-opioid-epidemic</guid>
       <title>Ohio Sues Drug Companies Over Role In Creating Opioid Epidemic</title>
@@ -37,16 +67,18 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_research_shows_how_ptsd_can_trigger_growth_in_veterans.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=530929915&amp;t=progseg&amp;e=530845747&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Research Shows How PTSD Can Trigger Growth In Veterans</title>
       <link>http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans</link>
       <description>May 31, 2017 - Some troops return from war only to face a new fight — symptoms of PTSD. But everything that follows traumatic experiences isn&#39;t bad. In fact, research shows they can actually trigger growth.</description>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_research_shows_how_ptsd_can_trigger_growth_in_veterans.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=530929915&amp;t=progseg&amp;e=530845747&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[May 31, 2017 - Some troops return from war only to face a new fight — symptoms of PTSD. But everything that follows traumatic experiences isn't bad. In fact, research shows they can actually trigger growth.
 
 <a href="http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans">http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -218,38 +250,6 @@ May 30, 2017 - The vaccine against Zika vaccine was developed by the Army, with 
 <a href="http://www.npr.org/2017/05/29/530617223/cash-strapped-seniors-turn-to-assisted-living-centers-in-mexico">http://www.npr.org/2017/05/29/530617223/cash-strapped-seniors-turn-to-assisted-living-centers-in-mexico</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</guid>
-      <title>Watch Women Shame Men Who Pee In Public</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</link>
-      <description>May 29, 2017 - The idea behind this viral ad is to convince men how important it is to have a toilet in the house. That&#39;s a major issue in India, where more than 500 million people are loo-less.</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/indian-toilet-021_wide-9f0a30489172f4cd6d99c4aeed4b8a3ae0f686c1-s800-c15.jpg"></a>
-
-May 29, 2017 - The idea behind this viral ad is to convince men how important it is to have a toilet in the house. That's a major issue in India, where more than 500 million people are loo-less.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public">http://www.npr.org/sections/goatsandsoda/2017/05/29/530244262/watch-women-shame-men-who-pee-in-public</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/indian-toilet-021_wide-9f0a30489172f4cd6d99c4aeed4b8a3ae0f686c1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_handshake-free_zones_target_spread_of_germs_in_the_hospital.mp3?orgId=105043435&amp;topicId=1066&amp;d=203&amp;p=3&amp;story=529878742&amp;t=progseg&amp;e=530554171&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Handshake-Free Zones Target Spread Of Germs In The Hospital</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital</link>
-      <description>May 29, 2017 - Hospital-acquired infections can be life-threatening, and unwashed hands are often to blame. One hospital in California thinks banishing handshakes could help reduce infections.</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170529_me_handshake-free_zones_target_spread_of_germs_in_the_hospital.mp3?orgId=105043435&amp;topicId=1066&amp;d=203&amp;p=3&amp;story=529878742&amp;t=progseg&amp;e=530554171&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/handshake-1_wide-199de045ba2e584740fa5163ca52b1717503e35a-s800-c15.jpeg"></a>
-
-May 29, 2017 - Hospital-acquired infections can be life-threatening, and unwashed hands are often to blame. One hospital in California thinks banishing handshakes could help reduce infections.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital">http://www.npr.org/sections/health-shots/2017/05/29/529878742/handshake-free-zones-target-spread-of-germs-in-the-hospital</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/handshake-1_wide-199de045ba2e584740fa5163ca52b1717503e35a-s3000-c15.jpeg"></itunes:image>
-      <itunes:duration>203</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
