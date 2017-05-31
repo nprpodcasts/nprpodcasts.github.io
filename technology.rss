@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 14:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 17:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 14:00:27 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 17:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,44 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game</guid>
+      <title>Total Failure: The World&#39;s Worst Video Game</title>
+      <link>http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game</link>
+      <description>May 31, 2017 - In the late summer of 1982, one man worked around the clock to program the video game version of Steven Spielberg&#39;s E.T. in just five weeks. The result wasn&#39;t pretty.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/30/illustration-failure-et-1_wide-69bc290976021b40e54e85ff6270799e10bfccd7-s800-c15.jpg"></a>
+
+May 31, 2017 - In the late summer of 1982, one man worked around the clock to program the video game version of Steven Spielberg's E.T. in just five weeks. The result wasn't pretty.
+
+<a href="http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game">http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/illustration-failure-et-1_wide-69bc290976021b40e54e85ff6270799e10bfccd7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</guid>
+      <title>The Internet&#39;s First Amendment: The New Fight For Net Neutrality</title>
+      <link>http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</link>
+      <description>May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?
+
+<a href="http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality">http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Activists Build Human Rights Abuse Cases With Help From Cellphone Videos</title>
       <link>http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</link>
-      <description>May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalogue as it builds legal cases. Computer scientists are creating tools to analyze the videos.</description>
+      <description>May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalog as it builds legal cases. Computer scientists are creating tools to analyze the videos.</description>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s800-c15.jpg"></a>
 
-May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalogue as it builds legal cases. Computer scientists are creating tools to analyze the videos.
+May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalog as it builds legal cases. Computer scientists are creating tools to analyze the videos.
 
 <a href="http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos">http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s3000-c15.jpg"></itunes:image>
@@ -222,38 +250,6 @@ May 25, 2017 - There is a growing perception that body cameras, now generating m
 
 <a href="http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage">http://www.npr.org/2017/05/25/529905669/should-the-police-control-their-own-body-camera-footage</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/24/bodycamera_wide-5b9352cb40cfe461e9483956e23f05519eb21d5f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_fitness_trackers_good_at_measuring_heart_rate_not_so_good_at_measuring_calories.mp3?orgId=1&amp;topicId=1128&amp;d=201&amp;p=2&amp;story=529839681&amp;t=progseg&amp;e=529806030&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fitness Trackers: Good at Measuring Heart Rate, Not So Good At Measuring Calories</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories</link>
-      <description>May 24, 2017 - A study of seven popular fitness trackers found they are generally good at measuring heart rate, but may mislead consumers about how many calories they have burned.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170524_atc_fitness_trackers_good_at_measuring_heart_rate_not_so_good_at_measuring_calories.mp3?orgId=1&amp;topicId=1128&amp;d=201&amp;p=2&amp;story=529839681&amp;t=progseg&amp;e=529806030&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/24/wearables-1_wide-17fc305d37182b711ff67ea9253289bb67eab98e-s800-c15.jpg"></a>
-
-May 24, 2017 - A study of seven popular fitness trackers found they are generally good at measuring heart rate, but may mislead consumers about how many calories they have burned.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories">http://www.npr.org/sections/health-shots/2017/05/24/529839681/fitness-trackers-good-at-measuring-heart-rate-not-so-good-at-measuring-calories</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/wearables-1_wide-17fc305d37182b711ff67ea9253289bb67eab98e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>201</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</guid>
-      <title>After Manchester, Social Media Helps And Hurts, Venues Stay Alert And Shows Go On</title>
-      <link>http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</link>
-      <description>May 24, 2017 - In the wake of the bombing on Monday night at an Ariana Grande concert, venues have stepped up security, a promoter laments the imperfect security and social media is useful and harmful — again.</description>
-      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/24/gettyimages-687723606_wide-261c53a1dcd55e8685f8c3db656d0abff3a22664-s800-c15.jpg"></a>
-
-May 24, 2017 - In the wake of the bombing on Monday night at an Ariana Grande concert, venues have stepped up security, a promoter laments the imperfect security and social media is useful and harmful — again.
-
-<a href="http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on">http://www.npr.org/sections/therecord/2017/05/24/529831579/after-manchester-social-media-helps-and-hurts-venues-stay-alert-and-shows-go-on</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/gettyimages-687723606_wide-261c53a1dcd55e8685f8c3db656d0abff3a22664-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
