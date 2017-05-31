@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 19:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 20:00:49 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 31 May 2017 19:00:20 +0000</pubDate>
+    <pubDate>Wed, 31 May 2017 20:00:49 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/31/530743287/nasa-plans-to-launch-a-probe-next-year-to-touch-the-sun</guid>
+      <title>NASA Plans To Launch A Probe Next Year To &#39;Touch The Sun&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/31/530743287/nasa-plans-to-launch-a-probe-next-year-to-touch-the-sun</link>
+      <description>May 31, 2017 - The small spacecraft is set to hurtle toward the sun at about 450,000 miles per hour. Scientists hope it will clear up some big mysteries, such as why the sun&#39;s atmosphere is hotter than its surface.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/31/spp_observingsun2_wide-f1d83be072d5b3c4f84ecedc44b63f9a3ac82abb-s800-c15.jpg"></a>
+
+May 31, 2017 - The small spacecraft is set to hurtle toward the sun at about 450,000 miles per hour. Scientists hope it will clear up some big mysteries, such as why the sun's atmosphere is hotter than its surface.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/31/530743287/nasa-plans-to-launch-a-probe-next-year-to-touch-the-sun">http://www.npr.org/sections/thetwo-way/2017/05/31/530743287/nasa-plans-to-launch-a-probe-next-year-to-touch-the-sun</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/spp_observingsun2_wide-f1d83be072d5b3c4f84ecedc44b63f9a3ac82abb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/05/31/530904042/shareholders-push-exxon-to-disclose-business-impact-of-fighting-climate-change</guid>
+      <title>Shareholders Push Exxon To Disclose Business Impact Of Fighting Climate Change</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/05/31/530904042/shareholders-push-exxon-to-disclose-business-impact-of-fighting-climate-change</link>
+      <description>May 31, 2017 - In a victory for environmental activists, investors have passed a non-binding proposal calling for Exxon Mobil to publicly examine how efforts to cut greenhouse gases would affect its bottom line.</description>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/31/ap_17116050110559_wide-100e4cbfdd161801f51bd43d5849f6b85cf70c8f-s800-c15.jpg"></a>
+
+May 31, 2017 - In a victory for environmental activists, investors have passed a non-binding proposal calling for Exxon Mobil to publicly examine how efforts to cut greenhouse gases would affect its bottom line.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/05/31/530904042/shareholders-push-exxon-to-disclose-business-impact-of-fighting-climate-change">http://www.npr.org/sections/thetwo-way/2017/05/31/530904042/shareholders-push-exxon-to-disclose-business-impact-of-fighting-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/ap_17116050110559_wide-100e4cbfdd161801f51bd43d5849f6b85cf70c8f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</guid>
       <title>&#39;Like Brain Boot Camp&#39;: Using Music To Ease Hearing Loss</title>
@@ -224,36 +254,6 @@ May 27, 2017 - Some compare the democratization of personal computing in the 197
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/05/27/530028003/two-scientists-two-different-approaches-to-saving-bees-from-poison-dust</guid>
-      <title>2 Scientists, 2 Different Approaches To Saving Bees From Poison Dust</title>
-      <link>http://www.npr.org/sections/thesalt/2017/05/27/530028003/two-scientists-two-different-approaches-to-saving-bees-from-poison-dust</link>
-      <description>May 27, 2017 - Two scientists agree that pesticide-laden dust from planting equipment kills bees. But they&#39;re proposing different solutions, because they disagree about whether the pesticides are useful to farmers.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/26/gettyimages-685380782_wide-3ebf4305581a8635924ff8a4a08e6226f7db1a2a-s800-c15.jpg"></a>
-
-May 27, 2017 - Two scientists agree that pesticide-laden dust from planting equipment kills bees. But they're proposing different solutions, because they disagree about whether the pesticides are useful to farmers.
-
-<a href="http://www.npr.org/sections/thesalt/2017/05/27/530028003/two-scientists-two-different-approaches-to-saving-bees-from-poison-dust">http://www.npr.org/sections/thesalt/2017/05/27/530028003/two-scientists-two-different-approaches-to-saving-bees-from-poison-dust</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/gettyimages-685380782_wide-3ebf4305581a8635924ff8a4a08e6226f7db1a2a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_richard_dawkins_tour.mp3?orgId=1&amp;topicId=1016&amp;d=310&amp;p=7&amp;story=530337283&amp;t=progseg&amp;e=530337192&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Richard Dawkins On Terrorism And Religion</title>
-      <link>http://www.npr.org/2017/05/27/530337283/richard-dawkins-on-terrorism-and-religion</link>
-      <description>May 27, 2017 - Richard Dawkins, the scientist and outspoken atheist, speaks with NPR&#39;s Scott Simon about terrorism, and how the world has changed since he first began talking about his opposition to religion.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_richard_dawkins_tour.mp3?orgId=1&amp;topicId=1016&amp;d=310&amp;p=7&amp;story=530337283&amp;t=progseg&amp;e=530337192&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 27, 2017 - Richard Dawkins, the scientist and outspoken atheist, speaks with NPR's Scott Simon about terrorism, and how the world has changed since he first began talking about his opposition to religion.
-
-<a href="http://www.npr.org/2017/05/27/530337283/richard-dawkins-on-terrorism-and-religion">http://www.npr.org/2017/05/27/530337283/richard-dawkins-on-terrorism-and-religion</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>310</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
