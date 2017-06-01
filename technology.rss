@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2017 06:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 15:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 01 Jun 2017 06:00:08 +0000</pubDate>
+    <pubDate>Thu, 01 Jun 2017 15:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</guid>
+      <title>In $43 Million Settlement, Spotify Forced To Confront A Persistent Problem</title>
+      <link>http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</link>
+      <description>June 1, 2017 - The streaming service settled a class action lawsuit filed by songwriters who accused Spotify of using their work without a license.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/01/gettyimages-515510598_wide-59214da87dde2eaabe5875473dd06117b39cf232-s800-c15.jpg"></a>
+
+June 1, 2017 - The streaming service settled a class action lawsuit filed by songwriters who accused Spotify of using their work without a license.
+
+<a href="http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem">http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-515510598_wide-59214da87dde2eaabe5875473dd06117b39cf232-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_blocked_by_russian_media_opposition_takes_to_youtube.mp3?orgId=1&amp;topicId=1004&amp;d=217&amp;story=530322343&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Banned From Russian TV, A Putin Critic Gets His Message Out On YouTube</title>
+      <link>http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube</link>
+      <description>June 1, 2017 - Anti-corruption campaigner Alexei Navalny is calling for nationwide protests and wants to be president. The Kremlin is scrambling to respond to the freewheeling weekly show he&#39;s started on YouTube.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_blocked_by_russian_media_opposition_takes_to_youtube.mp3?orgId=1&amp;topicId=1004&amp;d=217&amp;story=530322343&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/31/ap_17145412243581_wide-67db43fed30e5f3f4040148b23184c27cc15d259-s800-c15.jpg"></a>
+
+June 1, 2017 - Anti-corruption campaigner Alexei Navalny is calling for nationwide protests and wants to be president. The Kremlin is scrambling to respond to the freewheeling weekly show he's started on YouTube.
+
+<a href="http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube">http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/ap_17145412243581_wide-67db43fed30e5f3f4040148b23184c27cc15d259-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>217</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/05/31/530903237/amazon-offers-refunds-for-childrens-unauthorized-in-app-purchases</guid>
       <title>Amazon Offers Refunds For Children&#39;s Unauthorized In-App Purchases</title>
@@ -224,36 +256,6 @@ May 27, 2017 - Some compare the democratization of personal computing in the 197
 <a href="http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny">http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>262</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_how_sharing_on_social_media_after_an_attack_helps_terrorists_spread_message.mp3?orgId=1&amp;topicId=1019&amp;d=260&amp;p=2&amp;story=530257519&amp;t=progseg&amp;e=530164049&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>After A Terrorist Attack, Social Media Can Cause More Harm Than Good</title>
-      <link>http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</link>
-      <description>May 26, 2017 - NPR&#39;s Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170526_atc_how_sharing_on_social_media_after_an_attack_helps_terrorists_spread_message.mp3?orgId=1&amp;topicId=1019&amp;d=260&amp;p=2&amp;story=530257519&amp;t=progseg&amp;e=530164049&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 26, 2017 - NPR's Audie Cornish talks with Emily Dreyfuss, a reporter for Wired, who explains how sharing information about a terrorist attack on social media helps terrorists spread their message.
-
-<a href="http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good">http://www.npr.org/2017/05/26/530257519/after-a-terrorist-attack-social-media-can-cause-more-harm-than-good</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>260</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/26/530159142/mark-zuckerberg-tells-harvard-graduates-to-embrace-globalism-a-sense-of-purpose</guid>
-      <title>Mark Zuckerberg Tells Harvard Graduates To Embrace Globalism, &#39;A Sense Of Purpose&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/26/530159142/mark-zuckerberg-tells-harvard-graduates-to-embrace-globalism-a-sense-of-purpose</link>
-      <description>May 26, 2017 - The Facebook CEO said fighting authoritarianism and nationalism is &#34;the struggle of our time.&#34; Some have speculated he may run for office, though Zuckerberg has denied it.</description>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/gettyimages-688402250_wide-31ce9e7d495b6fb51cb3b9c792011c31e63ad682-s800-c15.jpg"></a>
-
-May 26, 2017 - The Facebook CEO said fighting authoritarianism and nationalism is "the struggle of our time." Some have speculated he may run for office, though Zuckerberg has denied it.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/26/530159142/mark-zuckerberg-tells-harvard-graduates-to-embrace-globalism-a-sense-of-purpose">http://www.npr.org/sections/thetwo-way/2017/05/26/530159142/mark-zuckerberg-tells-harvard-graduates-to-embrace-globalism-a-sense-of-purpose</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/gettyimages-688402250_wide-31ce9e7d495b6fb51cb3b9c792011c31e63ad682-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
