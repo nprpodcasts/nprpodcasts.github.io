@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2017 13:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 18:17:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 02 Jun 2017 13:00:21 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2017 18:17:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</guid>
+      <title>Many COPD Patients Struggle To Pay For Each Breath</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</link>
+      <description>June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can&#39;t afford the inhalers that keep them out of the emergency room.</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s800-c15.jpg"></a>
+
+June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can't afford the inhalers that keep them out of the emergency room.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath">http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</guid>
       <title>Do Carrots Really Help Your Vision?</title>
       <link>http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</link>
-      <description>June 2, 2017 - The orange vegetable helps us see — but that&#39;s different from helping us see better. That said, they are part of a diet designed for eye health.</description>
+      <description>June 2, 2017 - The orange vegetable helps us see — but that&#39;s different from improving our vision. That said, carrots are part of a diet designed for eye health.</description>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/19/5008140503_268c6e4358_b-1-_wide-aa123f157d78f87af5916666c8520d6ed08eee91-s800-c15.jpg"></a>
 
-June 2, 2017 - The orange vegetable helps us see — but that's different from helping us see better. That said, they are part of a diet designed for eye health.
+June 2, 2017 - The orange vegetable helps us see — but that's different from improving our vision. That said, carrots are part of a diet designed for eye health.
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision">http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/19/5008140503_268c6e4358_b-1-_wide-aa123f157d78f87af5916666c8520d6ed08eee91-s3000-c15.jpg"></itunes:image>
@@ -241,21 +256,6 @@ May 31, 2017 - Researchers are split on the issue. We asked our audience to weig
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards">http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/aid-1_wide-6117513f8733eb57f11dda487d44f6d7349f3256-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</guid>
-      <title>Medicare Advantage Insurers Settle Whistleblower Suit For $32 Million</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</link>
-      <description>May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-f2f9ac19dcf5155c4533cf5e7f289f2a742adc42-s800-c15.jpg"></a>
-
-May 31, 2017 - A former medical director at two Florida insurance companies alleged the companies inflated fees by making patients appear sicker than they were or exaggerating the treatment that was provided.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million">http://www.npr.org/sections/health-shots/2017/05/31/530868367/medicare-advantage-insurers-settle-whistleblower-suit-for-32-million</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/medical-billing-1_wide-f2f9ac19dcf5155c4533cf5e7f289f2a742adc42-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

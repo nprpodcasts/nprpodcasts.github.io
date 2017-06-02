@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2017 15:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 18:17:41 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 01 Jun 2017 15:00:08 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2017 18:17:41 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a3170601.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>A 1A Special: Putting Paris In Perspective</title>
+      <link>http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective</link>
+      <description>June 1, 2017 - President Trump has made his decision – and plans to withdraw the United States from the 2015 Paris climate agreement. It’s a move that places Washington at odds with virtually the entire international community.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a3170601.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 1, 2017 - President Trump has made his decision – and plans to withdraw the United States from the 2015 Paris climate agreement. It’s a move that places Washington at odds with virtually the entire international community.
+
+<a href="http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective">http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>3022</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</guid>
       <title>In $43 Million Settlement, Spotify Forced To Confront A Persistent Problem</title>
@@ -241,21 +256,6 @@ May 27, 2017 - Some compare the democratization of personal computing in the 197
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_uk_anti_terrorism_strategy.mp3?orgId=1&amp;topicId=1124&amp;d=262&amp;p=7&amp;story=530337262&amp;t=progseg&amp;e=530337192&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.K.&#39;s Anti-Terrorism Programs Under Scrutiny</title>
-      <link>http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</link>
-      <description>May 27, 2017 - Some of the U.K. government&#39;s responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/05/20170527_wesat_uk_anti_terrorism_strategy.mp3?orgId=1&amp;topicId=1124&amp;d=262&amp;p=7&amp;story=530337262&amp;t=progseg&amp;e=530337192&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 27, 2017 - Some of the U.K. government's responses to terrorism have been controversial. Scott Simon speaks with Clive Walker of the University of Leeds, part of a team of independent policy reviewers.
-
-<a href="http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny">http://www.npr.org/2017/05/27/530337262/u-k-s-anti-terrorism-programs-under-scrutiny</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>262</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
