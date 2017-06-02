@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2017 15:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 00:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 01 Jun 2017 15:00:06 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2017 00:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,55 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_using_music_and_rhythm_to_help_kids_with_grammar_skills.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723046&amp;t=progseg&amp;e=531016483&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Using Music And Rhythm To Help Kids With Grammar And Language</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language</link>
+      <description>June 1, 2017 - Researchers at Vanderbilt University Medical Center are studying how music and rhythm activities could help children who struggle with grammar and language development.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_using_music_and_rhythm_to_help_kids_with_grammar_skills.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723046&amp;t=progseg&amp;e=531016483&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/img_4228-1-_wide-6843cf0e9ab4e21630bd4d5175b07c05c73505f0-s800-c15.jpg"></a>
+
+June 1, 2017 - Researchers at Vanderbilt University Medical Center are studying how music and rhythm activities could help children who struggle with grammar and language development.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language">http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/img_4228-1-_wide-6843cf0e9ab4e21630bd4d5175b07c05c73505f0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>495</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</guid>
+      <title>3.6 Percent Of Americans Found To Have Food Allergies Or Intolerances </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</link>
+      <description>June 1, 2017 - A new study by researchers at Brigham and Women&#39;s Hospital finds that women and people of Asian descent are the most at risk and that shellfish is the most common allergen.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/gettyimages-686903394_wide-627d5f2d0feb4cc6c3b2c965c10b903be2c00e04-s800-c15.jpg"></a>
+
+June 1, 2017 - A new study by researchers at Brigham and Women's Hospital finds that women and people of Asian descent are the most at risk and that shellfish is the most common allergen.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances">http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-686903394_wide-627d5f2d0feb4cc6c3b2c965c10b903be2c00e04-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_a_face_in_the_brain.mp3?orgId=1&amp;topicId=1128&amp;d=196&amp;p=2&amp;story=530925382&amp;t=progseg&amp;e=531016483&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Cracking The Code That Lets The Brain ID Any Face, Fast</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast</link>
+      <description>June 1, 2017 - People and other primates have an amazing ability to instantly recognize faces. Scientists at Caltech found that we do that by having 205 specialized brain cells divvy up the task.</description>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_a_face_in_the_brain.mp3?orgId=1&amp;topicId=1128&amp;d=196&amp;p=2&amp;story=530925382&amp;t=progseg&amp;e=531016483&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/faces-grid-1_wide-ba0fd5e5b8162951f4bbed8a66895c14ed5e784e-s800-c15.png"></a>
+
+June 1, 2017 - People and other primates have an amazing ability to instantly recognize faces. Scientists at Caltech found that we do that by having 205 specialized brain cells divvy up the task.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast">http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/faces-grid-1_wide-ba0fd5e5b8162951f4bbed8a66895c14ed5e784e-s3000-c15.png"></itunes:image>
+      <itunes:duration>196</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170601.mp3?siteplayer=true&amp;dl=1</guid>
       <title>How Restricting Abortion Access Affects Rural America</title>
@@ -55,7 +104,7 @@ June 1, 2017 - Since ancient times, philosophers and scientists have viewed emot
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170601_me_an_anthropologist_discovers_the_terrible_emotion_locked_in_a_word.mp3?orgId=1&amp;topicId=1128&amp;d=424&amp;p=3&amp;story=529876861&amp;t=progseg&amp;e=531003775&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Invisibilia: A Man Finds A New Emotion Locked In A Word</title>
+      <title>Invisibilia: A Man Finds An Explosive Emotion Locked In A Word</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/01/529876861/an-anthropologist-discovers-the-terrible-emotion-locked-in-a-word</link>
       <description>June 1, 2017 - When anthropologist Renato Rosaldo went to live with a Philippine tribe that was known for beheading people, he couldn&#39;t grasp the emotion that fueled this violence. Then his wife suddenly died.</description>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -209,53 +258,6 @@ May 31, 2017 - A rules change lets insurers and brokers sell health coverage on 
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler">http://www.npr.org/sections/health-shots/2017/05/31/530724704/new-rules-may-make-online-health-insurance-sales-simpler</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/30/gettyimages-481125249_wide-a24393e5ddd18a4b72cc1c5f7231a621dc782ca9-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_13_reasons_why_not_michigan_teens_talk_honestly_about_suicide.mp3?orgId=1&amp;topicId=1029&amp;aggIds=4692815&amp;d=300&amp;p=2&amp;story=530769850&amp;t=progseg&amp;e=530711699&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>13 Reasons Why Not: Michigan Teens Talk Honestly About Suicide</title>
-      <link>http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide</link>
-      <description>May 30, 2017 - The popular Netflix show 13 Reasons Why is about a teen who commits suicide. Youth Radio brings us the story of one Michigan high school&#39;s project called 13 Reasons Why Not. It features 13 stories of students overcoming their struggles.</description>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_13_reasons_why_not_michigan_teens_talk_honestly_about_suicide.mp3?orgId=1&amp;topicId=1029&amp;aggIds=4692815&amp;d=300&amp;p=2&amp;story=530769850&amp;t=progseg&amp;e=530711699&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 30, 2017 - The popular Netflix show 13 Reasons Why is about a teen who commits suicide. Youth Radio brings us the story of one Michigan high school's project called 13 Reasons Why Not. It features 13 stories of students overcoming their struggles.
-
-<a href="http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide">http://www.npr.org/2017/05/30/530769850/13-reasons-why-not-michigan-teens-talk-honestly-about-suicide</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>300</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</guid>
-      <title>Powerful New Ebola Vaccine Heads To Congo To Help Stop Outbreak</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</link>
-      <description>May 30, 2017 - The Democratic Republic of Congo has been fighting a small Ebola outbreak since April. Now its government has given the green light to use a new Ebola vaccine.</description>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/30/gettyimages-465767080-55_wide-613a024b242244c89534bfc1a35d21a2cc7aa5ae-s800-c15.jpg"></a>
-
-May 30, 2017 - The Democratic Republic of Congo has been fighting a small Ebola outbreak since April. Now its government has given the green light to use a new Ebola vaccine.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak">http://www.npr.org/sections/goatsandsoda/2017/05/30/530742469/powerful-new-ebola-vaccine-heads-to-congo-to-help-stop-outbreak</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/gettyimages-465767080-55_wide-613a024b242244c89534bfc1a35d21a2cc7aa5ae-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_are_state_rules_for_treating_sepsis_really_saving_lives.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=530224517&amp;t=progseg&amp;e=530711699&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Are State Rules For Treating Sepsis Really Saving Lives?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</link>
-      <description>May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.</description>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170530_atc_are_state_rules_for_treating_sepsis_really_saving_lives.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=530224517&amp;t=progseg&amp;e=530711699&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s800-c15.jpg"></a>
-
-May 30, 2017 - Some states dictate how doctors must treat this life-threatening reaction to infection, and early intervention is helping. But scientific evidence may be changing too rapidly for the rules to keep up.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives">http://www.npr.org/sections/health-shots/2017/05/30/530224517/are-state-rules-for-treating-sepsis-really-saving-lives</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/iv-drip_wide-cfdf2aedecf11cfde833ad0a03db6b0d515dc61f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
