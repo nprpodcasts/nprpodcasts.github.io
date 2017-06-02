@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2017 00:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 13:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 02 Jun 2017 00:00:20 +0000</pubDate>
+    <pubDate>Fri, 02 Jun 2017 13:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</guid>
+      <title>The Role Of Yoga In Healing Trauma</title>
+      <link>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</link>
+      <description>June 2, 2017 - So-called &#39;trauma-aware yoga&#39; has mind and body benefits, says Georgetown research.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s800-c15.jpg"></a>
+
+June 2, 2017 - So-called 'trauma-aware yoga' has mind and body benefits, says Georgetown research.
+
+<a href="http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma">http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170602_me_why_recycling_options_can_lead_us_to_waste_more.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531173499&amp;t=progseg&amp;e=531173394&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Why Recycling Options Lead People To Waste More</title>
+      <link>http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more</link>
+      <description>June 2, 2017 - People used more cups and paper when recycling was an option versus when they had to put them in the trash. Researchers say people&#39;s guilt for wasting is overridden by the good feelings for recycling.</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170602_me_why_recycling_options_can_lead_us_to_waste_more.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531173499&amp;t=progseg&amp;e=531173394&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 2, 2017 - People used more cups and paper when recycling was an option versus when they had to put them in the trash. Researchers say people's guilt for wasting is overridden by the good feelings for recycling.
+
+<a href="http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more">http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>196</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/01/531090243/trumps-speech-on-paris-climate-agreement-withdrawal-annotated</guid>
       <title>Trump&#39;s Speech On Paris Climate Agreement Withdrawal, Annotated</title>
@@ -149,11 +179,11 @@ June 1, 2017 - Researchers at Vanderbilt University Medical Center are studying 
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_president_trump_decides_to_pull_us_out_of_paris_climate_agreement.mp3?orgId=1&amp;topicId=1025&amp;d=221&amp;p=2&amp;story=531098995&amp;t=progseg&amp;e=531016483&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>President Trump Decides To Pull U.S. Out Of Paris Climate Agreement</title>
       <link>http://www.npr.org/2017/06/01/531098995/president-trump-decides-to-pull-u-s-out-of-paris-climate-agreement</link>
-      <description>June 1, 2017 - President Trump announced Thursday the U.S. will leave the Paris Climate Agreement. The decision is likely to have a big impact on both the climate and environmental policy around the world.</description>
+      <description>June 1, 2017 - President Trump announced Thursday the U.S. will leave the Paris agreement. The decision is likely to have a big impact on both the climate and environmental policy around the world.</description>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_president_trump_decides_to_pull_us_out_of_paris_climate_agreement.mp3?orgId=1&amp;topicId=1025&amp;d=221&amp;p=2&amp;story=531098995&amp;t=progseg&amp;e=531016483&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 1, 2017 - President Trump announced Thursday the U.S. will leave the Paris Climate Agreement. The decision is likely to have a big impact on both the climate and environmental policy around the world.
+      <itunes:summary><![CDATA[June 1, 2017 - President Trump announced Thursday the U.S. will leave the Paris agreement. The decision is likely to have a big impact on both the climate and environmental policy around the world.
 
 <a href="http://www.npr.org/2017/06/01/531098995/president-trump-decides-to-pull-u-s-out-of-paris-climate-agreement">http://www.npr.org/2017/06/01/531098995/president-trump-decides-to-pull-u-s-out-of-paris-climate-agreement</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -222,36 +252,6 @@ June 1, 2017 - President Trump followed through on his campaign trail vow to exi
 <a href="http://the1a.org/shows/2017-06-01/missile-impossible-one-anti-ballistic-missile-test-down">http://the1a.org/shows/2017-06-01/missile-impossible-one-anti-ballistic-missile-test-down</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2829</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/01/529546810/how-new-roots-are-driving-an-apple-renaissance</guid>
-      <title>How New Roots Are Driving An Apple Renaissance</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/01/529546810/how-new-roots-are-driving-an-apple-renaissance</link>
-      <description>June 1, 2017 - The apple renaissance of recent years has given us new varieties of fruit. But that&#39;s only half of the story, and half of the tree. Another revolution is happening below ground, in the tree roots.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/31/img_5203_wide-4269fd3b9a0f55fa72e3a012cf7b3263b8c37ce5-s800-c15.jpg"></a>
-
-June 1, 2017 - The apple renaissance of recent years has given us new varieties of fruit. But that's only half of the story, and half of the tree. Another revolution is happening below ground, in the tree roots.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/01/529546810/how-new-roots-are-driving-an-apple-renaissance">http://www.npr.org/sections/thesalt/2017/06/01/529546810/how-new-roots-are-driving-an-apple-renaissance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/img_5203_wide-4269fd3b9a0f55fa72e3a012cf7b3263b8c37ce5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/01/530103479/the-making-of-emotions-from-pleasurable-fear-to-bittersweet-relief</guid>
-      <title>The Making Of Emotions, From Pleasurable Fear To Bittersweet Relief</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/01/530103479/the-making-of-emotions-from-pleasurable-fear-to-bittersweet-relief</link>
-      <description>June 1, 2017 - Since ancient times, philosophers and scientists have viewed emotions as innate. In the latest Invisibilia, a psychologist argues that emotions spring from the sum of our experiences, not just wiring.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/01/final-art_color_wide-72b59efb5dda5d39e0ddafecc48a41cd642bf237-s800-c15.jpg"></a>
-
-June 1, 2017 - Since ancient times, philosophers and scientists have viewed emotions as innate. In the latest Invisibilia, a psychologist argues that emotions spring from the sum of our experiences, not just wiring.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/01/530103479/the-making-of-emotions-from-pleasurable-fear-to-bittersweet-relief">http://www.npr.org/sections/health-shots/2017/06/01/530103479/the-making-of-emotions-from-pleasurable-fear-to-bittersweet-relief</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/final-art_color_wide-72b59efb5dda5d39e0ddafecc48a41cd642bf237-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
