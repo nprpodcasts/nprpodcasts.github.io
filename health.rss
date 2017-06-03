@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2017 18:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 07:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 02 Jun 2017 18:17:38 +0000</pubDate>
+    <pubDate>Sat, 03 Jun 2017 07:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,44 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</guid>
+      <title>A Botched Vaccine Campaign For Measles Killed 15 Children in South Sudan</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</link>
+      <description>June 2, 2017 - The children, all under age 5, died of severe sepsis and toxicity. How could something like this have happened?</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/gettyimages-478085318_wide-5b8660890cb8d77a21bd0f299068f51837afe589-s800-c15.jpg"></a>
+
+June 2, 2017 - The children, all under age 5, died of severe sepsis and toxicity. How could something like this have happened?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan">http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/gettyimages-478085318_wide-5b8660890cb8d77a21bd0f299068f51837afe589-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Soprano And The Scientist: A Conversation About Music And Medicine</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</link>
+      <description>June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s800-c15.jpg"></a>
+
+June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine">http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>495</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Many COPD Patients Struggle To Pay For Each Breath</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</link>
       <description>June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can&#39;t afford the inhalers that keep them out of the emergency room.</description>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s800-c15.jpg"></a>
 
@@ -36,6 +69,7 @@ June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary di
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath">http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +258,6 @@ May 31, 2017 - Leon Watts of Los Angeles has seen his clients' needs change as t
 <a href="http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans">http://www.npr.org/2017/05/31/530929915/research-shows-how-ptsd-can-trigger-growth-in-veterans</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_like_brain_boot_camp_using_music_to_ease_hearing_loss.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723021&amp;t=progseg&amp;e=530845747&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Like Brain Boot Camp&#39;: Using Music To Ease Hearing Loss</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</link>
-      <description>May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_like_brain_boot_camp_using_music_to_ease_hearing_loss.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723021&amp;t=progseg&amp;e=530845747&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s800-c15.jpg"></a>
-
-May 31, 2017 - Researchers in Toronto are studying whether singing in a choir and practicing pitch can help hearing-impaired people function better in noisy environments.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss">http://www.npr.org/sections/health-shots/2017/05/31/530723021/like-brain-boot-camp-using-music-to-ease-hearing-loss</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/30/toronto-1_wide-0308431503873bc3bd82d52b2c53b025a2036038-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</guid>
-      <title>We Asked, You Answered: Does U.S. Foreign Aid Raise Living Standards?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</link>
-      <description>May 31, 2017 - Researchers are split on the issue. We asked our audience to weigh in.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/aid-1_wide-6117513f8733eb57f11dda487d44f6d7349f3256-s800-c15.jpg"></a>
-
-May 31, 2017 - Researchers are split on the issue. We asked our audience to weigh in.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards">http://www.npr.org/sections/goatsandsoda/2017/05/31/530227945/we-asked-you-answered-does-u-s-foreign-aid-raise-living-standards</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/aid-1_wide-6117513f8733eb57f11dda487d44f6d7349f3256-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

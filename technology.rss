@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jun 2017 18:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 07:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 02 Jun 2017 18:17:41 +0000</pubDate>
+    <pubDate>Sat, 03 Jun 2017 07:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_massachusetts_tries_something_new_to_claim_taxes_from_online_sales.mp3?orgId=329&amp;topicId=1019&amp;d=239&amp;p=2&amp;story=531222247&amp;t=progseg&amp;e=531179732&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Massachusetts Tries Something New To Claim Taxes From Online Sales</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/02/531222247/massachusetts-tries-something-new-to-claim-taxes-from-online-sales</link>
+      <description>June 2, 2017 - States have long argued that they are losing millions of dollars in uncollected taxes from online sales. Massachusetts is now trying a very Internet answer to this Internet problem.</description>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_massachusetts_tries_something_new_to_claim_taxes_from_online_sales.mp3?orgId=329&amp;topicId=1019&amp;d=239&amp;p=2&amp;story=531222247&amp;t=progseg&amp;e=531179732&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/02/istock-487182426_wide-5210be7077ee848612f35b7e9c7330d83d15884b-s800-c15.jpg"></a>
+
+June 2, 2017 - States have long argued that they are losing millions of dollars in uncollected taxes from online sales. Massachusetts is now trying a very Internet answer to this Internet problem.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/02/531222247/massachusetts-tries-something-new-to-claim-taxes-from-online-sales">http://www.npr.org/sections/alltechconsidered/2017/06/02/531222247/massachusetts-tries-something-new-to-claim-taxes-from-online-sales</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/istock-487182426_wide-5210be7077ee848612f35b7e9c7330d83d15884b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>239</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/06/a3170601.mp3?siteplayer=true&amp;dl=1</guid>
       <title>A 1A Special: Putting Paris In Perspective</title>
@@ -241,21 +258,6 @@ May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber wit
 
 <a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</guid>
-      <title>How A Gene Editing Tool Went From Labs To A Middle-School Classroom</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</link>
-      <description>May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.</description>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s800-c15.jpg"></a>
-
-May 27, 2017 - Some compare the democratization of personal computing in the 1970s to the current changes in access to genetic engineering tools, in part thanks to the CRISPR gene editing tool.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom">http://www.npr.org/sections/alltechconsidered/2017/05/27/530210657/how-a-gene-editing-tool-went-from-labs-to-a-middle-school-classroom</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/img_4975_wide-26f503282f989cebd2ffa106ee7d9a6cce70b6b0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
