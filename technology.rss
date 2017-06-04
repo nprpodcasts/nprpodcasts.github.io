@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jun 2017 07:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jun 2017 02:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 03 Jun 2017 07:00:27 +0000</pubDate>
+    <pubDate>Sun, 04 Jun 2017 02:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170603_atc_videotapes_are_becoming_unwatchable_as_archivists_work_to_save_them.mp3?orgId=1&amp;topicId=1019&amp;d=236&amp;p=2&amp;story=529155865&amp;t=progseg&amp;e=531397391&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Videotapes Are Becoming Unwatchable As Archivists Work To Save Them</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/03/529155865/videotapes-are-becoming-unwatchable-as-archivists-work-to-save-them</link>
+      <description>June 3, 2017 - With VHS tapes degrading, most Americans&#39; home videos from the &#39;80s and &#39;90s won&#39;t be viewable in a decade. But there&#39;s a grassroots movement to preserve them for posterity.</description>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170603_atc_videotapes_are_becoming_unwatchable_as_archivists_work_to_save_them.mp3?orgId=1&amp;topicId=1019&amp;d=236&amp;p=2&amp;story=529155865&amp;t=progseg&amp;e=531397391&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/20/xfr_baltimore_50_wide-9395af0a2c1b819b479e3cbc9f04691bba29d11f-s800-c15.jpg"></a>
+
+June 3, 2017 - With VHS tapes degrading, most Americans' home videos from the '80s and '90s won't be viewable in a decade. But there's a grassroots movement to preserve them for posterity.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/03/529155865/videotapes-are-becoming-unwatchable-as-archivists-work-to-save-them">http://www.npr.org/sections/alltechconsidered/2017/06/03/529155865/videotapes-are-becoming-unwatchable-as-archivists-work-to-save-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/20/xfr_baltimore_50_wide-9395af0a2c1b819b479e3cbc9f04691bba29d11f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_massachusetts_tries_something_new_to_claim_taxes_from_online_sales.mp3?orgId=329&amp;topicId=1019&amp;d=239&amp;p=2&amp;story=531222247&amp;t=progseg&amp;e=531179732&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Massachusetts Tries Something New To Claim Taxes From Online Sales</title>
@@ -243,21 +260,6 @@ May 29, 2017 - A "catastrophic" IT systems failure has disrupted roughly 75,000 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery">http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/29/gettyimages-689031242_wide-9943f7fbd1982e5385448b613e3caa64f614b09e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</guid>
-      <title>In The Age Of Digital Medicine, The Humble Reflex Hammer Hangs On</title>
-      <link>http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</link>
-      <description>May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.</description>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s800-c15.jpg"></a>
-
-May 28, 2017 - Nearly 130 years since its inception, a modest knob of rubber with a metal handle is still invaluable in diagnosing disease and avoiding expensive testing. But its history is anything but simple.
-
-<a href="http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on">http://www.npr.org/sections/health-shots/2017/05/28/529821714/in-the-age-of-digital-medicine-the-humble-reflex-hammer-hangs-on</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/reflex-hammer_wide-6f68c9ffb006f5adf158400d3dd1e5db90c3e93c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
