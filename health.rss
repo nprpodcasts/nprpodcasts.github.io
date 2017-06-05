@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 00:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 16:26:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 00:00:30 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2017 16:26:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</guid>
+      <title>The Senate&#39;s 4 Big Problems With Health Care </title>
+      <link>http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</link>
+      <description>June 5, 2017 - Congress returns Monday from the Memorial Day recess without any discernible progress in the Senate on health care legislation — and time is getting short.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/ap_17143711235889_wide-ec5c74f20bc15ef24d41cc66d88dda23a7da9ae1-s800-c15.jpg"></a>
+
+June 5, 2017 - Congress returns Monday from the Memorial Day recess without any discernible progress in the Senate on health care legislation — and time is getting short.
+
+<a href="http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care">http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/ap_17143711235889_wide-ec5c74f20bc15ef24d41cc66d88dda23a7da9ae1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170605_me_in_texas_abstinence-only_programs_may_contribute_to_teen_pregnancies.mp3?orgId=77&amp;topicId=1128&amp;d=400&amp;p=3&amp;story=530922642&amp;t=progseg&amp;e=531525633&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Texas, Abstinence-Only Programs May Contribute To Teen Pregnancies</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/05/530922642/in-texas-abstinence-only-programs-may-contribute-to-teen-pregnancies</link>
+      <description>June 5, 2017 - Teenage pregnancy rates have declined across the country, but some parts of Texas have made much less progress on that. Abstinence-only sex ed policies may be one reason why.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170605_me_in_texas_abstinence-only_programs_may_contribute_to_teen_pregnancies.mp3?orgId=77&amp;topicId=1128&amp;d=400&amp;p=3&amp;story=530922642&amp;t=progseg&amp;e=531525633&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/chester-3_wide-b767d0c40e6cc95eb0f05829286b9031b9f54906-s800-c15.jpg"></a>
+
+June 5, 2017 - Teenage pregnancy rates have declined across the country, but some parts of Texas have made much less progress on that. Abstinence-only sex ed policies may be one reason why.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/05/530922642/in-texas-abstinence-only-programs-may-contribute-to-teen-pregnancies">http://www.npr.org/sections/health-shots/2017/06/05/530922642/in-texas-abstinence-only-programs-may-contribute-to-teen-pregnancies</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/chester-3_wide-b767d0c40e6cc95eb0f05829286b9031b9f54906-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>400</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/04/531051473/the-millennial-obsession-with-self-care</guid>
       <title>The Millennial Obsession With Self-Care</title>
@@ -224,38 +256,6 @@ June 1, 2017 - A new study by researchers at Brigham and Women's Hospital finds 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances">http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-686903394_wide-627d5f2d0feb4cc6c3b2c965c10b903be2c00e04-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_a_face_in_the_brain.mp3?orgId=1&amp;topicId=1128&amp;d=196&amp;p=2&amp;story=530925382&amp;t=progseg&amp;e=531016483&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Cracking The Code That Lets The Brain ID Any Face, Fast</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast</link>
-      <description>June 1, 2017 - People and other primates have an amazing ability to instantly recognize faces. Scientists at Caltech found that we do that by having 205 specialized brain cells divvy up the task.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_a_face_in_the_brain.mp3?orgId=1&amp;topicId=1128&amp;d=196&amp;p=2&amp;story=530925382&amp;t=progseg&amp;e=531016483&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/faces-grid-1_wide-ba0fd5e5b8162951f4bbed8a66895c14ed5e784e-s800-c15.png"></a>
-
-June 1, 2017 - People and other primates have an amazing ability to instantly recognize faces. Scientists at Caltech found that we do that by having 205 specialized brain cells divvy up the task.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast">http://www.npr.org/sections/health-shots/2017/06/01/530925382/cracking-the-code-that-lets-the-brain-id-any-face-fast</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/faces-grid-1_wide-ba0fd5e5b8162951f4bbed8a66895c14ed5e784e-s3000-c15.png"></itunes:image>
-      <itunes:duration>196</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170601.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>How Restricting Abortion Access Affects Rural America</title>
-      <link>http://the1a.org/shows/2017-06-01/how-restricting-abortion-access-affects-rural-america</link>
-      <description>June 1, 2017 - In many towns, the only access to care comes from clinics that also offer abortions. As these facilities continue to be shut down, how can women&#39;s healthcare needs be addressed?</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170601.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 1, 2017 - In many towns, the only access to care comes from clinics that also offer abortions. As these facilities continue to be shut down, how can women's healthcare needs be addressed?
-
-<a href="http://the1a.org/shows/2017-06-01/how-restricting-abortion-access-affects-rural-america">http://the1a.org/shows/2017-06-01/how-restricting-abortion-access-affects-rural-america</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2829</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

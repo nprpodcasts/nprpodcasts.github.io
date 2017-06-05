@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2017 02:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 16:26:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 04 Jun 2017 02:00:21 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2017 16:26:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</guid>
+      <title>Trump Announces Plan To Privatize Air Traffic Control</title>
+      <link>http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</link>
+      <description>June 5, 2017 - It&#39;s an idea long supported by most of the commercial airlines and the union who say the system is inefficient under the Federal Aviation Administration.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s800-c15.jpg"></a>
+
+June 5, 2017 - It's an idea long supported by most of the commercial airlines and the union who say the system is inefficient under the Federal Aviation Administration.
+
+<a href="http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control">http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170603_atc_videotapes_are_becoming_unwatchable_as_archivists_work_to_save_them.mp3?orgId=1&amp;topicId=1019&amp;d=236&amp;p=2&amp;story=529155865&amp;t=progseg&amp;e=531397391&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Videotapes Are Becoming Unwatchable As Archivists Work To Save Them</title>
@@ -245,21 +260,6 @@ May 29, 2017 - In some cases, the job of composer might be going the way of type
 <a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers">http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/27/istock-641120048_wide-0e4fb381252d27b5d44802c4a8349449f37df214-s3000-c15.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery</guid>
-      <title>On Day 3 Of Cancellation Chaos, British Airways Edges Closer To Recovery</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery</link>
-      <description>May 29, 2017 - A &#34;catastrophic&#34; IT systems failure has disrupted roughly 75,000 British Airways passengers&#39; flights since it struck the company Saturday morning. &#34;We profusely apologize,&#34; the airline&#39;s CEO said.</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/29/gettyimages-689031242_wide-9943f7fbd1982e5385448b613e3caa64f614b09e-s800-c15.jpg"></a>
-
-May 29, 2017 - A "catastrophic" IT systems failure has disrupted roughly 75,000 British Airways passengers' flights since it struck the company Saturday morning. "We profusely apologize," the airline's CEO said.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery">http://www.npr.org/sections/thetwo-way/2017/05/29/530587512/on-day-3-of-cancellation-chaos-british-airways-edges-closer-to-recovery</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/29/gettyimages-689031242_wide-9943f7fbd1982e5385448b613e3caa64f614b09e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
