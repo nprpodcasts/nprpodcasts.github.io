@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 16:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 23:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 16:26:29 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2017 23:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531561840/scientists-discover-a-scorched-planet-with-a-comet-like-tail</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</guid>
+      <title>Trump Administration Seeking Permits For Seismic Air Gun Surveys In Atlantic </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</link>
+      <description>June 5, 2017 - The proposal would allow five energy companies to incidentally harass ocean wildlife by using seismic air guns for oil and gas exploration, much to the chagrin of environmental groups.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_592934199876_wide-4c4402d622ca7d75d02a3a4103e39ef05c0f3041-s800-c15.jpg"></a>
+
+June 5, 2017 - The proposal would allow five energy companies to incidentally harass ocean wildlife by using seismic air guns for oil and gas exploration, much to the chagrin of environmental groups.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic">http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_592934199876_wide-4c4402d622ca7d75d02a3a4103e39ef05c0f3041-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_scientists_discover_a_scorched_planet_with_a_comet-like_tail.mp3?orgId=1&amp;topicId=1026&amp;d=167&amp;p=2&amp;story=531561840&amp;t=progseg&amp;e=531607251&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Discover A Scorched Planet With A Comet-Like Tail</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/06/05/531561840/scientists-discover-a-scorched-planet-with-a-comet-like-tail</link>
       <description>June 5, 2017 - The planet called KELT-9b is around three times more massive than Jupiter. It orbits a blue star about 650 light-years away from Earth that&#39;s nearly twice as hot as our own sun.</description>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_scientists_discover_a_scorched_planet_with_a_comet-like_tail.mp3?orgId=1&amp;topicId=1026&amp;d=167&amp;p=2&amp;story=531561840&amp;t=progseg&amp;e=531607251&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/05/hottest-jupiter-wide_wide-ee4d38d35d50837c404547a92ad4384bd36a26c9-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ June 5, 2017 - The planet called KELT-9b is around three times more massive than
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/05/531561840/scientists-discover-a-scorched-planet-with-a-comet-like-tail">http://www.npr.org/sections/thetwo-way/2017/06/05/531561840/scientists-discover-a-scorched-planet-with-a-comet-like-tail</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/05/hottest-jupiter-wide_wide-ee4d38d35d50837c404547a92ad4384bd36a26c9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>167</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ June 2, 2017 - So-called 'trauma-aware yoga' has mind and body benefits, says Ge
 
 <a href="http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma">http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170602_me_why_recycling_options_can_lead_us_to_waste_more.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531173499&amp;t=progseg&amp;e=531173394&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Recycling Options Lead People To Waste More</title>
-      <link>http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more</link>
-      <description>June 2, 2017 - People used more cups and paper when recycling was an option versus when they had to put them in the trash. Researchers say people&#39;s guilt for wasting is overridden by the good feelings for recycling.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170602_me_why_recycling_options_can_lead_us_to_waste_more.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531173499&amp;t=progseg&amp;e=531173394&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 2, 2017 - People used more cups and paper when recycling was an option versus when they had to put them in the trash. Researchers say people's guilt for wasting is overridden by the good feelings for recycling.
-
-<a href="http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more">http://www.npr.org/2017/06/02/531173499/why-recycling-options-lead-people-to-waste-more</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>196</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

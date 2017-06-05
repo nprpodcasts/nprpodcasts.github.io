@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 16:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 23:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 16:26:28 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2017 23:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,67 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_nj_technology.mp3?orgId=1&amp;topicId=1019&amp;d=339&amp;p=2&amp;story=531250084&amp;t=progseg&amp;e=531607251&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Before Silicon Valley, New Jersey Reigned As Nation&#39;s Center Of Innovation</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation</link>
+      <description>June 5, 2017 - Silicon Valley is known as the nation&#39;s tech hub, but decades ago New Jersey had that distinction. The state was once home to Thomas Edison&#39;s lab and Bell Labs, the home of Nobel laureates.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_nj_technology.mp3?orgId=1&amp;topicId=1019&amp;d=339&amp;p=2&amp;story=531250084&amp;t=progseg&amp;e=531607251&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/14-720-18-edison_wide-2e49b28f8f0e8e3b0b1987e7ffcc65e4a54b9ec1-s800-c15.jpg"></a>
+
+June 5, 2017 - Silicon Valley is known as the nation's tech hub, but decades ago New Jersey had that distinction. The state was once home to Thomas Edison's lab and Bell Labs, the home of Nobel laureates.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation">http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/14-720-18-edison_wide-2e49b28f8f0e8e3b0b1987e7ffcc65e4a54b9ec1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>339</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</guid>
+      <title>Apple Joins Smart-Speaker Race With Music-Focused &#39;HomePod&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</link>
+      <description>June 5, 2017 - The speaker is powered by Apple&#39;s personal assistant Siri and marks the long-awaited entry of the tech giant into competition with Amazon&#39;s and Google&#39;s smart home devices.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_17156696601334_wide-8ecf9f29c85d59189fe022fc23e1095ee7747ec8-s800-c15.jpg"></a>
+
+June 5, 2017 - The speaker is powered by Apple's personal assistant Siri and marks the long-awaited entry of the tech giant into competition with Amazon's and Google's smart home devices.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod">http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_17156696601334_wide-8ecf9f29c85d59189fe022fc23e1095ee7747ec8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_audible_offers_lottery_for_employees_to_live_1_year_rent-free_in_newark_nj.mp3?orgId=1&amp;topicId=1019&amp;d=141&amp;p=2&amp;story=531629211&amp;t=progseg&amp;e=531607251&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Audible Offers Lottery For Employees To Live 1 Year Rent-Free In Newark, N.J.</title>
+      <link>http://www.npr.org/2017/06/05/531629211/audible-offers-lottery-for-employees-to-live-1-year-rent-free-in-newark-n-j</link>
+      <description>June 5, 2017 - The headquarters for  Audible are in Newark, N.J. Earlier this year, it offered a lottery for employees — free rent for a year to live in an a building in downtown of the much-maligned city.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_audible_offers_lottery_for_employees_to_live_1_year_rent-free_in_newark_nj.mp3?orgId=1&amp;topicId=1019&amp;d=141&amp;p=2&amp;story=531629211&amp;t=progseg&amp;e=531607251&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 5, 2017 - The headquarters for  Audible are in Newark, N.J. Earlier this year, it offered a lottery for employees — free rent for a year to live in an a building in downtown of the much-maligned city.
+
+<a href="http://www.npr.org/2017/06/05/531629211/audible-offers-lottery-for-employees-to-live-1-year-rent-free-in-newark-n-j">http://www.npr.org/2017/06/05/531629211/audible-offers-lottery-for-employees-to-live-1-year-rent-free-in-newark-n-j</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>141</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_trump_announces_plan_to_privatize_air_traffic_control.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=531574945&amp;t=progseg&amp;e=531607251&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump Announces Plan To Privatize Air Traffic Control</title>
       <link>http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</link>
-      <description>June 5, 2017 - It&#39;s an idea long supported by most of the commercial airlines and the union who say the system is inefficient under the Federal Aviation Administration.</description>
+      <description>June 5, 2017 - It&#39;s an idea long supported by most of the commercial airlines and the union, which say the system is inefficient under the Federal Aviation Administration.</description>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_trump_announces_plan_to_privatize_air_traffic_control.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=531574945&amp;t=progseg&amp;e=531607251&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s800-c15.jpg"></a>
 
-June 5, 2017 - It's an idea long supported by most of the commercial airlines and the union who say the system is inefficient under the Federal Aviation Administration.
+June 5, 2017 - It's an idea long supported by most of the commercial airlines and the union, which say the system is inefficient under the Federal Aviation Administration.
 
 <a href="http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control">http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -211,55 +260,6 @@ May 31, 2017 - A human rights group finds itself with an interesting problem —
 <a href="http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos">http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s3000-c15.jpg"></itunes:image>
       <itunes:duration>336</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_prisoners_and_babies_first_steps.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=525874568&amp;t=progseg&amp;e=530560423&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Flipbooks Help Prisoners Stay Connected To Their Loved Ones</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</link>
-      <description>May 29, 2017 - For people in prison, rules limiting access to technology make seeing video of their kids&#39; first steps difficult. But a Colorado woman is using a 19th century solution for this 21st century problem.</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_prisoners_and_babies_first_steps.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=525874568&amp;t=progseg&amp;e=530560423&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s800-c15.jpg"></a>
-
-May 29, 2017 - For people in prison, rules limiting access to technology make seeing video of their kids' first steps difficult. But a Colorado woman is using a 19th century solution for this 21st century problem.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones">http://www.npr.org/sections/alltechconsidered/2017/05/29/525874568/flipbooks-help-prisoners-stay-connected-to-their-loved-ones</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/27/flipbookphoto1_cc_wide-cafceb3a6f0bef5fdd40e1ce86600646a32ea456-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_british_airways_it_meltdown_leaves_passengers_stranded.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=530617251&amp;t=progseg&amp;e=530560423&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>British Airways IT Meltdown Leaves Passengers Stranded</title>
-      <link>http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</link>
-      <description>May 29, 2017 - NPR&#39;s Robert Siegel speaks with Robert Wall of The Wall Street Journal about the British Airways software issue which required cancelling flights.</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_british_airways_it_meltdown_leaves_passengers_stranded.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=530617251&amp;t=progseg&amp;e=530560423&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 29, 2017 - NPR's Robert Siegel speaks with Robert Wall of The Wall Street Journal about the British Airways software issue which required cancelling flights.
-
-<a href="http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded">http://www.npr.org/2017/05/29/530617251/british-airways-it-meltdown-leaves-passengers-stranded</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_for_video_soundtracks_computers_are_the_new_composers.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=2&amp;story=530259126&amp;t=progseg&amp;e=530560423&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>For Video Soundtracks, Computers Are The New Composers</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</link>
-      <description>May 29, 2017 - In some cases, the job of composer might be going the way of typewriter repairman and bowling pinsetter as software creates music more cheaply and quickly than humans. Can you hear the difference?</description>
-      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170529_atc_for_video_soundtracks_computers_are_the_new_composers.mp3?orgId=1&amp;topicId=1019&amp;d=232&amp;p=2&amp;story=530259126&amp;t=progseg&amp;e=530560423&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/27/istock-641120048_wide-0e4fb381252d27b5d44802c4a8349449f37df214-s800-c15.jpg"></a>
-
-May 29, 2017 - In some cases, the job of composer might be going the way of typewriter repairman and bowling pinsetter as software creates music more cheaply and quickly than humans. Can you hear the difference?
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers">http://www.npr.org/sections/alltechconsidered/2017/05/29/530259126/for-video-soundtracks-computers-are-the-new-composers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/27/istock-641120048_wide-0e4fb381252d27b5d44802c4a8349449f37df214-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

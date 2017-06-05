@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 16:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 23:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 16:26:30 +0000</pubDate>
+    <pubDate>Mon, 05 Jun 2017 23:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,76 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd</guid>
+      <title>What&#39;s The Rate Of Smoking In The 13- To 15-Year-Old Crowd?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd</link>
+      <description>June 5, 2017 - A lot of them smoke, though percentages vary widely from country to country for various reasons. When cigarettes sell for 10 cents each, that&#39;s definitely a boost for smoking.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/smoking_wide-2cc06114865b5d9c94fb8ec1049363faf3748afd-s800-c15.jpg"></a>
+
+June 5, 2017 - A lot of them smoke, though percentages vary widely from country to country for various reasons. When cigarettes sell for 10 cents each, that's definitely a boost for smoking.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd">http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/smoking_wide-2cc06114865b5d9c94fb8ec1049363faf3748afd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</guid>
+      <title>Babies Sleep Better In Their Own Rooms After 4 Months, Study Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</link>
+      <description>June 5, 2017 - The American Academy of Pediatrics recommends that infants sleep in their parents&#39; room for at least six months. But some experts say scientific evidence does not back up the guidelines.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/05/baby-sleep_wide-6110debf7e4015587d6687b6fe3d3851c0bc5134-s800-c15.jpg"></a>
+
+June 5, 2017 - The American Academy of Pediatrics recommends that infants sleep in their parents' room for at least six months. But some experts say scientific evidence does not back up the guidelines.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds">http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/baby-sleep_wide-6110debf7e4015587d6687b6fe3d3851c0bc5134-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_wisconsin_family_stays_together_with_help_from_medicaid.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=2&amp;story=531572792&amp;t=progseg&amp;e=531607251&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Wisconsin Family Stays Together With Help From Medicaid</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid</link>
+      <description>June 5, 2017 - While Medicaid is best known as a health care program for poor people, more than 80 percent of its budget goes to care for elderly people, disabled people and children.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_wisconsin_family_stays_together_with_help_from_medicaid.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=2&amp;story=531572792&amp;t=progseg&amp;e=531607251&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/05/gapinski-4_wide-6fa00a0c7598d9da3e0133507f4830e1ba6e42e4-s800-c15.jpg"></a>
+
+June 5, 2017 - While Medicaid is best known as a health care program for poor people, more than 80 percent of its budget goes to care for elderly people, disabled people and children.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid">http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/gapinski-4_wide-6fa00a0c7598d9da3e0133507f4830e1ba6e42e4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>243</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_fewer_women_need_to_undergo_repeat_surgery_after_lumpectomy.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=531583177&amp;t=progseg&amp;e=531607251&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Fewer Women Need To Undergo Repeat Surgery After Lumpectomy</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/05/531583177/fewer-women-need-to-undergo-repeat-surgery-after-lumpectomy</link>
+      <description>June 5, 2017 - A change in guidelines for lumpectomy surgery in 2014 has already reduced the number of women undergoing additional surgery, including mastectomy, by 16 percent.</description>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_fewer_women_need_to_undergo_repeat_surgery_after_lumpectomy.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=531583177&amp;t=progseg&amp;e=531607251&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/05/surgery_wide-f920a766311c3d6b1805d5313027216264916904-s800-c15.jpg"></a>
+
+June 5, 2017 - A change in guidelines for lumpectomy surgery in 2014 has already reduced the number of women undergoing additional surgery, including mastectomy, by 16 percent.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/05/531583177/fewer-women-need-to-undergo-repeat-surgery-after-lumpectomy">http://www.npr.org/sections/health-shots/2017/06/05/531583177/fewer-women-need-to-undergo-repeat-surgery-after-lumpectomy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/surgery_wide-f920a766311c3d6b1805d5313027216264916904-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_the_senates_4_big_problems_with_health_care_.mp3?orgId=1&amp;topicId=1014&amp;d=259&amp;p=2&amp;story=531221275&amp;t=progseg&amp;e=531607251&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Senate&#39;s 4 Big Problems With Health Care </title>
       <link>http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</link>
       <description>June 5, 2017 - Congress returns Monday from the Memorial Day recess without any discernible progress in the Senate on health care legislation — and time is getting short.</description>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_the_senates_4_big_problems_with_health_care_.mp3?orgId=1&amp;topicId=1014&amp;d=259&amp;p=2&amp;story=531221275&amp;t=progseg&amp;e=531607251&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/ap_17143711235889_wide-ec5c74f20bc15ef24d41cc66d88dda23a7da9ae1-s800-c15.jpg"></a>
 
@@ -36,6 +101,7 @@ June 5, 2017 - Congress returns Monday from the Memorial Day recess without any 
 
 <a href="http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care">http://www.npr.org/2017/06/05/531221275/the-senates-4-big-problems-with-health-care</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/02/ap_17143711235889_wide-ec5c74f20bc15ef24d41cc66d88dda23a7da9ae1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>259</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -194,68 +260,6 @@ June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary di
 <a href="http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath">http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</guid>
-      <title>Do Carrots Really Help Your Vision?</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</link>
-      <description>June 2, 2017 - The orange vegetable helps us see — but that&#39;s different from improving our vision. That said, carrots are part of a diet designed for eye health.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/19/5008140503_268c6e4358_b-1-_wide-aa123f157d78f87af5916666c8520d6ed08eee91-s800-c15.jpg"></a>
-
-June 2, 2017 - The orange vegetable helps us see — but that's different from improving our vision. That said, carrots are part of a diet designed for eye health.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision">http://www.npr.org/sections/thesalt/2017/06/02/529142959/do-carrots-really-help-your-vision</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/5008140503_268c6e4358_b-1-_wide-aa123f157d78f87af5916666c8520d6ed08eee91-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</guid>
-      <title>The Role Of Yoga In Healing Trauma</title>
-      <link>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</link>
-      <description>June 2, 2017 - So-called &#39;trauma-aware yoga&#39; has mind and body benefits, says Georgetown research.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s800-c15.jpg"></a>
-
-June 2, 2017 - So-called 'trauma-aware yoga' has mind and body benefits, says Georgetown research.
-
-<a href="http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma">http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_using_music_and_rhythm_to_help_kids_with_grammar_skills.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723046&amp;t=progseg&amp;e=531016483&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Using Music And Rhythm To Help Kids With Grammar And Language</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language</link>
-      <description>June 1, 2017 - Researchers at Vanderbilt University Medical Center are studying how music and rhythm activities could help children who struggle with grammar and language development.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170601_atc_using_music_and_rhythm_to_help_kids_with_grammar_skills.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530723046&amp;t=progseg&amp;e=531016483&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/img_4228-1-_wide-6843cf0e9ab4e21630bd4d5175b07c05c73505f0-s800-c15.jpg"></a>
-
-June 1, 2017 - Researchers at Vanderbilt University Medical Center are studying how music and rhythm activities could help children who struggle with grammar and language development.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language">http://www.npr.org/sections/health-shots/2017/06/01/530723046/using-music-and-rhythm-to-help-kids-with-grammar-and-language</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/img_4228-1-_wide-6843cf0e9ab4e21630bd4d5175b07c05c73505f0-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</guid>
-      <title>3.6 Percent Of Americans Found To Have Food Allergies Or Intolerances </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</link>
-      <description>June 1, 2017 - A new study by researchers at Brigham and Women&#39;s Hospital finds that women and people of Asian descent are the most at risk and that shellfish is the most common allergen.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/gettyimages-686903394_wide-627d5f2d0feb4cc6c3b2c965c10b903be2c00e04-s800-c15.jpg"></a>
-
-June 1, 2017 - A new study by researchers at Brigham and Women's Hospital finds that women and people of Asian descent are the most at risk and that shellfish is the most common allergen.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances">http://www.npr.org/sections/thetwo-way/2017/06/01/531088344/3-6-percent-of-americans-found-to-have-food-allergies-or-intolerances</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-686903394_wide-627d5f2d0feb4cc6c3b2c965c10b903be2c00e04-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
