@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 23:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 13:29:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 23:00:25 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 13:29:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</guid>
+      <title>Feds To Waive Penalties For Some Who Signed Up Late For Medicare</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</link>
+      <description>June 6, 2017 - People who mistakenly stayed on marketplace health plans after they qualified for Medicare may be eligible to have Medicare penalties reduced or waived, if they apply for the waiver by Sept. 30.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/medicare-penalty_wide-d4b84eee2e80f3d3ee48c6cb7c88d57396e02ba4-s800-c15.jpg"></a>
+
+June 6, 2017 - People who mistakenly stayed on marketplace health plans after they qualified for Medicare may be eligible to have Medicare penalties reduced or waived, if they apply for the waiver by Sept. 30.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare">http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/medicare-penalty_wide-d4b84eee2e80f3d3ee48c6cb7c88d57396e02ba4-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_disability_advocates_fear_impact_of_medicaid_cuts_in_gop_health_plan.mp3?orgId=295&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=530025557&amp;t=progseg&amp;e=531690143&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Disability Advocates Fear Impact Of Medicaid Cuts In GOP Health Plan</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/06/530025557/disability-advocates-fear-impact-of-medicaid-cuts-in-gop-health-plan</link>
+      <description>June 6, 2017 - Evan Nodvin has lived on his own since after high school. But since he has Down syndrome, he does that with help from Medicaid. The Trump administration is threatening deep cuts to the program.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_disability_advocates_fear_impact_of_medicaid_cuts_in_gop_health_plan.mp3?orgId=295&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=530025557&amp;t=progseg&amp;e=531690143&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/26/yu-georgiadisabilities-evannodvinphoto_wide-a3fe45f1f6ef5156ff3116eebcec5541eeeaa9f0-s800-c15.jpg"></a>
+
+June 6, 2017 - Evan Nodvin has lived on his own since after high school. But since he has Down syndrome, he does that with help from Medicaid. The Trump administration is threatening deep cuts to the program.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/06/530025557/disability-advocates-fear-impact-of-medicaid-cuts-in-gop-health-plan">http://www.npr.org/sections/health-shots/2017/06/06/530025557/disability-advocates-fear-impact-of-medicaid-cuts-in-gop-health-plan</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/yu-georgiadisabilities-evannodvinphoto_wide-a3fe45f1f6ef5156ff3116eebcec5541eeeaa9f0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd</guid>
       <title>What&#39;s The Rate Of Smoking In The 13- To 15-Year-Old Crowd?</title>
@@ -226,40 +258,6 @@ June 2, 2017 - The children, all under age 5, died of severe sepsis and toxicity
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan">http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/02/gettyimages-478085318_wide-5b8660890cb8d77a21bd0f299068f51837afe589-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Soprano And The Scientist: A Conversation About Music And Medicine</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</link>
-      <description>June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s800-c15.jpg"></a>
-
-June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine">http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Many COPD Patients Struggle To Pay For Each Breath</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</link>
-      <description>June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can&#39;t afford the inhalers that keep them out of the emergency room.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s800-c15.jpg"></a>
-
-June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can't afford the inhalers that keep them out of the emergency room.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath">http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

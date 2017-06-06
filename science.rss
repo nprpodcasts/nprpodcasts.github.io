@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 13:29:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 23:00:22 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 13:29:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</guid>
+      <title>VIDEO: Get To Know The Bloodthirsty (But Cuddly) Vampire Bat</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</link>
+      <description>June 6, 2017 - In Latin America, they drink the blood of big animals and can spread rabies. Livestock die. So do people. Ranchers want to wipe the bats out. Does anyone think that&#39;s a bad idea?</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s800-c15.jpg"></a>
+
+June 6, 2017 - In Latin America, they drink the blood of big animals and can spread rabies. Livestock die. So do people. Ranchers want to wipe the bats out. Does anyone think that's a bad idea?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat">http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_what_kind_of_information_is_in_the_white_house_visitor_log.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531701357&amp;t=progseg&amp;e=531690143&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Researchers Ferret Out Information From White House Visitor Logs </title>
+      <link>http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs</link>
+      <description>June 6, 2017 - President Trump has decided to change President Obama&#39;s policy of making the White House visitor log public. A new study explores what kind of information is contained in the White House visitor log.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_what_kind_of_information_is_in_the_white_house_visitor_log.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531701357&amp;t=progseg&amp;e=531690143&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 6, 2017 - President Trump has decided to change President Obama's policy of making the White House visitor log public. A new study explores what kind of information is contained in the White House visitor log.
+
+<a href="http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs">http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>196</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</guid>
       <title>Trump Administration Seeking Permits For Seismic Air Gun Surveys In Atlantic </title>
@@ -220,38 +250,6 @@ June 2, 2017 - "Americans will honor and fulfill the Paris Agreement by leading 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/02/531238185/bloomberg-promises-15-million-to-help-make-up-for-u-s-withdrawal-from-climate-de">http://www.npr.org/sections/thetwo-way/2017/06/02/531238185/bloomberg-promises-15-million-to-help-make-up-for-u-s-withdrawal-from-climate-de</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/02/ap_51294841507_wide-2cb528fdc876468820d41fb7a33a59b837b1e569-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Many COPD Patients Struggle To Pay For Each Breath</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</link>
-      <description>June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can&#39;t afford the inhalers that keep them out of the emergency room.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_many_copd_patients_struggle_to_pay_for_each_breath.mp3?orgId=105043435&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=529759280&amp;t=progseg&amp;e=531179732&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s800-c15.jpg"></a>
-
-June 2, 2017 - One in 9 Medicare enrollees have chronic obstructive pulmonary disease, and many of them can't afford the inhalers that keep them out of the emergency room.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath">http://www.npr.org/sections/health-shots/2017/06/02/529759280/many-copd-patients-struggle-to-pay-for-each-breath</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/24/copd-1_wide-4fb081b85eac0fe942010c8c8d39c9852dc5359a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</guid>
-      <title>The Role Of Yoga In Healing Trauma</title>
-      <link>http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</link>
-      <description>June 2, 2017 - So-called &#39;trauma-aware yoga&#39; has mind and body benefits, says Georgetown research.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s800-c15.jpg"></a>
-
-June 2, 2017 - So-called 'trauma-aware yoga' has mind and body benefits, says Georgetown research.
-
-<a href="http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma">http://www.npr.org/sections/ed/2017/06/02/527570310/the-role-of-yoga-in-healing-trauma</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/23/ljohnson_yoga-greater-than-trauma_wide-f4e2b5bb2ac423aaf520387fd87ae43f4fac9e12-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
