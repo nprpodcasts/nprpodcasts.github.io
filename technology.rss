@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 18:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 06 Jun 2017 18:00:13 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</guid>
+      <title>Apple Takes On Distracted Driving With New Feature</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</link>
+      <description>June 6, 2017 - The new feature blocks notifications while users are driving, but a loophole could still allow text messages to pop up.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/06/gettyimages-692623118_wide-8dd4166e5386da22cc12cd5b9dadac4308c92326-s800-c15.jpg"></a>
+
+June 6, 2017 - The new feature blocks notifications while users are driving, but a loophole could still allow text messages to pop up.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature">http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/gettyimages-692623118_wide-8dd4166e5386da22cc12cd5b9dadac4308c92326-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/06/531747037/the-internet-of-things-is-becoming-more-difficult-to-escape</guid>
+      <title>The Internet Of Things Is Becoming More Difficult To Escape</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/06/531747037/the-internet-of-things-is-becoming-more-difficult-to-escape</link>
+      <description>June 6, 2017 - In coming years, human and machine connectivity will continue to progress, despite concerns about vulnerabilities, making it increasingly difficult to withdraw from online tools, experts say.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/06/istock-507710032_wide-16def6f4e68e21e8a3b850bd6f7bae8830894473-s800-c15.jpg"></a>
+
+June 6, 2017 - In coming years, human and machine connectivity will continue to progress, despite concerns about vulnerabilities, making it increasingly difficult to withdraw from online tools, experts say.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/06/531747037/the-internet-of-things-is-becoming-more-difficult-to-escape">http://www.npr.org/sections/alltechconsidered/2017/06/06/531747037/the-internet-of-things-is-becoming-more-difficult-to-escape</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/istock-507710032_wide-16def6f4e68e21e8a3b850bd6f7bae8830894473-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170606.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Can The Democracy Survive The Internet?: Lessons From 2016</title>
@@ -228,36 +258,6 @@ May 31, 2017 - In the late summer of 1982, one man worked around the clock to pr
 <a href="http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game">http://www.npr.org/2017/05/31/530235165/total-failure-the-worlds-worst-video-game</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/30/illustration-failure-et-1_wide-69bc290976021b40e54e85ff6270799e10bfccd7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>604</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/05/a2170531-1.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Call Me: Why Backchannels Matter</title>
-      <link>http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</link>
-      <description>May 31, 2017 - What are backchannels with foreign nations for? And can they be abused?&#xA;&#xA; - http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a2170531-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 31, 2017 - What are backchannels with foreign nations for? And can they be abused?
-
-<a href="http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter">http://the1a.org/shows/2017-05-31/call-me-why-backchannels-matter</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>659</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/05/a1170531.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Internet&#39;s First Amendment: The New Fight For Net Neutrality</title>
-      <link>http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</link>
-      <description>May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/05/a1170531.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 31, 2017 - The head of the Federal Communications Commission plans to change the rules on Net Neutrality. But consumer advocates say the move would largely leave the industry to police itself. How do we keep the internet open, free AND competitive?
-
-<a href="http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality">http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2828</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

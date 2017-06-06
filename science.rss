@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 19:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 21:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 06 Jun 2017 19:00:11 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 21:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,15 +24,32 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Polar Photographer Shares His View Of A Ferocious But Fragile Ecosystem</title>
+      <link>http://www.npr.org/2017/06/06/531735345/polar-photographer-shares-his-view-of-a-ferocious-but-fragile-ecosystem</link>
+      <description>June 6, 2017 - Paul Nicklen has spent decades documenting the Arctic and the Antarctic. &#34;I want people to realize that ice is like the soil in the garden,&#34; he says. &#34;Without ice the polar regions cannot exist.&#34;</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/leopard-seal-0013_wide-a52dd22a3b2f96a2a1017448956ab447ffa09c08-s800-c15.jpg"></a>
+
+June 6, 2017 - Paul Nicklen has spent decades documenting the Arctic and the Antarctic. "I want people to realize that ice is like the soil in the garden," he says. "Without ice the polar regions cannot exist."
+
+<a href="http://www.npr.org/2017/06/06/531735345/polar-photographer-shares-his-view-of-a-ferocious-but-fragile-ecosystem">http://www.npr.org/2017/06/06/531735345/polar-photographer-shares-his-view-of-a-ferocious-but-fragile-ecosystem</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/leopard-seal-0013_wide-a52dd22a3b2f96a2a1017448956ab447ffa09c08-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2667</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/06/531580368/photos-here-s-what-climate-change-looks-like-to-uganda-s-coffee-farmers</guid>
       <title>PHOTOS: Here&#39;s What Climate Change Looks Like To Uganda&#39;s Coffee Farmers</title>
       <link>http://www.npr.org/sections/thesalt/2017/06/06/531580368/photos-here-s-what-climate-change-looks-like-to-uganda-s-coffee-farmers</link>
-      <description>June 6, 2017 - Coffee is Uganda&#39;s most valuable industry, but climate change could cut production by half by 2050. Small farmers there area already feeling the effects, as they document in these photos.</description>
+      <description>June 6, 2017 - Coffee is Uganda&#39;s most valuable industry, but climate change could cut production by half by 2050. Small farmers there are already feeling the effects, as they document in these photos.</description>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/05/self-portrait_34515983492_o_wide-1307d7d9a2ceaf8d35b3ec4dbd7aa620888d2668-s800-c15.jpg"></a>
 
-June 6, 2017 - Coffee is Uganda's most valuable industry, but climate change could cut production by half by 2050. Small farmers there area already feeling the effects, as they document in these photos.
+June 6, 2017 - Coffee is Uganda's most valuable industry, but climate change could cut production by half by 2050. Small farmers there are already feeling the effects, as they document in these photos.
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/06/531580368/photos-here-s-what-climate-change-looks-like-to-uganda-s-coffee-farmers">http://www.npr.org/sections/thesalt/2017/06/06/531580368/photos-here-s-what-climate-change-looks-like-to-uganda-s-coffee-farmers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/05/self-portrait_34515983492_o_wide-1307d7d9a2ceaf8d35b3ec4dbd7aa620888d2668-s3000-c15.jpg"></itunes:image>
@@ -233,23 +250,6 @@ June 4, 2017 - The actor's new book, If I Understood You, Would I Have This Look
 <a href="http://www.npr.org/2017/06/02/531269011/white-house-defends-u-s-withdrawal-from-paris-climate-agreement">http://www.npr.org/2017/06/02/531269011/white-house-defends-u-s-withdrawal-from-paris-climate-agreement</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Soprano And The Scientist: A Conversation About Music And Medicine</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</link>
-      <description>June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_the_soprano_and_the_scientist_a_conversation_about_music_and_medicine.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=530879198&amp;t=progseg&amp;e=531179732&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s800-c15.jpg"></a>
-
-June 2, 2017 - NIH Director Francis Collins and Renée Fleming, who is Artistic Advisor at Large for the Kennedy Center in Washington, D.C., discuss music and medicine. They also sing a duet.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine">http://www.npr.org/sections/health-shots/2017/06/02/530879198/the-soprano-and-the-scientist-a-conversation-about-music-and-medicine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/6f6a7343-2_wide-38753ee75fced9e02e5f54c9d877a8bdce867837-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

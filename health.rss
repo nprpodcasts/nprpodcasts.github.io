@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 18:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 21:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 06 Jun 2017 18:00:21 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 21:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</guid>
+      <title>He Called Himself An &#39;Honorary Woman&#39;: Remembering A U.N. Crusader</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</link>
+      <description>June 6, 2017 - Dr. Babatunde Osotimehin, who died on Sunday, was the director of the U.N.s lead agency on family planning and maternal health.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/gettyimages-459173304_1_wide-bfcad0878b52f824737fe19141264f484fef52b8-s800-c15.jpg"></a>
+
+June 6, 2017 - Dr. Babatunde Osotimehin, who died on Sunday, was the director of the U.N.s lead agency on family planning and maternal health.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader">http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/gettyimages-459173304_1_wide-bfcad0878b52f824737fe19141264f484fef52b8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</guid>
       <title>Protected But Priced Out: Patients Worry About Health Law&#39;s Future In Arizona</title>
@@ -45,12 +60,12 @@ June 6, 2017 - Corinne Bobbie has a love-hate relationship with the Affordable C
       <description>June 6, 2017 - The CDC says health care facilities such as nursing homes and hospitals need to work harder to prevent contamination with the bacterium that causes the potentially life-threatening form of pneumonia.</description>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-b545ba87969fb4c629ab5a97a47aab499e35acf5-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-60808903cd123170a0c09a3a883aca61cad105e6-s800-c15.jpg"></a>
 
 June 6, 2017 - The CDC says health care facilities such as nursing homes and hospitals need to work harder to prevent contamination with the bacterium that causes the potentially life-threatening form of pneumonia.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease">http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-b545ba87969fb4c629ab5a97a47aab499e35acf5-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-60808903cd123170a0c09a3a883aca61cad105e6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ June 4, 2017 - The actor's new book, If I Understood You, Would I Have This Look
 <a href="http://www.npr.org/sections/health-shots/2017/06/04/531271710/alan-aldas-experiment-helping-scientists-learn-to-talk-to-the-rest-of-us">http://www.npr.org/sections/health-shots/2017/06/04/531271710/alan-aldas-experiment-helping-scientists-learn-to-talk-to-the-rest-of-us</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/02/ap_080907061016_wide-8980fadba195f2cfa1612d6f1ebc53de9a1c509e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>420</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis</guid>
-      <title>A Different Kind Of Pickup: Prostitutes Turn To Driving Motorbike Taxis</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis</link>
-      <description>June 4, 2017 - A group of 18 prostitutes and 17 unemployed women in Sierra Leone were trained to drive motorcycle taxis. The money was great. But now there&#39;s a big catch.</description>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/19/mariatu-on-the-path-beside-her-house_wide-8cb7fa9abbbc827cdbe320a2c61af58c86cb9ad4-s800-c15.jpg"></a>
-
-June 4, 2017 - A group of 18 prostitutes and 17 unemployed women in Sierra Leone were trained to drive motorcycle taxis. The money was great. But now there's a big catch.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis">http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/19/mariatu-on-the-path-beside-her-house_wide-8cb7fa9abbbc827cdbe320a2c61af58c86cb9ad4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
