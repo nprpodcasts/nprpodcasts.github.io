@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 21:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 23:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 06 Jun 2017 21:00:26 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 23:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -56,11 +56,12 @@ June 6, 2017 - Coffee is Uganda's most valuable industry, but climate change cou
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_video_get_to_know_the_bloodthirsty_but_cuddly_vampire_bat.mp3?orgId=1&amp;topicId=1132&amp;d=261&amp;p=2&amp;story=529853739&amp;t=progseg&amp;e=531730065&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>VIDEO: Get To Know The Bloodthirsty (But Cuddly) Vampire Bat</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</link>
       <description>June 6, 2017 - In Latin America, they drink the blood of big animals and can spread rabies. Livestock die. So do people. Ranchers want to wipe the bats out. Does anyone think that&#39;s a bad idea?</description>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_video_get_to_know_the_bloodthirsty_but_cuddly_vampire_bat.mp3?orgId=1&amp;topicId=1132&amp;d=261&amp;p=2&amp;story=529853739&amp;t=progseg&amp;e=531730065&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s800-c15.jpg"></a>
 
@@ -68,6 +69,7 @@ June 6, 2017 - In Latin America, they drink the blood of big animals and can spr
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat">http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
