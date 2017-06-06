@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 13:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 18:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 06 Jun 2017 13:29:20 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 18:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</guid>
+      <title>Protected But Priced Out: Patients Worry About Health Law&#39;s Future In Arizona</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</link>
+      <description>June 6, 2017 - Corinne Bobbie has a love-hate relationship with the Affordable Care Act. As the GOP tries to repeal the law, the experiences and fears of voters like Bobbie could determine a politician&#39;s fate.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/photo-4_wide-95ef6007819dd0439b6f942ce95b8b13266499a5-s800-c15.jpg"></a>
+
+June 6, 2017 - Corinne Bobbie has a love-hate relationship with the Affordable Care Act. As the GOP tries to repeal the law, the experiences and fears of voters like Bobbie could determine a politician's fate.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona">http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/photo-4_wide-95ef6007819dd0439b6f942ce95b8b13266499a5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease</guid>
+      <title>Plumbing In Hospitals And Nursing Homes Can Spread Legionnaires&#39; Disease</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease</link>
+      <description>June 6, 2017 - The CDC says health care facilities such as nursing homes and hospitals need to work harder to prevent contamination with the bacterium that causes the potentially life-threatening form of pneumonia.</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-b545ba87969fb4c629ab5a97a47aab499e35acf5-s800-c15.jpg"></a>
+
+June 6, 2017 - The CDC says health care facilities such as nursing homes and hospitals need to work harder to prevent contamination with the bacterium that causes the potentially life-threatening form of pneumonia.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease">http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-b545ba87969fb4c629ab5a97a47aab499e35acf5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</guid>
       <title>Feds To Waive Penalties For Some Who Signed Up Late For Medicare</title>
@@ -228,36 +258,6 @@ June 4, 2017 - A group of 18 prostitutes and 17 unemployed women in Sierra Leone
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis">http://www.npr.org/sections/goatsandsoda/2017/06/04/528509723/a-different-kind-of-pickup-prostitutes-turn-to-driving-motorbike-taxis</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/19/mariatu-on-the-path-beside-her-house_wide-8cb7fa9abbbc827cdbe320a2c61af58c86cb9ad4-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/04/527574473/our-last-year-together-what-my-camera-captured-as-my-parents-died-of-cancer</guid>
-      <title>Our Last Year Together: What My Camera Captured As My Parents Died Of Cancer</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/04/527574473/our-last-year-together-what-my-camera-captured-as-my-parents-died-of-cancer</link>
-      <description>June 4, 2017 - Photographer Nancy Borowick captured her parents&#39; deep love and joy in life, even as they endured treatment in their 50s for the cancers they knew would soon kill them.</description>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/10/borowick-2_wide-1effbed0c28db535fddb500a1264b70fd2b19360-s800-c15.jpg"></a>
-
-June 4, 2017 - Photographer Nancy Borowick captured her parents' deep love and joy in life, even as they endured treatment in their 50s for the cancers they knew would soon kill them.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/04/527574473/our-last-year-together-what-my-camera-captured-as-my-parents-died-of-cancer">http://www.npr.org/sections/health-shots/2017/06/04/527574473/our-last-year-together-what-my-camera-captured-as-my-parents-died-of-cancer</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/10/borowick-2_wide-1effbed0c28db535fddb500a1264b70fd2b19360-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</guid>
-      <title>A Botched Vaccine Campaign For Measles Killed 15 Children in South Sudan</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</link>
-      <description>June 2, 2017 - The children, all under age 5, died of severe sepsis and toxicity. How could something like this have happened?</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/gettyimages-478085318_wide-5b8660890cb8d77a21bd0f299068f51837afe589-s800-c15.jpg"></a>
-
-June 2, 2017 - The children, all under age 5, died of severe sepsis and toxicity. How could something like this have happened?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan">http://www.npr.org/sections/goatsandsoda/2017/06/02/531268150/a-botched-vaccine-campaign-for-measles-killed-15-children-in-south-sudan</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/gettyimages-478085318_wide-5b8660890cb8d77a21bd0f299068f51837afe589-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 23:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 18:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 05 Jun 2017 23:00:28 +0000</pubDate>
+    <pubDate>Tue, 06 Jun 2017 18:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170606.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Can The Democracy Survive The Internet?: Lessons From 2016</title>
+      <link>http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet</link>
+      <description>June 6, 2017 - &#34;Can democracy survive the Internet?&#34; Why one scholar was prompted to explore that question following the 2016 U.S. election.&#xA;&#xA; - http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet</description>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170606.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 6, 2017 - "Can democracy survive the Internet?" Why one scholar was prompted to explore that question following the 2016 U.S. election.
+
+<a href="http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet">http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2828</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_nj_technology.mp3?orgId=1&amp;topicId=1019&amp;d=339&amp;p=2&amp;story=531250084&amp;t=progseg&amp;e=531607251&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Before Silicon Valley, New Jersey Reigned As Nation&#39;s Center Of Innovation</title>
@@ -243,23 +258,6 @@ May 31, 2017 - In the late summer of 1982, one man worked around the clock to pr
 <a href="http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality">http://the1a.org/shows/2017-05-31/the-battle-over-net-neutrality</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2828</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Activists Build Human Rights Abuse Cases With Help From Cellphone Videos</title>
-      <link>http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</link>
-      <description>May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalog as it builds legal cases. Computer scientists are creating tools to analyze the videos.</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_digitizing_human_rights_abuses.mp3?orgId=1&amp;topicId=1009&amp;aggIds=156490415&amp;d=336&amp;p=3&amp;story=529825301&amp;t=progseg&amp;e=530842588&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s800-c15.jpg"></a>
-
-May 31, 2017 - A human rights group finds itself with an interesting problem — an overwhelming number of videos to catalog as it builds legal cases. Computer scientists are creating tools to analyze the videos.
-
-<a href="http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos">http://www.npr.org/sections/parallels/2017/05/31/529825301/activists-build-human-rights-abuse-cases-with-help-from-cellphone-videos</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/26/human-rights-1_wide-6b4e1f650ed9e19e28cfcffa3c7fe1cdeb4b9308-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>336</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
