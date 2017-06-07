@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 19:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 21:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 07 Jun 2017 19:00:21 +0000</pubDate>
+    <pubDate>Wed, 07 Jun 2017 21:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users</guid>
+      <title>Free Speech Legal Center Threatens To Sue Trump For Blocking Twitter Users</title>
+      <link>http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users</link>
+      <description>June 7, 2017 - A First Amendment law center at Columbia University is threatening to sue President Trump if he doesn&#39;t stop blocking people whose comments he doesn&#39;t like on Twitter. The group says Trump cannot lawfully block people from viewing what they contend are presidential statements.</description>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 7, 2017 - A First Amendment law center at Columbia University is threatening to sue President Trump if he doesn't stop blocking people whose comments he doesn't like on Twitter. The group says Trump cannot lawfully block people from viewing what they contend are presidential statements.
+
+<a href="http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users">http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170607.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Can The Nation&#39;s Voting System Be Trusted?</title>
@@ -241,21 +254,6 @@ May 31, 2017 - The Federal Trade Commission sued the retail giant over charges i
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/05/31/530903237/amazon-offers-refunds-for-childrens-unauthorized-in-app-purchases">http://www.npr.org/sections/thetwo-way/2017/05/31/530903237/amazon-offers-refunds-for-childrens-unauthorized-in-app-purchases</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/31/gettyimages-460308440_wide-bff56c4e99b03570f54ae0f082483bcf946e4ea5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_in_remote_southern_california_desert_us_army_tests_advanced_cyber_weapons.mp3?orgId=1&amp;topicId=1091&amp;d=232&amp;p=2&amp;story=530929908&amp;t=progseg&amp;e=530845747&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Remote Southern California Desert, U.S. Army Tests Advanced Cyber Weapons</title>
-      <link>http://www.npr.org/2017/05/31/530929908/in-remote-southern-california-desert-u-s-army-tests-advanced-cyber-weapons</link>
-      <description>May 31, 2017 - Soldiers at the remote Fort Irwin, Calif., center are training with a new generation of cyber weapons. Turns out, electronic gizmos can make a difference on a real life battlefield.</description>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/05/20170531_atc_in_remote_southern_california_desert_us_army_tests_advanced_cyber_weapons.mp3?orgId=1&amp;topicId=1091&amp;d=232&amp;p=2&amp;story=530929908&amp;t=progseg&amp;e=530845747&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[May 31, 2017 - Soldiers at the remote Fort Irwin, Calif., center are training with a new generation of cyber weapons. Turns out, electronic gizmos can make a difference on a real life battlefield.
-
-<a href="http://www.npr.org/2017/05/31/530929908/in-remote-southern-california-desert-u-s-army-tests-advanced-cyber-weapons">http://www.npr.org/2017/05/31/530929908/in-remote-southern-california-desert-u-s-army-tests-advanced-cyber-weapons</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
