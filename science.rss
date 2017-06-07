@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 18:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 19:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 07 Jun 2017 18:00:25 +0000</pubDate>
+    <pubDate>Wed, 07 Jun 2017 19:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170607-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>How Alan Alda Makes Science Understandable</title>
+      <link>http://the1a.org/shows/2017-06-07/alan-alda-makes-science-understandable-with-improv</link>
+      <description>June 7, 2017 - How do you communicate complex ideas effectively? How do scientists and doctors get their findings across to a needing public?&#xA;&#xA; - http://the1a.org/shows/2017-06-07/alan-alda-makes-science-understandable-with-improv</description>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170607-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 7, 2017 - How do you communicate complex ideas effectively? How do scientists and doctors get their findings across to a needing public?
+
+<a href="http://the1a.org/shows/2017-06-07/alan-alda-makes-science-understandable-with-improv">http://the1a.org/shows/2017-06-07/alan-alda-makes-science-understandable-with-improv</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2113</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/07/531112519/travel-through-time-with-a-whale-detective</guid>
       <title>Travel Through Time With A Whale Detective </title>
@@ -237,21 +252,6 @@ June 4, 2017 - The actor's new book, If I Understood You, Would I Have This Look
 <a href="http://www.npr.org/2017/06/03/531397394/former-energy-secretary-says-climate-change-needs-a-robust-response">http://www.npr.org/2017/06/03/531397394/former-energy-secretary-says-climate-change-needs-a-robust-response</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>417</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_what_leaving_the_paris_climate_accord_means_for_corporations.mp3?orgId=1&amp;topicId=1006&amp;d=231&amp;p=2&amp;story=531269074&amp;t=progseg&amp;e=531179732&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Leaving The Paris Climate Accord Means For Corporations</title>
-      <link>http://www.npr.org/2017/06/02/531269074/what-leaving-the-paris-climate-accord-means-for-corporations</link>
-      <description>June 2, 2017 - NPR&#39;s Robert Siegel talks with Christopher Flavelle, who covers climate change for Bloomberg, about some of the corporate winners and losers of President Trump&#39;s decision to withdraw from the Paris Climate Agreement.</description>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170602_atc_what_leaving_the_paris_climate_accord_means_for_corporations.mp3?orgId=1&amp;topicId=1006&amp;d=231&amp;p=2&amp;story=531269074&amp;t=progseg&amp;e=531179732&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 2, 2017 - NPR's Robert Siegel talks with Christopher Flavelle, who covers climate change for Bloomberg, about some of the corporate winners and losers of President Trump's decision to withdraw from the Paris Climate Agreement.
-
-<a href="http://www.npr.org/2017/06/02/531269074/what-leaving-the-paris-climate-accord-means-for-corporations">http://www.npr.org/2017/06/02/531269074/what-leaving-the-paris-climate-accord-means-for-corporations</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>231</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
