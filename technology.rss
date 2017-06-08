@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 16:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 19:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 08 Jun 2017 16:00:17 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 19:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170608.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>How Schools, Parents And Organizations Are Trying To Close The Achievement Gap</title>
+      <link>http://the1a.org/shows/2017-06-08/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap</link>
+      <description>June 8, 2017 - The achievement gap between white students and students of color is narrowing. What will it take to close it for good?&#xA;&#xA; - http://the1a.org/shows/2017-06-08/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170608.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 8, 2017 - The achievement gap between white students and students of color is narrowing. What will it take to close it for good?
+
+<a href="http://the1a.org/shows/2017-06-08/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap">http://the1a.org/shows/2017-06-08/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2822</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/08/531771780/spies-in-the-field-as-farming-goes-high-tech-espionage-threat-grows</guid>
       <title>Spies In The Field: As Farming Goes High-Tech, Espionage Threat Grows</title>
@@ -241,21 +256,6 @@ June 2, 2017 - States have long argued that they are losing millions of dollars 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/02/531222247/massachusetts-tries-something-new-to-claim-taxes-from-online-sales">http://www.npr.org/sections/alltechconsidered/2017/06/02/531222247/massachusetts-tries-something-new-to-claim-taxes-from-online-sales</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/02/istock-487182426_wide-5210be7077ee848612f35b7e9c7330d83d15884b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a3170601.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>A 1A Special: Putting Paris In Perspective</title>
-      <link>http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective</link>
-      <description>June 1, 2017 - President Trump has made his decision – and plans to withdraw the United States from the 2015 Paris climate agreement. It’s a move that places Washington at odds with virtually the entire international community.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a3170601.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 1, 2017 - President Trump has made his decision – and plans to withdraw the United States from the 2015 Paris climate agreement. It’s a move that places Washington at odds with virtually the entire international community.
-
-<a href="http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective">http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>3022</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
