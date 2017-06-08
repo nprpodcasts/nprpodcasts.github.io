@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 08:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 16:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 08 Jun 2017 08:00:27 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 16:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/08/531796329/eager-to-burst-his-own-bubble-a-techie-made-apps-to-randomize-his-life</guid>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/08/531771780/spies-in-the-field-as-farming-goes-high-tech-espionage-threat-grows</guid>
+      <title>Spies In The Field: As Farming Goes High-Tech, Espionage Threat Grows</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/08/531771780/spies-in-the-field-as-farming-goes-high-tech-espionage-threat-grows</link>
+      <description>June 8, 2017 - Recent cases involving Chinese nationals conspiring to steal trade secrets — from gene-spliced rice to corn seed — have highlighted the risk of intellectual property theft from U.S. companies.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/06/060117_tradesecrets_biology_wide-cd7ff375198f8c776b26fffd06622caa978e0d9f-s800-c15.jpg"></a>
+
+June 8, 2017 - Recent cases involving Chinese nationals conspiring to steal trade secrets — from gene-spliced rice to corn seed — have highlighted the risk of intellectual property theft from U.S. companies.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/08/531771780/spies-in-the-field-as-farming-goes-high-tech-espionage-threat-grows">http://www.npr.org/sections/thesalt/2017/06/08/531771780/spies-in-the-field-as-farming-goes-high-tech-espionage-threat-grows</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/060117_tradesecrets_biology_wide-cd7ff375198f8c776b26fffd06622caa978e0d9f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_uber_drivers_dont_feel_like_their_own_bosses.mp3?orgId=1&amp;topicId=1006&amp;d=337&amp;p=3&amp;story=532022847&amp;t=progseg&amp;e=532022674&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Uber Drivers Don&#39;t Feel Like Their Own Bosses</title>
+      <link>http://www.npr.org/2017/06/08/532022847/uber-drivers-dont-feel-like-their-own-bosses</link>
+      <description>June 8, 2017 - Uber says drivers can each be their &#34;own boss.&#34; But in an NPR survey, hundreds of drivers said they don&#39;t feel that way. They feel controlled by a boss that is both always there, and yet faceless.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_uber_drivers_dont_feel_like_their_own_bosses.mp3?orgId=1&amp;topicId=1006&amp;d=337&amp;p=3&amp;story=532022847&amp;t=progseg&amp;e=532022674&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 8, 2017 - Uber says drivers can each be their "own boss." But in an NPR survey, hundreds of drivers said they don't feel that way. They feel controlled by a boss that is both always there, and yet faceless.
+
+<a href="http://www.npr.org/2017/06/08/532022847/uber-drivers-dont-feel-like-their-own-bosses">http://www.npr.org/2017/06/08/532022847/uber-drivers-dont-feel-like-their-own-bosses</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>337</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_eager_to_burst_his_own_bubble_a_techie_made_apps_to_randomize_his_life.mp3?orgId=1&amp;topicId=1019&amp;d=419&amp;p=3&amp;story=531796329&amp;t=progseg&amp;e=532022674&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Eager To Burst His Own Bubble, A Techie Made Apps To Randomize His Life</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/06/08/531796329/eager-to-burst-his-own-bubble-a-techie-made-apps-to-randomize-his-life</link>
       <description>June 8, 2017 - Suddenly aware of repetitive feedback loops in his life, Max Hawkins created apps that decided where he should go, what strangers&#39; parties he should attend, even how he should spend Christmas.</description>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_eager_to_burst_his_own_bubble_a_techie_made_apps_to_randomize_his_life.mp3?orgId=1&amp;topicId=1019&amp;d=419&amp;p=3&amp;story=531796329&amp;t=progseg&amp;e=532022674&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/07/gortina_slovenia32_wide-c56011876f85c7b7c7b765583881c4b843818b2a-s800-c15.jpg"></a>
 
@@ -36,6 +67,7 @@ June 8, 2017 - Suddenly aware of repetitive feedback loops in his life, Max Hawk
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/08/531796329/eager-to-burst-his-own-bubble-a-techie-made-apps-to-randomize-his-life">http://www.npr.org/sections/alltechconsidered/2017/06/08/531796329/eager-to-burst-his-own-bubble-a-techie-made-apps-to-randomize-his-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/07/gortina_slovenia32_wide-c56011876f85c7b7c7b765583881c4b843818b2a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>419</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +256,6 @@ June 2, 2017 - States have long argued that they are losing millions of dollars 
 <a href="http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective">http://the1a.org/shows/2017-06-01/a-1a-special-putting-paris-in-perspective</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>3022</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</guid>
-      <title>In $43 Million Settlement, Spotify Forced To Confront A Persistent Problem</title>
-      <link>http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</link>
-      <description>June 1, 2017 - The streaming service settled a class action lawsuit filed by songwriters who accused Spotify of using their work without a license.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/01/gettyimages-515510598_wide-59214da87dde2eaabe5875473dd06117b39cf232-s800-c15.jpg"></a>
-
-June 1, 2017 - The streaming service settled a class action lawsuit filed by songwriters who accused Spotify of using their work without a license.
-
-<a href="http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem">http://www.npr.org/sections/therecord/2017/06/01/531029555/in-43-million-settlement-spotify-forced-to-confront-a-persistent-problem</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-515510598_wide-59214da87dde2eaabe5875473dd06117b39cf232-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_blocked_by_russian_media_opposition_takes_to_youtube.mp3?orgId=1&amp;topicId=1004&amp;d=217&amp;story=530322343&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Banned From Russian TV, A Putin Critic Gets His Message Out On YouTube</title>
-      <link>http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube</link>
-      <description>June 1, 2017 - Anti-corruption campaigner Alexei Navalny is calling for nationwide protests and wants to be president. The Kremlin is scrambling to respond to the freewheeling weekly show he&#39;s started on YouTube.</description>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/05/20170531_me_blocked_by_russian_media_opposition_takes_to_youtube.mp3?orgId=1&amp;topicId=1004&amp;d=217&amp;story=530322343&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/31/ap_17145412243581_wide-67db43fed30e5f3f4040148b23184c27cc15d259-s800-c15.jpg"></a>
-
-June 1, 2017 - Anti-corruption campaigner Alexei Navalny is calling for nationwide protests and wants to be president. The Kremlin is scrambling to respond to the freewheeling weekly show he's started on YouTube.
-
-<a href="http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube">http://www.npr.org/sections/parallels/2017/06/01/530322343/banned-from-russian-tv-a-putin-critic-gets-his-message-out-on-youtube</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/ap_17145412243581_wide-67db43fed30e5f3f4040148b23184c27cc15d259-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>217</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

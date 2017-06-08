@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 23:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 16:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 07 Jun 2017 23:00:06 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 16:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,50 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170607_invsb_reality1.mp3?orgId=1&amp;topicId=1128&amp;d=2641&amp;story=531787586&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Invisibilia: Should Wild Bears Be Feared Or Befriended? </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended</link>
+      <description>June 8, 2017 - A photographer who walks deep into the woods in search of a wild bear wonders if his curiosity will overcome his fear. Can bears and humans co-exist?</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170607_invsb_reality1.mp3?orgId=1&amp;topicId=1128&amp;d=2641&amp;story=531787586&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/bears-1_wide-b091ad676967dbb2595d8c6d5803deb0ac8f3d0c-s800-c15.jpg"></a>
+
+June 8, 2017 - A photographer who walks deep into the woods in search of a wild bear wonders if his curiosity will overcome his fear. Can bears and humans co-exist?
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended">http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/bears-1_wide-b091ad676967dbb2595d8c6d5803deb0ac8f3d0c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2641</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</guid>
+      <title>Learn To Sniff Like A Dog And Experience The World In A New Way</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</link>
+      <description>June 8, 2017 - We humans think we don&#39;t have a very good sense of smell. But psychologist Alexandra Horowitz says dogs can show us how to train our noses so they give us a window into a secret world.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/07/alex-1_wide-8219ca68b89f75484de5f41a02aff0a643b50515-s800-c15.jpg"></a>
+
+June 8, 2017 - We humans think we don't have a very good sense of smell. But psychologist Alexandra Horowitz says dogs can show us how to train our noses so they give us a window into a secret world.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way">http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/alex-1_wide-8219ca68b89f75484de5f41a02aff0a643b50515-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</guid>
       <title>If You See Dirty Water, Don&#39;t Just Gripe. Talk To The Cloud!</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</link>
       <description>June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.</description>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/12/water-testing-in-india2_wide-f9c4deaab6dfa3aba40d3706eba410316ff8791f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/07/india-pollution_wide-63941a1edad53bd11a33e3898126f8dc574d803c-s800-c15.jpg"></a>
 
 June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud">http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/water-testing-in-india2_wide-f9c4deaab6dfa3aba40d3706eba410316ff8791f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/india-pollution_wide-63941a1edad53bd11a33e3898126f8dc574d803c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -58,7 +90,7 @@ June 7, 2017 - Research indicates a significant number of the tumors detected th
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170607_atc_3150000-year-old_fossils_from_morocco_could_be_earliest_recorded_homo_sapiens.mp3?orgId=1&amp;topicId=1007&amp;d=136&amp;p=2&amp;story=531804528&amp;t=progseg&amp;e=531882676&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>315,000-Year-Old Fossils From Morocco Could Be Earliest Recorded Homo Sapiens</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</link>
+      <link>http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</link>
       <description>June 7, 2017 - Scientists who found the fossils believe they are the remains of five people and far older than all previous finds. But how do the remains really fit into the bushy family tree of modern humans?</description>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170607_atc_3150000-year-old_fossils_from_morocco_could_be_earliest_recorded_homo_sapiens.mp3?orgId=1&amp;topicId=1007&amp;d=136&amp;p=2&amp;story=531804528&amp;t=progseg&amp;e=531882676&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
@@ -67,7 +99,7 @@ June 7, 2017 - Research indicates a significant number of the tumors detected th
 
 June 7, 2017 - Scientists who found the fossils believe they are the remains of five people and far older than all previous finds. But how do the remains really fit into the bushy family tree of modern humans?
 
-<a href="http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens">http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</a>]]></itunes:summary>
+<a href="http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens">http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/07/figure-8_wide-7fd87c5d113f46c49fd7b205fc2216179346066c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>136</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -228,38 +260,6 @@ June 5, 2017 - A lot of them smoke, though percentages vary widely from country 
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd">http://www.npr.org/sections/goatsandsoda/2017/06/05/531045350/whats-the-rate-of-smoking-in-the-13-to-15-year-old-crowd</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/smoking_wide-2cc06114865b5d9c94fb8ec1049363faf3748afd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</guid>
-      <title>Babies Sleep Better In Their Own Rooms After 4 Months, Study Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</link>
-      <description>June 5, 2017 - The American Academy of Pediatrics recommends that infants sleep in their parents&#39; room for at least six months. But some experts say scientific evidence does not back up the guidelines.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/05/baby-sleep_wide-6110debf7e4015587d6687b6fe3d3851c0bc5134-s800-c15.jpg"></a>
-
-June 5, 2017 - The American Academy of Pediatrics recommends that infants sleep in their parents' room for at least six months. But some experts say scientific evidence does not back up the guidelines.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds">http://www.npr.org/sections/health-shots/2017/06/05/531582634/babies-sleep-better-in-their-own-rooms-after-4-months-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/baby-sleep_wide-6110debf7e4015587d6687b6fe3d3851c0bc5134-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_wisconsin_family_stays_together_with_help_from_medicaid.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=2&amp;story=531572792&amp;t=progseg&amp;e=531607251&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Wisconsin Family Stays Together With Help From Medicaid</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid</link>
-      <description>June 5, 2017 - While Medicaid is best known as a health care program for poor people, more than 80 percent of its budget goes to care for elderly people, disabled people and children.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_wisconsin_family_stays_together_with_help_from_medicaid.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=2&amp;story=531572792&amp;t=progseg&amp;e=531607251&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/05/gapinski-4_wide-6fa00a0c7598d9da3e0133507f4830e1ba6e42e4-s800-c15.jpg"></a>
-
-June 5, 2017 - While Medicaid is best known as a health care program for poor people, more than 80 percent of its budget goes to care for elderly people, disabled people and children.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid">http://www.npr.org/sections/health-shots/2017/06/05/531572792/wisconsin-family-stays-together-with-help-from-medicaid</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/gapinski-4_wide-6fa00a0c7598d9da3e0133507f4830e1ba6e42e4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>243</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 16:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 07 Jun 2017 22:00:07 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 16:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</guid>
-      <title>If You See Dirty Water, Don&#39;t Just Gripe. Talk To The Cloud!</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</link>
-      <description>June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.</description>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170607_invsb_reality1.mp3?orgId=1&amp;topicId=1128&amp;d=2641&amp;story=531787586&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Invisibilia: Should Wild Bears Be Feared Or Befriended? </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended</link>
+      <description>June 8, 2017 - A photographer who walks deep into the woods in search of a wild bear wonders if his curiosity will overcome his fear. Can bears and humans co-exist?</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170607_invsb_reality1.mp3?orgId=1&amp;topicId=1128&amp;d=2641&amp;story=531787586&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/05/12/water-testing-in-india2_wide-f9c4deaab6dfa3aba40d3706eba410316ff8791f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/bears-1_wide-b091ad676967dbb2595d8c6d5803deb0ac8f3d0c-s800-c15.jpg"></a>
 
-June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.
+June 8, 2017 - A photographer who walks deep into the woods in search of a wild bear wonders if his curiosity will overcome his fear. Can bears and humans co-exist?
 
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud">http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/water-testing-in-india2_wide-f9c4deaab6dfa3aba40d3706eba410316ff8791f-s3000-c15.jpg"></itunes:image>
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended">http://www.npr.org/sections/health-shots/2017/06/08/531787586/invisibilia-should-wild-bears-be-feared-or-befriended</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/bears-1_wide-b091ad676967dbb2595d8c6d5803deb0ac8f3d0c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2641</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</guid>
+      <title>Learn To Sniff Like A Dog And Experience The World In A New Way</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</link>
+      <description>June 8, 2017 - We humans think we don&#39;t have a very good sense of smell. But psychologist Alexandra Horowitz says dogs can show us how to train our noses so they give us a window into a secret world.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/07/alex-1_wide-8219ca68b89f75484de5f41a02aff0a643b50515-s800-c15.jpg"></a>
+
+June 8, 2017 - We humans think we don't have a very good sense of smell. But psychologist Alexandra Horowitz says dogs can show us how to train our noses so they give us a window into a secret world.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way">http://www.npr.org/sections/health-shots/2017/06/08/531744473/learn-to-sniff-like-a-dog-and-experience-the-world-in-a-new-way</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/alex-1_wide-8219ca68b89f75484de5f41a02aff0a643b50515-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -54,9 +71,24 @@ June 7, 2017 - Right now, the government rents farmland to help protect soil and
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</guid>
+      <title>If You See Dirty Water, Don&#39;t Just Gripe. Talk To The Cloud!</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</link>
+      <description>June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.</description>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/07/india-pollution_wide-63941a1edad53bd11a33e3898126f8dc574d803c-s800-c15.jpg"></a>
+
+June 7, 2017 - Scientists and activists in India are training citizens to collect information on water issues like contamination — and upload it so it can be used to push for change.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud">http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/india-pollution_wide-63941a1edad53bd11a33e3898126f8dc574d803c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170607_atc_3150000-year-old_fossils_from_morocco_could_be_earliest_recorded_homo_sapiens.mp3?orgId=1&amp;topicId=1007&amp;d=136&amp;p=2&amp;story=531804528&amp;t=progseg&amp;e=531882676&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>315,000-Year-Old Fossils From Morocco Could Be Earliest Recorded Homo Sapiens</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</link>
+      <link>http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</link>
       <description>June 7, 2017 - Scientists who found the fossils believe they are the remains of five people and far older than all previous finds. But how do the remains really fit into the bushy family tree of modern humans?</description>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170607_atc_3150000-year-old_fossils_from_morocco_could_be_earliest_recorded_homo_sapiens.mp3?orgId=1&amp;topicId=1007&amp;d=136&amp;p=2&amp;story=531804528&amp;t=progseg&amp;e=531882676&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
@@ -65,7 +97,7 @@ June 7, 2017 - Right now, the government rents farmland to help protect soil and
 
 June 7, 2017 - Scientists who found the fossils believe they are the remains of five people and far older than all previous finds. But how do the remains really fit into the bushy family tree of modern humans?
 
-<a href="http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens">http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-0000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</a>]]></itunes:summary>
+<a href="http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens">http://www.npr.org/sections/health-shots/2017/06/07/531804528/315-000-year-old-fossils-from-morocco-could-be-earliest-recorded-homo-sapiens</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/07/figure-8_wide-7fd87c5d113f46c49fd7b205fc2216179346066c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>136</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -118,12 +150,12 @@ June 7, 2017 - In 2014, Emily Harrington set out to climb the tallest peak in So
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;aggIds=100876926&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Polar Photographer Shares His View Of A Ferocious But Fragile Ecosystem</title>
       <link>http://www.npr.org/2017/06/06/531735345/polar-photographer-shares-his-view-of-a-ferocious-but-fragile-ecosystem</link>
       <description>June 6, 2017 - Paul Nicklen has spent decades documenting the Arctic and the Antarctic. &#34;I want people to realize that ice is like the soil in the garden,&#34; he says. &#34;Without ice the polar regions cannot exist.&#34;</description>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170606_fa_01.mp3?orgId=427869011&amp;topicId=1143&amp;aggIds=100876926&amp;d=2667&amp;p=13&amp;story=531735345&amp;t=progseg&amp;e=531764803&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/leopard-seal-0013_wide-a52dd22a3b2f96a2a1017448956ab447ffa09c08-s800-c15.jpg"></a>
 
@@ -226,38 +258,6 @@ June 5, 2017 - The planet called KELT-9b is around three times more massive than
 <a href="http://www.npr.org/2017/06/04/531444376/ceo-of-electric-power-giant-criticizes-trump-decision-to-withdraw-from-paris-cli">http://www.npr.org/2017/06/04/531444376/ceo-of-electric-power-giant-criticizes-trump-decision-to-withdraw-from-paris-cli</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>359</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170604_wesun_alan_aldas_experiment_helping_scientists_learn_to_talk_to_the_rest_of_us.mp3?orgId=1&amp;topicId=1128&amp;d=420&amp;p=10&amp;story=531271710&amp;t=progseg&amp;e=531444359&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Alan Alda&#39;s Experiment: Helping Scientists Learn To Talk To The Rest Of Us</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/04/531271710/alan-aldas-experiment-helping-scientists-learn-to-talk-to-the-rest-of-us</link>
-      <description>June 4, 2017 - The actor&#39;s new book, If I Understood You, Would I Have This Look on My Face?, is all about communication — and miscommunication — between doctors, scientists and civilians.</description>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170604_wesun_alan_aldas_experiment_helping_scientists_learn_to_talk_to_the_rest_of_us.mp3?orgId=1&amp;topicId=1128&amp;d=420&amp;p=10&amp;story=531271710&amp;t=progseg&amp;e=531444359&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/02/ap_080907061016_wide-8980fadba195f2cfa1612d6f1ebc53de9a1c509e-s800-c15.jpg"></a>
-
-June 4, 2017 - The actor's new book, If I Understood You, Would I Have This Look on My Face?, is all about communication — and miscommunication — between doctors, scientists and civilians.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/04/531271710/alan-aldas-experiment-helping-scientists-learn-to-talk-to-the-rest-of-us">http://www.npr.org/sections/health-shots/2017/06/04/531271710/alan-aldas-experiment-helping-scientists-learn-to-talk-to-the-rest-of-us</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/ap_080907061016_wide-8980fadba195f2cfa1612d6f1ebc53de9a1c509e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>420</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170604_wesun_why_republican_mayor_in_indiana_isnt_cheering_on_climate_agreement_withdrawal.mp3?orgId=1&amp;topicId=1003&amp;d=284&amp;p=10&amp;story=531444383&amp;t=progseg&amp;e=531444359&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Republican Mayor In Indiana Isn&#39;t Cheering On Climate Agreement Withdrawal</title>
-      <link>http://www.npr.org/2017/06/04/531444383/why-republican-mayor-in-indiana-isnt-cheering-on-climate-agreement-withdrawal</link>
-      <description>June 4, 2017 - As mayor of Carmel, Ind., James Brainard is working to combat climate change. NPR&#39;s Lulu Garcia-Navarro asks the longtime Republican why climate change is important to him and his city.</description>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170604_wesun_why_republican_mayor_in_indiana_isnt_cheering_on_climate_agreement_withdrawal.mp3?orgId=1&amp;topicId=1003&amp;d=284&amp;p=10&amp;story=531444383&amp;t=progseg&amp;e=531444359&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 4, 2017 - As mayor of Carmel, Ind., James Brainard is working to combat climate change. NPR's Lulu Garcia-Navarro asks the longtime Republican why climate change is important to him and his city.
-
-<a href="http://www.npr.org/2017/06/04/531444383/why-republican-mayor-in-indiana-isnt-cheering-on-climate-agreement-withdrawal">http://www.npr.org/2017/06/04/531444383/why-republican-mayor-in-indiana-isnt-cheering-on-climate-agreement-withdrawal</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>284</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
