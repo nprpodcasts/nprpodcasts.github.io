@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 21:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 22:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 08 Jun 2017 21:00:20 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 22:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -30,12 +30,12 @@
       <description>June 8, 2017 - About 5 percent of pregnant women infected with Zika in Puerto Rico and other U.S. territories last year had babies with birth defects, says the federal health agency. And the risk isn&#39;t over.</description>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-54c8e19a2498ee4a1c28431d240131416a53e7b3-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-fa9de2c0d3ff56916b9a02e5238338785921148b-s800-c15.jpg"></a>
 
 June 8, 2017 - About 5 percent of pregnant women infected with Zika in Puerto Rico and other U.S. territories last year had babies with birth defects, says the federal health agency. And the risk isn't over.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories">http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-54c8e19a2498ee4a1c28431d240131416a53e7b3-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-fa9de2c0d3ff56916b9a02e5238338785921148b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -86,11 +86,12 @@ June 8, 2017 - We humans think we don't have a very good sense of smell. But psy
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/07/531894461/u-s-pays-farmers-billions-to-save-the-soil-but-its-blowing-away</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_us_pays_farmers_billions_to_save_the_soil_but_its_blowing_away.mp3?orgId=1&amp;topicId=1025&amp;d=195&amp;p=2&amp;story=531894461&amp;t=progseg&amp;e=532041531&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.S. Pays Farmers Billions To Save The Soil. But It&#39;s Blowing Away</title>
       <link>http://www.npr.org/sections/thesalt/2017/06/07/531894461/u-s-pays-farmers-billions-to-save-the-soil-but-its-blowing-away</link>
       <description>June 7, 2017 - Right now, the government rents farmland to help protect soil and water. But once the land is farmed again, the benefits disappear. Environmentalists want to change that.</description>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_us_pays_farmers_billions_to_save_the_soil_but_its_blowing_away.mp3?orgId=1&amp;topicId=1025&amp;d=195&amp;p=2&amp;story=531894461&amp;t=progseg&amp;e=532041531&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/07/dust_bowl_-_dallas-_south_dakota_1936-2_wide-181d17c0fad2b8c8ec6fb0224e2d369a0ccc6c10-s800-c15.jpg"></a>
 
@@ -98,6 +99,7 @@ June 7, 2017 - Right now, the government rents farmland to help protect soil and
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/07/531894461/u-s-pays-farmers-billions-to-save-the-soil-but-its-blowing-away">http://www.npr.org/sections/thesalt/2017/06/07/531894461/u-s-pays-farmers-billions-to-save-the-soil-but-its-blowing-away</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/07/dust_bowl_-_dallas-_south_dakota_1936-2_wide-181d17c0fad2b8c8ec6fb0224e2d369a0ccc6c10-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>195</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
