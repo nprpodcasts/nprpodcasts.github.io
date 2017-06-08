@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 20:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 21:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 08 Jun 2017 20:00:18 +0000</pubDate>
+    <pubDate>Thu, 08 Jun 2017 21:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories</guid>
+      <title>CDC Reveals Sharper Numbers Of Zika Birth Defects From U.S. Territories</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories</link>
+      <description>June 8, 2017 - About 5 percent of pregnant women infected with Zika in Puerto Rico and other U.S. territories last year had babies with birth defects, says the federal health agency. And the risk isn&#39;t over.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-54c8e19a2498ee4a1c28431d240131416a53e7b3-s800-c15.jpg"></a>
+
+June 8, 2017 - About 5 percent of pregnant women infected with Zika in Puerto Rico and other U.S. territories last year had babies with birth defects, says the federal health agency. And the risk isn't over.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories">http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/zika-puerto-rico-1_wide-54c8e19a2498ee4a1c28431d240131416a53e7b3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</guid>
       <title>Aid-In-Dying Requires More Than Just A Law, Californians Find</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</link>
       <description>June 8, 2017 - In the year since the state enacted a law allowing doctors to prescribe lethal drugs for terminal patients who request it, over 500 people have sought that help. But some doctors are still reluctant.</description>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-90f44abea0a3421374157b3831e8b43225205ca5-s800-c15.jpeg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-5df8e11df56e6c2dccb44a9331e96e761c2b2d67-s800-c15.jpeg"></a>
 
 June 8, 2017 - In the year since the state enacted a law allowing doctors to prescribe lethal drugs for terminal patients who request it, over 500 people have sought that help. But some doctors are still reluctant.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find">http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-90f44abea0a3421374157b3831e8b43225205ca5-s3000-c15.jpeg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-5df8e11df56e6c2dccb44a9331e96e761c2b2d67-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ June 6, 2017 - The CDC says health care facilities such as nursing homes and hos
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease">http://www.npr.org/sections/health-shots/2017/06/06/531731438/plumbing-in-hospitals-and-nursing-homes-can-spread-legionnaires-disease</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/06/tap-water_wide-60808903cd123170a0c09a3a883aca61cad105e6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</guid>
-      <title>Feds To Waive Penalties For Some Who Signed Up Late For Medicare</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</link>
-      <description>June 6, 2017 - People who mistakenly stayed on marketplace health plans after they qualified for Medicare may be eligible to have Medicare penalties reduced or waived, if they apply for the waiver by Sept. 30.</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/02/medicare-penalty_wide-d4b84eee2e80f3d3ee48c6cb7c88d57396e02ba4-s800-c15.jpg"></a>
-
-June 6, 2017 - People who mistakenly stayed on marketplace health plans after they qualified for Medicare may be eligible to have Medicare penalties reduced or waived, if they apply for the waiver by Sept. 30.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare">http://www.npr.org/sections/health-shots/2017/06/06/531263277/feds-to-waive-penalties-for-some-who-signed-up-late-for-medicare</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/02/medicare-penalty_wide-d4b84eee2e80f3d3ee48c6cb7c88d57396e02ba4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
