@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 22:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 09 Jun 2017 20:00:19 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 22:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_uber_drivers_confront_challenges_working_for_a_faceless_boss.mp3?orgId=1&amp;topicId=1006&amp;d=254&amp;p=2&amp;story=532288993&amp;t=progseg&amp;e=532200686&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Uber Drivers Confront Challenges Working For A &#39;Faceless Boss&#39;</title>
+      <link>http://www.npr.org/2017/06/09/532288993/uber-drivers-confront-challenges-working-for-a-faceless-boss</link>
+      <description>June 9, 2017 - While Uber says you can &#34;be your own boss&#34; — that&#39;s their viral tagline — hundreds of drivers tell NPR it&#39;s not true. They say Uber feels more like a faceless boss — setting strict rules and punishments, but eerily hard to reach, even in emergencies.</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_uber_drivers_confront_challenges_working_for_a_faceless_boss.mp3?orgId=1&amp;topicId=1006&amp;d=254&amp;p=2&amp;story=532288993&amp;t=progseg&amp;e=532200686&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 9, 2017 - While Uber says you can "be your own boss" — that's their viral tagline — hundreds of drivers tell NPR it's not true. They say Uber feels more like a faceless boss — setting strict rules and punishments, but eerily hard to reach, even in emergencies.
+
+<a href="http://www.npr.org/2017/06/09/532288993/uber-drivers-confront-challenges-working-for-a-faceless-boss">http://www.npr.org/2017/06/09/532288993/uber-drivers-confront-challenges-working-for-a-faceless-boss</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>254</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</guid>
       <title>Taylor Swift Returns To Spotify, Amends Her Relationship To Streaming</title>
@@ -39,11 +54,12 @@ June 9, 2017 - The pop superstar announced her 'return' to streaming, but it's m
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_canadas_tech_firms_capitalize_on_immigration_anxiety_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=532220824&amp;t=progseg&amp;e=532200686&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Canada&#39;s Tech Firms Capitalize On Immigration Anxiety In The Age Of Trump</title>
       <link>http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</link>
       <description>June 9, 2017 - &#34;We feel that Canada has a window of opportunity here to be able to attract the best and the brightest,&#34; says one Canadian tech leader.</description>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_canadas_tech_firms_capitalize_on_immigration_anxiety_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=532220824&amp;t=progseg&amp;e=532200686&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s800-c15.jpg"></a>
 
@@ -51,6 +67,7 @@ June 9, 2017 - "We feel that Canada has a window of opportunity here to be able 
 
 <a href="http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump">http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ June 5, 2017 - Silicon Valley is known as the nation's tech hub, but decades ago
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation">http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/05/14-720-18-edison_wide-2e49b28f8f0e8e3b0b1987e7ffcc65e4a54b9ec1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>339</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</guid>
-      <title>Apple Joins Smart-Speaker Race With Music-Focused &#39;HomePod&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</link>
-      <description>June 5, 2017 - The speaker is powered by Apple&#39;s personal assistant Siri and marks the long-awaited entry of the tech giant into competition with Amazon&#39;s and Google&#39;s smart home devices.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_17156696601334_wide-8ecf9f29c85d59189fe022fc23e1095ee7747ec8-s800-c15.jpg"></a>
-
-June 5, 2017 - The speaker is powered by Apple's personal assistant Siri and marks the long-awaited entry of the tech giant into competition with Amazon's and Google's smart home devices.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod">http://www.npr.org/sections/thetwo-way/2017/06/05/531594351/apple-joins-smart-speaker-race-with-music-focused-homepod</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_17156696601334_wide-8ecf9f29c85d59189fe022fc23e1095ee7747ec8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

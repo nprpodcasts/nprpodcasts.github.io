@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 09 Jun 2017 16:00:30 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument</guid>
+      <title>Interior Secretary Ryan Zinke Reviews Bears Ears National Monument</title>
+      <link>http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument</link>
+      <description>June 9, 2017 - A Saturday deadline is approaching for Interior Secretary Ryan Zinke to recommend whether the controversial new Bears Ears National Monument in Utah should be abolished or shrunk. It&#39;s the first of a larger review of national monuments stemming from an executive order by President Trump last month.</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 9, 2017 - A Saturday deadline is approaching for Interior Secretary Ryan Zinke to recommend whether the controversial new Bears Ears National Monument in Utah should be abolished or shrunk. It's the first of a larger review of national monuments stemming from an executive order by President Trump last month.
+
+<a href="http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument">http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</guid>
       <title>FDA Calls On Drugmaker To Pull A Powerful Opioid Off The Market </title>
@@ -238,28 +251,13 @@ June 6, 2017 - Coffee is Uganda's most valuable industry, but climate change cou
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_video_get_to_know_the_bloodthirsty_but_cuddly_vampire_bat.mp3?orgId=1&amp;topicId=1132&amp;d=261&amp;p=2&amp;story=529853739&amp;t=progseg&amp;e=531730065&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/09/thumb1_wide-afea4ee533b229b5429c94859d0d6ce7453c6359-s800-c15.jpg"></a>
 
 June 6, 2017 - They drink the blood of big animals and spread rabies. Cows die. People die. Ranchers want them killed off. But scientists say they form human-like friendships. Does that mean we should protect them?
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat">http://www.npr.org/sections/goatsandsoda/2017/06/06/529853739/video-get-to-know-the-bloodthirsty-but-cuddly-vampire-bat</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/ytthumb3_wide-5ebda953e12c0a8b8f8ecd258032d9e550134f3b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/thumb1_wide-afea4ee533b229b5429c94859d0d6ce7453c6359-s3000-c15.jpg"></itunes:image>
       <itunes:duration>261</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_what_kind_of_information_is_in_the_white_house_visitor_log.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531701357&amp;t=progseg&amp;e=531690143&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Researchers Ferret Out Information From White House Visitor Logs </title>
-      <link>http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs</link>
-      <description>June 6, 2017 - President Trump has decided to change President Obama&#39;s policy of making the White House visitor log public. A new study explores what kind of information is contained in the White House visitor log.</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170606_me_what_kind_of_information_is_in_the_white_house_visitor_log.mp3?orgId=1&amp;topicId=1024&amp;d=196&amp;p=3&amp;story=531701357&amp;t=progseg&amp;e=531690143&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 6, 2017 - President Trump has decided to change President Obama's policy of making the White House visitor log public. A new study explores what kind of information is contained in the White House visitor log.
-
-<a href="http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs">http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>196</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 20:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 22:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 09 Jun 2017 20:00:22 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 22:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/09/532289054/fda-asks-drug-maker-to-pull-opioid-opana-er-off-the-market</guid>
+      <title>FDA Asks Drug Maker To Pull Opioid Opana ER Off The Market</title>
+      <link>http://www.npr.org/2017/06/09/532289054/fda-asks-drug-maker-to-pull-opioid-opana-er-off-the-market</link>
+      <description>June 9, 2017 - The Food and Drug Administration requested drug maker Endo Pharmaceuticals stop selling Opana ER, which is an opioid. NPR&#39;s Robert Siegel speaks with Dr. Janet Woodcock, director of the FDA&#39;s Center for Drug Evaluation and Research, about the decision.</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 9, 2017 - The Food and Drug Administration requested drug maker Endo Pharmaceuticals stop selling Opana ER, which is an opioid. NPR's Robert Siegel speaks with Dr. Janet Woodcock, director of the FDA's Center for Drug Evaluation and Research, about the decision.
+
+<a href="http://www.npr.org/2017/06/09/532289054/fda-asks-drug-maker-to-pull-opioid-opana-er-off-the-market">http://www.npr.org/2017/06/09/532289054/fda-asks-drug-maker-to-pull-opioid-opana-er-off-the-market</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/09/532230703/got-cancer-questions-this-little-known-hotline-is-here-to-help</guid>
       <title>Got Cancer Questions? This Little-Known Hotline Is Here To Help</title>
@@ -245,21 +258,6 @@ June 6, 2017 - A bipartisan team of lawmakers has been drafting a bill that woul
 <a href="http://www.npr.org/2017/06/06/531787093/lawmakers-consider-tough-new-penalties-for-opioid-crimes-bucking-trend">http://www.npr.org/2017/06/06/531787093/lawmakers-consider-tough-new-penalties-for-opioid-crimes-bucking-trend</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/06/ap_17031569435719_wide-5bbcb7a5538ac31d03898fe12de819e3be78f6aa-s3000-c15.jpg"></itunes:image>
       <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</guid>
-      <title>He Called Himself An &#39;Honorary Woman&#39;: Remembering A U.N. Crusader</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</link>
-      <description>June 6, 2017 - Dr. Babatunde Osotimehin, who died on Sunday, was the director of the U.N.s lead agency on family planning and maternal health.</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/gettyimages-459173304_1_wide-bfcad0878b52f824737fe19141264f484fef52b8-s800-c15.jpg"></a>
-
-June 6, 2017 - Dr. Babatunde Osotimehin, who died on Sunday, was the director of the U.N.s lead agency on family planning and maternal health.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader">http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/gettyimages-459173304_1_wide-bfcad0878b52f824737fe19141264f484fef52b8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
