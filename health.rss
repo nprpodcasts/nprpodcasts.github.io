@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 01:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 20:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 09 Jun 2017 01:00:24 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 20:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/09/532230703/got-cancer-questions-this-little-known-hotline-is-here-to-help</guid>
+      <title>Got Cancer Questions? This Little-Known Hotline Is Here To Help</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/09/532230703/got-cancer-questions-this-little-known-hotline-is-here-to-help</link>
+      <description>June 9, 2017 - For 40 years, people have been able to call a service funded by the National Cancer Institute to get information about cancer treatments. Doctors say it&#39;s still useful even in the age of Twitter.</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/09/jill-wiseman---cancer-information-specialist_34067_wide-77be826b19f29df8363183c9cacc1c5350732cda-s800-c15.jpeg"></a>
+
+June 9, 2017 - For 40 years, people have been able to call a service funded by the National Cancer Institute to get information about cancer treatments. Doctors say it's still useful even in the age of Twitter.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/09/532230703/got-cancer-questions-this-little-known-hotline-is-here-to-help">http://www.npr.org/sections/health-shots/2017/06/09/532230703/got-cancer-questions-this-little-known-hotline-is-here-to-help</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/jill-wiseman---cancer-information-specialist_34067_wide-77be826b19f29df8363183c9cacc1c5350732cda-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</guid>
       <title>FDA Calls On Drugmaker To Pull A Powerful Opioid Off The Market </title>
@@ -245,23 +260,6 @@ June 6, 2017 - Dr. Babatunde Osotimehin, who died on Sunday, was the director of
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader">http://www.npr.org/sections/goatsandsoda/2017/06/06/531743870/he-called-himself-an-honorary-woman-remembering-a-u-n-crusader</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/06/gettyimages-459173304_1_wide-bfcad0878b52f824737fe19141264f484fef52b8-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_protected_but_priced_out_patients_worry_about_health_laws_future_in_arizona.mp3?orgId=95&amp;topicId=1128&amp;d=248&amp;p=2&amp;story=530846989&amp;t=progseg&amp;e=531730065&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Protected But Priced Out: Patients Worry About Health Law&#39;s Future In Arizona</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</link>
-      <description>June 6, 2017 - Corinne Bobbie has a love-hate relationship with the Affordable Care Act. As the GOP tries to repeal the law, the experiences and fears of voters like Bobbie could determine a politician&#39;s fate.</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_protected_but_priced_out_patients_worry_about_health_laws_future_in_arizona.mp3?orgId=95&amp;topicId=1128&amp;d=248&amp;p=2&amp;story=530846989&amp;t=progseg&amp;e=531730065&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/31/photo-4_wide-f4d56eb9aef69365f41577797d8accb1e588a78d-s800-c15.jpg"></a>
-
-June 6, 2017 - Corinne Bobbie has a love-hate relationship with the Affordable Care Act. As the GOP tries to repeal the law, the experiences and fears of voters like Bobbie could determine a politician's fate.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona">http://www.npr.org/sections/health-shots/2017/06/06/530846989/protected-but-priced-out-patients-worry-about-health-laws-future-in-arizona</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/photo-4_wide-f4d56eb9aef69365f41577797d8accb1e588a78d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>248</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
