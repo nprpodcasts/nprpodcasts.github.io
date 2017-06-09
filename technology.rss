@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 14:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 16:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 09 Jun 2017 14:00:20 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 16:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</guid>
+      <title>Canada&#39;s Tech Firms Capitalize On Immigration Anxiety In The Age Of Trump</title>
+      <link>http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</link>
+      <description>June 9, 2017 - &#34;We feel that Canada has a window of opportunity here to be able to attract the best and the brightest,&#34; says one Canadian tech leader.</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s800-c15.jpg"></a>
+
+June 9, 2017 - "We feel that Canada has a window of opportunity here to be able to attract the best and the brightest," says one Canadian tech leader.
+
+<a href="http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump">http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_uber_drivers_dont_feel_like_their_own_bosses.mp3?orgId=1&amp;topicId=1006&amp;d=337&amp;story=531642304&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Faceless Boss: A Look Into The Uber Driver Workplace</title>
@@ -237,23 +252,6 @@ June 5, 2017 - The speaker is powered by Apple's personal assistant Siri and mar
 <a href="http://www.npr.org/2017/06/05/531629211/audible-offers-lottery-for-employees-to-live-1-year-rent-free-in-newark-n-j">http://www.npr.org/2017/06/05/531629211/audible-offers-lottery-for-employees-to-live-1-year-rent-free-in-newark-n-j</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>141</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_trump_announces_plan_to_privatize_air_traffic_control.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=531574945&amp;t=progseg&amp;e=531607251&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Trump Announces Plan To Privatize Air Traffic Control</title>
-      <link>http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</link>
-      <description>June 5, 2017 - It&#39;s an idea long supported by most of the commercial airlines and the union, which say the system is inefficient under the Federal Aviation Administration.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_trump_announces_plan_to_privatize_air_traffic_control.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=531574945&amp;t=progseg&amp;e=531607251&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s800-c15.jpg"></a>
-
-June 5, 2017 - It's an idea long supported by most of the commercial airlines and the union, which say the system is inefficient under the Federal Aviation Administration.
-
-<a href="http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control">http://www.npr.org/2017/06/05/531574945/trump-announces-plan-to-privatize-air-traffic-control</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_16271676082339_wide-725dd31d4642438f5b971580e77f9260002d602d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
