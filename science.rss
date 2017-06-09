@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 22:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 01:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 08 Jun 2017 22:00:33 +0000</pubDate>
+    <pubDate>Fri, 09 Jun 2017 01:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</guid>
+      <title>FDA Calls On Drugmaker To Pull A Powerful Opioid Off The Market </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</link>
+      <description>June 8, 2017 - The Food and Drug Administration says abuse of the painkiller Opana ER has fueled an outbreak of HIV, hepatitis C and a serious blood disorder, though it was reformulated to try to reduce abuse.</description>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/08/ap_16271837996563_wide-4ceaf55a3658e8ea76c27aeb23348579b4983a2f-s800-c15.jpg"></a>
+
+June 8, 2017 - The Food and Drug Administration says abuse of the painkiller Opana ER has fueled an outbreak of HIV, hepatitis C and a serious blood disorder, though it was reformulated to try to reduce abuse.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market">http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/ap_16271837996563_wide-4ceaf55a3658e8ea76c27aeb23348579b4983a2f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/08/532087184/cdc-reveals-sharper-numbers-of-zika-birth-defects-from-u-s-territories</guid>
       <title>CDC Reveals Sharper Numbers Of Zika Birth Defects From U.S. Territories</title>
@@ -39,11 +54,12 @@ June 8, 2017 - About 5 percent of pregnant women infected with Zika in Puerto Ri
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_aid-in-dying_requires_more_than_just_a_law_californians_find.mp3?orgId=1&amp;topicId=1128&amp;d=226&amp;p=2&amp;story=530944807&amp;t=progseg&amp;e=532041531&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Aid-In-Dying Requires More Than Just A Law, Californians Find</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</link>
       <description>June 8, 2017 - In the year since the state enacted a law allowing doctors to prescribe lethal drugs for terminal patients who request it, over 500 people have sought that help. But some doctors are still reluctant.</description>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_aid-in-dying_requires_more_than_just_a_law_californians_find.mp3?orgId=1&amp;topicId=1128&amp;d=226&amp;p=2&amp;story=530944807&amp;t=progseg&amp;e=532041531&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-5df8e11df56e6c2dccb44a9331e96e761c2b2d67-s800-c15.jpeg"></a>
 
@@ -51,6 +67,7 @@ June 8, 2017 - In the year since the state enacted a law allowing doctors to pre
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find">http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-5df8e11df56e6c2dccb44a9331e96e761c2b2d67-s3000-c15.jpeg"></itunes:image>
+      <itunes:duration>226</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +260,6 @@ June 6, 2017 - In Latin America, they drink the blood of big animals and can spr
 <a href="http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs">http://www.npr.org/2017/06/06/531701357/researchers-ferret-out-information-from-white-house-visitor-logs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>196</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</guid>
-      <title>Trump Administration Seeking Permits For Seismic Air Gun Surveys In Atlantic </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</link>
-      <description>June 5, 2017 - The proposal would allow five energy companies to incidentally harass ocean wildlife by using seismic air guns for oil and gas exploration, much to the chagrin of environmental groups.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/05/ap_592934199876_wide-4c4402d622ca7d75d02a3a4103e39ef05c0f3041-s800-c15.jpg"></a>
-
-June 5, 2017 - The proposal would allow five energy companies to incidentally harass ocean wildlife by using seismic air guns for oil and gas exploration, much to the chagrin of environmental groups.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic">http://www.npr.org/sections/thetwo-way/2017/06/05/531608746/trump-administration-seeking-permits-for-seismic-air-gun-surveys-in-atlantic</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/ap_592934199876_wide-4c4402d622ca7d75d02a3a4103e39ef05c0f3041-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
