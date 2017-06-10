@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jun 2017 00:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 10:00:35 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 10 Jun 2017 00:00:14 +0000</pubDate>
+    <pubDate>Sat, 10 Jun 2017 10:00:35 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/10/532110787/a-dad-takes-his-son-to-the-doctor-and-discovers-fear-of-vaccines</guid>
+      <title>A Dad Takes His Son To The Doctor And Discovers Fear Of Vaccines</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/10/532110787/a-dad-takes-his-son-to-the-doctor-and-discovers-fear-of-vaccines</link>
+      <description>June 10, 2017 - As a science journalist, I know vaccines are safe. But when it was time to take my son to get his shots, I suddenly found myself overwhelmed by fear. Does science stand a chance against emotion?</description>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/vaccine-shot_wide-84b8b4a52b900dc37527995da7c340c82ccf69e2-s800-c15.jpg"></a>
+
+June 10, 2017 - As a science journalist, I know vaccines are safe. But when it was time to take my son to get his shots, I suddenly found myself overwhelmed by fear. Does science stand a chance against emotion?
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/10/532110787/a-dad-takes-his-son-to-the-doctor-and-discovers-fear-of-vaccines">http://www.npr.org/sections/health-shots/2017/06/10/532110787/a-dad-takes-his-son-to-the-doctor-and-discovers-fear-of-vaccines</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/vaccine-shot_wide-84b8b4a52b900dc37527995da7c340c82ccf69e2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_fda_asks_drug_maker_to_pull_opioid_opana_er_off_the_market.mp3?orgId=1&amp;topicId=1128&amp;d=242&amp;p=2&amp;story=532289054&amp;t=progseg&amp;e=532200686&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>FDA Asks Drug Maker To Pull Opioid Opana ER Off The Market</title>
@@ -243,23 +258,6 @@ June 6, 2017 - Roughly 300 health care systems around the country have set up me
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/06/531760445/hospitals-are-partnering-with-lawyers-to-treat-patients-legal-needs">http://www.npr.org/sections/health-shots/2017/06/06/531760445/hospitals-are-partnering-with-lawyers-to-treat-patients-legal-needs</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/06/patient-paperwork-1_wide-d30f838f7a525d1f8a23b6d6bfe6d4b2f2e9e6cd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_senators_poised_to_expand_mandatory_minimums_in_response_to_opioid_epidemic.mp3?orgId=1&amp;topicId=1070&amp;d=239&amp;p=2&amp;story=531787093&amp;t=progseg&amp;e=531730065&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Lawmakers Consider Tough New Penalties For Opioid Crimes, Bucking Trend</title>
-      <link>http://www.npr.org/2017/06/06/531787093/lawmakers-consider-tough-new-penalties-for-opioid-crimes-bucking-trend</link>
-      <description>June 6, 2017 - A bipartisan team of lawmakers has been drafting a bill that would create new sentencing guidelines for people who sell and distribute synthetic opioid drugs blamed for a steep rise in U.S. overdoses.</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170606_atc_senators_poised_to_expand_mandatory_minimums_in_response_to_opioid_epidemic.mp3?orgId=1&amp;topicId=1070&amp;d=239&amp;p=2&amp;story=531787093&amp;t=progseg&amp;e=531730065&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/06/ap_17031569435719_wide-5bbcb7a5538ac31d03898fe12de819e3be78f6aa-s800-c15.jpg"></a>
-
-June 6, 2017 - A bipartisan team of lawmakers has been drafting a bill that would create new sentencing guidelines for people who sell and distribute synthetic opioid drugs blamed for a steep rise in U.S. overdoses.
-
-<a href="http://www.npr.org/2017/06/06/531787093/lawmakers-consider-tough-new-penalties-for-opioid-crimes-bucking-trend">http://www.npr.org/2017/06/06/531787093/lawmakers-consider-tough-new-penalties-for-opioid-crimes-bucking-trend</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/ap_17031569435719_wide-5bbcb7a5538ac31d03898fe12de819e3be78f6aa-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
