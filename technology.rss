@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jun 2017 00:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 18:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 10 Jun 2017 00:00:12 +0000</pubDate>
+    <pubDate>Mon, 12 Jun 2017 18:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</guid>
+      <title>This Baker Makes Internet Trolls Eat Their Words — Literally</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</link>
+      <description>June 12, 2017 - Tempted to respond back to Internet harassers? New York City baker Kat Thek does just that. Her company, Troll Cakes, will find your perpetrator and send them a cake with their words written on it.</description>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/31/raw-clam-troll-cake-1-_wide-7ecb04a5223a4c1dc89934fc92723c92d1af9be5-s800-c15.jpg"></a>
+
+June 12, 2017 - Tempted to respond back to Internet harassers? New York City baker Kat Thek does just that. Her company, Troll Cakes, will find your perpetrator and send them a cake with their words written on it.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally">http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/raw-clam-troll-cake-1-_wide-7ecb04a5223a4c1dc89934fc92723c92d1af9be5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_uber_drivers_confront_challenges_working_for_a_faceless_boss.mp3?orgId=1&amp;topicId=1006&amp;d=254&amp;p=2&amp;story=532288993&amp;t=progseg&amp;e=532200686&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Uber Drivers Confront Challenges Working For A &#39;Faceless Boss&#39;</title>
@@ -237,23 +252,6 @@ June 6, 2017 - In coming years, human and machine connectivity will continue to 
 <a href="http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet">http://the1a.org/shows/2017-06-06/can-democracy-survive-the-internet</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2828</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_nj_technology.mp3?orgId=1&amp;topicId=1019&amp;d=339&amp;p=2&amp;story=531250084&amp;t=progseg&amp;e=531607251&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Before Silicon Valley, New Jersey Reigned As Nation&#39;s Center Of Innovation</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation</link>
-      <description>June 5, 2017 - Silicon Valley is known as the nation&#39;s tech hub, but decades ago New Jersey had that distinction. The state was once home to Thomas Edison&#39;s lab and Bell Labs, the home of Nobel laureates.</description>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170605_atc_nj_technology.mp3?orgId=1&amp;topicId=1019&amp;d=339&amp;p=2&amp;story=531250084&amp;t=progseg&amp;e=531607251&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/05/14-720-18-edison_wide-2e49b28f8f0e8e3b0b1987e7ffcc65e4a54b9ec1-s800-c15.jpg"></a>
-
-June 5, 2017 - Silicon Valley is known as the nation's tech hub, but decades ago New Jersey had that distinction. The state was once home to Thomas Edison's lab and Bell Labs, the home of Nobel laureates.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation">http://www.npr.org/sections/alltechconsidered/2017/06/05/531250084/before-silicon-valley-new-jersey-reigned-as-nations-center-of-innovation</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/14-720-18-edison_wide-2e49b28f8f0e8e3b0b1987e7ffcc65e4a54b9ec1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>339</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
