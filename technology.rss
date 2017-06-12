@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 22:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 23:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 12 Jun 2017 22:00:34 +0000</pubDate>
+    <pubDate>Mon, 12 Jun 2017 23:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</guid>
+      <title>The Covfefe Act Has A Silly Name — But It Addresses A Real Quandary</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</link>
+      <description>June 12, 2017 - In an era of unfiltered tweets from the president, Rep. Mike Quigley&#39;s bill would require the archiving of the president&#39;s social media posts — from official and personal accounts.</description>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/ap_17163770797619_wide-2e36103d7a6ac04a1ce9d5828b1135ce2235dbff-s800-c15.jpg"></a>
+
+June 12, 2017 - In an era of unfiltered tweets from the president, Rep. Mike Quigley's bill would require the archiving of the president's social media posts — from official and personal accounts.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary">http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/ap_17163770797619_wide-2e36103d7a6ac04a1ce9d5828b1135ce2235dbff-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</guid>
       <title>Pakistan Sentences Man To Death For &#39;Blasphemy&#39; On Social Media</title>
@@ -239,21 +254,6 @@ June 8, 2017 - Suddenly aware of repetitive feedback loops in his life, Max Hawk
 <a href="http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users">http://www.npr.org/2017/06/07/531945516/free-speech-legal-center-threatens-to-sue-trump-for-blocking-twitter-users</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170607.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Can The Nation&#39;s Voting System Be Trusted?</title>
-      <link>http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title</link>
-      <description>June 7, 2017 - How can we best protect a system that delivers the peaceful transfer of power?&#xA;&#xA; - http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title</description>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170607.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 7, 2017 - How can we best protect a system that delivers the peaceful transfer of power?
-
-<a href="http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title">http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2830</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
