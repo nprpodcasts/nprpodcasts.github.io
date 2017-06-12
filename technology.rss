@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 21:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 12 Jun 2017 21:00:25 +0000</pubDate>
+    <pubDate>Mon, 12 Jun 2017 22:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,24 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</guid>
+      <title>Pakistan Sentences Man To Death For &#39;Blasphemy&#39; On Social Media</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</link>
+      <description>June 12, 2017 - Amnesty International says this is the country&#39;s harshest sentence yet for a cybercrime related offense. The Pakistani government is pushing a campaign against blasphemy on social media.</description>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/gettyimages-649516052_wide-d56a4399bcd418708d7c16be25ee79bb65b4f4e5-s800-c15.jpg"></a>
+
+June 12, 2017 - Amnesty International says this is the country's harshest sentence yet for a cybercrime related offense. The Pakistani government is pushing a campaign against blasphemy on social media.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media">http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/gettyimages-649516052_wide-d56a4399bcd418708d7c16be25ee79bb65b4f4e5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_uber_considers_leave_of_absence_for_ceo_travis_kalanack.mp3?orgId=1&amp;topicId=1006&amp;d=212&amp;p=2&amp;story=532645968&amp;t=progseg&amp;e=532574087&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Uber Considers Leave Of Absence For CEO Travis Kalanack</title>
       <link>http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack</link>
       <description>June 12, 2017 - Despite phenomenal growth and popularity with users, Uber&#39;s troubles are mounting. The ride hailing company has been rocked by a sexual harassment scandal, top executives have quit, and there are reports that CEO and co-founder Travis Kalanack may take a leave of absence. Employees and investors tell NPR that Uber faces a more challenging problem — its fractured relationship with drivers.</description>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_uber_considers_leave_of_absence_for_ceo_travis_kalanack.mp3?orgId=1&amp;topicId=1006&amp;d=212&amp;p=2&amp;story=532645968&amp;t=progseg&amp;e=532574087&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 12, 2017 - Despite phenomenal growth and popularity with users, Uber's troubles are mounting. The ride hailing company has been rocked by a sexual harassment scandal, top executives have quit, and there are reports that CEO and co-founder Travis Kalanack may take a leave of absence. Employees and investors tell NPR that Uber faces a more challenging problem — its fractured relationship with drivers.
 
 <a href="http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack">http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_notaries_are_starting_to_put_down_the_stamp_and_pick_up_a_webcam.mp3?orgId=77&amp;topicId=1019&amp;d=235&amp;p=2&amp;story=532586426&amp;t=progseg&amp;e=532574087&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Notaries Are Starting To Put Down The Stamp And Pick Up A Webcam</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</link>
       <description>June 12, 2017 - Technology and new laws are taking notarizations digital, adding them to the list of things you can do on your phone or computer. However, America&#39;s 4 million notaries are split on the idea.</description>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_notaries_are_starting_to_put_down_the_stamp_and_pick_up_a_webcam.mp3?orgId=77&amp;topicId=1019&amp;d=235&amp;p=2&amp;story=532586426&amp;t=progseg&amp;e=532574087&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/notarize---two-signer_wide-f5414a4719369419c0dd674b214f894a0d5ea8dd-s800-c15.png"></a>
 
@@ -49,6 +67,7 @@ June 12, 2017 - Technology and new laws are taking notarizations digital, adding
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam">http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/notarize---two-signer_wide-f5414a4719369419c0dd674b214f894a0d5ea8dd-s3000-c15.png"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +254,6 @@ June 8, 2017 - Suddenly aware of repetitive feedback loops in his life, Max Hawk
 <a href="http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title">http://the1a.org/shows/2017-06-07/can-the-nations-voting-system-be-trusted-working-title</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2830</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</guid>
-      <title>Apple Takes On Distracted Driving With New Feature</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</link>
-      <description>June 6, 2017 - The new feature blocks notifications while users are driving, but a loophole could allow text messages to still pop up.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</description>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/06/gettyimages-692623118_wide-c1be32493c75b6759e75552907b910e2f697e07b-s800-c15.jpg"></a>
-
-June 6, 2017 - The new feature blocks notifications while users are driving, but a loophole could allow text messages to still pop up.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature">http://www.npr.org/sections/thetwo-way/2017/06/06/531777684/apple-takes-on-distracted-driving-with-new-feature</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/06/gettyimages-692623118_wide-c1be32493c75b6759e75552907b910e2f697e07b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

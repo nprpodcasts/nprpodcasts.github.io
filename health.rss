@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 21:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:00:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 12 Jun 2017 21:00:23 +0000</pubDate>
+    <pubDate>Mon, 12 Jun 2017 22:00:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_dog_owners_walk_22_minutes_more_per_day_and_yes_it_counts_as_exercise.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=2&amp;story=532625213&amp;t=progseg&amp;e=532574087&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Dog Owners Walk 22 Minutes More Per Day. And Yes, It Counts As Exercise</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise</link>
+      <description>June 12, 2017 - A new study finds dog owners on average walk 22 more minutes more per day compared to people without dogs. The benefits of walking include a lower risk of heart disease and premature death.</description>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_dog_owners_walk_22_minutes_more_per_day_and_yes_it_counts_as_exercise.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=2&amp;story=532625213&amp;t=progseg&amp;e=532574087&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/12/gettyimages-595370818_wide-9980201b55443dfbc5eb39c55864ff6a79f80bea-s800-c15.jpg"></a>
+
+June 12, 2017 - A new study finds dog owners on average walk 22 more minutes more per day compared to people without dogs. The benefits of walking include a lower risk of heart disease and premature death.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise">http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/gettyimages-595370818_wide-9980201b55443dfbc5eb39c55864ff6a79f80bea-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>224</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/12/523774660/a-drugmaker-tries-to-cash-in-on-the-opioid-epidemic-one-state-law-at-a-time</guid>
       <title>A Drugmaker Tries To Cash In On The Opioid Epidemic, One State Law At A Time</title>
@@ -241,23 +258,6 @@ June 8, 2017 - In the year since the state enacted a law allowing doctors to pre
 <a href="http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find">http://www.npr.org/sections/health-shots/2017/06/08/530944807/aid-in-dying-requires-more-than-just-a-law-californians-find</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/john-minor-and-family-at-beach_wide-5df8e11df56e6c2dccb44a9331e96e761c2b2d67-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_fetuses_respond_to_face-like_patterns_study_suggests.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=532051762&amp;t=progseg&amp;e=532041531&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Fetuses Respond To Face-Like Patterns, Study Suggests</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/08/532051762/fetuses-respond-to-face-like-patterns-study-suggests</link>
-      <description>June 8, 2017 - Fetuses in the third trimester responded more often to patterns that resembled faces than patterns that did not. The findings don&#39;t mean fetuses can recognize their parents&#39; faces before they&#39;re born.</description>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170608_atc_fetuses_respond_to_face-like_patterns_study_suggests.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=532051762&amp;t=progseg&amp;e=532041531&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/gettyimages-487736091_wide-33c150449913f1f9bc33aa51b80c71950af266a7-s800-c15.jpg"></a>
-
-June 8, 2017 - Fetuses in the third trimester responded more often to patterns that resembled faces than patterns that did not. The findings don't mean fetuses can recognize their parents' faces before they're born.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/08/532051762/fetuses-respond-to-face-like-patterns-study-suggests">http://www.npr.org/sections/health-shots/2017/06/08/532051762/fetuses-respond-to-face-like-patterns-study-suggests</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/gettyimages-487736091_wide-33c150449913f1f9bc33aa51b80c71950af266a7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
