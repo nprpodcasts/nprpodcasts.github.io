@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2017 21:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 22:00:40 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 13 Jun 2017 21:01:39 +0000</pubDate>
+    <pubDate>Tue, 13 Jun 2017 22:00:40 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</guid>
+      <title>Trump Administration Gives Industry More Time to Adopt New Nutrition Fact Label </title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</link>
+      <description>June 13, 2017 - The Nutrition Facts label on food and drink packaging has gotten a makeover, but you may not see the updates for a while. The FDA has delayed the compliance date after companies asked for more time.</description>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/untitled-1_wide-e6031a4f98220edc4dbcda2aa34b6692b914cd8f-s800-c15.jpg"></a>
+
+June 13, 2017 - The Nutrition Facts label on food and drink packaging has gotten a makeover, but you may not see the updates for a while. The FDA has delayed the compliance date after companies asked for more time.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label">http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/untitled-1_wide-e6031a4f98220edc4dbcda2aa34b6692b914cd8f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income</guid>
       <title>Nevada May Become First State To Offer Medicaid To All, Regardless Of Income</title>
@@ -39,11 +54,12 @@ June 13, 2017 - The Nevada legislature has passed a bill that would allow anyone
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Brain Cell Transplants Are Being Tested Once Again For Parkinson&#39;s</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</link>
       <description>June 13, 2017 - In 2003, researchers declared a moratorium on the use of transplanted brain cells to treat Parkinson&#39;s disease. Now, armed with better cells, they&#39;re giving the approach another try.</description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s800-c15.jpg"></a>
 
@@ -51,6 +67,7 @@ June 13, 2017 - In 2003, researchers declared a moratorium on the use of transpl
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons">http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,23 +260,6 @@ June 12, 2017 - Studies have shown that Zika can damage a fetus's brain in the t
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/12/532083664/is-zika-dangerous-for-kids-probably-depends-on-the-age">http://www.npr.org/sections/goatsandsoda/2017/06/12/532083664/is-zika-dangerous-for-kids-probably-depends-on-the-age</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/08/gettyimages-726875415-10_wide-bf7b72972995c35818cf4b9c3a8142c461b92145-s3000-c15.jpg"></itunes:image>
       <itunes:duration>95</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170611_wesun_gops_proposed_cuts_to_medicaid_threaten_treatment_for_opioid_addiction.mp3?orgId=442&amp;topicId=1128&amp;d=225&amp;p=10&amp;story=531214580&amp;t=progseg&amp;e=532457188&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP&#39;s Proposed Cuts To Medicaid Threaten Treatment For Opioid Addiction</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/11/531214580/gops-proposed-cuts-to-medicaid-threaten-treatment-for-opioid-addiction</link>
-      <description>June 11, 2017 - Expanding Medicaid has helped many people caught up in the opioid epidemic get treatment. But doctors say the proposed Republican changes to the Affordable Care Act could jeopardize these programs.</description>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170611_wesun_gops_proposed_cuts_to_medicaid_threaten_treatment_for_opioid_addiction.mp3?orgId=442&amp;topicId=1128&amp;d=225&amp;p=10&amp;story=531214580&amp;t=progseg&amp;e=532457188&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/img_2971_wide-3fcda07979f34214f1586e993443cdb1e5316ec3-s800-c15.jpg"></a>
-
-June 11, 2017 - Expanding Medicaid has helped many people caught up in the opioid epidemic get treatment. But doctors say the proposed Republican changes to the Affordable Care Act could jeopardize these programs.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/11/531214580/gops-proposed-cuts-to-medicaid-threaten-treatment-for-opioid-addiction">http://www.npr.org/sections/health-shots/2017/06/11/531214580/gops-proposed-cuts-to-medicaid-threaten-treatment-for-opioid-addiction</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/img_2971_wide-3fcda07979f34214f1586e993443cdb1e5316ec3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

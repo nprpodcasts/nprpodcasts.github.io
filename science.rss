@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2017 21:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 22:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 13 Jun 2017 21:01:09 +0000</pubDate>
+    <pubDate>Tue, 13 Jun 2017 22:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Brain Cell Transplants Are Being Tested Once Again For Parkinson&#39;s</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</link>
       <description>June 13, 2017 - In 2003, researchers declared a moratorium on the use of transplanted brain cells to treat Parkinson&#39;s disease. Now, armed with better cells, they&#39;re giving the approach another try.</description>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ June 13, 2017 - In 2003, researchers declared a moratorium on the use of transpl
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons">http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -61,10 +63,12 @@ June 13, 2017 - We asked our readers what they wanted to know about world hunger
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_police_shootings_how_a_culture_of_racism_can_infect_us_all.mp3?orgId=1&amp;topicId=1024&amp;d=422&amp;p=3&amp;story=532724743&amp;t=progseg&amp;e=532712816&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 13, 2017 - In a shooting involving a police officer, there's often a familiar blame game: Was the cop was racist? Was the person shot threatening? Or maybe, the bias that leads cops to shoot affects us all.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/13/gettyimages-668939896_wide-456195e0b29e41b2979a580bcdca535da8ad92d1-s800-c15.jpg"></a>
+
+June 13, 2017 - In a shooting involving a police officer, there's often a familiar blame game: Was the cop was racist? Was the person shot threatening? Or maybe, the bias that leads cops to shoot affects us all.
 
 <a href="http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all">http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-668939896_wide-456195e0b29e41b2979a580bcdca535da8ad92d1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
