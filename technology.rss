@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 13:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 11:00:25 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 13:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -36,6 +36,23 @@
 <a href="http://www.npr.org/2017/06/14/532879727/the-social-media-app-where-nothing-matters">http://www.npr.org/2017/06/14/532879727/the-social-media-app-where-nothing-matters</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>97</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_if_voting_machines_were_hacked_would_anyone_know_.mp3?orgId=1&amp;topicId=1014&amp;d=233&amp;p=3&amp;story=532824432&amp;t=progseg&amp;e=532879123&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>If Voting Machines Were Hacked, Would Anyone Know? </title>
+      <link>http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know</link>
+      <description>June 14, 2017 - Even if most voting machines aren&#39;t connected to the Internet, &#34;they are connected to something that&#39;s connected to something that&#39;s connected to the Internet,&#34; says one cybersecurity expert.</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_if_voting_machines_were_hacked_would_anyone_know_.mp3?orgId=1&amp;topicId=1014&amp;d=233&amp;p=3&amp;story=532824432&amp;t=progseg&amp;e=532879123&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/gettyimages-620878108_wide-8c43cc033d60d81c11959a6c197f2e10e431442a-s800-c15.jpg"></a>
+
+June 14, 2017 - Even if most voting machines aren't connected to the Internet, "they are connected to something that's connected to something that's connected to the Internet," says one cybersecurity expert.
+
+<a href="http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know">http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-620878108_wide-8c43cc033d60d81c11959a6c197f2e10e431442a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ June 12, 2017 - Tempted to respond back to Internet harassers? New York City bak
 <a href="http://www.npr.org/2017/06/09/532288993/uber-drivers-confront-challenges-working-for-a-faceless-boss">http://www.npr.org/2017/06/09/532288993/uber-drivers-confront-challenges-working-for-a-faceless-boss</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>254</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</guid>
-      <title>Taylor Swift Returns To Spotify, Amends Her Relationship To Streaming</title>
-      <link>http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</link>
-      <description>June 9, 2017 - The pop superstar announced her &#39;return&#39; to streaming, but it&#39;s more complicated than that.&#xA;&#xA; - http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</description>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/09/gettyimages-500762786_wide-2e651cfa0943de4350f3abd39d5976be16eeea39-s800-c15.jpg"></a>
-
-June 9, 2017 - The pop superstar announced her 'return' to streaming, but it's more complicated than that.
-
-<a href="http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming">http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-500762786_wide-2e651cfa0943de4350f3abd39d5976be16eeea39-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
