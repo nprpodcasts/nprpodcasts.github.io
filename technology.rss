@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 09:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 11:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 09:00:33 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 11:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_the_social_media_app_where_nothing_matters.mp3?orgId=1&amp;topicId=1019&amp;d=97&amp;p=3&amp;story=532879727&amp;t=progseg&amp;e=532879123&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Social Media App Where Nothing Matters</title>
+      <link>http://www.npr.org/2017/06/14/532879727/the-social-media-app-where-nothing-matters</link>
+      <description>June 14, 2017 - Binky looks like a social media app, but nothing you do on it matters. It&#39;s not connected to anyone you know. Creator Dan Kurtz says &#34;it&#39;s all meaningless.&#34;</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_the_social_media_app_where_nothing_matters.mp3?orgId=1&amp;topicId=1019&amp;d=97&amp;p=3&amp;story=532879727&amp;t=progseg&amp;e=532879123&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 14, 2017 - Binky looks like a social media app, but nothing you do on it matters. It's not connected to anyone you know. Creator Dan Kurtz says "it's all meaningless."
+
+<a href="http://www.npr.org/2017/06/14/532879727/the-social-media-app-where-nothing-matters">http://www.npr.org/2017/06/14/532879727/the-social-media-app-where-nothing-matters</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>97</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_why_hasnt_online_dating_made_it_onscreen_.mp3?orgId=1&amp;topicId=1045&amp;d=206&amp;p=3&amp;story=532752841&amp;t=progseg&amp;e=532879123&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why Hasn&#39;t Online Dating Made It Onscreen? </title>
       <link>http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</link>
       <description>June 14, 2017 - The technology around us has made its way into all kinds of movies — sci-fi, thrillers, horror. But there&#39;s one movie genre it hasn&#39;t been able to infiltrate — the romantic comedy.</description>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_why_hasnt_online_dating_made_it_onscreen_.mp3?orgId=1&amp;topicId=1045&amp;d=206&amp;p=3&amp;story=532752841&amp;t=progseg&amp;e=532879123&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ June 14, 2017 - The technology around us has made its way into all kinds of movi
 
 <a href="http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen">http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ June 9, 2017 - The pop superstar announced her 'return' to streaming, but it's m
 
 <a href="http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming">http://www.npr.org/sections/therecord/2017/06/09/532238490/taylor-swift-returns-to-spotify-amends-her-relationship-to-streaming</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-500762786_wide-2e651cfa0943de4350f3abd39d5976be16eeea39-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_canadas_tech_firms_capitalize_on_immigration_anxiety_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=532220824&amp;t=progseg&amp;e=532200686&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Canada&#39;s Tech Firms Capitalize On Immigration Anxiety In The Age Of Trump</title>
-      <link>http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</link>
-      <description>June 9, 2017 - &#34;We feel that Canada has a window of opportunity here to be able to attract the best and the brightest,&#34; says one Canadian tech leader.</description>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170609_atc_canadas_tech_firms_capitalize_on_immigration_anxiety_in_the_age_of_trump.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=532220824&amp;t=progseg&amp;e=532200686&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s800-c15.jpg"></a>
-
-June 9, 2017 - "We feel that Canada has a window of opportunity here to be able to attract the best and the brightest," says one Canadian tech leader.
-
-<a href="http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump">http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

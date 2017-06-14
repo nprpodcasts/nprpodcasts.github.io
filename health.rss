@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2017 23:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 11:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 13 Jun 2017 23:00:14 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 11:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</guid>
+      <title>In Texas, People With Fluctuating Incomes Risk Being Cut Off From Medicaid</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</link>
+      <description>June 14, 2017 - Families with income that varies from month to month can find it hard to maintain enrollment in Texas&#39; Medicaid program. The question is whether the program trims waste or creates more red tape.</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/texas-medicaid-x_wide-9182554c2d57d65a9ad8f7d6f8d9f34b1ce96abe-s800-c15.jpg"></a>
+
+June 14, 2017 - Families with income that varies from month to month can find it hard to maintain enrollment in Texas' Medicaid program. The question is whether the program trims waste or creates more red tape.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid">http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/texas-medicaid-x_wide-9182554c2d57d65a9ad8f7d6f8d9f34b1ce96abe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</guid>
       <title>Trump Administration Gives Industry More Time to Adopt New Nutrition Fact Label </title>
@@ -247,23 +262,6 @@ June 12, 2017 - New mom Maisha Watson uses one of the 20,000 cardboard boxes giv
 <a href="http://www.npr.org/sections/health-shots/2017/06/12/532132906/as-popularity-of-baby-boxes-grows-skeptics-say-more-testing-is-needed">http://www.npr.org/sections/health-shots/2017/06/12/532132906/as-popularity-of-baby-boxes-grows-skeptics-say-more-testing-is-needed</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/08/baby-box-update-5_wide-d796b3f10bf9369e1ad7459635ec53a6867384c7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>288</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_is_zika_dangerous_for_kids_probably_depends_on_the_age.mp3?orgId=1&amp;topicId=1031&amp;d=95&amp;p=3&amp;story=532083664&amp;t=progseg&amp;e=532556633&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Is Zika Dangerous For Kids? It Probably Depends On The Age</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/12/532083664/is-zika-dangerous-for-kids-probably-depends-on-the-age</link>
-      <description>June 12, 2017 - Studies have shown that Zika can damage a fetus&#39;s brain in the third trimester. Would there also be an impact on the brain of a newborn?</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_is_zika_dangerous_for_kids_probably_depends_on_the_age.mp3?orgId=1&amp;topicId=1031&amp;d=95&amp;p=3&amp;story=532083664&amp;t=progseg&amp;e=532556633&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/gettyimages-726875415-10_wide-bf7b72972995c35818cf4b9c3a8142c461b92145-s800-c15.jpg"></a>
-
-June 12, 2017 - Studies have shown that Zika can damage a fetus's brain in the third trimester. Would there also be an impact on the brain of a newborn?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/12/532083664/is-zika-dangerous-for-kids-probably-depends-on-the-age">http://www.npr.org/sections/goatsandsoda/2017/06/12/532083664/is-zika-dangerous-for-kids-probably-depends-on-the-age</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/gettyimages-726875415-10_wide-bf7b72972995c35818cf4b9c3a8142c461b92145-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>95</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
