@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 18:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 19:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 18:00:29 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 19:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</guid>
+      <title>Medicaid Cuts In Wisconsin Would Undermine Training For Adults With Disabilities</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</link>
+      <description>June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s800-c15.jpg"></a>
+
+June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities">http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/14/532845573/will-fish-get-a-humanely-harvested-label-these-brothers-bet-40-million-on-it</guid>
       <title>Will Fish Get A Humanely Harvested Label? These Brothers Bet $40 Million On It</title>
@@ -243,21 +258,6 @@ June 11, 2017 - Expanding Medicaid has helped many people caught up in the opioi
 <a href="http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument">http://www.npr.org/2017/06/09/532289014/interior-secretary-ryan-zinke-reviews-bears-ears-national-monument</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</guid>
-      <title>FDA Calls On Drugmaker To Pull A Powerful Opioid Off The Market </title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</link>
-      <description>June 8, 2017 - The Food and Drug Administration says abuse of the painkiller Opana ER has fueled an outbreak of HIV, hepatitis C and a serious blood disorder, though it was reformulated to try to reduce abuse.</description>
-      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/08/ap_16271837996563_wide-4ceaf55a3658e8ea76c27aeb23348579b4983a2f-s800-c15.jpg"></a>
-
-June 8, 2017 - The Food and Drug Administration says abuse of the painkiller Opana ER has fueled an outbreak of HIV, hepatitis C and a serious blood disorder, though it was reformulated to try to reduce abuse.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market">http://www.npr.org/sections/health-shots/2017/06/08/532126206/fda-calls-on-drugmaker-to-pull-a-powerful-opioid-off-the-market</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/ap_16271837996563_wide-4ceaf55a3658e8ea76c27aeb23348579b4983a2f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

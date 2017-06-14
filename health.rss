@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 11:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 19:00:35 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 11:00:23 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 19:00:35 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</guid>
+      <title>Medicaid Cuts In Wisconsin Would Undermine Training For Adults With Disabilities</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</link>
+      <description>June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s800-c15.jpg"></a>
+
+June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities">http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</guid>
       <title>In Texas, People With Fluctuating Incomes Risk Being Cut Off From Medicaid</title>
@@ -245,23 +260,6 @@ June 12, 2017 - The Pulse Nightclub shootings in Orlando a year ago killed 49 pe
 <a href="http://www.npr.org/sections/health-shots/2017/06/12/531751457/a-pulse-nightclub-responder-confronts-a-new-crisis-ptsd">http://www.npr.org/sections/health-shots/2017/06/12/531751457/a-pulse-nightclub-responder-confronts-a-new-crisis-ptsd</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/08/gerry-realin-and-jessica-realin_wide-565314e7cc05d2ed8af21d3c59f65417c6768765-s3000-c15.jpg"></itunes:image>
       <itunes:duration>193</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_as_popularity_of_baby_boxes_grows_skeptics_say_more_testing_is_needed.mp3?orgId=1&amp;topicId=1066&amp;d=288&amp;p=3&amp;story=532132906&amp;t=progseg&amp;e=532556633&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>As Popularity Of Baby Boxes Grows, Skeptics Say More Testing Is Needed</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/12/532132906/as-popularity-of-baby-boxes-grows-skeptics-say-more-testing-is-needed</link>
-      <description>June 12, 2017 - New mom Maisha Watson uses one of the 20,000 cardboard boxes given out so far in New Jersey. She&#39;s glad to have a safe spot for her son to sleep. But some question the boxes&#39; safety and effectiveness.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_as_popularity_of_baby_boxes_grows_skeptics_say_more_testing_is_needed.mp3?orgId=1&amp;topicId=1066&amp;d=288&amp;p=3&amp;story=532132906&amp;t=progseg&amp;e=532556633&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/baby-box-update-5_wide-d796b3f10bf9369e1ad7459635ec53a6867384c7-s800-c15.jpg"></a>
-
-June 12, 2017 - New mom Maisha Watson uses one of the 20,000 cardboard boxes given out so far in New Jersey. She's glad to have a safe spot for her son to sleep. But some question the boxes' safety and effectiveness.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/12/532132906/as-popularity-of-baby-boxes-grows-skeptics-say-more-testing-is-needed">http://www.npr.org/sections/health-shots/2017/06/12/532132906/as-popularity-of-baby-boxes-grows-skeptics-say-more-testing-is-needed</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/baby-box-update-5_wide-d796b3f10bf9369e1ad7459635ec53a6867384c7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>288</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
