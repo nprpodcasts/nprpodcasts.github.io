@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 05:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 09:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 05:00:18 +0000</pubDate>
+    <pubDate>Wed, 14 Jun 2017 09:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</guid>
+      <title>Why Hasn&#39;t Online Dating Made It Onscreen? </title>
+      <link>http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</link>
+      <description>June 14, 2017 - The technology around us has made its way into all kinds of movies — sci-fi, thrillers, horror. But there&#39;s one movie genre it hasn&#39;t been able to infiltrate — the romantic comedy.</description>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s800-c15.jpg"></a>
+
+June 14, 2017 - The technology around us has made its way into all kinds of movies — sci-fi, thrillers, horror. But there's one movie genre it hasn't been able to infiltrate — the romantic comedy.
+
+<a href="http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen">http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_yahoo_ceo_marissa_mayer_resigns_as_verizon_completes_45_billion_purchase.mp3?orgId=1&amp;topicId=1006&amp;d=164&amp;p=2&amp;story=532816953&amp;t=progseg&amp;e=532709778&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Yahoo CEO Marissa Mayer Resigns As Verizon Completes $4.5 Billion Purchase</title>
@@ -239,23 +254,6 @@ June 9, 2017 - "We feel that Canada has a window of opportunity here to be able 
 <a href="http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump">http://www.npr.org/2017/06/09/532220824/canadas-tech-firms-capitalize-on-immigration-anxiety-in-the-age-of-trump</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/gettyimages-532146066_wide-9cadce0847e0d0e622f063d1b786c32a13b621a9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_uber_drivers_dont_feel_like_their_own_bosses.mp3?orgId=1&amp;topicId=1006&amp;d=337&amp;story=531642304&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Faceless Boss: A Look Into The Uber Driver Workplace</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/09/531642304/the-faceless-boss-a-look-into-the-uber-driver-workplace</link>
-      <description>June 9, 2017 - To recruit drivers, company leaders are fond of saying that at Uber, you can &#34;Be Your Own Boss.&#34; But NPR found that many Uber drivers feel controlled by a boss that is both always there, yet faceless.</description>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170608_me_uber_drivers_dont_feel_like_their_own_bosses.mp3?orgId=1&amp;topicId=1006&amp;d=337&amp;story=531642304&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/08/06062017_reninger_uber_npr_1317-edit_wide-17e2565f42f1535eece671e10ef4d69883ebee09-s800-c15.jpg"></a>
-
-June 9, 2017 - To recruit drivers, company leaders are fond of saying that at Uber, you can "Be Your Own Boss." But NPR found that many Uber drivers feel controlled by a boss that is both always there, yet faceless.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/09/531642304/the-faceless-boss-a-look-into-the-uber-driver-workplace">http://www.npr.org/sections/alltechconsidered/2017/06/09/531642304/the-faceless-boss-a-look-into-the-uber-driver-workplace</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/06062017_reninger_uber_npr_1317-edit_wide-17e2565f42f1535eece671e10ef4d69883ebee09-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>337</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
