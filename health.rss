@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 22:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 08:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 14 Jun 2017 22:00:16 +0000</pubDate>
+    <pubDate>Thu, 15 Jun 2017 08:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</guid>
+      <title>About Us: Goats And Soda</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</link>
+      <description>June 15, 2017 - Goats and Soda: What&#39;s our mission? And what&#39;s behind our name?&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 15, 2017 - Goats and Soda: What's our mission? And what's behind our name?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda">http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</guid>
+      <title>&#39;Supersizing Urban America&#39;: How U.S. Policies Encouraged Fast Food To Spread</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</link>
+      <description>June 15, 2017 - A new book examines how federal government policies made it easier for minorities to open fast-food franchises than grocery stores. Today the landscape of urban America reflects this history.</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/npr-2_wide-f039a1239eeecd8e9e5b1ae217ae0149903bc133-s800-c15.jpg"></a>
+
+June 15, 2017 - A new book examines how federal government policies made it easier for minorities to open fast-food franchises than grocery stores. Today the landscape of urban America reflects this history.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread">http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/npr-2_wide-f039a1239eeecd8e9e5b1ae217ae0149903bc133-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170614_atc_medicaid_cuts_in_wisconsin_would_undermine_training_for_adults_with_disabilities.mp3?orgId=1&amp;topicId=1128&amp;d=225&amp;p=2&amp;story=531928586&amp;t=progseg&amp;e=532888684&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Medicaid Cuts In Wisconsin Would Undermine Training For Adults With Disabilities</title>
@@ -230,38 +258,6 @@ June 12, 2017 - The maker of one medical treatment for opioid abuse has successf
 <a href="http://www.npr.org/sections/health-shots/2017/06/12/523774660/a-drugmaker-tries-to-cash-in-on-the-opioid-epidemic-one-state-law-at-a-time">http://www.npr.org/sections/health-shots/2017/06/12/523774660/a-drugmaker-tries-to-cash-in-on-the-opioid-epidemic-one-state-law-at-a-time</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/vivitrol-1_wide-acf787085af6175e49ddbadd5cae4345990201e9-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>495</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</guid>
-      <title>Is Zika Still A Problem In Florida And The Caribbean?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</link>
-      <description>June 12, 2017 - The Zika outbreak in Florida is officially over. And cases are dropping across the Caribbean. But doctors say the risk to pregnant women there — whether residents or travelers — isn&#39;t gone.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/09/miai-beach-1_wide-31158b0144c8eb2767629631c913ca00bcd2fe01-s800-c15.jpg"></a>
-
-June 12, 2017 - The Zika outbreak in Florida is officially over. And cases are dropping across the Caribbean. But doctors say the risk to pregnant women there — whether residents or travelers — isn't gone.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean">http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/miai-beach-1_wide-31158b0144c8eb2767629631c913ca00bcd2fe01-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_a_pulse_nightclub_responder_confronts_a_new_crisis_ptsd.mp3?orgId=502&amp;topicId=1128&amp;d=193&amp;p=3&amp;story=531751457&amp;t=progseg&amp;e=532556633&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Pulse Nightclub Responder Confronts A New Crisis: PTSD</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/12/531751457/a-pulse-nightclub-responder-confronts-a-new-crisis-ptsd</link>
-      <description>June 12, 2017 - The Pulse Nightclub shootings in Orlando a year ago killed 49 people. It was a horrific scene for first responders, and some are still struggling to cope with what they saw that night.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170612_me_a_pulse_nightclub_responder_confronts_a_new_crisis_ptsd.mp3?orgId=502&amp;topicId=1128&amp;d=193&amp;p=3&amp;story=531751457&amp;t=progseg&amp;e=532556633&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/gerry-realin-and-jessica-realin_wide-565314e7cc05d2ed8af21d3c59f65417c6768765-s800-c15.jpg"></a>
-
-June 12, 2017 - The Pulse Nightclub shootings in Orlando a year ago killed 49 people. It was a horrific scene for first responders, and some are still struggling to cope with what they saw that night.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/12/531751457/a-pulse-nightclub-responder-confronts-a-new-crisis-ptsd">http://www.npr.org/sections/health-shots/2017/06/12/531751457/a-pulse-nightclub-responder-confronts-a-new-crisis-ptsd</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/gerry-realin-and-jessica-realin_wide-565314e7cc05d2ed8af21d3c59f65417c6768765-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>193</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
