@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 17:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 20:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 17:12:46 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 20:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</guid>
+      <title>Is The Concern Artificial Intelligence — Or Autonomy?</title>
+      <link>http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</link>
+      <description>June 16, 2017 - At the end of the day, even the smartest computers are tools, our tools, and their intentions are our intentions — to the extent that we can speak of their intentions at all, says blogger Alva Noë.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/16/istock-675938062_wide-4601997553d881f0701de7bc0a2cd3d56c028365-s800-c15.jpg"></a>
+
+June 16, 2017 - At the end of the day, even the smartest computers are tools, our tools, and their intentions are our intentions — to the extent that we can speak of their intentions at all, says blogger Alva Noë.
+
+<a href="http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy">http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/istock-675938062_wide-4601997553d881f0701de7bc0a2cd3d56c028365-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/16/533199862/amazon-says-it-will-buy-whole-foods-in-13-7-billion-deal</guid>
       <title>Amazon Says It Will Buy Whole Foods In $13.7 Billion Deal</title>
@@ -245,21 +260,6 @@ June 13, 2017 - For decades India's IT talent has maintained the world's compute
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/13/530876721/indias-tech-firms-face-fundamental-shift-from-it-to-more-advanced-tech">http://www.npr.org/sections/alltechconsidered/2017/06/13/530876721/indias-tech-firms-face-fundamental-shift-from-it-to-more-advanced-tech</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/31/gettyimages-632342498_wide-879270a5395b3f37f2401fd2635785da77c5163a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</guid>
-      <title>The Covfefe Act Has A Silly Name — But It Addresses A Real Quandary</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</link>
-      <description>June 12, 2017 - In an era of unfiltered tweets from the president, Rep. Mike Quigley&#39;s bill would require the archiving of the president&#39;s social media posts — from official and personal accounts.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/ap_17163770797619_wide-2e36103d7a6ac04a1ce9d5828b1135ce2235dbff-s800-c15.jpg"></a>
-
-June 12, 2017 - In an era of unfiltered tweets from the president, Rep. Mike Quigley's bill would require the archiving of the president's social media posts — from official and personal accounts.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary">http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/ap_17163770797619_wide-2e36103d7a6ac04a1ce9d5828b1135ce2235dbff-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
