@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 21:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 06:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 15 Jun 2017 21:19:05 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 06:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,24 +24,59 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_exploring_the_abyss.mp3?orgId=1&amp;topicId=1007&amp;d=309&amp;p=2&amp;story=533063615&amp;t=progseg&amp;e=533042663&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Explorers Probing Deep Sea Abyss Off Australia&#39;s Coast Find Living Wonders</title>
+      <link>http://www.npr.org/2017/06/15/533063615/explorers-probing-deep-sea-abyss-off-australias-coast-find-living-wonders</link>
+      <description>June 15, 2017 - A month-long expedition into one of the deepest, least-documented places on the planet discovered hundreds of unknown species. The finds included a &#34;faceless fish&#34; undocumented there since 1873.</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_exploring_the_abyss.mp3?orgId=1&amp;topicId=1007&amp;d=309&amp;p=2&amp;story=533063615&amp;t=progseg&amp;e=533042663&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/csiro-blue-water-research-vessel-investigator_image-csiro-marine-national-facility_wide-5366ecd5f46e7899550a11220827417b8f347a0c-s800-c15.jpg"></a>
+
+June 15, 2017 - A month-long expedition into one of the deepest, least-documented places on the planet discovered hundreds of unknown species. The finds included a "faceless fish" undocumented there since 1873.
+
+<a href="http://www.npr.org/2017/06/15/533063615/explorers-probing-deep-sea-abyss-off-australias-coast-find-living-wonders">http://www.npr.org/2017/06/15/533063615/explorers-probing-deep-sea-abyss-off-australias-coast-find-living-wonders</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/csiro-blue-water-research-vessel-investigator_image-csiro-marine-national-facility_wide-5366ecd5f46e7899550a11220827417b8f347a0c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>309</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</guid>
+      <title>Lead Detected In Baby Food Samples. Pediatricians Say There&#39;s No Safe Level</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</link>
+      <description>June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there&#39;s no safe lead level. FDA is reviewing its policy.</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s800-c15.jpg"></a>
+
+June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there's no safe lead level. FDA is reviewing its policy.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level">http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_ikea_on_mars_inside_simulator_designers_learn_how_to_live_in_close_quarters.mp3?orgId=1&amp;topicId=1007&amp;d=161&amp;p=2&amp;story=533102606&amp;t=progseg&amp;e=533042663&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Inside Mars Simulator, IKEA Designers Learn How To Live In Close Quarters</title>
       <link>http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters</link>
       <description>June 15, 2017 - IKEA exiled designers to a research station in Utah modeled after a living situation on the planet Mars. They hope the experience will inspire them to create similar spaces around the world.</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_ikea_on_mars_inside_simulator_designers_learn_how_to_live_in_close_quarters.mp3?orgId=1&amp;topicId=1007&amp;d=161&amp;p=2&amp;story=533102606&amp;t=progseg&amp;e=533042663&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 15, 2017 - IKEA exiled designers to a research station in Utah modeled after a living situation on the planet Mars. They hope the experience will inspire them to create similar spaces around the world.
 
 <a href="http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters">http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>161</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Roots Of Consciousness: We&#39;re Of Two Minds</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</link>
       <description>June 15, 2017 - Surgery that severs the link between brain hemispheres reveals that those halves have way different views of the world. We ask a pioneering scientist what that tells us about human consciousness.</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s800-c15.jpg"></a>
 
@@ -49,14 +84,16 @@ June 15, 2017 - Surgery that severs the link between brain hemispheres reveals t
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds">http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>324</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Few Genetic Tweaks To Chinese Bird Flu Virus Could Fuel A Human Pandemic</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</link>
       <description>June 15, 2017 - Three genetic changes could be enough to make a bird flu strain that&#39;s already killing some people in China highly contagious. Are experiments with a deliberately mutated version too risky?</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s800-c15.jpg"></a>
 
@@ -64,6 +101,7 @@ June 15, 2017 - Three genetic changes could be enough to make a bird flu strain 
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic">http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +262,6 @@ June 12, 2017 - A nonprofit called Turnaround for Children helps schools meet th
 
 <a href="http://www.npr.org/sections/ed/2017/06/12/530893427/how-to-apply-the-brain-science-of-resilience-to-the-classroom">http://www.npr.org/sections/ed/2017/06/12/530893427/how-to-apply-the-brain-science-of-resilience-to-the-classroom</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/05/k_slattery-brainreconnections_wide-a6f0f13f1bd8c922b53db56aaf20fe63f212ff6d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</guid>
-      <title>Is Zika Still A Problem In Florida And The Caribbean?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</link>
-      <description>June 12, 2017 - The Zika outbreak in Florida is officially over. And cases are dropping across the Caribbean. But doctors say the risk to pregnant women there — whether residents or travelers — isn&#39;t gone.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/09/miai-beach-1_wide-31158b0144c8eb2767629631c913ca00bcd2fe01-s800-c15.jpg"></a>
-
-June 12, 2017 - The Zika outbreak in Florida is officially over. And cases are dropping across the Caribbean. But doctors say the risk to pregnant women there — whether residents or travelers — isn't gone.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean">http://www.npr.org/sections/health-shots/2017/06/12/531949066/is-zika-still-a-problem-in-florida-and-the-caribbean</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/miai-beach-1_wide-31158b0144c8eb2767629631c913ca00bcd2fe01-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170611_atc_watc_fox_hedgehog.mp3?orgId=1&amp;topicId=1091&amp;d=819&amp;p=2&amp;story=532503056&amp;t=progseg&amp;e=532503034&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Triumphs And Perils Of &#39;Going Big&#39;</title>
-      <link>http://www.npr.org/2017/06/11/532503056/what-happens-when-a-leaders-vision-is-the-wrong-one</link>
-      <description>June 11, 2017 - Don Laub was a pioneering surgeon — one of the first in the U.S. to perform gender reassignment surgeries, but tragedy came when he traveled to Mexico to provide free surgeries to children.</description>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170611_atc_watc_fox_hedgehog.mp3?orgId=1&amp;topicId=1091&amp;d=819&amp;p=2&amp;story=532503056&amp;t=progseg&amp;e=532503034&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s800-c15.png"></a>
-
-June 11, 2017 - Don Laub was a pioneering surgeon — one of the first in the U.S. to perform gender reassignment surgeries, but tragedy came when he traveled to Mexico to provide free surgeries to children.
-
-<a href="http://www.npr.org/2017/06/11/532503056/what-happens-when-a-leaders-vision-is-the-wrong-one">http://www.npr.org/2017/06/11/532503056/what-happens-when-a-leaders-vision-is-the-wrong-one</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/hedge_fox_wide-f488091a855f16f75ff022cc41674bde70dbf51b-s3000-c15.png"></itunes:image>
-      <itunes:duration>819</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

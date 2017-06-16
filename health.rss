@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 21:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 06:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 15 Jun 2017 21:19:02 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 06:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</guid>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</guid>
+      <title>Lead Detected In Baby Food Samples. Pediatricians Say There&#39;s No Safe Level</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</link>
+      <description>June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there&#39;s no safe lead level. FDA is reviewing its policy.</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s800-c15.jpg"></a>
+
+June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there's no safe lead level. FDA is reviewing its policy.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level">http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Roots Of Consciousness: We&#39;re Of Two Minds</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</link>
       <description>June 15, 2017 - Surgery that severs the link between brain hemispheres reveals that those halves have way different views of the world. We ask a pioneering scientist what that tells us about human consciousness.</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s800-c15.jpg"></a>
 
@@ -36,14 +52,16 @@ June 15, 2017 - Surgery that severs the link between brain hemispheres reveals t
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds">http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>324</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Few Genetic Tweaks To Chinese Bird Flu Virus Could Fuel A Human Pandemic</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</link>
       <description>June 15, 2017 - Three genetic changes could be enough to make a bird flu strain that&#39;s already killing some people in China highly contagious. Are experiments with a deliberately mutated version too risky?</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s800-c15.jpg"></a>
 
@@ -51,6 +69,7 @@ June 15, 2017 - Three genetic changes could be enough to make a bird flu strain 
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic">http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +258,6 @@ June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previou
 <a href="http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate">http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>718</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/13/532637216/just-lost-your-job-cobra-may-be-your-best-health-insurance-strategy-now</guid>
-      <title>Just Lost Your Job? COBRA May Be Your Best Health Insurance Strategy Now</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/532637216/just-lost-your-job-cobra-may-be-your-best-health-insurance-strategy-now</link>
-      <description>June 13, 2017 - With the 2018 health insurance market still in play, you might want to extend your job-based insurance until this fall, when the outlines of the health law&#39;s marketplaces should become clearer.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/12/gettyimages-176623208---isolated-biz-guy-overlooking-city_wide-328d633e00130d38532f6ffd9bba1b0347f2491c-s800-c15.jpg"></a>
-
-June 13, 2017 - With the 2018 health insurance market still in play, you might want to extend your job-based insurance until this fall, when the outlines of the health law's marketplaces should become clearer.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/532637216/just-lost-your-job-cobra-may-be-your-best-health-insurance-strategy-now">http://www.npr.org/sections/health-shots/2017/06/13/532637216/just-lost-your-job-cobra-may-be-your-best-health-insurance-strategy-now</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/gettyimages-176623208---isolated-biz-guy-overlooking-city_wide-328d633e00130d38532f6ffd9bba1b0347f2491c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 08:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 06:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 15 Jun 2017 08:00:13 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 06:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_investor_who_took_on_uber_and_silicon_valley.mp3?orgId=1&amp;topicId=1006&amp;d=374&amp;p=2&amp;story=532973451&amp;t=progseg&amp;e=533042663&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Investor Who Took On Uber, And Silicon Valley</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/15/532973451/the-investor-who-took-on-uber-and-silicon-valley</link>
+      <description>June 15, 2017 - In Silicon Valley, you&#39;re supposed to build businesses unapologetically. You&#39;re not supposed to speak out against injustice. Freada Kapor Klein breaks those rules.</description>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_investor_who_took_on_uber_and_silicon_valley.mp3?orgId=1&amp;topicId=1006&amp;d=374&amp;p=2&amp;story=532973451&amp;t=progseg&amp;e=533042663&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/15/_n0a5489-edit_wide-3ff3af60a67e4c5bbdce9ad80b77e5a642430567-s800-c15.jpg"></a>
+
+June 15, 2017 - In Silicon Valley, you're supposed to build businesses unapologetically. You're not supposed to speak out against injustice. Freada Kapor Klein breaks those rules.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/15/532973451/the-investor-who-took-on-uber-and-silicon-valley">http://www.npr.org/sections/alltechconsidered/2017/06/15/532973451/the-investor-who-took-on-uber-and-silicon-valley</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/_n0a5489-edit_wide-3ff3af60a67e4c5bbdce9ad80b77e5a642430567-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>374</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170615_me_podcasts_and_audiobooks_reach_out_to_a_new_audience_children.mp3?orgId=1&amp;topicId=1008&amp;d=229&amp;p=3&amp;story=533023825&amp;t=progseg&amp;e=533023531&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Podcasts And Audiobooks Reach Out To A New Audience: Children</title>
@@ -243,21 +260,6 @@ June 12, 2017 - Technology and new laws are taking notarizations digital, adding
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam">http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/notarize---two-signer_wide-f5414a4719369419c0dd674b214f894a0d5ea8dd-s3000-c15.png"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</guid>
-      <title>This Baker Makes Internet Trolls Eat Their Words — Literally</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</link>
-      <description>June 12, 2017 - Tempted to respond back to Internet harassers? New York City baker Kat Thek does just that. Her company, Troll Cakes, will find your perpetrator and send them a cake with their words written on it.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/31/raw-clam-troll-cake-1-_wide-7ecb04a5223a4c1dc89934fc92723c92d1af9be5-s800-c15.jpg"></a>
-
-June 12, 2017 - Tempted to respond back to Internet harassers? New York City baker Kat Thek does just that. Her company, Troll Cakes, will find your perpetrator and send them a cake with their words written on it.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally">http://www.npr.org/sections/thesalt/2017/06/12/529747366/this-baker-makes-internet-trolls-eat-their-words-literally</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/raw-clam-troll-cake-1-_wide-7ecb04a5223a4c1dc89934fc92723c92d1af9be5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
