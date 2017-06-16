@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 06:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 17:12:46 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 06:00:27 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 17:12:46 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/16/533199862/amazon-says-it-will-buy-whole-foods-in-13-7-billion-deal</guid>
+      <title>Amazon Says It Will Buy Whole Foods In $13.7 Billion Deal</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/16/533199862/amazon-says-it-will-buy-whole-foods-in-13-7-billion-deal</link>
+      <description>June 16, 2017 - Whole Foods, which opened its first store in Austin, Texas, back in 1980, now has 465 markets in North America and the U.K.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/16/ap_16124505339589_wide-3ca825777e0b9cc53d1604bf9a24d099a6230e48-s800-c15.jpg"></a>
+
+June 16, 2017 - Whole Foods, which opened its first store in Austin, Texas, back in 1980, now has 465 markets in North America and the U.K.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/16/533199862/amazon-says-it-will-buy-whole-foods-in-13-7-billion-deal">http://www.npr.org/sections/thetwo-way/2017/06/16/533199862/amazon-says-it-will-buy-whole-foods-in-13-7-billion-deal</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/ap_16124505339589_wide-3ca825777e0b9cc53d1604bf9a24d099a6230e48-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170616_me_investing_in_bitcoin_a_wise_choice.mp3?orgId=1&amp;topicId=1017&amp;d=233&amp;p=3&amp;story=533176648&amp;t=progseg&amp;e=533175795&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Investing In Bitcoin: A Wise Choice?</title>
+      <link>http://www.npr.org/2017/06/16/533176648/investing-in-bitcoin-a-wise-choice</link>
+      <description>June 16, 2017 - The price of bitcoin has been soaring, leading some amateur investors to jump into the virtual currency market. But even enthusiasts are worried the price surge might be a bubble about to burst.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170616_me_investing_in_bitcoin_a_wise_choice.mp3?orgId=1&amp;topicId=1017&amp;d=233&amp;p=3&amp;story=533176648&amp;t=progseg&amp;e=533175795&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 16, 2017 - The price of bitcoin has been soaring, leading some amateur investors to jump into the virtual currency market. But even enthusiasts are worried the price surge might be a bubble about to burst.
+
+<a href="http://www.npr.org/2017/06/16/533176648/investing-in-bitcoin-a-wise-choice">http://www.npr.org/2017/06/16/533176648/investing-in-bitcoin-a-wise-choice</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170616_me_watch_what_makes_japan_no_1_in_toilet_technology.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=98&amp;p=3&amp;story=526005547&amp;t=progseg&amp;e=533175795&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>WATCH: What Makes Japan No. 1 In Toilet Technology</title>
+      <link>http://www.npr.org/sections/parallels/2017/06/16/526005547/watch-what-makes-japan-no-1-in-toilet-technology</link>
+      <description>June 16, 2017 - In NPR&#39;s Elise Tries series, correspondent Elise Hu tries out new experiences in East Asia. In this episode, Japanese toilets: so automated and comfortable, you might never want to leave the bathroom.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170616_me_watch_what_makes_japan_no_1_in_toilet_technology.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=98&amp;p=3&amp;story=526005547&amp;t=progseg&amp;e=533175795&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/07/et3_still_titlescreen_wide-2c80e959f084b8378690f2e81a29a43643a6379e-s800-c15.jpg"></a>
+
+June 16, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out new experiences in East Asia. In this episode, Japanese toilets: so automated and comfortable, you might never want to leave the bathroom.
+
+<a href="http://www.npr.org/sections/parallels/2017/06/16/526005547/watch-what-makes-japan-no-1-in-toilet-technology">http://www.npr.org/sections/parallels/2017/06/16/526005547/watch-what-makes-japan-no-1-in-toilet-technology</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/et3_still_titlescreen_wide-2c80e959f084b8378690f2e81a29a43643a6379e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_investor_who_took_on_uber_and_silicon_valley.mp3?orgId=1&amp;topicId=1006&amp;d=374&amp;p=2&amp;story=532973451&amp;t=progseg&amp;e=533042663&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Investor Who Took On Uber, And Silicon Valley</title>
@@ -213,53 +260,6 @@ June 12, 2017 - In an era of unfiltered tweets from the president, Rep. Mike Qui
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary">http://www.npr.org/sections/thetwo-way/2017/06/12/532651827/the-covfefe-act-has-a-silly-name-but-it-addresses-a-real-quandary</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/ap_17163770797619_wide-2e36103d7a6ac04a1ce9d5828b1135ce2235dbff-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</guid>
-      <title>Pakistan Sentences Man To Death For &#39;Blasphemy&#39; On Social Media</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</link>
-      <description>June 12, 2017 - Amnesty International says this is the country&#39;s harshest sentence yet for a cybercrime related offense. The Pakistani government is pushing a campaign against blasphemy on social media.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/gettyimages-649516052_wide-d56a4399bcd418708d7c16be25ee79bb65b4f4e5-s800-c15.jpg"></a>
-
-June 12, 2017 - Amnesty International says this is the country's harshest sentence yet for a cybercrime related offense. The Pakistani government is pushing a campaign against blasphemy on social media.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media">http://www.npr.org/sections/thetwo-way/2017/06/12/532632860/pakistan-sentences-man-to-death-for-blasphemy-on-social-media</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/gettyimages-649516052_wide-d56a4399bcd418708d7c16be25ee79bb65b4f4e5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_uber_considers_leave_of_absence_for_ceo_travis_kalanack.mp3?orgId=1&amp;topicId=1006&amp;d=212&amp;p=2&amp;story=532645968&amp;t=progseg&amp;e=532574087&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Uber Considers Leave Of Absence For CEO Travis Kalanack</title>
-      <link>http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack</link>
-      <description>June 12, 2017 - Despite phenomenal growth and popularity with users, Uber&#39;s troubles are mounting. The ride hailing company has been rocked by a sexual harassment scandal, top executives have quit, and there are reports that CEO and co-founder Travis Kalanack may take a leave of absence. Employees and investors tell NPR that Uber faces a more challenging problem — its fractured relationship with drivers.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_uber_considers_leave_of_absence_for_ceo_travis_kalanack.mp3?orgId=1&amp;topicId=1006&amp;d=212&amp;p=2&amp;story=532645968&amp;t=progseg&amp;e=532574087&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 12, 2017 - Despite phenomenal growth and popularity with users, Uber's troubles are mounting. The ride hailing company has been rocked by a sexual harassment scandal, top executives have quit, and there are reports that CEO and co-founder Travis Kalanack may take a leave of absence. Employees and investors tell NPR that Uber faces a more challenging problem — its fractured relationship with drivers.
-
-<a href="http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack">http://www.npr.org/2017/06/12/532645968/uber-considers-leave-of-absence-for-ceo-travis-kalanack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_notaries_are_starting_to_put_down_the_stamp_and_pick_up_a_webcam.mp3?orgId=77&amp;topicId=1019&amp;d=235&amp;p=2&amp;story=532586426&amp;t=progseg&amp;e=532574087&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Notaries Are Starting To Put Down The Stamp And Pick Up A Webcam</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</link>
-      <description>June 12, 2017 - Technology and new laws are taking notarizations digital, adding them to the list of things you can do on your phone or computer. However, America&#39;s 4 million notaries are split on the idea.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_notaries_are_starting_to_put_down_the_stamp_and_pick_up_a_webcam.mp3?orgId=77&amp;topicId=1019&amp;d=235&amp;p=2&amp;story=532586426&amp;t=progseg&amp;e=532574087&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/notarize---two-signer_wide-f5414a4719369419c0dd674b214f894a0d5ea8dd-s800-c15.png"></a>
-
-June 12, 2017 - Technology and new laws are taking notarizations digital, adding them to the list of things you can do on your phone or computer. However, America's 4 million notaries are split on the idea.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam">http://www.npr.org/sections/alltechconsidered/2017/06/12/532586426/notaries-are-starting-to-put-down-the-stamp-and-pick-up-a-webcam</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/notarize---two-signer_wide-f5414a4719369419c0dd674b214f894a0d5ea8dd-s3000-c15.png"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

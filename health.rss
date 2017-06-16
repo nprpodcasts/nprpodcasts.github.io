@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 06:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 17:13:03 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 06:00:31 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 17:13:03 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style</guid>
+      <title>Research Finds Dressmakers Have Good Eyes, And Not Just For Style</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style</link>
+      <description>June 16, 2017 - In a study of people from a variety of professions, dressmakers had superior 3-D vision. Could their endless hours of delicate handwork be honing eyesight?</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/gettyimages-97937205_wide-a7607f61100f60ae8f3ead1c8cebbe4d673a23ca-s800-c15.jpg"></a>
+
+June 16, 2017 - In a study of people from a variety of professions, dressmakers had superior 3-D vision. Could their endless hours of delicate handwork be honing eyesight?
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style">http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/gettyimages-97937205_wide-a7607f61100f60ae8f3ead1c8cebbe4d673a23ca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/16/533060031/doctor-who-wrote-1980-letter-on-painkillers-regrets-that-it-fed-the-opioid-crisi</guid>
+      <title>Doctor Who Wrote 1980 Letter On Painkillers Regrets That It Fed The Opioid Crisis</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/16/533060031/doctor-who-wrote-1980-letter-on-painkillers-regrets-that-it-fed-the-opioid-crisi</link>
+      <description>June 16, 2017 - In 1980, Dr. Hershel Jick wrote a one-paragraph letter about low rates of addiction among hospitalized patients given narcotics. It was later cited as evidence that long-term opioid use was safe.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/oxycontin-1_wide-1a81f6f1f618a0ea51cc2ccfc92597ad0e51d72c-s800-c15.jpg"></a>
+
+June 16, 2017 - In 1980, Dr. Hershel Jick wrote a one-paragraph letter about low rates of addiction among hospitalized patients given narcotics. It was later cited as evidence that long-term opioid use was safe.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/16/533060031/doctor-who-wrote-1980-letter-on-painkillers-regrets-that-it-fed-the-opioid-crisi">http://www.npr.org/sections/health-shots/2017/06/16/533060031/doctor-who-wrote-1980-letter-on-painkillers-regrets-that-it-fed-the-opioid-crisi</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/oxycontin-1_wide-1a81f6f1f618a0ea51cc2ccfc92597ad0e51d72c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</guid>
       <title>Lead Detected In Baby Food Samples. Pediatricians Say There&#39;s No Safe Level</title>
@@ -228,36 +258,6 @@ June 13, 2017 - We asked our readers what they wanted to know about world hunger
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq">http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/hbarczyk_npr_famine_finalart2-1_wide-754d27cc8fb7e2dfc800c9889f57904b597953b0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</guid>
-      <title>Could Drones Help Save People In Cardiac Arrest? </title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</link>
-      <description>June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previous cardiac arrest cases in a rural area of Sweden, a study finds. But this has yet to be tried in real emergencies.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/12/drone-aed_wide-f963e6c8a0dc553c7659d3847fd1c2c0ce5a087d-s800-c15.jpeg"></a>
-
-June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previous cardiac arrest cases in a rural area of Sweden, a study finds. But this has yet to be tried in real emergencies.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest">http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/drone-aed_wide-f963e6c8a0dc553c7659d3847fd1c2c0ce5a087d-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170613-1.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>What&#39;s Next For Health Care In The Senate?</title>
-      <link>http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate</link>
-      <description>June 13, 2017 - The GOP is working on a plan … but when will anyone see it?&#xA;&#xA; - http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170613-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 13, 2017 - The GOP is working on a plan … but when will anyone see it?
-
-<a href="http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate">http://the1a.org/shows/2017-06-13/whats-next-for-health-care-in-the-senate</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>718</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
