@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 19:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 21:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 19:00:28 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 21:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</guid>
+      <title>Cholera Clobbers Yemen</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</link>
+      <description>June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health-care system is collapsing.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-8fb815e1f6d0f4fff13e70e3d5a81b3257fa7de8-s800-c15.jpg"></a>
+
+June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health-care system is collapsing.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen">http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-8fb815e1f6d0f4fff13e70e3d5a81b3257fa7de8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/06/16/532811944/hunted-and-hated-people-with-albinism-speak-out-and-sing-out</guid>
       <title>Hunted And Hated, People With Albinism Speak Out — And Sing Out</title>
@@ -241,23 +256,6 @@ June 13, 2017 - In 2003, researchers declared a moratorium on the use of transpl
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons">http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s3000-c15.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_long_waits_and_long_odds_for_those_who_need_social_security_disability_.mp3?orgId=60&amp;topicId=1128&amp;d=228&amp;p=2&amp;story=531207430&amp;t=progseg&amp;e=532709778&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Long Waits And Long Odds For Those Who Need Social Security Disability </title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/531207430/people-with-unseen-disabilities-could-suffer-under-new-government-rules</link>
-      <description>June 13, 2017 - The U.S. government has been struggling to balance a surge in applicants for disability benefits with shrinking funds. An updated application process could make getting benefits even harder.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_long_waits_and_long_odds_for_those_who_need_social_security_disability_.mp3?orgId=60&amp;topicId=1128&amp;d=228&amp;p=2&amp;story=531207430&amp;t=progseg&amp;e=532709778&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/12/img_6896_fixed_wide-2a224372a10c39fc2fb51d8c33ba63ffa5a3ce70-s800-c15.png"></a>
-
-June 13, 2017 - The U.S. government has been struggling to balance a surge in applicants for disability benefits with shrinking funds. An updated application process could make getting benefits even harder.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/531207430/people-with-unseen-disabilities-could-suffer-under-new-government-rules">http://www.npr.org/sections/health-shots/2017/06/13/531207430/people-with-unseen-disabilities-could-suffer-under-new-government-rules</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/img_6896_fixed_wide-2a224372a10c39fc2fb51d8c33ba63ffa5a3ce70-s3000-c15.png"></itunes:image>
-      <itunes:duration>228</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

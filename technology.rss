@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 20:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 20:00:26 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</guid>
+      <title>Amazon Announces Plan To Buy Whole Foods For $13.7 Billion</title>
+      <link>http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</link>
+      <description>June 16, 2017 - Amazon announced it will buy Whole Foods Market in a deal valued at $13.7 billion. This is by far the largest acquisition Amazon has made, promising a massive change of pace for both the organic food chain and its competitors.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 16, 2017 - Amazon announced it will buy Whole Foods Market in a deal valued at $13.7 billion. This is by far the largest acquisition Amazon has made, promising a massive change of pace for both the organic food chain and its competitors.
+
+<a href="http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion">http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</guid>
       <title>Is The Concern Artificial Intelligence — Or Autonomy?</title>
@@ -243,23 +256,6 @@ June 13, 2017 - The newspaper struggled amid declines in print ads, but under Am
 <a href="http://www.npr.org/2017/06/13/532724722/history-of-our-time-softwares-power-to-replace-humans">http://www.npr.org/2017/06/13/532724722/history-of-our-time-softwares-power-to-replace-humans</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>403</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_indias_tech_firms_face_fundamental_shift_from_it_to_more_advanced_tech.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=530876721&amp;t=progseg&amp;e=532712816&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>India&#39;s Tech Firms Face Fundamental Shift From IT To More Advanced Tech</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/13/530876721/indias-tech-firms-face-fundamental-shift-from-it-to-more-advanced-tech</link>
-      <description>June 13, 2017 - For decades India&#39;s IT talent has maintained the world&#39;s computers, databases and back offices. But new technologies are overtaking that old business model, and analysts predict massive layoffs.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_indias_tech_firms_face_fundamental_shift_from_it_to_more_advanced_tech.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=530876721&amp;t=progseg&amp;e=532712816&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/05/31/gettyimages-632342498_wide-879270a5395b3f37f2401fd2635785da77c5163a-s800-c15.jpg"></a>
-
-June 13, 2017 - For decades India's IT talent has maintained the world's computers, databases and back offices. But new technologies are overtaking that old business model, and analysts predict massive layoffs.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/13/530876721/indias-tech-firms-face-fundamental-shift-from-it-to-more-advanced-tech">http://www.npr.org/sections/alltechconsidered/2017/06/13/530876721/indias-tech-firms-face-fundamental-shift-from-it-to-more-advanced-tech</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/31/gettyimages-632342498_wide-879270a5395b3f37f2401fd2635785da77c5163a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
