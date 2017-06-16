@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 18:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 19:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 18:01:04 +0000</pubDate>
+    <pubDate>Fri, 16 Jun 2017 19:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/16/532811944/hunted-and-hated-people-with-albinism-speak-out-and-sing-out</guid>
+      <title>Hunted And Hated, People With Albinism Speak Out — And Sing Out</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/16/532811944/hunted-and-hated-people-with-albinism-speak-out-and-sing-out</link>
+      <description>June 16, 2017 - They&#39;re attacked for their body parts and stigmatized by society. They want to let the world know how it feels — by speaking out and singing out as well.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/cover_wide-e4c4288736fd2775a6f169566d180ed0446d5a41-s800-c15.jpg"></a>
+
+June 16, 2017 - They're attacked for their body parts and stigmatized by society. They want to let the world know how it feels — by speaking out and singing out as well.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/16/532811944/hunted-and-hated-people-with-albinism-speak-out-and-sing-out">http://www.npr.org/sections/goatsandsoda/2017/06/16/532811944/hunted-and-hated-people-with-albinism-speak-out-and-sing-out</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/cover_wide-e4c4288736fd2775a6f169566d180ed0446d5a41-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style</guid>
       <title>Research Finds Dressmakers Have Good Eyes, And Not Just For Style</title>
@@ -70,7 +85,7 @@ June 15, 2017 - Twenty percent of baby food samples were found to contain lead, 
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Roots Of Consciousness: We&#39;re Of Two Minds</title>
+      <title>The Roots Of Consciousness: We&#39;re Of 2 Minds</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</link>
       <description>June 15, 2017 - Surgery that severs the link between brain hemispheres reveals that those halves have way different views of the world. We ask a pioneering scientist what that tells us about human consciousness.</description>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
@@ -243,21 +258,6 @@ June 13, 2017 - The U.S. government has been struggling to balance a surge in ap
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/531207430/people-with-unseen-disabilities-could-suffer-under-new-government-rules">http://www.npr.org/sections/health-shots/2017/06/13/531207430/people-with-unseen-disabilities-could-suffer-under-new-government-rules</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/img_6896_fixed_wide-2a224372a10c39fc2fb51d8c33ba63ffa5a3ce70-s3000-c15.png"></itunes:image>
       <itunes:duration>228</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</guid>
-      <title>What&#39;s The Difference Between Famine And Hunger? A Food FAQ</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</link>
-      <description>June 13, 2017 - We asked our readers what they wanted to know about world hunger? So many thoughtful questions came in that we did a roundup of queries about hunger and famine.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/09/hbarczyk_npr_famine_finalart2-1_wide-754d27cc8fb7e2dfc800c9889f57904b597953b0-s800-c15.jpg"></a>
-
-June 13, 2017 - We asked our readers what they wanted to know about world hunger? So many thoughtful questions came in that we did a roundup of queries about hunger and famine.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq">http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/hbarczyk_npr_famine_finalart2-1_wide-754d27cc8fb7e2dfc800c9889f57904b597953b0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
