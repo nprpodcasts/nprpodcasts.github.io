@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 21:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2017 01:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 21:00:27 +0000</pubDate>
+    <pubDate>Sat, 17 Jun 2017 01:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_heartbeat_music.mp3?orgId=1&amp;topicId=1008&amp;d=338&amp;p=2&amp;story=533255537&amp;t=progseg&amp;e=533177018&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Heartbeat Music: Parents Remember Their Son Through His Song Of Life</title>
+      <link>http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life</link>
+      <description>June 16, 2017 - Nate Kramer was a tall, quiet collegiate swimmer when he was diagnosed with leukemia. He died four years later. But during treatment he met a therapist, and together they played and recorded music.</description>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_heartbeat_music.mp3?orgId=1&amp;topicId=1008&amp;d=338&amp;p=2&amp;story=533255537&amp;t=progseg&amp;e=533177018&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/brianschreckhospital_wide-69ae01ccf073172fb42ca745208b1041735cae6c-s800-c15.jpg"></a>
+
+June 16, 2017 - Nate Kramer was a tall, quiet collegiate swimmer when he was diagnosed with leukemia. He died four years later. But during treatment he met a therapist, and together they played and recorded music.
+
+<a href="http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life">http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/brianschreckhospital_wide-69ae01ccf073172fb42ca745208b1041735cae6c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>338</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</guid>
-      <title>Cholera Clobbers Yemen</title>
+      <title>Cholera Ravages Yemen</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</link>
-      <description>June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health-care system is collapsing.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</description>
+      <description>June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health care system is collapsing.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</description>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-8fb815e1f6d0f4fff13e70e3d5a81b3257fa7de8-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-7770008d1c9d4de8a08e338f4d00ac385b7ee5c3-s800-c15.jpg"></a>
 
-June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health-care system is collapsing.
+June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health care system is collapsing.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen">http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-8fb815e1f6d0f4fff13e70e3d5a81b3257fa7de8-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-7770008d1c9d4de8a08e338f4d00ac385b7ee5c3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,23 +256,6 @@ June 13, 2017 - The Nevada legislature has passed a bill that would allow anyone
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income">http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/ap_850094157770-1-_wide-3119607d29e17759b011b27993fdf64d29c80699-s3000-c15.jpg"></itunes:image>
       <itunes:duration>220</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Brain Cell Transplants Are Being Tested Once Again For Parkinson&#39;s</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</link>
-      <description>June 13, 2017 - In 2003, researchers declared a moratorium on the use of transplanted brain cells to treat Parkinson&#39;s disease. Now, armed with better cells, they&#39;re giving the approach another try.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_brain_cell_transplants_are_being_tested_once_again_for_parkinsons.mp3?orgId=1&amp;topicId=1128&amp;d=204&amp;p=2&amp;story=532792500&amp;t=progseg&amp;e=532709778&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s800-c15.jpg"></a>
-
-June 13, 2017 - In 2003, researchers declared a moratorium on the use of transplanted brain cells to treat Parkinson's disease. Now, armed with better cells, they're giving the approach another try.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons">http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
