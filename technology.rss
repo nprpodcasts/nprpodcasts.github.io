@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 01:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 15:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 17 Jun 2017 01:00:21 +0000</pubDate>
+    <pubDate>Sun, 18 Jun 2017 15:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_walmart_and_bonobos.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=10&amp;story=533402821&amp;t=progseg&amp;e=533402256&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Wal-Mart To Buy Bonobos In Challenge To Amazon</title>
+      <link>http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</link>
+      <description>June 18, 2017 - Wal-Mart is purchasing men&#39;s clothing seller Bonobos as the giant retailer looks to stay competitive with Amazon.&#xA;&#xA; - http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</description>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_walmart_and_bonobos.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=10&amp;story=533402821&amp;t=progseg&amp;e=533402256&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 18, 2017 - Wal-Mart is purchasing men's clothing seller Bonobos as the giant retailer looks to stay competitive with Amazon.
+
+<a href="http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon">http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_amazon_announces_plan_to_buy_whole_foods_for_137_billion.mp3?orgId=1&amp;topicId=1006&amp;d=235&amp;p=2&amp;story=533255561&amp;t=progseg&amp;e=533177018&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Amazon Announces Plan To Buy Whole Foods For $13.7 Billion</title>
@@ -243,21 +258,6 @@ June 13, 2017 - The newspaper struggled amid declines in print ads, but under Am
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/13/531099577/at-washington-post-tech-is-increasingly-boosting-financial-performance">http://www.npr.org/sections/alltechconsidered/2017/06/13/531099577/at-washington-post-tech-is-increasingly-boosting-financial-performance</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-507322484_wide-d6c290832d8e9f3d6a9d37801c3f9104db2af9cc-s3000-c15.jpg"></itunes:image>
       <itunes:duration>277</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_history_of_our_time_softwares_power_to_replace_humans.mp3?orgId=1&amp;topicId=1019&amp;aggIds=524336607&amp;d=403&amp;p=3&amp;story=532724722&amp;t=progseg&amp;e=532712816&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>History Of Our Time: Software&#39;s Power To Replace Humans</title>
-      <link>http://www.npr.org/2017/06/13/532724722/history-of-our-time-softwares-power-to-replace-humans</link>
-      <description>June 13, 2017 - Rachel Martin talks to Jaron Lanier, a Silicon Valley pioneer, who offers some solutions to the impact of technology on our livelihoods and our humanity.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_history_of_our_time_softwares_power_to_replace_humans.mp3?orgId=1&amp;topicId=1019&amp;aggIds=524336607&amp;d=403&amp;p=3&amp;story=532724722&amp;t=progseg&amp;e=532712816&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 13, 2017 - Rachel Martin talks to Jaron Lanier, a Silicon Valley pioneer, who offers some solutions to the impact of technology on our livelihoods and our humanity.
-
-<a href="http://www.npr.org/2017/06/13/532724722/history-of-our-time-softwares-power-to-replace-humans">http://www.npr.org/2017/06/13/532724722/history-of-our-time-softwares-power-to-replace-humans</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>403</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

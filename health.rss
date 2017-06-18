@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 01:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 15:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 17 Jun 2017 01:00:20 +0000</pubDate>
+    <pubDate>Sun, 18 Jun 2017 15:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_crowdsourcing_health.mp3?orgId=1&amp;topicId=1027&amp;d=281&amp;p=10&amp;story=533402814&amp;t=progseg&amp;e=533402256&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>When Medical Bills Stack Up, Many Turn To Crowdsourcing Sites</title>
+      <link>http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites</link>
+      <description>June 18, 2017 - NPR&#39;s Lulu Garcia-Navarro speaks with Lauren Carmen, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.</description>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_crowdsourcing_health.mp3?orgId=1&amp;topicId=1027&amp;d=281&amp;p=10&amp;story=533402814&amp;t=progseg&amp;e=533402256&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 18, 2017 - NPR's Lulu Garcia-Navarro speaks with Lauren Carmen, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.
+
+<a href="http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites">http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>281</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/18/532921305/this-fathers-day-remembering-a-time-when-dads-werent-welcome-in-delivery-rooms</guid>
+      <title>This Father&#39;s Day, Remembering A Time When Dads Weren&#39;t Welcome In Delivery Rooms</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/18/532921305/this-fathers-day-remembering-a-time-when-dads-werent-welcome-in-delivery-rooms</link>
+      <description>June 18, 2017 - For many fathers, the birth of a child is a hugely emotional moment. But not that long ago, few fathers were allowed to participate in the process.</description>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/gettyimages-514959116_wide-5e06b8523c173e375384787a29d2a67cb49fbfde-s800-c15.jpg"></a>
+
+June 18, 2017 - For many fathers, the birth of a child is a hugely emotional moment. But not that long ago, few fathers were allowed to participate in the process.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/18/532921305/this-fathers-day-remembering-a-time-when-dads-werent-welcome-in-delivery-rooms">http://www.npr.org/sections/health-shots/2017/06/18/532921305/this-fathers-day-remembering-a-time-when-dads-werent-welcome-in-delivery-rooms</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/gettyimages-514959116_wide-5e06b8523c173e375384787a29d2a67cb49fbfde-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170617_atc_alzheimers_starts_to_steal_the_joy_of_being_a_grandfather.mp3?orgId=1&amp;topicId=1128&amp;aggIds=389781574&amp;d=238&amp;p=2&amp;story=528636102&amp;t=progseg&amp;e=533336176&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Alzheimer&#39;s Starts To Steal The Joy Of Being A Grandfather</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/17/528636102/alzheimer-s-starts-to-steal-the-joy-of-being-a-grandfather</link>
+      <description>June 17, 2017 - When Greg O&#39;Brien found out he&#39;d be a grandfather, he was excited. He was also sad. His granddaughter, he knew, would never know the real him.</description>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170617_atc_alzheimers_starts_to_steal_the_joy_of_being_a_grandfather.mp3?orgId=1&amp;topicId=1128&amp;aggIds=389781574&amp;d=238&amp;p=2&amp;story=528636102&amp;t=progseg&amp;e=533336176&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/09/obrien-1_wide-e927ba00e75213c68737bbfe1c8e94f0031fc3e9-s800-c15.jpg"></a>
+
+June 17, 2017 - When Greg O'Brien found out he'd be a grandfather, he was excited. He was also sad. His granddaughter, he knew, would never know the real him.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/17/528636102/alzheimer-s-starts-to-steal-the-joy-of-being-a-grandfather">http://www.npr.org/sections/health-shots/2017/06/17/528636102/alzheimer-s-starts-to-steal-the-joy-of-being-a-grandfather</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/obrien-1_wide-e927ba00e75213c68737bbfe1c8e94f0031fc3e9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>238</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_heartbeat_music.mp3?orgId=1&amp;topicId=1008&amp;d=338&amp;p=2&amp;story=533255537&amp;t=progseg&amp;e=533177018&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Heartbeat Music: Parents Remember Their Son Through His Song Of Life</title>
@@ -209,53 +256,6 @@ June 14, 2017 - Job-coaching and other support services that enable many adults 
 <a href="http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities">http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</guid>
-      <title>In Texas, People With Fluctuating Incomes Risk Being Cut Off From Medicaid</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</link>
-      <description>June 14, 2017 - Families with income that varies from month to month can find it hard to maintain enrollment in Texas&#39; Medicaid program. The question is whether the program trims waste or creates more red tape.</description>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/texas-medicaid-x_wide-9182554c2d57d65a9ad8f7d6f8d9f34b1ce96abe-s800-c15.jpg"></a>
-
-June 14, 2017 - Families with income that varies from month to month can find it hard to maintain enrollment in Texas' Medicaid program. The question is whether the program trims waste or creates more red tape.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid">http://www.npr.org/sections/health-shots/2017/06/14/532816157/in-texas-people-with-fluctuating-incomes-risk-being-cut-off-from-medicaid</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/texas-medicaid-x_wide-9182554c2d57d65a9ad8f7d6f8d9f34b1ce96abe-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</guid>
-      <title>Trump Administration Gives Industry More Time to Adopt New Nutrition Fact Label </title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</link>
-      <description>June 13, 2017 - The Nutrition Facts label on food and drink packaging has gotten a makeover, but you may not see the updates for a while. The FDA has delayed the compliance date after companies asked for more time.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/untitled-1_wide-e6031a4f98220edc4dbcda2aa34b6692b914cd8f-s800-c15.jpg"></a>
-
-June 13, 2017 - The Nutrition Facts label on food and drink packaging has gotten a makeover, but you may not see the updates for a while. The FDA has delayed the compliance date after companies asked for more time.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label">http://www.npr.org/sections/thesalt/2017/06/13/532819225/trump-administration-gives-industry-more-time-to-adopt-new-nutrition-fact-label</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/untitled-1_wide-e6031a4f98220edc4dbcda2aa34b6692b914cd8f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_nevada_may_become_first_state_to_offer_medicaid_to_all_regardless_of_income.mp3?orgId=1&amp;topicId=1027&amp;d=220&amp;p=2&amp;story=532783189&amp;t=progseg&amp;e=532709778&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Nevada May Become First State To Offer Medicaid To All, Regardless Of Income</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income</link>
-      <description>June 13, 2017 - The Nevada legislature has passed a bill that would allow anyone without health insurance in the state to buy into the Medicaid program, regardless of income. It&#39;s awaiting the governor&#39;s signature.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_nevada_may_become_first_state_to_offer_medicaid_to_all_regardless_of_income.mp3?orgId=1&amp;topicId=1027&amp;d=220&amp;p=2&amp;story=532783189&amp;t=progseg&amp;e=532709778&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/ap_850094157770-1-_wide-3119607d29e17759b011b27993fdf64d29c80699-s800-c15.jpg"></a>
-
-June 13, 2017 - The Nevada legislature has passed a bill that would allow anyone without health insurance in the state to buy into the Medicaid program, regardless of income. It's awaiting the governor's signature.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income">http://www.npr.org/sections/health-shots/2017/06/13/532783189/nevada-may-become-first-state-to-offer-medicaid-to-all-regardless-of-income</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/ap_850094157770-1-_wide-3119607d29e17759b011b27993fdf64d29c80699-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
