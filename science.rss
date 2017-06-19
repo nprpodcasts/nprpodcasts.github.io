@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 14:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 15:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 14:00:09 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 15:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</guid>
+      <title>Over Objections, Italy Introduces Tough Vaccination Measure</title>
+      <link>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</link>
+      <description>June 19, 2017 - In Italy, parents who don&#39;t vaccinate their children face steep fines, and even risk losing custody. It&#39;s in response to a measles outbreak, after years of falling inoculation rates.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 19, 2017 - In Italy, parents who don't vaccinate their children face steep fines, and even risk losing custody. It's in response to a measles outbreak, after years of falling inoculation rates.
+
+<a href="http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure">http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170619_me_a_mothers_early_death_drives_her_daughter_to_find_a_treatment.mp3?orgId=1&amp;topicId=1128&amp;d=394&amp;p=3&amp;story=533220784&amp;t=progseg&amp;e=533479659&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Mother&#39;s Early Death Drives Her Daughter To Find A Treatment</title>
@@ -249,21 +262,6 @@ June 13, 2017 - In a shooting involving a police officer, there's often a famili
 <a href="http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all">http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-668939896_wide-456195e0b29e41b2979a580bcdca535da8ad92d1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>422</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time</guid>
-      <title>Rap on Trial: How An Aspiring Musician&#39;s Words Led To Prison Time </title>
-      <link>http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time</link>
-      <description>June 12, 2017 - Olutosin Oduwole was a college student and aspiring rapper when he was charged with &#34;attempting to make a terrorist threat.&#34; We explore how perceptions of rap music may have played a role.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/tosin-1_wide-3bbdeaa100adc1da3920c154cd7e145f2eae45ec-s800-c15.jpg"></a>
-
-June 12, 2017 - Olutosin Oduwole was a college student and aspiring rapper when he was charged with "attempting to make a terrorist threat." We explore how perceptions of rap music may have played a role.
-
-<a href="http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time">http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/tosin-1_wide-3bbdeaa100adc1da3920c154cd7e145f2eae45ec-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

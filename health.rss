@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 14:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 15:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 14:00:07 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 15:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</guid>
+      <title>Over Objections, Italy Introduces Tough Vaccination Measure</title>
+      <link>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</link>
+      <description>June 19, 2017 - In Italy, parents who don&#39;t vaccinate their children face steep fines, and even risk losing custody. It&#39;s in response to a measles outbreak, after years of falling inoculation rates.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 19, 2017 - In Italy, parents who don't vaccinate their children face steep fines, and even risk losing custody. It's in response to a measles outbreak, after years of falling inoculation rates.
+
+<a href="http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure">http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170619_me_a_mothers_early_death_drives_her_daughter_to_find_a_treatment.mp3?orgId=1&amp;topicId=1128&amp;d=394&amp;p=3&amp;story=533220784&amp;t=progseg&amp;e=533479659&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Mother&#39;s Early Death Drives Her Daughter To Find A Treatment</title>
@@ -245,21 +258,6 @@ June 15, 2017 - Public education campaigns and restrictions on sales to minors h
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda">http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</guid>
-      <title>&#39;Supersizing Urban America&#39;: How U.S. Policies Encouraged Fast Food To Spread</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</link>
-      <description>June 15, 2017 - A new book examines how federal government policies made it easier for minorities to open fast-food franchises than grocery stores. Today the landscape of urban America reflects this history.</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/05/npr-2_wide-f039a1239eeecd8e9e5b1ae217ae0149903bc133-s800-c15.jpg"></a>
-
-June 15, 2017 - A new book examines how federal government policies made it easier for minorities to open fast-food franchises than grocery stores. Today the landscape of urban America reflects this history.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread">http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/05/npr-2_wide-f039a1239eeecd8e9e5b1ae217ae0149903bc133-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
