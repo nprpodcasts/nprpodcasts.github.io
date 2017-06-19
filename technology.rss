@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2017 15:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 18 Jun 2017 15:00:17 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</guid>
+      <title>Online Retail Boom Means More Warehouse Workers, And Robots To Accompany Them</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</link>
+      <description>June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping that warehouse jobs tied to the e-commerce surge will boost the local economy. But automation is expected to take over many such jobs.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-461841658_wide-11e76fc6ace20c634d3ae59ef1f0b12968a0dffe-s800-c15.jpg"></a>
+
+June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping that warehouse jobs tied to the e-commerce surge will boost the local economy. But automation is expected to take over many such jobs.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them">http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-461841658_wide-11e76fc6ace20c634d3ae59ef1f0b12968a0dffe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_walmart_and_bonobos.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=10&amp;story=533402821&amp;t=progseg&amp;e=533402256&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Wal-Mart To Buy Bonobos In Challenge To Amazon</title>
@@ -241,23 +256,6 @@ June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previou
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest">http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/drone-aed_wide-f963e6c8a0dc553c7659d3847fd1c2c0ce5a087d-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_washington_post_turnaround.mp3?orgId=1&amp;topicId=1020&amp;d=277&amp;p=3&amp;story=531099577&amp;t=progseg&amp;e=532712816&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>At &#39;Washington Post,&#39; Tech Is Increasingly Boosting Financial Performance</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/13/531099577/at-washington-post-tech-is-increasingly-boosting-financial-performance</link>
-      <description>June 13, 2017 - The newspaper struggled amid declines in print ads, but under Amazon&#39;s Jeff Bezos, it has transformed its operations, from how it writes headlines and chooses photos to how it generates ad dollars.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_washington_post_turnaround.mp3?orgId=1&amp;topicId=1020&amp;d=277&amp;p=3&amp;story=531099577&amp;t=progseg&amp;e=532712816&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/01/gettyimages-507322484_wide-d6c290832d8e9f3d6a9d37801c3f9104db2af9cc-s800-c15.jpg"></a>
-
-June 13, 2017 - The newspaper struggled amid declines in print ads, but under Amazon's Jeff Bezos, it has transformed its operations, from how it writes headlines and chooses photos to how it generates ad dollars.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/13/531099577/at-washington-post-tech-is-increasingly-boosting-financial-performance">http://www.npr.org/sections/alltechconsidered/2017/06/13/531099577/at-washington-post-tech-is-increasingly-boosting-financial-performance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/gettyimages-507322484_wide-d6c290832d8e9f3d6a9d37801c3f9104db2af9cc-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
