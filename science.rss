@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 19:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 10:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 16 Jun 2017 19:00:27 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 10:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</guid>
+      <title>A Mother&#39;s Early Death Drives Her Daughter To Find A Treatment</title>
+      <link>http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</link>
+      <description>June 19, 2017 - Sonia Vallabh knows that by the time she&#39;s middle-aged, a rare inherited disease will likely start killing off her brain cells. She and her husband have become scientists to try to stop the disease.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/16/wedding-1_wide-cf3a550c013bdca5c72e4bf4a6f3ba50a1a7dee9-s800-c15.png"></a>
+
+June 19, 2017 - Sonia Vallabh knows that by the time she's middle-aged, a rare inherited disease will likely start killing off her brain cells. She and her husband have become scientists to try to stop the disease.
+
+<a href="http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment">http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/wedding-1_wide-cf3a550c013bdca5c72e4bf4a6f3ba50a1a7dee9-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/16/532936445/research-finds-dressmakers-have-good-eyes-and-not-just-for-style</guid>
       <title>Research Finds Dressmakers Have Good Eyes, And Not Just For Style</title>
@@ -245,23 +260,6 @@ June 12, 2017 - Olutosin Oduwole was a college student and aspiring rapper when 
 
 <a href="http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time">http://www.npr.org/2017/06/12/532633692/rap-on-trial-how-an-aspiring-musicians-words-led-to-prison-time</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/tosin-1_wide-3bbdeaa100adc1da3920c154cd7e145f2eae45ec-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_dog_owners_walk_22_minutes_more_per_day_and_yes_it_counts_as_exercise.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=2&amp;story=532625213&amp;t=progseg&amp;e=532574087&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Dog Owners Walk 22 Minutes More Per Day. And Yes, It Counts As Exercise</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise</link>
-      <description>June 12, 2017 - A new study finds dog owners on average walk 22 more minutes more per day compared to people without dogs. The benefits of walking include a lower risk of heart disease and premature death.</description>
-      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170612_atc_dog_owners_walk_22_minutes_more_per_day_and_yes_it_counts_as_exercise.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=2&amp;story=532625213&amp;t=progseg&amp;e=532574087&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/gettyimages-595370818_wide-9980201b55443dfbc5eb39c55864ff6a79f80bea-s800-c15.jpg"></a>
-
-June 12, 2017 - A new study finds dog owners on average walk 22 more minutes more per day compared to people without dogs. The benefits of walking include a lower risk of heart disease and premature death.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise">http://www.npr.org/sections/health-shots/2017/06/12/532625213/dog-owners-walk-22-minutes-more-per-day-and-yes-it-counts-as-exercise</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/gettyimages-595370818_wide-9980201b55443dfbc5eb39c55864ff6a79f80bea-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

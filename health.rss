@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 00:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 10:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 00:00:26 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 10:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</guid>
+      <title>A Mother&#39;s Early Death Drives Her Daughter To Find A Treatment</title>
+      <link>http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</link>
+      <description>June 19, 2017 - Sonia Vallabh knows that by the time she&#39;s middle-aged, a rare inherited disease will likely start killing off her brain cells. She and her husband have become scientists to try to stop the disease.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/wedding-1_wide-cf3a550c013bdca5c72e4bf4a6f3ba50a1a7dee9-s800-c15.png"></a>
+
+June 19, 2017 - Sonia Vallabh knows that by the time she's middle-aged, a rare inherited disease will likely start killing off her brain cells. She and her husband have become scientists to try to stop the disease.
+
+<a href="http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment">http://www.npr.org/2017/06/19/533220784/a-mothers-early-death-drives-her-daughter-to-find-a-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/wedding-1_wide-cf3a550c013bdca5c72e4bf4a6f3ba50a1a7dee9-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_crowdsourcing_health.mp3?orgId=1&amp;topicId=1027&amp;d=281&amp;p=10&amp;story=533402814&amp;t=progseg&amp;e=533402256&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>When Medical Bills Stack Up, Many Turn To Crowdsourcing Sites</title>
@@ -241,23 +256,6 @@ June 15, 2017 - A new book examines how federal government policies made it easi
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread">http://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/05/npr-2_wide-f039a1239eeecd8e9e5b1ae217ae0149903bc133-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170614_atc_medicaid_cuts_in_wisconsin_would_undermine_training_for_adults_with_disabilities.mp3?orgId=1&amp;topicId=1128&amp;d=225&amp;p=2&amp;story=531928586&amp;t=progseg&amp;e=532888684&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Medicaid Cuts In Wisconsin Would Undermine Training For Adults With Disabilities</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</link>
-      <description>June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.</description>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170614_atc_medicaid_cuts_in_wisconsin_would_undermine_training_for_adults_with_disabilities.mp3?orgId=1&amp;topicId=1128&amp;d=225&amp;p=2&amp;story=531928586&amp;t=progseg&amp;e=532888684&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s800-c15.jpg"></a>
-
-June 14, 2017 - Job-coaching and other support services that enable many adults to live in the community instead of institutions will likely be curtailed if the GOP plan to shrink Medicaid becomes law.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities">http://www.npr.org/sections/health-shots/2017/06/14/531928586/medicaid-cuts-in-wisconsin-would-undermine-training-for-adults-with-disabilities</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/08/day-center-1_wide-df98b652e1b7839b351b6c74b797b762e4de04b1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
