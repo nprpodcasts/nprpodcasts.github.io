@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 15:00:22 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</guid>
+      <title>A Couple&#39;s Quest To Stop A Rare Disease Before It Takes One Of Them</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</link>
+      <description>June 19, 2017 - Twenty years. That&#39;s how long two grad students, Sonia Vallabh and Eric Minikel, think they have before a deadly disease envelops Sonia&#39;s brain. The Massachusetts couple is now racing to find a cure.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s800-c15.jpg"></a>
+
+June 19, 2017 - Twenty years. That's how long two grad students, Sonia Vallabh and Eric Minikel, think they have before a deadly disease envelops Sonia's brain. The Massachusetts couple is now racing to find a cure.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them">http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</guid>
+      <title>Can You Find The Defibrillator At Work? Half Of People Say No</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</link>
+      <description>June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone&#39;s heart after cardiac arrest.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-6267c169dabbf450207d1e7e05ac7dead2fe9754-s800-c15.jpg"></a>
+
+June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone's heart after cardiac arrest.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no">http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-6267c169dabbf450207d1e7e05ac7dead2fe9754-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</guid>
       <title>Over Objections, Italy Introduces Tough Vaccination Measure</title>
@@ -57,11 +87,11 @@ June 19, 2017 - Sonia Vallabh knows that by the time she's middle-aged, a rare i
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_crowdsourcing_health.mp3?orgId=1&amp;topicId=1027&amp;d=281&amp;p=10&amp;story=533402814&amp;t=progseg&amp;e=533402256&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>When Medical Bills Stack Up, Many Turn To Crowdsourcing Sites</title>
       <link>http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites</link>
-      <description>June 18, 2017 - NPR&#39;s Lulu Garcia-Navarro speaks with Lauren Carmen, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.</description>
+      <description>June 18, 2017 - NPR&#39;s Lulu Garcia-Navarro speaks with Lauren Carman, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.</description>
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_crowdsourcing_health.mp3?orgId=1&amp;topicId=1027&amp;d=281&amp;p=10&amp;story=533402814&amp;t=progseg&amp;e=533402256&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 18, 2017 - NPR's Lulu Garcia-Navarro speaks with Lauren Carmen, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.
+      <itunes:summary><![CDATA[June 18, 2017 - NPR's Lulu Garcia-Navarro speaks with Lauren Carman, who used crowdsourcing to help pay medical expenses from breast cancer and delivering premature twins.
 
 <a href="http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites">http://www.npr.org/2017/06/18/533402814/when-medical-bills-stack-up-many-turn-to-crowdsourcing-sites</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -228,36 +258,6 @@ June 15, 2017 - Three genetic changes could be enough to make a bird flu strain 
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic">http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_teens_use_of_e-cigarettes_drops_for_the_first_time_cdc_says.mp3?orgId=1&amp;topicId=1128&amp;d=112&amp;p=2&amp;story=533062545&amp;t=progseg&amp;e=533042663&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Teens&#39; Use Of E-Cigarettes Drops For The First Time, CDC Says</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/15/533062545/teens-use-of-e-cigarettes-drops-for-the-first-time-cdc-says</link>
-      <description>June 15, 2017 - Public education campaigns and restrictions on sales to minors have helped discourage teenagers from vaping, according to officials at the Centers for Disease Control and Prevention.</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_teens_use_of_e-cigarettes_drops_for_the_first_time_cdc_says.mp3?orgId=1&amp;topicId=1128&amp;d=112&amp;p=2&amp;story=533062545&amp;t=progseg&amp;e=533042663&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/gettyimages-181801250_wide-be44c0c119ee85cc323ca865e52ca7c139f68aea-s800-c15.jpg"></a>
-
-June 15, 2017 - Public education campaigns and restrictions on sales to minors have helped discourage teenagers from vaping, according to officials at the Centers for Disease Control and Prevention.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/15/533062545/teens-use-of-e-cigarettes-drops-for-the-first-time-cdc-says">http://www.npr.org/sections/health-shots/2017/06/15/533062545/teens-use-of-e-cigarettes-drops-for-the-first-time-cdc-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/gettyimages-181801250_wide-be44c0c119ee85cc323ca865e52ca7c139f68aea-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>112</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</guid>
-      <title>About Us: Goats And Soda</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</link>
-      <description>June 15, 2017 - Goats and Soda: What&#39;s our mission? And what&#39;s behind our name?&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 15, 2017 - Goats and Soda: What's our mission? And what's behind our name?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda">http://www.npr.org/sections/goatsandsoda/2017/06/15/527593730/about-us-goats-and-soda</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

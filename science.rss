@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 16:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 15:00:20 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 16:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</guid>
+      <title>A Couple&#39;s Quest To Stop A Rare Disease Before It Takes One Of Them</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</link>
+      <description>June 19, 2017 - Twenty years. That&#39;s how long two grad students, Sonia Vallabh and Eric Minikel, think they have before a deadly disease envelops Sonia&#39;s brain. The Massachusetts couple is now racing to find a cure.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s800-c15.jpg"></a>
+
+June 19, 2017 - Twenty years. That's how long two grad students, Sonia Vallabh and Eric Minikel, think they have before a deadly disease envelops Sonia's brain. The Massachusetts couple is now racing to find a cure.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them">http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</guid>
+      <title>Can You Find The Defibrillator At Work? Half Of People Say No</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</link>
+      <description>June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone&#39;s heart after cardiac arrest.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-6267c169dabbf450207d1e7e05ac7dead2fe9754-s800-c15.jpg"></a>
+
+June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone's heart after cardiac arrest.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no">http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-6267c169dabbf450207d1e7e05ac7dead2fe9754-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/19/533481635/over-objections-italy-introduces-tough-vaccination-measure</guid>
       <title>Over Objections, Italy Introduces Tough Vaccination Measure</title>
@@ -230,38 +260,6 @@ June 13, 2017 - In 2003, researchers declared a moratorium on the use of transpl
 <a href="http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons">http://www.npr.org/sections/health-shots/2017/06/13/532792500/brain-cell-transplants-are-being-tested-once-again-for-parkinsons</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/neurons-1_wide-5be230767e144f410962cf4caef9b89ee5f6d782-s3000-c15.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</guid>
-      <title>What&#39;s The Difference Between Famine And Hunger? A Food FAQ</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</link>
-      <description>June 13, 2017 - We asked our readers what they wanted to know about world hunger? So many thoughtful questions came in that we did a roundup of queries about hunger and famine.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/09/hbarczyk_npr_famine_finalart2-1_wide-754d27cc8fb7e2dfc800c9889f57904b597953b0-s800-c15.jpg"></a>
-
-June 13, 2017 - We asked our readers what they wanted to know about world hunger? So many thoughtful questions came in that we did a roundup of queries about hunger and famine.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq">http://www.npr.org/sections/goatsandsoda/2017/06/13/532277316/what-s-the-difference-between-famine-and-hunger-a-food-faq</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/hbarczyk_npr_famine_finalart2-1_wide-754d27cc8fb7e2dfc800c9889f57904b597953b0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_police_shootings_how_a_culture_of_racism_can_infect_us_all.mp3?orgId=1&amp;topicId=1024&amp;d=422&amp;p=3&amp;story=532724743&amp;t=progseg&amp;e=532712816&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Police Shootings: How A Culture Of Racism Can Infect Us All</title>
-      <link>http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all</link>
-      <description>June 13, 2017 - In a shooting involving a police officer, there&#39;s often a familiar blame game: Was the cop was racist? Was the person shot threatening? Or maybe, the bias that leads cops to shoot affects us all.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170613_me_police_shootings_how_a_culture_of_racism_can_infect_us_all.mp3?orgId=1&amp;topicId=1024&amp;d=422&amp;p=3&amp;story=532724743&amp;t=progseg&amp;e=532712816&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/13/gettyimages-668939896_wide-456195e0b29e41b2979a580bcdca535da8ad92d1-s800-c15.jpg"></a>
-
-June 13, 2017 - In a shooting involving a police officer, there's often a familiar blame game: Was the cop was racist? Was the person shot threatening? Or maybe, the bias that leads cops to shoot affects us all.
-
-<a href="http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all">http://www.npr.org/2017/06/13/532724743/police-shootings-how-a-culture-of-racism-can-infect-us-all</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-668939896_wide-456195e0b29e41b2979a580bcdca535da8ad92d1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
