@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 16:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 17:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 16:00:13 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 17:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</guid>
+      <title>A Good News Story About Diarrhea — With One Surprising Exception</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</link>
+      <description>June 19, 2017 - A new report points to great progress in reducing deaths from diarrheal diseases. But as the low-income world sees progress, rates are inching up in wealthy countries, including the U.S.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/diarrheal-deaths-promo_wide-0126663251232b99bdf56ce844b65731caecea32-s800-c15.png"></a>
+
+June 19, 2017 - A new report points to great progress in reducing deaths from diarrheal diseases. But as the low-income world sees progress, rates are inching up in wealthy countries, including the U.S.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception">http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/diarrheal-deaths-promo_wide-0126663251232b99bdf56ce844b65731caecea32-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</guid>
       <title>A Couple&#39;s Quest To Stop A Rare Disease Before It Takes One Of Them</title>
@@ -241,23 +256,6 @@ June 15, 2017 - Surgery that severs the link between brain hemispheres reveals t
 <a href="http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds">http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>324</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Few Genetic Tweaks To Chinese Bird Flu Virus Could Fuel A Human Pandemic</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</link>
-      <description>June 15, 2017 - Three genetic changes could be enough to make a bird flu strain that&#39;s already killing some people in China highly contagious. Are experiments with a deliberately mutated version too risky?</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_a_few_genetic_tweaks_to_chinese_bird_flu_virus_could_fuel_a_human_pandemic.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=532925945&amp;t=progseg&amp;e=533042663&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s800-c15.jpg"></a>
-
-June 15, 2017 - Three genetic changes could be enough to make a bird flu strain that's already killing some people in China highly contagious. Are experiments with a deliberately mutated version too risky?
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic">http://www.npr.org/sections/health-shots/2017/06/15/532925945/just-small-genetic-tweaks-to-chinese-bird-flu-virus-could-fuel-a-human-pandemic</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/h7n9_wide-14c1040684765bf77340b3f3bb3f4d09cbad49de-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
