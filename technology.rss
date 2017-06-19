@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 21:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 22:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 21:00:23 +0000</pubDate>
+    <pubDate>Mon, 19 Jun 2017 22:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_amazon_robots.mp3?orgId=150&amp;topicId=1019&amp;d=441&amp;p=2&amp;story=533506913&amp;t=progseg&amp;e=533479662&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Online Retail Boom Means More Warehouse Workers, And Robots To Accompany Them</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</link>
       <description>June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping that warehouse jobs tied to the e-commerce surge will boost the local economy. But automation is expected to take over many such jobs.</description>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_amazon_robots.mp3?orgId=150&amp;topicId=1019&amp;d=441&amp;p=2&amp;story=533506913&amp;t=progseg&amp;e=533479662&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-461841658_wide-11e76fc6ace20c634d3ae59ef1f0b12968a0dffe-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them">http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-461841658_wide-11e76fc6ace20c634d3ae59ef1f0b12968a0dffe-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>441</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
