@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 16:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 17:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 16:00:05 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 17:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/20/533637643/despite-nsa-claim-election-vendor-denies-system-was-compromised-in-hack-attempt</guid>
+      <title>Despite NSA Claim, Election Vendor Denies System Was Compromised In Hack Attempt</title>
+      <link>http://www.npr.org/2017/06/20/533637643/despite-nsa-claim-election-vendor-denies-system-was-compromised-in-hack-attempt</link>
+      <description>June 20, 2017 - &#34;Even though NSA says it&#39;s likely that we opened them, we did not,&#34; VR Systems COO Ben Martin says of emails that came into the company&#39;s system.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/20/jeff-sig-2_wide-a8e11d5969835fef8761065e0473540cf6cc2b7a-s800-c15.png"></a>
+
+June 20, 2017 - "Even though NSA says it's likely that we opened them, we did not," VR Systems COO Ben Martin says of emails that came into the company's system.
+
+<a href="http://www.npr.org/2017/06/20/533637643/despite-nsa-claim-election-vendor-denies-system-was-compromised-in-hack-attempt">http://www.npr.org/2017/06/20/533637643/despite-nsa-claim-election-vendor-denies-system-was-compromised-in-hack-attempt</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/jeff-sig-2_wide-a8e11d5969835fef8761065e0473540cf6cc2b7a-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games</guid>
       <title>Why You Should Play Video Games</title>
@@ -243,21 +258,6 @@ June 14, 2017 - The technology around us has made its way into all kinds of movi
 <a href="http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen">http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s3000-c15.jpg"></itunes:image>
       <itunes:duration>206</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_yahoo_ceo_marissa_mayer_resigns_as_verizon_completes_45_billion_purchase.mp3?orgId=1&amp;topicId=1006&amp;d=164&amp;p=2&amp;story=532816953&amp;t=progseg&amp;e=532709778&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Yahoo CEO Marissa Mayer Resigns As Verizon Completes $4.5 Billion Purchase</title>
-      <link>http://www.npr.org/2017/06/13/532816953/yahoo-ceo-marissa-mayer-resigns-as-verizon-completes-4-5-billion-purchase</link>
-      <description>June 13, 2017 - Verizon has completed its $4.5 billion purchase of Yahoo, and, as expected, Yahoo CEO Marissa Mayer is resigning. She&#39;s turning over control to Tim Armstrong, the former CEO of AOL who is now the head of Oath, a digital media brand that combines the Internet assets of AOL and Yahoo. Verizon sees the acquisition of media content as a way to expand beyond its core wireless business.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170613_atc_yahoo_ceo_marissa_mayer_resigns_as_verizon_completes_45_billion_purchase.mp3?orgId=1&amp;topicId=1006&amp;d=164&amp;p=2&amp;story=532816953&amp;t=progseg&amp;e=532709778&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 13, 2017 - Verizon has completed its $4.5 billion purchase of Yahoo, and, as expected, Yahoo CEO Marissa Mayer is resigning. She's turning over control to Tim Armstrong, the former CEO of AOL who is now the head of Oath, a digital media brand that combines the Internet assets of AOL and Yahoo. Verizon sees the acquisition of media content as a way to expand beyond its core wireless business.
-
-<a href="http://www.npr.org/2017/06/13/532816953/yahoo-ceo-marissa-mayer-resigns-as-verizon-completes-4-5-billion-purchase">http://www.npr.org/2017/06/13/532816953/yahoo-ceo-marissa-mayer-resigns-as-verizon-completes-4-5-billion-purchase</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>164</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
