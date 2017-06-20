@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 20:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 22:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 20:00:08 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 22:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170620_atc_mexicos_government_is_accused_of_targeting_journalists_and_activists_with_spyware.mp3?orgId=1&amp;topicId=1127&amp;d=139&amp;p=2&amp;story=533682738&amp;t=progseg&amp;e=533617826&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Mexico&#39;s Government Is Accused Of Targeting Journalists And Activists With Spyware</title>
+      <link>http://www.npr.org/sections/parallels/2017/06/20/533682738/mexicos-government-is-accused-of-targeting-journalists-and-activists-with-spywar</link>
+      <description>June 20, 2017 - &#34;Like any good attack, this one begins with deception,&#34; says an investigator. Phishing text messages, including one that appeared to come from the U.S. embassy, were sent to a dozen targets.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170620_atc_mexicos_government_is_accused_of_targeting_journalists_and_activists_with_spyware.mp3?orgId=1&amp;topicId=1127&amp;d=139&amp;p=2&amp;story=533682738&amp;t=progseg&amp;e=533617826&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/20/img_4601-edit_wide-08331b73b7d822dba5ae2acd1acba9204d41c95f-s800-c15.jpg"></a>
+
+June 20, 2017 - "Like any good attack, this one begins with deception," says an investigator. Phishing text messages, including one that appeared to come from the U.S. embassy, were sent to a dozen targets.
+
+<a href="http://www.npr.org/sections/parallels/2017/06/20/533682738/mexicos-government-is-accused-of-targeting-journalists-and-activists-with-spywar">http://www.npr.org/sections/parallels/2017/06/20/533682738/mexicos-government-is-accused-of-targeting-journalists-and-activists-with-spywar</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/img_4601-edit_wide-08331b73b7d822dba5ae2acd1acba9204d41c95f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>139</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/06/20/533529538/upworthy-was-one-of-the-hottest-sites-ever-you-wont-believe-what-happened-next</guid>
       <title>Upworthy Was One Of The Hottest Sites Ever. You Won&#39;t Believe What Happened Next</title>
@@ -239,23 +256,6 @@ June 14, 2017 - A new social media app lets you think that you're liking, commen
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/14/532879727/meet-binky-the-social-media-app-where-nothing-matters">http://www.npr.org/sections/alltechconsidered/2017/06/14/532879727/meet-binky-the-social-media-app-where-nothing-matters</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/14/screen696x696_wide-95da1d957758588b605438f9e7e5a77f1e2b66a5-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>97</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_if_voting_machines_were_hacked_would_anyone_know_.mp3?orgId=1&amp;topicId=1014&amp;d=233&amp;p=3&amp;story=532824432&amp;t=progseg&amp;e=532879123&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>If Voting Machines Were Hacked, Would Anyone Know? </title>
-      <link>http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know</link>
-      <description>June 14, 2017 - Even if most voting machines aren&#39;t connected to the Internet, &#34;they are connected to something that&#39;s connected to something that&#39;s connected to the Internet,&#34; says one cybersecurity expert.</description>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_if_voting_machines_were_hacked_would_anyone_know_.mp3?orgId=1&amp;topicId=1014&amp;d=233&amp;p=3&amp;story=532824432&amp;t=progseg&amp;e=532879123&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/gettyimages-620878108_wide-8c43cc033d60d81c11959a6c197f2e10e431442a-s800-c15.jpg"></a>
-
-June 14, 2017 - Even if most voting machines aren't connected to the Internet, "they are connected to something that's connected to something that's connected to the Internet," says one cybersecurity expert.
-
-<a href="http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know">http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-620878108_wide-8c43cc033d60d81c11959a6c197f2e10e431442a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
