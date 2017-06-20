@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 22:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 14:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 19 Jun 2017 22:00:14 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 14:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games</guid>
+      <title>Why You Should Play Video Games</title>
+      <link>http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games</link>
+      <description>June 20, 2017 - We live in a world of endless pressing concerns with so many competing avenues of being productive. A good game makes no demands: All that matters is the enjoyment of the doing, says Adam Frank.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/20/gettyimages-635409998_wide-55c4113001a355a3ae7b9cf1825f26469388a361-s800-c15.jpg"></a>
+
+June 20, 2017 - We live in a world of endless pressing concerns with so many competing avenues of being productive. A good game makes no demands: All that matters is the enjoyment of the doing, says Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games">http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-635409998_wide-55c4113001a355a3ae7b9cf1825f26469388a361-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_amazon_robots.mp3?orgId=150&amp;topicId=1019&amp;d=441&amp;p=2&amp;story=533506913&amp;t=progseg&amp;e=533479662&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Online Retail Boom Means More Warehouse Workers, And Robots To Accompany Them</title>
@@ -243,21 +258,6 @@ June 13, 2017 - Verizon has completed its $4.5 billion acquisition of Yahoo, fol
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns">http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/mayer_wide-432d49a77d8338654e412b51760fb31fc13be9a0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</guid>
-      <title>Could Drones Help Save People In Cardiac Arrest? </title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</link>
-      <description>June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previous cardiac arrest cases in a rural area of Sweden, a study finds. But this has yet to be tried in real emergencies.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/12/drone-aed_wide-f963e6c8a0dc553c7659d3847fd1c2c0ce5a087d-s800-c15.jpeg"></a>
-
-June 13, 2017 - AED-carrying drones beat ambulance times to the sites of previous cardiac arrest cases in a rural area of Sweden, a study finds. But this has yet to be tried in real emergencies.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest">http://www.npr.org/sections/health-shots/2017/06/13/532639836/could-drones-help-save-people-in-cardiac-arrest</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/drone-aed_wide-f963e6c8a0dc553c7659d3847fd1c2c0ce5a087d-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
