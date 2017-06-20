@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 18:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 14:00:26 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 18:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170620.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Opioid Overdoses: Mass Casualty Zones In America</title>
+      <link>http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline</link>
+      <description>June 20, 2017 - Last year alone, more Americans died from drug overdoses than were lost fighting the war in Vietnam.&#xA;&#xA; - http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170620.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 20, 2017 - Last year alone, more Americans died from drug overdoses than were lost fighting the war in Vietnam.
+
+<a href="http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline">http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2880</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_hiv_aids_council_resignations.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=533617483&amp;t=progseg&amp;e=533617385&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>6 Members Of The Presidential Advisory Council On HIV/Aids Resign</title>
@@ -46,12 +61,12 @@
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_study_finds_yoga_can_help_back_pain_but_keep_it_gentle_with_these_poses.mp3?orgId=1&amp;topicId=1128&amp;d=211&amp;p=3&amp;story=533505211&amp;t=progseg&amp;e=533617385&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-7f479e112156705b4d50d59646590d2183d67e0b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-3235cac04a3dd8cdd0ade892b4922ce07a6ba3ed-s800-c15.jpg"></a>
 
 June 20, 2017 - A yoga class designed specifically for lower back pain can be as effective as physical therapy in easing pain, the study says. The class and teacher manuals are available online, for free.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses">http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-7f479e112156705b4d50d59646590d2183d67e0b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-3235cac04a3dd8cdd0ade892b4922ce07a6ba3ed-s3000-c15.jpg"></itunes:image>
       <itunes:duration>211</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -243,21 +258,6 @@ June 16, 2017 - Nate Kramer was a tall, quiet collegiate swimmer when he was dia
 <a href="http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life">http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/16/brianschreckhospital_wide-69ae01ccf073172fb42ca745208b1041735cae6c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>338</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</guid>
-      <title>Cholera Ravages Yemen</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</link>
-      <description>June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health care system is collapsing.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</description>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-7770008d1c9d4de8a08e338f4d00ac385b7ee5c3-s800-c15.jpg"></a>
-
-June 16, 2017 - More than 124,000 suspected cases have been reported over the past six weeks. And the health care system is collapsing.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen">http://www.npr.org/sections/goatsandsoda/2017/06/16/533247315/cholera-clobbers-yemen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/gettyimages-679996530_wide-7770008d1c9d4de8a08e338f4d00ac385b7ee5c3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
