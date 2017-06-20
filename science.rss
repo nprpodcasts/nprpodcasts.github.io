@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 20:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 21:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 20:00:10 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 21:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids</guid>
+      <title>Dramatic Increase In Number Of People Being Hospitalized Due To Opioids</title>
+      <link>http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids</link>
+      <description>June 20, 2017 - NPR&#39;s Audie Cornish speaks with Dr. Traci Green, deputy director of injury prevention at Boston Medical Center about the stunning show increase in the number of hospital visits related to opioids.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 20, 2017 - NPR's Audie Cornish speaks with Dr. Traci Green, deputy director of injury prevention at Boston Medical Center about the stunning show increase in the number of hospital visits related to opioids.
+
+<a href="http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids">http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</guid>
       <title>A Pioneer In &#39;Flat-Fee Primary Care&#39; Had To Close Its Clinics. What Went Wrong?</title>
@@ -241,21 +254,6 @@ June 15, 2017 - A monthlong expedition into one of the deepest, least-documented
 <a href="http://www.npr.org/2017/06/15/533063615/explorers-probing-deep-sea-abyss-off-australias-coast-find-living-wonders">http://www.npr.org/2017/06/15/533063615/explorers-probing-deep-sea-abyss-off-australias-coast-find-living-wonders</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/csiro-blue-water-research-vessel-investigator_image-csiro-marine-national-facility_wide-5366ecd5f46e7899550a11220827417b8f347a0c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>309</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</guid>
-      <title>Lead Detected In Baby Food Samples. Pediatricians Say There&#39;s No Safe Level</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</link>
-      <description>June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there&#39;s no safe lead level. FDA is reviewing its policy.</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s800-c15.jpg"></a>
-
-June 15, 2017 - Twenty percent of baby food samples were found to contain lead, according to a report from the Environmental Defense Fund. Pediatricians say there's no safe lead level. FDA is reviewing its policy.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level">http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
