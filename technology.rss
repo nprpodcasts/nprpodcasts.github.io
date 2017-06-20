@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 15:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 14:00:24 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 15:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -36,6 +36,21 @@ June 20, 2017 - We live in a world of endless pressing concerns with so many com
 
 <a href="http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games">http://www.npr.org/sections/13.7/2017/06/20/533617105/why-you-should-play-video-games</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-635409998_wide-55c4113001a355a3ae7b9cf1825f26469388a361-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/06/19/533551243/firm-contracted-by-rnc-left-millions-of-voter-files-unsecured-online</guid>
+      <title>Firm Contracted By RNC Left Millions Of Voter Files Unsecured Online</title>
+      <link>http://www.npr.org/2017/06/19/533551243/firm-contracted-by-rnc-left-millions-of-voter-files-unsecured-online</link>
+      <description>June 19, 2017 - A security researcher discovered massive troves of information about 198 million potential American voters stored on an Amazon server without as much as a password.</description>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-621958778_wide-0e691d4892b517fc76d51bb8aed01bb227784e18-s800-c15.jpg"></a>
+
+June 19, 2017 - A security researcher discovered massive troves of information about 198 million potential American voters stored on an Amazon server without as much as a password.
+
+<a href="http://www.npr.org/2017/06/19/533551243/firm-contracted-by-rnc-left-millions-of-voter-files-unsecured-online">http://www.npr.org/2017/06/19/533551243/firm-contracted-by-rnc-left-millions-of-voter-files-unsecured-online</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-621958778_wide-0e691d4892b517fc76d51bb8aed01bb227784e18-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ June 14, 2017 - The technology around us has made its way into all kinds of movi
 <a href="http://www.npr.org/2017/06/13/532816953/yahoo-ceo-marissa-mayer-resigns-as-verizon-completes-4-5-billion-purchase">http://www.npr.org/2017/06/13/532816953/yahoo-ceo-marissa-mayer-resigns-as-verizon-completes-4-5-billion-purchase</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>164</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns</guid>
-      <title>Verizon Closes The Yahoo Deal; Yahoo CEO Marissa Mayer Resigns</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns</link>
-      <description>June 13, 2017 - Verizon has completed its $4.5 billion acquisition of Yahoo, folding it and AOL into a digital media subsidiary called Oath. Mayer is expected to receive a $23 million golden parachute as she exits.</description>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/mayer_wide-432d49a77d8338654e412b51760fb31fc13be9a0-s800-c15.jpg"></a>
-
-June 13, 2017 - Verizon has completed its $4.5 billion acquisition of Yahoo, folding it and AOL into a digital media subsidiary called Oath. Mayer is expected to receive a $23 million golden parachute as she exits.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns">http://www.npr.org/sections/thetwo-way/2017/06/13/532772877/verizon-closes-the-yahoo-deal-yahoo-ceo-marissa-mayer-resigns</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/mayer_wide-432d49a77d8338654e412b51760fb31fc13be9a0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
