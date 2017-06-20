@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 18:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 18:00:25 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 20:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/20/533529538/upworthy-was-one-of-the-hottest-sites-ever-you-wont-believe-what-happened-next</guid>
+      <title>Upworthy Was One Of The Hottest Sites Ever. You Won&#39;t Believe What Happened Next</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/20/533529538/upworthy-was-one-of-the-hottest-sites-ever-you-wont-believe-what-happened-next</link>
+      <description>June 20, 2017 - After popularizing sensational headlines and taking your news feed by storm, Upworthy seemingly fell off a cliff. Its story reveals just as much about Facebook as it does about why we click.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/20/gettyimages-477746637_wide-ec64b4942dc919474b42cf7e0066b3a0b817e4c9-s800-c15.jpg"></a>
+
+June 20, 2017 - After popularizing sensational headlines and taking your news feed by storm, Upworthy seemingly fell off a cliff. Its story reveals just as much about Facebook as it does about why we click.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/20/533529538/upworthy-was-one-of-the-hottest-sites-ever-you-wont-believe-what-happened-next">http://www.npr.org/sections/alltechconsidered/2017/06/20/533529538/upworthy-was-one-of-the-hottest-sites-ever-you-wont-believe-what-happened-next</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-477746637_wide-ec64b4942dc919474b42cf7e0066b3a0b817e4c9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/20/533637643/despite-nsa-claim-election-vendor-denies-system-was-compromised-in-hack-attempt</guid>
       <title>Despite NSA Claim, Elections Vendor Denies System Was Compromised In Hack Attempt</title>
@@ -241,23 +256,6 @@ June 14, 2017 - Even if most voting machines aren't connected to the Internet, "
 <a href="http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know">http://www.npr.org/2017/06/14/532824432/if-voting-machines-were-hacked-would-anyone-know</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/13/gettyimages-620878108_wide-8c43cc033d60d81c11959a6c197f2e10e431442a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_why_hasnt_online_dating_made_it_onscreen_.mp3?orgId=1&amp;topicId=1045&amp;d=206&amp;p=3&amp;story=532752841&amp;t=progseg&amp;e=532879123&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Hasn&#39;t Online Dating Made It Onscreen? </title>
-      <link>http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</link>
-      <description>June 14, 2017 - The technology around us has made its way into all kinds of movies — sci-fi, thrillers, horror. But there&#39;s one movie genre it hasn&#39;t been able to infiltrate — the romantic comedy.</description>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170614_me_why_hasnt_online_dating_made_it_onscreen_.mp3?orgId=1&amp;topicId=1045&amp;d=206&amp;p=3&amp;story=532752841&amp;t=progseg&amp;e=532879123&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s800-c15.jpg"></a>
-
-June 14, 2017 - The technology around us has made its way into all kinds of movies — sci-fi, thrillers, horror. But there's one movie genre it hasn't been able to infiltrate — the romantic comedy.
-
-<a href="http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen">http://www.npr.org/sections/monkeysee/2017/06/14/532752841/why-hasnt-online-dating-made-it-onscreen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/istock-610454750_wide-df3fbcdd5cbea173619f8e994cf264b04ac4f1da-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 14:00:25 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 20:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</guid>
+      <title>A Pioneer In &#39;Flat-Fee Primary Care&#39; Had To Close Its Clinics. What Went Wrong?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</link>
+      <description>June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee, and freed doctors from insurance paperwork. But critics say the approach may not be viable.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-7f16957c0e5dbbea9bd130f4520e0ef78becc047-s800-c15.jpg"></a>
+
+June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee, and freed doctors from insurance paperwork. But critics say the approach may not be viable.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong">http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-7f16957c0e5dbbea9bd130f4520e0ef78becc047-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</guid>
+      <title>She May Be The Most Unstoppable Scientist In The World</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</link>
+      <description>June 20, 2017 - First she was shot at on the way to work. Then her house was destroyed by a bomb. That didn&#39;t deter this woman scientist.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/01/20170412-eqbal_npr-malaysia-0058-2-_wide-f021ca1b17a579a490e63ec2b8a3365bc0d7bb34-s800-c15.jpg"></a>
+
+June 20, 2017 - First she was shot at on the way to work. Then her house was destroyed by a bomb. That didn't deter this woman scientist.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world">http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/20170412-eqbal_npr-malaysia-0058-2-_wide-f021ca1b17a579a490e63ec2b8a3365bc0d7bb34-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/20/533128467/how-your-sandwich-changed-the-world</guid>
       <title>How Your Sandwich Changed The World</title>
@@ -46,10 +76,12 @@ June 20, 2017 - What road did your lunch travel before it reached your plate? NP
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_hb_terrorism_muslims.mp3?orgId=1&amp;topicId=1024&amp;d=214&amp;p=3&amp;story=533619763&amp;t=progseg&amp;e=533617385&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 20, 2017 - Research shows people are more likely to label an attack as terrorism if the perpetrator is Muslim. Terrorist attacks committed by Muslims receive more coverage than those not committed by Muslims.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/20/gettyimages-502204100_wide-219e26583b7590d8767b0f47535c7db5a3bc2167-s800-c15.jpg"></a>
+
+June 20, 2017 - Research shows people are more likely to label an attack as terrorism if the perpetrator is Muslim. Terrorist attacks committed by Muslims receive more coverage than those not committed by Muslims.
 
 <a href="http://www.npr.org/2017/06/20/533619763/hidden-brain-terror-attacks">http://www.npr.org/2017/06/20/533619763/hidden-brain-terror-attacks</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-502204100_wide-219e26583b7590d8767b0f47535c7db5a3bc2167-s3000-c15.jpg"></itunes:image>
       <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -61,12 +93,12 @@ June 20, 2017 - What road did your lunch travel before it reached your plate? NP
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_study_finds_yoga_can_help_back_pain_but_keep_it_gentle_with_these_poses.mp3?orgId=1&amp;topicId=1128&amp;d=211&amp;p=3&amp;story=533505211&amp;t=progseg&amp;e=533617385&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-7f479e112156705b4d50d59646590d2183d67e0b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-3235cac04a3dd8cdd0ade892b4922ce07a6ba3ed-s800-c15.jpg"></a>
 
 June 20, 2017 - A yoga class designed specifically for lower back pain can be as effective as physical therapy in easing pain, the study says. The class and teacher manuals are available online, for free.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses">http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-7f479e112156705b4d50d59646590d2183d67e0b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-3235cac04a3dd8cdd0ade892b4922ce07a6ba3ed-s3000-c15.jpg"></itunes:image>
       <itunes:duration>211</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -92,12 +124,12 @@ June 19, 2017 - In the last five years, 12 percent of terrorist attacks in the U
       <description>June 19, 2017 - A new study says that Ethiopia could lose more than 50 percent of its coffee growing regions to climate change. But, higher altitude areas could become more suitable for coffee in the coming decades.</description>
       <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/19/washed-coffee-south-west-ethiopia---credit---alan-schaller-and-union-hand-roasted-coffee_wide-b01298b1b9bcc67eeac08b9c84e3654a5849330f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/19/washed-coffee-south-west-ethiopia---credit---alan-schaller-and-union-hand-roasted-coffee_wide-e92c1deeaf54ded68761b6e5df90e1c17e8c1f84-s800-c15.jpg"></a>
 
 June 19, 2017 - A new study says that Ethiopia could lose more than 50 percent of its coffee growing regions to climate change. But, higher altitude areas could become more suitable for coffee in the coming decades.
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/19/533538555/ethiopias-coffee-farmers-are-on-the-front-lines-of-climate-change">http://www.npr.org/sections/thesalt/2017/06/19/533538555/ethiopias-coffee-farmers-are-on-the-front-lines-of-climate-change</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/washed-coffee-south-west-ethiopia---credit---alan-schaller-and-union-hand-roasted-coffee_wide-b01298b1b9bcc67eeac08b9c84e3654a5849330f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/washed-coffee-south-west-ethiopia---credit---alan-schaller-and-union-hand-roasted-coffee_wide-e92c1deeaf54ded68761b6e5df90e1c17e8c1f84-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +256,6 @@ June 15, 2017 - Twenty percent of baby food samples were found to contain lead, 
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level">http://www.npr.org/sections/thesalt/2017/06/15/533103892/lead-detected-in-baby-food-samples-pediatricians-say-theres-no-safe-level</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/istock-167232709_wide-c9bb55291c895ac553e4b0ffa94d42874e044022-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_ikea_on_mars_inside_simulator_designers_learn_how_to_live_in_close_quarters.mp3?orgId=1&amp;topicId=1007&amp;d=161&amp;p=2&amp;story=533102606&amp;t=progseg&amp;e=533042663&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Inside Mars Simulator, IKEA Designers Learn How To Live In Close Quarters</title>
-      <link>http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters</link>
-      <description>June 15, 2017 - IKEA exiled designers to a research station in Utah modeled after a living situation on the planet Mars. They hope the experience will inspire them to create similar spaces around the world.</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_ikea_on_mars_inside_simulator_designers_learn_how_to_live_in_close_quarters.mp3?orgId=1&amp;topicId=1007&amp;d=161&amp;p=2&amp;story=533102606&amp;t=progseg&amp;e=533042663&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 15, 2017 - IKEA exiled designers to a research station in Utah modeled after a living situation on the planet Mars. They hope the experience will inspire them to create similar spaces around the world.
-
-<a href="http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters">http://www.npr.org/2017/06/15/533102606/inside-mars-simulator-ikea-designers-learn-how-to-live-in-close-quarters</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>161</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Roots Of Consciousness: We&#39;re Of 2 Minds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</link>
-      <description>June 15, 2017 - Surgery that severs the link between brain hemispheres reveals that those halves have way different views of the world. We ask a pioneering scientist what that tells us about human consciousness.</description>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170615_atc_the_roots_of_consciousness_were_of_two_minds.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=532920899&amp;t=progseg&amp;e=533042663&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s800-c15.jpg"></a>
-
-June 15, 2017 - Surgery that severs the link between brain hemispheres reveals that those halves have way different views of the world. We ask a pioneering scientist what that tells us about human consciousness.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds">http://www.npr.org/sections/health-shots/2017/06/15/532920899/the-roots-of-consciousness-were-of-two-minds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/14/split-brain-1_wide-4bcab8d3b59f226a91cda2fe3950f08a8f26c2b5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>324</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

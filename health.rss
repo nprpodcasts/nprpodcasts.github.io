@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 18:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 20 Jun 2017 18:00:23 +0000</pubDate>
+    <pubDate>Tue, 20 Jun 2017 20:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</guid>
+      <title>A Pioneer In &#39;Flat-Fee Primary Care&#39; Had To Close Its Clinics. What Went Wrong?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</link>
+      <description>June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee, and freed doctors from insurance paperwork. But critics say the approach may not be viable.</description>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-7f16957c0e5dbbea9bd130f4520e0ef78becc047-s800-c15.jpg"></a>
+
+June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee, and freed doctors from insurance paperwork. But critics say the approach may not be viable.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong">http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-7f16957c0e5dbbea9bd130f4520e0ef78becc047-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170620.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Opioid Overdoses: Mass Casualty Zones In America</title>
@@ -241,23 +256,6 @@ June 17, 2017 - When Greg O'Brien found out he'd be a grandfather, he was excite
 <a href="http://www.npr.org/sections/health-shots/2017/06/17/528636102/alzheimer-s-starts-to-steal-the-joy-of-being-a-grandfather">http://www.npr.org/sections/health-shots/2017/06/17/528636102/alzheimer-s-starts-to-steal-the-joy-of-being-a-grandfather</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/obrien-1_wide-e927ba00e75213c68737bbfe1c8e94f0031fc3e9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>238</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_heartbeat_music.mp3?orgId=1&amp;topicId=1008&amp;d=338&amp;p=2&amp;story=533255537&amp;t=progseg&amp;e=533177018&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Heartbeat Music: Parents Remember Their Son Through His Song Of Life</title>
-      <link>http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life</link>
-      <description>June 16, 2017 - Nate Kramer was a tall, quiet collegiate swimmer when he was diagnosed with leukemia. He died four years later. But during treatment he met a therapist, and together they played and recorded music.</description>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_heartbeat_music.mp3?orgId=1&amp;topicId=1008&amp;d=338&amp;p=2&amp;story=533255537&amp;t=progseg&amp;e=533177018&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/brianschreckhospital_wide-69ae01ccf073172fb42ca745208b1041735cae6c-s800-c15.jpg"></a>
-
-June 16, 2017 - Nate Kramer was a tall, quiet collegiate swimmer when he was diagnosed with leukemia. He died four years later. But during treatment he met a therapist, and together they played and recorded music.
-
-<a href="http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life">http://www.npr.org/2017/06/16/533255537/heartbeat-music-parents-remember-their-son-through-his-song-of-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/brianschreckhospital_wide-69ae01ccf073172fb42ca745208b1041735cae6c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>338</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
