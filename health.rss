@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 21:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 22:00:46 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 21 Jun 2017 21:01:29 +0000</pubDate>
+    <pubDate>Wed, 21 Jun 2017 22:00:46 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_not_alone_former_combat_medic_seeks_to_help_fellow_vets_with_hip-hop_album.mp3?orgId=1&amp;topicId=1128&amp;d=218&amp;p=2&amp;story=533792166&amp;t=progseg&amp;e=533771311&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Combat Medicine:&#39; Afghanistan Vet Seeks To Help Others Through Hip-Hop</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</link>
       <description>June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops Wednesday. His target audience: fellow vets suffering from post-traumatic stress disorder.</description>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_not_alone_former_combat_medic_seeks_to_help_fellow_vets_with_hip-hop_album.mp3?orgId=1&amp;topicId=1128&amp;d=218&amp;p=2&amp;story=533792166&amp;t=progseg&amp;e=533771311&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop">http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
