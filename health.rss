@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 19:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 21:01:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 21 Jun 2017 19:00:30 +0000</pubDate>
+    <pubDate>Wed, 21 Jun 2017 21:01:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</guid>
+      <title>&#39;Combat Medicine:&#39; Afghanistan Vet Seeks To Help Others Through Hip-Hop</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</link>
+      <description>June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops Wednesday. His target audience: fellow vets suffering from post-traumatic stress disorder.</description>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s800-c15.jpg"></a>
+
+June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops Wednesday. His target audience: fellow vets suffering from post-traumatic stress disorder.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop">http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/21/533808635/ceos-say-theyll-sell-health-insurance-next-year-but-are-flying-blind</guid>
       <title>CEOs Say They&#39;ll Sell Health Insurance Next Year, But Are Flying Blind</title>
@@ -237,21 +252,6 @@ June 19, 2017 - Twenty years. That's how long two grad students, Sonia Vallabh a
 <a href="http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them">http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>496</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</guid>
-      <title>Can You Find The Defibrillator At Work? Half Of People Say No</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</link>
-      <description>June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone&#39;s heart after cardiac arrest.</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-d7613309769158290ad1cba26544a73ea1b5487e-s800-c15.jpg"></a>
-
-June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone's heart after cardiac arrest.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no">http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-d7613309769158290ad1cba26544a73ea1b5487e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

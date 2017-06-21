@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 19:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 21:00:57 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 21 Jun 2017 19:00:32 +0000</pubDate>
+    <pubDate>Wed, 21 Jun 2017 21:00:57 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</guid>
+      <title>After CEO Resignation, Is Uber Kalanick-less Or Kalanick-free?</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</link>
+      <description>June 21, 2017 - Few companies have had such a rapid fallout from such a vast number of crises stemming from the workplace culture perpetuated from the top, while appearing to be at the peak of its success.</description>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s800-c15.jpg"></a>
+
+June 21, 2017 - Few companies have had such a rapid fallout from such a vast number of crises stemming from the workplace culture perpetuated from the top, while appearing to be at the peak of its success.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free">http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi</guid>
       <title>Intel Signs On As An Olympic Sponsor, Promising Virtual Reality And 360-Degree Video</title>
@@ -235,21 +250,6 @@ June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping
 <a href="http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion">http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</guid>
-      <title>Is The Concern Artificial Intelligence — Or Autonomy?</title>
-      <link>http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</link>
-      <description>June 16, 2017 - At the end of the day, even the smartest computers are tools, our tools, and their intentions are our intentions — to the extent that we can speak of their intentions at all, says blogger Alva Noë.</description>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/16/istock-675938062_wide-4601997553d881f0701de7bc0a2cd3d56c028365-s800-c15.jpg"></a>
-
-June 16, 2017 - At the end of the day, even the smartest computers are tools, our tools, and their intentions are our intentions — to the extent that we can speak of their intentions at all, says blogger Alva Noë.
-
-<a href="http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy">http://www.npr.org/sections/13.7/2017/06/16/533196904/is-the-concern-artificial-intelligence-or-autonomy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/istock-675938062_wide-4601997553d881f0701de7bc0a2cd3d56c028365-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
