@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 22:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 23:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 21 Jun 2017 22:00:42 +0000</pubDate>
+    <pubDate>Wed, 21 Jun 2017 23:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_uber_co-founder_travis_kalanick_resigns_under_pressure_as_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=245&amp;p=2&amp;story=533791446&amp;t=progseg&amp;e=533771311&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>After CEO Resignation, Is Uber Kalanick-less Or Kalanick-free?</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</link>
       <description>June 21, 2017 - Few companies have had such a rapid fallout from such a vast number of crises stemming from the workplace culture perpetuated from the top, while appearing to be at the peak of its success.</description>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_uber_co-founder_travis_kalanick_resigns_under_pressure_as_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=245&amp;p=2&amp;story=533791446&amp;t=progseg&amp;e=533771311&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ June 21, 2017 - Few companies have had such a rapid fallout from such a vast num
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free">http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
