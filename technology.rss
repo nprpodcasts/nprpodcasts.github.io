@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 09:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 17:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 09:00:04 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 17:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</guid>
+      <title>Moth Eyes Inspire Glare-Resistant Coating For Cellphone Screens</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</link>
+      <description>June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s800-c15.jpg"></a>
+
+June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens">http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_how_facebook_uses_technology_to_block_terrorist-related_content.mp3?orgId=1&amp;topicId=1019&amp;d=423&amp;p=3&amp;story=533855547&amp;t=progseg&amp;e=533909511&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Facebook Uses Technology To Block Terrorist-Related Content</title>
@@ -239,21 +254,6 @@ June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them">http://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-461841658_wide-11e76fc6ace20c634d3ae59ef1f0b12968a0dffe-s3000-c15.jpg"></itunes:image>
       <itunes:duration>441</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_walmart_and_bonobos.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=10&amp;story=533402821&amp;t=progseg&amp;e=533402256&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Wal-Mart To Buy Bonobos In Challenge To Amazon</title>
-      <link>http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</link>
-      <description>June 18, 2017 - Wal-Mart is purchasing men&#39;s clothing seller Bonobos as the giant retailer looks to stay competitive with Amazon.&#xA;&#xA; - http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</description>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/06/20170618_wesun_walmart_and_bonobos.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=10&amp;story=533402821&amp;t=progseg&amp;e=533402256&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 18, 2017 - Wal-Mart is purchasing men's clothing seller Bonobos as the giant retailer looks to stay competitive with Amazon.
-
-<a href="http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon">http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
