@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 23:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 09:00:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 21 Jun 2017 23:00:05 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 09:00:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_how_facebook_uses_technology_to_block_terrorist-related_content.mp3?orgId=1&amp;topicId=1019&amp;d=423&amp;p=3&amp;story=533855547&amp;t=progseg&amp;e=533909511&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Facebook Uses Technology To Block Terrorist-Related Content</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/22/533855547/how-facebook-uses-technology-to-block-terrorist-related-content</link>
+      <description>June 22, 2017 - Social media firms are under pressure to block extremist activity on their sites. Facebook is hiring thousands more people to review content, but artificial intelligence also plays a role.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_how_facebook_uses_technology_to_block_terrorist-related_content.mp3?orgId=1&amp;topicId=1019&amp;d=423&amp;p=3&amp;story=533855547&amp;t=progseg&amp;e=533909511&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-529718248_wide-c253cc5e55b68f2936ae038474bdb4796e8a4b37-s800-c15.jpg"></a>
+
+June 22, 2017 - Social media firms are under pressure to block extremist activity on their sites. Facebook is hiring thousands more people to review content, but artificial intelligence also plays a role.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/22/533855547/how-facebook-uses-technology-to-block-terrorist-related-content">http://www.npr.org/sections/alltechconsidered/2017/06/22/533855547/how-facebook-uses-technology-to-block-terrorist-related-content</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-529718248_wide-c253cc5e55b68f2936ae038474bdb4796e8a4b37-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>423</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_uber_co-founder_travis_kalanick_resigns_under_pressure_as_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=245&amp;p=2&amp;story=533791446&amp;t=progseg&amp;e=533771311&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>After CEO Resignation, Is Uber Kalanick-less Or Kalanick-free?</title>
@@ -237,21 +254,6 @@ June 19, 2017 - On the outskirts of the Bay Area, farming communities are hoping
 <a href="http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon">http://www.npr.org/2017/06/18/533402821/wal-mart-to-buy-bonobos-in-challenge-to-amazon</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_amazon_announces_plan_to_buy_whole_foods_for_137_billion.mp3?orgId=1&amp;topicId=1006&amp;d=235&amp;p=2&amp;story=533255561&amp;t=progseg&amp;e=533177018&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Amazon Announces Plan To Buy Whole Foods For $13.7 Billion</title>
-      <link>http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</link>
-      <description>June 16, 2017 - Amazon announced it will buy Whole Foods Market in a deal valued at $13.7 billion. This is by far the largest acquisition Amazon has made, promising a massive change of pace for both the organic food chain and its competitors.</description>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170616_atc_amazon_announces_plan_to_buy_whole_foods_for_137_billion.mp3?orgId=1&amp;topicId=1006&amp;d=235&amp;p=2&amp;story=533255561&amp;t=progseg&amp;e=533177018&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 16, 2017 - Amazon announced it will buy Whole Foods Market in a deal valued at $13.7 billion. This is by far the largest acquisition Amazon has made, promising a massive change of pace for both the organic food chain and its competitors.
-
-<a href="http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion">http://www.npr.org/2017/06/16/533255561/amazon-announces-plan-to-buy-whole-foods-for-13-7-billion</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

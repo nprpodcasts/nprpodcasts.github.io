@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 07:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 09:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 07:00:26 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 09:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid</guid>
+      <title>Humanitarian Aid Is &#39;Broken,&#39; Says Former U.N. Official</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid</link>
+      <description>June 22, 2017 - The way we offer assistance to people fleeing conflict no longer works, says Paul Spiegel, a former director of program management at the U.N. refugee agency. He has a few ideas about how to fix it.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/20/picture-220_wide-e693acf5378ab9ec27aa1328b370cbcbd9081b63-s800-c15.jpg"></a>
+
+June 22, 2017 - The way we offer assistance to people fleeing conflict no longer works, says Paul Spiegel, a former director of program management at the U.N. refugee agency. He has a few ideas about how to fix it.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid">http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/picture-220_wide-e693acf5378ab9ec27aa1328b370cbcbd9081b63-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_post_carter_level_set.mp3?orgId=1&amp;topicId=1027&amp;d=175&amp;p=3&amp;story=533922318&amp;t=progseg&amp;e=533909511&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Senators Working On Health Care Revision Ready To Release Their Plan</title>
+      <link>http://www.npr.org/2017/06/22/533922318/senators-working-on-health-care-revision-ready-to-release-their-plan</link>
+      <description>June 22, 2017 - The legislation Senate Republicans are releasing is expected to track the House version that was passed last month. Negotiations have been going on in secret.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_post_carter_level_set.mp3?orgId=1&amp;topicId=1027&amp;d=175&amp;p=3&amp;story=533922318&amp;t=progseg&amp;e=533909511&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 22, 2017 - The legislation Senate Republicans are releasing is expected to track the House version that was passed last month. Negotiations have been going on in secret.
+
+<a href="http://www.npr.org/2017/06/22/533922318/senators-working-on-health-care-revision-ready-to-release-their-plan">http://www.npr.org/2017/06/22/533922318/senators-working-on-health-care-revision-ready-to-release-their-plan</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>175</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_republicans_proposed_medicaid_cuts_would_hit_rural_patients_hard.mp3?orgId=17&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=533680909&amp;t=progseg&amp;e=533909511&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Republicans&#39; Proposed Medicaid Cuts Would Hit Rural Patients Hard</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard</link>
+      <description>June 22, 2017 - Hundreds of rural hospitals are on the brink of closing. The House Republican health plan drastically reduces one of their key sources of funding and the Senate bill is expected to do the same.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_republicans_proposed_medicaid_cuts_would_hit_rural_patients_hard.mp3?orgId=17&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=533680909&amp;t=progseg&amp;e=533909511&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/pemiscot-2_wide-78f5acda89da8a842c386c5c2ab93398dfab8eef-s800-c15.jpg"></a>
+
+June 22, 2017 - Hundreds of rural hospitals are on the brink of closing. The House Republican health plan drastically reduces one of their key sources of funding and the Senate bill is expected to do the same.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard">http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/pemiscot-2_wide-78f5acda89da8a842c386c5c2ab93398dfab8eef-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>189</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_spillover_beasts_bats_squirrels_and_primates_are_among_the_viral_threats.mp3?orgId=1&amp;topicId=1031&amp;d=191&amp;p=2&amp;story=533702513&amp;t=progseg&amp;e=533771311&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Spillover Beasts: Which Animals Pose The Biggest Viral Risk?</title>
@@ -209,51 +256,6 @@ June 20, 2017 - The Remote Area Medical charity holds dozens of free health clin
 <a href="http://www.npr.org/2017/06/20/533210947/when-sleeping-in-the-car-is-the-price-of-a-doctor-visit">http://www.npr.org/2017/06/20/533210947/when-sleeping-in-the-car-is-the-price-of-a-doctor-visit</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/19/img_2923_wide-0d5f79fb0d8791417b3c4325d5dc43141f844d32-s3000-c15.jpg"></itunes:image>
       <itunes:duration>269</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_alaska_governor_raises_concerns_about_republican_health_care_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=246&amp;p=2&amp;story=533556278&amp;t=progseg&amp;e=533479662&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Alaska Governor Raises Concerns About Republican Health Care Efforts</title>
-      <link>http://www.npr.org/2017/06/19/533556278/alaska-governor-raises-concerns-about-republican-health-care-efforts</link>
-      <description>June 19, 2017 - NPR&#39;s Audie Cornish speaks with Alaska Gov. Bill Walker about his concerns with the American Health Care Act. With its remote rural communities, Alaska has some of the highest insurance costs in the country.</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_alaska_governor_raises_concerns_about_republican_health_care_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=246&amp;p=2&amp;story=533556278&amp;t=progseg&amp;e=533479662&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 19, 2017 - NPR's Audie Cornish speaks with Alaska Gov. Bill Walker about his concerns with the American Health Care Act. With its remote rural communities, Alaska has some of the highest insurance costs in the country.
-
-<a href="http://www.npr.org/2017/06/19/533556278/alaska-governor-raises-concerns-about-republican-health-care-efforts">http://www.npr.org/2017/06/19/533556278/alaska-governor-raises-concerns-about-republican-health-care-efforts</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>246</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_senate_democrats_stage_stand-off_over_gop_health_care_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=244&amp;p=2&amp;story=533556271&amp;t=progseg&amp;e=533479662&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Democrats Stage Stand-Off Over GOP Health Care Efforts</title>
-      <link>http://www.npr.org/2017/06/19/533556271/senate-democrats-stage-stand-off-over-gop-health-care-efforts</link>
-      <description>June 19, 2017 - Senate Republicans have two weeks to meet a self-imposed deadline to vote on a health care bill. Democrats and several Republicans are criticizing the closed-door process for drafting the legislation.</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170619_atc_senate_democrats_stage_stand-off_over_gop_health_care_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=244&amp;p=2&amp;story=533556271&amp;t=progseg&amp;e=533479662&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 19, 2017 - Senate Republicans have two weeks to meet a self-imposed deadline to vote on a health care bill. Democrats and several Republicans are criticizing the closed-door process for drafting the legislation.
-
-<a href="http://www.npr.org/2017/06/19/533556271/senate-democrats-stage-stand-off-over-gop-health-care-efforts">http://www.npr.org/2017/06/19/533556271/senate-democrats-stage-stand-off-over-gop-health-care-efforts</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>244</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</guid>
-      <title>A Good News Story About Diarrhea — With One Surprising Exception</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</link>
-      <description>June 19, 2017 - A new report points to great progress in reducing deaths from diarrheal diseases. But as the low-income world sees progress, rates are inching up in wealthy countries, including the U.S.</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/16/diarrheal-deaths-promo_wide-0126663251232b99bdf56ce844b65731caecea32-s800-c15.png"></a>
-
-June 19, 2017 - A new report points to great progress in reducing deaths from diarrheal diseases. But as the low-income world sees progress, rates are inching up in wealthy countries, including the U.S.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception">http://www.npr.org/sections/goatsandsoda/2017/06/19/531912971/a-good-news-story-about-diarrhea-with-one-surprising-exception</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/diarrheal-deaths-promo_wide-0126663251232b99bdf56ce844b65731caecea32-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
