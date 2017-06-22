@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 17:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 19:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 17:00:18 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 19:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</guid>
+      <title>How Do Eggs Get Their Shapes? Scientists Think They&#39;ve Cracked It</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</link>
+      <description>June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kinds of shapes, from Tic Tacs to teardrops to pingpong balls. After studying some 50,000 eggs, a team of researchers thinks it knows why.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s800-c15.jpg"></a>
+
+June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kinds of shapes, from Tic Tacs to teardrops to pingpong balls. After studying some 50,000 eggs, a team of researchers thinks it knows why.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it">http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</guid>
       <title>Moth Eyes Inspire Glare-Resistant Coating For Cellphone Screens</title>
@@ -239,21 +254,6 @@ June 19, 2017 - Twenty years. That's how long two grad students, Sonia Vallabh a
 <a href="http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them">http://www.npr.org/sections/health-shots/2017/06/19/527795512/a-couples-quest-to-stop-a-rare-disease-before-it-takes-one-of-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/16/saving-sonia-1_wide-4dba19ec6e7c2844bb10bd8fd6e24a5177cecd8c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>496</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</guid>
-      <title>Can You Find The Defibrillator At Work? Half Of People Say No</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</link>
-      <description>June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone&#39;s heart after cardiac arrest.</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-d7613309769158290ad1cba26544a73ea1b5487e-s800-c15.jpg"></a>
-
-June 19, 2017 - People who work in the hospitality and service industries were even less likely to know where to find an AED, according to a new survey. The devices can restart someone's heart after cardiac arrest.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no">http://www.npr.org/sections/health-shots/2017/06/19/533269211/can-you-find-the-defibrillator-at-work-half-of-people-say-no</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/16/shelbyknowles-aed_wide-d7613309769158290ad1cba26544a73ea1b5487e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
