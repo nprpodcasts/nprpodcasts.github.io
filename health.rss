@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 17:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 20:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 17:00:16 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 20:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</guid>
+      <title>Who Wins, Who Loses With Senate Health Care Bill</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</link>
+      <description>June 22, 2017 - Senate Republicans are calling their health care bill the Better Care Reconciliation Act. It shares many provisions with the House&#39;s American Health Care Act, but goes further in cutting Medicaid.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/ap_17173571395884_wide-d5d40f9f7bea6a335270d606ded000a2a1903dac-s800-c15.jpg"></a>
+
+June 22, 2017 - Senate Republicans are calling their health care bill the Better Care Reconciliation Act. It shares many provisions with the House's American Health Care Act, but goes further in cutting Medicaid.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill">http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17173571395884_wide-d5d40f9f7bea6a335270d606ded000a2a1903dac-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/22/533947844/senate-republicans-reveal-long-awaited-affordable-care-act-repeal-bill</guid>
       <title>Senate Republicans Reveal Long-Awaited Affordable Care Act Repeal Bill</title>
@@ -60,12 +75,12 @@ June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and
       <description>June 22, 2017 - The way we offer assistance to people fleeing conflict no longer works, says Paul Spiegel, a former director of program management at the U.N. refugee agency. He has a few ideas about how to fix it.</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/20/picture-220_wide-e693acf5378ab9ec27aa1328b370cbcbd9081b63-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/south-sudan-0-9_wide-f8d8ab937129165fb678d75e7b2ca152d2ab69a5-s800-c15.jpg"></a>
 
 June 22, 2017 - The way we offer assistance to people fleeing conflict no longer works, says Paul Spiegel, a former director of program management at the U.N. refugee agency. He has a few ideas about how to fix it.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid">http://www.npr.org/sections/goatsandsoda/2017/06/22/533639073/what-s-wrong-with-humanitarian-aid</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/picture-220_wide-e693acf5378ab9ec27aa1328b370cbcbd9081b63-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/south-sudan-0-9_wide-f8d8ab937129165fb678d75e7b2ca152d2ab69a5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimi
 <a href="http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline">http://the1a.org/shows/2017-06-20/opioid-epidemic-placeholder-headline</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2880</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_hiv_aids_council_resignations.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=533617483&amp;t=progseg&amp;e=533617385&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>6 Members Of The Presidential Advisory Council On HIV/Aids Resign</title>
-      <link>http://www.npr.org/2017/06/20/533617483/6-members-of-the-presidential-advisory-council-on-hiv-aids-resign</link>
-      <description>June 20, 2017 - Steve Inskeep talks to Dr. Michelle Ogle of the Warren-Vance Community Health Center in Henderson, N.C., about why she chose to resign from the advisory council. Five others also left the panel.</description>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170620_me_hiv_aids_council_resignations.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=533617483&amp;t=progseg&amp;e=533617385&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 20, 2017 - Steve Inskeep talks to Dr. Michelle Ogle of the Warren-Vance Community Health Center in Henderson, N.C., about why she chose to resign from the advisory council. Five others also left the panel.
-
-<a href="http://www.npr.org/2017/06/20/533617483/6-members-of-the-presidential-advisory-council-on-hiv-aids-resign">http://www.npr.org/2017/06/20/533617483/6-members-of-the-presidential-advisory-council-on-hiv-aids-resign</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
