@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 21:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 22:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 21:00:22 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 22:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_when_you_talk_in_your_sleep_are_you_talking_to_your_secret_self.mp3?orgId=1&amp;topicId=1128&amp;d=430&amp;p=2&amp;story=533952361&amp;t=progseg&amp;e=533912361&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>When You Talk In Your Sleep, Are You Talking To Your Secret Self?</title>
+      <link>http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self</link>
+      <description>June 22, 2017 - After hearing recordings of herself giggling and cheerfully talking in her sleep, Tanya Marquardt, who always thought of herself as tough and brooding, begins to connect with her other self.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_when_you_talk_in_your_sleep_are_you_talking_to_your_secret_self.mp3?orgId=1&amp;topicId=1128&amp;d=430&amp;p=2&amp;story=533952361&amp;t=progseg&amp;e=533912361&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 22, 2017 - After hearing recordings of herself giggling and cheerfully talking in her sleep, Tanya Marquardt, who always thought of herself as tough and brooding, begins to connect with her other self.
+
+<a href="http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self">http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>430</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/22/533951718/ob-gyns-give-women-more-say-in-when-they-have-mammograms</guid>
+      <title>OB-GYNs Give Women More Say In When They Have Mammograms</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/22/533951718/ob-gyns-give-women-more-say-in-when-they-have-mammograms</link>
+      <description>June 22, 2017 - Updated guidelines on mammograms from the nation&#39;s gynecologists are intended to incorporate recommendations from three other medical societies and consider women&#39;s preferences, too.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/mammogram-1_wide-791c5821a6421475215c830e5562d59f97c1bfea-s800-c15.jpg"></a>
+
+June 22, 2017 - Updated guidelines on mammograms from the nation's gynecologists are intended to incorporate recommendations from three other medical societies and consider women's preferences, too.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/22/533951718/ob-gyns-give-women-more-say-in-when-they-have-mammograms">http://www.npr.org/sections/health-shots/2017/06/22/533951718/ob-gyns-give-women-more-say-in-when-they-have-mammograms</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/mammogram-1_wide-791c5821a6421475215c830e5562d59f97c1bfea-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/22/533989383/ohio-health-insurance-ceo-raises-concerns-over-senate-gop-bill</guid>
       <title>Ohio Health Insurance CEO Raises Concerns Over Senate GOP Bill</title>
@@ -63,24 +93,27 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/22/533989326/democratic-sen-claire-mccaskill-reacts-to-senate-gop-health-care-bill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_democratic_sen_claire_mccaskill_reacts_to_senate_gop_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=328&amp;p=2&amp;story=533989326&amp;t=progseg&amp;e=533912361&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Democratic Sen. Claire McCaskill Reacts To Senate GOP Health Care Bill</title>
       <link>http://www.npr.org/2017/06/22/533989326/democratic-sen-claire-mccaskill-reacts-to-senate-gop-health-care-bill</link>
       <description>June 22, 2017 - NPR&#39;s Audie Cornish talks to Democratic Sen. Claire McCaskill about the Senate Republican health care bill.&#xA;&#xA; - http://www.npr.org/2017/06/22/533989326/democratic-sen-claire-mccaskill-reacts-to-senate-gop-health-care-bill</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_democratic_sen_claire_mccaskill_reacts_to_senate_gop_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=328&amp;p=2&amp;story=533989326&amp;t=progseg&amp;e=533912361&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 22, 2017 - NPR's Audie Cornish talks to Democratic Sen. Claire McCaskill about the Senate Republican health care bill.
 
 <a href="http://www.npr.org/2017/06/22/533989326/democratic-sen-claire-mccaskill-reacts-to-senate-gop-health-care-bill">http://www.npr.org/2017/06/22/533989326/democratic-sen-claire-mccaskill-reacts-to-senate-gop-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>328</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</guid>
-      <title>Who Wins, Who Loses With Senate Health Care Bill</title>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_the_senate_health_care_bill_who_wins_who_loses.mp3?orgId=1&amp;topicId=1027&amp;d=206&amp;p=2&amp;story=533942041&amp;t=progseg&amp;e=533912361&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>CHART: Who Wins, Who Loses With Senate Health Care Bill</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</link>
       <description>June 22, 2017 - Senate Republicans are calling their health care bill the Better Care Reconciliation Act. It shares many provisions with the House&#39;s American Health Care Act, but goes further in cutting Medicaid.</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_the_senate_health_care_bill_who_wins_who_loses.mp3?orgId=1&amp;topicId=1027&amp;d=206&amp;p=2&amp;story=533942041&amp;t=progseg&amp;e=533912361&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/ap_17173571395884_wide-d5d40f9f7bea6a335270d606ded000a2a1903dac-s800-c15.jpg"></a>
 
@@ -88,6 +121,7 @@ June 22, 2017 - Senate Republicans are calling their health care bill the Better
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill">http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17173571395884_wide-d5d40f9f7bea6a335270d606ded000a2a1903dac-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -214,36 +248,6 @@ June 21, 2017 - Health insurers have to let the government know Wednesday if the
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/21/533808635/ceos-say-theyll-sell-health-insurance-next-year-but-are-flying-blind">http://www.npr.org/sections/health-shots/2017/06/21/533808635/ceos-say-theyll-sell-health-insurance-next-year-but-are-flying-blind</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/mario-1_wide-06bd611cd681a94f414d05697cebd9f48069cb0f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170621.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>What&#39;s Washington Got To Hide?</title>
-      <link>http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</link>
-      <description>June 21, 2017 - It seems like more and more of the U.S. government&#39;s business is taking place behind closed doors. What aren&#39;t we being told, and why?&#xA;&#xA; - http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170621.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 21, 2017 - It seems like more and more of the U.S. government's business is taking place behind closed doors. What aren't we being told, and why?
-
-<a href="http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide">http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/21/532601431/survivors-of-childhood-diseases-struggle-to-find-care-as-adults</guid>
-      <title>Survivors Of Childhood Diseases Struggle To Find Care As Adults</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/21/532601431/survivors-of-childhood-diseases-struggle-to-find-care-as-adults</link>
-      <description>June 21, 2017 - A few decades ago, babies born with conditions such as congenital heart disease or cystic fibrosis often didn&#39;t survive past childhood. Now many live longer, but adult medicine has not kept pace.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/13/kklein_ggrayson_chronicdiseases_photo1_wide-5ad186ac685da64e9002b5a82f6fd5f128182cc2-s800-c15.jpg"></a>
-
-June 21, 2017 - A few decades ago, babies born with conditions such as congenital heart disease or cystic fibrosis often didn't survive past childhood. Now many live longer, but adult medicine has not kept pace.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/21/532601431/survivors-of-childhood-diseases-struggle-to-find-care-as-adults">http://www.npr.org/sections/health-shots/2017/06/21/532601431/survivors-of-childhood-diseases-struggle-to-find-care-as-adults</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/13/kklein_ggrayson_chronicdiseases_photo1_wide-5ad186ac685da64e9002b5a82f6fd5f128182cc2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

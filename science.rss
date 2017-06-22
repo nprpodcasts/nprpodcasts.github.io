@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 21:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 22:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 22 Jun 2017 21:00:20 +0000</pubDate>
+    <pubDate>Thu, 22 Jun 2017 22:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_when_you_talk_in_your_sleep_are_you_talking_to_your_secret_self.mp3?orgId=1&amp;topicId=1128&amp;d=430&amp;p=2&amp;story=533952361&amp;t=progseg&amp;e=533912361&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>When You Talk In Your Sleep, Are You Talking To Your Secret Self?</title>
+      <link>http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self</link>
+      <description>June 22, 2017 - After hearing recordings of herself giggling and cheerfully talking in her sleep, Tanya Marquardt, who always thought of herself as tough and brooding, begins to connect with her other self.</description>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_when_you_talk_in_your_sleep_are_you_talking_to_your_secret_self.mp3?orgId=1&amp;topicId=1128&amp;d=430&amp;p=2&amp;story=533952361&amp;t=progseg&amp;e=533912361&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 22, 2017 - After hearing recordings of herself giggling and cheerfully talking in her sleep, Tanya Marquardt, who always thought of herself as tough and brooding, begins to connect with her other self.
+
+<a href="http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self">http://www.npr.org/2017/06/22/533952361/when-you-talk-in-your-sleep-are-you-talking-to-your-secret-self</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>430</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/22/533989397/from-the-ashes-documents-rise-and-fall-of-coal-in-america</guid>
       <title>&#39;From The Ashes&#39; Documents Rise And Fall Of Coal In America</title>
@@ -50,11 +65,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_how_do_eggs_get_their_shapes_scientists_think_theyve_cracked_it.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=2&amp;story=533840419&amp;t=progseg&amp;e=533912361&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Do Eggs Get Their Shapes? Scientists Think They&#39;ve Cracked It</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</link>
       <description>June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kinds of shapes, from Tic Tacs to teardrops to pingpong balls. After studying some 50,000 eggs, a team of researchers thinks it knows why.</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_how_do_eggs_get_their_shapes_scientists_think_theyve_cracked_it.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=2&amp;story=533840419&amp;t=progseg&amp;e=533912361&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s800-c15.jpg"></a>
 
@@ -62,6 +78,7 @@ June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kind
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it">http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>142</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,21 +250,6 @@ June 20, 2017 - A yoga class designed specifically for lower back pain can be as
 <a href="http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses">http://www.npr.org/sections/health-shots/2017/06/20/533505211/study-finds-yoga-can-help-back-pain-but-keep-it-gentle-with-these-poses</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-78430187_wide-3235cac04a3dd8cdd0ade892b4922ce07a6ba3ed-s3000-c15.jpg"></itunes:image>
       <itunes:duration>211</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/19/532963059/when-is-it-terrorism-how-the-media-covers-attacks-by-muslim-perpetrators</guid>
-      <title>When Is It &#39;Terrorism&#39;? How The Media Cover Attacks By Muslim Perpetrators</title>
-      <link>http://www.npr.org/2017/06/19/532963059/when-is-it-terrorism-how-the-media-covers-attacks-by-muslim-perpetrators</link>
-      <description>June 19, 2017 - In the last five years, 12 percent of terrorist attacks in the U.S. were carried out by Muslims and more than 50 percent by far right extremists. So why the media focus on &#34;Islamic terrorism&#34;?</description>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/14/gettyimages-502204100_wide-219e26583b7590d8767b0f47535c7db5a3bc2167-s800-c15.jpg"></a>
-
-June 19, 2017 - In the last five years, 12 percent of terrorist attacks in the U.S. were carried out by Muslims and more than 50 percent by far right extremists. So why the media focus on "Islamic terrorism"?
-
-<a href="http://www.npr.org/2017/06/19/532963059/when-is-it-terrorism-how-the-media-covers-attacks-by-muslim-perpetrators">http://www.npr.org/2017/06/19/532963059/when-is-it-terrorism-how-the-media-covers-attacks-by-muslim-perpetrators</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/14/gettyimages-502204100_wide-219e26583b7590d8767b0f47535c7db5a3bc2167-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
