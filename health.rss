@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 17:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 20:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 23 Jun 2017 17:00:07 +0000</pubDate>
+    <pubDate>Fri, 23 Jun 2017 20:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan</guid>
+      <title>What The Man Who Ran Obamacare Thinks About the Republican Health Plan</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan</link>
+      <description>June 23, 2017 - Andy Slavitt was acting administrator of the the Centers for Medicare &amp; Medicaid Services until January. He calls the new Senate health care bill &#34;the ugly step-sibling&#34; of the House bill.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/ap_652363502239_wide-c14238140f024f888fb01c7637c83698c143c56c-s800-c15.jpg"></a>
+
+June 23, 2017 - Andy Slavitt was acting administrator of the the Centers for Medicare & Medicaid Services until January. He calls the new Senate health care bill "the ugly step-sibling" of the House bill.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan">http://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/ap_652363502239_wide-c14238140f024f888fb01c7637c83698c143c56c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/22/533943837/efforts-increase-to-bring-health-and-other-benefits-to-independent-workers</guid>
       <title>Efforts Increase To Bring Health And Other Benefits To Independent Workers</title>
@@ -45,12 +60,12 @@ June 23, 2017 - The vast majority of the estimated 54 million to 68 million cont
       <description>June 23, 2017 - Forget thinking about forgetting as failure. Researchers now say that ridding our brains of irrelevant details and outdated information helps us better navigate our ever-changing world.</description>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-47b6fa9bf4d4af80e2bb90af1732ad2e2aba0aaa-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-57fb220cc3450a3e72c0722de1d931a538cee34f-s800-c15.jpg"></a>
 
 June 23, 2017 - Forget thinking about forgetting as failure. Researchers now say that ridding our brains of irrelevant details and outdated information helps us better navigate our ever-changing world.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets">http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-47b6fa9bf4d4af80e2bb90af1732ad2e2aba0aaa-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-57fb220cc3450a3e72c0722de1d931a538cee34f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +252,6 @@ June 22, 2017 - The way we offer assistance to people fleeing conflict no longer
 <a href="http://www.npr.org/2017/06/22/533922318/senators-working-on-health-care-revision-ready-to-release-their-plan">http://www.npr.org/2017/06/22/533922318/senators-working-on-health-care-revision-ready-to-release-their-plan</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>175</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_republicans_proposed_medicaid_cuts_would_hit_rural_patients_hard.mp3?orgId=17&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=533680909&amp;t=progseg&amp;e=533909511&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Republicans&#39; Proposed Medicaid Cuts Would Hit Rural Patients Hard</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard</link>
-      <description>June 22, 2017 - Hundreds of rural hospitals are on the brink of closing. The House Republican health plan drastically reduces one of their key sources of funding and the Senate bill is expected to do the same.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170622_me_republicans_proposed_medicaid_cuts_would_hit_rural_patients_hard.mp3?orgId=17&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=533680909&amp;t=progseg&amp;e=533909511&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/pemiscot-2_wide-78f5acda89da8a842c386c5c2ab93398dfab8eef-s800-c15.jpg"></a>
-
-June 22, 2017 - Hundreds of rural hospitals are on the brink of closing. The House Republican health plan drastically reduces one of their key sources of funding and the Senate bill is expected to do the same.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard">http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/pemiscot-2_wide-78f5acda89da8a842c386c5c2ab93398dfab8eef-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>189</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
