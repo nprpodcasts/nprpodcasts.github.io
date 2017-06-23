@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 07:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 17:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 23 Jun 2017 07:00:20 +0000</pubDate>
+    <pubDate>Fri, 23 Jun 2017 17:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/22/533943837/efforts-increase-to-bring-health-and-other-benefits-to-independent-workers</guid>
+      <title>Efforts Increase To Bring Health And Other Benefits To Independent Workers</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/22/533943837/efforts-increase-to-bring-health-and-other-benefits-to-independent-workers</link>
+      <description>June 23, 2017 - The vast majority of the estimated 54 million to 68 million contingent or independent workers in the U.S. don&#39;t receive employee benefits, though some firms and lawmakers are trying to change that.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/freelancer-1_wide-d15221357899ec7fd9a152a1fc21e7ee15adc3a3-s800-c15.jpg"></a>
+
+June 23, 2017 - The vast majority of the estimated 54 million to 68 million contingent or independent workers in the U.S. don't receive employee benefits, though some firms and lawmakers are trying to change that.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/22/533943837/efforts-increase-to-bring-health-and-other-benefits-to-independent-workers">http://www.npr.org/sections/health-shots/2017/06/22/533943837/efforts-increase-to-bring-health-and-other-benefits-to-independent-workers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/freelancer-1_wide-d15221357899ec7fd9a152a1fc21e7ee15adc3a3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets</guid>
+      <title>Could The Best Memory System Be One That Forgets?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets</link>
+      <description>June 23, 2017 - Forget thinking about forgetting as failure. Researchers now say that ridding our brains of irrelevant details and outdated information helps us better navigate our ever-changing world.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-47b6fa9bf4d4af80e2bb90af1732ad2e2aba0aaa-s800-c15.jpg"></a>
+
+June 23, 2017 - Forget thinking about forgetting as failure. Researchers now say that ridding our brains of irrelevant details and outdated information helps us better navigate our ever-changing world.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets">http://www.npr.org/sections/health-shots/2017/06/23/534001592/could-the-best-memory-system-be-one-that-forgets</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-547087131_wide-47b6fa9bf4d4af80e2bb90af1732ad2e2aba0aaa-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170623_me_the_amas_take_on_gop_health_care_plan.mp3?orgId=1&amp;topicId=1027&amp;d=336&amp;p=3&amp;story=534056758&amp;t=progseg&amp;e=534054640&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>The AMA&#39;s Take On GOP Health Care Plan</title>
@@ -163,11 +193,12 @@ June 22, 2017 - The Senate's long-awaited "Better Care Reconciliation Act" was w
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1</guid>
       <title> Forget Freud: Dreams Replay Our Everyday Lives</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</link>
       <description>June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and repressed desire. But scientists now think they&#39;re linked to memory processing and consciousness. And they&#39;re often quite mundane.</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s800-c15.jpeg"></a>
 
@@ -175,6 +206,7 @@ June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life">http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s3000-c15.jpeg"></itunes:image>
+      <itunes:duration>2160</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,40 +254,6 @@ June 22, 2017 - Hundreds of rural hospitals are on the brink of closing. The Hou
 <a href="http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard">http://www.npr.org/sections/health-shots/2017/06/22/533680909/republicans-proposed-medicaid-cuts-would-hit-rural-patients-hard</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/pemiscot-2_wide-78f5acda89da8a842c386c5c2ab93398dfab8eef-s3000-c15.jpg"></itunes:image>
       <itunes:duration>189</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_spillover_beasts_bats_squirrels_and_primates_are_among_the_viral_threats.mp3?orgId=1&amp;topicId=1031&amp;d=191&amp;p=2&amp;story=533702513&amp;t=progseg&amp;e=533771311&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Spillover Beasts: Which Animals Pose The Biggest Viral Risk?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/21/533702513/spillover-beasts-which-animals-pose-the-biggest-viral-risk</link>
-      <description>June 21, 2017 - Rodents, primates and bats likely carry hundreds of thousands of viruses we haven&#39;t yet identified. But how do you know which ones might infect humans?</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_spillover_beasts_bats_squirrels_and_primates_are_among_the_viral_threats.mp3?orgId=1&amp;topicId=1031&amp;d=191&amp;p=2&amp;story=533702513&amp;t=progseg&amp;e=533771311&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/npr_zoonosis_4-10_wide-353ff48276cf4f5c232578c076380cb189605870-s800-c15.jpg"></a>
-
-June 21, 2017 - Rodents, primates and bats likely carry hundreds of thousands of viruses we haven't yet identified. But how do you know which ones might infect humans?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/21/533702513/spillover-beasts-which-animals-pose-the-biggest-viral-risk">http://www.npr.org/sections/goatsandsoda/2017/06/21/533702513/spillover-beasts-which-animals-pose-the-biggest-viral-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/npr_zoonosis_4-10_wide-353ff48276cf4f5c232578c076380cb189605870-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>191</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_not_alone_former_combat_medic_seeks_to_help_fellow_vets_with_hip-hop_album.mp3?orgId=1&amp;topicId=1128&amp;d=218&amp;p=2&amp;story=533792166&amp;t=progseg&amp;e=533771311&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Combat Medicine:&#39; Afghanistan Vet Seeks To Help Others Through Hip-Hop</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</link>
-      <description>June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops Wednesday. His target audience: fellow vets suffering from post-traumatic stress disorder.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_not_alone_former_combat_medic_seeks_to_help_fellow_vets_with_hip-hop_album.mp3?orgId=1&amp;topicId=1128&amp;d=218&amp;p=2&amp;story=533792166&amp;t=progseg&amp;e=533771311&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s800-c15.jpg"></a>
-
-June 21, 2017 - A new hip-hop album by a veteran of the war in Afghanistan drops Wednesday. His target audience: fellow vets suffering from post-traumatic stress disorder.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop">http://www.npr.org/sections/health-shots/2017/06/21/533792166/combat-medicine-afghanistan-vet-seeks-to-help-others-through-hip-hop</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/doc-todd-21_wide-f1a0f9bb6201a43906f53ebecf9ccf0890d264ce-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
