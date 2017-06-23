@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 21:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 23 Jun 2017 20:00:19 +0000</pubDate>
+    <pubDate>Fri, 23 Jun 2017 21:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow</guid>
+      <title>Mountain Lions Terrified By Voices Of Rush Limbaugh, Rachel Maddow</title>
+      <link>http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow</link>
+      <description>June 23, 2017 - Scientists at the University of California, Santa Cruz were trying to understand the nature of fear for mountain lions. By playing a series of audio clips of political talk show hosts, including Rachel Maddow and Rush Limbaugh, researchers discovered that mountain lions fear people.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 23, 2017 - Scientists at the University of California, Santa Cruz were trying to understand the nature of fear for mountain lions. By playing a series of audio clips of political talk show hosts, including Rachel Maddow and Rush Limbaugh, researchers discovered that mountain lions fear people.
+
+<a href="http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow">http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/23/534105477/invasive-carp-caught-9-miles-from-great-lakes-in-cause-for-serious-concern</guid>
       <title>&#39;Cause For Serious Concern&#39;: Invasive Carp Caught 9 Miles From Great Lakes</title>
@@ -241,21 +254,6 @@ June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimi
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong">http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-e160dd3005f85ef62caeb8b6dcb81e6e76c87944-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</guid>
-      <title>She May Be The Most Unstoppable Scientist In The World</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</link>
-      <description>June 20, 2017 - First she was shot at on the way to work. Then her house was destroyed by a bomb. That didn&#39;t deter this woman scientist.</description>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/01/20170412-eqbal_npr-malaysia-0058-2-_wide-f021ca1b17a579a490e63ec2b8a3365bc0d7bb34-s800-c15.jpg"></a>
-
-June 20, 2017 - First she was shot at on the way to work. Then her house was destroyed by a bomb. That didn't deter this woman scientist.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world">http://www.npr.org/sections/goatsandsoda/2017/06/20/530803655/she-may-be-the-most-unstoppable-scientist-in-the-world</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/20170412-eqbal_npr-malaysia-0058-2-_wide-f021ca1b17a579a490e63ec2b8a3365bc0d7bb34-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
