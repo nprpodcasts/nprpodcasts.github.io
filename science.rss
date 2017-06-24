@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 22:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 01:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 23 Jun 2017 22:00:26 +0000</pubDate>
+    <pubDate>Sat, 24 Jun 2017 01:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</guid>
+      <title>Arkansas Tries To Stop An Epidemic Of Herbicide Damage</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</link>
+      <description>June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state&#39;s regulators just voted to ban it for 120 days.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s800-c15.jpg"></a>
+
+June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state's regulators just voted to ban it for 120 days.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage">http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_mountain_lions_terrified_by_voices_of_rush_limbaugh_rachel_maddow.mp3?orgId=1&amp;topicId=1132&amp;d=85&amp;p=2&amp;story=534143139&amp;t=progseg&amp;e=534078639&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Mountain Lions Terrified By Voices Of Rush Limbaugh, Rachel Maddow</title>
@@ -241,21 +256,6 @@ June 21, 2017 - A few decades ago, babies born with conditions such as congenita
 <a href="http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids">http://www.npr.org/2017/06/20/533698463/dramatic-increase-in-number-of-people-being-hospitalized-due-to-opioids</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>276</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</guid>
-      <title>A Pioneer In &#39;Flat-Fee Primary Care&#39; Had To Close Its Clinics. What Went Wrong?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</link>
-      <description>June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee and freed doctors from insurance paperwork. But critics say the approach may not be viable.</description>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-e160dd3005f85ef62caeb8b6dcb81e6e76c87944-s800-c15.jpg"></a>
-
-June 20, 2017 - Many patients liked the Qliance approach, which gave them unlimited access to a provider for a modest fee and freed doctors from insurance paperwork. But critics say the approach may not be viable.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong">http://www.npr.org/sections/health-shots/2017/06/20/533562142/a-pioneer-in-flat-fee-primary-care-had-to-close-its-clinics-what-went-wrong</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/check-up-1_wide-e160dd3005f85ef62caeb8b6dcb81e6e76c87944-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

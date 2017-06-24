@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2017 07:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 01:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 23 Jun 2017 07:00:16 +0000</pubDate>
+    <pubDate>Sat, 24 Jun 2017 01:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</guid>
+      <title>Arkansas Tries To Stop An Epidemic Of Herbicide Damage</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</link>
+      <description>June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state&#39;s regulators just voted to ban it for 120 days.</description>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s800-c15.jpg"></a>
+
+June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state's regulators just voted to ban it for 120 days.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage">http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170623_me_what_ubers_leadership_change_means_for_diversity_in_tech.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=3&amp;story=534056720&amp;t=progseg&amp;e=534054640&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>What Uber&#39;s Leadership Change Means For Diversity In Tech</title>
@@ -75,12 +90,12 @@ June 22, 2017 - FCC proposed a $120 million fine for a Miami resident said to be
       <description>June 22, 2017 - Created in 2015, Blue Alerts are similar to Amber Alerts, but aim to catch people who threaten or harm police officers. The DOJ asked the FCC to add a special code to the broadcast emergency system.</description>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/22/ap_741424438906_wide-f2506b852ea0951a4d525cc90d36c41d4944982f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-460731420_wide-f076651fe1f04a0c55791470cc58091daa0c7943-s800-c15.jpg"></a>
 
 June 22, 2017 - Created in 2015, Blue Alerts are similar to Amber Alerts, but aim to catch people who threaten or harm police officers. The DOJ asked the FCC to add a special code to the broadcast emergency system.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement">http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_741424438906_wide-f2506b852ea0951a4d525cc90d36c41d4944982f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-460731420_wide-f076651fe1f04a0c55791470cc58091daa0c7943-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,21 +248,6 @@ June 21, 2017 - Jeh Johnson, Homeland Security secretary during the 2016 electio
 <a href="http://www.npr.org/2017/06/21/533764339/uber-ceo-travis-kalanick-resigns">http://www.npr.org/2017/06/21/533764339/uber-ceo-travis-kalanick-resigns</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>272</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/21/533754816/uber-founder-resigns-under-pressure-as-ceo-published-report-says</guid>
-      <title>Uber Co-Founder Travis Kalanick Resigns Under Pressure As CEO</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/21/533754816/uber-founder-resigns-under-pressure-as-ceo-published-report-says</link>
-      <description>June 21, 2017 - Five of Uber&#39;s major investors reportedly demanded Kalanick resign immediately. His departure plunges one of the largest private companies on Earth into an even bigger leadership vacuum.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/ap_17061730760125_wide-4d346ed02fbcc7436d5fd565ecc8a920b3ffd23e-s800-c15.jpg"></a>
-
-June 21, 2017 - Five of Uber's major investors reportedly demanded Kalanick resign immediately. His departure plunges one of the largest private companies on Earth into an even bigger leadership vacuum.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/21/533754816/uber-founder-resigns-under-pressure-as-ceo-published-report-says">http://www.npr.org/sections/thetwo-way/2017/06/21/533754816/uber-founder-resigns-under-pressure-as-ceo-published-report-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/ap_17061730760125_wide-4d346ed02fbcc7436d5fd565ecc8a920b3ffd23e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
