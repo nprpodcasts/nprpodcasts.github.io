@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2017 01:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 17:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 24 Jun 2017 01:00:22 +0000</pubDate>
+    <pubDate>Sat, 24 Jun 2017 17:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide</guid>
+      <title>Schools Let Students Take Laptops Home In Hopes Of Curbing &#39;Summer Slide&#39;</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide</link>
+      <description>June 24, 2017 - More districts are letting students take computers home for the summer. Officials hope the devices help fill in learning gaps, but experts say parents must play a role to make the lending effective.</description>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/French Middle School Students_wide-24d45adf9ce24f31714571f45b8d173ce9525053-s800-c15.jpg"></a>
+
+June 24, 2017 - More districts are letting students take computers home for the summer. Officials hope the devices help fill in learning gaps, but experts say parents must play a role to make the lending effective.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide">http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/French Middle School Students_wide-24d45adf9ce24f31714571f45b8d173ce9525053-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/06/20170624_wesat_drone_regulations.mp3?orgId=1&amp;topicId=1019&amp;d=249&amp;p=7&amp;story=534207526&amp;t=progseg&amp;e=534207086&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Drone Company Leaders Meet With Trump To Ask For More Clarity On Rules</title>
+      <link>http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules</link>
+      <description>June 24, 2017 - This week, U.S. drone companies met with President Trump to discuss industry regulations. NPR&#39;s Melissa Block talks with April Glaser of Recode about how these companies actually want more regulation.</description>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/06/20170624_wesat_drone_regulations.mp3?orgId=1&amp;topicId=1019&amp;d=249&amp;p=7&amp;story=534207526&amp;t=progseg&amp;e=534207086&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 24, 2017 - This week, U.S. drone companies met with President Trump to discuss industry regulations. NPR's Melissa Block talks with April Glaser of Recode about how these companies actually want more regulation.
+
+<a href="http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules">http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>249</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</guid>
       <title>Arkansas Tries To Stop An Epidemic Of Herbicide Damage</title>
@@ -218,36 +248,6 @@ June 21, 2017 - In a blur of coordination, a team of 14 students blew away the o
 <a href="http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide">http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/21/533666328/u-s-elections-systems-vulnerable-lawmakers-told-in-dueling-hearings</guid>
-      <title>U.S. Elections Systems Vulnerable, Lawmakers Told In Dueling Hearings</title>
-      <link>http://www.npr.org/2017/06/21/533666328/u-s-elections-systems-vulnerable-lawmakers-told-in-dueling-hearings</link>
-      <description>June 21, 2017 - Jeh Johnson, Homeland Security secretary during the 2016 election, testified before the House Intelligence Committee while the Senate Intelligence Committee heard from cybersecurity experts.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/ap_17172514401997_wide-dc2ace4b07e3b45f7edc27f27822acb09005ba6c-s800-c15.jpg"></a>
-
-June 21, 2017 - Jeh Johnson, Homeland Security secretary during the 2016 election, testified before the House Intelligence Committee while the Senate Intelligence Committee heard from cybersecurity experts.
-
-<a href="http://www.npr.org/2017/06/21/533666328/u-s-elections-systems-vulnerable-lawmakers-told-in-dueling-hearings">http://www.npr.org/2017/06/21/533666328/u-s-elections-systems-vulnerable-lawmakers-told-in-dueling-hearings</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/ap_17172514401997_wide-dc2ace4b07e3b45f7edc27f27822acb09005ba6c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170621_me_uber_ceo_travis_kalanick_resigns.mp3?orgId=1&amp;topicId=1006&amp;d=272&amp;p=3&amp;story=533764339&amp;t=progseg&amp;e=533763485&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Uber CEO Travis Kalanick Resigns</title>
-      <link>http://www.npr.org/2017/06/21/533764339/uber-ceo-travis-kalanick-resigns</link>
-      <description>June 21, 2017 - Uber CEO Travis Kalanick has resigned from his post after pressure from shareholders. His leadership at the company proved controversial. David Greene talks with Mike Isaac of The New York Times.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170621_me_uber_ceo_travis_kalanick_resigns.mp3?orgId=1&amp;topicId=1006&amp;d=272&amp;p=3&amp;story=533764339&amp;t=progseg&amp;e=533763485&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 21, 2017 - Uber CEO Travis Kalanick has resigned from his post after pressure from shareholders. His leadership at the company proved controversial. David Greene talks with Mike Isaac of The New York Times.
-
-<a href="http://www.npr.org/2017/06/21/533764339/uber-ceo-travis-kalanick-resigns">http://www.npr.org/2017/06/21/533764339/uber-ceo-travis-kalanick-resigns</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>272</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

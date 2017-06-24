@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2017 01:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 17:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 24 Jun 2017 01:00:25 +0000</pubDate>
+    <pubDate>Sat, 24 Jun 2017 17:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/24/525887392/more-than-memory-coping-with-the-other-ills-of-alzheimers</guid>
+      <title>More Than Memory: Coping With The Other Ills Of Alzheimer&#39;s </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/24/525887392/more-than-memory-coping-with-the-other-ills-of-alzheimers</link>
+      <description>June 24, 2017 - Many people with Alzheimer&#39;s suffer medical and mental health issues that have nothing to do with memory loss, including slow healing, incontinence, paranoia and depression.</description>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/symptoms-1_wide-af5ccf50e9b02fee84d6b73beb8d894344725cfd-s800-c15.jpg"></a>
+
+June 24, 2017 - Many people with Alzheimer's suffer medical and mental health issues that have nothing to do with memory loss, including slow healing, incontinence, paranoia and depression.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/24/525887392/more-than-memory-coping-with-the-other-ills-of-alzheimers">http://www.npr.org/sections/health-shots/2017/06/24/525887392/more-than-memory-coping-with-the-other-ills-of-alzheimers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/symptoms-1_wide-af5ccf50e9b02fee84d6b73beb8d894344725cfd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_president_trump_praises_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=229&amp;story=534153075&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How The Senate Health Care Bill Could Disrupt The Insurance Market </title>
+      <link>http://www.npr.org/2017/06/24/534153075/how-the-senate-health-care-bill-could-disrupt-the-insurance-market</link>
+      <description>June 24, 2017 - In their Affordable Care Act repeal bill, Senate Republicans dropped the requirement that all Americans get health insurance. But they also kept the mandate that insurance companies cover everyone.</description>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_president_trump_praises_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=229&amp;story=534153075&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-487707541-edit_wide-727e221d09ab469e2ef65270a666b0862aa6fff4-s800-c15.jpg"></a>
+
+June 24, 2017 - In their Affordable Care Act repeal bill, Senate Republicans dropped the requirement that all Americans get health insurance. But they also kept the mandate that insurance companies cover everyone.
+
+<a href="http://www.npr.org/2017/06/24/534153075/how-the-senate-health-care-bill-could-disrupt-the-insurance-market">http://www.npr.org/2017/06/24/534153075/how-the-senate-health-care-bill-could-disrupt-the-insurance-market</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-487707541-edit_wide-727e221d09ab469e2ef65270a666b0862aa6fff4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_nfls_jermichael_finley_on_head_trauma_it_felt_like_100_bees_stinging_me.mp3?orgId=1&amp;topicId=1055&amp;d=493&amp;p=2&amp;story=534143125&amp;t=progseg&amp;e=534078639&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>NFL&#39;s Jermichael Finley On Head Trauma: &#39;It Felt Like 100 Bees Stinging Me&#39;</title>
@@ -55,7 +87,7 @@
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_what_the_man_who_ran_obamacare_thinks_about_the_republican_health_plan.mp3?orgId=1&amp;topicId=1027&amp;d=283&amp;p=2&amp;story=534106319&amp;t=progseg&amp;e=534078639&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What The Man Who Ran Obamacare Thinks About the Republican Health Plan</title>
+      <title>What The Man Who Ran Obamacare Thinks About The Republican Health Care Plan</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan</link>
       <description>June 23, 2017 - Andy Slavitt was acting administrator of the the Centers for Medicare &amp; Medicaid Services until January. He calls the new Senate health care bill &#34;the ugly step-sibling&#34; of the House bill.</description>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
@@ -224,38 +256,6 @@ June 22, 2017 - Senate Republicans are calling their health care bill the Better
 <a href="http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill">http://www.npr.org/sections/health-shots/2017/06/22/533942041/who-wins-who-loses-with-senate-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17173571395884_wide-0451957ff0b77916bcd2654ad81258cb7bd396fc-s3000-c15.jpg"></itunes:image>
       <itunes:duration>206</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/22/533947844/senate-republicans-reveal-long-awaited-affordable-care-act-repeal-bill</guid>
-      <title>Senate Republicans Reveal Long-Awaited Affordable Care Act Repeal Bill</title>
-      <link>http://www.npr.org/2017/06/22/533947844/senate-republicans-reveal-long-awaited-affordable-care-act-repeal-bill</link>
-      <description>June 22, 2017 - The Senate&#39;s long-awaited &#34;Better Care Reconciliation Act&#34; was written largely in secret, with even many Senate Republicans unaware of what was in it.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/ap_17171697821366-edit_wide-f411821a1e846868cd8f01d893bae560a25531bd-s800-c15.jpg"></a>
-
-June 22, 2017 - The Senate's long-awaited "Better Care Reconciliation Act" was written largely in secret, with even many Senate Republicans unaware of what was in it.
-
-<a href="http://www.npr.org/2017/06/22/533947844/senate-republicans-reveal-long-awaited-affordable-care-act-repeal-bill">http://www.npr.org/2017/06/22/533947844/senate-republicans-reveal-long-awaited-affordable-care-act-repeal-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17171697821366-edit_wide-f411821a1e846868cd8f01d893bae560a25531bd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1</guid>
-      <title> Forget Freud: Dreams Replay Our Everyday Lives</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</link>
-      <description>June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and repressed desire. But scientists now think they&#39;re linked to memory processing and consciousness. And they&#39;re often quite mundane.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s800-c15.jpeg"></a>
-
-June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and repressed desire. But scientists now think they're linked to memory processing and consciousness. And they're often quite mundane.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life">http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s3000-c15.jpeg"></itunes:image>
-      <itunes:duration>2160</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
