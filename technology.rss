@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 21:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 26 Jun 2017 18:00:17 +0000</pubDate>
+    <pubDate>Mon, 26 Jun 2017 21:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</guid>
+      <title>Facial Recognition May Boost Airport Security But Raises Privacy Worries</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</link>
+      <description>June 26, 2017 - If you travel from Boston&#39;s Logan Airport to Aruba on JetBlue you can use your face as identification rather than a passport. Similar experiments in facial recognition are underway at other airports.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/0615_biometric-hi10-edit_wide-885dfd14a9d49be769bf6e7569b730bc923cd89d-s800-c15.jpg"></a>
+
+June 26, 2017 - If you travel from Boston's Logan Airport to Aruba on JetBlue you can use your face as identification rather than a passport. Similar experiments in facial recognition are underway at other airports.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries">http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/0615_biometric-hi10-edit_wide-885dfd14a9d49be769bf6e7569b730bc923cd89d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_supermarket_of_future.mp3?orgId=1&amp;topicId=1006&amp;d=247&amp;p=3&amp;story=534378678&amp;t=progseg&amp;e=534365528&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Will Things Change For Shoppers After Amazon Buys Whole Foods?</title>
@@ -235,19 +250,6 @@ June 21, 2017 - Few companies have had such a rapid fallout from such a vast num
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free">http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s3000-c15.jpg"></itunes:image>
       <itunes:duration>245</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi</guid>
-      <title>Intel Signs On As An Olympic Sponsor, Promising Virtual Reality And 360-Degree Video</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi</link>
-      <description>June 21, 2017 - Intel&#39;s CEO says it &#34;will accelerate the adoption of technology for the future of sports on the world&#39;s largest athletic stage.&#34;</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 21, 2017 - Intel's CEO says it "will accelerate the adoption of technology for the future of sports on the world's largest athletic stage."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi">http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
