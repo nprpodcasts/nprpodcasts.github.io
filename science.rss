@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 23:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 26 Jun 2017 19:00:17 +0000</pubDate>
+    <pubDate>Mon, 26 Jun 2017 23:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Routine DNA Sequencing May Be Helpful And Not As Scary As Feared</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</link>
+      <description>June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn&#39;t overreact to the news.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s800-c15.jpg"></a>
+
+June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn't overreact to the news.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared">http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>249</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1031&amp;d=393&amp;p=3&amp;story=534021439&amp;t=progseg&amp;e=534365528&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Secrets Of Breast-Feeding From Global Moms In The Know</title>
@@ -241,23 +258,6 @@ June 22, 2017 - The scientists who developed the anti-reflective film were inspi
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens">http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1</guid>
-      <title> Forget Freud: Dreams Replay Our Everyday Lives</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</link>
-      <description>June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and repressed desire. But scientists now think they&#39;re linked to memory processing and consciousness. And they&#39;re often quite mundane.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2017/06/20170622_invsb_trueyou.mp3?orgId=1&amp;topicId=1128&amp;d=2160&amp;story=533834764&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s800-c15.jpeg"></a>
-
-June 22, 2017 - Sigmund Freud thought dreams were all about wish fulfillment and repressed desire. But scientists now think they're linked to memory processing and consciousness. And they're often quite mundane.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life">http://www.npr.org/sections/health-shots/2017/06/22/533834764/forget-freud-dreams-replay-everyday-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/npr_dreams3_final_wide-a4a8f21e5757c6af3ddf3f056ab41dcd989754e6-s3000-c15.jpeg"></itunes:image>
-      <itunes:duration>2160</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

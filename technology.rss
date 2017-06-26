@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 21:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 23:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 26 Jun 2017 21:00:13 +0000</pubDate>
+    <pubDate>Mon, 26 Jun 2017 23:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/26/534451513/google-says-it-will-no-longer-read-users-emails-to-sell-targeted-ads</guid>
+      <title>Google Says It Will No Longer Read Users&#39; Emails To Sell Targeted Ads</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/26/534451513/google-says-it-will-no-longer-read-users-emails-to-sell-targeted-ads</link>
+      <description>June 26, 2017 - The company says it will make the change later this year, bringing Gmail in line with its business products. But Google has already gathered a lot of data on users since it launched Gmail in 2004.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-486234008_wide-3fa3a25e62f48368a76740f953f8389ae1d0ef2f-s800-c15.jpg"></a>
+
+June 26, 2017 - The company says it will make the change later this year, bringing Gmail in line with its business products. But Google has already gathered a lot of data on users since it launched Gmail in 2004.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/26/534451513/google-says-it-will-no-longer-read-users-emails-to-sell-targeted-ads">http://www.npr.org/sections/thetwo-way/2017/06/26/534451513/google-says-it-will-no-longer-read-users-emails-to-sell-targeted-ads</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-486234008_wide-3fa3a25e62f48368a76740f953f8389ae1d0ef2f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_facial_recognition_may_boost_airport_security_but_raises_privacy_worries.mp3?orgId=329&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=534131967&amp;t=progseg&amp;e=534375673&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Facial Recognition May Boost Airport Security But Raises Privacy Worries</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</link>
       <description>June 26, 2017 - If you travel from Boston&#39;s Logan Airport to Aruba on JetBlue you can use your face as identification rather than a passport. Similar experiments in facial recognition are underway at other airports.</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_facial_recognition_may_boost_airport_security_but_raises_privacy_worries.mp3?orgId=329&amp;topicId=1019&amp;d=215&amp;p=2&amp;story=534131967&amp;t=progseg&amp;e=534375673&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/0615_biometric-hi10-edit_wide-885dfd14a9d49be769bf6e7569b730bc923cd89d-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ June 26, 2017 - If you travel from Boston's Logan Airport to Aruba on JetBlue yo
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries">http://www.npr.org/sections/alltechconsidered/2017/06/26/534131967/facial-recognition-may-boost-airport-security-but-raises-privacy-worries</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/0615_biometric-hi10-edit_wide-885dfd14a9d49be769bf6e7569b730bc923cd89d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -54,11 +71,12 @@ June 26, 2017 - If you travel from Boston's Logan Airport to Aruba on JetBlue yo
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_how_to_pick_kids_apps_for_the_backseat_this_summer_.mp3?orgId=1&amp;topicId=1013&amp;d=227&amp;p=2&amp;story=533788062&amp;t=progseg&amp;e=534375673&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>How To Pick Kids&#39; Apps For The Backseat This Summer </title>
       <link>http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</link>
       <description>June 26, 2017 - Screen time can be more than a distraction if you follow these principles.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_how_to_pick_kids_apps_for_the_backseat_this_summer_.mp3?orgId=1&amp;topicId=1013&amp;d=227&amp;p=2&amp;story=533788062&amp;t=progseg&amp;e=534375673&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/cbeck-mediasummer_wide-586d5a565aff02f1def463b6a1d805d28717ef00-s800-c15.jpg"></a>
 
@@ -66,6 +84,7 @@ June 26, 2017 - Screen time can be more than a distraction if you follow these p
 
 <a href="http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer">http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/cbeck-mediasummer_wide-586d5a565aff02f1def463b6a1d805d28717ef00-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>227</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,23 +252,6 @@ June 22, 2017 - Social media firms are under pressure to block extremist activit
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/22/533855547/how-facebook-uses-technology-to-block-terrorist-related-content">http://www.npr.org/sections/alltechconsidered/2017/06/22/533855547/how-facebook-uses-technology-to-block-terrorist-related-content</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-529718248_wide-c253cc5e55b68f2936ae038474bdb4796e8a4b37-s3000-c15.jpg"></itunes:image>
       <itunes:duration>423</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_uber_co-founder_travis_kalanick_resigns_under_pressure_as_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=245&amp;p=2&amp;story=533791446&amp;t=progseg&amp;e=533771311&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>After CEO Resignation, Is Uber Kalanick-less Or Kalanick-free?</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</link>
-      <description>June 21, 2017 - Few companies have had such a rapid fallout from such a vast number of crises stemming from the workplace culture perpetuated from the top, while appearing to be at the peak of its success.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170621_atc_uber_co-founder_travis_kalanick_resigns_under_pressure_as_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=245&amp;p=2&amp;story=533791446&amp;t=progseg&amp;e=533771311&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s800-c15.jpg"></a>
-
-June 21, 2017 - Few companies have had such a rapid fallout from such a vast number of crises stemming from the workplace culture perpetuated from the top, while appearing to be at the peak of its success.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free">http://www.npr.org/sections/alltechconsidered/2017/06/21/533791446/after-ceo-resignation-is-uber-kalanick-less-or-kalanick-free</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-615682458_wide-4e6559968af46a35c609cf3dea62ff8408a7d905-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 21:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 23:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 26 Jun 2017 21:00:16 +0000</pubDate>
+    <pubDate>Mon, 26 Jun 2017 23:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Routine DNA Sequencing May Be Helpful And Not As Scary As Feared</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</link>
+      <description>June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn&#39;t overreact to the news.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s800-c15.jpg"></a>
+
+June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn't overreact to the news.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared">http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>249</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/26/534432433/gop-senate-bill-would-cut-health-care-coverage-by-22-million</guid>
       <title>GOP Senate Bill Would Cut Health Care Coverage By 22 Million</title>
@@ -39,29 +56,33 @@ June 26, 2017 - Congressional forecasters say a Senate Republican bill to repeal
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_in_texas_opponents_rally_against_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1091&amp;d=236&amp;p=2&amp;story=534448022&amp;t=progseg&amp;e=534375673&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Texas, Opponents Rally Against Senate Republican Health Care Bill</title>
       <link>http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill</link>
       <description>June 26, 2017 - Despite its politicians&#39; positions, many people who live in Texas&#39; rural hill country came out this weekend in support of the existing health care law. But some near the gathering support Obamacare repeal.</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_in_texas_opponents_rally_against_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1091&amp;d=236&amp;p=2&amp;story=534448022&amp;t=progseg&amp;e=534375673&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 26, 2017 - Despite its politicians' positions, many people who live in Texas' rural hill country came out this weekend in support of the existing health care law. But some near the gathering support Obamacare repeal.
 
 <a href="http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill">http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_cbo_score_tc.mp3?orgId=1&amp;topicId=1014&amp;d=67&amp;p=2&amp;story=534447897&amp;t=progseg&amp;e=534375673&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Congressional Budget Office To Announce Score Of GOP Health Care Bill</title>
       <link>http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</link>
       <description>June 26, 2017 - The Congressional Budget Office plans to announce its score of the Senate Republican health care bill.&#xA;&#xA; - http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_cbo_score_tc.mp3?orgId=1&amp;topicId=1014&amp;d=67&amp;p=2&amp;story=534447897&amp;t=progseg&amp;e=534375673&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 26, 2017 - The Congressional Budget Office plans to announce its score of the Senate Republican health care bill.
 
 <a href="http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill">http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>67</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -80,11 +101,12 @@ June 26, 2017 - Shkreli is charged with committing a series of frauds well befor
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/26/533973916/after-decline-of-steel-and-coal-ohio-fears-health-care-jobs-are-next</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_after_decline_of_steel_and_coal_ohio_fears_health_care_jobs_are_next.mp3?orgId=1&amp;topicId=1027&amp;d=546&amp;p=2&amp;story=533973916&amp;t=progseg&amp;e=534375673&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>After Decline Of Steel And Coal, Ohio Fears Health Care Jobs Are Next</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/26/533973916/after-decline-of-steel-and-coal-ohio-fears-health-care-jobs-are-next</link>
       <description>June 26, 2017 - Health care jobs now outnumber manufacturing jobs in Jefferson County, Ohio. Hospital administrators worry that Republican plans to cut Medicaid will lead to layoffs.</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_after_decline_of_steel_and_coal_ohio_fears_health_care_jobs_are_next.mp3?orgId=1&amp;topicId=1027&amp;d=546&amp;p=2&amp;story=533973916&amp;t=progseg&amp;e=534375673&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/6821338712_b814eef835_o_wide-5fbd8662916abae73724aa35554c77689a74f959-s800-c15.jpg"></a>
 
@@ -92,14 +114,16 @@ June 26, 2017 - Health care jobs now outnumber manufacturing jobs in Jefferson C
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/26/533973916/after-decline-of-steel-and-coal-ohio-fears-health-care-jobs-are-next">http://www.npr.org/sections/health-shots/2017/06/26/533973916/after-decline-of-steel-and-coal-ohio-fears-health-care-jobs-are-next</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/6821338712_b814eef835_o_wide-5fbd8662916abae73724aa35554c77689a74f959-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>546</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/26/534428929/senate-republicans-alter-health-care-bill-to-avoid-so-called-death-spiral</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_senate_republicans_alter_health_care_bill_to_avoid_death_spiral.mp3?orgId=1&amp;topicId=1014&amp;d=223&amp;p=2&amp;story=534428929&amp;t=progseg&amp;e=534375673&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Senate Republicans Alter Health Care Bill To Avoid &#39;Death Spiral&#39;</title>
       <link>http://www.npr.org/2017/06/26/534428929/senate-republicans-alter-health-care-bill-to-avoid-so-called-death-spiral</link>
       <description>June 26, 2017 - Senate Republicans have tweaked their bill in hopes of keeping more healthy customers in the insurance market. Customers who fail to maintain coverage could be temporarily locked out.</description>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_senate_republicans_alter_health_care_bill_to_avoid_death_spiral.mp3?orgId=1&amp;topicId=1014&amp;d=223&amp;p=2&amp;story=534428929&amp;t=progseg&amp;e=534375673&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-699913648_wide-087b08e9abe17dafebf89cda5a4201fde32bf71a-s800-c15.jpg"></a>
 
@@ -107,6 +131,7 @@ June 26, 2017 - Senate Republicans have tweaked their bill in hopes of keeping m
 
 <a href="http://www.npr.org/2017/06/26/534428929/senate-republicans-alter-health-care-bill-to-avoid-so-called-death-spiral">http://www.npr.org/2017/06/26/534428929/senate-republicans-alter-health-care-bill-to-avoid-so-called-death-spiral</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-699913648_wide-087b08e9abe17dafebf89cda5a4201fde32bf71a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -229,21 +254,6 @@ June 26, 2017 - Many American women want to breast-feed — and try to. Only abo
 <a href="http://www.npr.org/2017/06/26/534365544/morning-news-brief-gop-health-care-bill-modi-to-visit-white-house">http://www.npr.org/2017/06/26/534365544/morning-news-brief-gop-health-care-bill-modi-to-visit-white-house</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>621</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170625_atc_where_does_the_federal_budget_deficity_fits_into_health_care_equation.mp3?orgId=1&amp;topicId=1003&amp;d=237&amp;p=2&amp;story=534332888&amp;t=progseg&amp;e=534295129&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Where Does The Federal Budget Deficit Fit Into The Health Care Equation?</title>
-      <link>http://www.npr.org/2017/06/25/534332888/where-does-the-federal-budget-deficit-fit-into-the-health-care-equation</link>
-      <description>June 25, 2017 - NPR&#39;s Michel Martin speaks with Committee for a Responsible Federal Budget President Maya MacGuineas about how to balance the need for health care with the need to reduce the federal budget deficit.</description>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170625_atc_where_does_the_federal_budget_deficity_fits_into_health_care_equation.mp3?orgId=1&amp;topicId=1003&amp;d=237&amp;p=2&amp;story=534332888&amp;t=progseg&amp;e=534295129&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 25, 2017 - NPR's Michel Martin speaks with Committee for a Responsible Federal Budget President Maya MacGuineas about how to balance the need for health care with the need to reduce the federal budget deficit.
-
-<a href="http://www.npr.org/2017/06/25/534332888/where-does-the-federal-budget-deficit-fit-into-the-health-care-equation">http://www.npr.org/2017/06/25/534332888/where-does-the-federal-budget-deficit-fit-into-the-health-care-equation</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>237</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
