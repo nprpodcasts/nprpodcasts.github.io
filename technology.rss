@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 18:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 24 Jun 2017 17:00:09 +0000</pubDate>
+    <pubDate>Mon, 26 Jun 2017 18:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_supermarket_of_future.mp3?orgId=1&amp;topicId=1006&amp;d=247&amp;p=3&amp;story=534378678&amp;t=progseg&amp;e=534365528&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Will Things Change For Shoppers After Amazon Buys Whole Foods?</title>
+      <link>http://www.npr.org/2017/06/26/534378678/how-will-things-change-for-shoppers-after-amazon-buys-whole-foods</link>
+      <description>June 26, 2017 - It was recently announced that Amazon was going to acquire Whole Foods, giving the web giant a physical presence in nearly 450 locations across the country.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_supermarket_of_future.mp3?orgId=1&amp;topicId=1006&amp;d=247&amp;p=3&amp;story=534378678&amp;t=progseg&amp;e=534365528&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 26, 2017 - It was recently announced that Amazon was going to acquire Whole Foods, giving the web giant a physical presence in nearly 450 locations across the country.
+
+<a href="http://www.npr.org/2017/06/26/534378678/how-will-things-change-for-shoppers-after-amazon-buys-whole-foods">http://www.npr.org/2017/06/26/534378678/how-will-things-change-for-shoppers-after-amazon-buys-whole-foods</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</guid>
+      <title>How To Pick Kids&#39; Apps For The Backseat This Summer </title>
+      <link>http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</link>
+      <description>June 26, 2017 - Screen time can be more than a distraction if you follow these principles.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/cbeck-mediasummer_wide-586d5a565aff02f1def463b6a1d805d28717ef00-s800-c15.jpg"></a>
+
+June 26, 2017 - Screen time can be more than a distraction if you follow these principles.
+
+<a href="http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer">http://www.npr.org/sections/ed/2017/06/26/533788062/how-to-pick-kids-apps-for-the-backseat-this-summer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/cbeck-mediasummer_wide-586d5a565aff02f1def463b6a1d805d28717ef00-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide</guid>
       <title>Schools Let Students Take Laptops Home In Hopes Of Curbing &#39;Summer Slide&#39;</title>
@@ -218,36 +248,6 @@ June 21, 2017 - Few companies have had such a rapid fallout from such a vast num
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi">http://www.npr.org/sections/thetwo-way/2017/06/21/533815940/intel-signs-on-as-an-olympic-sponsor-promising-virtual-reality-and-360-degree-vi</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/21/533781394/jump-rope-heroes-watch-school-kids-set-a-one-minute-guinness-world-record</guid>
-      <title>Jump Rope Heroes: Watch School Kids Set A One-Minute Guinness World Record</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/21/533781394/jump-rope-heroes-watch-school-kids-set-a-one-minute-guinness-world-record</link>
-      <description>June 21, 2017 - In a blur of coordination, a team of 14 students blew away the old record for most skips through a single jump rope in one minute.</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/japan-3_wide-940f065f689f7cb467bcae1a08ef7df5a409189d-s800-c15.jpg"></a>
-
-June 21, 2017 - In a blur of coordination, a team of 14 students blew away the old record for most skips through a single jump rope in one minute.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/21/533781394/jump-rope-heroes-watch-school-kids-set-a-one-minute-guinness-world-record">http://www.npr.org/sections/thetwo-way/2017/06/21/533781394/jump-rope-heroes-watch-school-kids-set-a-one-minute-guinness-world-record</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/japan-3_wide-940f065f689f7cb467bcae1a08ef7df5a409189d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170621.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>What&#39;s Washington Got To Hide?</title>
-      <link>http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</link>
-      <description>June 21, 2017 - It seems like more and more of the U.S. government&#39;s business is taking place behind closed doors. What aren&#39;t we being told, and why?&#xA;&#xA; - http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</description>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170621.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 21, 2017 - It seems like more and more of the U.S. government's business is taking place behind closed doors. What aren't we being told, and why?
-
-<a href="http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide">http://the1a.org/shows/2017-06-21/whats-washington-got-to-hide</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
