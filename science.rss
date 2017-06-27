@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 23:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 03:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 26 Jun 2017 23:00:29 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 03:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</guid>
+      <title>Degrees of Maybe: How We Can All Make Better Predictions</title>
+      <link>http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</link>
+      <description>June 26, 2017 - Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week, we explore why they&#39;re often wrong, and how we can all do better.</description>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/ap_17157592282679_wide-410c747e446a0e68e7250f663d30b661509a81e6-s800-c15.jpg"></a>
+
+June 26, 2017 - Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week, we explore why they're often wrong, and how we can all do better.
+
+<a href="http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions">http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/ap_17157592282679_wide-410c747e446a0e68e7250f663d30b661509a81e6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Routine DNA Sequencing May Be Helpful And Not As Scary As Feared</title>
@@ -243,21 +258,6 @@ June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kind
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it">http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s3000-c15.jpg"></itunes:image>
       <itunes:duration>142</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</guid>
-      <title>Moth Eyes Inspire Glare-Resistant Coating For Cellphone Screens</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</link>
-      <description>June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s800-c15.jpg"></a>
-
-June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens">http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
