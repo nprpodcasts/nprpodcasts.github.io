@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 03:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 10:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 03:00:11 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 10:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</guid>
+      <title>From Birth To Death, Medicaid Affects The Lives Of Millions</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</link>
+      <description>June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program&#39;s costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-b62951743085df19be6bc8a69d68b9d7d1f0b341-s800-c15.jpg"></a>
+
+June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program's costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions">http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-b62951743085df19be6bc8a69d68b9d7d1f0b341-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_mara2.mp3?orgId=1&amp;topicId=1014&amp;d=263&amp;p=2&amp;story=534480885&amp;t=progseg&amp;e=534375673&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>GOP Sen. Susan Collins Plans To Oppose Senate Health Bill After CBO Report</title>
@@ -239,21 +254,6 @@ June 26, 2017 - Many American women want to breast-feed — and try to. Only abo
 <a href="http://www.npr.org/2017/06/26/534368758/what-women-should-keep-in-mind-when-theyre-thinking-of-breastfeeding">http://www.npr.org/2017/06/26/534368758/what-women-should-keep-in-mind-when-theyre-thinking-of-breastfeeding</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>393</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_can_republicans_in_the_senate_get_their_health_care_bill_passed.mp3?orgId=1&amp;topicId=1027&amp;d=171&amp;p=3&amp;story=534365607&amp;t=progseg&amp;e=534365528&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Can Republicans In The Senate Get Their Health Bill Passed?</title>
-      <link>http://www.npr.org/2017/06/26/534365607/can-republicans-in-the-senate-get-their-health-bill-passed</link>
-      <description>June 26, 2017 - Republicans and Democrats have different priorities for what the health care bill should do. Some Republicans have already come out against the bill and have said they won&#39;t vote for the measure.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_can_republicans_in_the_senate_get_their_health_care_bill_passed.mp3?orgId=1&amp;topicId=1027&amp;d=171&amp;p=3&amp;story=534365607&amp;t=progseg&amp;e=534365528&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - Republicans and Democrats have different priorities for what the health care bill should do. Some Republicans have already come out against the bill and have said they won't vote for the measure.
-
-<a href="http://www.npr.org/2017/06/26/534365607/can-republicans-in-the-senate-get-their-health-bill-passed">http://www.npr.org/2017/06/26/534365607/can-republicans-in-the-senate-get-their-health-bill-passed</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>171</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
