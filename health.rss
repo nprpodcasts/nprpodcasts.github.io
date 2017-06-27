@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 11:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 13:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 11:00:20 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 13:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</guid>
+      <title>CHART: CBO Weighs Who Wins, Who Loses With Senate Health Care Bill</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</link>
+      <description>June 27, 2017 - The Congressional Budget Office estimates that 22 million people would lose coverage with the Senate bill. That includes 15 million people on Medicaid, and others who could no longer afford insurance.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/27/promo-healthcare-seamus3_wide-994c409e2638bb7b2969b59d17b463fc52b78036-s800-c15.png"></a>
+
+June 27, 2017 - The Congressional Budget Office estimates that 22 million people would lose coverage with the Senate bill. That includes 15 million people on Medicaid, and others who could no longer afford insurance.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill">http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/promo-healthcare-seamus3_wide-994c409e2638bb7b2969b59d17b463fc52b78036-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</guid>
       <title>From Birth To Death, Medicaid Affects The Lives Of Millions</title>
@@ -39,16 +54,18 @@ June 27, 2017 - Medicaid has become a prime target of Republicans in Congress wh
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_tru.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=534516199&amp;t=progseg&amp;e=534516090&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Enrollees Who Work Still Need Medicaid, Kaiser Survey Shows</title>
       <link>http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</link>
       <description>June 27, 2017 - Rachel Martin talks to Diane Rowland of the Kaiser Family Foundation, about a misconception: If a person on Medicaid gets a job, than their health insurance needs will be taken care of.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_tru.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=3&amp;story=534516199&amp;t=progseg&amp;e=534516090&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 27, 2017 - Rachel Martin talks to Diane Rowland of the Kaiser Family Foundation, about a misconception: If a person on Medicaid gets a job, than their health insurance needs will be taken care of.
 
 <a href="http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows">http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ June 26, 2017 - Many American women want to breast-feed — and try to. Only abo
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know">http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s3000-c15.jpg"></itunes:image>
       <itunes:duration>393</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_healthcare_and_cbo_score.mp3?orgId=1&amp;topicId=1014&amp;d=371&amp;p=3&amp;story=534377334&amp;t=progseg&amp;e=534365528&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Republicans Have Their Work Cut Out For Them With Health Bill</title>
-      <link>http://www.npr.org/2017/06/26/534377334/senate-republicans-have-their-work-cut-out-for-them-with-health-bill</link>
-      <description>June 26, 2017 - Senators could have another bit of information on Monday to help their decision-making. The Congressional Budget Office is expected to give its assessment of the bill&#39;s impact.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_healthcare_and_cbo_score.mp3?orgId=1&amp;topicId=1014&amp;d=371&amp;p=3&amp;story=534377334&amp;t=progseg&amp;e=534365528&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - Senators could have another bit of information on Monday to help their decision-making. The Congressional Budget Office is expected to give its assessment of the bill's impact.
-
-<a href="http://www.npr.org/2017/06/26/534377334/senate-republicans-have-their-work-cut-out-for-them-with-health-bill">http://www.npr.org/2017/06/26/534377334/senate-republicans-have-their-work-cut-out-for-them-with-health-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>371</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
