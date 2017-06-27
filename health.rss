@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 10:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 11:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 10:00:28 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 11:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -36,6 +36,19 @@ June 27, 2017 - Medicaid has become a prime target of Republicans in Congress wh
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions">http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-b62951743085df19be6bc8a69d68b9d7d1f0b341-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</guid>
+      <title>Enrollees Who Work Still Need Medicaid, Kaiser Survey Shows</title>
+      <link>http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</link>
+      <description>June 27, 2017 - Rachel Martin talks to Diane Rowland of the Kaiser Family Foundation, about a misconception: If a person on Medicaid gets a job, than their health insurance needs will be taken care of.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - Rachel Martin talks to Diane Rowland of the Kaiser Family Foundation, about a misconception: If a person on Medicaid gets a job, than their health insurance needs will be taken care of.
+
+<a href="http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows">http://www.npr.org/2017/06/27/534516199/enrollees-who-work-often-still-need-medicaid-kaiser-survey-shows</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +252,6 @@ June 26, 2017 - Many American women want to breast-feed — and try to. Only abo
 <a href="http://www.npr.org/2017/06/26/534377334/senate-republicans-have-their-work-cut-out-for-them-with-health-bill">http://www.npr.org/2017/06/26/534377334/senate-republicans-have-their-work-cut-out-for-them-with-health-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>371</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1128&amp;d=393&amp;p=3&amp;story=534368758&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Women Should Keep In Mind When They&#39;re Thinking Of Breast-Feeding</title>
-      <link>http://www.npr.org/2017/06/26/534368758/what-women-should-keep-in-mind-when-theyre-thinking-of-breastfeeding</link>
-      <description>June 26, 2017 - A majority of women say they want to breast-feed their babies. But only a small fraction reach that goal. Why is it so hard? Maybe the secrets of breast-feeding are in the past.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1128&amp;d=393&amp;p=3&amp;story=534368758&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - A majority of women say they want to breast-feed their babies. But only a small fraction reach that goal. Why is it so hard? Maybe the secrets of breast-feeding are in the past.
-
-<a href="http://www.npr.org/2017/06/26/534368758/what-women-should-keep-in-mind-when-theyre-thinking-of-breastfeeding">http://www.npr.org/2017/06/26/534368758/what-women-should-keep-in-mind-when-theyre-thinking-of-breastfeeding</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>393</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
