@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 11:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 14:00:03 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 11:00:17 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 14:00:03 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_eu_google_fine.mp3?orgId=1&amp;topicId=1019&amp;d=169&amp;p=3&amp;story=534537556&amp;t=progseg&amp;e=534516090&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Google Fined Record $2.7 Billion In EU Anti-Trust Ruling</title>
+      <link>http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling</link>
+      <description>June 27, 2017 - The European Union says Google unfairly abused its power over search results to promote its own over competitors. It&#39;s the biggest fine the EU has ever given a single company in an anti-trust case.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_eu_google_fine.mp3?orgId=1&amp;topicId=1019&amp;d=169&amp;p=3&amp;story=534537556&amp;t=progseg&amp;e=534516090&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - The European Union says Google unfairly abused its power over search results to promote its own over competitors. It's the biggest fine the EU has ever given a single company in an anti-trust case.
+
+<a href="http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling">http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>169</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor</guid>
       <title>Google Hit With $2.7 Billion Fine By European Antitrust Monitor</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor</link>
-      <description>June 27, 2017 - The European Commission says Google &#34;abused its market dominance as a search engine  by promoting its own comparison shopping service in its search results, and demoting those of competitors.&#34;</description>
+      <description>June 27, 2017 - The European Commission says Google &#34;abused its market dominance as a search engine by promoting its own comparison shopping service in its search results, and demoting those of competitors.&#34;</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-914422f5851518636502dd251aadf1a6800e0323-s800-c15.jpg"></a>
 
-June 27, 2017 - The European Commission says Google "abused its market dominance as a search engine  by promoting its own comparison shopping service in its search results, and demoting those of competitors."
+June 27, 2017 - The European Commission says Google "abused its market dominance as a search engine by promoting its own comparison shopping service in its search results, and demoting those of competitors."
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor">http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-914422f5851518636502dd251aadf1a6800e0323-s3000-c15.jpg"></itunes:image>
@@ -235,21 +250,6 @@ June 22, 2017 - The scientists who developed the anti-reflective film were inspi
 <a href="http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed">http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170622.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Is Big Tech Getting Too Big?</title>
-      <link>http://the1a.org/shows/2017-06-22/is-big-tech-getting-too-big</link>
-      <description>June 22, 2017 - Silicon Valley leaders like Uber&#39;s former CEO Travis Kalanick have unprecedented power. At what point should the rest of us push back?&#xA;&#xA; - http://the1a.org/shows/2017-06-22/is-big-tech-getting-too-big</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170622.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 22, 2017 - Silicon Valley leaders like Uber's former CEO Travis Kalanick have unprecedented power. At what point should the rest of us push back?
-
-<a href="http://the1a.org/shows/2017-06-22/is-big-tech-getting-too-big">http://the1a.org/shows/2017-06-22/is-big-tech-getting-too-big</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2830</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
