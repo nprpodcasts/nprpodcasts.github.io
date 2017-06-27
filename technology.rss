@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 19:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 14:00:03 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 19:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,51 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</guid>
+      <title>&#39;Petya&#39; Cyberattack Cripples Ukraine, And Experts Say It&#39;s Spreading Globally</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</link>
+      <description>June 27, 2017 - The Department of Homeland Security says it is &#34;monitoring reports of cyber attacks affecting multiple global entities.&#34;</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/27/rts18u5k-edit_wide-e79e84c7eef3f805695bdd7adab01808c0edf00c-s800-c15.jpg"></a>
+
+June 27, 2017 - The Department of Homeland Security says it is "monitoring reports of cyber attacks affecting multiple global entities."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports">http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/rts18u5k-edit_wide-e79e84c7eef3f805695bdd7adab01808c0edf00c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170627-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Driving The Future: How Smart Can A Smart Car Be?</title>
+      <link>http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry</link>
+      <description>June 27, 2017 - Car owners form special relationships with their vehicles — they give them names, customize them and get to know their intricacies and quirks. But what if the car could do the same for the driver?</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170627-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - Car owners form special relationships with their vehicles — they give them names, customize them and get to know their intricacies and quirks. But what if the car could do the same for the driver?
+
+<a href="http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry">http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1073</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170627-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Beyond The Valley Of The CEOs — Bringing Big Tech To Small Towns</title>
+      <link>http://the1a.org/shows/2017-06-27/technology-and-the-economy</link>
+      <description>June 27, 2017 - Venture capital is concentrated on the coasts — how can investors be encouraged to spread the wealth?&#xA;&#xA; - http://the1a.org/shows/2017-06-27/technology-and-the-economy</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170627-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - Venture capital is concentrated on the coasts — how can investors be encouraged to spread the wealth?
+
+<a href="http://the1a.org/shows/2017-06-27/technology-and-the-economy">http://the1a.org/shows/2017-06-27/technology-and-the-economy</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>718</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_eu_google_fine.mp3?orgId=1&amp;topicId=1019&amp;d=169&amp;p=3&amp;story=534537556&amp;t=progseg&amp;e=534516090&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Fined Record $2.7 Billion In EU Anti-Trust Ruling</title>
@@ -45,12 +90,12 @@
       <description>June 27, 2017 - The European Commission says Google &#34;abused its market dominance as a search engine by promoting its own comparison shopping service in its search results, and demoting those of competitors.&#34;</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-914422f5851518636502dd251aadf1a6800e0323-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-9fc5f689831c2f52bb495c68a189ef616274d63c-s800-c15.jpg"></a>
 
 June 27, 2017 - The European Commission says Google "abused its market dominance as a search engine by promoting its own comparison shopping service in its search results, and demoting those of competitors."
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor">http://www.npr.org/sections/thetwo-way/2017/06/27/534524024/google-hit-with-2-7-billion-fine-by-european-antitrust-monitor</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-914422f5851518636502dd251aadf1a6800e0323-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ap_16196413418880_wide-9fc5f689831c2f52bb495c68a189ef616274d63c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -205,51 +250,6 @@ June 22, 2017 - FCC proposed a $120 million fine for a Miami resident said to be
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine">http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-498335449_wide-045acd003d219af5f1eb37b0e6c2a184a3242b86-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement</guid>
-      <title>FCC Takes Up Emergency &#39;Blue Alerts&#39; For Threats To Law Enforcement</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement</link>
-      <description>June 22, 2017 - Created in 2015, Blue Alerts are similar to Amber Alerts, but aim to catch people who threaten or harm police officers. The DOJ asked the FCC to add a special code to the broadcast emergency system.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-460731420_wide-f076651fe1f04a0c55791470cc58091daa0c7943-s800-c15.jpg"></a>
-
-June 22, 2017 - Created in 2015, Blue Alerts are similar to Amber Alerts, but aim to catch people who threaten or harm police officers. The DOJ asked the FCC to add a special code to the broadcast emergency system.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement">http://www.npr.org/sections/thetwo-way/2017/06/22/533660081/fcc-moves-to-streamline-emergency-blue-alerts-for-threats-to-law-enforcement</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-460731420_wide-f076651fe1f04a0c55791470cc58091daa0c7943-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</guid>
-      <title>Moth Eyes Inspire Glare-Resistant Coating For Cellphone Screens</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</link>
-      <description>June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s800-c15.jpg"></a>
-
-June 22, 2017 - The scientists who developed the anti-reflective film were inspired by tiny, light-trapping structures on moth eyes that help the insects avoid predators.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens">http://www.npr.org/sections/thetwo-way/2017/06/22/533803686/moth-eyes-inspire-glare-resistant-coating-for-cellphone-screens</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/gettyimages-548205455_wide-eabbb92cfd1dc0254c99a9443ff3dd30d8020d56-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170622.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>What Hath Jobs Wrought?</title>
-      <link>http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed</link>
-      <description>June 22, 2017 - Odds are, you&#39;re looking at this on a smartphone.&#xA;&#xA; - http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170622.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 22, 2017 - Odds are, you're looking at this on a smartphone.
-
-<a href="http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed">http://the1a.org/shows/2017-06-22/its-been-10-years-since-everything-changed</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

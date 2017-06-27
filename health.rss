@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 15:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 19:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 15:00:45 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 19:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -39,6 +39,21 @@ June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/06/a1170627.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Have We Missed The Point On Health Care?</title>
+      <link>http://the1a.org/shows/2017-06-27/have-we-missed-the-point-on-healthcare</link>
+      <description>June 27, 2017 - It&#39;s the final countdown for Republican plans to repeal and replace Obamacare. But what if neither plan gets to the heart of how to make America healthy again?&#xA;&#xA; - http://the1a.org/shows/2017-06-27/have-we-missed-the-point-on-healthcare</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a1170627.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - It's the final countdown for Republican plans to repeal and replace Obamacare. But what if neither plan gets to the heart of how to make America healthy again?
+
+<a href="http://the1a.org/shows/2017-06-27/have-we-missed-the-point-on-healthcare">http://the1a.org/shows/2017-06-27/have-we-missed-the-point-on-healthcare</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</guid>
       <title>CHART: CBO Weighs Who Wins, Who Loses With Senate Health Care Bill</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</link>
@@ -60,12 +75,12 @@ June 27, 2017 - The Congressional Budget Office estimates that 22 million people
       <description>June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program&#39;s costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-0b908985cd75be512b7bdb62e183eda0352f658f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-67caf610319c9425949fbc7441c2f6ba9afbe708-s800-c15.jpg"></a>
 
 June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program's costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions">http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-0b908985cd75be512b7bdb62e183eda0352f658f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-67caf610319c9425949fbc7441c2f6ba9afbe708-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ June 26, 2017 - Manufacturers are not required to tell the Food and Drug Adminis
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/26/534411597/more-health-problems-reported-with-hair-and-skin-care-products">http://www.npr.org/sections/health-shots/2017/06/26/534411597/more-health-problems-reported-with-hair-and-skin-care-products</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/Woman-washing-hair_wide-f8c7a435eba03a9b927725e43513de4e56eb4289-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles</guid>
-      <title>Cholera Hitches A Ride On The Backs Of Soft-Shell Turtles</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles</link>
-      <description>June 26, 2017 - A new study finds that turtles are really good at carrying the bacteria that cause the potentially fatal disease.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/20/gettyimages-106480162_wide-5dc96a17958ec2d5cc387881324d6a8a99070589-s800-c15.jpg"></a>
-
-June 26, 2017 - A new study finds that turtles are really good at carrying the bacteria that cause the potentially fatal disease.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles">http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-106480162_wide-5dc96a17958ec2d5cc387881324d6a8a99070589-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
