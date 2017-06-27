@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 15:00:45 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 13:00:11 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 15:00:45 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</guid>
+      <title>Considering Breast-Feeding? This Guide Can Help</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</link>
+      <description>June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren&#39;t told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s800-c15.jpeg"></a>
+
+June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren't told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier">http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill</guid>
       <title>CHART: CBO Weighs Who Wins, Who Loses With Senate Health Care Bill</title>
@@ -45,12 +60,12 @@ June 27, 2017 - The Congressional Budget Office estimates that 22 million people
       <description>June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program&#39;s costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-b62951743085df19be6bc8a69d68b9d7d1f0b341-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-0b908985cd75be512b7bdb62e183eda0352f658f-s800-c15.jpg"></a>
 
 June 27, 2017 - Medicaid has become a prime target of Republicans in Congress who want to rein in the program's costs, which totaled $350 billion in 2015. We take a look at what all that money pays for.
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions">http://www.npr.org/sections/health-shots/2017/06/27/534436521/from-birth-to-death-medicaid-affects-the-lives-of-millions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-b62951743085df19be6bc8a69d68b9d7d1f0b341-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-143727931_wide-0b908985cd75be512b7bdb62e183eda0352f658f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +252,6 @@ June 26, 2017 - A new study finds that turtles are really good at carrying the b
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles">http://www.npr.org/sections/goatsandsoda/2017/06/26/533639747/cholera-hitches-a-ride-on-the-backs-of-soft-shell-turtles</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/20/gettyimages-106480162_wide-5dc96a17958ec2d5cc387881324d6a8a99070589-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1031&amp;d=393&amp;p=3&amp;story=534021439&amp;t=progseg&amp;e=534365528&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Secrets Of Breast-Feeding From Global Moms In The Know</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</link>
-      <description>June 26, 2017 - Many American women want to breast-feed — and try to. Only about half keep it up. It&#39;s like they&#39;ve lost the instinct. One researcher thinks she&#39;s figured out why and how to get the instinct back.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1031&amp;d=393&amp;p=3&amp;story=534021439&amp;t=progseg&amp;e=534365528&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s800-c15.jpg"></a>
-
-June 26, 2017 - Many American women want to breast-feed — and try to. Only about half keep it up. It's like they've lost the instinct. One researcher thinks she's figured out why and how to get the instinct back.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know">http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>393</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

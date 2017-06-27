@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 03:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 15:00:43 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 03:00:10 +0000</pubDate>
+    <pubDate>Tue, 27 Jun 2017 15:00:43 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</guid>
+      <title>Considering Breast-Feeding? This Guide Can Help</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</link>
+      <description>June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren&#39;t told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s800-c15.jpeg"></a>
+
+June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren't told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier">http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</guid>
       <title>Degrees of Maybe: How We Can All Make Better Predictions</title>
@@ -241,23 +256,6 @@ June 23, 2017 - After visiting a bookstore, Carrie Poppy started feeling odd: pr
 <a href="http://www.npr.org/2017/06/22/533989369/yellowstone-grizzly-bear-removed-from-endangered-species-list">http://www.npr.org/2017/06/22/533989369/yellowstone-grizzly-bear-removed-from-endangered-species-list</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>177</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_how_do_eggs_get_their_shapes_scientists_think_theyve_cracked_it.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=2&amp;story=533840419&amp;t=progseg&amp;e=533912361&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Do Eggs Get Their Shapes? Scientists Think They&#39;ve Cracked It</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</link>
-      <description>June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kinds of shapes, from Tic Tacs to teardrops to pingpong balls. After studying some 50,000 eggs, a team of researchers thinks it knows why.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170622_atc_how_do_eggs_get_their_shapes_scientists_think_theyve_cracked_it.mp3?orgId=1&amp;topicId=1007&amp;d=142&amp;p=2&amp;story=533840419&amp;t=progseg&amp;e=533912361&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s800-c15.jpg"></a>
-
-June 22, 2017 - Eggs evolved over 300 million years ago and now come in all kinds of shapes, from Tic Tacs to teardrops to pingpong balls. After studying some 50,000 eggs, a team of researchers thinks it knows why.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it">http://www.npr.org/sections/thetwo-way/2017/06/22/533840419/how-do-eggs-get-their-shapes-scientists-think-theyve-cracked-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-148307964-edit_wide-a10b6f4ac6471375774c988d6efc51077c8a3eaa-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>142</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
