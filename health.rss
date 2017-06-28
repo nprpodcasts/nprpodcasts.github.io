@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 19:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 20:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 19:00:26 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 20:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</guid>
+      <title>Mutant Strains Of Polio Vaccine Now Cause More Paralysis Than Wild Polio</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</link>
+      <description>June 28, 2017 - So far this year, there have been only six cases of wild polio — and 21 cases of vaccine-derived polio, most of them in Syria.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-456292370_wide-d41651f32c0dd86af337545c22df115f4f85b53c-s800-c15.jpeg"></a>
+
+June 28, 2017 - So far this year, there have been only six cases of wild polio — and 21 cases of vaccine-derived polio, most of them in Syria.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio">http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-456292370_wide-d41651f32c0dd86af337545c22df115f4f85b53c-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170628_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=2225&amp;p=13&amp;story=534709887&amp;t=progseg&amp;e=534693904&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Battle Over American Health Care: What&#39;s At Stake In The Senate&#39;s Bill</title>
@@ -233,21 +248,6 @@ June 27, 2017 - Medicaid has become a prime target of Republicans in Congress wh
 <a href="http://www.npr.org/2017/06/26/534480885/gop-sen-susan-collins-plans-to-oppose-senate-health-bill-after-cbo-report">http://www.npr.org/2017/06/26/534480885/gop-sen-susan-collins-plans-to-oppose-senate-health-bill-after-cbo-report</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>263</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_senate_republicans_alter_health_care_bill_to_avoid_death_spiral2.mp3?orgId=1&amp;topicId=1014&amp;d=232&amp;p=2&amp;story=534477740&amp;t=progseg&amp;e=534375673&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Sen. Susan Collins Firmly Opposes Senate Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/26/534477740/gop-sen-susan-collins-firmly-opposes-senate-health-care-bill</link>
-      <description>June 26, 2017 - Sen. Collins says she wants to reform flaws in the Affordable Care Act. This comes after the Congressional Budget Office said the Senate bill would leave 22 million more people uninsured by 2026.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_senate_republicans_alter_health_care_bill_to_avoid_death_spiral2.mp3?orgId=1&amp;topicId=1014&amp;d=232&amp;p=2&amp;story=534477740&amp;t=progseg&amp;e=534375673&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - Sen. Collins says she wants to reform flaws in the Affordable Care Act. This comes after the Congressional Budget Office said the Senate bill would leave 22 million more people uninsured by 2026.
-
-<a href="http://www.npr.org/2017/06/26/534477740/gop-sen-susan-collins-firmly-opposes-senate-health-care-bill">http://www.npr.org/2017/06/26/534477740/gop-sen-susan-collins-firmly-opposes-senate-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
