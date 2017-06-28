@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 00:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 16:00:48 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 00:00:10 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 16:00:48 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,14 +24,74 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=621&amp;story=534679950&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Petya&#39; Ransomware Hits At Least 65 Countries; Microsoft Traces It To Tax Software</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software</link>
+      <description>June 28, 2017 - An updated version of the malware has the ability to worm through computer networks, gathering passwords and credentials and spreading itself.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=621&amp;story=534679950&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - An updated version of the malware has the ability to worm through computer networks, gathering passwords and credentials and spreading itself.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software">http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>621</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>New Ransomware Attack Spreads From Ukraine</title>
+      <link>http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</link>
+      <description>June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.
+
+<a href="http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine">http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>220</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_european_union_fines_google_27_billion.mp3?orgId=1&amp;topicId=1006&amp;d=230&amp;p=3&amp;story=534671469&amp;t=progseg&amp;e=534671368&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>European Union Fines Google $2.7 Billion</title>
+      <link>http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</link>
+      <description>June 28, 2017 - The European Union has fined Google $2.7 billion over what it calls anti-competitive practices. Steve Inskeep talks with Adrianne Jeffries of The Outline.&#xA;&#xA; - http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_european_union_fines_google_27_billion.mp3?orgId=1&amp;topicId=1006&amp;d=230&amp;p=3&amp;story=534671469&amp;t=progseg&amp;e=534671368&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - The European Union has fined Google $2.7 billion over what it calls anti-competitive practices. Steve Inskeep talks with Adrianne Jeffries of The Outline.
+
+<a href="http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion">http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=534671385&amp;t=progseg&amp;e=534671368&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Morning News Brief: Health Care Vote Delayed, New Ransomware Attack Spreads</title>
+      <link>http://www.npr.org/2017/06/28/534671385/morning-news-brief-health-care-vote-delayed-new-ransomware-attack-spreads</link>
+      <description>June 28, 2017 - We look at the future of the Senate&#39;s health care bill after Republican leaders postponed a vote. Also, a new ransomware attack has spread from Ukraine, and we update the fight against Boko Haram.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=534671385&amp;t=progseg&amp;e=534671368&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - We look at the future of the Senate's health care bill after Republican leaders postponed a vote. Also, a new ransomware attack has spread from Ukraine, and we update the fight against Boko Haram.
+
+<a href="http://www.npr.org/2017/06/28/534671385/morning-news-brief-health-care-vote-delayed-new-ransomware-attack-spreads">http://www.npr.org/2017/06/28/534671385/morning-news-brief-health-care-vote-delayed-new-ransomware-attack-spreads</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>621</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_cyber_attacks_spread_across_europe_using_stolen_nsa_tool.mp3?orgId=1&amp;topicId=1124&amp;d=193&amp;p=2&amp;story=534597160&amp;t=progseg&amp;e=534535603&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Cyber Attacks Spread Across Europe Using Stolen NSA Tool</title>
       <link>http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool</link>
-      <description>June 27, 2017 - NPR&#39;s Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, about the cyber attacks spreading across Europe using a stolen National Security Agency tool.</description>
+      <description>June 27, 2017 - NPR&#39;s Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, on the cyber attacks spreading across Europe using a stolen National Security Agency tool.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_cyber_attacks_spread_across_europe_using_stolen_nsa_tool.mp3?orgId=1&amp;topicId=1124&amp;d=193&amp;p=2&amp;story=534597160&amp;t=progseg&amp;e=534535603&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 27, 2017 - NPR's Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, about the cyber attacks spreading across Europe using a stolen National Security Agency tool.
+      <itunes:summary><![CDATA[June 27, 2017 - NPR's Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, on the cyber attacks spreading across Europe using a stolen National Security Agency tool.
 
 <a href="http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool">http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -190,66 +250,6 @@ June 24, 2017 - More districts are letting students take computers home for the 
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide">http://www.npr.org/sections/alltechconsidered/2017/06/24/534151564/schools-let-students-take-laptops-home-in-hopes-of-curbing-summer-slide</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/French Middle School Students_wide-24d45adf9ce24f31714571f45b8d173ce9525053-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/06/20170624_wesat_drone_regulations.mp3?orgId=1&amp;topicId=1019&amp;d=249&amp;p=7&amp;story=534207526&amp;t=progseg&amp;e=534207086&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Drone Company Leaders Meet With Trump To Ask For More Clarity On Rules</title>
-      <link>http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules</link>
-      <description>June 24, 2017 - This week, U.S. drone companies met with President Trump to discuss industry regulations. NPR&#39;s Melissa Block talks with April Glaser of Recode about how these companies actually want more regulation.</description>
-      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/06/20170624_wesat_drone_regulations.mp3?orgId=1&amp;topicId=1019&amp;d=249&amp;p=7&amp;story=534207526&amp;t=progseg&amp;e=534207086&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 24, 2017 - This week, U.S. drone companies met with President Trump to discuss industry regulations. NPR's Melissa Block talks with April Glaser of Recode about how these companies actually want more regulation.
-
-<a href="http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules">http://www.npr.org/2017/06/24/534207526/drone-company-leaders-meet-with-trump-to-ask-for-more-clarity-on-rules</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>249</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</guid>
-      <title>Arkansas Tries To Stop An Epidemic Of Herbicide Damage</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</link>
-      <description>June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state&#39;s regulators just voted to ban it for 120 days.</description>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s800-c15.jpg"></a>
-
-June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state's regulators just voted to ban it for 120 days.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage">http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170623_me_what_ubers_leadership_change_means_for_diversity_in_tech.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=3&amp;story=534056720&amp;t=progseg&amp;e=534054640&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Uber&#39;s Leadership Change Means For Diversity In Tech</title>
-      <link>http://www.npr.org/2017/06/23/534056720/what-ubers-leadership-change-means-for-diversity-in-tech</link>
-      <description>June 23, 2017 - NPR&#39;s Rachel Martin speaks to tech industry recruiter and consultant Y-Vonne Hutchinson about the resignation of former Uber CEO Travis Kalanick, and the message it sends to Silicon Valley.</description>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170623_me_what_ubers_leadership_change_means_for_diversity_in_tech.mp3?orgId=1&amp;topicId=1006&amp;d=234&amp;p=3&amp;story=534056720&amp;t=progseg&amp;e=534054640&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 23, 2017 - NPR's Rachel Martin speaks to tech industry recruiter and consultant Y-Vonne Hutchinson about the resignation of former Uber CEO Travis Kalanick, and the message it sends to Silicon Valley.
-
-<a href="http://www.npr.org/2017/06/23/534056720/what-ubers-leadership-change-means-for-diversity-in-tech">http://www.npr.org/2017/06/23/534056720/what-ubers-leadership-change-means-for-diversity-in-tech</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement</guid>
-      <title>Facebook Changes Its Mission With Announcement About Groups </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement</link>
-      <description>June 22, 2017 - Facebook has nearly 2 billion users. But that&#39;s not enough. Now, in an effort to go deep, not just wide, the company will focus on users&#39; activity levels.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/22/ap_17173690534446_wide-ac1492c922493f808fdcfecfd23ba2bd9efb8e8b-s800-c15.jpg"></a>
-
-June 22, 2017 - Facebook has nearly 2 billion users. But that's not enough. Now, in an effort to go deep, not just wide, the company will focus on users' activity levels.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement">http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17173690534446_wide-ac1492c922493f808fdcfecfd23ba2bd9efb8e8b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

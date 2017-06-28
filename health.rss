@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 00:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 16:00:47 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 00:00:08 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 16:00:47 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,12 +24,57 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=310&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_healthcare_ceo_on_bill.mp3?orgId=1&amp;topicId=1027&amp;d=371&amp;p=3&amp;story=534681846&amp;t=progseg&amp;e=534671368&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Hospital Official Waits To See When Senate Votes On GOP Health Bill</title>
+      <link>http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill</link>
+      <description>June 28, 2017 - The vote has been postponed until after the July 4 holiday. Steve Inskeep talks to Dr. Rod Hochman, CEO of Providence St. Joseph Health, which has hospitals in seven states including Washington.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_healthcare_ceo_on_bill.mp3?orgId=1&amp;topicId=1027&amp;d=371&amp;p=3&amp;story=534681846&amp;t=progseg&amp;e=534671368&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - The vote has been postponed until after the July 4 holiday. Steve Inskeep talks to Dr. Rod Hochman, CEO of Providence St. Joseph Health, which has hospitals in seven states including Washington.
+
+<a href="http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill">http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>371</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</guid>
+      <title>This GOP Health Bill Proposes New Limits To Medical Malpractice Awards</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</link>
+      <description>June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages — such as pain and suffering — to $250,000. President Trump supports the bill, but many others across the political spectrum don&#39;t.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s800-c15.jpg"></a>
+
+June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages — such as pain and suffering — to $250,000. President Trump supports the bill, but many others across the political spectrum don't.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards">http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</guid>
+      <title>Just 17 Percent Of Americans Approve Of Republican Senate Health Care Bill </title>
+      <link>http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</link>
+      <description>June 28, 2017 - In a new NPR/PBS NewsHour/Marist poll, 55 percent of Americans say they disapprove of the Senate GOP bill to repeal and replace the Affordable Care Act.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/27/gettyimages-802140780_wide-bd621ca081ea21afb081115a26db5ae5addf743a-s800-c15.jpg"></a>
+
+June 28, 2017 - In a new NPR/PBS NewsHour/Marist poll, 55 percent of Americans say they disapprove of the Senate GOP bill to repeal and replace the Affordable Care Act.
+
+<a href="http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill">http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/gettyimages-802140780_wide-bd621ca081ea21afb081115a26db5ae5addf743a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=308&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Q&amp;A: What Does The Senate Health Bill Mean For Me?</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me</link>
       <description>June 27, 2017 - The Senate Republicans&#39; plan to overhaul the Affordable Care Act could bring big changes to many Americans&#39; health care coverage. Here are answers to a handful of scenarios from concerned listeners.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=310&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=308&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/27/insurance-questions_wide-0080fcc8b660c18e2e659c41eab52152dfba9758-s800-c15.jpg"></a>
 
@@ -37,22 +82,22 @@ June 27, 2017 - The Senate Republicans' plan to overhaul the Affordable Care Act
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me">http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/insurance-questions_wide-0080fcc8b660c18e2e659c41eab52152dfba9758-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>310</itunes:duration>
+      <itunes:duration>308</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_senate_gop_leaders_postpone_health_care_vote_until_after_july_4th.mp3?orgId=1&amp;topicId=1014&amp;d=228&amp;p=2&amp;story=534597188&amp;t=progseg&amp;e=534535603&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_senate_gop_leaders_postpone_health_care_vote_until_after_july_4th.mp3?orgId=1&amp;topicId=1014&amp;d=224&amp;p=2&amp;story=534597188&amp;t=progseg&amp;e=534535603&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Senate GOP Leaders Postpone Health Care Vote Until After July 4th</title>
       <link>http://www.npr.org/2017/06/27/534597188/senate-gop-leaders-postpone-health-care-vote-until-after-july-4th</link>
       <description>June 27, 2017 - Senate Republican leaders are delaying a vote on their bill to repeal and replace the Affordable Care Act, with many senators left to convince.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_senate_gop_leaders_postpone_health_care_vote_until_after_july_4th.mp3?orgId=1&amp;topicId=1014&amp;d=228&amp;p=2&amp;story=534597188&amp;t=progseg&amp;e=534535603&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_senate_gop_leaders_postpone_health_care_vote_until_after_july_4th.mp3?orgId=1&amp;topicId=1014&amp;d=224&amp;p=2&amp;story=534597188&amp;t=progseg&amp;e=534535603&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 27, 2017 - Senate Republican leaders are delaying a vote on their bill to repeal and replace the Affordable Care Act, with many senators left to convince.
 
 <a href="http://www.npr.org/2017/06/27/534597188/senate-gop-leaders-postpone-health-care-vote-until-after-july-4th">http://www.npr.org/2017/06/27/534597188/senate-gop-leaders-postpone-health-care-vote-until-after-july-4th</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>228</itunes:duration>
+      <itunes:duration>224</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -205,51 +250,6 @@ June 26, 2017 - A study of whole genome sequencing found that while many people 
 <a href="http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared">http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s3000-c15.jpg"></itunes:image>
       <itunes:duration>249</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/26/534432433/gop-senate-bill-would-cut-health-care-coverage-by-22-million</guid>
-      <title>GOP Senate Bill Would Cut Health Care Coverage By 22 Million</title>
-      <link>http://www.npr.org/2017/06/26/534432433/gop-senate-bill-would-cut-health-care-coverage-by-22-million</link>
-      <description>June 26, 2017 - Congressional forecasters say a Senate Republican bill to repeal and replace the Affordable Care Act would leave 22 million more people uninsured in the next decade.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-800141240_wide-aa0e9d92d4d754ae1edea067fd4f7aed00f5afdb-s800-c15.jpg"></a>
-
-June 26, 2017 - Congressional forecasters say a Senate Republican bill to repeal and replace the Affordable Care Act would leave 22 million more people uninsured in the next decade.
-
-<a href="http://www.npr.org/2017/06/26/534432433/gop-senate-bill-would-cut-health-care-coverage-by-22-million">http://www.npr.org/2017/06/26/534432433/gop-senate-bill-would-cut-health-care-coverage-by-22-million</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-800141240_wide-aa0e9d92d4d754ae1edea067fd4f7aed00f5afdb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_in_texas_opponents_rally_against_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=534448022&amp;t=progseg&amp;e=534375673&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Texas, Opponents Rally Against Senate Republican Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill</link>
-      <description>June 26, 2017 - Despite its politicians&#39; positions, many people who live in Texas&#39; rural hill country came out this weekend in support of the existing health care law. But some near the gathering support Obamacare repeal.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_in_texas_opponents_rally_against_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1091&amp;d=235&amp;p=2&amp;story=534448022&amp;t=progseg&amp;e=534375673&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - Despite its politicians' positions, many people who live in Texas' rural hill country came out this weekend in support of the existing health care law. But some near the gathering support Obamacare repeal.
-
-<a href="http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill">http://www.npr.org/2017/06/26/534448022/in-texas-opponents-rally-against-senate-republican-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_cbo_score_tc.mp3?orgId=1&amp;topicId=1014&amp;d=65&amp;p=2&amp;story=534447897&amp;t=progseg&amp;e=534375673&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Congressional Budget Office To Announce Score Of GOP Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</link>
-      <description>June 26, 2017 - The Congressional Budget Office plans to announce its score of the Senate Republican health care bill.&#xA;&#xA; - http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_cbo_score_tc.mp3?orgId=1&amp;topicId=1014&amp;d=65&amp;p=2&amp;story=534447897&amp;t=progseg&amp;e=534375673&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 26, 2017 - The Congressional Budget Office plans to announce its score of the Senate Republican health care bill.
-
-<a href="http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill">http://www.npr.org/2017/06/26/534447897/congressional-budget-office-to-announce-score-of-gop-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>65</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
