@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 22:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 23:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 22:00:21 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 23:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,12 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=495&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</guid>
+      <title>Boaty McBoatface Makes Its Triumphant Return, Hauling &#39;Unprecedented Data&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</link>
+      <description>June 28, 2017 - The curiously named submersible wrapped up its inaugural voyage last week. And, as the British Antarctic Survey noted Wednesday, Boaty acquitted itself well on the seven-week expedition.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-615133514_wide-0acb2d367f9d85ce416934054867c362850ec91e-s800-c15.jpg"></a>
+
+June 28, 2017 - The curiously named submersible wrapped up its inaugural voyage last week. And, as the British Antarctic Survey noted Wednesday, Boaty acquitted itself well on the seven-week expedition.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data">http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-615133514_wide-0acb2d367f9d85ce416934054867c362850ec91e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=452&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Chesapeake Bay Dead Zones Are Fading, But Proposed EPA Cuts Threaten Success</title>
       <link>http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</link>
       <description>June 28, 2017 - After years of failed attempts at cleaning up the dead zones, the Chesapeake Bay, once a national disgrace, is teeming with wildlife again. But success is fragile, and it might be even more so now.</description>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=495&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=452&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s800-c15.jpg"></a>
 
@@ -37,7 +52,7 @@ June 28, 2017 - After years of failed attempts at cleaning up the dead zones, th
 
 <a href="http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success">http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>495</itunes:duration>
+      <itunes:duration>452</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -56,11 +71,12 @@ June 28, 2017 - After years of failed attempts at cleaning up the dead zones, th
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.S. Air Pollution Still Kills Thousands Every Year, Study Concludes</title>
       <link>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</link>
       <description>June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.</description>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s800-c15.jpg"></a>
 
@@ -68,6 +84,7 @@ June 28, 2017 - An analysis examining mortality among millions of Americans conc
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes">http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -245,23 +262,6 @@ June 26, 2017 - In 1969 it was the orbiting home and refuge for the first astron
 <a href="http://www.npr.org/2017/06/25/534286469/congressman-proposes-a-military-space-corps">http://www.npr.org/2017/06/25/534286469/congressman-proposes-a-military-space-corps</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>209</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170624_atc_interlaced_fingers_traces_roots_of_racial_disparity_in_kidney_transplants.mp3?orgId=1&amp;topicId=1128&amp;d=388&amp;p=2&amp;story=533966000&amp;t=progseg&amp;e=534213345&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Interlaced Fingers&#39; Traces Roots Of Racial Disparity In Kidney Transplants</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/24/533966000/interlaced-fingers-traces-roots-of-racial-disparity-in-kidney-transplants</link>
-      <description>June 24, 2017 - When Dr. Vanessa Grubbs fell in love with a man whose kidneys were failing, he&#39;d been waiting for a transplant for years. Her book explores the ways racial inequity is embedded in the system.</description>
-      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170624_atc_interlaced_fingers_traces_roots_of_racial_disparity_in_kidney_transplants.mp3?orgId=1&amp;topicId=1128&amp;d=388&amp;p=2&amp;story=533966000&amp;t=progseg&amp;e=534213345&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/vanessa-wedding-3-copy_wide-dbd4b0534394f076631e64ff0acb12647dbc3444-s800-c15.jpg"></a>
-
-June 24, 2017 - When Dr. Vanessa Grubbs fell in love with a man whose kidneys were failing, he'd been waiting for a transplant for years. Her book explores the ways racial inequity is embedded in the system.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/24/533966000/interlaced-fingers-traces-roots-of-racial-disparity-in-kidney-transplants">http://www.npr.org/sections/health-shots/2017/06/24/533966000/interlaced-fingers-traces-roots-of-racial-disparity-in-kidney-transplants</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/vanessa-wedding-3-copy_wide-dbd4b0534394f076631e64ff0acb12647dbc3444-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>388</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
