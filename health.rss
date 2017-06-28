@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 16:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 19:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 16:00:47 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 19:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170628_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=2225&amp;p=13&amp;story=534709887&amp;t=progseg&amp;e=534693904&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Battle Over American Health Care: What&#39;s At Stake In The Senate&#39;s Bill</title>
+      <link>http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill</link>
+      <description>June 28, 2017 - Vox.com correspondent Sarah Kliff says Republicans determined to replace and repeal Obamacare are finding it&#39;s &#34;awfully difficult to write a bill that would get rid of it entirely.&#34;</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170628_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=2225&amp;p=13&amp;story=534709887&amp;t=progseg&amp;e=534693904&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - Vox.com correspondent Sarah Kliff says Republicans determined to replace and repeal Obamacare are finding it's "awfully difficult to write a bill that would get rid of it entirely."
+
+<a href="http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill">http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_healthcare_ceo_on_bill.mp3?orgId=1&amp;topicId=1027&amp;d=371&amp;p=3&amp;story=534681846&amp;t=progseg&amp;e=534671368&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hospital Official Waits To See When Senate Votes On GOP Health Bill</title>
@@ -233,23 +248,6 @@ June 27, 2017 - Medicaid has become a prime target of Republicans in Congress wh
 <a href="http://www.npr.org/2017/06/26/534477740/gop-sen-susan-collins-firmly-opposes-senate-health-care-bill">http://www.npr.org/2017/06/26/534477740/gop-sen-susan-collins-firmly-opposes-senate-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Routine DNA Sequencing May Be Helpful And Not As Scary As Feared</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</link>
-      <description>June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn&#39;t overreact to the news.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s800-c15.jpg"></a>
-
-June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn't overreact to the news.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared">http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>249</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
