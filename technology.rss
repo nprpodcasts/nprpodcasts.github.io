@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 19:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 00:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 27 Jun 2017 19:00:07 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 00:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_cyber_attacks_spread_across_europe_using_stolen_nsa_tool.mp3?orgId=1&amp;topicId=1124&amp;d=193&amp;p=2&amp;story=534597160&amp;t=progseg&amp;e=534535603&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Cyber Attacks Spread Across Europe Using Stolen NSA Tool</title>
+      <link>http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool</link>
+      <description>June 27, 2017 - NPR&#39;s Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, about the cyber attacks spreading across Europe using a stolen National Security Agency tool.</description>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_cyber_attacks_spread_across_europe_using_stolen_nsa_tool.mp3?orgId=1&amp;topicId=1124&amp;d=193&amp;p=2&amp;story=534597160&amp;t=progseg&amp;e=534535603&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 27, 2017 - NPR's Robert Siegel speaks with Dmitri Alperovitch, co-founder and chief technology officer of CrowdStrike, about the cyber attacks spreading across Europe using a stolen National Security Agency tool.
+
+<a href="http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool">http://www.npr.org/2017/06/27/534597160/cyber-attacks-spread-across-europe-using-stolen-nsa-tool</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>193</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</guid>
-      <title>&#39;Petya&#39; Cyberattack Cripples Ukraine, And Experts Say It&#39;s Spreading Globally</title>
+      <title>Massive Ransomware Attack Hits Ukraine; Experts Say It&#39;s Spreading Globally</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</link>
-      <description>June 27, 2017 - The Department of Homeland Security says it is &#34;monitoring reports of cyber attacks affecting multiple global entities.&#34;</description>
+      <description>June 27, 2017 - Some have called the previously seen malware &#34;Petya,&#34; though others say it is &#34;a new ransomware that has not been seen before.&#34; It has been reported in at least a half-dozen countries.</description>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/27/rts18u5k-edit_wide-e79e84c7eef3f805695bdd7adab01808c0edf00c-s800-c15.jpg"></a>
 
-June 27, 2017 - The Department of Homeland Security says it is "monitoring reports of cyber attacks affecting multiple global entities."
+June 27, 2017 - Some have called the previously seen malware "Petya," though others say it is "a new ransomware that has not been seen before." It has been reported in at least a half-dozen countries.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports">http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/rts18u5k-edit_wide-e79e84c7eef3f805695bdd7adab01808c0edf00c-s3000-c15.jpg"></itunes:image>
@@ -235,21 +250,6 @@ June 22, 2017 - Facebook has nearly 2 billion users. But that's not enough. Now,
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement">http://www.npr.org/sections/alltechconsidered/2017/06/22/534018001/facebook-changes-its-mission-with-groups-announcement</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/22/ap_17173690534446_wide-ac1492c922493f808fdcfecfd23ba2bd9efb8e8b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine</guid>
-      <title>Man Accused Of Making Millions Of Robocalls Faces Biggest-Ever FCC Fine</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine</link>
-      <description>June 22, 2017 - FCC proposed a $120 million fine for a Miami resident said to be single-handedly responsible for 97 million robocalls over a three-month period, scheming to sell &#34;discounted&#34; travel packages.</description>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/22/gettyimages-498335449_wide-045acd003d219af5f1eb37b0e6c2a184a3242b86-s800-c15.jpg"></a>
-
-June 22, 2017 - FCC proposed a $120 million fine for a Miami resident said to be single-handedly responsible for 97 million robocalls over a three-month period, scheming to sell "discounted" travel packages.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine">http://www.npr.org/sections/thetwo-way/2017/06/22/533970545/man-accused-of-making-millions-of-robocalls-faces-biggest-ever-fcc-fine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/gettyimages-498335449_wide-045acd003d219af5f1eb37b0e6c2a184a3242b86-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
