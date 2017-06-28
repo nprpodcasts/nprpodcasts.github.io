@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 16:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 22:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 16:00:46 +0000</pubDate>
+    <pubDate>Wed, 28 Jun 2017 22:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=495&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Chesapeake Bay Dead Zones Are Fading, But Proposed EPA Cuts Threaten Success</title>
+      <link>http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</link>
+      <description>June 28, 2017 - After years of failed attempts at cleaning up the dead zones, the Chesapeake Bay, once a national disgrace, is teeming with wildlife again. But success is fragile, and it might be even more so now.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=495&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s800-c15.jpg"></a>
+
+June 28, 2017 - After years of failed attempts at cleaning up the dead zones, the Chesapeake Bay, once a national disgrace, is teeming with wildlife again. But success is fragile, and it might be even more so now.
+
+<a href="http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success">http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>495</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_new_island_surfaces_along_coast_of_north_carolinas_outer_banks.mp3?orgId=1&amp;topicId=1091&amp;d=201&amp;p=2&amp;story=534764979&amp;t=progseg&amp;e=534685874&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>New Island Surfaces Along Coast Of North Carolina&#39;s Outer Banks</title>
+      <link>http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks</link>
+      <description>June 28, 2017 - There&#39;s a new island off the coast of North Carolina. Dave Hallac, Superintendent of Cape Hatteras National Seashore, tells NPR&#39;s Robert Siegel about it.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_new_island_surfaces_along_coast_of_north_carolinas_outer_banks.mp3?orgId=1&amp;topicId=1091&amp;d=201&amp;p=2&amp;story=534764979&amp;t=progseg&amp;e=534685874&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 28, 2017 - There's a new island off the coast of North Carolina. Dave Hallac, Superintendent of Cape Hatteras National Seashore, tells NPR's Robert Siegel about it.
+
+<a href="http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks">http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>201</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</guid>
+      <title>U.S. Air Pollution Still Kills Thousands Every Year, Study Concludes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</link>
+      <description>June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.</description>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s800-c15.jpg"></a>
+
+June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes">http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_child_care_centers_dont_hire_the_most_qualified_teachers_study_shows.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=534671504&amp;t=progseg&amp;e=534671368&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Child Care Centers Often Don&#39;t Hire The Most Qualified Teachers, Study Shows</title>
@@ -215,51 +262,6 @@ June 24, 2017 - When Dr. Vanessa Grubbs fell in love with a man whose kidneys we
 <a href="http://www.npr.org/sections/health-shots/2017/06/24/533966000/interlaced-fingers-traces-roots-of-racial-disparity-in-kidney-transplants">http://www.npr.org/sections/health-shots/2017/06/24/533966000/interlaced-fingers-traces-roots-of-racial-disparity-in-kidney-transplants</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/vanessa-wedding-3-copy_wide-dbd4b0534394f076631e64ff0acb12647dbc3444-s3000-c15.jpg"></itunes:image>
       <itunes:duration>388</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</guid>
-      <title>Arkansas Tries To Stop An Epidemic Of Herbicide Damage</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</link>
-      <description>June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state&#39;s regulators just voted to ban it for 120 days.</description>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s800-c15.jpg"></a>
-
-June 23, 2017 - A weedkiller called dicamba, which farmers hoped could banish herbicide-resistant weeds, has become a plague itself in Arkansas. The state's regulators just voted to ban it for 120 days.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage">http://www.npr.org/sections/thesalt/2017/06/23/534117683/arkansas-tries-to-stop-an-epidemic-of-herbicide-damage</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/img_3117_edited_wide-2bd78e8b669313acb662ebab041cf59ed0dc0cab-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_mountain_lions_terrified_by_voices_of_rush_limbaugh_rachel_maddow.mp3?orgId=1&amp;topicId=1132&amp;d=85&amp;p=2&amp;story=534143139&amp;t=progseg&amp;e=534078639&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Mountain Lions Terrified By Voices Of Rush Limbaugh, Rachel Maddow</title>
-      <link>http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow</link>
-      <description>June 23, 2017 - Scientists at the University of California, Santa Cruz were trying to understand the nature of fear for mountain lions. By playing a series of audio clips of political talk show hosts, including Rachel Maddow and Rush Limbaugh, researchers discovered that mountain lions fear people.</description>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170623_atc_mountain_lions_terrified_by_voices_of_rush_limbaugh_rachel_maddow.mp3?orgId=1&amp;topicId=1132&amp;d=85&amp;p=2&amp;story=534143139&amp;t=progseg&amp;e=534078639&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 23, 2017 - Scientists at the University of California, Santa Cruz were trying to understand the nature of fear for mountain lions. By playing a series of audio clips of political talk show hosts, including Rachel Maddow and Rush Limbaugh, researchers discovered that mountain lions fear people.
-
-<a href="http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow">http://www.npr.org/2017/06/23/534143139/mountain-lions-terrified-by-voices-of-rush-limbaugh-rachel-maddow</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>85</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/23/534105477/invasive-carp-caught-9-miles-from-great-lakes-in-cause-for-serious-concern</guid>
-      <title>&#39;Cause For Serious Concern&#39;: Invasive Carp Caught 9 Miles From Great Lakes</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/23/534105477/invasive-carp-caught-9-miles-from-great-lakes-in-cause-for-serious-concern</link>
-      <description>June 23, 2017 - A commercial fisher captured the silver carp beyond the barriers built to keep the invasive species out of the Great Lakes. The incident is raising alarms from local lawmakers.</description>
-      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/35099705310_1dc7ef4266_o_wide-f168c6abc773736a594df1e84d02ce154ee0ed21-s800-c15.jpg"></a>
-
-June 23, 2017 - A commercial fisher captured the silver carp beyond the barriers built to keep the invasive species out of the Great Lakes. The incident is raising alarms from local lawmakers.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/23/534105477/invasive-carp-caught-9-miles-from-great-lakes-in-cause-for-serious-concern">http://www.npr.org/sections/thetwo-way/2017/06/23/534105477/invasive-carp-caught-9-miles-from-great-lakes-in-cause-for-serious-concern</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/35099705310_1dc7ef4266_o_wide-f168c6abc773736a594df1e84d02ce154ee0ed21-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
