@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 17:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 29 Jun 2017 16:00:32 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2017 17:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</guid>
+      <title>C. Diff Infections Are Falling, Thanks To Better Cleaning And Fewer Antibiotics </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</link>
+      <description>June 29, 2017 - The bacterium C. difficile causes one of the most common infections in hospitals and nursing homes. After climbing for decades, the rate of new infections is now falling.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/scisource_2j3515_wide-5f3b60ae0256f478fb8c52ed3afc02dd22c1d0bd-s800-c15.jpg"></a>
+
+June 29, 2017 - The bacterium C. difficile causes one of the most common infections in hospitals and nursing homes. After climbing for decades, the rate of new infections is now falling.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics">http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/scisource_2j3515_wide-5f3b60ae0256f478fb8c52ed3afc02dd22c1d0bd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_dem_strategy_on_healthcare.mp3?orgId=1&amp;topicId=1014&amp;d=298&amp;p=3&amp;story=534848770&amp;t=progseg&amp;e=534835032&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>With The Senate&#39;s Health Care Vote Delayed, What&#39;s Next For Democrats?</title>
@@ -72,16 +87,16 @@
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_lawmakers_warn_senate_health_care_bill_could_worsen_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=279&amp;story=534789053&amp;siteplayer=true&amp;dl=1</guid>
       <title>GOP Senators From Opioid-Ravaged States Uneasy About Health Care Bill</title>
       <link>http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill</link>
-      <description>June 29, 2017 - This week, Sen. Shelley Moore Capito, R-W.Va., announced she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.</description>
+      <description>June 29, 2017 - Sen. Shelley Moore Capito, R-W.Va., has announced that she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_lawmakers_warn_senate_health_care_bill_could_worsen_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=279&amp;story=534789053&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-491ca0e4c0817b68b4134530a36640bc00fa354a-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-463263a37de34c04f5d10e7d9d88b14fd560b508-s800-c15.jpg"></a>
 
-June 29, 2017 - This week, Sen. Shelley Moore Capito, R-W.Va., announced she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.
+June 29, 2017 - Sen. Shelley Moore Capito, R-W.Va., has announced that she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.
 
 <a href="http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill">http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-491ca0e4c0817b68b4134530a36640bc00fa354a-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-463263a37de34c04f5d10e7d9d88b14fd560b508-s3000-c15.jpg"></itunes:image>
       <itunes:duration>279</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -237,21 +252,6 @@ June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages â
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards">http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</guid>
-      <title>Just 17 Percent Of Americans Approve Of Republican Senate Health Care Bill </title>
-      <link>http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</link>
-      <description>June 28, 2017 - In a new NPR/PBS NewsHour/Marist poll, 55 percent of Americans say they disapprove of the Senate GOP bill to repeal and replace the Affordable Care Act.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/27/gettyimages-802140780_wide-bd621ca081ea21afb081115a26db5ae5addf743a-s800-c15.jpg"></a>
-
-June 28, 2017 - In a new NPR/PBS NewsHour/Marist poll, 55 percent of Americans say they disapprove of the Senate GOP bill to repeal and replace the Affordable Care Act.
-
-<a href="http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill">http://www.npr.org/2017/06/28/534612954/just-17-percent-of-americans-approve-of-republican-senate-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/gettyimages-802140780_wide-bd621ca081ea21afb081115a26db5ae5addf743a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

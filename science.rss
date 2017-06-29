@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 17:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 29 Jun 2017 16:00:30 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2017 17:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</guid>
+      <title>C. Diff Infections Are Falling, Thanks To Better Cleaning And Fewer Antibiotics </title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</link>
+      <description>June 29, 2017 - The bacterium C. difficile causes one of the most common infections in hospitals and nursing homes. After climbing for decades, the rate of new infections is now falling.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/scisource_2j3515_wide-5f3b60ae0256f478fb8c52ed3afc02dd22c1d0bd-s800-c15.jpg"></a>
+
+June 29, 2017 - The bacterium C. difficile causes one of the most common infections in hospitals and nursing homes. After climbing for decades, the rate of new infections is now falling.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics">http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/scisource_2j3515_wide-5f3b60ae0256f478fb8c52ed3afc02dd22c1d0bd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_sea_pickles_wash_ashore_in_pacific_northwest.mp3?orgId=1&amp;topicId=1091&amp;d=138&amp;p=3&amp;story=534835129&amp;t=progseg&amp;e=534835032&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Sea Pickles&#39; Wash Ashore In Pacific Northwest</title>
@@ -245,23 +260,6 @@ June 26, 2017 - Many American women want to breast-feed — and try to. Only abo
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know">http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s3000-c15.jpg"></itunes:image>
       <itunes:duration>393</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_moonwalkers_apollo_11_capsule_gets_needed_primping_for_its_star_turn_on_earth.mp3?orgId=1&amp;topicId=1007&amp;d=158&amp;p=3&amp;story=533830775&amp;t=progseg&amp;e=534365528&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Moonwalkers&#39; Apollo 11 Capsule Gets Needed Primping For Its Star Turn On Earth</title>
-      <link>http://www.npr.org/2017/06/26/533830775/moonwalkers-apollo-11-capsule-gets-needed-primping-for-its-star-turn-on-earth</link>
-      <description>June 26, 2017 - In 1969 it was the orbiting home and refuge for the first astronauts who walked on the moon. Today, after decades on display in a Smithsonian museum, the module is being restored for a national tour.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_moonwalkers_apollo_11_capsule_gets_needed_primping_for_its_star_turn_on_earth.mp3?orgId=1&amp;topicId=1007&amp;d=158&amp;p=3&amp;story=533830775&amp;t=progseg&amp;e=534365528&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/21/shelbyknowles-apollo11-wideshot_wide-c722c92d50f015872c3cd71d457ab5e643277c6b-s800-c15.jpg"></a>
-
-June 26, 2017 - In 1969 it was the orbiting home and refuge for the first astronauts who walked on the moon. Today, after decades on display in a Smithsonian museum, the module is being restored for a national tour.
-
-<a href="http://www.npr.org/2017/06/26/533830775/moonwalkers-apollo-11-capsule-gets-needed-primping-for-its-star-turn-on-earth">http://www.npr.org/2017/06/26/533830775/moonwalkers-apollo-11-capsule-gets-needed-primping-for-its-star-turn-on-earth</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/21/shelbyknowles-apollo11-wideshot_wide-c722c92d50f015872c3cd71d457ab5e643277c6b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>158</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
