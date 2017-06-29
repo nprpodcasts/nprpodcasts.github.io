@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 16:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 03:03:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 28 Jun 2017 16:00:48 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2017 03:03:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,33 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=621&amp;story=534679950&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_cyberattack.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;story=534679950&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Petya&#39; Ransomware Hits At Least 65 Countries; Microsoft Traces It To Tax Software</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software</link>
       <description>June 28, 2017 - An updated version of the malware has the ability to worm through computer networks, gathering passwords and credentials and spreading itself.</description>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_morning_news_brief_health_care_vote_delayed_new_ransomware_attack_spreads.mp3?orgId=1&amp;topicId=1019&amp;d=621&amp;story=534679950&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_cyberattack.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;story=534679950&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - An updated version of the malware has the ability to worm through computer networks, gathering passwords and credentials and spreading itself.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-802632326_wide-10bbce15ef8bb959d589528200ec9814653d7989-s800-c15.jpg"></a>
+
+June 28, 2017 - An updated version of the malware has the ability to worm through computer networks, gathering passwords and credentials and spreading itself.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software">http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>621</itunes:duration>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-802632326_wide-10bbce15ef8bb959d589528200ec9814653d7989-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>New Ransomware Attack Spreads From Ukraine</title>
       <link>http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</link>
       <description>June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.</description>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.
 
 <a href="http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine">http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
+      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
