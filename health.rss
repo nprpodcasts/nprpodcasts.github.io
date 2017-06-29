@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 23:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 29 Jun 2017 17:00:33 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2017 23:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,81 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/29/534882955/tumor-test-helps-identify-which-breast-cancers-dont-require-extra-treatment</guid>
+      <title>Tumor Test Helps Identify Which Breast Cancers Don&#39;t Require Extra Treatment</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/29/534882955/tumor-test-helps-identify-which-breast-cancers-dont-require-extra-treatment</link>
+      <description>June 29, 2017 - Researchers say the test, which measures gene activity, can help avoid &#34;overtreating&#34; tumors that are not life-threatening. It might allow some patients to avoid radiation and chemotherapy.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/gettyimages-153286467-2_wide-897c43316f9afdd48b7a642f040cb49242b162bc-s800-c15.jpg"></a>
+
+June 29, 2017 - Researchers say the test, which measures gene activity, can help avoid "overtreating" tumors that are not life-threatening. It might allow some patients to avoid radiation and chemotherapy.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/29/534882955/tumor-test-helps-identify-which-breast-cancers-dont-require-extra-treatment">http://www.npr.org/sections/health-shots/2017/06/29/534882955/tumor-test-helps-identify-which-breast-cancers-dont-require-extra-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/gettyimages-153286467-2_wide-897c43316f9afdd48b7a642f040cb49242b162bc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_ohio_town_struggles_to_afford_life-saving_drug_for_opioid_overdoses.mp3?orgId=1&amp;topicId=1091&amp;d=207&amp;p=2&amp;story=534916080&amp;t=progseg&amp;e=534839315&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Ohio Town Struggles To Afford Life-Saving Drug For Opioid Overdoses</title>
+      <link>http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses</link>
+      <description>June 29, 2017 - In Middletown, Ohio, a city official says the opiate epidemic has caused a financial crisis. To save money, he&#39;s suggested a three strikes rule: If a drug user overdoses three times, first responders will not administer a life-saving drug.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_ohio_town_struggles_to_afford_life-saving_drug_for_opioid_overdoses.mp3?orgId=1&amp;topicId=1091&amp;d=207&amp;p=2&amp;story=534916080&amp;t=progseg&amp;e=534839315&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 29, 2017 - In Middletown, Ohio, a city official says the opiate epidemic has caused a financial crisis. To save money, he's suggested a three strikes rule: If a drug user overdoses three times, first responders will not administer a life-saving drug.
+
+<a href="http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses">http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>207</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_democrats_push_back_on_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=2&amp;story=534916024&amp;t=progseg&amp;e=534839315&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Democrats Push Back On Senate Republican Health Care Bill</title>
+      <link>http://www.npr.org/2017/06/29/534916024/democrats-push-back-on-senate-republican-health-care-bill</link>
+      <description>June 29, 2017 - Many Democrats were encouraged that Republicans had to push off their vote on a Senate bill to repeal and replace the Affordable Care Act, in the midst of vocal opposition from the left.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_democrats_push_back_on_senate_republican_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=2&amp;story=534916024&amp;t=progseg&amp;e=534839315&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 29, 2017 - Many Democrats were encouraged that Republicans had to push off their vote on a Senate bill to repeal and replace the Affordable Care Act, in the midst of vocal opposition from the left.
+
+<a href="http://www.npr.org/2017/06/29/534916024/democrats-push-back-on-senate-republican-health-care-bill">http://www.npr.org/2017/06/29/534916024/democrats-push-back-on-senate-republican-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</guid>
+      <title>The Bubonic Plague Is Back, This Time In New Mexico</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</link>
+      <description>June 29, 2017 - In medieval times, they called it &#34;the black death.&#34; It&#39;s still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s800-c15.jpg"></a>
+
+June 29, 2017 - In medieval times, they called it "the black death." It's still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico">http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170629_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1518&amp;p=13&amp;story=534868012&amp;t=progseg&amp;e=534872854&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>What Happens When The Heroin Epidemic Hits Small Town America?</title>
+      <link>http://www.npr.org/2017/06/29/534868012/what-happens-when-the-heroin-epidemic-hits-small-town-america</link>
+      <description>June 29, 2017 - West Virginia has the highest drug overdose death rate in the country. New Yorker writer Margaret Talbot interviewed addicts, their families and health professionals to understand why.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170629_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=1518&amp;p=13&amp;story=534868012&amp;t=progseg&amp;e=534872854&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 29, 2017 - West Virginia has the highest drug overdose death rate in the country. New Yorker writer Margaret Talbot interviewed addicts, their families and health professionals to understand why.
+
+<a href="http://www.npr.org/2017/06/29/534868012/what-happens-when-the-heroin-epidemic-hits-small-town-america">http://www.npr.org/2017/06/29/534868012/what-happens-when-the-heroin-epidemic-hits-small-town-america</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1518</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</guid>
       <title>C. Diff Infections Are Falling, Thanks To Better Cleaning And Fewer Antibiotics </title>
@@ -175,83 +250,6 @@ June 28, 2017 - Two-thirds of nursing home residents are paid for by Medicaid. "
 <a href="http://www.npr.org/2017/06/28/534764933/boston-surgeon-argues-senate-gop-bill-threatens-nations-health">http://www.npr.org/2017/06/28/534764933/boston-surgeon-argues-senate-gop-bill-threatens-nations-health</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>318</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.S. Air Pollution Still Kills Thousands Every Year, Study Concludes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</link>
-      <description>June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s800-c15.jpg"></a>
-
-June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes">http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</guid>
-      <title>Mutant Strains Of Polio Vaccine Now Cause More Paralysis Than Wild Polio</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</link>
-      <description>June 28, 2017 - So far this year, there have been only six cases of wild polio — and 21 cases of vaccine-derived polio, most of them in Syria.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-456292370_wide-fc27f475cc70d323c940c64f4c9ce37f28da91f2-s800-c15.jpeg"></a>
-
-June 28, 2017 - So far this year, there have been only six cases of wild polio — and 21 cases of vaccine-derived polio, most of them in Syria.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio">http://www.npr.org/sections/goatsandsoda/2017/06/28/534403083/mutant-strains-of-polio-vaccine-now-cause-more-paralysis-than-wild-polio</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-456292370_wide-fc27f475cc70d323c940c64f4c9ce37f28da91f2-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170628_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=2225&amp;p=13&amp;story=534709887&amp;t=progseg&amp;e=534693904&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Battle Over American Health Care: What&#39;s At Stake In The Senate&#39;s Bill</title>
-      <link>http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill</link>
-      <description>June 28, 2017 - Vox.com correspondent Sarah Kliff says Republicans determined to replace and repeal Obamacare are finding it&#39;s &#34;awfully difficult to write a bill that would get rid of it entirely.&#34;</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/06/20170628_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=2225&amp;p=13&amp;story=534709887&amp;t=progseg&amp;e=534693904&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - Vox.com correspondent Sarah Kliff says Republicans determined to replace and repeal Obamacare are finding it's "awfully difficult to write a bill that would get rid of it entirely."
-
-<a href="http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill">http://www.npr.org/2017/06/28/534709887/the-battle-over-american-health-care-whats-at-stake-in-the-senates-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_healthcare_ceo_on_bill.mp3?orgId=1&amp;topicId=1027&amp;d=371&amp;p=3&amp;story=534681846&amp;t=progseg&amp;e=534671368&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hospital Official Waits To See When Senate Votes On GOP Health Bill</title>
-      <link>http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill</link>
-      <description>June 28, 2017 - The vote has been postponed until after the July 4 holiday. Steve Inskeep talks to Dr. Rod Hochman, CEO of Providence St. Joseph Health, which has hospitals in seven states including Washington.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_healthcare_ceo_on_bill.mp3?orgId=1&amp;topicId=1027&amp;d=371&amp;p=3&amp;story=534681846&amp;t=progseg&amp;e=534671368&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - The vote has been postponed until after the July 4 holiday. Steve Inskeep talks to Dr. Rod Hochman, CEO of Providence St. Joseph Health, which has hospitals in seven states including Washington.
-
-<a href="http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill">http://www.npr.org/2017/06/28/534681846/hospital-official-waits-to-see-when-senate-votes-on-gop-health-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>371</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</guid>
-      <title>This GOP Health Bill Proposes New Limits To Medical Malpractice Awards</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</link>
-      <description>June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages — such as pain and suffering — to $250,000. President Trump supports the bill, but many others across the political spectrum don&#39;t.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s800-c15.jpg"></a>
-
-June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages — such as pain and suffering — to $250,000. President Trump supports the bill, but many others across the political spectrum don't.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards">http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

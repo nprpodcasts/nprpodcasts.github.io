@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 23:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 29 Jun 2017 17:00:28 +0000</pubDate>
+    <pubDate>Thu, 29 Jun 2017 23:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,81 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</guid>
+      <title>Pesticides Are Harming Bees — But Not Everywhere, Major New Study Shows</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</link>
+      <description>June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s800-c15.jpg"></a>
+
+June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows">http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_maryland_farmer_fights_to_keep_chesapeake_bay_cleanup_alive.mp3?orgId=1&amp;topicId=1025&amp;d=294&amp;p=2&amp;story=534916087&amp;t=progseg&amp;e=534839315&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Maryland Farmer Fights To Keep Chesapeake Bay Cleanup Alive</title>
+      <link>http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive</link>
+      <description>June 29, 2017 - The Chesapeake Bay cleanup depends heavily on farmers taking steps to keep runoff from entering the bay. But the Environmental Protection Agency&#39;s plan to help them do it has been controversial. NPR&#39;s Ari Shapiro talks to one Maryland farmer who changed his mind about the EPA efforts to clean up the bay.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_maryland_farmer_fights_to_keep_chesapeake_bay_cleanup_alive.mp3?orgId=1&amp;topicId=1025&amp;d=294&amp;p=2&amp;story=534916087&amp;t=progseg&amp;e=534839315&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 29, 2017 - The Chesapeake Bay cleanup depends heavily on farmers taking steps to keep runoff from entering the bay. But the Environmental Protection Agency's plan to help them do it has been controversial. NPR's Ari Shapiro talks to one Maryland farmer who changed his mind about the EPA efforts to clean up the bay.
+
+<a href="http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive">http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>294</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_researchers_analyze_economic_impact_of_climate_change_in_the_us.mp3?orgId=1&amp;topicId=1025&amp;d=163&amp;p=2&amp;story=534916108&amp;t=progseg&amp;e=534839315&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Researchers Analyze Economic Impact Of Climate Change In The U.S.</title>
+      <link>http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s</link>
+      <description>June 29, 2017 - A team of scientists and economists claims they&#39;ve come up with the most thorough analysis of the cost of climate change in the U.S. Most of the country will suffer economic loss in addition to higher mortality from heat waves and loss of agriculture productivity by 2100. But like all predictions far into the future, this one has a wide range of outcomes and could be overshadowed by new technology still to be invented.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_researchers_analyze_economic_impact_of_climate_change_in_the_us.mp3?orgId=1&amp;topicId=1025&amp;d=163&amp;p=2&amp;story=534916108&amp;t=progseg&amp;e=534839315&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 29, 2017 - A team of scientists and economists claims they've come up with the most thorough analysis of the cost of climate change in the U.S. Most of the country will suffer economic loss in addition to higher mortality from heat waves and loss of agriculture productivity by 2100. But like all predictions far into the future, this one has a wide range of outcomes and could be overshadowed by new technology still to be invented.
+
+<a href="http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s">http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</guid>
+      <title>The Bubonic Plague Is Back, This Time In New Mexico</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</link>
+      <description>June 29, 2017 - In medieval times, they called it &#34;the black death.&#34; It&#39;s still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s800-c15.jpg"></a>
+
+June 29, 2017 - In medieval times, they called it "the black death." It's still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico">http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/29/534896130/mapping-the-potential-economic-effects-of-climate-change</guid>
+      <title>Mapping The Potential Economic Effects Of Climate Change </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/29/534896130/mapping-the-potential-economic-effects-of-climate-change</link>
+      <description>June 29, 2017 - Scientists and economists predict what parts of the U.S. may get hit hardest by climate change. A new study goes county by county to gauge the potential cost of global warming.</description>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/climate-damage-promo_wide-911f90775a7d3d7fd3cce43a2f5102e4920da0dd-s800-c15.jpg"></a>
+
+June 29, 2017 - Scientists and economists predict what parts of the U.S. may get hit hardest by climate change. A new study goes county by county to gauge the potential cost of global warming.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/29/534896130/mapping-the-potential-economic-effects-of-climate-change">http://www.npr.org/sections/thetwo-way/2017/06/29/534896130/mapping-the-potential-economic-effects-of-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/climate-damage-promo_wide-911f90775a7d3d7fd3cce43a2f5102e4920da0dd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</guid>
       <title>C. Diff Infections Are Falling, Thanks To Better Cleaning And Fewer Antibiotics </title>
@@ -179,87 +254,6 @@ June 27, 2017 - The Senate Republicans' plan to overhaul the Affordable Care Act
 <a href="http://www.npr.org/2017/06/27/534597167/center-for-public-integrity-uncovers-safety-hazards-at-government-nuclear-labs">http://www.npr.org/2017/06/27/534597167/center-for-public-integrity-uncovers-safety-hazards-at-government-nuclear-labs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>299</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_beekeepers_feel_the_sting_of_californias_great_hive_heist.mp3?orgId=272&amp;topicId=1053&amp;d=234&amp;p=2&amp;story=534128664&amp;t=progseg&amp;e=534535603&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Beekeepers Feel The Sting Of California&#39;s Great Hive Heist</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/27/534128664/beekeepers-feel-the-sting-of-california-s-giant-beehive-heist</link>
-      <description>June 27, 2017 - This year authorities uncovered a &#34;beehive chop shop:&#34; nearly $1 million in stolen hives in a field in Fresno County. There&#39;s money to be made by renting out bees to orchards, and thefts are rising.</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_beekeepers_feel_the_sting_of_californias_great_hive_heist.mp3?orgId=272&amp;topicId=1053&amp;d=234&amp;p=2&amp;story=534128664&amp;t=progseg&amp;e=534535603&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/gettyimages-176942981-2_wide-da0f8e5f5905b01a8b794b21137e944ad3494b6e-s800-c15.jpg"></a>
-
-June 27, 2017 - This year authorities uncovered a "beehive chop shop:" nearly $1 million in stolen hives in a field in Fresno County. There's money to be made by renting out bees to orchards, and thefts are rising.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/27/534128664/beekeepers-feel-the-sting-of-california-s-giant-beehive-heist">http://www.npr.org/sections/thesalt/2017/06/27/534128664/beekeepers-feel-the-sting-of-california-s-giant-beehive-heist</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/gettyimages-176942981-2_wide-da0f8e5f5905b01a8b794b21137e944ad3494b6e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</guid>
-      <title>Considering Breast-Feeding? This Guide Can Help</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</link>
-      <description>June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren&#39;t told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s800-c15.jpeg"></a>
-
-June 27, 2017 - The vast majority of pregnant women in the U.S. say they plan to breast-feed, but aren't told that many new moms worldwide find it tricky. Being mentored the first weeks after birth can help a lot.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier">http://www.npr.org/sections/health-shots/2017/06/27/534123212/considering-breast-feeding-here-s-how-to-make-it-easier</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/kerherve-2_wide-52fa3de8fbb149ad3014c88dfcdd02e07fb29487-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</guid>
-      <title>Degrees of Maybe: How We Can All Make Better Predictions</title>
-      <link>http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</link>
-      <description>June 26, 2017 - Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week, we explore why they&#39;re often wrong, and how we can all do better.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/ap_17157592282679_wide-410c747e446a0e68e7250f663d30b661509a81e6-s800-c15.jpg"></a>
-
-June 26, 2017 - Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week, we explore why they're often wrong, and how we can all do better.
-
-<a href="http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions">http://www.npr.org/2017/06/26/534120962/degrees-of-maybe-how-we-can-all-make-better-predictions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/ap_17157592282679_wide-410c747e446a0e68e7250f663d30b661509a81e6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Routine DNA Sequencing May Be Helpful And Not As Scary As Feared</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</link>
-      <description>June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn&#39;t overreact to the news.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170626_atc_routine_sequencing_may_be_helpful_and_less_risky_than_feared.mp3?orgId=1&amp;topicId=1128&amp;d=249&amp;p=2&amp;story=534338576&amp;t=progseg&amp;e=534375673&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s800-c15.jpg"></a>
-
-June 26, 2017 - A study of whole genome sequencing found that while many people discovered genetic variations linked to rare diseases, they didn't overreact to the news.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared">http://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/gettyimages-476856719_wide-33266cfc71ea65b81aa69b126a78ee0bf878fd11-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>249</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1031&amp;d=393&amp;p=3&amp;story=534021439&amp;t=progseg&amp;e=534365528&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Secrets Of Breast-Feeding From Global Moms In The Know</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</link>
-      <description>June 26, 2017 - Many American women want to breast-feed — and try to. Only about half keep it up. It&#39;s like they&#39;ve lost the instinct. One researcher thinks she&#39;s figured out why and how to get the instinct back.</description>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170626_me_secrets_of_breast-feeding_from_global_moms_in_the_know.mp3?orgId=1&amp;topicId=1031&amp;d=393&amp;p=3&amp;story=534021439&amp;t=progseg&amp;e=534365528&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s800-c15.jpg"></a>
-
-June 26, 2017 - Many American women want to breast-feed — and try to. Only about half keep it up. It's like they've lost the instinct. One researcher thinks she's figured out why and how to get the instinct back.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know">http://www.npr.org/sections/goatsandsoda/2017/06/26/534021439/secrets-of-breast-feeding-from-global-moms-in-the-know</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/23/tri-breastfeeding_wide-451ebb0eb37a2a01abb6823f2331eb99709e2469-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>393</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
