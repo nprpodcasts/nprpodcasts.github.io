@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 11:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 12:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 11:00:16 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 12:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_pesticides_are_harming_bees_but_not_everywhere_major_new_study_shows.mp3?orgId=1&amp;topicId=1024&amp;d=146&amp;p=3&amp;story=534852611&amp;t=progseg&amp;e=534969807&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Pesticides Are Harming Bees — But Not Everywhere, Major New Study Shows</title>
       <link>http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</link>
       <description>June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_pesticides_are_harming_bees_but_not_everywhere_major_new_study_shows.mp3?orgId=1&amp;topicId=1024&amp;d=146&amp;p=3&amp;story=534852611&amp;t=progseg&amp;e=534969807&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that 
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows">http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>146</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

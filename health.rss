@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 11:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 12:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 11:00:17 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 12:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/30/534756511/senate-bill-leaves-key-problems-with-health-care-system-unresolved</guid>
+      <title>Obamacare Has Problems. The Senate Health Care Bill Doesn&#39;t Solve Them, Experts Say</title>
+      <link>http://www.npr.org/2017/06/30/534756511/senate-bill-leaves-key-problems-with-health-care-system-unresolved</link>
+      <description>June 30, 2017 - We asked top health care experts to tell us America&#39;s biggest health care problems. Then we asked: Does the current Republican plan fix them? For the most part, the answer was no.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-800141158_wide-bbc1a3337a9402c51286ef1dc8121d07a7815bbe-s800-c15.jpg"></a>
+
+June 30, 2017 - We asked top health care experts to tell us America's biggest health care problems. Then we asked: Does the current Republican plan fix them? For the most part, the answer was no.
+
+<a href="http://www.npr.org/2017/06/30/534756511/senate-bill-leaves-key-problems-with-health-care-system-unresolved">http://www.npr.org/2017/06/30/534756511/senate-bill-leaves-key-problems-with-health-care-system-unresolved</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-800141158_wide-bbc1a3337a9402c51286ef1dc8121d07a7815bbe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_tumor_test_helps_identify_which_breast_cancers_dont_require_extra_treatment.mp3?orgId=1&amp;topicId=1128&amp;d=215&amp;p=3&amp;story=534882955&amp;t=progseg&amp;e=534969807&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tumor Test Helps Identify Which Breast Cancers Don&#39;t Require Extra Treatment</title>
@@ -42,16 +57,18 @@ June 29, 2017 - Researchers say the test, which measures gene activity, can help
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_ohio_town_struggles_to_afford_life-saving_drug_for_opioid_overdoses.mp3?orgId=1&amp;topicId=1091&amp;d=207&amp;p=2&amp;story=534916080&amp;t=progseg&amp;e=534839315&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ohio Town Struggles To Afford Life-Saving Drug For Opioid Overdoses</title>
+      <title>As Opioid Overdoses Bleed City&#39;s Budget, Councilman Proposes Stopping Treatment</title>
       <link>http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses</link>
-      <description>June 29, 2017 - In Middletown, Ohio, a city official says the opiate epidemic has caused a financial crisis. To save money, he&#39;s suggested a three strikes rule: If a drug user overdoses three times, first responders will not administer a life-saving drug.</description>
+      <description>June 29, 2017 - &#34;If we don&#39;t do anything the city&#39;s going to run out of money,&#34; Middletown city councilman Dan Picard says. The epidemic costs the city a whopping 10 percent of its annual tax revenue.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_ohio_town_struggles_to_afford_life-saving_drug_for_opioid_overdoses.mp3?orgId=1&amp;topicId=1091&amp;d=207&amp;p=2&amp;story=534916080&amp;t=progseg&amp;e=534839315&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - In Middletown, Ohio, a city official says the opiate epidemic has caused a financial crisis. To save money, he's suggested a three strikes rule: If a drug user overdoses three times, first responders will not administer a life-saving drug.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/opioid3_wide-751a5853eb0a6ec0706fc7e526c391a10c948c79-s800-c15.jpg"></a>
+
+June 29, 2017 - "If we don't do anything the city's going to run out of money," Middletown city councilman Dan Picard says. The epidemic costs the city a whopping 10 percent of its annual tax revenue.
 
 <a href="http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses">http://www.npr.org/2017/06/29/534916080/ohio-town-struggles-to-afford-life-saving-drug-for-opioid-overdoses</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/opioid3_wide-751a5853eb0a6ec0706fc7e526c391a10c948c79-s3000-c15.jpg"></itunes:image>
       <itunes:duration>207</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -237,21 +254,6 @@ June 28, 2017 - Two-thirds of nursing home residents are paid for by Medicaid. "
 <a href="http://www.npr.org/sections/health-shots/2017/06/28/534764940/proposed-medicaid-cuts-likely-to-put-pressure-on-nursing-homes">http://www.npr.org/sections/health-shots/2017/06/28/534764940/proposed-medicaid-cuts-likely-to-put-pressure-on-nursing-homes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/nursing-home-2_wide-edc30c23a22c9b6d67f67ff44365060eb461088c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>213</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_boston_surgeon_argues_senate_gop_bill_threatens_nations_health.mp3?orgId=1&amp;topicId=1128&amp;d=318&amp;p=2&amp;story=534764933&amp;t=progseg&amp;e=534685874&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Boston Surgeon Argues Senate GOP Bill Threatens Nation&#39;s Health</title>
-      <link>http://www.npr.org/2017/06/28/534764933/boston-surgeon-argues-senate-gop-bill-threatens-nations-health</link>
-      <description>June 28, 2017 - NPR&#39;s Robert Siegel talks with Atul Gawande, a surgeon at Brigham and Women&#39;s Hospital in Boston and a staff writer for The New Yorker, about what the health care industry learned from the Affordable Care Act.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_boston_surgeon_argues_senate_gop_bill_threatens_nations_health.mp3?orgId=1&amp;topicId=1128&amp;d=318&amp;p=2&amp;story=534764933&amp;t=progseg&amp;e=534685874&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - NPR's Robert Siegel talks with Atul Gawande, a surgeon at Brigham and Women's Hospital in Boston and a staff writer for The New Yorker, about what the health care industry learned from the Affordable Care Act.
-
-<a href="http://www.npr.org/2017/06/28/534764933/boston-surgeon-argues-senate-gop-bill-threatens-nations-health">http://www.npr.org/2017/06/28/534764933/boston-surgeon-argues-senate-gop-bill-threatens-nations-health</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>318</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
