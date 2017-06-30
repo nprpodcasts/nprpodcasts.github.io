@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 21:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 19:00:17 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 21:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,15 +24,71 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients</guid>
+      <title>GOP Health Bill Could Let Insurers Cap Spending On Expensive Patients</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients</link>
+      <description>June 30, 2017 - Current law requires all health insurance sold on the exchanges to cover 10 essential benefits — with no annual or lifetime limits to reimbursement. But the GOP plan might let states reinstate limits.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/nchardyfamclose_wide-0465ab1a16ff224f308e26b0cbb5e192b6348945-s800-c15.jpg"></a>
+
+June 30, 2017 - Current law requires all health insurance sold on the exchanges to cover 10 essential benefits — with no annual or lifetime limits to reimbursement. But the GOP plan might let states reinstate limits.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients">http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/nchardyfamclose_wide-0465ab1a16ff224f308e26b0cbb5e192b6348945-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</guid>
+      <title>Government Researchers Plan Response To Rising Rates Of Black Lung Disease</title>
+      <link>http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</link>
+      <description>June 30, 2017 - Government researchers met in West Virginia this week in response to an NPR investigation and federal study showing much higher rates of the most serious stages of the coal miners&#39; disease black lung.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 30, 2017 - Government researchers met in West Virginia this week in response to an NPR investigation and federal study showing much higher rates of the most serious stages of the coal miners' disease black lung.
+
+<a href="http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease">http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</guid>
+      <title>GOP Lawmakers Face Political Risks In Supporting Unpopular Health Care Bill</title>
+      <link>http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</link>
+      <description>June 30, 2017 - Congressional Republicans say the political risks of failing to make good on their promise to dismantle the Affordable Care Act outweigh the risks of passing an unpopular bill.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 30, 2017 - Congressional Republicans say the political risks of failing to make good on their promise to dismantle the Affordable Care Act outweigh the risks of passing an unpopular bill.
+
+<a href="http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill">http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems</guid>
+      <title>For Newborns Exposed To Opioids, Health Issues May Be The Least Of Their Problems</title>
+      <link>http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems</link>
+      <description>June 30, 2017 - Dr. Joshua Sharfstein says worry less about the short-term withdrawal symptoms of babies exposed to opioids in the womb, and much more about the lives and mothers they go home to.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/baby-hand_wide-52938e4acf77a59d15e7639b7aa2890acb4bad49-s800-c15.jpg"></a>
+
+June 30, 2017 - Dr. Joshua Sharfstein says worry less about the short-term withdrawal symptoms of babies exposed to opioids in the womb, and much more about the lives and mothers they go home to.
+
+<a href="http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems">http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/baby-hand_wide-52938e4acf77a59d15e7639b7aa2890acb4bad49-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</guid>
       <title>How To Stop The World&#39;s Worst Cholera Outbreak</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</link>
-      <description>June 30, 2017 - There are more than 200,000 cases in a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.</description>
+      <description>June 30, 2017 - There are more than 200,000 cases in Yemen, a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.</description>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/gettyimages-508199736_wide-09b353a4d24c948569abfa993f689f20d5188203-s800-c15.jpg"></a>
 
-June 30, 2017 - There are more than 200,000 cases in a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.
+June 30, 2017 - There are more than 200,000 cases in Yemen, a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak">http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/gettyimages-508199736_wide-09b353a4d24c948569abfa993f689f20d5188203-s3000-c15.jpg"></itunes:image>
@@ -139,12 +195,12 @@ June 29, 2017 - "If we don't do anything, the city's going to run out of money,"
       <description>June 29, 2017 - In medieval times, they called it &#34;the black death.&#34; It&#39;s still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/plague_wide-7da68cd5618f35ff724ec44b7ddfbb4db02b2915-s800-c15.jpeg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s800-c15.jpg"></a>
 
 June 29, 2017 - In medieval times, they called it "the black death." It's still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico">http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/plague_wide-7da68cd5618f35ff724ec44b7ddfbb4db02b2915-s3000-c15.jpeg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -190,68 +246,6 @@ June 29, 2017 - The bacterium C. difficile causes one of the most common infecti
 <a href="http://www.npr.org/2017/06/29/534848770/with-the-senates-health-care-vote-delayed-whats-next-for-democrats">http://www.npr.org/2017/06/29/534848770/with-the-senates-health-care-vote-delayed-whats-next-for-democrats</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>298</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_vote_on_gop_health_plan_delayed_sen_rounds_will_vote_yes.mp3?orgId=1&amp;topicId=1014&amp;d=295&amp;p=3&amp;story=534835122&amp;t=progseg&amp;e=534835032&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Health Plan Vote Delayed, But Sen. Rounds Will Vote &#39;Yes&#39;</title>
-      <link>http://www.npr.org/2017/06/29/534835122/vote-on-gop-health-plan-delayed-but-sen-rounds-will-vote-yes</link>
-      <description>June 29, 2017 - The Senate leadership is intent on overhauling the Affordable Care Act. Steve Inskeep talks to Republican Sen. Mike Rounds of South Dakota about why he supports the health care legislation.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_vote_on_gop_health_plan_delayed_sen_rounds_will_vote_yes.mp3?orgId=1&amp;topicId=1014&amp;d=295&amp;p=3&amp;story=534835122&amp;t=progseg&amp;e=534835032&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - The Senate leadership is intent on overhauling the Affordable Care Act. Steve Inskeep talks to Republican Sen. Mike Rounds of South Dakota about why he supports the health care legislation.
-
-<a href="http://www.npr.org/2017/06/29/534835122/vote-on-gop-health-plan-delayed-but-sen-rounds-will-vote-yes">http://www.npr.org/2017/06/29/534835122/vote-on-gop-health-plan-delayed-but-sen-rounds-will-vote-yes</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>295</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_senate_health_care_bill_needs_to_change_dramatically_aarp_says.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=3&amp;story=534835080&amp;t=progseg&amp;e=534835032&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Health Bill Needs To Change Dramatically, AARP Says</title>
-      <link>http://www.npr.org/2017/06/29/534835080/senate-health-care-bill-needs-to-change-dramatically-aarp-says</link>
-      <description>June 29, 2017 - Steve Inskeep talks to David Certner, legislative policy director for government affairs at AARP, about why his organization wants the Senate to scratch the GOP health care bill and start again.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_senate_health_care_bill_needs_to_change_dramatically_aarp_says.mp3?orgId=1&amp;topicId=1027&amp;d=243&amp;p=3&amp;story=534835080&amp;t=progseg&amp;e=534835032&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - Steve Inskeep talks to David Certner, legislative policy director for government affairs at AARP, about why his organization wants the Senate to scratch the GOP health care bill and start again.
-
-<a href="http://www.npr.org/2017/06/29/534835080/senate-health-care-bill-needs-to-change-dramatically-aarp-says">http://www.npr.org/2017/06/29/534835080/senate-health-care-bill-needs-to-change-dramatically-aarp-says</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>243</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_lawmakers_warn_senate_health_care_bill_could_worsen_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=279&amp;story=534789053&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Senators From Opioid-Ravaged States Uneasy About Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill</link>
-      <description>June 29, 2017 - Sen. Shelley Moore Capito, R-W.Va., has announced that she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_lawmakers_warn_senate_health_care_bill_could_worsen_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=279&amp;story=534789053&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-463263a37de34c04f5d10e7d9d88b14fd560b508-s800-c15.jpg"></a>
-
-June 29, 2017 - Sen. Shelley Moore Capito, R-W.Va., has announced that she opposes the health care bill in its current form. She cited cuts to Medicaid and what the bill would mean for people with opioid addiction.
-
-<a href="http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill">http://www.npr.org/2017/06/29/534789053/gop-senators-from-opioid-ravaged-states-uneasy-about-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/ap_81842193184capito_wide-463263a37de34c04f5d10e7d9d88b14fd560b508-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>279</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/06/29/534753016/patients-with-pre-existing-conditions-fear-bias-under-gop-health-proposals</guid>
-      <title>Patients With Pre-Existing Conditions Fear Bias Under GOP Health Proposals</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/29/534753016/patients-with-pre-existing-conditions-fear-bias-under-gop-health-proposals</link>
-      <description>June 29, 2017 - Encouraged by their doctors, many people in recent years have taken tests to find out if they&#39;re at risk of disease. Now they worry the Republican health bills could make them vulnerable.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/28/Medical-record_wide-6f1dee0a878124ec0a5c5cba6483b096265440a0-s800-c15.jpg"></a>
-
-June 29, 2017 - Encouraged by their doctors, many people in recent years have taken tests to find out if they're at risk of disease. Now they worry the Republican health bills could make them vulnerable.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/29/534753016/patients-with-pre-existing-conditions-fear-bias-under-gop-health-proposals">http://www.npr.org/sections/health-shots/2017/06/29/534753016/patients-with-pre-existing-conditions-fear-bias-under-gop-health-proposals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Medical-record_wide-6f1dee0a878124ec0a5c5cba6483b096265440a0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

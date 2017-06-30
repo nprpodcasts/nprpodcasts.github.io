@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 21:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 16:00:11 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 21:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it</guid>
+      <title>A Total Eclipse Will Sweep The U.S. In August, And People Are Going Nuts For It</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it</link>
+      <description>June 30, 2017 - NASA says a partial eclipse will be visible throughout the country. But within a &#34;path of totality&#34; from Oregon to South Carolina, an eclipse industry is booming.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-7ef0a5e7c43c6c68ad912e34b5337a2b7694d1bf-s800-c15.jpg"></a>
+
+June 30, 2017 - NASA says a partial eclipse will be visible throughout the country. But within a "path of totality" from Oregon to South Carolina, an eclipse industry is booming.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it">http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-7ef0a5e7c43c6c68ad912e34b5337a2b7694d1bf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</guid>
       <title>Meet The Indiana Jones Of Ancient Ales And Extreme Beverages</title>
       <link>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</link>
-      <description>June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old – and then re-creates them. His new book explores these brews and their cultural value.</description>
+      <description>June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old — and then re-creates them. His new book explores these brews and their cultural value.</description>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-0653343e7304fd5b14ef9fdae8c50fd533f378e3-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-67a86fc7c6314211e6a12a6260fd110f0651209f-s800-c15.jpg"></a>
 
-June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old – and then re-creates them. His new book explores these brews and their cultural value.
+June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old — and then re-creates them. His new book explores these brews and their cultural value.
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages">http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-0653343e7304fd5b14ef9fdae8c50fd533f378e3-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-67a86fc7c6314211e6a12a6260fd110f0651209f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -92,12 +107,12 @@ June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that 
       <description>June 29, 2017 - In medieval times, they called it &#34;the black death.&#34; It&#39;s still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s800-c15.jpg"></a>
 
 June 29, 2017 - In medieval times, they called it "the black death." It's still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico">http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/42-24063922-25_wide-08c6476f38dc6d3ec969a22063b14238a659ebf0-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,23 +254,6 @@ June 28, 2017 - The bill H.R. 1215 would limit awards for non-economic damages �
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards">http://www.npr.org/sections/health-shots/2017/06/28/534465478/this-gop-health-bill-proposes-new-limits-to-medical-malpractice-awards</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/surgery-malpractice-1_wide-57e8613aba5665d60c724cab3ed96028bcf50298-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=308&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Q&amp;A: What Does The Senate Health Bill Mean For Me?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me</link>
-      <description>June 27, 2017 - The Senate Republicans&#39; plan to overhaul the Affordable Care Act could bring big changes to many Americans&#39; health care coverage. Here are answers to a handful of scenarios from concerned listeners.</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_qa_what_does_the_senate_health_bill_mean_for_me.mp3?orgId=1&amp;topicId=1128&amp;d=308&amp;p=2&amp;story=534576392&amp;t=progseg&amp;e=534535603&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/27/insurance-questions_wide-0080fcc8b660c18e2e659c41eab52152dfba9758-s800-c15.jpg"></a>
-
-June 27, 2017 - The Senate Republicans' plan to overhaul the Affordable Care Act could bring big changes to many Americans' health care coverage. Here are answers to a handful of scenarios from concerned listeners.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me">http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/insurance-questions_wide-0080fcc8b660c18e2e659c41eab52152dfba9758-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>308</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

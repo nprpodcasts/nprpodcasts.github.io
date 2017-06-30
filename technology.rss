@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 21:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 29 Jun 2017 23:00:19 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 21:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech</guid>
+      <title>Germany Votes To Fine Social Media Companies For Failing To Remove Hate Speech</title>
+      <link>http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech</link>
+      <description>June 30, 2017 - The German parliament has voted to impose fines of up to $57 million on social media companies that fail to remove &#34;obviously illegal&#34; hate speech within 24 hours of it being posted.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[June 30, 2017 - The German parliament has voted to impose fines of up to $57 million on social media companies that fail to remove "obviously illegal" hate speech within 24 hours of it being posted.
+
+<a href="http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech">http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</guid>
+      <title>Ukraine Cyberattack Wasn&#39;t Really About Ransom, Security Experts Say</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</link>
+      <description>June 30, 2017 - Although the virus that spread through government and commercial computers Tuesday looked like ransomware, cyber experts say it was a &#34;wiper&#34; intended to erase data and disrupt business.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_17179384901894_wide-feaf283c9f8d97ab81e0f20d16c59f07dc2d21fb-s800-c15.jpg"></a>
+
+June 30, 2017 - Although the virus that spread through government and commercial computers Tuesday looked like ransomware, cyber experts say it was a "wiper" intended to erase data and disrupt business.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say">http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_17179384901894_wide-feaf283c9f8d97ab81e0f20d16c59f07dc2d21fb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_change_my_view_on_reddit_helps_people_challenge_their_own_opinions.mp3?orgId=1&amp;topicId=1019&amp;aggIds=94427042&amp;d=239&amp;p=2&amp;story=534916052&amp;t=progseg&amp;e=534839315&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Change My View On Reddit Helps People Challenge Their Own Opinions</title>
@@ -220,36 +248,6 @@ June 27, 2017 - Some have called the previously seen malware "Petya," though oth
 <a href="http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry">http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>1073</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170627-1.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Beyond The Valley Of The CEOs — Bringing Big Tech To Small Towns</title>
-      <link>http://the1a.org/shows/2017-06-27/technology-and-the-economy</link>
-      <description>June 27, 2017 - Venture capital is concentrated on the coasts — how can investors be encouraged to spread the wealth?&#xA;&#xA; - http://the1a.org/shows/2017-06-27/technology-and-the-economy</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170627-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 27, 2017 - Venture capital is concentrated on the coasts — how can investors be encouraged to spread the wealth?
-
-<a href="http://the1a.org/shows/2017-06-27/technology-and-the-economy">http://the1a.org/shows/2017-06-27/technology-and-the-economy</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>718</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_eu_google_fine.mp3?orgId=1&amp;topicId=1019&amp;d=169&amp;p=3&amp;story=534537556&amp;t=progseg&amp;e=534516090&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Google Fined Record $2.7 Billion In EU Anti-Trust Ruling</title>
-      <link>http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling</link>
-      <description>June 27, 2017 - The European Union says Google unfairly abused its power over search results to promote its own over competitors. It&#39;s the biggest fine the EU has ever given a single company in an anti-trust case.</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170627_me_eu_google_fine.mp3?orgId=1&amp;topicId=1019&amp;d=169&amp;p=3&amp;story=534537556&amp;t=progseg&amp;e=534516090&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 27, 2017 - The European Union says Google unfairly abused its power over search results to promote its own over competitors. It's the biggest fine the EU has ever given a single company in an anti-trust case.
-
-<a href="http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling">http://www.npr.org/2017/06/27/534537556/google-fined-record-2-7-billion-in-eu-anti-trust-ruling</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>169</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
