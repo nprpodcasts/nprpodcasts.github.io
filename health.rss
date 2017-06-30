@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 15:00:28 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/534983929/syrian-civilians-exposed-to-sarin-in-april-attack-international-watchdog-says</guid>
+      <title>Syrian Civilians Exposed To Sarin In April Attack, International Watchdog Says</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/06/30/534983929/syrian-civilians-exposed-to-sarin-in-april-attack-international-watchdog-says</link>
+      <description>June 30, 2017 - The finding is consistent with experts&#39; suspicions. The Organisation for the Prohibition of Chemical Weapons stopped short of saying who was responsible. The U.S. blames the Syrian regime.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/gettyimages-665350488_wide-d854a262473c36846066f0e2ddbe651157f3c6bd-s800-c15.jpg"></a>
+
+June 30, 2017 - The finding is consistent with experts' suspicions. The Organisation for the Prohibition of Chemical Weapons stopped short of saying who was responsible. The U.S. blames the Syrian regime.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/06/30/534983929/syrian-civilians-exposed-to-sarin-in-april-attack-international-watchdog-says">http://www.npr.org/sections/thetwo-way/2017/06/30/534983929/syrian-civilians-exposed-to-sarin-in-april-attack-international-watchdog-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/gettyimages-665350488_wide-d854a262473c36846066f0e2ddbe651157f3c6bd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/06/30/534906065/will-my-high-premiums-go-down-more-q-a-about-the-gop-health-plan</guid>
       <title>Will My High Premiums Go Down? More Q&amp;A About The GOP Health Plan</title>
@@ -237,21 +252,6 @@ June 29, 2017 - Encouraged by their doctors, many people in recent years have ta
 <a href="http://www.npr.org/2017/06/28/534765000/lawmakers-warn-senate-health-care-bill-could-worsen-opioid-crisis">http://www.npr.org/2017/06/28/534765000/lawmakers-warn-senate-health-care-bill-could-worsen-opioid-crisis</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>279</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_55_percent_of_americans_disapprove_of_senate_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=534764993&amp;t=progseg&amp;e=534685874&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>55 Percent Of Americans Disapprove Of Senate Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/28/534764993/55-percent-of-americans-disapprove-of-senate-health-care-bill</link>
-      <description>June 28, 2017 - A new NPR-PBS NewsHour-Marist poll shows President Trump&#39;s approval ratings below 40 percent and approval of the GOP health care proposal in the teens. This toxic environment makes it even tougher for Republicans to forge a deal to meet their twin goals of repealing the Affordable Care Act and making affordable care more accessible.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_55_percent_of_americans_disapprove_of_senate_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=534764993&amp;t=progseg&amp;e=534685874&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - A new NPR-PBS NewsHour-Marist poll shows President Trump's approval ratings below 40 percent and approval of the GOP health care proposal in the teens. This toxic environment makes it even tougher for Republicans to forge a deal to meet their twin goals of repealing the Affordable Care Act and making affordable care more accessible.
-
-<a href="http://www.npr.org/2017/06/28/534764993/55-percent-of-americans-disapprove-of-senate-health-care-bill">http://www.npr.org/2017/06/28/534764993/55-percent-of-americans-disapprove-of-senate-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

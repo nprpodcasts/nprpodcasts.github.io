@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 12:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 16:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 12:00:19 +0000</pubDate>
+    <pubDate>Fri, 30 Jun 2017 16:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</guid>
+      <title>Meet The Indiana Jones Of Ancient Ales And Extreme Beverages</title>
+      <link>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</link>
+      <description>June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old – and then re-creates them. His new book explores these brews and their cultural value.</description>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-0653343e7304fd5b14ef9fdae8c50fd533f378e3-s800-c15.jpg"></a>
+
+June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old – and then re-creates them. His new book explores these brews and their cultural value.
+
+<a href="http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages">http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-0653343e7304fd5b14ef9fdae8c50fd533f378e3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_pesticides_are_harming_bees_but_not_everywhere_major_new_study_shows.mp3?orgId=1&amp;topicId=1024&amp;d=146&amp;p=3&amp;story=534852611&amp;t=progseg&amp;e=534969807&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Pesticides Are Harming Bees — But Not Everywhere, Major New Study Shows</title>
@@ -241,21 +256,6 @@ June 27, 2017 - The Senate Republicans' plan to overhaul the Affordable Care Act
 <a href="http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me">http://www.npr.org/sections/health-shots/2017/06/27/534576392/q-a-what-does-the-senate-health-bill-mean-for-me</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/insurance-questions_wide-0080fcc8b660c18e2e659c41eab52152dfba9758-s3000-c15.jpg"></itunes:image>
       <itunes:duration>308</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_center_for_public_integrity_uncovers_safety_hazards_at_government_nuclear_labs.mp3?orgId=1&amp;topicId=1007&amp;d=299&amp;p=2&amp;story=534597167&amp;t=progseg&amp;e=534535603&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Center For Public Integrity Uncovers Safety Hazards At Government Nuclear Labs</title>
-      <link>http://www.npr.org/2017/06/27/534597167/center-for-public-integrity-uncovers-safety-hazards-at-government-nuclear-labs</link>
-      <description>June 27, 2017 - Government labs that house nuclear weapons are rife with workplace safety hazards, a year-long investigation by the Center for Public Integrity finds. NPR&#39;s Ari Shapiro talks with Jeff Smith, lead editor of the series &#34;Nuclear Negligence.&#34;</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170627_atc_center_for_public_integrity_uncovers_safety_hazards_at_government_nuclear_labs.mp3?orgId=1&amp;topicId=1007&amp;d=299&amp;p=2&amp;story=534597167&amp;t=progseg&amp;e=534535603&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 27, 2017 - Government labs that house nuclear weapons are rife with workplace safety hazards, a year-long investigation by the Center for Public Integrity finds. NPR's Ari Shapiro talks with Jeff Smith, lead editor of the series "Nuclear Negligence."
-
-<a href="http://www.npr.org/2017/06/27/534597167/center-for-public-integrity-uncovers-safety-hazards-at-government-nuclear-labs">http://www.npr.org/2017/06/27/534597167/center-for-public-integrity-uncovers-safety-hazards-at-government-nuclear-labs</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>299</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
