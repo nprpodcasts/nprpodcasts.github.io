@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 15:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 01 Jul 2017 00:00:30 +0000</pubDate>
+    <pubDate>Sat, 01 Jul 2017 15:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</guid>
+      <title>A Year Later, Pokémon Go Has Leveled Out And Left Fans Wanting More </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</link>
+      <description>July 1, 2017 - The nostalgia-fueled app caught the world&#39;s attention — sending people in search of the game&#39;s monsters. While millions still play, augmented-reality designers are thinking about the next big thing.</description>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/pokemongo_wide-7d2ebf514610f650b620b55cd80848a1cee7bd51-s800-c15.jpg"></a>
+
+July 1, 2017 - The nostalgia-fueled app caught the world's attention — sending people in search of the game's monsters. While millions still play, augmented-reality designers are thinking about the next big thing.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more">http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/pokemongo_wide-7d2ebf514610f650b620b55cd80848a1cee7bd51-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_germany_votes_to_fine_social_media_companies_for_failing_to_remove_hate_speech.mp3?orgId=1&amp;topicId=1124&amp;d=131&amp;p=2&amp;story=535059262&amp;t=progseg&amp;e=534978067&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Germany Votes To Fine Social Media Companies For Failing To Remove Hate Speech</title>
@@ -235,21 +250,6 @@ June 27, 2017 - Some have called the previously seen malware "Petya," though oth
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports">http://www.npr.org/sections/thetwo-way/2017/06/27/534560169/large-cyberattack-hits-ukraine-snarling-electric-grids-and-airports</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/rts18u5k-edit_wide-e79e84c7eef3f805695bdd7adab01808c0edf00c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/06/a2170627-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Driving The Future: How Smart Can A Smart Car Be?</title>
-      <link>http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry</link>
-      <description>June 27, 2017 - Car owners form special relationships with their vehicles — they give them names, customize them and get to know their intricacies and quirks. But what if the car could do the same for the driver?</description>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/06/a2170627-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 27, 2017 - Car owners form special relationships with their vehicles — they give them names, customize them and get to know their intricacies and quirks. But what if the car could do the same for the driver?
-
-<a href="http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry">http://the1a.org/shows/2017-06-27/technology-and-the-auto-industry</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>1073</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

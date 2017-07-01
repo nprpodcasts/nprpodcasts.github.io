@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 22:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 15:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 30 Jun 2017 22:00:25 +0000</pubDate>
+    <pubDate>Sat, 01 Jul 2017 15:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>To Solve Gruesome Desert Mysteries, Scientists Become Body Collectors</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</link>
+      <description>July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren&#39;t criminal masterminds. They&#39;re scientists. And out here, the usual rules of human decay don&#39;t apply.</description>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s800-c15.jpg"></a>
+
+July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren't criminal masterminds. They're scientists. And out here, the usual rules of human decay don't apply.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors">http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>321</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/535047038/wildlife-activists-plan-lawsuits-to-protect-yellowstone-grizzlies</guid>
       <title>Wildlife Activists Plan Lawsuits To Protect Yellowstone Grizzlies</title>
@@ -45,12 +62,12 @@ June 30, 2017 - The Northern Cheyenne Tribe and The Humane Society are among the
       <description>June 30, 2017 - NASA says a partial eclipse will be visible throughout the country. But within a &#34;path of totality&#34; from Oregon to South Carolina, an eclipse industry is booming.</description>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-7ef0a5e7c43c6c68ad912e34b5337a2b7694d1bf-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-62c2827b623ec783d111a4dd9e7bb876cb541976-s800-c15.jpg"></a>
 
 June 30, 2017 - NASA says a partial eclipse will be visible throughout the country. But within a "path of totality" from Oregon to South Carolina, an eclipse industry is booming.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it">http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-7ef0a5e7c43c6c68ad912e34b5337a2b7694d1bf-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-62c2827b623ec783d111a4dd9e7bb876cb541976-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -122,12 +139,12 @@ June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that 
       <description>June 29, 2017 - In medieval times, they called it &#34;the black death.&#34; It&#39;s still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.</description>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/flea3_wide-29160f6542e4f85bee8a4b37f89321eeffb36143-s800-c15.jpg"></a>
 
 June 29, 2017 - In medieval times, they called it "the black death." It's still around, routinely cropping up in the U.S. This time, the New Mexico Department of Health reports three cases.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico">http://www.npr.org/sections/goatsandsoda/2017/06/29/534863486/the-bubonic-plague-is-back-this-time-in-new-mexico</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/flea3_wide-5eb0fc0b58d646a42d75af1aff1a1776d240d41e-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/flea3_wide-29160f6542e4f85bee8a4b37f89321eeffb36143-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ June 28, 2017 - An analysis examining mortality among millions of Americans conc
 <a href="http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes">http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_child_care_centers_dont_hire_the_most_qualified_teachers_study_shows.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=534671504&amp;t=progseg&amp;e=534671368&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Child Care Centers Often Don&#39;t Hire The Most Qualified Teachers, Study Shows</title>
-      <link>http://www.npr.org/2017/06/28/534671504/child-care-centers-often-dont-hire-the-most-qualified-teachers-study-shows</link>
-      <description>June 28, 2017 - Child care centers don&#39;t necessarily hire the most qualified teachers. A new study shows that child care centers pick applicants who are in the middle of the pack.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_child_care_centers_dont_hire_the_most_qualified_teachers_study_shows.mp3?orgId=1&amp;topicId=1007&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=534671504&amp;t=progseg&amp;e=534671368&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-505936861_wide-8eba729de69de3fddcfe5f65ee484a0644fcf580-s800-c15.jpg"></a>
-
-June 28, 2017 - Child care centers don't necessarily hire the most qualified teachers. A new study shows that child care centers pick applicants who are in the middle of the pack.
-
-<a href="http://www.npr.org/2017/06/28/534671504/child-care-centers-often-dont-hire-the-most-qualified-teachers-study-shows">http://www.npr.org/2017/06/28/534671504/child-care-centers-often-dont-hire-the-most-qualified-teachers-study-shows</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-505936861_wide-8eba729de69de3fddcfe5f65ee484a0644fcf580-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>206</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
