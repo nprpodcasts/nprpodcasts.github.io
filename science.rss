@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2017 15:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 13:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 01 Jul 2017 15:00:12 +0000</pubDate>
+    <pubDate>Sun, 02 Jul 2017 13:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</guid>
+      <title>&#39;One Of A Kind&#39; Collection Of Animal Eyeballs Aids Research On Vision Problems</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</link>
+      <description>July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.</description>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s800-c15.jpg"></a>
+
+July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems">http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>To Solve Gruesome Desert Mysteries, Scientists Become Body Collectors</title>
@@ -237,23 +252,6 @@ June 28, 2017 - After years of failed attempts at cleaning up the dead zones, th
 <a href="http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks">http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>201</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.S. Air Pollution Still Kills Thousands Every Year, Study Concludes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</link>
-      <description>June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_us_air_pollution_still_kills_thousands_every_year_study_concludes.mp3?orgId=1&amp;topicId=1128&amp;d=247&amp;p=2&amp;story=534594373&amp;t=progseg&amp;e=534685874&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s800-c15.jpg"></a>
-
-June 28, 2017 - An analysis examining mortality among millions of Americans concludes that a tiny decrease in levels of soot could save about 12,000 lives each year.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes">http://www.npr.org/sections/health-shots/2017/06/28/534594373/u-s-air-pollution-still-kills-thousands-every-year-study-concludes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/Smoke-steam-stacks_wide-5c58967ebc77bc6e7365391cd74d4ea501cd80f7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>247</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
