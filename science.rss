@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2017 13:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 18:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 02 Jul 2017 13:00:33 +0000</pubDate>
+    <pubDate>Sun, 02 Jul 2017 18:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</guid>
+      <guid>http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</guid>
+      <title>Will Giving The Ganges Human Rights Protect The Polluted River?</title>
+      <link>http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</link>
+      <description>July 2, 2017 - A court in India declared its holiest river is entitled to the same rights as a person that would include the right to sue polluters. Still, many think the divine waters are unimpacted by pollution.</description>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-1d47a0edb160a70ed89818e6b706e91bb5df25bd-s800-c15.jpg"></a>
+
+July 2, 2017 - A court in India declared its holiest river is entitled to the same rights as a person that would include the right to sue polluters. Still, many think the divine waters are unimpacted by pollution.
+
+<a href="http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river">http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-1d47a0edb160a70ed89818e6b706e91bb5df25bd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_one_of_a_kind_collection_of_animal_eyeballs_aids_research_on_vision_problems.mp3?orgId=1&amp;topicId=1128&amp;d=238&amp;p=10&amp;story=534950252&amp;t=progseg&amp;e=535240691&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;One Of A Kind&#39; Collection Of Animal Eyeballs Aids Research On Vision Problems</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</link>
       <description>July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.</description>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_one_of_a_kind_collection_of_animal_eyeballs_aids_research_on_vision_problems.mp3?orgId=1&amp;topicId=1128&amp;d=238&amp;p=10&amp;story=534950252&amp;t=progseg&amp;e=535240691&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come 
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems">http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>238</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ June 28, 2017 - After years of failed attempts at cleaning up the dead zones, th
 <a href="http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success">http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s3000-c15.jpg"></itunes:image>
       <itunes:duration>452</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_new_island_surfaces_along_coast_of_north_carolinas_outer_banks.mp3?orgId=1&amp;topicId=1091&amp;d=201&amp;p=2&amp;story=534764979&amp;t=progseg&amp;e=534685874&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Island Surfaces Along Coast Of North Carolina&#39;s Outer Banks</title>
-      <link>http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks</link>
-      <description>June 28, 2017 - There&#39;s a new island off the coast of North Carolina. Dave Hallac, Superintendent of Cape Hatteras National Seashore, tells NPR&#39;s Robert Siegel about it.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_new_island_surfaces_along_coast_of_north_carolinas_outer_banks.mp3?orgId=1&amp;topicId=1091&amp;d=201&amp;p=2&amp;story=534764979&amp;t=progseg&amp;e=534685874&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - There's a new island off the coast of North Carolina. Dave Hallac, Superintendent of Cape Hatteras National Seashore, tells NPR's Robert Siegel about it.
-
-<a href="http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks">http://www.npr.org/2017/06/28/534764979/new-island-surfaces-along-coast-of-north-carolinas-outer-banks</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>201</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
