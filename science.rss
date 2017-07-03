@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2017 18:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 02 Jul 2017 18:00:18 +0000</pubDate>
+    <pubDate>Mon, 03 Jul 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,52 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</guid>
+      <guid>http://www.npr.org/2017/07/03/535271794/your-body-is-a-slow-motion-firework</guid>
+      <title>You&#39;re A Firework (Scientifically Speaking)</title>
+      <link>http://www.npr.org/2017/07/03/535271794/your-body-is-a-slow-motion-firework</link>
+      <description>July 3, 2017 - You have more in common with pyrotechnics that you might think. The same basic process that makes fireworks explode is happening inside your cells (in a slow-motion, controlled way) right now.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/02/youreafirework_wide-716eabcf207d822f8efe9fdf2097529536e251dc-s800-c15.jpg"></a>
+
+July 3, 2017 - You have more in common with pyrotechnics that you might think. The same basic process that makes fireworks explode is happening inside your cells (in a slow-motion, controlled way) right now.
+
+<a href="http://www.npr.org/2017/07/03/535271794/your-body-is-a-slow-motion-firework">http://www.npr.org/2017/07/03/535271794/your-body-is-a-slow-motion-firework</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/02/youreafirework_wide-716eabcf207d822f8efe9fdf2097529536e251dc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Want To Teach Your Kids Self-Control? Ask A Cameroonian Farmer</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</link>
+      <description>July 3, 2017 - The &#34;marshmallow test&#34; is a famous experiment for studying kids&#39; self-control. For the first time, a psychologist gave the test to kids outside Western culture. And they crushed it.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s800-c15.jpg"></a>
+
+July 3, 2017 - The "marshmallow test" is a famous experiment for studying kids' self-control. For the first time, a psychologist gave the test to kids outside Western culture. And they crushed it.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer">http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>162</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170702_atc_will_giving_the_ganges_human_rights_protect_the_polluted_river.mp3?orgId=1&amp;topicId=1125&amp;d=296&amp;p=2&amp;story=535017334&amp;t=progseg&amp;e=535275462&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Will Giving The Ganges Human Rights Protect The Polluted River?</title>
-      <link>http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</link>
+      <link>http://www.npr.org/sections/parallels/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</link>
       <description>July 2, 2017 - A court in India declared its holiest river is entitled to the same rights as a person that would include the right to sue polluters. Still, many think the divine waters are unimpacted by pollution.</description>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170702_atc_will_giving_the_ganges_human_rights_protect_the_polluted_river.mp3?orgId=1&amp;topicId=1125&amp;d=296&amp;p=2&amp;story=535017334&amp;t=progseg&amp;e=535275462&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-1d47a0edb160a70ed89818e6b706e91bb5df25bd-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-7b708307828cd0b408172a65a3257dd25a593a12-s800-c15.jpg"></a>
 
 July 2, 2017 - A court in India declared its holiest river is entitled to the same rights as a person that would include the right to sue polluters. Still, many think the divine waters are unimpacted by pollution.
 
-<a href="http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river">http://www.npr.org/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-1d47a0edb160a70ed89818e6b706e91bb5df25bd-s3000-c15.jpg"></itunes:image>
+<a href="http://www.npr.org/sections/parallels/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river">http://www.npr.org/sections/parallels/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-7b708307828cd0b408172a65a3257dd25a593a12-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>296</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,38 +256,6 @@ June 29, 2017 - The bacterium C. difficile causes one of the most common infecti
 <a href="http://www.npr.org/2017/06/29/534835129/sea-pickles-wash-ashore-in-pacific-northwest">http://www.npr.org/2017/06/29/534835129/sea-pickles-wash-ashore-in-pacific-northwest</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>138</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</guid>
-      <title>Boaty McBoatface Makes Its Triumphant Return, Hauling &#39;Unprecedented Data&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</link>
-      <description>June 28, 2017 - The curiously named submersible wrapped up its inaugural voyage last week. And, as the British Antarctic Survey noted Wednesday, Boaty acquitted itself well on the seven-week expedition.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/28/gettyimages-615133514_wide-0acb2d367f9d85ce416934054867c362850ec91e-s800-c15.jpg"></a>
-
-June 28, 2017 - The curiously named submersible wrapped up its inaugural voyage last week. And, as the British Antarctic Survey noted Wednesday, Boaty acquitted itself well on the seven-week expedition.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data">http://www.npr.org/sections/thetwo-way/2017/06/28/534744971/boaty-mcboatface-makes-its-triumphant-return-hauling-unprecedented-data</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-615133514_wide-0acb2d367f9d85ce416934054867c362850ec91e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=452&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Chesapeake Bay Dead Zones Are Fading, But Proposed EPA Cuts Threaten Success</title>
-      <link>http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</link>
-      <description>June 28, 2017 - After years of failed attempts at cleaning up the dead zones, the Chesapeake Bay, once a national disgrace, is teeming with wildlife again. But success is fragile, and it might be even more so now.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170628_atc_chesapeake_bay_dead_zones_finally_fading_but_proposed_epa_cuts_threaten_success.mp3?orgId=1&amp;topicId=1025&amp;d=452&amp;p=2&amp;story=534539755&amp;t=progseg&amp;e=534685874&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s800-c15.jpg"></a>
-
-June 28, 2017 - After years of failed attempts at cleaning up the dead zones, the Chesapeake Bay, once a national disgrace, is teeming with wildlife again. But success is fragile, and it might be even more so now.
-
-<a href="http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success">http://www.npr.org/2017/06/28/534539755/chesapeake-bay-dead-zones-are-fading-but-proposed-epa-cuts-threaten-success</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/27/ssd_bay_img_2868-edit_wide-0b766c8f9de337894fa5c6c1a28e3e9f7ce65c24-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>452</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

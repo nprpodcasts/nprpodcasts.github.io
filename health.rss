@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2017 18:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 14:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 02 Jul 2017 18:00:20 +0000</pubDate>
+    <pubDate>Mon, 03 Jul 2017 14:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,37 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_health_care_questions_enter_virginia_governors_race.mp3?orgId=1&amp;topicId=1003&amp;d=245&amp;p=10&amp;story=535240741&amp;t=progseg&amp;e=535240691&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Health Care Questions Enter Virginia Governor&#39;s Race</title>
-      <link>http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race</link>
-      <description>July 2, 2017 - Virginia Republican gubernatorial nominee Ed Gillespie is getting questions about health care on the campaign trail. His Democratic rival, Ralph Northam, is also making it a campaign issue.</description>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_health_care_questions_enter_virginia_governors_race.mp3?orgId=1&amp;topicId=1003&amp;d=245&amp;p=10&amp;story=535240741&amp;t=progseg&amp;e=535240691&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Want To Teach Your Kids Self-Control? Ask A Cameroonian Farmer</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</link>
+      <description>July 3, 2017 - The &#34;marshmallow test&#34; is a famous experiment for studying kids&#39; self-control. For the first time, a psychologist gave the test to kids outside Western culture. And they crushed it.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 2, 2017 - Virginia Republican gubernatorial nominee Ed Gillespie is getting questions about health care on the campaign trail. His Democratic rival, Ralph Northam, is also making it a campaign issue.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race">http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>245</itunes:duration>
+July 3, 2017 - The "marshmallow test" is a famous experiment for studying kids' self-control. For the first time, a psychologist gave the test to kids outside Western culture. And they crushed it.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer">http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>162</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_without_medical_support_diy_detox_often_fails.mp3?orgId=432&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=533793801&amp;t=progseg&amp;e=535325003&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Without Medical Support, DIY Detox Often Fails</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/03/533793801/without-medical-support-diy-detox-often-fails</link>
+      <description>July 3, 2017 - Treatment for opioid addiction can be expensive and difficult to coordinate. That might make some people tempted to think they can overcome the addiction on their own. This rarely works.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_without_medical_support_diy_detox_often_fails.mp3?orgId=432&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=533793801&amp;t=progseg&amp;e=535325003&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/detox-1_wide-d5134a1f9c219075458f3d7d5d0dc9ef3d4f7787-s800-c15.jpg"></a>
+
+July 3, 2017 - Treatment for opioid addiction can be expensive and difficult to coordinate. That might make some people tempted to think they can overcome the addiction on their own. This rarely works.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/03/533793801/without-medical-support-diy-detox-often-fails">http://www.npr.org/sections/health-shots/2017/07/03/533793801/without-medical-support-diy-detox-often-fails</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/detox-1_wide-d5134a1f9c219075458f3d7d5d0dc9ef3d4f7787-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>231</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -51,6 +70,21 @@
 <a href="http://www.npr.org/2017/07/02/535240699/in-fighting-abuse-by-members-of-catholic-church-clergy-victim-sees-resistance-to">http://www.npr.org/2017/07/02/535240699/in-fighting-abuse-by-members-of-catholic-church-clergy-victim-sees-resistance-to</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>265</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_health_care_questions_enter_virginia_governors_race.mp3?orgId=1&amp;topicId=1003&amp;d=245&amp;p=10&amp;story=535240741&amp;t=progseg&amp;e=535240691&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Health Care Questions Enter Virginia Governor&#39;s Race</title>
+      <link>http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race</link>
+      <description>July 2, 2017 - Virginia Republican gubernatorial nominee Ed Gillespie is getting questions about health care on the campaign trail. His Democratic rival, Ralph Northam, is also making it a campaign issue.</description>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_health_care_questions_enter_virginia_governors_race.mp3?orgId=1&amp;topicId=1003&amp;d=245&amp;p=10&amp;story=535240741&amp;t=progseg&amp;e=535240691&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 2, 2017 - Virginia Republican gubernatorial nominee Ed Gillespie is getting questions about health care on the campaign trail. His Democratic rival, Ralph Northam, is also making it a campaign issue.
+
+<a href="http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race">http://www.npr.org/2017/07/02/535240741/health-care-questions-enter-virginia-governor-s-race</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -92,12 +126,12 @@ July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come 
       <description>July 2, 2017 - The head of the Red Cross orthopedic program wasn&#39;t sure a basketball team was a good idea. The players proved him wrong.</description>
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/05/15/doc-1_wide-ede22424816a8cb4766e33fdf219b24c7e4fe0a4-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/01/v-p-af-e-02402_wide-6c34b45867e4eee389ec14815527748fb6814118-s800-c15.jpg"></a>
 
 July 2, 2017 - The head of the Red Cross orthopedic program wasn't sure a basketball team was a good idea. The players proved him wrong.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/02/528498720/hoop-dreams-wheelchair-basketball-is-changing-lives-in-afghanistan">http://www.npr.org/sections/goatsandsoda/2017/07/02/528498720/hoop-dreams-wheelchair-basketball-is-changing-lives-in-afghanistan</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/05/15/doc-1_wide-ede22424816a8cb4766e33fdf219b24c7e4fe0a4-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/01/v-p-af-e-02402_wide-6c34b45867e4eee389ec14815527748fb6814118-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -226,38 +260,6 @@ June 30, 2017 - Current law requires all health insurance sold on the exchanges 
 <a href="http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill">http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_babies_born_to_moms_on_opioids_more_a_social_concern_than_a_chemical_one_doctor_says.mp3?orgId=1&amp;topicId=1128&amp;d=265&amp;p=2&amp;story=534911289&amp;t=progseg&amp;e=534978067&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>For Newborns Exposed To Opioids, Health Issues May Be The Least Of Their Problems</title>
-      <link>http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems</link>
-      <description>June 30, 2017 - Dr. Joshua Sharfstein says worry less about the short-term withdrawal symptoms of babies exposed to opioids in the womb, and much more about the lives and mothers they go home to.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_babies_born_to_moms_on_opioids_more_a_social_concern_than_a_chemical_one_doctor_says.mp3?orgId=1&amp;topicId=1128&amp;d=265&amp;p=2&amp;story=534911289&amp;t=progseg&amp;e=534978067&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/baby-hand_wide-52938e4acf77a59d15e7639b7aa2890acb4bad49-s800-c15.jpg"></a>
-
-June 30, 2017 - Dr. Joshua Sharfstein says worry less about the short-term withdrawal symptoms of babies exposed to opioids in the womb, and much more about the lives and mothers they go home to.
-
-<a href="http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems">http://www.npr.org/sections/health-shots/2017/06/30/534911289/for-newborns-exposed-to-opioids-health-issues-may-be-the-least-of-their-problems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/baby-hand_wide-52938e4acf77a59d15e7639b7aa2890acb4bad49-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>265</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</guid>
-      <title>How To Stop The World&#39;s Worst Cholera Outbreak</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</link>
-      <description>June 30, 2017 - There are more than 200,000 cases in Yemen, a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/gettyimages-508199736_wide-09b353a4d24c948569abfa993f689f20d5188203-s800-c15.jpg"></a>
-
-June 30, 2017 - There are more than 200,000 cases in Yemen, a war-ravaged country whose health system is collapsing. We asked specialists what needs to happen to bring the disease under control.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak">http://www.npr.org/sections/goatsandsoda/2017/06/30/534873405/how-to-stop-the-worlds-worst-cholera-outbreak</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/gettyimages-508199736_wide-09b353a4d24c948569abfa993f689f20d5188203-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
