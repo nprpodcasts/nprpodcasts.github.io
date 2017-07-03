@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2017 14:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 21:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Jul 2017 14:00:20 +0000</pubDate>
+    <pubDate>Mon, 03 Jul 2017 21:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</guid>
+      <title>In Reno, Nev., Homegrown Startups Fuel Tech Transformation</title>
+      <link>http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</link>
+      <description>July 3, 2017 - Reno, Nev., is enjoying a tech boom. Giants like Apple, Google and Tesla are all there. The transformation is also being driven by some homegrown start-ups, but some worry Reno will become unaffordable.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 3, 2017 - Reno, Nev., is enjoying a tech boom. Giants like Apple, Google and Tesla are all there. The transformation is also being driven by some homegrown start-ups, but some worry Reno will become unaffordable.
+
+<a href="http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation">http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry</guid>
+      <title>A Remote Chinese Province Uses Its Climate To Grow A Big-Data Industry</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry</link>
+      <description>July 3, 2017 - Southwest China&#39;s Guizhou province is one of the country&#39;s poorest, most remote regions. But Guizhou has some unique advantages, which it is trying to use to transform itself into a big-data hub.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/guiyang-china-expo_wide-a6fda3dcaf44d0f5719711e2842de7327390ebd6-s800-c15.jpg"></a>
+
+July 3, 2017 - Southwest China's Guizhou province is one of the country's poorest, most remote regions. But Guizhou has some unique advantages, which it is trying to use to transform itself into a big-data hub.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry">http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/guiyang-china-expo_wide-a6fda3dcaf44d0f5719711e2842de7327390ebd6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</guid>
       <title>Tesla&#39;s Long-Awaited, Lower-Priced Model 3 To Arrive Friday</title>
@@ -61,12 +89,12 @@ July 3, 2017 - The journalist who thought up this game says she saw the need bef
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_video_japans_purikura_photo_booths_offer_snapchat-like_filters.mp3?orgId=1&amp;topicId=1125&amp;d=109&amp;p=3&amp;story=526005241&amp;t=progseg&amp;e=535325003&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-b0a321781c9d0fce96599b38a5ae4515f9c56016-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-cc7d83275659aee0e2de3c600c59e05cc00a2f80-s800-c15.jpg"></a>
 
 July 3, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out new experiences in East Asia. In Tokyo, she checks out Japanese purikura photo booths, which produce selfies to decorate and print out.
 
 <a href="http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters">http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-b0a321781c9d0fce96599b38a5ae4515f9c56016-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-cc7d83275659aee0e2de3c600c59e05cc00a2f80-s3000-c15.jpg"></itunes:image>
       <itunes:duration>109</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -222,36 +250,6 @@ June 28, 2017 - An updated version of the malware has the ability to worm throug
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software">http://www.npr.org/sections/thetwo-way/2017/06/28/534679950/petya-ransomware-hits-at-least-65-countries-microsoft-traces-it-to-tax-software</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/28/gettyimages-802632326_wide-10bbce15ef8bb959d589528200ec9814653d7989-s3000-c15.jpg"></itunes:image>
       <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Ransomware Attack Spreads From Ukraine</title>
-      <link>http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</link>
-      <description>June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_new_ransomware_attack_spreads_from_ukraine.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=534671413&amp;t=progseg&amp;e=534671368&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - A cyberattack spread from Ukraine to Europe and around the world Tuesday. Cybersecurity expert Matt Tait of Capital Alpha Security tells Rachel Martin about who is vulnerable.
-
-<a href="http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine">http://www.npr.org/2017/06/28/534671413/new-ransomware-attack-spreads-from-ukraine</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_european_union_fines_google_27_billion.mp3?orgId=1&amp;topicId=1006&amp;d=230&amp;p=3&amp;story=534671469&amp;t=progseg&amp;e=534671368&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>European Union Fines Google $2.7 Billion</title>
-      <link>http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</link>
-      <description>June 28, 2017 - The European Union has fined Google $2.7 billion over what it calls anti-competitive practices. Steve Inskeep talks with Adrianne Jeffries of The Outline.&#xA;&#xA; - http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</description>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170628_me_european_union_fines_google_27_billion.mp3?orgId=1&amp;topicId=1006&amp;d=230&amp;p=3&amp;story=534671469&amp;t=progseg&amp;e=534671368&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 28, 2017 - The European Union has fined Google $2.7 billion over what it calls anti-competitive practices. Steve Inskeep talks with Adrianne Jeffries of The Outline.
-
-<a href="http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion">http://www.npr.org/2017/06/28/534671469/european-union-fines-google-2-7-billion</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
