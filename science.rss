@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2017 16:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 18:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Jul 2017 16:00:08 +0000</pubDate>
+    <pubDate>Mon, 03 Jul 2017 18:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</guid>
+      <title>Stephen Hawking: Trump Pushing Earth&#39;s Climate &#39;Over The Brink&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</link>
+      <description>July 3, 2017 - The renowned physicist and cosmologist says the U.S. pulling out of the Paris climate change accord could turn our planet into another Venus.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/ap_17065490488623_wide-5d6132e228272e2505c7ad005ebbef2f27f7ac6b-s800-c15.jpg"></a>
+
+July 3, 2017 - The renowned physicist and cosmologist says the U.S. pulling out of the Paris climate change accord could turn our planet into another Venus.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink">http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/ap_17065490488623_wide-5d6132e228272e2505c7ad005ebbef2f27f7ac6b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/03/535271794/your-body-is-a-slow-motion-firework</guid>
       <title>You&#39;re A Firework (Scientifically Speaking)</title>
@@ -241,21 +256,6 @@ June 29, 2017 - The bacterium C. difficile causes one of the most common infecti
 
 <a href="http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics">http://www.npr.org/sections/health-shots/2017/06/29/534870581/c-diff-infections-are-falling-thanks-to-better-cleaning-and-fewer-antibiotics</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/scisource_2j3515_wide-5f3b60ae0256f478fb8c52ed3afc02dd22c1d0bd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_sea_pickles_wash_ashore_in_pacific_northwest.mp3?orgId=1&amp;topicId=1091&amp;d=138&amp;p=3&amp;story=534835129&amp;t=progseg&amp;e=534835032&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Sea Pickles&#39; Wash Ashore In Pacific Northwest</title>
-      <link>http://www.npr.org/2017/06/29/534835129/sea-pickles-wash-ashore-in-pacific-northwest</link>
-      <description>June 29, 2017 - Unicorns of the sea or sea pickles. Whatever you call them, pyrosomes are suddenly making life hard on the Pacific coast of the U.S. and Canada. Rachel Martin and Steve Inskeep explain.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_sea_pickles_wash_ashore_in_pacific_northwest.mp3?orgId=1&amp;topicId=1091&amp;d=138&amp;p=3&amp;story=534835129&amp;t=progseg&amp;e=534835032&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - Unicorns of the sea or sea pickles. Whatever you call them, pyrosomes are suddenly making life hard on the Pacific coast of the U.S. and Canada. Rachel Martin and Steve Inskeep explain.
-
-<a href="http://www.npr.org/2017/06/29/534835129/sea-pickles-wash-ashore-in-pacific-northwest">http://www.npr.org/2017/06/29/534835129/sea-pickles-wash-ashore-in-pacific-northwest</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>138</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
