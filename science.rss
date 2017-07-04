@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 02:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 15:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 02:00:20 +0000</pubDate>
+    <pubDate>Tue, 04 Jul 2017 15:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1004&amp;d=225&amp;p=2&amp;story=535401305&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Russia&#39;s Siberian Silicon Valley, Business Is Good But Risks Can Be High</title>
+      <link>http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high</link>
+      <description>July 4, 2017 - The Soviet Union built research institutes in Siberia as innovation centers during the Cold War. Since then, there&#39;s been a brain drain. Tech innovators remain, but some have faced legal challenges.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1004&amp;d=225&amp;p=2&amp;story=535401305&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/img_2320_wide-2cd75f4906a1907c7b6d36424741c9e9b0d7bd32-s800-c15.jpg"></a>
+
+July 4, 2017 - The Soviet Union built research institutes in Siberia as innovation centers during the Cold War. Since then, there's been a brain drain. Tech innovators remain, but some have faced legal challenges.
+
+<a href="http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high">http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/img_2320_wide-2cd75f4906a1907c7b6d36424741c9e9b0d7bd32-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Research Shows Birth Order Really Does Matter</title>
+      <link>http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter</link>
+      <description>July 4, 2017 - Compared to older siblings, second-born boys are more likely to go to prison, get suspended in school and enter juvenile delinquency. Why? Parents of first-borns are more invested in their upbringing.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 4, 2017 - Compared to older siblings, second-born boys are more likely to go to prison, get suspended in school and enter juvenile delinquency. Why? Parents of first-borns are more invested in their upbringing.
+
+<a href="http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter">http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>206</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</guid>
       <title>Natural Disasters May Widen Income Gap, Report Says</title>
@@ -226,38 +258,6 @@ June 30, 2017 - Patrick McGovern searches for and studies the residues of fermen
 
 <a href="http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages">http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-67a86fc7c6314211e6a12a6260fd110f0651209f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_pesticides_are_harming_bees_but_not_everywhere_major_new_study_shows.mp3?orgId=1&amp;topicId=1024&amp;d=146&amp;p=3&amp;story=534852611&amp;t=progseg&amp;e=534969807&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Pesticides Are Harming Bees — But Not Everywhere, Major New Study Shows</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</link>
-      <description>June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170630_me_pesticides_are_harming_bees_but_not_everywhere_major_new_study_shows.mp3?orgId=1&amp;topicId=1024&amp;d=146&amp;p=3&amp;story=534852611&amp;t=progseg&amp;e=534969807&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s800-c15.jpg"></a>
-
-June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows">http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/lucyhulmes_osmiabicornis-rufa_dsc_0165_wide-0ba1a48b7df8c35be5b5302ac4e70fd93019b9d1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>146</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_maryland_farmer_fights_to_keep_chesapeake_bay_cleanup_alive.mp3?orgId=1&amp;topicId=1025&amp;d=294&amp;p=2&amp;story=534916087&amp;t=progseg&amp;e=534839315&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Maryland Farmer Fights To Keep Chesapeake Bay Cleanup Alive</title>
-      <link>http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive</link>
-      <description>June 29, 2017 - The Chesapeake Bay cleanup depends heavily on farmers taking steps to keep runoff from entering the bay. But the Environmental Protection Agency&#39;s plan to help them do it has been controversial. NPR&#39;s Ari Shapiro talks to one Maryland farmer who changed his mind about the EPA efforts to clean up the bay.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_maryland_farmer_fights_to_keep_chesapeake_bay_cleanup_alive.mp3?orgId=1&amp;topicId=1025&amp;d=294&amp;p=2&amp;story=534916087&amp;t=progseg&amp;e=534839315&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - The Chesapeake Bay cleanup depends heavily on farmers taking steps to keep runoff from entering the bay. But the Environmental Protection Agency's plan to help them do it has been controversial. NPR's Ari Shapiro talks to one Maryland farmer who changed his mind about the EPA efforts to clean up the bay.
-
-<a href="http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive">http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>294</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
