@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2017 21:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 02:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Jul 2017 21:00:34 +0000</pubDate>
+    <pubDate>Tue, 04 Jul 2017 02:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,24 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</guid>
+      <title>Natural Disasters May Widen Income Gap, Report Says</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</link>
+      <description>July 3, 2017 - Scientific American concludes that disasters correlate to a 1-percentage-point increase in poverty in the affected areas. It also finds that the rich leave disaster-prone areas but the poor can&#39;t.</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/ap_050901029160_wide-f7a0e1d903264aabdd605115e0fa420a2efa25c7-s800-c15.jpg"></a>
+
+July 3, 2017 - Scientific American concludes that disasters correlate to a 1-percentage-point increase in poverty in the affected areas. It also finds that the rich leave disaster-prone areas but the poor can't.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says">http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/ap_050901029160_wide-f7a0e1d903264aabdd605115e0fa420a2efa25c7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_biologists_divided_over_how_to_save_endangered_pangolin.mp3?orgId=1&amp;topicId=1132&amp;d=199&amp;p=2&amp;story=535408634&amp;t=progseg&amp;e=535339707&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Biologists Divided Over How To Save Endangered Pangolin</title>
       <link>http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin</link>
       <description>July 3, 2017 - The pangolin is a tiny snake-like creature. It&#39;s in great demand for its meat and scales, and it is in danger of extinction. Biologists can&#39;t agree on whether zoos should play a role in saving it.</description>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_biologists_divided_over_how_to_save_endangered_pangolin.mp3?orgId=1&amp;topicId=1132&amp;d=199&amp;p=2&amp;story=535408634&amp;t=progseg&amp;e=535339707&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 3, 2017 - The pangolin is a tiny snake-like creature. It's in great demand for its meat and scales, and it is in danger of extinction. Biologists can't agree on whether zoos should play a role in saving it.
 
 <a href="http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin">http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>199</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_pathfinder_anniversary.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=253&amp;p=2&amp;story=535372087&amp;t=progseg&amp;e=535339707&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Another July 4th Anniversary: Pathfinder&#39;s Landing On Mars</title>
       <link>http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</link>
       <description>July 3, 2017 - In 1997, the spacecraft&#39;s mission paved the way for the more sophisticated rovers operating on the Red Planet today.&#xA;&#xA; - http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</description>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_pathfinder_anniversary.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=253&amp;p=2&amp;story=535372087&amp;t=progseg&amp;e=535339707&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/petals_wide-552e9759132c7e530cba8dabddeeae43ff3d8c76-s800-c15.jpg"></a>
 
@@ -49,21 +67,22 @@ July 3, 2017 - In 1997, the spacecraft's mission paved the way for the more soph
 
 <a href="http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars">http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/petals_wide-552e9759132c7e530cba8dabddeeae43ff3d8c76-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>253</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</guid>
       <title>How Frogs Benefited From The Dinosaurs&#39; Extinction</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</link>
-      <description>July 3, 2017 - Frogs are &#34;master survivors,&#34; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say nine in 10 frog species descended from three surviving frog lineages.</description>
+      <description>July 3, 2017 - Frogs are &#34;master survivors,&#34; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.</description>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/frog_wide-c121b300331313829e46db74edb3c9b708cb3dee-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e-s800-c15.jpg"></a>
 
-July 3, 2017 - Frogs are "master survivors," able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say nine in 10 frog species descended from three surviving frog lineages.
+July 3, 2017 - Frogs are "master survivors," able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction">http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/frog_wide-c121b300331313829e46db74edb3c9b708cb3dee-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +258,6 @@ June 29, 2017 - A huge new study conducted in 33 sites across Europe finds that 
 <a href="http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive">http://www.npr.org/2017/06/29/534916087/maryland-farmer-fights-to-keep-chesapeake-bay-cleanup-alive</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>294</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_researchers_analyze_economic_impact_of_climate_change_in_the_us.mp3?orgId=1&amp;topicId=1025&amp;d=163&amp;p=2&amp;story=534916108&amp;t=progseg&amp;e=534839315&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Researchers Analyze Economic Impact Of Climate Change In The U.S.</title>
-      <link>http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s</link>
-      <description>June 29, 2017 - A team of scientists and economists claims they&#39;ve come up with the most thorough analysis of the cost of climate change in the U.S. Most of the country will suffer economic loss in addition to higher mortality from heat waves and loss of agriculture productivity by 2100. But like all predictions far into the future, this one has a wide range of outcomes and could be overshadowed by new technology still to be invented.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_researchers_analyze_economic_impact_of_climate_change_in_the_us.mp3?orgId=1&amp;topicId=1025&amp;d=163&amp;p=2&amp;story=534916108&amp;t=progseg&amp;e=534839315&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - A team of scientists and economists claims they've come up with the most thorough analysis of the cost of climate change in the U.S. Most of the country will suffer economic loss in addition to higher mortality from heat waves and loss of agriculture productivity by 2100. But like all predictions far into the future, this one has a wide range of outcomes and could be overshadowed by new technology still to be invented.
-
-<a href="http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s">http://www.npr.org/2017/06/29/534916108/researchers-analyze-economic-impact-of-climate-change-in-the-u-s</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>163</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
