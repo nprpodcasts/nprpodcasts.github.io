@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 17:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 15:00:22 +0000</pubDate>
+    <pubDate>Tue, 04 Jul 2017 17:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -53,6 +53,21 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
 <a href="http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying">http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</guid>
+      <title>Xbox Bowling For Seniors? Visit Your Local Library</title>
+      <link>http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</link>
+      <description>July 4, 2017 - The number of older people involved in the arts programs at the Brooklyn Public Library is up more than 50 percent since last year. They want a chance to write new chapters in a place for all ages.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s800-c15.jpg"></a>
+
+July 4, 2017 - The number of older people involved in the arts programs at the Brooklyn Public Library is up more than 50 percent since last year. They want a chance to write new chapters in a place for all ages.
+
+<a href="http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library">http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +252,6 @@ June 29, 2017 - Sony says it's meeting new demand from young people who buy reco
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/29/534854280/sony-will-start-making-vinyl-records-again-in-japan-after-nearly-30-year-hiatus">http://www.npr.org/sections/thetwo-way/2017/06/29/534854280/sony-will-start-making-vinyl-records-again-in-japan-after-nearly-30-year-hiatus</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/gettyimages-803088592_wide-0e26e882ae0d88be728da67c8d4099a3093ddd32-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_china_cashless_city.mp3?orgId=1&amp;topicId=1125&amp;d=210&amp;p=3&amp;story=534846403&amp;t=progseg&amp;e=534835032&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In China, A Cashless Trend Is Taking Hold With Mobile Payments</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/06/29/534846403/in-china-a-cashless-trend-is-taking-hold-with-mobile-payments</link>
-      <description>June 29, 2017 - Consumers there are finding convenience and security in using smartphones to pay. An estimated $5.5 trillion was spent through mobile platforms in 2016, about 50 times the amount in the U.S.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/06/20170629_me_china_cashless_city.mp3?orgId=1&amp;topicId=1125&amp;d=210&amp;p=3&amp;story=534846403&amp;t=progseg&amp;e=534835032&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/29/gettyimages-609468064_wide-508fc71282b8eb3cffe4d30f9a7cb42081c32615-s800-c15.jpg"></a>
-
-June 29, 2017 - Consumers there are finding convenience and security in using smartphones to pay. An estimated $5.5 trillion was spent through mobile platforms in 2016, about 50 times the amount in the U.S.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/06/29/534846403/in-china-a-cashless-trend-is-taking-hold-with-mobile-payments">http://www.npr.org/sections/alltechconsidered/2017/06/29/534846403/in-china-a-cashless-trend-is-taking-hold-with-mobile-payments</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/gettyimages-609468064_wide-508fc71282b8eb3cffe4d30f9a7cb42081c32615-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
