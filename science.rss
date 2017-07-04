@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 15:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 16:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 15:00:25 +0000</pubDate>
+    <pubDate>Tue, 04 Jul 2017 16:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</guid>
+      <title>Scientists Are Not So Hot At Predicting Which Cancer Studies Will Succeed</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</link>
+      <description>July 4, 2017 - A scientist tested his peers&#39; ability to pick which cancer experiments would pan out. They failed more often than not, which doesn&#39;t say much for intuition or efficiency in the scientific process.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s800-c15.jpg"></a>
+
+July 4, 2017 - A scientist tested his peers' ability to pick which cancer experiments would pan out. They failed more often than not, which doesn't say much for intuition or efficiency in the scientific process.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed">http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1004&amp;d=225&amp;p=2&amp;story=535401305&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Russia&#39;s Siberian Silicon Valley, Business Is Good But Risks Can Be High</title>
@@ -243,21 +258,6 @@ June 30, 2017 - NASA says a partial eclipse will be visible throughout the count
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it">http://www.npr.org/sections/thetwo-way/2017/06/30/535048940/a-total-eclipse-will-sweep-the-u-s-in-august-and-people-are-going-nuts-for-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/usa_eclipse_map_v2_print_wide-62c2827b623ec783d111a4dd9e7bb876cb541976-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</guid>
-      <title>Meet The Indiana Jones Of Ancient Ales And Extreme Beverages</title>
-      <link>http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</link>
-      <description>June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old — and then re-creates them. His new book explores these brews and their cultural value.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-67a86fc7c6314211e6a12a6260fd110f0651209f-s800-c15.jpg"></a>
-
-June 30, 2017 - Patrick McGovern searches for and studies the residues of fermented drinks that can be thousands of years old — and then re-creates them. His new book explores these brews and their cultural value.
-
-<a href="http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages">http://www.npr.org/sections/thesalt/2017/06/30/532959384/meet-the-indiana-jones-of-ancient-ales-and-extreme-beverages</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/15/mcgovernsphinxgallery_wide-67a86fc7c6314211e6a12a6260fd110f0651209f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2017 14:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 16:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 03 Jul 2017 14:00:33 +0000</pubDate>
+    <pubDate>Tue, 04 Jul 2017 16:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</guid>
+      <title>Scientists Are Not So Hot At Predicting Which Cancer Studies Will Succeed</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</link>
+      <description>July 4, 2017 - A scientist tested his peers&#39; ability to pick which cancer experiments would pan out. They failed more often than not, which doesn&#39;t say much for intuition or efficiency in the scientific process.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s800-c15.jpg"></a>
+
+July 4, 2017 - A scientist tested his peers' ability to pick which cancer experiments would pan out. They failed more often than not, which doesn't say much for intuition or efficiency in the scientific process.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed">http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Want To Teach Your Kids Self-Control? Ask A Cameroonian Farmer</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</link>
@@ -31,12 +46,12 @@
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_want_to_teach_your_kids_self-control_ask_a_cameroonian_farmer.mp3?orgId=1&amp;topicId=1031&amp;d=162&amp;p=3&amp;story=534743719&amp;t=progseg&amp;e=535325003&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-21b991f41a9582916629240f19e679bbfdb37467-s800-c15.jpg"></a>
 
 July 3, 2017 - The "marshmallow test" is a famous experiment for studying kids' self-control. For the first time, a psychologist gave the test to kids outside Western culture. And they crushed it.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer">http://www.npr.org/sections/goatsandsoda/2017/07/03/534743719/want-to-teach-your-kids-self-control-ask-a-cameroonian-farmer</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-b015db21db9f6030cbccc03e3eae800cc362799e-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/marshmallow-test_wide-21b991f41a9582916629240f19e679bbfdb37467-s3000-c15.jpg"></itunes:image>
       <itunes:duration>162</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -110,12 +125,12 @@ July 3, 2017 - Treatment for opioid addiction can be expensive and difficult to 
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_one_of_a_kind_collection_of_animal_eyeballs_aids_research_on_vision_problems.mp3?orgId=1&amp;topicId=1128&amp;d=238&amp;p=10&amp;story=534950252&amp;t=progseg&amp;e=535240691&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-0302df5623c2b6a7ec630f47adf524559aaaec53-s800-c15.jpg"></a>
 
 July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems">http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-4fd56d4c6ea05c16f0a679922c7a7d891a24476d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-0302df5623c2b6a7ec630f47adf524559aaaec53-s3000-c15.jpg"></itunes:image>
       <itunes:duration>238</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -245,21 +260,6 @@ June 30, 2017 - Current law requires all health insurance sold on the exchanges 
 <a href="http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease">http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_gop_lawmakers_face_political_risks_in_supporting_unpopular_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=235&amp;p=2&amp;story=535059169&amp;t=progseg&amp;e=534978067&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Lawmakers Face Political Risks In Supporting Unpopular Health Care Bill</title>
-      <link>http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</link>
-      <description>June 30, 2017 - Congressional Republicans say the political risks of failing to make good on their promise to dismantle the Affordable Care Act outweigh the risks of passing an unpopular bill.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_gop_lawmakers_face_political_risks_in_supporting_unpopular_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=235&amp;p=2&amp;story=535059169&amp;t=progseg&amp;e=534978067&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 30, 2017 - Congressional Republicans say the political risks of failing to make good on their promise to dismantle the Affordable Care Act outweigh the risks of passing an unpopular bill.
-
-<a href="http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill">http://www.npr.org/2017/06/30/535059169/gop-lawmakers-face-political-risks-in-supporting-unpopular-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
