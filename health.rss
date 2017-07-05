@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 17:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 19:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 17:00:19 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 19:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</guid>
+      <title>Trump&#39;s Surgeon General Pick Built Reputation Fighting HIV And Opioids In Indiana</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</link>
+      <description>July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence to authorize syringe exchanges in the state. If confirmed, public health advocates are hopeful he&#39;ll have sway in Washington.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/ap_17180755799555_wide-6a25326a4f62aa747767b484977b88957e4a4785-s800-c15.jpg"></a>
+
+July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence to authorize syringe exchanges in the state. If confirmed, public health advocates are hopeful he'll have sway in Washington.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic">http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_17180755799555_wide-6a25326a4f62aa747767b484977b88957e4a4785-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</guid>
+      <title>In A Conservative Corner Of California, A Push To Preserve Obamacare</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</link>
+      <description>July 5, 2017 - A coalition of health clinics in northeast California is asking local officials to defend the Affordable Care Act. And some are, despite the area&#39;s conservative politics.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s800-c15.jpg"></a>
+
+July 5, 2017 - A coalition of health clinics in northeast California is asking local officials to defend the Affordable Care Act. And some are, despite the area's conservative politics.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare">http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170705.mp3?siteplayer=true&amp;dl=1</guid>
       <title>The Fight Over The Dakota Access Pipeline Continues</title>
@@ -42,12 +72,12 @@
       <guid>http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</guid>
       <title>As Seniors Get Sicker, They&#39;re More Likely To Drop Medicare Advantage Plans</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</link>
-      <description>July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out due to lack of access to specific doctors.</description>
+      <description>July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out because of lack of access to specific doctors.</description>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-141479682_wide-adeb3ed38ffa93f6d3fb265bb5d101c2b2f01410-s800-c15.jpg"></a>
 
-July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out due to lack of access to specific doctors.
+July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out because of lack of access to specific doctors.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans">http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-141479682_wide-adeb3ed38ffa93f6d3fb265bb5d101c2b2f01410-s3000-c15.jpg"></itunes:image>
@@ -224,40 +254,6 @@ July 1, 2017 - Black lung results from exposure to coal dust. Progressive massiv
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung">http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/black-lung-display-edit_wide-40751d874a067c1e72ac9b7ffe5517e22d10e3b5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Solve Gruesome Desert Mysteries, Scientists Become Body Collectors</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</link>
-      <description>July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren&#39;t criminal masterminds. They&#39;re scientists. And out here, the usual rules of human decay don&#39;t apply.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s800-c15.jpg"></a>
-
-July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren't criminal masterminds. They're scientists. And out here, the usual rules of human decay don't apply.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors">http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>321</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_healing_children_a_surgeons_take_on_what_kids_need.mp3?orgId=1&amp;topicId=1128&amp;d=445&amp;p=7&amp;story=534884325&amp;t=progseg&amp;e=535118312&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Healing Children&#39;: A Surgeon&#39;s Take On What Kids Need</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/01/534884325/healing-children-a-surgeons-take-on-what-kids-need</link>
-      <description>July 1, 2017 - Dr. Kurt Newman has spent his career caring for children. In a new book, he argues that children are not just smaller adults, and the differences matter for their treatment.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_healing_children_a_surgeons_take_on_what_kids_need.mp3?orgId=1&amp;topicId=1128&amp;d=445&amp;p=7&amp;story=534884325&amp;t=progseg&amp;e=535118312&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/childrens-national-4b_wide-0916e138b881cbf38be135091c0256e04e7aa09f-s800-c15.jpg"></a>
-
-July 1, 2017 - Dr. Kurt Newman has spent his career caring for children. In a new book, he argues that children are not just smaller adults, and the differences matter for their treatment.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/01/534884325/healing-children-a-surgeons-take-on-what-kids-need">http://www.npr.org/sections/health-shots/2017/07/01/534884325/healing-children-a-surgeons-take-on-what-kids-need</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/childrens-national-4b_wide-0916e138b881cbf38be135091c0256e04e7aa09f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>445</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
