@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 20:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 20:00:32 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 22:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_us_medical_system_remains_unprepared_to_treat_deadly_complication_of_childbirth.mp3?orgId=1&amp;topicId=1150&amp;d=733&amp;p=2&amp;story=535660628&amp;t=progseg&amp;e=535582011&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>U.S. Hospitals Struggle To Protect Mothers When Childbirth Turns Deadly</title>
+      <link>http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly</link>
+      <description>July 5, 2017 - A joint NPR and ProPublica investigation finds the U.S. medical system can be unprepared when the complications of childbirth turn deadly.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_us_medical_system_remains_unprepared_to_treat_deadly_complication_of_childbirth.mp3?orgId=1&amp;topicId=1150&amp;d=733&amp;p=2&amp;story=535660628&amp;t=progseg&amp;e=535582011&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 5, 2017 - A joint NPR and ProPublica investigation finds the U.S. medical system can be unprepared when the complications of childbirth turn deadly.
+
+<a href="http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly">http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>733</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</guid>
       <title>They Dreamed Of Being Doctors. Now They Help Syrians With The Same Dream</title>
@@ -54,11 +69,12 @@ July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_in_a_conservative_corner_of_california_a_push_to_preserve_obamacare.mp3?orgId=150&amp;topicId=1128&amp;d=213&amp;p=2&amp;story=535029503&amp;t=progseg&amp;e=535582011&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>In A Conservative Corner Of California, A Push To Preserve Obamacare</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</link>
       <description>July 5, 2017 - A coalition of health clinics in northeast California is asking local officials to defend the Affordable Care Act. And some are, despite the area&#39;s conservative politics.</description>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_in_a_conservative_corner_of_california_a_push_to_preserve_obamacare.mp3?orgId=150&amp;topicId=1128&amp;d=213&amp;p=2&amp;story=535029503&amp;t=progseg&amp;e=535582011&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s800-c15.jpg"></a>
 
@@ -66,6 +82,7 @@ July 5, 2017 - A coalition of health clinics in northeast California is asking l
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare">http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>213</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -99,11 +116,12 @@ July 5, 2017 - Medicare Advantage plans say they offer good value and aim to kee
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_scientists_are_not_so_hot_at_predicting_which_cancer_studies_will_succeed.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=535412346&amp;t=progseg&amp;e=535582011&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Are Not So Hot At Predicting Which Cancer Studies Will Succeed</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</link>
       <description>July 4, 2017 - A scientist tested his peers&#39; ability to pick which cancer experiments would pan out. They failed more often than not, which doesn&#39;t say much for intuition or efficiency in the scientific process.</description>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_scientists_are_not_so_hot_at_predicting_which_cancer_studies_will_succeed.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=535412346&amp;t=progseg&amp;e=535582011&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s800-c15.jpg"></a>
 
@@ -111,6 +129,7 @@ July 4, 2017 - A scientist tested his peers' ability to pick which cancer experi
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed">http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +256,6 @@ July 2, 2017 - The head of the Red Cross orthopedic program wasn't sure a basket
 <a href="http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill">http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_a_hospital_in_rural_colorado_is_the_cornerstone_of_small_town_life.mp3?orgId=32&amp;topicId=1128&amp;d=240&amp;p=7&amp;story=534555070&amp;t=progseg&amp;e=535118312&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Hospital In Rural Colorado Is The Cornerstone Of Small Town Life</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/01/534555070/a-hospital-in-rural-colorado-is-the-cornerstone-of-small-town-life</link>
-      <description>July 1, 2017 - At the lone hospital in Hugo, a country town, staff members know most of the patients — they are friends and family. But cuts in the GOP health bill could threaten this cherished institution.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_a_hospital_in_rural_colorado_is_the_cornerstone_of_small_town_life.mp3?orgId=32&amp;topicId=1128&amp;d=240&amp;p=7&amp;story=534555070&amp;t=progseg&amp;e=535118312&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/hugo-1_wide-ebf5c22fb11cb383a8a78fa84d4160c98b370f2c-s800-c15.jpg"></a>
-
-July 1, 2017 - At the lone hospital in Hugo, a country town, staff members know most of the patients — they are friends and family. But cuts in the GOP health bill could threaten this cherished institution.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/01/534555070/a-hospital-in-rural-colorado-is-the-cornerstone-of-small-town-life">http://www.npr.org/sections/health-shots/2017/07/01/534555070/a-hospital-in-rural-colorado-is-the-cornerstone-of-small-town-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/hugo-1_wide-ebf5c22fb11cb383a8a78fa84d4160c98b370f2c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 16:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 16:00:24 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 22:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/05/535648497/top-performers-risk-being-undermined-by-peers-studies-shows</guid>
+      <title>Top Performers Risk Being Undermined By Peers, Studies Shows</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/05/535648497/top-performers-risk-being-undermined-by-peers-studies-shows</link>
+      <description>July 5, 2017 - Studies highlighted in Scientific American indicate a propensity for less-well-performing employees to take aim at the efforts of their star coworkers.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/05/ap_17164071915126_wide-69b7f75a8d2366634b36db49f31db1c2897e85bf-s800-c15.jpg"></a>
+
+July 5, 2017 - Studies highlighted in Scientific American indicate a propensity for less-well-performing employees to take aim at the efforts of their star coworkers.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/05/535648497/top-performers-risk-being-undermined-by-peers-studies-shows">http://www.npr.org/sections/thetwo-way/2017/07/05/535648497/top-performers-risk-being-undermined-by-peers-studies-shows</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_17164071915126_wide-69b7f75a8d2366634b36db49f31db1c2897e85bf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/05/535613480/aztec-tower-of-skulls-reveals-women-children-were-sacrificed</guid>
       <title>Aztec &#39;Tower Of Skulls&#39; Reveals Women, Children Were Sacrificed</title>
@@ -54,11 +69,12 @@ July 4, 2017 - The U.S. Court of Appeals for D.C. notes the EPA can choose to re
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_scientists_are_not_so_hot_at_predicting_which_cancer_studies_will_succeed.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=535412346&amp;t=progseg&amp;e=535582011&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Are Not So Hot At Predicting Which Cancer Studies Will Succeed</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</link>
       <description>July 4, 2017 - A scientist tested his peers&#39; ability to pick which cancer experiments would pan out. They failed more often than not, which doesn&#39;t say much for intuition or efficiency in the scientific process.</description>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_scientists_are_not_so_hot_at_predicting_which_cancer_studies_will_succeed.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=535412346&amp;t=progseg&amp;e=535582011&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s800-c15.jpg"></a>
 
@@ -66,6 +82,7 @@ July 4, 2017 - A scientist tested his peers' ability to pick which cancer experi
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed">http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,23 +256,6 @@ July 2, 2017 - A court in India declared its holiest river is entitled to the sa
 <a href="http://www.npr.org/sections/parallels/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river">http://www.npr.org/sections/parallels/2017/07/02/535017334/will-giving-the-ganges-human-rights-protect-the-polluted-river</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_486239868101_wide-7b708307828cd0b408172a65a3257dd25a593a12-s3000-c15.jpg"></itunes:image>
       <itunes:duration>296</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_one_of_a_kind_collection_of_animal_eyeballs_aids_research_on_vision_problems.mp3?orgId=1&amp;topicId=1128&amp;d=238&amp;p=10&amp;story=534950252&amp;t=progseg&amp;e=535240691&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;One Of A Kind&#39; Collection Of Animal Eyeballs Aids Research On Vision Problems</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</link>
-      <description>July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.</description>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170702_wesun_one_of_a_kind_collection_of_animal_eyeballs_aids_research_on_vision_problems.mp3?orgId=1&amp;topicId=1128&amp;d=238&amp;p=10&amp;story=534950252&amp;t=progseg&amp;e=535240691&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-0302df5623c2b6a7ec630f47adf524559aaaec53-s800-c15.jpg"></a>
-
-July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come from vets who want help diagnosing dogs, cats and horses. But the repository also has eyes from sloths, elephant seals and dragonflies.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems">http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-0302df5623c2b6a7ec630f47adf524559aaaec53-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>238</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
