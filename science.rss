@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 14:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 16:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 14:00:36 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 16:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/05/535613480/aztec-tower-of-skulls-reveals-women-children-were-sacrificed</guid>
+      <title>Aztec &#39;Tower Of Skulls&#39; Reveals Women, Children Were Sacrificed</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/05/535613480/aztec-tower-of-skulls-reveals-women-children-were-sacrificed</link>
+      <description>July 5, 2017 - Some 650 skulls unearthed in Mexico City are believed to be the legendary Huey Tzompantli, a site for victims of human sacrifice first mentioned by Spanish conquistadors.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/05/ap_544887943224_wide-eb3c3364acebdd7e3b8895585523154f44cf275a-s800-c15.jpg"></a>
+
+July 5, 2017 - Some 650 skulls unearthed in Mexico City are believed to be the legendary Huey Tzompantli, a site for victims of human sacrifice first mentioned by Spanish conquistadors.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/05/535613480/aztec-tower-of-skulls-reveals-women-children-were-sacrificed">http://www.npr.org/sections/thetwo-way/2017/07/05/535613480/aztec-tower-of-skulls-reveals-women-children-were-sacrificed</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_544887943224_wide-eb3c3364acebdd7e3b8895585523154f44cf275a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/04/535509920/appeals-court-says-epa-cant-keep-delaying-obama-era-methane-rules</guid>
       <title>Appeals Court Says EPA Can&#39;t Keep Delaying Obama-Era Methane Rules</title>
@@ -241,23 +256,6 @@ July 2, 2017 - Most of the 56,000 eyes sent to the little lab in Wisconsin come 
 <a href="http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems">http://www.npr.org/sections/health-shots/2017/07/02/534950252/one-of-a-kind-collection-of-animal-eyeballs-aids-research-on-vision-problems</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/animal-eyes_wide-0302df5623c2b6a7ec630f47adf524559aaaec53-s3000-c15.jpg"></itunes:image>
       <itunes:duration>238</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Solve Gruesome Desert Mysteries, Scientists Become Body Collectors</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</link>
-      <description>July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren&#39;t criminal masterminds. They&#39;re scientists. And out here, the usual rules of human decay don&#39;t apply.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170701_wesat_to_solve_gruesome_desert_mysteries_scientists_become_body_collectors.mp3?orgId=1&amp;topicId=1007&amp;d=321&amp;p=7&amp;story=523024955&amp;t=progseg&amp;e=535118312&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s800-c15.jpg"></a>
-
-July 1, 2017 - People are dumping corpses in the high desert of western Colorado. But those unloading bodies aren't criminal masterminds. They're scientists. And out here, the usual rules of human decay don't apply.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors">http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>321</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

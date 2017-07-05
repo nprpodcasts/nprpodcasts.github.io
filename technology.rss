@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 15:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 16:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 15:00:32 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 16:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/05/535413093/too-convenient-a-mobile-supermarket-that-comes-to-you</guid>
+      <title>Too Convenient? A Mobile Supermarket That Comes To You</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/05/535413093/too-convenient-a-mobile-supermarket-that-comes-to-you</link>
+      <description>July 5, 2017 - A concept called Moby Mart is being tested in China. Like 7-11 meets driverless tractor-trailer, the store could be summoned by an app and staffed by a holographic clerk. Are we entering WALL-E world?</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/moby-mart_wide-0b3be61614bb48f63d93917b087dea180a0a6177-s800-c15.jpg"></a>
+
+July 5, 2017 - A concept called Moby Mart is being tested in China. Like 7-11 meets driverless tractor-trailer, the store could be summoned by an app and staffed by a holographic clerk. Are we entering WALL-E world?
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/05/535413093/too-convenient-a-mobile-supermarket-that-comes-to-you">http://www.npr.org/sections/alltechconsidered/2017/07/05/535413093/too-convenient-a-mobile-supermarket-that-comes-to-you</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/moby-mart_wide-0b3be61614bb48f63d93917b087dea180a0a6177-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/05/535584813/airlines-in-turkey-and-dubai-cleared-from-laptop-ban</guid>
       <title>Airlines In Turkey And Dubai Cleared From Laptop Ban</title>
@@ -239,23 +254,6 @@ July 3, 2017 - The journalist who thought up this game says she saw the need bef
 
 <a href="http://www.npr.org/sections/ed/2017/07/03/533676536/test-your-fake-news-judgement-play-this-game">http://www.npr.org/sections/ed/2017/07/03/533676536/test-your-fake-news-judgement-play-this-game</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/fake-news-app_wide-6cfd65f3407c1946760d27fe2de4cb7a17232027-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_video_japans_purikura_photo_booths_offer_snapchat-like_filters.mp3?orgId=1&amp;topicId=1125&amp;d=109&amp;p=3&amp;story=526005241&amp;t=progseg&amp;e=535325003&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Video: Japan&#39;s &#39;Purikura&#39; Photo Booths Offer Snapchat-Like Filters</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters</link>
-      <description>July 3, 2017 - In NPR&#39;s Elise Tries series, correspondent Elise Hu tries out new experiences in East Asia. In Tokyo, she checks out Japanese purikura photo booths, which produce selfies to decorate and print out.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170703_me_video_japans_purikura_photo_booths_offer_snapchat-like_filters.mp3?orgId=1&amp;topicId=1125&amp;d=109&amp;p=3&amp;story=526005241&amp;t=progseg&amp;e=535325003&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-cc7d83275659aee0e2de3c600c59e05cc00a2f80-s800-c15.jpg"></a>
-
-July 3, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out new experiences in East Asia. In Tokyo, she checks out Japanese purikura photo booths, which produce selfies to decorate and print out.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters">http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-cc7d83275659aee0e2de3c600c59e05cc00a2f80-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>109</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
