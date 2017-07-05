@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 19:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 14:00:36 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 19:00:26 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 14:00:36 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -51,6 +51,21 @@ July 4, 2017 - A scientist tested his peers' ability to pick which cancer experi
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed">http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-667586053_wide-3edb2d8bb792fef388c9fdabbc3280e1c85284ff-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170704.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>United By The Sun: A Solar Event For All Americans To Share</title>
+      <link>http://the1a.org/shows/2017-07-04/total-eclipse</link>
+      <description>July 4, 2017 - Skywatchers and astrophysicists are already gearing up for next month&#39;s &#34;Great American Solar Eclipse.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-07-04/total-eclipse</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170704.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 4, 2017 - Skywatchers and astrophysicists are already gearing up for next month's "Great American Solar Eclipse."
+
+<a href="http://the1a.org/shows/2017-07-04/total-eclipse">http://the1a.org/shows/2017-07-04/total-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ July 1, 2017 - People are dumping corpses in the high desert of western Colorado
 <a href="http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors">http://www.npr.org/sections/health-shots/2017/07/01/523024955/to-solve-gruesome-desert-mysteries-scientists-become-body-collectors</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/04/07/img_4173_wide-f368a830dfb27c1b50be3fe5bb43c7666bd75144-s3000-c15.jpg"></itunes:image>
       <itunes:duration>321</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/535047038/wildlife-activists-plan-lawsuits-to-protect-yellowstone-grizzlies</guid>
-      <title>Wildlife Activists Plan Lawsuits To Protect Yellowstone Grizzlies</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/30/535047038/wildlife-activists-plan-lawsuits-to-protect-yellowstone-grizzlies</link>
-      <description>June 30, 2017 - The Northern Cheyenne Tribe and The Humane Society are among the organizations that will sue the U.S. Fish and Wildlife Service to keep the iconic carnivore on the endangered species list.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_16190624563056_wide-e49a72a4553ce8183d4b5ea17838c258de913b44-s800-c15.jpg"></a>
-
-June 30, 2017 - The Northern Cheyenne Tribe and The Humane Society are among the organizations that will sue the U.S. Fish and Wildlife Service to keep the iconic carnivore on the endangered species list.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535047038/wildlife-activists-plan-lawsuits-to-protect-yellowstone-grizzlies">http://www.npr.org/sections/thetwo-way/2017/06/30/535047038/wildlife-activists-plan-lawsuits-to-protect-yellowstone-grizzlies</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_16190624563056_wide-e49a72a4553ce8183d4b5ea17838c258de913b44-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

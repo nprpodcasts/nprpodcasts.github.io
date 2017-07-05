@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 14:00:40 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 16:00:30 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 14:00:40 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</guid>
+      <title>As Seniors Get Sicker, They&#39;re More Likely To Drop Medicare Advantage Plans</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</link>
+      <description>July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out due to lack of access to specific doctors.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-141479682_wide-adeb3ed38ffa93f6d3fb265bb5d101c2b2f01410-s800-c15.jpg"></a>
+
+July 5, 2017 - Medicare Advantage plans say they offer good value and aim to keep patients healthy, but sicker people are far more likely than others to drop out due to lack of access to specific doctors.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans">http://www.npr.org/sections/health-shots/2017/07/05/535381473/as-seniors-get-sicker-theyre-more-likely-to-drop-medicare-advantage-plans</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-141479682_wide-adeb3ed38ffa93f6d3fb265bb5d101c2b2f01410-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/04/535412346/scientists-are-not-so-hot-at-predicting-which-cancer-studies-will-succeed</guid>
       <title>Scientists Are Not So Hot At Predicting Which Cancer Studies Will Succeed</title>
@@ -245,21 +260,6 @@ June 30, 2017 - Current law requires all health insurance sold on the exchanges 
 <a href="http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients">http://www.npr.org/sections/health-shots/2017/06/30/534773322/gop-health-bill-could-let-insurers-cap-spending-on-expensive-patients</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/28/nchardyfamclose_wide-0465ab1a16ff224f308e26b0cbb5e192b6348945-s3000-c15.jpg"></itunes:image>
       <itunes:duration>227</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_government_researchers_plan_response_to_rising_rates_of_black_lung_disease.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=535059200&amp;t=progseg&amp;e=534978067&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Government Researchers Plan Response To Rising Rates Of Black Lung Disease</title>
-      <link>http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</link>
-      <description>June 30, 2017 - Government researchers met in West Virginia this week in response to an NPR investigation and federal study showing much higher rates of the most serious stages of the coal miners&#39; disease black lung.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_government_researchers_plan_response_to_rising_rates_of_black_lung_disease.mp3?orgId=1&amp;topicId=1128&amp;d=234&amp;p=2&amp;story=535059200&amp;t=progseg&amp;e=534978067&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 30, 2017 - Government researchers met in West Virginia this week in response to an NPR investigation and federal study showing much higher rates of the most serious stages of the coal miners' disease black lung.
-
-<a href="http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease">http://www.npr.org/2017/06/30/535059200/government-researchers-plan-response-to-rising-rates-of-black-lung-disease</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

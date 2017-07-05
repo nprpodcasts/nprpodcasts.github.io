@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 19:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 14:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 04 Jul 2017 19:00:25 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 14:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,72 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/05/535584813/airlines-in-turkey-and-dubai-cleared-from-laptop-ban</guid>
+      <title>Airlines In Turkey And Dubai Cleared From Laptop Ban</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/05/535584813/airlines-in-turkey-and-dubai-cleared-from-laptop-ban</link>
+      <description>July 5, 2017 - Emirates and Turkish Airlines announced they are now exempt from the ban on carrying electronics larger than a smartphone into the cabin on flights bound for the U.S.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/ap_16264371062912-emirates_wide-ac4e0adc0f2aa3f1e52fec693474da311d7e5da7-s800-c15.jpg"></a>
+
+July 5, 2017 - Emirates and Turkish Airlines announced they are now exempt from the ban on carrying electronics larger than a smartphone into the cabin on flights bound for the U.S.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/05/535584813/airlines-in-turkey-and-dubai-cleared-from-laptop-ban">http://www.npr.org/sections/thetwo-way/2017/07/05/535584813/airlines-in-turkey-and-dubai-cleared-from-laptop-ban</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_16264371062912-emirates_wide-ac4e0adc0f2aa3f1e52fec693474da311d7e5da7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_copenhagen_uses_tech_to_tackle_two-wheel_traffic_jams.mp3?orgId=1&amp;topicId=1124&amp;d=234&amp;p=2&amp;story=535530425&amp;t=progseg&amp;e=535468392&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Copenhagen Uses Tech To Tackle Two-Wheel Traffic Jams</title>
+      <link>http://www.npr.org/2017/07/04/535530425/copenhagen-uses-tech-to-tackle-two-wheel-traffic-jams</link>
+      <description>July 4, 2017 - So many environmentally minded Danes now commute by bicycle that the capital city of Copenhagen has installed digital traffic information signs and created apps to help prevent congestion.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_copenhagen_uses_tech_to_tackle_two-wheel_traffic_jams.mp3?orgId=1&amp;topicId=1124&amp;d=234&amp;p=2&amp;story=535530425&amp;t=progseg&amp;e=535468392&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 4, 2017 - So many environmentally minded Danes now commute by bicycle that the capital city of Copenhagen has installed digital traffic information signs and created apps to help prevent congestion.
+
+<a href="http://www.npr.org/2017/07/04/535530425/copenhagen-uses-tech-to-tackle-two-wheel-traffic-jams">http://www.npr.org/2017/07/04/535530425/copenhagen-uses-tech-to-tackle-two-wheel-traffic-jams</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_in_germany_tech_leaders_teach_refugees_how_to_code.mp3?orgId=1&amp;topicId=1124&amp;d=229&amp;p=2&amp;story=535530409&amp;t=progseg&amp;e=535468392&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Germany, Tech Leaders Teach Refugees How To Code</title>
+      <link>http://www.npr.org/2017/07/04/535530409/in-germany-tech-leaders-teach-refugees-how-to-code</link>
+      <description>July 4, 2017 - Most of the refugees who flooded into Germany two years ago have yet to find work. But one bright spot is the tech sector, which is training newcomers to code and fill job market demands.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_in_germany_tech_leaders_teach_refugees_how_to_code.mp3?orgId=1&amp;topicId=1124&amp;d=229&amp;p=2&amp;story=535530409&amp;t=progseg&amp;e=535468392&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 4, 2017 - Most of the refugees who flooded into Germany two years ago have yet to find work. But one bright spot is the tech sector, which is training newcomers to code and fill job market demands.
+
+<a href="http://www.npr.org/2017/07/04/535530409/in-germany-tech-leaders-teach-refugees-how-to-code">http://www.npr.org/2017/07/04/535530409/in-germany-tech-leaders-teach-refugees-how-to-code</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_kasperskys_russian_roots_come_under_scrutiny.mp3?orgId=1&amp;topicId=1122&amp;d=261&amp;p=2&amp;story=535530381&amp;t=progseg&amp;e=535468392&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Kaspersky&#39;s Russian Roots Come Under Scrutiny</title>
+      <link>http://www.npr.org/2017/07/04/535530381/kasperskys-russian-roots-come-under-scrutiny</link>
+      <description>July 4, 2017 - The Pentagon may soon be prohibited from using anti-virus software and other products from Kaspersky Lab. The Moscow-based company is alleged to have ties to the Kremlin, which Kaspersky denies.</description>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_kasperskys_russian_roots_come_under_scrutiny.mp3?orgId=1&amp;topicId=1122&amp;d=261&amp;p=2&amp;story=535530381&amp;t=progseg&amp;e=535468392&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 4, 2017 - The Pentagon may soon be prohibited from using anti-virus software and other products from Kaspersky Lab. The Moscow-based company is alleged to have ties to the Kremlin, which Kaspersky denies.
+
+<a href="http://www.npr.org/2017/07/04/535530381/kasperskys-russian-roots-come-under-scrutiny">http://www.npr.org/2017/07/04/535530381/kasperskys-russian-roots-come-under-scrutiny</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>261</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_there_are_plenty_of_rfid-blocking_products_but_do_you_need_them.mp3?orgId=77&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=535518514&amp;t=progseg&amp;e=535468392&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>There Are Plenty Of RFID-Blocking Products, But Do You Need Them?</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</link>
       <description>July 4, 2017 - An industry has sprung up to make wallets and accessories that block hackers from &#34;skimming&#34; data wirelessly through radio frequency identification. But some experts say there&#39;s little need to worry.</description>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_there_are_plenty_of_rfid-blocking_products_but_do_you_need_them.mp3?orgId=77&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=535518514&amp;t=progseg&amp;e=535468392&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/04/gettyimages-74633667_wide-ed894450ff50b35c1a266dd555e600dded15710b-s800-c15.jpg"></a>
 
@@ -36,6 +97,7 @@ July 4, 2017 - An industry has sprung up to make wallets and accessories that bl
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them">http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/04/gettyimages-74633667_wide-ed894450ff50b35c1a266dd555e600dded15710b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>256</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -71,11 +133,12 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_xbox_bowling_for_seniors_visit_your_local_library.mp3?orgId=1&amp;topicId=1091&amp;d=274&amp;p=2&amp;story=534431175&amp;t=progseg&amp;e=535468392&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Xbox Bowling For Seniors? Visit Your Local Library</title>
       <link>http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</link>
       <description>July 4, 2017 - The number of older people involved in the arts programs at the Brooklyn Public Library is up more than 50 percent since last year. They want a chance to write new chapters in a place for all ages.</description>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_xbox_bowling_for_seniors_visit_your_local_library.mp3?orgId=1&amp;topicId=1091&amp;d=274&amp;p=2&amp;story=534431175&amp;t=progseg&amp;e=535468392&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s800-c15.jpg"></a>
 
@@ -83,6 +146,7 @@ July 4, 2017 - The number of older people involved in the arts programs at the B
 
 <a href="http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library">http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>274</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -133,6 +197,21 @@ July 3, 2017 - Southwest China's Guizhou province is one of the country's poores
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170703.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>How Schools, Parents And Organizations Are Trying To Close The Achievement Gap  (Rebroadcast)</title>
+      <link>http://the1a.org/shows/2017-07-03/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap-rebroadcast</link>
+      <description>July 3, 2017 - The achievement gap between white students and students of color is narrowing. What will it take to close it for good?</description>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170703.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 3, 2017 - The achievement gap between white students and students of color is narrowing. What will it take to close it for good?
+
+<a href="http://the1a.org/shows/2017-07-03/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap-rebroadcast">http://the1a.org/shows/2017-07-03/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap-rebroadcast</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</guid>
       <title>Tesla&#39;s Long-Awaited, Lower-Priced Model 3 To Arrive Friday</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</link>
@@ -177,81 +256,6 @@ July 3, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out new
 <a href="http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters">http://www.npr.org/sections/parallels/2017/07/03/526005241/video-japans-purikura-photo-booths-offer-snapchat-like-filters</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/07/et5_still_titlescreen_wide-cc7d83275659aee0e2de3c600c59e05cc00a2f80-s3000-c15.jpg"></itunes:image>
       <itunes:duration>109</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</guid>
-      <title>A Year Later, Pokémon Go Has Leveled Out And Left Fans Wanting More </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</link>
-      <description>July 1, 2017 - The nostalgia-fueled app caught the world&#39;s attention — sending people in search of the game&#39;s monsters. While millions still play, augmented-reality designers are thinking about the next big thing.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/pokemongo_wide-7d2ebf514610f650b620b55cd80848a1cee7bd51-s800-c15.jpg"></a>
-
-July 1, 2017 - The nostalgia-fueled app caught the world's attention — sending people in search of the game's monsters. While millions still play, augmented-reality designers are thinking about the next big thing.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more">http://www.npr.org/sections/alltechconsidered/2017/07/01/534398812/a-year-later-pok-mon-go-has-leveled-out-and-left-fans-wanting-more</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/pokemongo_wide-7d2ebf514610f650b620b55cd80848a1cee7bd51-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_germany_votes_to_fine_social_media_companies_for_failing_to_remove_hate_speech.mp3?orgId=1&amp;topicId=1124&amp;d=131&amp;p=2&amp;story=535059262&amp;t=progseg&amp;e=534978067&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Germany Votes To Fine Social Media Companies For Failing To Remove Hate Speech</title>
-      <link>http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech</link>
-      <description>June 30, 2017 - The German parliament has voted to impose fines of up to $57 million on social media companies that fail to remove &#34;obviously illegal&#34; hate speech within 24 hours of it being posted.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170630_atc_germany_votes_to_fine_social_media_companies_for_failing_to_remove_hate_speech.mp3?orgId=1&amp;topicId=1124&amp;d=131&amp;p=2&amp;story=535059262&amp;t=progseg&amp;e=534978067&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 30, 2017 - The German parliament has voted to impose fines of up to $57 million on social media companies that fail to remove "obviously illegal" hate speech within 24 hours of it being posted.
-
-<a href="http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech">http://www.npr.org/2017/06/30/535059262/germany-votes-to-fine-social-media-companies-for-failing-to-remove-hate-speech</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>131</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</guid>
-      <title>Ukraine Cyberattack Wasn&#39;t Really About Ransom, Security Experts Say</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</link>
-      <description>June 30, 2017 - Although the virus that spread through government and commercial computers Tuesday looked like ransomware, cyber experts say it was a &#34;wiper&#34; intended to erase data and disrupt business.</description>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/30/ap_17179384901894_wide-feaf283c9f8d97ab81e0f20d16c59f07dc2d21fb-s800-c15.jpg"></a>
-
-June 30, 2017 - Although the virus that spread through government and commercial computers Tuesday looked like ransomware, cyber experts say it was a "wiper" intended to erase data and disrupt business.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say">http://www.npr.org/sections/thetwo-way/2017/06/30/535043320/ukraine-cyberattack-wasnt-really-about-ransom-security-experts-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/ap_17179384901894_wide-feaf283c9f8d97ab81e0f20d16c59f07dc2d21fb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_change_my_view_on_reddit_helps_people_challenge_their_own_opinions.mp3?orgId=1&amp;topicId=1019&amp;aggIds=94427042&amp;d=239&amp;p=2&amp;story=534916052&amp;t=progseg&amp;e=534839315&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Change My View On Reddit Helps People Challenge Their Own Opinions</title>
-      <link>http://www.npr.org/2017/06/29/534916052/change-my-view-on-reddit-helps-people-challenge-their-own-opinions</link>
-      <description>June 29, 2017 - Four years ago, a Scottish teenager set out to do the impossible: cordon off a space for measured, civil conversation between people who believe different things — on the Internet! Now there are over 300,000 members of the Change My View subreddit. The founder talks about the surprising rules he had to implement in order to make the space work, and a researcher tells us who discovered a kind of agree-to-disagree inflection point by studying the group.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_change_my_view_on_reddit_helps_people_challenge_their_own_opinions.mp3?orgId=1&amp;topicId=1019&amp;aggIds=94427042&amp;d=239&amp;p=2&amp;story=534916052&amp;t=progseg&amp;e=534839315&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - Four years ago, a Scottish teenager set out to do the impossible: cordon off a space for measured, civil conversation between people who believe different things — on the Internet! Now there are over 300,000 members of the Change My View subreddit. The founder talks about the surprising rules he had to implement in order to make the space work, and a researcher tells us who discovered a kind of agree-to-disagree inflection point by studying the group.
-
-<a href="http://www.npr.org/2017/06/29/534916052/change-my-view-on-reddit-helps-people-challenge-their-own-opinions">http://www.npr.org/2017/06/29/534916052/change-my-view-on-reddit-helps-people-challenge-their-own-opinions</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_shadow_brokers_group_leaks_stolen_national_security_agency_hacking_tools.mp3?orgId=1&amp;topicId=1122&amp;d=248&amp;p=2&amp;story=534916031&amp;t=progseg&amp;e=534839315&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Shadow Brokers Group Leaks Stolen National Security Agency Hacking Tools</title>
-      <link>http://www.npr.org/2017/06/29/534916031/shadow-brokers-group-leaks-stolen-national-security-agency-hacking-tools</link>
-      <description>June 29, 2017 - Last August, hacking tools were stolen from the National Security Agency. Now, those tools are being used in a number of cyber attacks around the world, and there&#39;s mounting pressure on the NSA to do something. NPR&#39;s Robert Siegel talks with Nicole Perlroth, who has been covering this for The New York Times.</description>
-      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/06/20170629_atc_shadow_brokers_group_leaks_stolen_national_security_agency_hacking_tools.mp3?orgId=1&amp;topicId=1122&amp;d=248&amp;p=2&amp;story=534916031&amp;t=progseg&amp;e=534839315&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[June 29, 2017 - Last August, hacking tools were stolen from the National Security Agency. Now, those tools are being used in a number of cyber attacks around the world, and there's mounting pressure on the NSA to do something. NPR's Robert Siegel talks with Nicole Perlroth, who has been covering this for The New York Times.
-
-<a href="http://www.npr.org/2017/06/29/534916031/shadow-brokers-group-leaks-stolen-national-security-agency-hacking-tools">http://www.npr.org/2017/06/29/534916031/shadow-brokers-group-leaks-stolen-national-security-agency-hacking-tools</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>248</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
