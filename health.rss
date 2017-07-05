@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 19:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 20:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 19:00:25 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 20:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</guid>
+      <title>They Dreamed Of Being Doctors. Now They Help Syrians With The Same Dream</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</link>
+      <description>July 5, 2017 - Two Iranian brothers didn&#39;t let a war keep them from medical school. Now they&#39;re using mobile phones to build the next generation of doctors in Syria.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s800-c15.jpg"></a>
+
+July 5, 2017 - Two Iranian brothers didn't let a war keep them from medical school. Now they're using mobile phones to build the next generation of doctors in Syria.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option">http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</guid>
       <title>Trump&#39;s Surgeon General Pick Built Reputation Fighting HIV And Opioids In Indiana</title>
@@ -239,21 +254,6 @@ July 1, 2017 - At the lone hospital in Hugo, a country town, staff members know 
 <a href="http://www.npr.org/sections/health-shots/2017/07/01/534555070/a-hospital-in-rural-colorado-is-the-cornerstone-of-small-town-life">http://www.npr.org/sections/health-shots/2017/07/01/534555070/a-hospital-in-rural-colorado-is-the-cornerstone-of-small-town-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/hugo-1_wide-ebf5c22fb11cb383a8a78fa84d4160c98b370f2c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>240</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung</guid>
-      <title>NPR Continues To Find Hundreds Of Cases Of Advanced Black Lung</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung</link>
-      <description>July 1, 2017 - Black lung results from exposure to coal dust. Progressive massive fibrosis is an especially aggressive form, blamed on inhalation of silica dust from the cutting of quartz rock and coal together.</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/30/black-lung-display-edit_wide-40751d874a067c1e72ac9b7ffe5517e22d10e3b5-s800-c15.jpg"></a>
-
-July 1, 2017 - Black lung results from exposure to coal dust. Progressive massive fibrosis is an especially aggressive form, blamed on inhalation of silica dust from the cutting of quartz rock and coal together.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung">http://www.npr.org/sections/thetwo-way/2017/07/01/535082619/npr-continues-to-find-hundreds-of-cases-of-advanced-black-lung</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/black-lung-display-edit_wide-40751d874a067c1e72ac9b7ffe5517e22d10e3b5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

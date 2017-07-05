@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 18:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 20:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 18:00:23 +0000</pubDate>
+    <pubDate>Wed, 05 Jul 2017 20:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</guid>
+      <title>They Dreamed Of Being Doctors. Now They Help Syrians With The Same Dream</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</link>
+      <description>July 5, 2017 - Two Iranian brothers didn&#39;t let a war keep them from medical school. Now they&#39;re using mobile phones to build the next generation of doctors in Syria.</description>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s800-c15.jpg"></a>
+
+July 5, 2017 - Two Iranian brothers didn't let a war keep them from medical school. Now they're using mobile phones to build the next generation of doctors in Syria.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option">http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/07/05/535413093/too-convenient-a-mobile-supermarket-that-comes-to-you</guid>
       <title>Too Convenient? A Mobile Supermarket That Comes To You</title>
@@ -241,21 +256,6 @@ July 3, 2017 - Southwest China's Guizhou province is one of the country's poores
 <a href="http://the1a.org/shows/2017-07-03/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap-rebroadcast">http://the1a.org/shows/2017-07-03/how-schools-parents-and-organizations-are-trying-to-close-the-achievement-gap-rebroadcast</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</guid>
-      <title>Tesla&#39;s Long-Awaited, Lower-Priced Model 3 To Arrive Friday</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</link>
-      <description>July 3, 2017 - The first of Tesla&#39;s significantly more affordable Model 3 cars should finish production by next weekend, CEO Elon Musk announced late Sunday.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/gettyimages-519107738-tesla_wide-cee93899bff5389785ab0dfebc73dce5db8315ec-s800-c15.jpg"></a>
-
-July 3, 2017 - The first of Tesla's significantly more affordable Model 3 cars should finish production by next weekend, CEO Elon Musk announced late Sunday.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday">http://www.npr.org/sections/thetwo-way/2017/07/03/535333378/the-tesla-for-the-masses-to-arrive-friday</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/gettyimages-519107738-tesla_wide-cee93899bff5389785ab0dfebc73dce5db8315ec-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
