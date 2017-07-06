@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 22:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 15:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 05 Jul 2017 22:00:26 +0000</pubDate>
+    <pubDate>Thu, 06 Jul 2017 15:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170705_me_traffic_solution_project_in_china_appears_to_be_an_investment_scam.mp3?orgId=1&amp;topicId=1125&amp;d=90&amp;story=535625957&amp;siteplayer=true&amp;dl=1</guid>
+      <title>China&#39;s Elevated Bus Project Seemed Too Good To Be True — And It Was</title>
+      <link>http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was</link>
+      <description>July 6, 2017 - Project promoters claimed the giant, elevated vehicle would beat traffic jams by straddling traffic. Last week, they were arrested for fraud. &#34;The idea was absurd, childish,&#34; says a longtime critic.</description>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170705_me_traffic_solution_project_in_china_appears_to_be_an_investment_scam.mp3?orgId=1&amp;topicId=1125&amp;d=90&amp;story=535625957&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/gettyimages-699578598_wide-57912f75d7ce1eec8b773e0d25d33ebb97e43738-s800-c15.jpg"></a>
+
+July 6, 2017 - Project promoters claimed the giant, elevated vehicle would beat traffic jams by straddling traffic. Last week, they were arrested for fraud. "The idea was absurd, childish," says a longtime critic.
+
+<a href="http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was">http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/gettyimages-699578598_wide-57912f75d7ce1eec8b773e0d25d33ebb97e43738-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>90</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_kasperskys_russian_roots_come_under_scrutiny.mp3?orgId=1&amp;topicId=1122&amp;d=261&amp;story=535651597&amp;siteplayer=true&amp;dl=1</guid>
       <title>Congress Casts A Suspicious Eye On Russia&#39;s Kaspersky Lab</title>
@@ -47,12 +64,12 @@ July 5, 2017 - The renowned Russian cybersecurity firm's anti-virus software is 
       <description>July 5, 2017 - Two Iranian brothers didn&#39;t let a war keep them from medical school. Now they&#39;re using mobile phones to build the next generation of doctors in Syria.</description>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-715b6aa2d682e99b2443892f7471630c23a8847d-s800-c15.jpg"></a>
 
 July 5, 2017 - Two Iranian brothers didn't let a war keep them from medical school. Now they're using mobile phones to build the next generation of doctors in Syria.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option">http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-c413e340916e7adf85de9f6c3edb17a82a6920e6-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-715b6aa2d682e99b2443892f7471630c23a8847d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,23 +258,6 @@ July 4, 2017 - The number of older people involved in the arts programs at the B
 <a href="http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation">http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>227</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_a_remote_chinese_province_uses_its_climate_to_grow_a_big-data_industry.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=535369266&amp;t=progseg&amp;e=535339707&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Remote Chinese Province Uses Its Climate To Grow A Big-Data Industry</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry</link>
-      <description>July 3, 2017 - Southwest China&#39;s Guizhou province is one of the country&#39;s poorest, most remote regions. But Guizhou has some unique advantages, which it is trying to use to transform itself into a big-data hub.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_a_remote_chinese_province_uses_its_climate_to_grow_a_big-data_industry.mp3?orgId=1&amp;topicId=1019&amp;d=223&amp;p=2&amp;story=535369266&amp;t=progseg&amp;e=535339707&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/guiyang-china-expo_wide-a6fda3dcaf44d0f5719711e2842de7327390ebd6-s800-c15.jpg"></a>
-
-July 3, 2017 - Southwest China's Guizhou province is one of the country's poorest, most remote regions. But Guizhou has some unique advantages, which it is trying to use to transform itself into a big-data hub.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry">http://www.npr.org/sections/alltechconsidered/2017/07/03/535369266/a-remote-chinese-province-uses-its-climate-to-grow-a-big-data-industry</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/guiyang-china-expo_wide-a6fda3dcaf44d0f5719711e2842de7327390ebd6-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
