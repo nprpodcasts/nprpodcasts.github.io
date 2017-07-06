@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 17:20:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Jul 2017 15:00:28 +0000</pubDate>
+    <pubDate>Thu, 06 Jul 2017 17:20:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/06/535076690/can-snapchats-new-snap-map-bring-the-world-closer-together</guid>
+      <title>Can Snapchat&#39;s New &#39;Snap Map&#39; Bring The World Closer Together?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/06/535076690/can-snapchats-new-snap-map-bring-the-world-closer-together</link>
+      <description>July 6, 2017 - From cute puppies in Guatemala to daring teens in Jordan, the feature lets users share video clips and photos from their daily lives. Is that a good thing — or is it just making us all voyeurs?</description>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/30/snapchat-world_wide-e2106a27f3229ec316e0404b190c0b055cb1ff2e-s800-c15.jpg"></a>
+
+July 6, 2017 - From cute puppies in Guatemala to daring teens in Jordan, the feature lets users share video clips and photos from their daily lives. Is that a good thing — or is it just making us all voyeurs?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/06/535076690/can-snapchats-new-snap-map-bring-the-world-closer-together">http://www.npr.org/sections/goatsandsoda/2017/07/06/535076690/can-snapchats-new-snap-map-bring-the-world-closer-together</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/snapchat-world_wide-e2106a27f3229ec316e0404b190c0b055cb1ff2e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170705_me_traffic_solution_project_in_china_appears_to_be_an_investment_scam.mp3?orgId=1&amp;topicId=1125&amp;d=90&amp;story=535625957&amp;siteplayer=true&amp;dl=1</guid>
       <title>China&#39;s Elevated Bus Project Seemed Too Good To Be True — And It Was</title>
       <link>http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was</link>
-      <description>July 6, 2017 - Project promoters claimed the giant, elevated vehicle would beat traffic jams by straddling traffic. Last week, they were arrested for fraud. &#34;The idea was absurd, childish,&#34; says a longtime critic.</description>
+      <description>July 6, 2017 - Project promoters claimed a giant vehicle would beat traffic jams by straddling traffic. Last week, they were arrested on suspicion of fraud. &#34;The idea was absurd, childish,&#34; says a longtime critic.</description>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170705_me_traffic_solution_project_in_china_appears_to_be_an_investment_scam.mp3?orgId=1&amp;topicId=1125&amp;d=90&amp;story=535625957&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/gettyimages-699578598_wide-57912f75d7ce1eec8b773e0d25d33ebb97e43738-s800-c15.jpg"></a>
 
-July 6, 2017 - Project promoters claimed the giant, elevated vehicle would beat traffic jams by straddling traffic. Last week, they were arrested for fraud. "The idea was absurd, childish," says a longtime critic.
+July 6, 2017 - Project promoters claimed a giant vehicle would beat traffic jams by straddling traffic. Last week, they were arrested on suspicion of fraud. "The idea was absurd, childish," says a longtime critic.
 
 <a href="http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was">http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/gettyimages-699578598_wide-57912f75d7ce1eec8b773e0d25d33ebb97e43738-s3000-c15.jpg"></itunes:image>
@@ -243,21 +258,6 @@ July 4, 2017 - The number of older people involved in the arts programs at the B
 <a href="http://www.npr.org/2017/07/03/535425954/in-russias-tech-center-scientists-face-rewarding-but-unpredictable-life">http://www.npr.org/2017/07/03/535425954/in-russias-tech-center-scientists-face-rewarding-but-unpredictable-life</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_in_reno_nev_homegrown_startups_fuel_tech_transformation.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=535408578&amp;t=progseg&amp;e=535339707&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Reno, Nev., Homegrown Startups Fuel Tech Transformation</title>
-      <link>http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</link>
-      <description>July 3, 2017 - Reno, Nev., is enjoying a tech boom. Giants like Apple, Google and Tesla are all there. The transformation is also being driven by some homegrown start-ups, but some worry Reno will become unaffordable.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_in_reno_nev_homegrown_startups_fuel_tech_transformation.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=535408578&amp;t=progseg&amp;e=535339707&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 3, 2017 - Reno, Nev., is enjoying a tech boom. Giants like Apple, Google and Tesla are all there. The transformation is also being driven by some homegrown start-ups, but some worry Reno will become unaffordable.
-
-<a href="http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation">http://www.npr.org/2017/07/03/535408578/in-reno-nev-homegrown-startups-fuel-tech-transformation</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>227</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

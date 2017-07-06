@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 17:20:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Jul 2017 15:00:29 +0000</pubDate>
+    <pubDate>Thu, 06 Jul 2017 17:20:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</guid>
+      <title>To Prepare For Mars Settlement, Simulated Missions Explore Utah&#39;s Desert</title>
+      <link>http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</link>
+      <description>July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.</description>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-90c5e24c93a11e9fc5c478709326e03ec4b2db2a-s800-c15.jpg"></a>
+
+July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.
+
+<a href="http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert">http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-90c5e24c93a11e9fc5c478709326e03ec4b2db2a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</guid>
       <title>Montana Earthquake Is Felt For Hundreds Of Miles Early Thursday</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</link>
       <description>July 6, 2017 - The earthquake was the strongest to hit western Montana in years; it was followed by at least 10 measurable temblors with magnitudes of up to 4.9.</description>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/usgs_wide-a4483212f753400838d08856f89ba9644c556f16-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/usgs_wide-23329c6f40e3903fc1cde93b961d92c3575a9126-s800-c15.jpg"></a>
 
 July 6, 2017 - The earthquake was the strongest to hit western Montana in years; it was followed by at least 10 measurable temblors with magnitudes of up to 4.9.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday">http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/usgs_wide-a4483212f753400838d08856f89ba9644c556f16-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/usgs_wide-23329c6f40e3903fc1cde93b961d92c3575a9126-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ July 3, 2017 - Frogs are "master survivors," able to take advantage of the ecolo
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction">http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</guid>
-      <title>Stephen Hawking: Trump Pushing Earth&#39;s Climate &#39;Over The Brink&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</link>
-      <description>July 3, 2017 - The renowned physicist and cosmologist says the U.S. pulling out of the Paris climate change accord could turn our planet into another Venus.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/ap_17065490488623_wide-5d6132e228272e2505c7ad005ebbef2f27f7ac6b-s800-c15.jpg"></a>
-
-July 3, 2017 - The renowned physicist and cosmologist says the U.S. pulling out of the Paris climate change accord could turn our planet into another Venus.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink">http://www.npr.org/sections/thetwo-way/2017/07/03/535377270/stephen-hawking-trump-pushing-earths-climate-over-the-brink</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/ap_17065490488623_wide-5d6132e228272e2505c7ad005ebbef2f27f7ac6b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
