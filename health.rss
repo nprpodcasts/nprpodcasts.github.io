@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 03:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 13:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Jul 2017 03:00:07 +0000</pubDate>
+    <pubDate>Thu, 06 Jul 2017 13:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_architecture_of_an_asylum_tracks_history_of_us_treatment_of_mental_illness.mp3?orgId=1&amp;topicId=1142&amp;d=313&amp;p=3&amp;story=535608442&amp;t=progseg&amp;e=535732054&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Architecture Of An Asylum&#39; Tracks History Of U.S. Treatment Of Mental Illness</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness</link>
+      <description>July 6, 2017 - Founded in 1855, St. Elizabeths Hospital in Washington, D.C., grew from 250 patients to 8,000. A new exhibit at the National Building Museum explores the links between architecture and mental health.</description>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_architecture_of_an_asylum_tracks_history_of_us_treatment_of_mental_illness.mp3?orgId=1&amp;topicId=1142&amp;d=313&amp;p=3&amp;story=535608442&amp;t=progseg&amp;e=535732054&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/allison-building-sleeping-porch-_wide-52cbb4d3569d0111811e3865b9606665d0268e22-s800-c15.jpg"></a>
+
+July 6, 2017 - Founded in 1855, St. Elizabeths Hospital in Washington, D.C., grew from 250 patients to 8,000. A new exhibit at the National Building Museum explores the links between architecture and mental health.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness">http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/allison-building-sleeping-porch-_wide-52cbb4d3569d0111811e3865b9606665d0268e22-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>313</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_us_medical_system_remains_unprepared_to_treat_deadly_complication_of_childbirth.mp3?orgId=1&amp;topicId=1150&amp;d=735&amp;p=2&amp;story=535660628&amp;t=progseg&amp;e=535582011&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.S. Hospitals Struggle To Protect Mothers When Childbirth Turns Deadly</title>
@@ -241,21 +258,6 @@ July 2, 2017 - The head of the Red Cross orthopedic program wasn't sure a basket
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/02/528498720/hoop-dreams-wheelchair-basketball-is-changing-lives-in-afghanistan">http://www.npr.org/sections/goatsandsoda/2017/07/02/528498720/hoop-dreams-wheelchair-basketball-is-changing-lives-in-afghanistan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/01/v-p-af-e-02402_wide-6c34b45867e4eee389ec14815527748fb6814118-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170701_atc_senate_healthcare_bill_update.mp3?orgId=1&amp;topicId=1022&amp;d=236&amp;p=2&amp;story=535187220&amp;t=progseg&amp;e=535183571&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What You Should Know About The Senate Health Care Bill</title>
-      <link>http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill</link>
-      <description>July 1, 2017 - Kaiser Health News Chief Washington Correspondent Julie Rovner gives the latest news on the Senate health care bill.&#xA;&#xA; - http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill</description>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170701_atc_senate_healthcare_bill_update.mp3?orgId=1&amp;topicId=1022&amp;d=236&amp;p=2&amp;story=535187220&amp;t=progseg&amp;e=535183571&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 1, 2017 - Kaiser Health News Chief Washington Correspondent Julie Rovner gives the latest news on the Senate health care bill.
-
-<a href="http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill">http://www.npr.org/2017/07/01/535187220/what-you-should-know-about-the-senate-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
