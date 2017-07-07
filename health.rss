@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2017 18:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 20:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 07 Jul 2017 18:00:12 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2017 20:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/07/535962077/nevada-voters-divided-over-health-care-put-moderate-republican-in-tough-spot</guid>
+      <title>Nevada Voters, Divided Over Health Care, Put Moderate Republican In Tough Spot</title>
+      <link>http://www.npr.org/2017/07/07/535962077/nevada-voters-divided-over-health-care-put-moderate-republican-in-tough-spot</link>
+      <description>July 7, 2017 - Amid protests during recess, Sen. Dean Heller stayed on the sidelines in his state&#39;s health care tug-of-war. Heller is one of the few moderate Republicans expected to have swaying power in the vote.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/img_4302-edit_wide-3278381b3ef3132ebd290fb8f0ca809dd7ec4a21-s800-c15.jpg"></a>
+
+July 7, 2017 - Amid protests during recess, Sen. Dean Heller stayed on the sidelines in his state's health care tug-of-war. Heller is one of the few moderate Republicans expected to have swaying power in the vote.
+
+<a href="http://www.npr.org/2017/07/07/535962077/nevada-voters-divided-over-health-care-put-moderate-republican-in-tough-spot">http://www.npr.org/2017/07/07/535962077/nevada-voters-divided-over-health-care-put-moderate-republican-in-tough-spot</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/img_4302-edit_wide-3278381b3ef3132ebd290fb8f0ca809dd7ec4a21-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</guid>
+      <title>Montana Insurers Say Medicaid Cuts Would Drive Up Cost Of Private Health Plans</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</link>
+      <description>July 7, 2017 - Montana&#39;s three main health insurance firms say the Republican Senate&#39;s proposed cuts to Medicaid, and any plan to repeal the individual mandate, could drive up health costs for everyone.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/gettyimages-802127628-2_wide-883968b9879f247ba834a39cbfaadfdb6c924be3-s800-c15.jpg"></a>
+
+July 7, 2017 - Montana's three main health insurance firms say the Republican Senate's proposed cuts to Medicaid, and any plan to repeal the individual mandate, could drive up health costs for everyone.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans">http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/gettyimages-802127628-2_wide-883968b9879f247ba834a39cbfaadfdb6c924be3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/07/535840902/medicaid-expansion-has-delivered-access-to-addiction-treatment-report-finds</guid>
       <title>Medicaid Expansion Has Delivered Access To Addiction Treatment, Report Finds</title>
@@ -222,38 +252,6 @@ July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic">http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_17180755799555_wide-6a25326a4f62aa747767b484977b88957e4a4785-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_in_a_conservative_corner_of_california_a_push_to_preserve_obamacare.mp3?orgId=150&amp;topicId=1128&amp;d=213&amp;p=2&amp;story=535029503&amp;t=progseg&amp;e=535582011&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In A Conservative Corner Of California, A Push To Preserve Obamacare</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</link>
-      <description>July 5, 2017 - A coalition of health clinics in northeast California is asking local officials to defend the Affordable Care Act. And some are, despite the area&#39;s conservative politics.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_in_a_conservative_corner_of_california_a_push_to_preserve_obamacare.mp3?orgId=150&amp;topicId=1128&amp;d=213&amp;p=2&amp;story=535029503&amp;t=progseg&amp;e=535582011&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s800-c15.jpg"></a>
-
-July 5, 2017 - A coalition of health clinics in northeast California is asking local officials to defend the Affordable Care Act. And some are, despite the area's conservative politics.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare">http://www.npr.org/sections/health-shots/2017/07/05/535029503/in-a-conservative-corner-of-california-a-push-to-preserve-obamacare</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/greta-elliott-1--2_wide-f466f61323422600ad54ac5cef34fa0771a37398-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>213</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170705.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Fight Over The Dakota Access Pipeline Continues</title>
-      <link>http://the1a.org/shows/2017-07-05/the-fight-over-dapl-continues-long-after-protest-camps-close</link>
-      <description>July 5, 2017 - Protesters opposed to the construction of the Dakota Access Pipeline have long since dispersed from the Dakotas&#39; Standing Rock Indian Reservation, but the saga of the 1100-mile long oil pipeline continues.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170705.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 5, 2017 - Protesters opposed to the construction of the Dakota Access Pipeline have long since dispersed from the Dakotas' Standing Rock Indian Reservation, but the saga of the 1100-mile long oil pipeline continues.
-
-<a href="http://the1a.org/shows/2017-07-05/the-fight-over-dapl-continues-long-after-protest-camps-close">http://the1a.org/shows/2017-07-05/the-fight-over-dapl-continues-long-after-protest-camps-close</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2828</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
