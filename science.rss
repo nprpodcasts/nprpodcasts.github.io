@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 18:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Jul 2017 23:00:16 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2017 18:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</guid>
+      <title>Who Gets To Fish For Red Snapper In The Gulf? It&#39;s All Politics</title>
+      <link>http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</link>
+      <description>July 7, 2017 - The fish were nearly wiped out from the Gulf 20 or 30 years ago, so the catch is closely regulated. A Trump administration deal to extend the recreational season has prompted cheers – and concerns.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/img_7296_wide-77a23bf698bfd7e6e0bb509924d9d5f970d22c19-s800-c15.jpg"></a>
+
+July 7, 2017 - The fish were nearly wiped out from the Gulf 20 or 30 years ago, so the catch is closely regulated. A Trump administration deal to extend the recreational season has prompted cheers – and concerns.
+
+<a href="http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics">http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/30/img_7296_wide-77a23bf698bfd7e6e0bb509924d9d5f970d22c19-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</guid>
+      <title>Georgia OB-GYN Will Lead Centers For Disease Control And Prevention</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</link>
+      <description>July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She&#39;ll take over as the Trump administration seeks big cuts to the CDC&#39;s budget.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s800-c15.jpg"></a>
+
+July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She'll take over as the Trump administration seeks big cuts to the CDC's budget.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention">http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_to_prepare_for_mars_settlement_simulated_missions_explore_utahs_desert.mp3?orgId=1&amp;topicId=1007&amp;d=268&amp;p=2&amp;story=522060920&amp;t=progseg&amp;e=535736581&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>To Prepare For Mars Settlement, Simulated Missions Explore Utah&#39;s Desert</title>
@@ -57,16 +87,18 @@ July 6, 2017 - The earthquake was the strongest to hit western Montana in years;
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_physics_for_toddlers.mp3?orgId=1&amp;topicId=1032&amp;d=228&amp;p=3&amp;story=535732200&amp;t=progseg&amp;e=535732054&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Physics For Toddlers</title>
-      <link>http://www.npr.org/sections/ed/2017/07/06/535732200/physics-for-toddlers</link>
-      <description>July 6, 2017 - There&#39;s a dearth of books about science and math for young children. As part of our series on kids&#39; media we take a look at some books that introduce rocket science and physics to toddlers and babies.</description>
+      <title>Something New For Baby To Chew On: Rocket Science And Quantum Physics</title>
+      <link>http://www.npr.org/sections/ed/2017/07/06/535732200/something-new-for-baby-to-chew-on-rocket-science-and-quantum-physics</link>
+      <description>July 6, 2017 - Chris Ferrie&#39;s board books introduce subjects like Rocket Science, Quantum Physics and General Relativity to toddlers and babies. What can parents do to make the concepts resonate?</description>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_physics_for_toddlers.mp3?orgId=1&amp;topicId=1032&amp;d=228&amp;p=3&amp;story=535732200&amp;t=progseg&amp;e=535732054&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 6, 2017 - There's a dearth of books about science and math for young children. As part of our series on kids' media we take a look at some books that introduce rocket science and physics to toddlers and babies.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/img_5481_wide-c129ad6197daa9189c2193c87bbae855685912a1-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/sections/ed/2017/07/06/535732200/physics-for-toddlers">http://www.npr.org/sections/ed/2017/07/06/535732200/physics-for-toddlers</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+July 6, 2017 - Chris Ferrie's board books introduce subjects like Rocket Science, Quantum Physics and General Relativity to toddlers and babies. What can parents do to make the concepts resonate?
+
+<a href="http://www.npr.org/sections/ed/2017/07/06/535732200/something-new-for-baby-to-chew-on-rocket-science-and-quantum-physics">http://www.npr.org/sections/ed/2017/07/06/535732200/something-new-for-baby-to-chew-on-rocket-science-and-quantum-physics</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/img_5481_wide-c129ad6197daa9189c2193c87bbae855685912a1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>228</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -182,12 +214,12 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Research Shows Birth Order Really Does Matter</title>
       <link>http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter</link>
       <description>July 4, 2017 - Compared to older siblings, second-born boys are more likely to go to prison, get suspended in school and enter juvenile delinquency. Why? Parents of first-borns are more invested in their upbringing.</description>
       <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_research_shows_birth_order_really_does_matter.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=206&amp;p=3&amp;story=535470953&amp;t=progseg&amp;e=535470809&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 4, 2017 - Compared to older siblings, second-born boys are more likely to go to prison, get suspended in school and enter juvenile delinquency. Why? Parents of first-borns are more invested in their upbringing.
 
@@ -224,38 +256,6 @@ July 3, 2017 - Scientific American concludes that disasters correlate to a 1-per
 <a href="http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin">http://www.npr.org/2017/07/03/535408634/biologists-divided-over-how-to-save-endangered-pangolin</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>199</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_pathfinder_anniversary.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=253&amp;p=2&amp;story=535372087&amp;t=progseg&amp;e=535339707&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Another July 4th Anniversary: Pathfinder&#39;s Landing On Mars</title>
-      <link>http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</link>
-      <description>July 3, 2017 - In 1997, the spacecraft&#39;s mission paved the way for the more sophisticated rovers operating on the Red Planet today.&#xA;&#xA; - http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_pathfinder_anniversary.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=253&amp;p=2&amp;story=535372087&amp;t=progseg&amp;e=535339707&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/petals_wide-552e9759132c7e530cba8dabddeeae43ff3d8c76-s800-c15.jpg"></a>
-
-July 3, 2017 - In 1997, the spacecraft's mission paved the way for the more sophisticated rovers operating on the Red Planet today.
-
-<a href="http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars">http://www.npr.org/2017/07/03/535372087/another-july-4th-anniversary-pathfinders-landing-on-mars</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/petals_wide-552e9759132c7e530cba8dabddeeae43ff3d8c76-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>253</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</guid>
-      <title>How Frogs Benefited From The Dinosaurs&#39; Extinction</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</link>
-      <description>July 3, 2017 - Frogs are &#34;master survivors,&#34; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e-s800-c15.jpg"></a>
-
-July 3, 2017 - Frogs are "master survivors," able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction">http://www.npr.org/sections/thetwo-way/2017/07/03/535383841/how-frogs-benefited-from-the-dinosaurs-extinction</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/frog_wide-a484f2e9b1313987be577f86412d032bbd42bd5e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 17:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 18:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 06 Jul 2017 17:20:38 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2017 18:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170707_me_tesla_bets_big_on_a_mass-market_electric_car.mp3?orgId=1&amp;topicId=1006&amp;d=222&amp;p=3&amp;story=535920505&amp;t=progseg&amp;e=535920349&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>As First Model 3 Rolls Off The Line, Can Tesla Sustain Momentum?</title>
+      <link>http://www.npr.org/2017/07/07/535920505/tesla-bets-big-on-a-mass-market-electric-car</link>
+      <description>July 7, 2017 - Tesla&#39;s first Model 3 comes off the assembly line Friday, a pivotal moment for the company. It&#39;s Tesla&#39;s mass-market electric car — with a $35,000 price. But it faces challenges ramping up production.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170707_me_tesla_bets_big_on_a_mass-market_electric_car.mp3?orgId=1&amp;topicId=1006&amp;d=222&amp;p=3&amp;story=535920505&amp;t=progseg&amp;e=535920349&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/07/ap_805325988122_wide-62ea4b7a17dbba299af413d98ba5831dbf420e60-s800-c15.jpg"></a>
+
+July 7, 2017 - Tesla's first Model 3 comes off the assembly line Friday, a pivotal moment for the company. It's Tesla's mass-market electric car — with a $35,000 price. But it faces challenges ramping up production.
+
+<a href="http://www.npr.org/2017/07/07/535920505/tesla-bets-big-on-a-mass-market-electric-car">http://www.npr.org/2017/07/07/535920505/tesla-bets-big-on-a-mass-market-electric-car</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/ap_805325988122_wide-62ea4b7a17dbba299af413d98ba5831dbf420e60-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>222</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/06/535076690/can-snapchats-new-snap-map-bring-the-world-closer-together</guid>
       <title>Can Snapchat&#39;s New &#39;Snap Map&#39; Bring The World Closer Together?</title>
@@ -243,21 +260,6 @@ July 4, 2017 - The number of older people involved in the arts programs at the B
 <a href="http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library">http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s3000-c15.jpg"></itunes:image>
       <itunes:duration>274</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1124&amp;d=225&amp;p=2&amp;story=535425954&amp;t=progseg&amp;e=535339707&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Russia&#39;s Tech Center, Scientists Face Rewarding But Unpredictable Life</title>
-      <link>http://www.npr.org/2017/07/03/535425954/in-russias-tech-center-scientists-face-rewarding-but-unpredictable-life</link>
-      <description>July 3, 2017 - Research institutes in Novosibirsk were built as innovation centers in the USSR. Despite the brain drain, scientists and techies remain, but life for successful entrepreneurs can be unpredictable.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1124&amp;d=225&amp;p=2&amp;story=535425954&amp;t=progseg&amp;e=535339707&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 3, 2017 - Research institutes in Novosibirsk were built as innovation centers in the USSR. Despite the brain drain, scientists and techies remain, but life for successful entrepreneurs can be unpredictable.
-
-<a href="http://www.npr.org/2017/07/03/535425954/in-russias-tech-center-scientists-face-rewarding-but-unpredictable-life">http://www.npr.org/2017/07/03/535425954/in-russias-tech-center-scientists-face-rewarding-but-unpredictable-life</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
