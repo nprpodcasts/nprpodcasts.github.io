@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2017 18:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 22:00:47 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 07 Jul 2017 18:00:14 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2017 22:00:47 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work</guid>
+      <title>Recruiters Use &#39;Geofencing&#39; To Target Potential Hires Where They Live And Work</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work</link>
+      <description>July 7, 2017 - Geofencing sets up virtual boundaries to enable tracking of mobile devices in an area. It can be used to send coupons to customers. Now some employers are using it to target and recruit workers.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/07/istock-518729635_wide-9e7768596b8421fa4efd4c0b3a73431915ad1890-s800-c15.jpg"></a>
+
+July 7, 2017 - Geofencing sets up virtual boundaries to enable tracking of mobile devices in an area. It can be used to send coupons to customers. Now some employers are using it to target and recruit workers.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work">http://www.npr.org/sections/alltechconsidered/2017/07/07/535981386/recruiters-use-geofencing-to-target-potential-hires-where-they-live-and-work</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/istock-518729635_wide-9e7768596b8421fa4efd4c0b3a73431915ad1890-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170707_me_tesla_bets_big_on_a_mass-market_electric_car.mp3?orgId=1&amp;topicId=1006&amp;d=222&amp;p=3&amp;story=535920505&amp;t=progseg&amp;e=535920349&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>As First Model 3 Rolls Off The Line, Can Tesla Sustain Momentum?</title>
@@ -243,23 +258,6 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
 <a href="http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying">http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_xbox_bowling_for_seniors_visit_your_local_library.mp3?orgId=1&amp;topicId=1091&amp;d=274&amp;p=2&amp;story=534431175&amp;t=progseg&amp;e=535468392&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Xbox Bowling For Seniors? Visit Your Local Library</title>
-      <link>http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</link>
-      <description>July 4, 2017 - The number of older people involved in the arts programs at the Brooklyn Public Library is up more than 50 percent since last year. They want a chance to write new chapters in a place for all ages.</description>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_xbox_bowling_for_seniors_visit_your_local_library.mp3?orgId=1&amp;topicId=1091&amp;d=274&amp;p=2&amp;story=534431175&amp;t=progseg&amp;e=535468392&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s800-c15.jpg"></a>
-
-July 4, 2017 - The number of older people involved in the arts programs at the Brooklyn Public Library is up more than 50 percent since last year. They want a chance to write new chapters in a place for all ages.
-
-<a href="http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library">http://www.npr.org/2017/07/04/534431175/xbox-bowling-for-seniors-visit-your-local-library</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/2017-06-08-08-28-26--0700_wide-ac71e6c74a804aabdec48c6edc1b875674408011-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>274</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 22:00:45 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 07 Jul 2017 20:00:19 +0000</pubDate>
+    <pubDate>Fri, 07 Jul 2017 22:00:45 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/07/536025808/crime-labs-struggle-to-identify-opioids-in-race-to-stop-epidemic</guid>
+      <title>Crime Labs Struggle To Identify Opioids In Race To Stop Epidemic</title>
+      <link>http://www.npr.org/2017/07/07/536025808/crime-labs-struggle-to-identify-opioids-in-race-to-stop-epidemic</link>
+      <description>July 7, 2017 - NPR&#39;s Kelly McEvers talks to STAT News reporter Max Blau about his recent reporting on counterfeit opioids in forensic crime labs. The shifting nature of the opioids themselves makes it difficult to treat overdoses and prosecute dealers.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 7, 2017 - NPR's Kelly McEvers talks to STAT News reporter Max Blau about his recent reporting on counterfeit opioids in forensic crime labs. The shifting nature of the opioids themselves makes it difficult to treat overdoses and prosecute dealers.
+
+<a href="http://www.npr.org/2017/07/07/536025808/crime-labs-struggle-to-identify-opioids-in-race-to-stop-epidemic">http://www.npr.org/2017/07/07/536025808/crime-labs-struggle-to-identify-opioids-in-race-to-stop-epidemic</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_trump_administration_appoints_dr_brenda_fitzgerald_as_new_cdc_director.mp3?orgId=1&amp;topicId=1128&amp;d=156&amp;p=2&amp;story=536025763&amp;t=progseg&amp;e=535922947&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Trump Administration Appoints Dr. Brenda Fitzgerald As New CDC Director</title>
+      <link>http://www.npr.org/2017/07/07/536025763/trump-administration-appoints-dr-brenda-fitzgerald-as-new-cdc-director</link>
+      <description>July 7, 2017 - Dr. Brenda Fitzgerald has been appointed as the new director of the Centers for Disease Control and Prevention in Atlanta. She is an obstetrician-gynecologist who&#39;s led the Georgia state health department for six years. She succeeds Dr. Thomas Frieden.</description>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_trump_administration_appoints_dr_brenda_fitzgerald_as_new_cdc_director.mp3?orgId=1&amp;topicId=1128&amp;d=156&amp;p=2&amp;story=536025763&amp;t=progseg&amp;e=535922947&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 7, 2017 - Dr. Brenda Fitzgerald has been appointed as the new director of the Centers for Disease Control and Prevention in Atlanta. She is an obstetrician-gynecologist who's led the Georgia state health department for six years. She succeeds Dr. Thomas Frieden.
+
+<a href="http://www.npr.org/2017/07/07/536025763/trump-administration-appoints-dr-brenda-fitzgerald-as-new-cdc-director">http://www.npr.org/2017/07/07/536025763/trump-administration-appoints-dr-brenda-fitzgerald-as-new-cdc-director</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>156</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/07/535962077/nevada-voters-divided-over-health-care-put-moderate-republican-in-tough-spot</guid>
       <title>Nevada Voters, Divided Over Health Care, Put Moderate Republican In Tough Spot</title>
@@ -39,11 +67,12 @@ July 7, 2017 - Amid protests during recess, Sen. Dean Heller stayed on the sidel
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_montana_insurers_say_medicaid_cuts_would_drive_up_cost_of_private_health_plans.mp3?orgId=214&amp;topicId=1128&amp;d=177&amp;p=2&amp;story=535831120&amp;t=progseg&amp;e=535922947&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Montana Insurers Say Medicaid Cuts Would Drive Up Cost Of Private Health Plans</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</link>
       <description>July 7, 2017 - Montana&#39;s three main health insurance firms say the Republican Senate&#39;s proposed cuts to Medicaid, and any plan to repeal the individual mandate, could drive up health costs for everyone.</description>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_montana_insurers_say_medicaid_cuts_would_drive_up_cost_of_private_health_plans.mp3?orgId=214&amp;topicId=1128&amp;d=177&amp;p=2&amp;story=535831120&amp;t=progseg&amp;e=535922947&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/gettyimages-802127628-2_wide-883968b9879f247ba834a39cbfaadfdb6c924be3-s800-c15.jpg"></a>
 
@@ -51,6 +80,7 @@ July 7, 2017 - Montana's three main health insurance firms say the Republican Se
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans">http://www.npr.org/sections/health-shots/2017/07/07/535831120/montana-insurers-say-medicaid-cuts-would-drive-up-cost-of-private-health-plans</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/07/gettyimages-802127628-2_wide-883968b9879f247ba834a39cbfaadfdb6c924be3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>177</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,36 +252,6 @@ July 6, 2017 - Founded in 1855, St. Elizabeths Hospital in Washington, D.C., gre
 <a href="http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly">http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>735</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</guid>
-      <title>They Dreamed Of Being Doctors. Now They Help Syrians With The Same Dream</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</link>
-      <description>July 5, 2017 - Two Iranian brothers didn&#39;t let a war keep them from medical school. Now they&#39;re using mobile phones to build the next generation of doctors in Syria.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-715b6aa2d682e99b2443892f7471630c23a8847d-s800-c15.jpg"></a>
-
-July 5, 2017 - Two Iranian brothers didn't let a war keep them from medical school. Now they're using mobile phones to build the next generation of doctors in Syria.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option">http://www.npr.org/sections/goatsandsoda/2017/07/05/532140694/medical-school-via-mobile-phone-for-some-syrians-it-s-a-growing-option</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/refugeesdoctor-raquelaparicio-white_wide-715b6aa2d682e99b2443892f7471630c23a8847d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</guid>
-      <title>Trump&#39;s Surgeon General Pick Built Reputation Fighting HIV And Opioids In Indiana</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</link>
-      <description>July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence to authorize syringe exchanges in the state. If confirmed, public health advocates are hopeful he&#39;ll have sway in Washington.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/ap_17180755799555_wide-6a25326a4f62aa747767b484977b88957e4a4785-s800-c15.jpg"></a>
-
-July 5, 2017 - Dr. Jerome Adams is credited with persuading then-Gov. Mike Pence to authorize syringe exchanges in the state. If confirmed, public health advocates are hopeful he'll have sway in Washington.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic">http://www.npr.org/sections/health-shots/2017/07/05/535618770/surgeon-general-nominee-championed-policies-to-curb-indiana-s-opioid-epidemic</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/ap_17180755799555_wide-6a25326a4f62aa747767b484977b88957e4a4785-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
