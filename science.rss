@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 00:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 13:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Jul 2017 00:00:28 +0000</pubDate>
+    <pubDate>Sat, 08 Jul 2017 13:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</guid>
+      <title>Biologists Divided Over How To Save Endangered Pangolin</title>
+      <link>http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</link>
+      <description>July 8, 2017 - The pangolin is a small armadillo-like creature. It&#39;s in great demand for its meat and scales, and it&#39;s in danger of extinction. Biologists can&#39;t agree on whether zoos should play a role in saving it.</description>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 8, 2017 - The pangolin is a small armadillo-like creature. It's in great demand for its meat and scales, and it's in danger of extinction. Biologists can't agree on whether zoos should play a role in saving it.
+
+<a href="http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin">http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_florida_swaps_out_septic_tanks_for_sewers_to_fight_coastal_pollution.mp3?orgId=1&amp;topicId=1025&amp;d=235&amp;p=2&amp;story=536025773&amp;t=progseg&amp;e=535922947&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Florida Swaps Out Septic Tanks For Sewers To Fight Coastal Pollution</title>
@@ -39,12 +52,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_who_gets_to_fish_for_red_snapper_in_the_gulf_its_all_politics.mp3?orgId=1&amp;topicId=1053&amp;d=298&amp;p=2&amp;story=535021139&amp;t=progseg&amp;e=535922947&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_who_gets_to_fish_for_red_snapper_in_the_gulf_its_all_politics.mp3?orgId=1&amp;topicId=1053&amp;d=297&amp;p=2&amp;story=535021139&amp;t=progseg&amp;e=535922947&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Who Gets To Fish For Red Snapper In The Gulf? It&#39;s All Politics</title>
       <link>http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</link>
       <description>July 7, 2017 - The fish were nearly wiped out from the Gulf 20 or 30 years ago, so the catch is closely regulated. A Trump administration deal to extend the recreational season has prompted cheers – and concerns.</description>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_who_gets_to_fish_for_red_snapper_in_the_gulf_its_all_politics.mp3?orgId=1&amp;topicId=1053&amp;d=298&amp;p=2&amp;story=535021139&amp;t=progseg&amp;e=535922947&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_who_gets_to_fish_for_red_snapper_in_the_gulf_its_all_politics.mp3?orgId=1&amp;topicId=1053&amp;d=297&amp;p=2&amp;story=535021139&amp;t=progseg&amp;e=535922947&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/30/img_7296_wide-77a23bf698bfd7e6e0bb509924d9d5f970d22c19-s800-c15.jpg"></a>
 
@@ -52,7 +65,7 @@ July 7, 2017 - The fish were nearly wiped out from the Gulf 20 or 30 years ago, 
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics">http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/img_7296_wide-77a23bf698bfd7e6e0bb509924d9d5f970d22c19-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>298</itunes:duration>
+      <itunes:duration>297</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +256,6 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
 <a href="http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter">http://www.npr.org/2017/07/04/535470953/research-shows-birth-order-really-does-matter</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>206</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</guid>
-      <title>Natural Disasters May Widen Income Gap, Report Says</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</link>
-      <description>July 3, 2017 - Scientific American concludes that disasters correlate to a 1-percentage-point increase in poverty in the affected areas. It also finds that the rich leave disaster-prone areas but the poor can&#39;t.</description>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/03/ap_050901029160_wide-f7a0e1d903264aabdd605115e0fa420a2efa25c7-s800-c15.jpg"></a>
-
-July 3, 2017 - Scientific American concludes that disasters correlate to a 1-percentage-point increase in poverty in the affected areas. It also finds that the rich leave disaster-prone areas but the poor can't.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says">http://www.npr.org/sections/thetwo-way/2017/07/03/535406893/natural-disasters-may-widen-income-gap-report-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/ap_050901029160_wide-f7a0e1d903264aabdd605115e0fa420a2efa25c7-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

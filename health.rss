@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 02:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 13:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Jul 2017 02:00:24 +0000</pubDate>
+    <pubDate>Sat, 08 Jul 2017 13:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</guid>
+      <title>3 Doctors On What Works And Doesn&#39;t Work In U.S. Health Care</title>
+      <link>http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</link>
+      <description>July 8, 2017 - Doctors Julie Gunter, Rob Stone and Gary Sobelson talk with Scott Simon about the problems with American health care and what they think of the current Republican health care plan.</description>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 8, 2017 - Doctors Julie Gunter, Rob Stone and Gary Sobelson talk with Scott Simon about the problems with American health care and what they think of the current Republican health care plan.
+
+<a href="http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care">http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</guid>
+      <title>Senate Health Bill Could Both Boost And Undercut Mental Health Funding</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</link>
+      <description>July 8, 2017 - The draft health care bill has a provision meant to increase the availability of inpatient psychiatric care. But overall cuts to Medicaid could actually lead to even fewer psychiatric beds nationwide.</description>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/grou-therapy_wide-6fcdc6f58800bd101a123e0b8abba157abd67dd9-s800-c15.jpg"></a>
+
+July 8, 2017 - The draft health care bill has a provision meant to increase the availability of inpatient psychiatric care. But overall cuts to Medicaid could actually lead to even fewer psychiatric beds nationwide.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding">http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/grou-therapy_wide-6fcdc6f58800bd101a123e0b8abba157abd67dd9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_crime_labs_struggle_to_identify_opioids_in_race_to_stop_epidemic.mp3?orgId=1&amp;topicId=1070&amp;d=257&amp;p=2&amp;story=536025808&amp;t=progseg&amp;e=535922947&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Crime Labs Struggle To Identify Opioids In Race To Stop Epidemic</title>
@@ -224,38 +252,6 @@ July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the 
 <a href="http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert">http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-bf292e4c8c5682a5d6176d5835c93dc3ef1e358b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>268</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_architecture_of_an_asylum_tracks_history_of_us_treatment_of_mental_illness.mp3?orgId=1&amp;topicId=1142&amp;d=313&amp;p=3&amp;story=535608442&amp;t=progseg&amp;e=535732054&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Architecture Of An Asylum&#39; Tracks History Of U.S. Treatment Of Mental Illness</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness</link>
-      <description>July 6, 2017 - Founded in 1855, St. Elizabeths Hospital in Washington, D.C., grew from 250 patients to 8,000. A new exhibit at the National Building Museum explores the links between architecture and mental health.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170706_me_architecture_of_an_asylum_tracks_history_of_us_treatment_of_mental_illness.mp3?orgId=1&amp;topicId=1142&amp;d=313&amp;p=3&amp;story=535608442&amp;t=progseg&amp;e=535732054&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/allison-building-sleeping-porch-_wide-52cbb4d3569d0111811e3865b9606665d0268e22-s800-c15.jpg"></a>
-
-July 6, 2017 - Founded in 1855, St. Elizabeths Hospital in Washington, D.C., grew from 250 patients to 8,000. A new exhibit at the National Building Museum explores the links between architecture and mental health.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness">http://www.npr.org/sections/health-shots/2017/07/06/535608442/architecture-of-an-asylum-tracks-history-of-u-s-treatment-of-mental-illness</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/allison-building-sleeping-porch-_wide-52cbb4d3569d0111811e3865b9606665d0268e22-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>313</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_us_medical_system_remains_unprepared_to_treat_deadly_complication_of_childbirth.mp3?orgId=1&amp;topicId=1150&amp;d=735&amp;p=2&amp;story=535660628&amp;t=progseg&amp;e=535582011&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>U.S. Hospitals Struggle To Protect Mothers When Childbirth Turns Deadly</title>
-      <link>http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly</link>
-      <description>July 5, 2017 - A joint NPR and ProPublica investigation finds the U.S. medical system can be unprepared when the complications of childbirth turn deadly.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170705_atc_us_medical_system_remains_unprepared_to_treat_deadly_complication_of_childbirth.mp3?orgId=1&amp;topicId=1150&amp;d=735&amp;p=2&amp;story=535660628&amp;t=progseg&amp;e=535582011&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 5, 2017 - A joint NPR and ProPublica investigation finds the U.S. medical system can be unprepared when the complications of childbirth turn deadly.
-
-<a href="http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly">http://www.npr.org/2017/07/05/535660628/u-s-hospitals-struggle-to-protect-mothers-when-childbirth-turns-deadly</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>735</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
