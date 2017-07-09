@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2017 13:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 18:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 09 Jul 2017 13:03:03 +0000</pubDate>
+    <pubDate>Sun, 09 Jul 2017 18:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</guid>
+      <title>Facing Cancer Is Even Tougher If The Only Radiation Machine Is Broken</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</link>
+      <description>July 9, 2017 - That&#39;s the situation in Senegal. The government has promised to buy new machines. But one cancer specialist says there isn&#39;t enough attention given to the disease.</description>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/Machine_wide-b2ce63f677d534feb3f82952d18176a327a2c770-s800-c15.jpg"></a>
+
+July 9, 2017 - That's the situation in Senegal. The government has promised to buy new machines. But one cancer specialist says there isn't enough attention given to the disease.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment">http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/Machine_wide-b2ce63f677d534feb3f82952d18176a327a2c770-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/09/535793983/for-many-medicaid-provides-the-only-route-to-mental-health-care</guid>
       <title>For Many, Medicaid Provides The Only Route To Mental Health Care</title>
@@ -235,23 +250,6 @@ July 6, 2017 - Some states are seeking to make major changes in their Medicaid p
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law">http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/06/gettyimages-528840355_wide-178aa9f5db4c9b5414cf57bc39529de30120ce24-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_opioid_prescriptions_falling_but_remain_too_high_cdc_says.mp3?orgId=1&amp;topicId=1128&amp;d=160&amp;p=2&amp;story=535656477&amp;t=progseg&amp;e=535736581&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Opioid Prescriptions Falling But Remain Too High, CDC Says</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/06/535656477/opioid-prescriptions-falling-but-remain-too-high-cdc-says</link>
-      <description>July 6, 2017 - U.S. doctors are prescribing opioid painkillers less often and at lower doses, but at rates that are three times higher than their European counterparts, the CDC says.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_opioid_prescriptions_falling_but_remain_too_high_cdc_says.mp3?orgId=1&amp;topicId=1128&amp;d=160&amp;p=2&amp;story=535656477&amp;t=progseg&amp;e=535736581&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/06/istock-696834482-2_wide-c3af5a51f464a196ba117e2878133d3d95fe4ba2-s800-c15.jpg"></a>
-
-July 6, 2017 - U.S. doctors are prescribing opioid painkillers less often and at lower doses, but at rates that are three times higher than their European counterparts, the CDC says.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/06/535656477/opioid-prescriptions-falling-but-remain-too-high-cdc-says">http://www.npr.org/sections/health-shots/2017/07/06/535656477/opioid-prescriptions-falling-but-remain-too-high-cdc-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/istock-696834482-2_wide-c3af5a51f464a196ba117e2878133d3d95fe4ba2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>160</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
