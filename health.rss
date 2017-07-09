@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 13:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 13:03:03 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Jul 2017 13:00:28 +0000</pubDate>
+    <pubDate>Sun, 09 Jul 2017 13:03:03 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/09/535793983/for-many-medicaid-provides-the-only-route-to-mental-health-care</guid>
+      <title>For Many, Medicaid Provides The Only Route To Mental Health Care</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/09/535793983/for-many-medicaid-provides-the-only-route-to-mental-health-care</link>
+      <description>July 9, 2017 - The Senate&#39;s proposed rollback of the Medicaid expansion could cut off mental health benefits to many people who have gotten care for the first time as a result of the Affordable Care Act.</description>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/_mg_0712_wide-e14b87a3c65d12564d83bb9fa4a9a930c10eedcf-s800-c15.jpg"></a>
+
+July 9, 2017 - The Senate's proposed rollback of the Medicaid expansion could cut off mental health benefits to many people who have gotten care for the first time as a result of the Affordable Care Act.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/09/535793983/for-many-medicaid-provides-the-only-route-to-mental-health-care">http://www.npr.org/sections/health-shots/2017/07/09/535793983/for-many-medicaid-provides-the-only-route-to-mental-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/_mg_0712_wide-e14b87a3c65d12564d83bb9fa4a9a930c10eedcf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170708_wesat_doctors_roundtable.mp3?orgId=1&amp;topicId=1027&amp;d=668&amp;p=7&amp;story=536125083&amp;t=progseg&amp;e=536124309&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>3 Doctors On What Works And Doesn&#39;t Work In U.S. Health Care</title>
       <link>http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</link>
       <description>July 8, 2017 - Doctors Julie Gunter, Rob Stone and Gary Sobelson talk with Scott Simon about the problems with American health care and what they think of the current Republican health care plan.</description>
       <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170708_wesat_doctors_roundtable.mp3?orgId=1&amp;topicId=1027&amp;d=668&amp;p=7&amp;story=536125083&amp;t=progseg&amp;e=536124309&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 8, 2017 - Doctors Julie Gunter, Rob Stone and Gary Sobelson talk with Scott Simon about the problems with American health care and what they think of the current Republican health care plan.
 
 <a href="http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care">http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>668</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,23 +252,6 @@ July 6, 2017 - U.S. doctors are prescribing opioid painkillers less often and at
 <a href="http://www.npr.org/sections/health-shots/2017/07/06/535656477/opioid-prescriptions-falling-but-remain-too-high-cdc-says">http://www.npr.org/sections/health-shots/2017/07/06/535656477/opioid-prescriptions-falling-but-remain-too-high-cdc-says</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/06/istock-696834482-2_wide-c3af5a51f464a196ba117e2878133d3d95fe4ba2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>160</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_to_prepare_for_mars_settlement_simulated_missions_explore_utahs_desert.mp3?orgId=1&amp;topicId=1007&amp;d=268&amp;p=2&amp;story=522060920&amp;t=progseg&amp;e=535736581&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Prepare For Mars Settlement, Simulated Missions Explore Utah&#39;s Desert</title>
-      <link>http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</link>
-      <description>July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_to_prepare_for_mars_settlement_simulated_missions_explore_utahs_desert.mp3?orgId=1&amp;topicId=1007&amp;d=268&amp;p=2&amp;story=522060920&amp;t=progseg&amp;e=535736581&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-bf292e4c8c5682a5d6176d5835c93dc3ef1e358b-s800-c15.jpg"></a>
-
-July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.
-
-<a href="http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert">http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-bf292e4c8c5682a5d6176d5835c93dc3ef1e358b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>268</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

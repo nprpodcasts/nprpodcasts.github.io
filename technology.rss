@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 00:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 13:02:59 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 08 Jul 2017 00:00:25 +0000</pubDate>
+    <pubDate>Sun, 09 Jul 2017 13:02:59 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170708_atc_barbershop_internet_trolling.mp3?orgId=1&amp;topicId=1019&amp;d=852&amp;p=2&amp;story=536197350&amp;t=progseg&amp;e=536138117&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Barbershop: Internet Trolling</title>
+      <link>http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling</link>
+      <description>July 8, 2017 - Host Michel Martin talks to Rants &amp; Retorts author Anita Samuels, TrollBusters founder Michelle Ferrier and The Atlantic&#39;s Adrienne LaFrance. (LANGUAGE WARNING: The N-word is not bleeped at 3:59.)</description>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170708_atc_barbershop_internet_trolling.mp3?orgId=1&amp;topicId=1019&amp;d=852&amp;p=2&amp;story=536197350&amp;t=progseg&amp;e=536138117&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 8, 2017 - Host Michel Martin talks to Rants & Retorts author Anita Samuels, TrollBusters founder Michelle Ferrier and The Atlantic's Adrienne LaFrance. (LANGUAGE WARNING: The N-word is not bleeped at 3:59.)
+
+<a href="http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling">http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>852</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_recruiters_use_geofencing_to_target_potential_hires_where_they_live_and_work.mp3?orgId=1&amp;topicId=1019&amp;d=233&amp;p=2&amp;story=535981386&amp;t=progseg&amp;e=535922947&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Recruiters Use &#39;Geofencing&#39; To Target Potential Hires Where They Live And Work</title>
@@ -245,21 +260,6 @@ July 4, 2017 - The Soviet Union built research institutes in Siberia as innovati
 <a href="http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high">http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/img_2320_wide-2cd75f4906a1907c7b6d36424741c9e9b0d7bd32-s3000-c15.jpg"></itunes:image>
       <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_trump_and_cyberbullying.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=535470988&amp;t=progseg&amp;e=535470809&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Does Trump&#39;s Behavior On Twitter Amount To Cyberbullying?</title>
-      <link>http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying</link>
-      <description>July 4, 2017 - If so, how would that impact the first lady&#39;s efforts to take up the issue nationwide? Mary Louise Kelly talks to Parry Aftab, a cyberbullying expert who leads the Internet safety group WiredSafety.</description>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170704_me_trump_and_cyberbullying.mp3?orgId=1&amp;topicId=1019&amp;d=229&amp;p=3&amp;story=535470988&amp;t=progseg&amp;e=535470809&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 4, 2017 - If so, how would that impact the first lady's efforts to take up the issue nationwide? Mary Louise Kelly talks to Parry Aftab, a cyberbullying expert who leads the Internet safety group WiredSafety.
-
-<a href="http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying">http://www.npr.org/2017/07/04/535470988/does-trumps-behavior-on-twitter-amount-to-cyberbullying</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
