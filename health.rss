@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2017 18:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 22:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 09 Jul 2017 18:00:23 +0000</pubDate>
+    <pubDate>Sun, 09 Jul 2017 22:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</guid>
+      <title>Words You&#39;ll Hear: The Better Care Reconciliation Act</title>
+      <link>http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</link>
+      <description>July 9, 2017 - Republican senators are trying to revive their health care bill. While voters weren&#39;t fond of the the original version, but they&#39;re not always clear about what they want when it comes to health care.</description>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 9, 2017 - Republican senators are trying to revive their health care bill. While voters weren't fond of the the original version, but they're not always clear about what they want when it comes to health care.
+
+<a href="http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act">http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</guid>
       <title>Facing Cancer Is Even Tougher If The Only Radiation Machine Is Broken</title>
@@ -235,21 +248,6 @@ July 6, 2017 - For an upcoming series of stories, we'd like to explore the world
 <a href="http://www.npr.org/2017/07/06/535823163/kansas-sen-jerry-moran-faces-pressure-over-health-care-at-town-hall-event">http://www.npr.org/2017/07/06/535823163/kansas-sen-jerry-moran-faces-pressure-over-health-care-at-town-hall-event</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>211</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law</guid>
-      <title>States Move To Tighten Medicaid Enrollment, Even Without A New Health Law</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law</link>
-      <description>July 6, 2017 - Some states are seeking to make major changes in their Medicaid programs that would end coverage for millions of people, even if the Affordable Care Act isn&#39;t repealed.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/06/gettyimages-528840355_wide-178aa9f5db4c9b5414cf57bc39529de30120ce24-s800-c15.jpg"></a>
-
-July 6, 2017 - Some states are seeking to make major changes in their Medicaid programs that would end coverage for millions of people, even if the Affordable Care Act isn't repealed.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law">http://www.npr.org/sections/health-shots/2017/07/06/535750231/states-move-to-tighten-medicaid-enrollment-even-without-a-new-health-law</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/gettyimages-528840355_wide-178aa9f5db4c9b5414cf57bc39529de30120ce24-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
