@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2017 13:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 09 Jul 2017 13:02:59 +0000</pubDate>
+    <pubDate>Mon, 10 Jul 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</guid>
+      <title>Trump&#39;s &#39;Impenetrable&#39; Cyber Unit That Never Was</title>
+      <link>http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</link>
+      <description>July 10, 2017 - President Trump may have saved himself and the government a lot of trouble by pulling the plug on a joint cyber unit with Russia before work got seriously underway.</description>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-810661876_wide-64d6b9de6020d678e87ee6ed77eb2747486c1eb5-s800-c15.jpg"></a>
+
+July 10, 2017 - President Trump may have saved himself and the government a lot of trouble by pulling the plug on a joint cyber unit with Russia before work got seriously underway.
+
+<a href="http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was">http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-810661876_wide-64d6b9de6020d678e87ee6ed77eb2747486c1eb5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170708_atc_barbershop_internet_trolling.mp3?orgId=1&amp;topicId=1019&amp;d=852&amp;p=2&amp;story=536197350&amp;t=progseg&amp;e=536138117&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Barbershop: Internet Trolling</title>
@@ -243,23 +258,6 @@ July 4, 2017 - An industry has sprung up to make wallets and accessories that bl
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them">http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/04/gettyimages-74633667_wide-ed894450ff50b35c1a266dd555e600dded15710b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>256</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1004&amp;d=225&amp;p=2&amp;story=535401305&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Russia&#39;s Siberian Silicon Valley, Business Is Good But Risks Can Be High</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high</link>
-      <description>July 4, 2017 - The Soviet Union built research institutes in Siberia as innovation centers during the Cold War. Since then, there&#39;s been a brain drain. Tech innovators remain, but some have faced legal challenges.</description>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170703_atc_russia_tech_hub.mp3?orgId=1&amp;topicId=1004&amp;d=225&amp;p=2&amp;story=535401305&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/img_2320_wide-2cd75f4906a1907c7b6d36424741c9e9b0d7bd32-s800-c15.jpg"></a>
-
-July 4, 2017 - The Soviet Union built research institutes in Siberia as innovation centers during the Cold War. Since then, there's been a brain drain. Tech innovators remain, but some have faced legal challenges.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high">http://www.npr.org/sections/parallels/2017/07/04/535401305/in-russias-siberian-silicon-valley-business-is-good-but-risks-can-be-high</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/img_2320_wide-2cd75f4906a1907c7b6d36424741c9e9b0d7bd32-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
