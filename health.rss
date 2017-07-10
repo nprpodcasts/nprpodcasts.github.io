@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2017 16:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 21:23:43 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Jul 2017 16:00:15 +0000</pubDate>
+    <pubDate>Mon, 10 Jul 2017 21:23:43 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,48 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tech Design Ethicist Works To Raise Awareness Of Internet Addiction</title>
+      <link>http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</link>
+      <description>July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.</description>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.
+
+<a href="http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction">http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>237</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/10/536505348/health-care-debate-heats-up-in-mitch-mcconnells-home-state-of-kentucky</guid>
+      <title>Health Care Debate Heats Up In Mitch McConnell&#39;s Home State Of Kentucky</title>
+      <link>http://www.npr.org/2017/07/10/536505348/health-care-debate-heats-up-in-mitch-mcconnells-home-state-of-kentucky</link>
+      <description>July 10, 2017 - Voters in Kentucky react to the efforts by Senate Republicans to repeal and replace the Affordable Care Act. The Senate bill is extremely unpopular, especially in Kentucky, where Obamacare had great success.</description>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 10, 2017 - Voters in Kentucky react to the efforts by Senate Republicans to repeal and replace the Affordable Care Act. The Senate bill is extremely unpopular, especially in Kentucky, where Obamacare had great success.
+
+<a href="http://www.npr.org/2017/07/10/536505348/health-care-debate-heats-up-in-mitch-mcconnells-home-state-of-kentucky">http://www.npr.org/2017/07/10/536505348/health-care-debate-heats-up-in-mitch-mcconnells-home-state-of-kentucky</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_survey_says_medicaid_recipients_really_like_their_coverage_and_care.mp3?orgId=1&amp;topicId=1027&amp;d=127&amp;p=2&amp;story=536448362&amp;t=progseg&amp;e=536403945&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Survey Says: Medicaid Recipients Really Like Their Coverage And Care</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care</link>
       <description>July 10, 2017 - A new survey shows that Medicaid beneficiaries are happy with their care and don&#39;t have trouble finding a doctor.</description>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_survey_says_medicaid_recipients_really_like_their_coverage_and_care.mp3?orgId=1&amp;topicId=1027&amp;d=127&amp;p=2&amp;story=536448362&amp;t=progseg&amp;e=536403945&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-494327543_wide-35167f49794796d355efe9a6aa15ef88f7eb2bb6-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-494327543_wide-5e55a6d71016458dac14fadafd204f4c6a6f58ac-s800-c15.jpg"></a>
 
 July 10, 2017 - A new survey shows that Medicaid beneficiaries are happy with their care and don't have trouble finding a doctor.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care">http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-494327543_wide-35167f49794796d355efe9a6aa15ef88f7eb2bb6-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-494327543_wide-5e55a6d71016458dac14fadafd204f4c6a6f58ac-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>127</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,36 +254,6 @@ July 7, 2017 - The Urban Institute reports that Medicaid spending on drugs used 
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/07/535840902/medicaid-expansion-has-delivered-access-to-addiction-treatment-report-finds">http://www.npr.org/sections/health-shots/2017/07/07/535840902/medicaid-expansion-has-delivered-access-to-addiction-treatment-report-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/07/gettyimages-598733668_wide-16d4ca0da0837fe7bf1a30b801f2caa86269a505-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</guid>
-      <title>Georgia OB-GYN Will Lead Centers For Disease Control And Prevention</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</link>
-      <description>July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She&#39;ll take over as the Trump administration seeks big cuts to the CDC&#39;s budget.</description>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s800-c15.jpg"></a>
-
-July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She'll take over as the Trump administration seeks big cuts to the CDC's budget.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention">http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535665925/who-would-enjoy-tax-breaks-under-the-gop-health-care-proposals</guid>
-      <title>Who Would Enjoy Tax Breaks Under The GOP Health Care Proposals?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/07/535665925/who-would-enjoy-tax-breaks-under-the-gop-health-care-proposals</link>
-      <description>July 7, 2017 - The GOP health bills would eliminate many of the taxes that help pay for coverage under the Affordable Care Act. Wealthy individuals stand to gain the most. And customers of tanning salons.</description>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/06/gettyimages-566028135_wide-e37806cbe343244fe9e47fb4d00bdc77814420a4-s800-c15.jpg"></a>
-
-July 7, 2017 - The GOP health bills would eliminate many of the taxes that help pay for coverage under the Affordable Care Act. Wealthy individuals stand to gain the most. And customers of tanning salons.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/07/535665925/who-would-enjoy-tax-breaks-under-the-gop-health-care-proposals">http://www.npr.org/sections/health-shots/2017/07/07/535665925/who-would-enjoy-tax-breaks-under-the-gop-health-care-proposals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/gettyimages-566028135_wide-e37806cbe343244fe9e47fb4d00bdc77814420a4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

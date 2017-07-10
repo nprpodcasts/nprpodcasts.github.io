@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2017 16:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 21:23:41 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Jul 2017 16:00:13 +0000</pubDate>
+    <pubDate>Mon, 10 Jul 2017 21:23:41 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tech Design Ethicist Works To Raise Awareness Of Internet Addiction</title>
+      <link>http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</link>
+      <description>July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.</description>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.
+
+<a href="http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction">http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>237</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</guid>
       <title>Trump&#39;s &#39;Impenetrable&#39; Cyber Unit That Never Was</title>
@@ -241,23 +256,6 @@ July 5, 2017 - "The idea that North Korea is an information black hole is simply
 <a href="http://www.npr.org/2017/07/04/535530381/kasperskys-russian-roots-come-under-scrutiny">http://www.npr.org/2017/07/04/535530381/kasperskys-russian-roots-come-under-scrutiny</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>261</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_there_are_plenty_of_rfid-blocking_products_but_do_you_need_them.mp3?orgId=77&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=535518514&amp;t=progseg&amp;e=535468392&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>There Are Plenty Of RFID-Blocking Products, But Do You Need Them?</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</link>
-      <description>July 4, 2017 - An industry has sprung up to make wallets and accessories that block hackers from &#34;skimming&#34; data wirelessly through radio frequency identification. But some experts say there&#39;s little need to worry.</description>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_there_are_plenty_of_rfid-blocking_products_but_do_you_need_them.mp3?orgId=77&amp;topicId=1019&amp;d=256&amp;p=2&amp;story=535518514&amp;t=progseg&amp;e=535468392&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/04/gettyimages-74633667_wide-ed894450ff50b35c1a266dd555e600dded15710b-s800-c15.jpg"></a>
-
-July 4, 2017 - An industry has sprung up to make wallets and accessories that block hackers from "skimming" data wirelessly through radio frequency identification. But some experts say there's little need to worry.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them">http://www.npr.org/sections/alltechconsidered/2017/07/04/535518514/there-are-plenty-of-rfid-blocking-products-but-do-you-need-them</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/04/gettyimages-74633667_wide-ed894450ff50b35c1a266dd555e600dded15710b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>256</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
