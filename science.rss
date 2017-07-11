@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2017 23:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 16:06:02 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 10 Jul 2017 23:00:13 +0000</pubDate>
+    <pubDate>Tue, 11 Jul 2017 16:06:02 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</guid>
+      <title>Web Comic: The Scientist Who Escaped Aleppo</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</link>
+      <description>July 11, 2017 - It was a harrowing journey. Nedal Said made a new life in Germany — and found what he&#39;d always been looking for.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</description>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/10/boat-11_wide-08b7c942684429d2ae89560bb9865e7213100118-s800-c15.jpg"></a>
+
+July 11, 2017 - It was a harrowing journey. Nedal Said made a new life in Germany — and found what he'd always been looking for.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo">http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/boat-11_wide-08b7c942684429d2ae89560bb9865e7213100118-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_with_caviar_clay_and_turkey_feathers_saving_lake_sturgeon_from_extinction.mp3?orgId=1&amp;topicId=1025&amp;d=226&amp;p=3&amp;story=536595541&amp;t=progseg&amp;e=536594574&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>With Caviar, Clay, and Turkey Feathers, Saving Lake Sturgeon From Extinction</title>
+      <link>http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction</link>
+      <description>July 11, 2017 - Lake sturgeon have been around since the dinosaurs, and they can live as long as humans, or longer. Overfishing and pollution has decimated populations, but biologists are learning to help them breed.</description>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_with_caviar_clay_and_turkey_feathers_saving_lake_sturgeon_from_extinction.mp3?orgId=1&amp;topicId=1025&amp;d=226&amp;p=3&amp;story=536595541&amp;t=progseg&amp;e=536594574&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 11, 2017 - Lake sturgeon have been around since the dinosaurs, and they can live as long as humans, or longer. Overfishing and pollution has decimated populations, but biologists are learning to help them breed.
+
+<a href="http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction">http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>226</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_heres_what_the_oil_industry_is_teaching_oklahomas_students.mp3?orgId=1&amp;topicId=1131&amp;d=260&amp;p=3&amp;story=535653913&amp;t=progseg&amp;e=536594574&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Reading, Writing And Fracking? What The Oil Industry Teaches Oklahoma Students</title>
+      <link>http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students</link>
+      <description>July 11, 2017 - Oklahoma&#39;s oil industry is spending millions on science lessons for public schools. But environmentalists say omitting climate change leaves students unprepared.</description>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_heres_what_the_oil_industry_is_teaching_oklahomas_students.mp3?orgId=1&amp;topicId=1131&amp;d=260&amp;p=3&amp;story=535653913&amp;t=progseg&amp;e=536594574&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/05/20170408---oerb-workshop009_hr_wide-854cdc893a5e9a136efd88538dd1c4fb04f9c09a-s800-c15.jpg"></a>
+
+July 11, 2017 - Oklahoma's oil industry is spending millions on science lessons for public schools. But environmentalists say omitting climate change leaves students unprepared.
+
+<a href="http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students">http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/20170408---oerb-workshop009_hr_wide-854cdc893a5e9a136efd88538dd1c4fb04f9c09a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>260</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_trumps_budget_plan_proposes_cuts_to_great_lakes_restoration_projects.mp3?orgId=1&amp;topicId=1025&amp;d=248&amp;p=2&amp;story=536505365&amp;t=progseg&amp;e=536403945&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump&#39;s Budget Plan Proposes Cuts To Great Lakes Restoration Projects</title>
@@ -46,10 +93,12 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170710_me_pain_before_pleasure_makes_the_pleasure_even_better_study_finds.mp3?orgId=1&amp;topicId=1129&amp;aggIds=423302056&amp;d=196&amp;p=3&amp;story=536392970&amp;t=progseg&amp;e=536392857&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 10, 2017 - A study from the University of Kentucky shows that doing something virtuous can make indulging later even more pleasurable.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/11/gettyimages-121314531_wide-f0e9d5d9b5fe1c732838d52a1246d4a5bbf8d7a7-s800-c15.jpg"></a>
+
+July 10, 2017 - A study from the University of Kentucky shows that doing something virtuous can make indulging later even more pleasurable.
 
 <a href="http://www.npr.org/2017/07/10/536392970/pain-before-pleasure-makes-the-pleasure-even-better-study-finds">http://www.npr.org/2017/07/10/536392970/pain-before-pleasure-makes-the-pleasure-even-better-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/gettyimages-121314531_wide-f0e9d5d9b5fe1c732838d52a1246d4a5bbf8d7a7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>196</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -209,53 +258,6 @@ July 7, 2017 - The fish were nearly wiped out from the Gulf 20 or 30 years ago, 
 <a href="http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics">http://www.npr.org/sections/thesalt/2017/07/07/535021139/who-gets-to-fish-for-red-snapper-in-the-gulf-its-all-politics</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/30/img_7296_wide-77a23bf698bfd7e6e0bb509924d9d5f970d22c19-s3000-c15.jpg"></itunes:image>
       <itunes:duration>297</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</guid>
-      <title>Georgia OB-GYN Will Lead Centers For Disease Control And Prevention</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</link>
-      <description>July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She&#39;ll take over as the Trump administration seeks big cuts to the CDC&#39;s budget.</description>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s800-c15.jpg"></a>
-
-July 7, 2017 - Dr. Brenda Fitzgerald, who leads the Georgia Department of Public Health, has been appointed CDC director. She'll take over as the Trump administration seeks big cuts to the CDC's budget.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention">http://www.npr.org/sections/health-shots/2017/07/07/535954163/georgia-ob-gyn-will-lead-centers-for-disease-control-and-prevention</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/ap_176850927651_wide-f9f0475a81d5cf2f4e0c1d22abac6a146ba1445f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_to_prepare_for_mars_settlement_simulated_missions_explore_utahs_desert.mp3?orgId=1&amp;topicId=1007&amp;d=268&amp;p=2&amp;story=522060920&amp;t=progseg&amp;e=535736581&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Prepare For Mars Settlement, Simulated Missions Explore Utah&#39;s Desert</title>
-      <link>http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</link>
-      <description>July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170706_atc_to_prepare_for_mars_settlement_simulated_missions_explore_utahs_desert.mp3?orgId=1&amp;topicId=1007&amp;d=268&amp;p=2&amp;story=522060920&amp;t=progseg&amp;e=535736581&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-bf292e4c8c5682a5d6176d5835c93dc3ef1e358b-s800-c15.jpg"></a>
-
-July 6, 2017 - NASA plans to send people to the Red Planet in the 2030s. In the meantime, a remote location in southern Utah serves as a non-NASA training ground for the Mars-minded.
-
-<a href="http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert">http://www.npr.org/2017/07/06/522060920/to-prepare-for-mars-settlement-simulated-missions-explore-utahs-desert</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/09/img_4046_wide-bf292e4c8c5682a5d6176d5835c93dc3ef1e358b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>268</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</guid>
-      <title>Montana Earthquake Is Felt For Hundreds Of Miles Early Thursday</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</link>
-      <description>July 6, 2017 - The earthquake was the strongest to hit western Montana in years; it was followed by at least 10 measurable temblors with magnitudes of up to 4.9.</description>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/usgs_wide-23329c6f40e3903fc1cde93b961d92c3575a9126-s800-c15.jpg"></a>
-
-July 6, 2017 - The earthquake was the strongest to hit western Montana in years; it was followed by at least 10 measurable temblors with magnitudes of up to 4.9.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday">http://www.npr.org/sections/thetwo-way/2017/07/06/535741701/montana-earthquake-is-felt-for-hundreds-of-miles-early-thursday</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/usgs_wide-23329c6f40e3903fc1cde93b961d92c3575a9126-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
