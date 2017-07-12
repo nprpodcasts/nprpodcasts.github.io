@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 20:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 17:00:09 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 20:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</guid>
+      <title>Michigan Laws Will Increase Penalties For Performing Female Genital Mutilation</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</link>
+      <description>July 12, 2017 - The laws were spurred by the criminal case of an emergency room doctor charged with performing the procedure on multiple girls in suburban Detroit. The United States banned the practice in 1996.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/ap_17168814253338_wide-7286b59991df1120d087eb4567b072f423443cf3-s800-c15.jpg"></a>
+
+July 12, 2017 - The laws were spurred by the criminal case of an emergency room doctor charged with performing the procedure on multiple girls in suburban Detroit. The United States banned the practice in 1996.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation">http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/ap_17168814253338_wide-7286b59991df1120d087eb4567b072f423443cf3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</guid>
       <title>Took The Wrong Medicine By Mistake? Study Finds Such Errors Are On The Rise</title>
@@ -241,21 +256,6 @@ July 10, 2017 - Women who develop diabetes or high blood pressure during pregnan
 <a href="http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease">http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/heart-pregnancy3_wide-d43025dacbf29714972355c62e96087db543d789-s3000-c15.jpg"></itunes:image>
       <itunes:duration>210</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170709_atc_words_youll_hear_the_better_care_reconciliation_act.mp3?orgId=1&amp;topicId=1027&amp;d=229&amp;p=2&amp;story=536328454&amp;t=progseg&amp;e=536312502&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Words You&#39;ll Hear: The Better Care Reconciliation Act</title>
-      <link>http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</link>
-      <description>July 9, 2017 - Republican senators are trying to revive their health care bill. While voters weren&#39;t fond of the the original version, but they&#39;re not always clear about what they want when it comes to health care.</description>
-      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170709_atc_words_youll_hear_the_better_care_reconciliation_act.mp3?orgId=1&amp;topicId=1027&amp;d=229&amp;p=2&amp;story=536328454&amp;t=progseg&amp;e=536312502&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 9, 2017 - Republican senators are trying to revive their health care bill. While voters weren't fond of the the original version, but they're not always clear about what they want when it comes to health care.
-
-<a href="http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act">http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
