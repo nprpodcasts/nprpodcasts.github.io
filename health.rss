@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 16:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 17:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 16:00:07 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 17:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</guid>
+      <title>Took The Wrong Medicine By Mistake? Study Finds Such Errors Are On The Rise</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</link>
+      <description>July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s800-c15.jpg"></a>
+
+July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise">http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans</guid>
       <title>Senate&#39;s Health Bill Would Make Life Easier For Some Small Businesses</title>
@@ -241,23 +256,6 @@ July 10, 2017 - Women who develop diabetes or high blood pressure during pregnan
 <a href="http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act">http://www.npr.org/2017/07/09/536328454/words-youll-hear-the-better-care-reconciliation-act</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>229</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170709_atc_facing_cancer_is_even_tougher_if_the_only_radiation_machine_is_broken.mp3?orgId=1&amp;topicId=1031&amp;d=270&amp;p=2&amp;story=524534109&amp;t=progseg&amp;e=536312502&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Facing Cancer Is Even Tougher If The Only Radiation Machine Is Broken</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</link>
-      <description>July 9, 2017 - That&#39;s the situation in Senegal. The government has promised to buy new machines. But one cancer specialist says there isn&#39;t enough attention given to the disease.</description>
-      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170709_atc_facing_cancer_is_even_tougher_if_the_only_radiation_machine_is_broken.mp3?orgId=1&amp;topicId=1031&amp;d=270&amp;p=2&amp;story=524534109&amp;t=progseg&amp;e=536312502&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/22/Machine_wide-b2ce63f677d534feb3f82952d18176a327a2c770-s800-c15.jpg"></a>
-
-July 9, 2017 - That's the situation in Senegal. The government has promised to buy new machines. But one cancer specialist says there isn't enough attention given to the disease.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment">http://www.npr.org/sections/goatsandsoda/2017/07/09/524534109/a-country-where-it-can-be-tough-to-get-cancer-treatment</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/22/Machine_wide-b2ce63f677d534feb3f82952d18176a327a2c770-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>270</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 17:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 16:00:06 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 17:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</guid>
+      <title>Took The Wrong Medicine By Mistake? Study Finds Such Errors Are On The Rise</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</link>
+      <description>July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s800-c15.jpg"></a>
+
+July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise">http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</guid>
       <title>Massive Iceberg Breaks Free In Antarctica</title>
@@ -243,21 +258,6 @@ July 9, 2017 - It's the world's biggest coral reef system, home to some 400 type
 <a href="http://www.npr.org/sections/parallels/2017/07/09/535754962/while-corals-die-along-the-great-barrier-reef-humans-struggle-to-adjust">http://www.npr.org/sections/parallels/2017/07/09/535754962/while-corals-die-along-the-great-barrier-reef-humans-struggle-to-adjust</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/07/gettyimages-601042886_wide-fbdc050ac74bc8dcf21f597e5c5c9f3496cfca4b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>478</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal</guid>
-      <title>&#39;G19&#39; Nations Affirm Climate Plan, Acknowledging U.S. Withdrawal</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal</link>
-      <description>July 8, 2017 - Noting President Trump&#39;s stance, a declaration states, &#34;The leaders of the other G20 members state that the Paris Agreement is irreversible.&#34;</description>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/08/gettyimages-810713842_wide-8e55b659a6dba936ff0d2c3cb68cfdd36e883061-s800-c15.jpg"></a>
-
-July 8, 2017 - Noting President Trump's stance, a declaration states, "The leaders of the other G20 members state that the Paris Agreement is irreversible."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal">http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/08/gettyimages-810713842_wide-8e55b659a6dba936ff0d2c3cb68cfdd36e883061-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

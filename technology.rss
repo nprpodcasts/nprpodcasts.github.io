@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 00:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 17:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 00:00:22 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 17:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</guid>
+      <title>Lawsuit Says It&#39;s Unconstitutional For President Trump To Block Critics On Twitter</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</link>
+      <description>July 12, 2017 - &#34;The White House is transforming a public forum into an echo chamber,&#34; says an attorney at the Knight First Amendment Institute.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/gettyimages-803546578_wide-aabe53a23857ead89d410de63529ca241b434ed6-s800-c15.jpg"></a>
+
+July 12, 2017 - "The White House is transforming a public forum into an echo chamber," says an attorney at the Knight First Amendment Institute.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte">http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-803546578_wide-aabe53a23857ead89d410de63529ca241b434ed6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_documents_show_backpagecom_controls_sex-related_ads.mp3?orgId=1&amp;topicId=1006&amp;d=199&amp;p=2&amp;story=536699811&amp;t=progseg&amp;e=536605455&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Documents Show Backpage.com Controls Sex-Related Ads</title>
@@ -243,23 +258,6 @@ July 6, 2017 - Project promoters claimed a giant vehicle would beat traffic jams
 <a href="http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was">http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/gettyimages-699578598_wide-57912f75d7ce1eec8b773e0d25d33ebb97e43738-s3000-c15.jpg"></itunes:image>
       <itunes:duration>90</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_kasperskys_russian_roots_come_under_scrutiny.mp3?orgId=1&amp;topicId=1122&amp;d=261&amp;story=535651597&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Congress Casts A Suspicious Eye On Russia&#39;s Kaspersky Lab</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/05/535651597/congress-casts-a-suspicious-eye-on-russias-kaspersky-lab</link>
-      <description>July 5, 2017 - The renowned Russian cybersecurity firm&#39;s anti-virus software is used by millions of Americans. Congress does not want military service members to be among them.</description>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170704_atc_kasperskys_russian_roots_come_under_scrutiny.mp3?orgId=1&amp;topicId=1122&amp;d=261&amp;story=535651597&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/gettyimages-460238662_wide-0e154abfbdd31d273aa9e952aabae4f0f27b6eea-s800-c15.jpg"></a>
-
-July 5, 2017 - The renowned Russian cybersecurity firm's anti-virus software is used by millions of Americans. Congress does not want military service members to be among them.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/05/535651597/congress-casts-a-suspicious-eye-on-russias-kaspersky-lab">http://www.npr.org/sections/parallels/2017/07/05/535651597/congress-casts-a-suspicious-eye-on-russias-kaspersky-lab</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/gettyimages-460238662_wide-0e154abfbdd31d273aa9e952aabae4f0f27b6eea-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>261</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
