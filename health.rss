@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 20:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 21:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 20:00:28 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 21:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later</guid>
+      <title>Health Insurers Try Paying More Up Front To Pay Less Later</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later</link>
+      <description>July 12, 2017 - Many people are feeling the pinch of high-deductible health plans. But some businesses are keeping costs down for workers by removing deductibles for supplies that help control chronic conditions.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/healthinsurance01_20170510_wide-40813ad9c2d14268abc4fbbbb1f26bc4b0b58d31-s800-c15.jpg"></a>
+
+July 12, 2017 - Many people are feeling the pinch of high-deductible health plans. But some businesses are keeping costs down for workers by removing deductibles for supplies that help control chronic conditions.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later">http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/healthinsurance01_20170510_wide-40813ad9c2d14268abc4fbbbb1f26bc4b0b58d31-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</guid>
+      <title>Democrats Eager To Work On Bipartisan Health Care Effort If GOP Bill Fails</title>
+      <link>http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</link>
+      <description>July 12, 2017 - Senate Republican leader Mitch McConnell warned his GOP colleagues they may have to work with Democrats if they can&#39;t pass their own health care bill. NPR takes a look at what Democrats would want if that happened.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 12, 2017 - Senate Republican leader Mitch McConnell warned his GOP colleagues they may have to work with Democrats if they can't pass their own health care bill. NPR takes a look at what Democrats would want if that happened.
+
+<a href="http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails">http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</guid>
       <title>Michigan Laws Will Increase Penalties For Performing Female Genital Mutilation</title>
@@ -224,38 +252,6 @@ July 10, 2017 - A new survey shows that Medicaid beneficiaries are happy with th
 <a href="http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care">http://www.npr.org/sections/health-shots/2017/07/10/536448362/survey-says-medicaid-recipients-like-their-coverage-and-care</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-494327543_wide-5e55a6d71016458dac14fadafd204f4c6a6f58ac-s3000-c15.jpg"></itunes:image>
       <itunes:duration>127</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/10/535851043/faq-how-would-the-republican-health-care-bills-affect-you</guid>
-      <title>FAQ: How Would The Republican Health Care Bills Affect You?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/10/535851043/faq-how-would-the-republican-health-care-bills-affect-you</link>
-      <description>July 10, 2017 - The bills under consideration in Congress would make big changes in health care coverage and costs for millions of people. Our searchable FAQ provides answers to key questions on where, how and why.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/promo-healthcarefaq_wide-8bb1cc688514c695acec0712693d8caec1cd473e-s800-c15.png"></a>
-
-July 10, 2017 - The bills under consideration in Congress would make big changes in health care coverage and costs for millions of people. Our searchable FAQ provides answers to key questions on where, how and why.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/10/535851043/faq-how-would-the-republican-health-care-bills-affect-you">http://www.npr.org/sections/health-shots/2017/07/10/535851043/faq-how-would-the-republican-health-care-bills-affect-you</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/promo-healthcarefaq_wide-8bb1cc688514c695acec0712693d8caec1cd473e-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170710_me_women_with_high-risk_pregnancies_are_more_likely_to_develop_heart_disease.mp3?orgId=105043435&amp;topicId=1128&amp;d=210&amp;p=3&amp;story=535644276&amp;t=progseg&amp;e=536392857&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Women With High-Risk Pregnancies Are More Likely To Develop Heart Disease</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease</link>
-      <description>July 10, 2017 - Women who develop diabetes or high blood pressure during pregnancy, or whose babies are born prematurely, often are unaware of their own increased risk of heart disease later. So are their doctors.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170710_me_women_with_high-risk_pregnancies_are_more_likely_to_develop_heart_disease.mp3?orgId=105043435&amp;topicId=1128&amp;d=210&amp;p=3&amp;story=535644276&amp;t=progseg&amp;e=536392857&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/05/heart-pregnancy3_wide-d43025dacbf29714972355c62e96087db543d789-s800-c15.jpg"></a>
-
-July 10, 2017 - Women who develop diabetes or high blood pressure during pregnancy, or whose babies are born prematurely, often are unaware of their own increased risk of heart disease later. So are their doctors.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease">http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/heart-pregnancy3_wide-d43025dacbf29714972355c62e96087db543d789-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
