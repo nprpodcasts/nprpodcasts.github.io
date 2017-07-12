@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jul 2017 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 00:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Jul 2017 23:00:11 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 00:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</guid>
+      <title>Delaying August Recess, Senate Republicans To Release Updated Health Care Bill</title>
+      <link>http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</link>
+      <description>July 11, 2017 - The new bill will be released Thursday and could come to the floor next week. Majority Leader Mitch McConnell has also delayed the Senate&#39;s August recess by two weeks.</description>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/11/ap_17192704221704_wide-f978213bbb8c3719b4abc7d3b9d3e1da0d5820de-s800-c15.jpg"></a>
+
+July 11, 2017 - The new bill will be released Thursday and could come to the floor next week. Majority Leader Mitch McConnell has also delayed the Senate's August recess by two weeks.
+
+<a href="http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill">http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/ap_17192704221704_wide-f978213bbb8c3719b4abc7d3b9d3e1da0d5820de-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_senate_republicans_press_forward_despite_sharp_division_on_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=536699776&amp;t=progseg&amp;e=536605455&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Senate Republicans Press Forward Despite Sharp Division On Health Care Bill</title>
@@ -241,21 +256,6 @@ July 9, 2017 - The Senate's proposed rollback of the Medicaid expansion could cu
 <a href="http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care">http://www.npr.org/2017/07/08/536125083/3-doctors-on-what-works-and-doesnt-work-in-u-s-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>668</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</guid>
-      <title>Senate Health Bill Could Both Boost And Undercut Mental Health Funding</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</link>
-      <description>July 8, 2017 - The draft health care bill has a provision meant to increase the availability of inpatient psychiatric care. But overall cuts to Medicaid could actually lead to even fewer psychiatric beds nationwide.</description>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/grou-therapy_wide-6fcdc6f58800bd101a123e0b8abba157abd67dd9-s800-c15.jpg"></a>
-
-July 8, 2017 - The draft health care bill has a provision meant to increase the availability of inpatient psychiatric care. But overall cuts to Medicaid could actually lead to even fewer psychiatric beds nationwide.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding">http://www.npr.org/sections/health-shots/2017/07/08/535869765/senate-health-bill-could-both-boost-and-undercut-mental-health-funding</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/grou-therapy_wide-6fcdc6f58800bd101a123e0b8abba157abd67dd9-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
