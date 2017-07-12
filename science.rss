@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 14:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 15:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 14:00:45 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 15:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</guid>
+      <title>Massive Iceberg Breaks Free In Antarctica</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</link>
+      <description>July 12, 2017 - Scientists say that the iceberg is one of the largest seen by satellites. But the full implications of its break-off remain to be seen.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/larsenc_photo_2016315_lrg_wide-ebe3cdac1747208b9da42ec043476cc48053b70f-s800-c15.jpg"></a>
+
+July 12, 2017 - Scientists say that the iceberg is one of the largest seen by satellites. But the full implications of its break-off remain to be seen.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica">http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/larsenc_photo_2016315_lrg_wide-ebe3cdac1747208b9da42ec043476cc48053b70f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Video: Japan Created Easy-To-Swallow Foods To Prevent Senior Choking Deaths</title>
@@ -243,21 +258,6 @@ July 8, 2017 - Noting President Trump's stance, a declaration states, "The leade
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal">http://www.npr.org/sections/thetwo-way/2017/07/08/536169691/g19-nations-affirm-climate-plan-acknowledging-u-s-withdrawal</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/08/gettyimages-810713842_wide-8e55b659a6dba936ff0d2c3cb68cfdd36e883061-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170708_wesat_biologists_divided_over_how_to_save_endangered_pangolin.mp3?orgId=360&amp;topicId=1132&amp;d=202&amp;p=7&amp;story=536125055&amp;t=progseg&amp;e=536124309&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Biologists Divided Over How To Save Endangered Pangolin</title>
-      <link>http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</link>
-      <description>July 8, 2017 - The pangolin is a small armadillo-like creature. It&#39;s in great demand for its meat and scales, and it&#39;s in danger of extinction. Biologists can&#39;t agree on whether zoos should play a role in saving it.</description>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170708_wesat_biologists_divided_over_how_to_save_endangered_pangolin.mp3?orgId=360&amp;topicId=1132&amp;d=202&amp;p=7&amp;story=536125055&amp;t=progseg&amp;e=536124309&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 8, 2017 - The pangolin is a small armadillo-like creature. It's in great demand for its meat and scales, and it's in danger of extinction. Biologists can't agree on whether zoos should play a role in saving it.
-
-<a href="http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin">http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>202</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
