@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jul 2017 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 14:00:45 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 11 Jul 2017 23:00:09 +0000</pubDate>
+    <pubDate>Wed, 12 Jul 2017 14:00:45 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Video: Japan Created Easy-To-Swallow Foods To Prevent Senior Choking Deaths</title>
+      <link>http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</link>
+      <description>July 12, 2017 - In NPR&#39;s Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.</description>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s800-c15.jpg"></a>
+
+July 12, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.
+
+<a href="http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths">http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>113</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point</guid>
       <title>Macron Got A Lot Wrong About Africa ... But Made One Good Point</title>
@@ -241,21 +258,6 @@ July 8, 2017 - Noting President Trump's stance, a declaration states, "The leade
 <a href="http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin">http://www.npr.org/2017/07/08/536125055/biologists-divided-over-how-to-save-endangered-pangolin</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>202</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_florida_swaps_out_septic_tanks_for_sewers_to_fight_coastal_pollution.mp3?orgId=1&amp;topicId=1025&amp;d=235&amp;p=2&amp;story=536025773&amp;t=progseg&amp;e=535922947&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Florida Swaps Out Septic Tanks For Sewers To Fight Coastal Pollution</title>
-      <link>http://www.npr.org/2017/07/07/536025773/florida-swaps-out-septic-tanks-for-sewers-to-fight-coastal-pollution</link>
-      <description>July 7, 2017 - Septic tanks, long considered safe and effective, are increasingly seen as a major contributor to coastal pollution. Florida is now starting the costly job of switching hundreds of thousands of homeowners from septic to sewer.</description>
-      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170707_atc_florida_swaps_out_septic_tanks_for_sewers_to_fight_coastal_pollution.mp3?orgId=1&amp;topicId=1025&amp;d=235&amp;p=2&amp;story=536025773&amp;t=progseg&amp;e=535922947&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 7, 2017 - Septic tanks, long considered safe and effective, are increasingly seen as a major contributor to coastal pollution. Florida is now starting the costly job of switching hundreds of thousands of homeowners from septic to sewer.
-
-<a href="http://www.npr.org/2017/07/07/536025773/florida-swaps-out-septic-tanks-for-sewers-to-fight-coastal-pollution">http://www.npr.org/2017/07/07/536025773/florida-swaps-out-septic-tanks-for-sewers-to-fight-coastal-pollution</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
