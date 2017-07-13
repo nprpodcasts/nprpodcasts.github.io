@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 18:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 19:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 18:00:15 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 19:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</guid>
+      <title>Afghan Girls Robotics Team Allowed To Enter U.S. For Competition</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</link>
+      <description>July 13, 2017 - President Trump intervened to find a way to permit the girls entry, after their applications for visas were twice rejected. For the budding scientists, the path to compete has been a long one.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/13/gettyimages-813750460_wide-2f2b356636a1f54d636b12c9079493571bab085b-s800-c15.jpg"></a>
+
+July 13, 2017 - President Trump intervened to find a way to permit the girls entry, after their applications for visas were twice rejected. For the budding scientists, the path to compete has been a long one.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition">http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/gettyimages-813750460_wide-2f2b356636a1f54d636b12c9079493571bab085b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170713_me_a_birth_control_app_gets_certified.mp3?orgId=77&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=536974741&amp;t=progseg&amp;e=536971200&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Mobile App Designed To Prevent Pregnancy Gets EU Approval</title>
@@ -116,12 +131,12 @@ July 12, 2017 - "The White House is transforming a public forum into an echo cha
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170711_fa_02.mp3?orgId=427869011&amp;topicId=1049&amp;d=452&amp;p=13&amp;story=534865245&amp;t=progseg&amp;e=536645296&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170711_fa_02.mp3?orgId=427869011&amp;topicId=1049&amp;aggIds=100876926&amp;d=452&amp;p=13&amp;story=534865245&amp;t=progseg&amp;e=536645296&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Novelist Forces Himself To Press On After Losing 100 Pages In A Tech Glitch</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/11/534865245/a-novelist-forces-himself-to-press-on-after-losing-100-pages-in-a-tech-glitch</link>
       <description>July 11, 2017 - Mat Johnson&#39;s recent hard-drive failure wasn&#39;t the first time he experienced data loss. This time, despite losing more work than ever before, he&#39;s less panicked: &#34;I can write new words,&#34; he says.</description>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170711_fa_02.mp3?orgId=427869011&amp;topicId=1049&amp;d=452&amp;p=13&amp;story=534865245&amp;t=progseg&amp;e=536645296&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170711_fa_02.mp3?orgId=427869011&amp;topicId=1049&amp;aggIds=100876926&amp;d=452&amp;p=13&amp;story=534865245&amp;t=progseg&amp;e=536645296&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/06/29/erasure_wide-819eb5cc3cbd87e3f588ed5715f8292936682a1b-s800-c15.jpg"></a>
 
@@ -241,21 +256,6 @@ July 10, 2017 - If you've ever shouted at Siri or rolled your eyes at your Roomb
 <a href="http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction">http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>237</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</guid>
-      <title>Trump&#39;s &#39;Impenetrable&#39; Cyber Unit That Never Was</title>
-      <link>http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</link>
-      <description>July 10, 2017 - President Trump may have saved himself and the government a lot of trouble by pulling the plug on a joint cyber unit with Russia before work got seriously underway.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-810661876_wide-64d6b9de6020d678e87ee6ed77eb2747486c1eb5-s800-c15.jpg"></a>
-
-July 10, 2017 - President Trump may have saved himself and the government a lot of trouble by pulling the plug on a joint cyber unit with Russia before work got seriously underway.
-
-<a href="http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was">http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-810661876_wide-64d6b9de6020d678e87ee6ed77eb2747486c1eb5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 18:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 19:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 18:00:20 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 19:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</guid>
+      <title>Afghan Girls Robotics Team Allowed To Enter U.S. For Competition</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</link>
+      <description>July 13, 2017 - President Trump intervened to find a way to permit the girls entry, after their applications for visas were twice rejected. For the budding scientists, the path to compete has been a long one.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/13/gettyimages-813750460_wide-2f2b356636a1f54d636b12c9079493571bab085b-s800-c15.jpg"></a>
+
+July 13, 2017 - President Trump intervened to find a way to permit the girls entry, after their applications for visas were twice rejected. For the budding scientists, the path to compete has been a long one.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition">http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/gettyimages-813750460_wide-2f2b356636a1f54d636b12c9079493571bab085b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/07/13/536884827/no-offense-american-bees-but-your-sperm-isnt-cutting-it</guid>
       <title>No Offense, American Bees, But Your Sperm Isn&#39;t Cutting It</title>
@@ -243,23 +258,6 @@ July 10, 2017 - NASA's Juno spacecraft will fly directly over the Great Red Spot
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/10/535977281/nasa-spacecraft-gets-up-close-with-jupiters-great-red-spot">http://www.npr.org/sections/thetwo-way/2017/07/10/535977281/nasa-spacecraft-gets-up-close-with-jupiters-great-red-spot</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/07/jupiter-spot_wide-f424de829a30a748ab85b5ce226dc54654ffbe2e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>115</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170710_me_women_with_high-risk_pregnancies_are_more_likely_to_develop_heart_disease.mp3?orgId=105043435&amp;topicId=1128&amp;d=210&amp;p=3&amp;story=535644276&amp;t=progseg&amp;e=536392857&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Women With High-Risk Pregnancies Are More Likely To Develop Heart Disease</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease</link>
-      <description>July 10, 2017 - Women who develop diabetes or high blood pressure during pregnancy, or whose babies are born prematurely, often are unaware of their own increased risk of heart disease later. So are their doctors.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170710_me_women_with_high-risk_pregnancies_are_more_likely_to_develop_heart_disease.mp3?orgId=105043435&amp;topicId=1128&amp;d=210&amp;p=3&amp;story=535644276&amp;t=progseg&amp;e=536392857&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/05/heart-pregnancy3_wide-d43025dacbf29714972355c62e96087db543d789-s800-c15.jpg"></a>
-
-July 10, 2017 - Women who develop diabetes or high blood pressure during pregnancy, or whose babies are born prematurely, often are unaware of their own increased risk of heart disease later. So are their doctors.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease">http://www.npr.org/sections/health-shots/2017/07/10/535644276/women-with-high-risk-pregnancies-are-more-likely-to-develop-heart-disease</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/heart-pregnancy3_wide-d43025dacbf29714972355c62e96087db543d789-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
