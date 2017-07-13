@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 18:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 18:00:25 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,47 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</guid>
+      <title>How Did Crimean-Congo Hemorrhagic Fever Pop Up In Spain?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</link>
+      <description>July 13, 2017 - The Ebola-like virus is found mainly in North Africa, the Middle East and Central Asia.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/hyalomma_marginatum_wide-241daac2295d81742fdeeeb7f6adce00e46b2eec-s800-c15.jpg"></a>
+
+July 13, 2017 - The Ebola-like virus is found mainly in North Africa, the Middle East and Central Asia.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain">http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/hyalomma_marginatum_wide-241daac2295d81742fdeeeb7f6adce00e46b2eec-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</guid>
+      <title>Sen. Tom Carper Explains How Democrats Could Work With GOP On Health Care</title>
+      <link>http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</link>
+      <description>July 13, 2017 - NPR&#39;s Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 13, 2017 - NPR's Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.
+
+<a href="http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care">http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</guid>
+      <title>Senate Republicans Release New Version Of Health Care Bill</title>
+      <link>http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</link>
+      <description>July 13, 2017 - Senate Republicans released a new version of their bill to repeal and replace the Affordable Care Act. It remains to be seen whether it can get enough support to pass.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 13, 2017 - Senate Republicans released a new version of their bill to repeal and replace the Affordable Care Act. It remains to be seen whether it can get enough support to pass.
+
+<a href="http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill">http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan</guid>
       <title>Senate Health Care Bill Revisions Released In Attempt To Appease GOP Critics</title>
       <link>http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan</link>
@@ -36,6 +77,36 @@ July 13, 2017 - In need of more votes, Senate leaders have produced a new bill t
 
 <a href="http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan">http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/gettyimages-813879498_wide-8d5823bcd64c26abaf97d8d1535a7b6d700723a5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>How Storytelling Can Improve The Care Of People With Alzheimer&#39;s</title>
+      <link>http://the1a.org/shows/2017-07-13/memory-well</link>
+      <description>July 13, 2017 - A former journalist is making sure caregivers know patients&#39; life stories.&#xA;&#xA; - http://the1a.org/shows/2017-07-13/memory-well</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 13, 2017 - A former journalist is making sure caregivers know patients' life stories.
+
+<a href="http://the1a.org/shows/2017-07-13/memory-well">http://the1a.org/shows/2017-07-13/memory-well</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2112</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170713-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Women And African Americans Are More Likely To Develop Alzheimer&#39;s And Dementia - Why?</title>
+      <link>http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia</link>
+      <description>July 13, 2017 - Women and African Americans are more likely to develop Alzheimer&#39;s and dementia. But they are not as represented in clinical trials as white men.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170713-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 13, 2017 - Women and African Americans are more likely to develop Alzheimer's and dementia. But they are not as represented in clinical trials as white men.
+
+<a href="http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia">http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>718</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -179,83 +250,6 @@ July 12, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out di
 <a href="http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths">http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>113</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</guid>
-      <title>Delaying August Recess, Senate Republicans To Release Updated Health Care Bill</title>
-      <link>http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</link>
-      <description>July 11, 2017 - The new bill will be released Thursday and could come to the floor next week. Majority Leader Mitch McConnell has also delayed the Senate&#39;s August recess by two weeks.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/11/ap_17192704221704_wide-f978213bbb8c3719b4abc7d3b9d3e1da0d5820de-s800-c15.jpg"></a>
-
-July 11, 2017 - The new bill will be released Thursday and could come to the floor next week. Majority Leader Mitch McConnell has also delayed the Senate's August recess by two weeks.
-
-<a href="http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill">http://www.npr.org/2017/07/11/536704485/delaying-august-recess-senate-republicans-to-release-updated-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/ap_17192704221704_wide-f978213bbb8c3719b4abc7d3b9d3e1da0d5820de-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_senate_republicans_press_forward_despite_sharp_division_on_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=536699776&amp;t=progseg&amp;e=536605455&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Republicans Press Forward Despite Sharp Division On Health Care Bill</title>
-      <link>http://www.npr.org/2017/07/11/536699776/senate-republicans-press-forward-despite-sharp-division-on-health-care-bill</link>
-      <description>July 11, 2017 - Senate Republicans regrouped on Tuesday, as they tried to forge a path forward on health care legislation. The White House and GOP leaders pressed forward with the goal of voting next week.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_senate_republicans_press_forward_despite_sharp_division_on_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=536699776&amp;t=progseg&amp;e=536605455&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 11, 2017 - Senate Republicans regrouped on Tuesday, as they tried to forge a path forward on health care legislation. The White House and GOP leaders pressed forward with the goal of voting next week.
-
-<a href="http://www.npr.org/2017/07/11/536699776/senate-republicans-press-forward-despite-sharp-division-on-health-care-bill">http://www.npr.org/2017/07/11/536699776/senate-republicans-press-forward-despite-sharp-division-on-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>245</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_in_texas_people_with_mental_illness_are_finding_work_helping_peers.mp3?orgId=77&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=536501069&amp;t=progseg&amp;e=536605455&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Texas, People With Mental Illness Are Finding Work Helping Peers</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/11/536501069/in-texas-people-with-mental-illness-are-finding-work-helping-peers</link>
-      <description>July 11, 2017 - Giving people who have serious mental illness peer support has proved so helpful that some states are starting to pay these peer specialists to bridge the gap when there aren&#39;t enough professionals.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170711_atc_in_texas_people_with_mental_illness_are_finding_work_helping_peers.mp3?orgId=77&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=536501069&amp;t=progseg&amp;e=536605455&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-83266192_wide-365ea03ce9b2958aa8f19040a1a68b55e5756f2d-s800-c15.jpg"></a>
-
-July 11, 2017 - Giving people who have serious mental illness peer support has proved so helpful that some states are starting to pay these peer specialists to bridge the gap when there aren't enough professionals.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/11/536501069/in-texas-people-with-mental-illness-are-finding-work-helping-peers">http://www.npr.org/sections/health-shots/2017/07/11/536501069/in-texas-people-with-mental-illness-are-finding-work-helping-peers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-83266192_wide-365ea03ce9b2958aa8f19040a1a68b55e5756f2d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>270</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/11/536428219/what-this-teen-mom-wishes-shed-known-before-she-got-pregnant</guid>
-      <title>What This Teen Mom Wishes She&#39;d Known Before She Got Pregnant</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/11/536428219/what-this-teen-mom-wishes-shed-known-before-she-got-pregnant</link>
-      <description>July 11, 2017 - She was ashamed to be seen buying condoms. She didn&#39;t dare ask her mother for advice. So how can Uganda bring down its high rate of teen pregnancy?</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/maria-1-2_wide-9f15f47b5151e03edc43255ea9b99a9ea63b0954-s800-c15.jpg"></a>
-
-July 11, 2017 - She was ashamed to be seen buying condoms. She didn't dare ask her mother for advice. So how can Uganda bring down its high rate of teen pregnancy?
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/536428219/what-this-teen-mom-wishes-shed-known-before-she-got-pregnant">http://www.npr.org/sections/goatsandsoda/2017/07/11/536428219/what-this-teen-mom-wishes-shed-known-before-she-got-pregnant</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/maria-1-2_wide-9f15f47b5151e03edc43255ea9b99a9ea63b0954-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/11/536501809/credit-agencies-to-ease-up-on-medical-debt-reporting</guid>
-      <title>Credit Agencies To Ease Up On Medical Debt Reporting </title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/11/536501809/credit-agencies-to-ease-up-on-medical-debt-reporting</link>
-      <description>July 11, 2017 - Starting in September, the three main credit agencies will wait 180 days before including medical debt on a credit report, giving consumers time to resolve disputes with insurers.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/gettyimages-494146669_wide-2c557f1a7af4756db72ebe4df6babf31aa1f1130-s800-c15.jpg"></a>
-
-July 11, 2017 - Starting in September, the three main credit agencies will wait 180 days before including medical debt on a credit report, giving consumers time to resolve disputes with insurers.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/11/536501809/credit-agencies-to-ease-up-on-medical-debt-reporting">http://www.npr.org/sections/health-shots/2017/07/11/536501809/credit-agencies-to-ease-up-on-medical-debt-reporting</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-494146669_wide-2c557f1a7af4756db72ebe4df6babf31aa1f1130-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
