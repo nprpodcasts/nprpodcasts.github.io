@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 22:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 18:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 12 Jul 2017 22:00:22 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 18:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170713_me_a_birth_control_app_gets_certified.mp3?orgId=77&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=536974741&amp;t=progseg&amp;e=536971200&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Mobile App Designed To Prevent Pregnancy Gets EU Approval</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/13/536974741/mobile-app-designed-to-prevent-pregnancy-gets-e-u-approval</link>
+      <description>July 13, 2017 - For the first time, a medically approved birth control app has been certified as a method of contraception. It relies on math, an algorithm and a woman&#39;s body temperature to determine fertility.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170713_me_a_birth_control_app_gets_certified.mp3?orgId=77&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=536974741&amp;t=progseg&amp;e=536971200&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/13/nc-product-1_wide-3a571e4878c729f94a5c1ff0489603f5a8461d31-s800-c15.jpg"></a>
+
+July 13, 2017 - For the first time, a medically approved birth control app has been certified as a method of contraception. It relies on math, an algorithm and a woman's body temperature to determine fertility.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/13/536974741/mobile-app-designed-to-prevent-pregnancy-gets-e-u-approval">http://www.npr.org/sections/health-shots/2017/07/13/536974741/mobile-app-designed-to-prevent-pregnancy-gets-e-u-approval</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/nc-product-1_wide-3a571e4878c729f94a5c1ff0489603f5a8461d31-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_internet_companies_plan_day_of_action_in_support_of_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;p=2&amp;story=536887872&amp;t=progseg&amp;e=536805649&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Internet Companies Plan Day Of Action In Support Of Net Neutrality</title>
@@ -131,11 +148,12 @@ July 11, 2017 - Mat Johnson's recent hard-drive failure wasn't the first time he
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_internet_companies_plan_day_of_action_in_support_of_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;story=535804285&amp;siteplayer=true&amp;dl=1</guid>
       <title>Internet Companies Plan Online Campaign To Keep Net Neutrality Rules</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules</link>
       <description>July 11, 2017 - Dozens of websites — including large ones like Netflix, Facebook and Amazon — join an online advocacy push Wednesday, urging regulators and lawmakers not to weaken regulations for Internet providers.</description>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_internet_companies_plan_day_of_action_in_support_of_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;story=535804285&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/10/ap_17075733254671_wide-55aa316a6f9317ce4a9b4969310e136b210a1fe2-s800-c15.jpg"></a>
 
@@ -143,6 +161,7 @@ July 11, 2017 - Dozens of websites — including large ones like Netflix, Facebo
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules">http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/10/ap_17075733254671_wide-55aa316a6f9317ce4a9b4969310e136b210a1fe2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +256,6 @@ July 10, 2017 - President Trump may have saved himself and the government a lot 
 
 <a href="http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was">http://www.npr.org/2017/07/10/536428035/trumps-impenetrable-cyber-unit-that-never-was</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/10/gettyimages-810661876_wide-64d6b9de6020d678e87ee6ed77eb2747486c1eb5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170708_atc_barbershop_internet_trolling.mp3?orgId=1&amp;topicId=1019&amp;d=852&amp;p=2&amp;story=536197350&amp;t=progseg&amp;e=536138117&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Barbershop: Internet Trolling</title>
-      <link>http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling</link>
-      <description>July 8, 2017 - Host Michel Martin talks to Rants &amp; Retorts author Anita Samuels, TrollBusters founder Michelle Ferrier and The Atlantic&#39;s Adrienne LaFrance. (LANGUAGE WARNING: The N-word is not bleeped at 3:59.)</description>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170708_atc_barbershop_internet_trolling.mp3?orgId=1&amp;topicId=1019&amp;d=852&amp;p=2&amp;story=536197350&amp;t=progseg&amp;e=536138117&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 8, 2017 - Host Michel Martin talks to Rants & Retorts author Anita Samuels, TrollBusters founder Michelle Ferrier and The Atlantic's Adrienne LaFrance. (LANGUAGE WARNING: The N-word is not bleeped at 3:59.)
-
-<a href="http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling">http://www.npr.org/2017/07/08/536197350/barbershop-internet-trolling</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>852</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
