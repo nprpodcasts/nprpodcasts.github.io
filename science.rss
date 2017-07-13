@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 21:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 21:00:21 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</guid>
+      <title>Ravens Surprise Scientists By Showing They Can Plan</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</link>
+      <description>July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can too, on a par with great apes.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s800-c15.jpg"></a>
+
+July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can too, on a par with great apes.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan">http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope</guid>
       <title>If It Walks Like An Ant, You Probably Wouldn&#39;t Eat It — Or So These Spiders Hope</title>
@@ -237,21 +252,6 @@ July 11, 2017 - Oklahoma's oil industry is spending millions on science lessons 
 <a href="http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students">http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/20170408---oerb-workshop009_hr_wide-854cdc893a5e9a136efd88538dd1c4fb04f9c09a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>260</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_trumps_budget_plan_proposes_cuts_to_great_lakes_restoration_projects.mp3?orgId=1&amp;topicId=1025&amp;d=248&amp;p=2&amp;story=536505365&amp;t=progseg&amp;e=536403945&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Trump&#39;s Budget Plan Proposes Cuts To Great Lakes Restoration Projects</title>
-      <link>http://www.npr.org/2017/07/10/536505365/trumps-budget-plan-proposes-cuts-to-great-lakes-restoration-projects</link>
-      <description>July 10, 2017 - President Trump&#39;s 2018 budget plan eliminates millions for Great Lakes restoration. What does that mean for projects across the Great Lakes, including research on harmful algae and Asian carp prevention efforts? NPR looks at the most important programs in each lake that could be targeted.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_trumps_budget_plan_proposes_cuts_to_great_lakes_restoration_projects.mp3?orgId=1&amp;topicId=1025&amp;d=248&amp;p=2&amp;story=536505365&amp;t=progseg&amp;e=536403945&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 10, 2017 - President Trump's 2018 budget plan eliminates millions for Great Lakes restoration. What does that mean for projects across the Great Lakes, including research on harmful algae and Asian carp prevention efforts? NPR looks at the most important programs in each lake that could be targeted.
-
-<a href="http://www.npr.org/2017/07/10/536505365/trumps-budget-plan-proposes-cuts-to-great-lakes-restoration-projects">http://www.npr.org/2017/07/10/536505365/trumps-budget-plan-proposes-cuts-to-great-lakes-restoration-projects</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>248</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

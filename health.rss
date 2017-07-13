@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 21:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 22:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 21:00:23 +0000</pubDate>
+    <pubDate>Thu, 13 Jul 2017 22:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/13/537037194/whos-in-whos-left-out-with-the-latest-senate-health-care-bill</guid>
+      <title>Who&#39;s In, Who&#39;s Left Out With The Latest Senate Health Care Bill</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/13/537037194/whos-in-whos-left-out-with-the-latest-senate-health-care-bill</link>
+      <description>July 13, 2017 - Tax breaks for the wealthy would be trimmed, and people would get the option to buy bare-bones plans. But big cuts in Medicaid and changes to coverage for pre-existing conditions remain.</description>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/13/promo-healthcare-seamus3_wide-994c409e2638bb7b2969b59d17b463fc52b78036-s800-c15.png"></a>
+
+July 13, 2017 - Tax breaks for the wealthy would be trimmed, and people would get the option to buy bare-bones plans. But big cuts in Medicaid and changes to coverage for pre-existing conditions remain.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/13/537037194/whos-in-whos-left-out-with-the-latest-senate-health-care-bill">http://www.npr.org/sections/health-shots/2017/07/13/537037194/whos-in-whos-left-out-with-the-latest-senate-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/promo-healthcare-seamus3_wide-994c409e2638bb7b2969b59d17b463fc52b78036-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</guid>
       <title>How Did Crimean-Congo Hemorrhagic Fever Pop Up In Spain?</title>
@@ -39,29 +54,33 @@ July 13, 2017 - The Ebola-like virus is found mainly in North Africa, the Middle
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_sen_tom_carper_explains_how_democrats_could_work_with_gop_on_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=193&amp;p=2&amp;story=537082064&amp;t=progseg&amp;e=536998102&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sen. Tom Carper Explains How Democrats Could Work With GOP On Health Care</title>
       <link>http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</link>
       <description>July 13, 2017 - NPR&#39;s Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.</description>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_sen_tom_carper_explains_how_democrats_could_work_with_gop_on_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=193&amp;p=2&amp;story=537082064&amp;t=progseg&amp;e=536998102&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 13, 2017 - NPR's Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.
 
 <a href="http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care">http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>193</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_senate_republicans_release_new_version_of_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=236&amp;p=2&amp;story=537082057&amp;t=progseg&amp;e=536998102&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Senate Republicans Release New Version Of Health Care Bill</title>
       <link>http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</link>
       <description>July 13, 2017 - Senate Republicans released a new version of their bill to repeal and replace the Affordable Care Act. It remains to be seen whether it can get enough support to pass.</description>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_senate_republicans_release_new_version_of_health_care_bill.mp3?orgId=1&amp;topicId=1014&amp;d=236&amp;p=2&amp;story=537082057&amp;t=progseg&amp;e=536998102&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 13, 2017 - Senate Republicans released a new version of their bill to repeal and replace the Affordable Care Act. It remains to be seen whether it can get enough support to pass.
 
 <a href="http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill">http://www.npr.org/2017/07/13/537082057/senate-republicans-release-new-version-of-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,23 +252,6 @@ July 12, 2017 - Some small businesses buy their health plans through trade assoc
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans">http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-119707218_wide-b5fef4b957238607df4b308a18f85ef6f971feea-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Video: Japan Created Easy-To-Swallow Foods To Prevent Senior Choking Deaths</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</link>
-      <description>July 12, 2017 - In NPR&#39;s Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s800-c15.jpg"></a>
-
-July 12, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths">http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>113</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
