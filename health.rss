@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 16:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 18:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 16:00:14 +0000</pubDate>
+    <pubDate>Fri, 14 Jul 2017 18:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</guid>
+      <title>Doctor Shortage In Rural Arizona Sparks Another Crisis In &#39;Forgotten America&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</link>
+      <description>July 14, 2017 - More than 70 rural U.S. hospitals have closed since 2010, and rural areas are likely to be short 45,000 doctors by 2020. It&#39;s one more example of the nation&#39;s division between haves and have-nots.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/bisbee-1_wide-dfb4480477d6e82bb9496c9d787f90ed4f70cdc5-s800-c15.jpg"></a>
+
+July 14, 2017 - More than 70 rural U.S. hospitals have closed since 2010, and rural areas are likely to be short 45,000 doctors by 2020. It's one more example of the nation's division between haves and have-nots.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america">http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/bisbee-1_wide-dfb4480477d6e82bb9496c9d787f90ed4f70cdc5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/14/535817998/what-moms-need-to-breast-feed-chicken-soup-grandmas-help-facebook</guid>
       <title>What Moms Need To Breast-Feed: Chicken Soup, Grandma&#39;s Help, Facebook</title>
@@ -237,21 +252,6 @@ July 12, 2017 - Some businesses are keeping costs down for workers by removing d
 <a href="http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails">http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>245</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</guid>
-      <title>Michigan Laws Will Increase Penalties For Performing Female Genital Mutilation</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</link>
-      <description>July 12, 2017 - The laws were spurred by the criminal case of an emergency room doctor charged with performing the procedure on multiple girls in suburban Detroit. The United States banned the practice in 1996.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/ap_17168814253338_wide-7286b59991df1120d087eb4567b072f423443cf3-s800-c15.jpg"></a>
-
-July 12, 2017 - The laws were spurred by the criminal case of an emergency room doctor charged with performing the procedure on multiple girls in suburban Detroit. The United States banned the practice in 1996.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation">http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/ap_17168814253338_wide-7286b59991df1120d087eb4567b072f423443cf3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
