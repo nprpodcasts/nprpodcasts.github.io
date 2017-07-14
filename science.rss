@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 18:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 19:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 18:00:29 +0000</pubDate>
+    <pubDate>Fri, 14 Jul 2017 19:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/14/537271940/noaa-halts-whale-disentanglement-efforts-after-rescuer-dies</guid>
+      <title>NOAA Halts Whale Disentanglement Efforts After Rescuer Dies</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/14/537271940/noaa-halts-whale-disentanglement-efforts-after-rescuer-dies</link>
+      <description>July 14, 2017 - Boat captain Joe Howlett died on Monday after freeing a right whale that was tangled fishing gear in Canada&#39;s Gulf of St. Lawrence.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/14/ap_17194579410141_wide-e52484aadbccb853f593fca9f3e6509a39c4091d-s800-c15.jpg"></a>
+
+July 14, 2017 - Boat captain Joe Howlett died on Monday after freeing a right whale that was tangled fishing gear in Canada's Gulf of St. Lawrence.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/14/537271940/noaa-halts-whale-disentanglement-efforts-after-rescuer-dies">http://www.npr.org/sections/thetwo-way/2017/07/14/537271940/noaa-halts-whale-disentanglement-efforts-after-rescuer-dies</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/ap_17194579410141_wide-e52484aadbccb853f593fca9f3e6509a39c4091d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</guid>
       <title>There&#39;s An Amazing New Drug For Multiple Sclerosis. Should I Try It?</title>
@@ -239,21 +254,6 @@ July 11, 2017 - In answering a reporter's question, the French president charact
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point">http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/11/gettyimages-803295670_wide-adb22afe7552c4947b0e9f23d72a8973c0b00e06-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</guid>
-      <title>Web Comic: The Scientist Who Escaped Aleppo</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</link>
-      <description>July 11, 2017 - It was a harrowing journey. Nedal Said made a new life in Germany — and found what he&#39;d always been looking for.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/10/boat-11_wide-08b7c942684429d2ae89560bb9865e7213100118-s800-c15.jpg"></a>
-
-July 11, 2017 - It was a harrowing journey. Nedal Said made a new life in Germany — and found what he'd always been looking for.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo">http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/boat-11_wide-08b7c942684429d2ae89560bb9865e7213100118-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
