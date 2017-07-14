@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 23:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 23:00:21 +0000</pubDate>
+    <pubDate>Fri, 14 Jul 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,15 +24,45 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</guid>
+      <title>There&#39;s An Amazing New Drug For Multiple Sclerosis. Should I Try It?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</link>
+      <description>July 14, 2017 - The innovative drug Ocrevus looks like it could be a game-changer for people with MS. But it&#39;s very, very expensive. And as with any new medication, the long-term safety risks are unknown.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/29/ms5_wide-a5ef9f73c6a61f307bdc6bc004289484907d82a7-s800-c15.jpeg"></a>
+
+July 14, 2017 - The innovative drug Ocrevus looks like it could be a game-changer for people with MS. But it's very, very expensive. And as with any new medication, the long-term safety risks are unknown.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it">http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/ms5_wide-a5ef9f73c6a61f307bdc6bc004289484907d82a7-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_scientists_teleport_a_photon_into_space.mp3?orgId=1&amp;topicId=1007&amp;d=223&amp;p=3&amp;story=537174817&amp;t=progseg&amp;e=537172781&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Scientists Teleport A Photon Into Space</title>
+      <link>http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space</link>
+      <description>July 14, 2017 - Chinese scientists have reportedly teleported a photon more than 300 miles into space. But what does that actually mean? David Greene talks with physicist Brian Greene to help understand.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_scientists_teleport_a_photon_into_space.mp3?orgId=1&amp;topicId=1007&amp;d=223&amp;p=3&amp;story=537174817&amp;t=progseg&amp;e=537172781&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 14, 2017 - Chinese scientists have reportedly teleported a photon more than 300 miles into space. But what does that actually mean? David Greene talks with physicist Brian Greene to help understand.
+
+<a href="http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space">http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>223</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</guid>
       <title>Ravens Surprise Scientists By Showing They Can Plan</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</link>
-      <description>July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can too, on a par with great apes.</description>
+      <description>July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can, too, on a par with great apes.</description>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s800-c15.jpg"></a>
 
-July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can too, on a par with great apes.
+July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can, too, on a par with great apes.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan">http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s3000-c15.jpg"></itunes:image>
@@ -222,38 +252,6 @@ July 11, 2017 - It was a harrowing journey. Nedal Said made a new life in German
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo">http://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/10/boat-11_wide-08b7c942684429d2ae89560bb9865e7213100118-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_with_caviar_clay_and_turkey_feathers_saving_lake_sturgeon_from_extinction.mp3?orgId=1&amp;topicId=1025&amp;d=226&amp;p=3&amp;story=536595541&amp;t=progseg&amp;e=536594574&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>With Caviar, Clay, and Turkey Feathers, Saving Lake Sturgeon From Extinction</title>
-      <link>http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction</link>
-      <description>July 11, 2017 - Lake sturgeon have been around since the dinosaurs, and they can live as long as humans, or longer. Overfishing and pollution has decimated populations, but biologists are learning to help them breed.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_with_caviar_clay_and_turkey_feathers_saving_lake_sturgeon_from_extinction.mp3?orgId=1&amp;topicId=1025&amp;d=226&amp;p=3&amp;story=536595541&amp;t=progseg&amp;e=536594574&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 11, 2017 - Lake sturgeon have been around since the dinosaurs, and they can live as long as humans, or longer. Overfishing and pollution has decimated populations, but biologists are learning to help them breed.
-
-<a href="http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction">http://www.npr.org/2017/07/11/536595541/with-caviar-clay-and-turkey-feathers-saving-lake-sturgeon-from-extinction</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_heres_what_the_oil_industry_is_teaching_oklahomas_students.mp3?orgId=1&amp;topicId=1131&amp;d=260&amp;p=3&amp;story=535653913&amp;t=progseg&amp;e=536594574&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Reading, Writing And Fracking? What The Oil Industry Teaches Oklahoma Students</title>
-      <link>http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students</link>
-      <description>July 11, 2017 - Oklahoma&#39;s oil industry is spending millions on science lessons for public schools. But environmentalists say omitting climate change leaves students unprepared.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_heres_what_the_oil_industry_is_teaching_oklahomas_students.mp3?orgId=1&amp;topicId=1131&amp;d=260&amp;p=3&amp;story=535653913&amp;t=progseg&amp;e=536594574&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/05/20170408---oerb-workshop009_hr_wide-854cdc893a5e9a136efd88538dd1c4fb04f9c09a-s800-c15.jpg"></a>
-
-July 11, 2017 - Oklahoma's oil industry is spending millions on science lessons for public schools. But environmentalists say omitting climate change leaves students unprepared.
-
-<a href="http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students">http://www.npr.org/2017/07/11/535653913/heres-what-the-oil-industry-is-teaching-oklahomas-students</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/20170408---oerb-workshop009_hr_wide-854cdc893a5e9a136efd88538dd1c4fb04f9c09a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>260</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

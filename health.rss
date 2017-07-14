@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 06:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 14:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 06:00:27 +0000</pubDate>
+    <pubDate>Fri, 14 Jul 2017 14:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/14/535817998/what-moms-need-to-breast-feed-chicken-soup-grandmas-help-facebook</guid>
+      <title>What Moms Need To Breast-Feed: Chicken Soup, Grandma&#39;s Help, Facebook</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/14/535817998/what-moms-need-to-breast-feed-chicken-soup-grandmas-help-facebook</link>
+      <description>July 14, 2017 - We invited readers to tell us how their culture helps moms become breast-feeding pros. The stories we received are so wonderful, we couldn&#39;t wait to share them. We even heard from a few dads!</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/07/img_20170612_164259_1_wide-b1c2514cdc419e36086ef4877c463d622784f0dd-s800-c15.jpeg"></a>
+
+July 14, 2017 - We invited readers to tell us how their culture helps moms become breast-feeding pros. The stories we received are so wonderful, we couldn't wait to share them. We even heard from a few dads!
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/14/535817998/what-moms-need-to-breast-feed-chicken-soup-grandmas-help-facebook">http://www.npr.org/sections/goatsandsoda/2017/07/14/535817998/what-moms-need-to-breast-feed-chicken-soup-grandmas-help-facebook</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/07/img_20170612_164259_1_wide-b1c2514cdc419e36086ef4877c463d622784f0dd-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</guid>
+      <title>There&#39;s An Amazing New Drug For Multiple Sclerosis. Should I Try It?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</link>
+      <description>July 14, 2017 - The innovative drug Ocrevus looks like it could be a game-changer for people with MS. But it&#39;s very, very expensive. And as with any new medication, the long-term safety risks are unknown.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/06/29/ms5_wide-a5ef9f73c6a61f307bdc6bc004289484907d82a7-s800-c15.jpeg"></a>
+
+July 14, 2017 - The innovative drug Ocrevus looks like it could be a game-changer for people with MS. But it's very, very expensive. And as with any new medication, the long-term safety risks are unknown.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it">http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/29/ms5_wide-a5ef9f73c6a61f307bdc6bc004289484907d82a7-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/13/537037194/whos-in-whos-left-out-with-the-latest-senate-health-care-bill</guid>
       <title>Who&#39;s In, Who&#39;s Left Out With The Latest Senate Health Care Bill</title>
@@ -222,36 +252,6 @@ July 12, 2017 - The laws were spurred by the criminal case of an emergency room 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation">http://www.npr.org/sections/thetwo-way/2017/07/12/536863961/michigan-laws-will-increase-penalties-for-performing-female-genital-mutilation</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/ap_17168814253338_wide-7286b59991df1120d087eb4567b072f423443cf3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</guid>
-      <title>More People Are Making Mistakes With Medicines At Home</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</link>
-      <description>July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s800-c15.jpg"></a>
-
-July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise">http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans</guid>
-      <title>Senate&#39;s Health Bill Would Make Life Easier For Some Small Businesses</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans</link>
-      <description>July 12, 2017 - Some small businesses buy their health plans through trade associations. The GOP health bills would make those cheaper. But that could also make employer-based insurance more expensive for others.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/gettyimages-119707218_wide-b5fef4b957238607df4b308a18f85ef6f971feea-s800-c15.jpg"></a>
-
-July 12, 2017 - Some small businesses buy their health plans through trade associations. The GOP health bills would make those cheaper. But that could also make employer-based insurance more expensive for others.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans">http://www.npr.org/sections/health-shots/2017/07/12/536734314/senates-health-bill-would-ease-rules-for-some-small-business-health-plans</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-119707218_wide-b5fef4b957238607df4b308a18f85ef6f971feea-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 14:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 13 Jul 2017 23:00:19 +0000</pubDate>
+    <pubDate>Fri, 14 Jul 2017 14:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</guid>
+      <title>Cell Towers At Schools: Godsend Or God-Awful?</title>
+      <link>http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</link>
+      <description>July 14, 2017 - School districts are making deals with telecom companies to build towers on school property. The agreements give schools a bump in revenue, but what do parents think? And what does the science say?</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/c_beck_celltowers-copy_wide-339eda992d9581b0f42854e097a22a501bc9b5ca-s800-c15.jpg"></a>
+
+July 14, 2017 - School districts are making deals with telecom companies to build towers on school property. The agreements give schools a bump in revenue, but what do parents think? And what does the science say?
+
+<a href="http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful">http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/c_beck_celltowers-copy_wide-339eda992d9581b0f42854e097a22a501bc9b5ca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_computer_scientists_demonstrate_the_potential_for_faking_video.mp3?orgId=1&amp;topicId=1019&amp;d=127&amp;p=3&amp;story=537154304&amp;t=progseg&amp;e=537172781&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Computer Scientists Demonstrate The Potential For Faking Video</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video</link>
+      <description>July 14, 2017 - Fake news articles may just be the tip of the iceberg. New research — which manipulates footage of former President Obama — shows it&#39;s possible to create fake news videos too.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_computer_scientists_demonstrate_the_potential_for_faking_video.mp3?orgId=1&amp;topicId=1019&amp;d=127&amp;p=3&amp;story=537154304&amp;t=progseg&amp;e=537172781&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/obama-videos_wide-3ddd2129b7e87e5854e225b0ea999c27db5e0e55-s800-c15.jpg"></a>
+
+July 14, 2017 - Fake news articles may just be the tip of the iceberg. New research — which manipulates footage of former President Obama — shows it's possible to create fake news videos too.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video">http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/obama-videos_wide-3ddd2129b7e87e5854e225b0ea999c27db5e0e55-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>127</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</guid>
       <title>Afghan Girls Robotics Team Allowed To Enter U.S. For Competition</title>
@@ -226,36 +258,6 @@ July 11, 2017 - In rural America, 23.4 million people do not have high-speed Int
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/536559534/microsoft-courts-rural-america-and-politicians-with-high-speed-internet">http://www.npr.org/sections/alltechconsidered/2017/07/11/536559534/microsoft-courts-rural-america-and-politicians-with-high-speed-internet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/11/ap_333256494687_wide-3e6b5ec144c86911d9f81d7bb74bfb39fd259a96-s3000-c15.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/10/536424647/can-robots-teach-us-what-it-means-to-be-human</guid>
-      <title>Can Robots Teach Us What It Means To Be Human?</title>
-      <link>http://www.npr.org/2017/07/10/536424647/can-robots-teach-us-what-it-means-to-be-human</link>
-      <description>July 10, 2017 - If you&#39;ve ever shouted at Siri or rolled your eyes at your Roomba, you know that artificial intelligence isn&#39;t always that smart. But there&#39;s still a lot that robots can tell us about ourselves.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/10/hb_pleo_web_wide-9e6cf1efbc30856a6f9b4fc93e1d52f830544dfc-s800-c15.png"></a>
-
-July 10, 2017 - If you've ever shouted at Siri or rolled your eyes at your Roomba, you know that artificial intelligence isn't always that smart. But there's still a lot that robots can tell us about ourselves.
-
-<a href="http://www.npr.org/2017/07/10/536424647/can-robots-teach-us-what-it-means-to-be-human">http://www.npr.org/2017/07/10/536424647/can-robots-teach-us-what-it-means-to-be-human</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/hb_pleo_web_wide-9e6cf1efbc30856a6f9b4fc93e1d52f830544dfc-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tech Design Ethicist Works To Raise Awareness Of Internet Addiction</title>
-      <link>http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</link>
-      <description>July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.</description>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170710_atc_tech_design_and_addiction.mp3?orgId=1&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=536505290&amp;t=progseg&amp;e=536403945&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 10, 2017 - Former Google design ethicist Tristan Harris explains how tech companies make their products hard to resist. He now advocates for a Hippocratic Oath for tech designers.
-
-<a href="http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction">http://www.npr.org/2017/07/10/536505290/tech-design-ethicist-works-to-raise-awareness-of-internet-addiction</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>237</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
