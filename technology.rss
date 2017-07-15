@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 03:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 16:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Jul 2017 03:34:53 +0000</pubDate>
+    <pubDate>Sat, 15 Jul 2017 16:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_coast_guard_voice_profiling.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=7&amp;story=537381231&amp;t=progseg&amp;e=537380511&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Coast Guard Works To Weed Out Hoax Distress Calls</title>
+      <link>http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls</link>
+      <description>July 15, 2017 - Every year, the Coast Guard wastes valuable resources and crew on as many as 150 fraud calls. Scott Simon talks with the Coast Guard&#39;s Branch Chief Al Arsenault about using voice forensics for help.</description>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_coast_guard_voice_profiling.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=7&amp;story=537381231&amp;t=progseg&amp;e=537380511&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 15, 2017 - Every year, the Coast Guard wastes valuable resources and crew on as many as 150 fraud calls. Scott Simon talks with the Coast Guard's Branch Chief Al Arsenault about using voice forensics for help.
+
+<a href="http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls">http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_80s_keyboard_comeback.mp3?orgId=1&amp;topicId=1019&amp;d=143&amp;p=2&amp;story=537290841&amp;t=progseg&amp;e=537178959&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>This 10-Pound Keyboard From The 1980s Is Making A Comeback</title>
@@ -241,23 +256,6 @@ July 11, 2017 - Dozens of websites — including large ones like Netflix, Facebo
 <a href="http://www.npr.org/2017/07/11/536595548/author-governments-seek-to-dominate-the-wild-west-of-cyberspace">http://www.npr.org/2017/07/11/536595548/author-governments-seek-to-dominate-the-wild-west-of-cyberspace</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>438</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_some_employers_are_rethinking_telework_citing_a_need_for_better_collaboration.mp3?orgId=1&amp;topicId=1006&amp;d=208&amp;p=3&amp;story=535398716&amp;t=progseg&amp;e=536594574&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Some Employers Are Rethinking Telework, Citing A Need For Better Collaboration</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/11/535398716/some-employers-are-rethinking-telework-citing-a-need-for-better-collaboration</link>
-      <description>July 11, 2017 - Some companies find that real-time technology demands have forced them to curb their work-from-home policies, even as a growing number of employers continue to embrace remote work.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_some_employers_are_rethinking_telework_citing_a_need_for_better_collaboration.mp3?orgId=1&amp;topicId=1006&amp;d=208&amp;p=3&amp;story=535398716&amp;t=progseg&amp;e=536594574&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/05/istock-600693140_wide-d9522c7a8f3524d7e60a93244e927f8fc6fdae80-s800-c15.jpg"></a>
-
-July 11, 2017 - Some companies find that real-time technology demands have forced them to curb their work-from-home policies, even as a growing number of employers continue to embrace remote work.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/535398716/some-employers-are-rethinking-telework-citing-a-need-for-better-collaboration">http://www.npr.org/sections/alltechconsidered/2017/07/11/535398716/some-employers-are-rethinking-telework-citing-a-need-for-better-collaboration</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/05/istock-600693140_wide-d9522c7a8f3524d7e60a93244e927f8fc6fdae80-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>208</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
