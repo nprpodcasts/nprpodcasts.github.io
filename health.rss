@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 18:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 03:34:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 18:00:31 +0000</pubDate>
+    <pubDate>Sat, 15 Jul 2017 03:34:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_doctor_shortage_in_rural_arizona_sparks_another_crisis_in_forgotten_america.mp3?orgId=1&amp;topicId=1128&amp;d=323&amp;p=2&amp;story=535792864&amp;t=progseg&amp;e=537178959&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Doctor Shortage In Rural Arizona Sparks Another Crisis In &#39;Forgotten America&#39;</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</link>
       <description>July 14, 2017 - More than 70 rural U.S. hospitals have closed since 2010, and rural areas are likely to be short 45,000 doctors by 2020. It&#39;s one more example of the nation&#39;s division between haves and have-nots.</description>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_doctor_shortage_in_rural_arizona_sparks_another_crisis_in_forgotten_america.mp3?orgId=1&amp;topicId=1128&amp;d=323&amp;p=2&amp;story=535792864&amp;t=progseg&amp;e=537178959&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/bisbee-1_wide-dfb4480477d6e82bb9496c9d787f90ed4f70cdc5-s800-c15.jpg"></a>
 
@@ -36,6 +37,22 @@ July 14, 2017 - More than 70 rural U.S. hospitals have closed since 2010, and ru
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america">http://www.npr.org/sections/health-shots/2017/07/14/535792864/doctor-shortage-in-rural-arizona-sparks-another-crisis-in-forgotten-america</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/bisbee-1_wide-dfb4480477d6e82bb9496c9d787f90ed4f70cdc5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>323</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170714.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Friday News Roundup - Domestic</title>
+      <link>http://the1a.org/shows/2017-07-14/friday-news-roundup-domestic</link>
+      <description>July 14, 2017 - It&#39;s been a week with a high Russian character count.&#xA;&#xA; - http://the1a.org/shows/2017-07-14/friday-news-roundup-domestic</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170714.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 14, 2017 - It's been a week with a high Russian character count.
+
+<a href="http://the1a.org/shows/2017-07-14/friday-news-roundup-domestic">http://the1a.org/shows/2017-07-14/friday-news-roundup-domestic</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +254,6 @@ July 12, 2017 - Some businesses are keeping costs down for workers by removing d
 <a href="http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later">http://www.npr.org/sections/health-shots/2017/07/12/536830635/health-insurers-try-paying-more-up-front-to-pay-less-later</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/healthinsurance01_20170510_wide-40813ad9c2d14268abc4fbbbb1f26bc4b0b58d31-s3000-c15.jpg"></itunes:image>
       <itunes:duration>213</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_democrats_eager_to_work_on_bipartisan_health_care_effort_if_gop_bill_fails.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=536887846&amp;t=progseg&amp;e=536805649&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Democrats Eager To Work On Bipartisan Health Care Effort If GOP Bill Fails</title>
-      <link>http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</link>
-      <description>July 12, 2017 - Senate Republican leader Mitch McConnell warned his GOP colleagues they may have to work with Democrats if they can&#39;t pass their own health care bill. NPR takes a look at what Democrats would want if that happened.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_democrats_eager_to_work_on_bipartisan_health_care_effort_if_gop_bill_fails.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=536887846&amp;t=progseg&amp;e=536805649&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 12, 2017 - Senate Republican leader Mitch McConnell warned his GOP colleagues they may have to work with Democrats if they can't pass their own health care bill. NPR takes a look at what Democrats would want if that happened.
-
-<a href="http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails">http://www.npr.org/2017/07/12/536887846/democrats-eager-to-work-on-bipartisan-health-care-effort-if-gop-bill-fails</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

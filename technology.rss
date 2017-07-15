@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 03:34:53 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 14:00:21 +0000</pubDate>
+    <pubDate>Sat, 15 Jul 2017 03:34:53 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_80s_keyboard_comeback.mp3?orgId=1&amp;topicId=1019&amp;d=143&amp;p=2&amp;story=537290841&amp;t=progseg&amp;e=537178959&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>This 10-Pound Keyboard From The 1980s Is Making A Comeback</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback</link>
+      <description>July 14, 2017 - IBM&#39;s Model F keyboard was manufactured from 1981 until 1994 and cost hundreds of dollars. Computer aficionados treasure it, but it&#39;s hard to find these days. So one man is working to bring it back.</description>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_80s_keyboard_comeback.mp3?orgId=1&amp;topicId=1019&amp;d=143&amp;p=2&amp;story=537290841&amp;t=progseg&amp;e=537178959&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/keyboard_wide-abde4b7e33fc9ba4971d2662653cf90dc7216132-s800-c15.jpg"></a>
+
+July 14, 2017 - IBM's Model F keyboard was manufactured from 1981 until 1994 and cost hundreds of dollars. Computer aficionados treasure it, but it's hard to find these days. So one man is working to bring it back.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback">http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/keyboard_wide-abde4b7e33fc9ba4971d2662653cf90dc7216132-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>143</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</guid>
       <title>Cell Towers At Schools: Godsend Or God-Awful?</title>
@@ -241,23 +258,6 @@ July 11, 2017 - Some companies find that real-time technology demands have force
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/535398716/some-employers-are-rethinking-telework-citing-a-need-for-better-collaboration">http://www.npr.org/sections/alltechconsidered/2017/07/11/535398716/some-employers-are-rethinking-telework-citing-a-need-for-better-collaboration</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/05/istock-600693140_wide-d9522c7a8f3524d7e60a93244e927f8fc6fdae80-s3000-c15.jpg"></itunes:image>
       <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_microsoft_courts_rural_america_and_politicians_with_high-speed_internet.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=536559534&amp;t=progseg&amp;e=536594574&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Microsoft Courts Rural America, And Politicians, With High-Speed Internet</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/11/536559534/microsoft-courts-rural-america-and-politicians-with-high-speed-internet</link>
-      <description>July 11, 2017 - In rural America, 23.4 million people do not have high-speed Internet. Microsoft plans to change that, in an effort that uses cheap technology and appeals to the lowest common denominator in politics.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_microsoft_courts_rural_america_and_politicians_with_high-speed_internet.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=536559534&amp;t=progseg&amp;e=536594574&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/11/ap_333256494687_wide-3e6b5ec144c86911d9f81d7bb74bfb39fd259a96-s800-c15.jpg"></a>
-
-July 11, 2017 - In rural America, 23.4 million people do not have high-speed Internet. Microsoft plans to change that, in an effort that uses cheap technology and appeals to the lowest common denominator in politics.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/536559534/microsoft-courts-rural-america-and-politicians-with-high-speed-internet">http://www.npr.org/sections/alltechconsidered/2017/07/11/536559534/microsoft-courts-rural-america-and-politicians-with-high-speed-internet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/ap_333256494687_wide-3e6b5ec144c86911d9f81d7bb74bfb39fd259a96-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
