@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 07:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 15:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 16 Jul 2017 07:00:10 +0000</pubDate>
+    <pubDate>Sun, 16 Jul 2017 15:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</link>
       <description>July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer&#39;s or some other form of dementia.</description>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ July 16, 2017 - New research finds that African-Americans who grow up in harsh e
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
