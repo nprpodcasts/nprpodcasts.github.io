@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 07:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Jul 2017 16:00:32 +0000</pubDate>
+    <pubDate>Sun, 16 Jul 2017 07:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,51 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</guid>
+      <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</link>
+      <description>July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer&#39;s or some other form of dementia.</description>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s800-c15.jpg"></a>
+
+July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer's or some other form of dementia.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_shame_guilt_pose_significant_hurdles_for_those_recovering_from_addiction.mp3?orgId=1&amp;topicId=1128&amp;d=370&amp;p=2&amp;story=537451534&amp;t=progseg&amp;e=537401930&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Shame, Guilt Pose Significant Hurdles For Those Recovering From Addiction</title>
+      <link>http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction</link>
+      <description>July 15, 2017 - For some, recovering from addiction is only half the battle. The other half is getting over the guilt, depression and shame associated with it. NPR&#39;s Michel Martin speaks with author Neil Steinberg.</description>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_shame_guilt_pose_significant_hurdles_for_those_recovering_from_addiction.mp3?orgId=1&amp;topicId=1128&amp;d=370&amp;p=2&amp;story=537451534&amp;t=progseg&amp;e=537401930&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 15, 2017 - For some, recovering from addiction is only half the battle. The other half is getting over the guilt, depression and shame associated with it. NPR's Michel Martin speaks with author Neil Steinberg.
+
+<a href="http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction">http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>370</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_amid_health_care_debate_legislative_group_seeks_to_foster_bipartisanship.mp3?orgId=1&amp;topicId=1003&amp;d=682&amp;p=2&amp;story=537451509&amp;t=progseg&amp;e=537401930&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Amid Health Care Debate, Legislative Group Seeks To Foster Bipartisanship</title>
+      <link>http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship</link>
+      <description>July 15, 2017 - More and more lawmakers are seeking ways to build bipartisanship. NPR Host Michel Martin talks with co-chairs of the Problem Solvers Caucus, Congressmen Tom Reed and Josh Gottheimer, about health care.</description>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_amid_health_care_debate_legislative_group_seeks_to_foster_bipartisanship.mp3?orgId=1&amp;topicId=1003&amp;d=682&amp;p=2&amp;story=537451509&amp;t=progseg&amp;e=537401930&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 15, 2017 - More and more lawmakers are seeking ways to build bipartisanship. NPR Host Michel Martin talks with co-chairs of the Problem Solvers Caucus, Congressmen Tom Reed and Josh Gottheimer, about health care.
+
+<a href="http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship">http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>682</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_charlie_gard.mp3?orgId=1&amp;topicId=1128&amp;d=216&amp;p=7&amp;story=537381133&amp;t=progseg&amp;e=537380511&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Terminal Illness Divides Parents And Doctors</title>
@@ -203,51 +248,6 @@ July 13, 2017 - In need of more votes, Senate leaders have produced a new bill t
 
 <a href="http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan">http://www.npr.org/2017/07/13/537040114/senate-gop-releases-revised-affordable-care-act-repeal-and-replace-plan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/gettyimages-813879498_wide-8d5823bcd64c26abaf97d8d1535a7b6d700723a5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>How Storytelling Can Improve The Care Of People With Alzheimer&#39;s</title>
-      <link>http://the1a.org/shows/2017-07-13/memory-well</link>
-      <description>July 13, 2017 - A former journalist is making sure caregivers know patients&#39; life stories.&#xA;&#xA; - http://the1a.org/shows/2017-07-13/memory-well</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 13, 2017 - A former journalist is making sure caregivers know patients' life stories.
-
-<a href="http://the1a.org/shows/2017-07-13/memory-well">http://the1a.org/shows/2017-07-13/memory-well</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2112</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170713-1.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Women And African Americans Are More Likely To Develop Alzheimer&#39;s And Dementia - Why?</title>
-      <link>http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia</link>
-      <description>July 13, 2017 - Women and African Americans are more likely to develop Alzheimer&#39;s and dementia. But they are not as represented in clinical trials as white men.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170713-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 13, 2017 - Women and African Americans are more likely to develop Alzheimer's and dementia. But they are not as represented in clinical trials as white men.
-
-<a href="http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia">http://the1a.org/shows/2017-07-13/tentative-how-women-and-african-americas-are-more-likely-to-get-alzheimers-and-dementia</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>718</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/13/536873912/extreme-opioid-use-and-doctor-shopping-still-plague-medicare</guid>
-      <title>&#39;Extreme&#39; Opioid Use And Doctor Shopping Still Plague Medicare </title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/13/536873912/extreme-opioid-use-and-doctor-shopping-still-plague-medicare</link>
-      <description>July 13, 2017 - One-third of all Medicare recipients were prescribed opioids last year, the HHS inspector general says, with more than half a million getting high doses for at least three months.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/gettyimages-656581104_wide-3b24336b2124bc3f6da0c3ca852b7df83b73bbde-s800-c15.jpg"></a>
-
-July 13, 2017 - One-third of all Medicare recipients were prescribed opioids last year, the HHS inspector general says, with more than half a million getting high doses for at least three months.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/13/536873912/extreme-opioid-use-and-doctor-shopping-still-plague-medicare">http://www.npr.org/sections/health-shots/2017/07/13/536873912/extreme-opioid-use-and-doctor-shopping-still-plague-medicare</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-656581104_wide-3b24336b2124bc3f6da0c3ca852b7df83b73bbde-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

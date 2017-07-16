@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 20:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 07:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 14 Jul 2017 20:00:17 +0000</pubDate>
+    <pubDate>Sun, 16 Jul 2017 07:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</guid>
+      <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</link>
+      <description>July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer&#39;s or some other form of dementia.</description>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s800-c15.jpg"></a>
+
+July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer's or some other form of dementia.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</guid>
+      <title>Maryam Mirzakhani, Prize-Winning Mathematician, Dies At 40</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</link>
+      <description>July 15, 2017 - Maryam Mirzakhani was the first woman to win the prestigious Fields Medal. She worked at Stanford University, which confirmed her death Saturday.</description>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/15/mathmetician_wide-8d528712c556a3e8f5522dcdd39ea84aff09d151-s800-c15.jpg"></a>
+
+July 15, 2017 - Maryam Mirzakhani was the first woman to win the prestigious Fields Medal. She worked at Stanford University, which confirmed her death Saturday.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40">http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/15/mathmetician_wide-8d528712c556a3e8f5522dcdd39ea84aff09d151-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/14/537271940/noaa-halts-whale-disentanglement-efforts-after-rescuer-dies</guid>
       <title>NOAA Halts Whale Disentanglement Efforts After Rescuer Dies</title>
@@ -222,38 +252,6 @@ July 12, 2017 - Scientists say the iceberg is one of the largest seen by satelli
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica">http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/larsenc_photo_2016315_lrg_wide-ba76b9008c14a649efbf9ed0994288a1e315def9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>144</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Video: Japan Created Easy-To-Swallow Foods To Prevent Senior Choking Deaths</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</link>
-      <description>July 12, 2017 - In NPR&#39;s Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170712_me_video_japan_created_easy-to-swallow_foods_to_prevent_senior_choking_deaths.mp3?orgId=1&amp;topicId=1125&amp;aggIds=530208279&amp;d=113&amp;p=3&amp;story=532716164&amp;t=progseg&amp;e=536781154&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s800-c15.jpg"></a>
-
-July 12, 2017 - In NPR's Elise Tries series, correspondent Elise Hu tries out different experiences in East Asia. In rapidly aging Japan, an edible innovation is helping seniors enjoy meals without fear of choking.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths">http://www.npr.org/sections/parallels/2017/07/12/532716164/video-japan-created-easy-to-swallow-foods-to-prevent-senior-choking-deaths</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/06/engay_thumb_wide-5d292c1f01a61cc24795ce5dd0890a2c333f0d9d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>113</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point</guid>
-      <title>Macron Got A Lot Wrong About Africa ... But Made One Good Point</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point</link>
-      <description>July 11, 2017 - In answering a reporter&#39;s question, the French president characterized Africa as a continent of failing states with high birth rates. Viviane Rutabingwa shares her perspective.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/11/gettyimages-803295670_wide-adb22afe7552c4947b0e9f23d72a8973c0b00e06-s800-c15.jpg"></a>
-
-July 11, 2017 - In answering a reporter's question, the French president characterized Africa as a continent of failing states with high birth rates. Viviane Rutabingwa shares her perspective.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point">http://www.npr.org/sections/goatsandsoda/2017/07/11/536445457/macron-got-a-lot-wrong-about-africa-but-made-one-good-point</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/gettyimages-803295670_wide-adb22afe7552c4947b0e9f23d72a8973c0b00e06-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
