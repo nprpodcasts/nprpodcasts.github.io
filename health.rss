@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 15:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 20:24:01 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 16 Jul 2017 15:00:22 +0000</pubDate>
+    <pubDate>Sun, 16 Jul 2017 20:24:01 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</guid>
+      <title>Doctors Report Removing 27 Contact Lenses From A Woman&#39;s Eye</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</link>
+      <description>July 16, 2017 - The patient hadn&#39;t complained of irritation. &#34;She was quite shocked,&#34; specialist trainee ophthalmologist Rupal Morjaria tells Britain&#39;s Optometry Today.</description>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/16/gettyimages-94655886_wide-93eb2f79237e5fdb68901cd634c16ae22a8c0049-s800-c15.jpg"></a>
+
+July 16, 2017 - The patient hadn't complained of irritation. "She was quite shocked," specialist trainee ophthalmologist Rupal Morjaria tells Britain's Optometry Today.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye">http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/16/gettyimages-94655886_wide-93eb2f79237e5fdb68901cd634c16ae22a8c0049-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/16/536478699/gonorrhea-aka-the-clap-is-excellent-at-resisting-antibiotics</guid>
       <title>Gonorrhea — AKA The Clap — Is Excellent At Resisting Antibiotics</title>
@@ -237,21 +252,6 @@ July 13, 2017 - The Ebola-like virus is found mainly in North Africa, the Middle
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain">http://www.npr.org/sections/goatsandsoda/2017/07/13/536848110/how-did-crimean-congo-hemorrhagic-fever-pop-up-in-spain</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/hyalomma_marginatum_wide-ee29437140e4483b1ea9016b4ef2325c241ef437-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_sen_tom_carper_explains_how_democrats_could_work_with_gop_on_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=192&amp;p=2&amp;story=537082064&amp;t=progseg&amp;e=536998102&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Sen. Tom Carper Explains How Democrats Could Work With GOP On Health Care</title>
-      <link>http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</link>
-      <description>July 13, 2017 - NPR&#39;s Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_sen_tom_carper_explains_how_democrats_could_work_with_gop_on_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=192&amp;p=2&amp;story=537082064&amp;t=progseg&amp;e=536998102&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 13, 2017 - NPR's Kelly McEvers talks with Democratic Sen. Tom Carper about how his party might work with Republicans to improve health care.
-
-<a href="http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care">http://www.npr.org/2017/07/13/537082064/sen-tom-carper-explains-how-democrats-could-work-with-gop-on-health-care</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>192</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
