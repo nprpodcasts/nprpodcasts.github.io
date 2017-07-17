@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 23:15:43 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 22:00:28 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 23:15:43 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,30 +24,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Students Compete In First-Ever International High School Robotics Competition</title>
       <link>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</link>
       <description>July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.
 
 <a href="http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition">http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_new_research_suggests_why_mid-sized_animals_are_the_fastest.mp3?orgId=1&amp;topicId=1007&amp;d=159&amp;p=2&amp;story=537754520&amp;t=progseg&amp;e=537657366&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>New Research Suggests Why Mid-Sized Animals Are The Fastest</title>
-      <link>http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</link>
-      <description>July 17, 2017 - Why aren&#39;t the biggest animals with the longest limbs the fastest? New research suggests these animals run out of fuel for their fast-twitch muscles before they can reach the maximum speed their bodies could achieve. There&#39;s a golden mean for speed, and mid-sized animals like cheetahs have it.</description>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</link>
+      <description>July 17, 2017 - New research suggests the biggest animals run out of fuel for their fast-twitch muscles before they reach the maximum speed their bodies could achieve. Animals like cheetahs are born to run fast.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_new_research_suggests_why_mid-sized_animals_are_the_fastest.mp3?orgId=1&amp;topicId=1007&amp;d=159&amp;p=2&amp;story=537754520&amp;t=progseg&amp;e=537657366&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 17, 2017 - Why aren't the biggest animals with the longest limbs the fastest? New research suggests these animals run out of fuel for their fast-twitch muscles before they can reach the maximum speed their bodies could achieve. There's a golden mean for speed, and mid-sized animals like cheetahs have it.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/cheetah_wide-ab4799a8153ef295691038ecfcda9dffed5f0cc9-s800-c15.jpeg"></a>
 
-<a href="http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest">http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+July 17, 2017 - New research suggests the biggest animals run out of fuel for their fast-twitch muscles before they reach the maximum speed their bodies could achieve. Animals like cheetahs are born to run fast.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest">http://www.npr.org/sections/thetwo-way/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/cheetah_wide-ab4799a8153ef295691038ecfcda9dffed5f0cc9-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>159</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 22:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 23:15:42 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 22:00:25 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 23:15:42 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</guid>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</guid>
+      <title>Meet The Other Robotics Team That Almost Didn&#39;t Make It To The Competition</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</link>
+      <description>July 17, 2017 - The team from Gambia was denied visas when they first applied. &#34;Having no hope to come, we still worked,&#34; says team captain Alieu Bah.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/6f6a1084_wide-389fdc2b8f74032861a2ccc9d276e491f43c41c8-s800-c15.jpg"></a>
+
+July 17, 2017 - The team from Gambia was denied visas when they first applied. "Having no hope to come, we still worked," says team captain Alieu Bah.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition">http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/6f6a1084_wide-389fdc2b8f74032861a2ccc9d276e491f43c41c8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_seeking_online_medical_advice_googles_top_results_arent_always_on_target.mp3?orgId=144&amp;topicId=1019&amp;d=238&amp;p=2&amp;story=537711453&amp;t=progseg&amp;e=537657366&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>Seeking Online Medical Advice? Google&#39;s Top Results Aren&#39;t Always On Target</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</link>
       <description>July 17, 2017 - Google&#39;s search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_seeking_online_medical_advice_googles_top_results_arent_always_on_target.mp3?orgId=144&amp;topicId=1019&amp;d=238&amp;p=2&amp;story=537711453&amp;t=progseg&amp;e=537657366&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s800-c15.jpg"></a>
 
@@ -36,19 +52,22 @@ July 17, 2017 - Google's search results on health issues can be influential, but
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target">http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>238</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Students Compete In First-Ever International High School Robotics Competition</title>
       <link>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</link>
       <description>July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.
 
 <a href="http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition">http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +256,6 @@ July 13, 2017 - For the first time, a medically approved birth control app has b
 <a href="http://www.npr.org/2017/07/12/536887872/internet-companies-plan-day-of-action-in-support-of-net-neutrality">http://www.npr.org/2017/07/12/536887872/internet-companies-plan-day-of-action-in-support-of-net-neutrality</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</guid>
-      <title>Lawsuit Says It&#39;s Unconstitutional For President Trump To Block Critics On Twitter</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</link>
-      <description>July 12, 2017 - &#34;The White House is transforming a public forum into an echo chamber,&#34; says an attorney at the Knight First Amendment Institute.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/gettyimages-803546578_wide-aabe53a23857ead89d410de63529ca241b434ed6-s800-c15.jpg"></a>
-
-July 12, 2017 - "The White House is transforming a public forum into an echo chamber," says an attorney at the Knight First Amendment Institute.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte">http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-803546578_wide-aabe53a23857ead89d410de63529ca241b434ed6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
