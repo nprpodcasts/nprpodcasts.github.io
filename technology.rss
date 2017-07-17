@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 16:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 14:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 15 Jul 2017 16:00:28 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 14:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</guid>
+      <title>Technology Can Be A Tool, A Teacher, A Trickster</title>
+      <link>http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</link>
+      <description>July 17, 2017 - Shaping technology to some form of learning could depart pretty radically from the more familiar aim of shaping technology to the way we are now, says psychologist Tania Lombrozo.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/istock-490361666_wide-6e34d27836acda2833fe396bac3ffb256e4c9527-s800-c15.jpg"></a>
+
+July 17, 2017 - Shaping technology to some form of learning could depart pretty radically from the more familiar aim of shaping technology to the way we are now, says psychologist Tania Lombrozo.
+
+<a href="http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster">http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/istock-490361666_wide-6e34d27836acda2833fe396bac3ffb256e4c9527-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1006&amp;d=219&amp;p=3&amp;story=537645901&amp;t=progseg&amp;e=537644267&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Legal Challenges Expected As Seattle Approves Income Tax On High Earners</title>
+      <link>http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners</link>
+      <description>July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. The highly paid tech workers there are expected to pay a new city income tax to help those who make less.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1006&amp;d=219&amp;p=3&amp;story=537645901&amp;t=progseg&amp;e=537644267&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. The highly paid tech workers there are expected to pay a new city income tax to help those who make less.
+
+<a href="http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners">http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>219</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_coast_guard_voice_profiling.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=7&amp;story=537381231&amp;t=progseg&amp;e=537380511&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Coast Guard Works To Weed Out Hoax Distress Calls</title>
@@ -224,38 +254,6 @@ July 11, 2017 - Mat Johnson's recent hard-drive failure wasn't the first time he
 <a href="http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online">http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_internet_companies_plan_day_of_action_in_support_of_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;story=535804285&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Internet Companies Plan Online Campaign To Keep Net Neutrality Rules</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules</link>
-      <description>July 11, 2017 - Dozens of websites — including large ones like Netflix, Facebook and Amazon — join an online advocacy push Wednesday, urging regulators and lawmakers not to weaken regulations for Internet providers.</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_internet_companies_plan_day_of_action_in_support_of_net_neutrality.mp3?orgId=1&amp;topicId=1019&amp;d=235&amp;story=535804285&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/10/ap_17075733254671_wide-55aa316a6f9317ce4a9b4969310e136b210a1fe2-s800-c15.jpg"></a>
-
-July 11, 2017 - Dozens of websites — including large ones like Netflix, Facebook and Amazon — join an online advocacy push Wednesday, urging regulators and lawmakers not to weaken regulations for Internet providers.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules">http://www.npr.org/sections/alltechconsidered/2017/07/11/535804285/internet-companies-plan-online-campaign-to-keep-net-neutrality-rules</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/ap_17075733254671_wide-55aa316a6f9317ce4a9b4969310e136b210a1fe2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_author_governments_seek_to_dominate_the_wild_west_of_cyberspace.mp3?orgId=1&amp;topicId=1122&amp;d=438&amp;p=3&amp;story=536595548&amp;t=progseg&amp;e=536594574&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Author: Governments Seek To Dominate The &#39;Wild West&#39; Of Cyberspace</title>
-      <link>http://www.npr.org/2017/07/11/536595548/author-governments-seek-to-dominate-the-wild-west-of-cyberspace</link>
-      <description>July 11, 2017 - In The Darkening Web, Alexander Klimburg warns that the threat of an international cyber war is as real as nuclear exchange during the Cold War — only &#34;many orders of magnitude greater.&#34;</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170711_me_author_governments_seek_to_dominate_the_wild_west_of_cyberspace.mp3?orgId=1&amp;topicId=1122&amp;d=438&amp;p=3&amp;story=536595548&amp;t=progseg&amp;e=536594574&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 11, 2017 - In The Darkening Web, Alexander Klimburg warns that the threat of an international cyber war is as real as nuclear exchange during the Cold War — only "many orders of magnitude greater."
-
-<a href="http://www.npr.org/2017/07/11/536595548/author-governments-seek-to-dominate-the-wild-west-of-cyberspace">http://www.npr.org/2017/07/11/536595548/author-governments-seek-to-dominate-the-wild-west-of-cyberspace</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>438</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
