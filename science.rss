@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 16:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 20:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 16:00:07 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 20:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/07/17/536485684/more-than-bread-sourdough-as-a-window-into-the-microbiome</guid>
+      <title>More Than Bread: Sourdough As a Window Into The Microbiome</title>
+      <link>http://www.npr.org/sections/thesalt/2017/07/17/536485684/more-than-bread-sourdough-as-a-window-into-the-microbiome</link>
+      <description>July 17, 2017 - Home bakers in the U.S., Europe and some other countries have volunteered their sourdough starters to a team of American scientists who want to unravel the microbial secrets of sourdough.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/10/whitevsgreen_benjaminwolfe-1--2_wide-dea9ddb642af92ea31886f50a322d0c48cde1437-s800-c15.jpg"></a>
+
+July 17, 2017 - Home bakers in the U.S., Europe and some other countries have volunteered their sourdough starters to a team of American scientists who want to unravel the microbial secrets of sourdough.
+
+<a href="http://www.npr.org/sections/thesalt/2017/07/17/536485684/more-than-bread-sourdough-as-a-window-into-the-microbiome">http://www.npr.org/sections/thesalt/2017/07/17/536485684/more-than-bread-sourdough-as-a-window-into-the-microbiome</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/whitevsgreen_benjaminwolfe-1--2_wide-dea9ddb642af92ea31886f50a322d0c48cde1437-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</guid>
       <title>Elon Musk Warns Governors: Artificial Intelligence Poses &#39;Existential Risk&#39;</title>
@@ -237,21 +252,6 @@ July 12, 2017 - An advisory panel to the Food and Drug Administration recommends
 <a href="http://www.npr.org/2017/07/12/536887930/statue-of-scopes-trial-lawyer-sparks-debate-in-tennessee">http://www.npr.org/2017/07/12/536887930/statue-of-scopes-trial-lawyer-sparks-debate-in-tennessee</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>176</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</guid>
-      <title>More People Are Making Mistakes With Medicines At Home</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</link>
-      <description>July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s800-c15.jpg"></a>
-
-July 12, 2017 - A study analyzing data from poison control centers finds that the rate of serious medication errors outside health care settings doubled between 2000 and 2012.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise">http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
