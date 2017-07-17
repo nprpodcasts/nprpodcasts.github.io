@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 21:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 22:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 21:00:46 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 22:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_neurosurgeon_outlines_sen_mccains_blood_clot_removal_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=537748077&amp;t=progseg&amp;e=537657366&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Neurosurgeon: McCain&#39;s Recovery From Brain Surgery Might Take Weeks</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks</link>
+      <description>July 17, 2017 - Neurosurgeon Peter Nakaji says that the operation performed on Sen. John McCain to remove a blood clot from his brain gets people home within days, but they still need time to recover.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_neurosurgeon_outlines_sen_mccains_blood_clot_removal_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=537748077&amp;t=progseg&amp;e=537657366&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-807815232-3_wide-7162018391cd052570b0f48069537ff8ca3436bd-s800-c15.jpg"></a>
+
+July 17, 2017 - Neurosurgeon Peter Nakaji says that the operation performed on Sen. John McCain to remove a blood clot from his brain gets people home within days, but they still need time to recover.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks">http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-807815232-3_wide-7162018391cd052570b0f48069537ff8ca3436bd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>277</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</guid>
+      <title>Seeking Online Medical Advice? Google&#39;s Top Results Aren&#39;t Always On Target</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</link>
+      <description>July 17, 2017 - Google&#39;s search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s800-c15.jpg"></a>
+
+July 17, 2017 - Google's search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target">http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/17/537754569/trump-administration-moves-to-defund-teen-pregnancy-research-programs</guid>
       <title>Trump Administration Moves To Defund Teen Pregnancy Research Programs</title>
@@ -37,24 +69,27 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/17/537754513/sen-mccains-recovery-from-blood-clot-surgery-threatens-gop-health-care-vote</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_sen_mccains_recovery_from_blood_clot_surgery_threatens_gop_health_care_vote.mp3?orgId=1&amp;topicId=1014&amp;d=241&amp;p=2&amp;story=537754513&amp;t=progseg&amp;e=537657366&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sen. McCain&#39;s Recovery From Blood Clot Surgery Threatens GOP Health Care Vote</title>
       <link>http://www.npr.org/2017/07/17/537754513/sen-mccains-recovery-from-blood-clot-surgery-threatens-gop-health-care-vote</link>
       <description>July 17, 2017 - The imperiled Senate health care bill hit an unexpected hurdle over the weekend with a health scare that is keeping GOP Sen. John McCain home in Arizona. Without his vote, the bill cannot pass.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_sen_mccains_recovery_from_blood_clot_surgery_threatens_gop_health_care_vote.mp3?orgId=1&amp;topicId=1014&amp;d=241&amp;p=2&amp;story=537754513&amp;t=progseg&amp;e=537657366&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 17, 2017 - The imperiled Senate health care bill hit an unexpected hurdle over the weekend with a health scare that is keeping GOP Sen. John McCain home in Arizona. Without his vote, the bill cannot pass.
 
 <a href="http://www.npr.org/2017/07/17/537754513/sen-mccains-recovery-from-blood-clot-surgery-threatens-gop-health-care-vote">http://www.npr.org/2017/07/17/537754513/sen-mccains-recovery-from-blood-clot-surgery-threatens-gop-health-care-vote</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>241</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Massachusetts, Proposed Medicaid Cuts Put Kids&#39; Health Care At Risk</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</link>
       <description>July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medicaid funding would jeopardize the treatment a lot of kids rely on. The state would either have to make up lost funding or cut benefits.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s800-c15.jpg"></a>
 
@@ -62,6 +97,7 @@ July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medic
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk">http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>252</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -218,36 +254,6 @@ July 16, 2017 - New research finds that African-Americans who grow up in harsh e
 <a href="http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors">http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>216</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/15/537038311/photos-the-sidewalk-pill-peddlers-of-port-au-prince</guid>
-      <title>PHOTOS: The Sidewalk Pill Peddlers Of Port-Au-Prince</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/15/537038311/photos-the-sidewalk-pill-peddlers-of-port-au-prince</link>
-      <description>July 15, 2017 - There aren&#39;t many pharmacies in Haiti. But there are vendors who walk the streets with towers of pills — including some that may be fake or past their expiration date.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/13/street-vendor_wide-13c6b2c6cec9c4e216ac48415af6bd8aeec85cbf-s800-c15.jpg"></a>
-
-July 15, 2017 - There aren't many pharmacies in Haiti. But there are vendors who walk the streets with towers of pills — including some that may be fake or past their expiration date.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/15/537038311/photos-the-sidewalk-pill-peddlers-of-port-au-prince">http://www.npr.org/sections/goatsandsoda/2017/07/15/537038311/photos-the-sidewalk-pill-peddlers-of-port-au-prince</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/street-vendor_wide-13c6b2c6cec9c4e216ac48415af6bd8aeec85cbf-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/15/536657455/moms-need-social-support-and-not-just-in-the-baby-years</guid>
-      <title>Moms Of Teens Can Benefit From Social Support, Just Like New Moms</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/15/536657455/moms-need-social-support-and-not-just-in-the-baby-years</link>
-      <description>July 15, 2017 - Social support networks can help mothers of teenagers navigate through difficulties and maintain closeness with their children, researchers have found.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/13/mom-support_wide-68c58748a51841729f07b106515bf86a18c6327f-s800-c15.jpg"></a>
-
-July 15, 2017 - Social support networks can help mothers of teenagers navigate through difficulties and maintain closeness with their children, researchers have found.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/15/536657455/moms-need-social-support-and-not-just-in-the-baby-years">http://www.npr.org/sections/health-shots/2017/07/15/536657455/moms-need-social-support-and-not-just-in-the-baby-years</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/mom-support_wide-68c58748a51841729f07b106515bf86a18c6327f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

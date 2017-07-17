@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 21:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 22:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 21:00:44 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 22:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -37,24 +37,27 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_new_research_suggests_why_mid-sized_animals_are_the_fastest.mp3?orgId=1&amp;topicId=1007&amp;d=159&amp;p=2&amp;story=537754520&amp;t=progseg&amp;e=537657366&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>New Research Suggests Why Mid-Sized Animals Are The Fastest</title>
       <link>http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</link>
       <description>July 17, 2017 - Why aren&#39;t the biggest animals with the longest limbs the fastest? New research suggests these animals run out of fuel for their fast-twitch muscles before they can reach the maximum speed their bodies could achieve. There&#39;s a golden mean for speed, and mid-sized animals like cheetahs have it.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_new_research_suggests_why_mid-sized_animals_are_the_fastest.mp3?orgId=1&amp;topicId=1007&amp;d=159&amp;p=2&amp;story=537754520&amp;t=progseg&amp;e=537657366&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 17, 2017 - Why aren't the biggest animals with the longest limbs the fastest? New research suggests these animals run out of fuel for their fast-twitch muscles before they can reach the maximum speed their bodies could achieve. There's a golden mean for speed, and mid-sized animals like cheetahs have it.
 
 <a href="http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest">http://www.npr.org/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>159</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Massachusetts, Proposed Medicaid Cuts Put Kids&#39; Health Care At Risk</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</link>
       <description>July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medicaid funding would jeopardize the treatment a lot of kids rely on. The state would either have to make up lost funding or cut benefits.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s800-c15.jpg"></a>
 
@@ -62,6 +65,7 @@ July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medic
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk">http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>252</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

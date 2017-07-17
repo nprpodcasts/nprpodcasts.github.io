@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 21:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 22:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 21:00:48 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 22:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</guid>
+      <title>Seeking Online Medical Advice? Google&#39;s Top Results Aren&#39;t Always On Target</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</link>
+      <description>July 17, 2017 - Google&#39;s search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s800-c15.jpg"></a>
+
+July 17, 2017 - Google's search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target">http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</guid>
       <title>Students Compete In First-Ever International High School Robotics Competition</title>
@@ -237,21 +252,6 @@ July 12, 2017 - "The White House is transforming a public forum into an echo cha
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte">http://www.npr.org/sections/thetwo-way/2017/07/12/536842197/lawsuit-says-its-unconstitutional-for-president-trump-to-block-critics-on-twitte</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/gettyimages-803546578_wide-aabe53a23857ead89d410de63529ca241b434ed6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170712-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Hello Girls: America&#39;s First Women Soldiers And Their Fight For Recognition</title>
-      <link>http://the1a.org/shows/2017-07-12/americas-first-women-soldiers-had-to-fight-for-recognition-as-veterans</link>
-      <description>July 12, 2017 - The women of the U.S. Army Signal Corps were heroes in World War I. But when they returned home, they soon learned that the government that had recruited them for this mission didn&#39;t even consider them veterans.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170712-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 12, 2017 - The women of the U.S. Army Signal Corps were heroes in World War I. But when they returned home, they soon learned that the government that had recruited them for this mission didn't even consider them veterans.
-
-<a href="http://the1a.org/shows/2017-07-12/americas-first-women-soldiers-had-to-fight-for-recognition-as-veterans">http://the1a.org/shows/2017-07-12/americas-first-women-soldiers-had-to-fight-for-recognition-as-veterans</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2113</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
