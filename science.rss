@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 15:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 16 Jul 2017 15:00:20 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 15:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</guid>
+      <title>Elon Musk Warns Governors: Artificial Intelligence Poses &#39;Existential Risk&#39;</title>
+      <link>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</link>
+      <description>July 17, 2017 - At a bipartisan governors&#39; conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s800-c15.jpg"></a>
+
+July 17, 2017 - At a bipartisan governors' conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.
+
+<a href="http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
@@ -237,23 +252,6 @@ July 12, 2017 - A study analyzing data from poison control centers finds that th
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise">http://www.npr.org/sections/health-shots/2017/07/12/536519077/took-the-wrong-medicine-by-mistake-study-finds-such-errors-are-on-the-rise</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/11/16x9pill_wide-fa53609c65f54dc1f1d54ed7fcf6739183dcad96-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_massive_iceberg_breaks_free_in_antarctica.mp3?orgId=1&amp;topicId=1025&amp;d=144&amp;p=2&amp;story=536818782&amp;t=progseg&amp;e=536805649&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Massive Iceberg Breaks Free In Antarctica</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</link>
-      <description>July 12, 2017 - Scientists say the iceberg is one of the largest seen by satellites. But the full implications of its separation off remain to be seen.</description>
-      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170712_atc_massive_iceberg_breaks_free_in_antarctica.mp3?orgId=1&amp;topicId=1025&amp;d=144&amp;p=2&amp;story=536818782&amp;t=progseg&amp;e=536805649&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/larsenc_photo_2016315_lrg_wide-ba76b9008c14a649efbf9ed0994288a1e315def9-s800-c15.jpg"></a>
-
-July 12, 2017 - Scientists say the iceberg is one of the largest seen by satellites. But the full implications of its separation off remain to be seen.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica">http://www.npr.org/sections/thetwo-way/2017/07/12/536818782/massive-iceberg-breaks-free-in-antarctica</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/larsenc_photo_2016315_lrg_wide-ba76b9008c14a649efbf9ed0994288a1e315def9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>144</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

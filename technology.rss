@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 14:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 15:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 14:00:09 +0000</pubDate>
+    <pubDate>Mon, 17 Jul 2017 15:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</guid>
+      <title>Elon Musk Warns Governors: Artificial Intelligence Poses &#39;Existential Risk&#39;</title>
+      <link>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</link>
+      <description>July 17, 2017 - At a bipartisan governors&#39; conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s800-c15.jpg"></a>
+
+July 17, 2017 - At a bipartisan governors' conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.
+
+<a href="http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</guid>
       <title>Technology Can Be A Tool, A Teacher, A Trickster</title>
@@ -239,21 +254,6 @@ July 11, 2017 - Mat Johnson's recent hard-drive failure wasn't the first time he
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/11/534865245/a-novelist-forces-himself-to-press-on-after-losing-100-pages-in-a-tech-glitch">http://www.npr.org/sections/alltechconsidered/2017/07/11/534865245/a-novelist-forces-himself-to-press-on-after-losing-100-pages-in-a-tech-glitch</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/erasure_wide-819eb5cc3cbd87e3f588ed5715f8292936682a1b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>452</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170711.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Anti-Social: Why Disagreements Turn Into Death Threats Online</title>
-      <link>http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online</link>
-      <description>July 11, 2017 - The Internet is not a safe space to express opinions.&#xA;&#xA; - http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online</description>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170711.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 11, 2017 - The Internet is not a safe space to express opinions.
-
-<a href="http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online">http://the1a.org/shows/2017-07-11/anti-social-why-disagreements-turn-into-death-threats-online</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
