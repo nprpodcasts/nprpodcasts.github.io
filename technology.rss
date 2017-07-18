@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 17:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 19:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 17:00:21 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 19:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</guid>
+      <title>When Robot Face-Plants In Fountain, Onlookers Show Humanity — By Gloating</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</link>
+      <description>July 18, 2017 - The Knightscope K5 is a state-of-the-art machine, a patrol bot built to rove complexes in search of &#34;unusual activity.&#34; But on Monday, it appeared to have a little trouble with stairs.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/capture-robot1_wide-b5708b28700d6a813389407ecdd34b5299ec9752-s800-c15.png"></a>
+
+July 18, 2017 - The Knightscope K5 is a state-of-the-art machine, a patrol bot built to rove complexes in search of "unusual activity." But on Monday, it appeared to have a little trouble with stairs.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating">http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/capture-robot1_wide-b5708b28700d6a813389407ecdd34b5299ec9752-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</guid>
       <title>Font Could Be The Key To Corruption Probe Of Pakistan&#39;s Prime Minister</title>
@@ -237,21 +252,6 @@ July 14, 2017 - IBM's Model F keyboard was manufactured from 1981 until 1994 and
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback">http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/keyboard_wide-abde4b7e33fc9ba4971d2662653cf90dc7216132-s3000-c15.jpg"></itunes:image>
       <itunes:duration>143</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</guid>
-      <title>Cell Towers At Schools: Godsend Or God-Awful?</title>
-      <link>http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</link>
-      <description>July 14, 2017 - School districts are making deals with telecom companies to build towers on school property. The agreements give schools a bump in revenue, but what do parents think? And what does the science say?</description>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/c_beck_celltowers-copy_wide-339eda992d9581b0f42854e097a22a501bc9b5ca-s800-c15.jpg"></a>
-
-July 14, 2017 - School districts are making deals with telecom companies to build towers on school property. The agreements give schools a bump in revenue, but what do parents think? And what does the science say?
-
-<a href="http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful">http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/c_beck_celltowers-copy_wide-339eda992d9581b0f42854e097a22a501bc9b5ca-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

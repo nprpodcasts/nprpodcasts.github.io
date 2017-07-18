@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 16:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 19:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 16:00:19 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 19:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</guid>
-      <title>Health Care: The Risks Of Repeal Without Replace</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</link>
-      <description>July 18, 2017 - Republicans are toying with repealing the Affordable Care Act and then coming up with a replacement a few years later. But insurance rates could soar, and millions could lose coverage within a year.</description>
+      <guid>http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</guid>
+      <title>After Low-Key Lobbying Effort, Trump Says He Was &#39;Let Down&#39; By Senators</title>
+      <link>http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</link>
+      <description>July 18, 2017 - The president was blindsided by the latest collapse of a Republican health care bill, which happened just after a White House dinner he held with seven lawmakers.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-f209f756caa7661c7fc6c7615e3ca7bc64948742-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-818190884_wide-0645817021521e3f305e4d9a9502a3c2efa4a111-s800-c15.jpg"></a>
 
-July 18, 2017 - Republicans are toying with repealing the Affordable Care Act and then coming up with a replacement a few years later. But insurance rates could soar, and millions could lose coverage within a year.
+July 18, 2017 - The president was blindsided by the latest collapse of a Republican health care bill, which happened just after a White House dinner he held with seven lawmakers.
+
+<a href="http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators">http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-818190884_wide-0645817021521e3f305e4d9a9502a3c2efa4a111-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</guid>
+      <title>Health Care: Were The Risks Of Repeal Without Replace Too High? </title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</link>
+      <description>July 18, 2017 - The Republicans&#39; last-ditch attempt to repeal the Affordable Care Act now and replace it later would have caused insurance rates to soar, and millions could have lost coverage within a year.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-e803d4bd4bc04e7eb284a29427207bfc56282888-s800-c15.jpg"></a>
+
+July 18, 2017 - The Republicans' last-ditch attempt to repeal the Affordable Care Act now and replace it later would have caused insurance rates to soar, and millions could have lost coverage within a year.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace">http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-f209f756caa7661c7fc6c7615e3ca7bc64948742-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-e803d4bd4bc04e7eb284a29427207bfc56282888-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -66,6 +81,21 @@ July 18, 2017 - "I am a product of rural Kansas," Sen. Jerry Moran said earlier 
 
 <a href="http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill">http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170718.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Who Will Decide Health Care&#39;s Future?</title>
+      <link>http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</link>
+      <description>July 18, 2017 - The president says &#34;we will return!&#34;&#xA;&#xA; - http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170718.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 18, 2017 - The president says "we will return!"
+
+<a href="http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate">http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -228,36 +258,6 @@ July 17, 2017 - If hiking is about a destination, forest bathing is about an imm
 <a href="http://www.npr.org/sections/health-shots/2017/07/17/536676954/forest-bathing-a-retreat-to-nature-can-boost-immunity-and-mood">http://www.npr.org/sections/health-shots/2017/07/17/536676954/forest-bathing-a-retreat-to-nature-can-boost-immunity-and-mood</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/11/img_1478_wide-a4dc92bba896554ad0bbe383805b947621dfb32b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>410</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/17/537262142/artificial-sweeteners-dont-help-people-lose-weight-review-finds</guid>
-      <title>Artificial Sweeteners Don&#39;t Help People Lose Weight, Review Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/17/537262142/artificial-sweeteners-dont-help-people-lose-weight-review-finds</link>
-      <description>July 17, 2017 - It&#39;s easy to think that artificial sweeteners are a health win. But a review of research finds that there&#39;s no evidence they help people lose weight, and they may be associated with other problems.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/gettyimages-636740079_wide-94e9e8c074dc4b6db9facd2e9d517acc24ba1db1-s800-c15.jpg"></a>
-
-July 17, 2017 - It's easy to think that artificial sweeteners are a health win. But a review of research finds that there's no evidence they help people lose weight, and they may be associated with other problems.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/17/537262142/artificial-sweeteners-dont-help-people-lose-weight-review-finds">http://www.npr.org/sections/health-shots/2017/07/17/537262142/artificial-sweeteners-dont-help-people-lose-weight-review-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/gettyimages-636740079_wide-94e9e8c074dc4b6db9facd2e9d517acc24ba1db1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</guid>
-      <title>Doctors Report Removing 27 Contact Lenses From A Woman&#39;s Eye</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</link>
-      <description>July 16, 2017 - The patient hadn&#39;t complained of irritation. &#34;She was quite shocked,&#34; specialist trainee ophthalmologist Rupal Morjaria tells Britain&#39;s Optometry Today.</description>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/16/gettyimages-94655886_wide-93eb2f79237e5fdb68901cd634c16ae22a8c0049-s800-c15.jpg"></a>
-
-July 16, 2017 - The patient hadn't complained of irritation. "She was quite shocked," specialist trainee ophthalmologist Rupal Morjaria tells Britain's Optometry Today.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye">http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/16/gettyimages-94655886_wide-93eb2f79237e5fdb68901cd634c16ae22a8c0049-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
