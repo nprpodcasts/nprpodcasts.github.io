@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 22:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 23:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 22:00:13 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 23:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</guid>
+      <title>Chipotle Stocks Dip After Some Va. Customers Report Illness</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</link>
+      <description>July 18, 2017 - Chipotle temporarily closed a Sterling, Va., restaurant to sanitize it. A company representative told NPR that the reported symptoms were consistent with norovirus.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-509063322_wide-fa8dff41935f5d8318b9ab401a21a3cf07966e4e-s800-c15.jpg"></a>
+
+July 18, 2017 - Chipotle temporarily closed a Sterling, Va., restaurant to sanitize it. A company representative told NPR that the reported symptoms were consistent with norovirus.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness">http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-509063322_wide-fa8dff41935f5d8318b9ab401a21a3cf07966e4e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_why_arent_the_worlds_terrible_famines_getting_more_attention.mp3?orgId=1&amp;topicId=1031&amp;d=316&amp;p=2&amp;story=537907401&amp;t=progseg&amp;e=537945306&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why It&#39;s So Hard To Stop The World&#39;s Looming Famines</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</link>
       <description>July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing food shortages and severe malnutrition. Host Audie Cornish talks with Justin Forsyth of UNICEF about the crisis.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_why_arent_the_worlds_terrible_famines_getting_more_attention.mp3?orgId=1&amp;topicId=1031&amp;d=316&amp;p=2&amp;story=537907401&amp;t=progseg&amp;e=537945306&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s800-c15.jpg"></a>
 
@@ -36,45 +52,52 @@ July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing fo
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines">http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>316</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_kentucky_residents_express_dissatisfaction_with_gop_efforts_to_dismantle_obamacare.mp3?orgId=1&amp;topicId=1014&amp;d=177&amp;p=2&amp;story=537948591&amp;t=progseg&amp;e=537945306&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Kentucky Residents Express Dissatisfaction With GOP Efforts To Dismantle Obamacare</title>
       <link>http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</link>
       <description>July 18, 2017 - Hundreds of thousands of people in Kentucky got health insurance under the Affordable Care Act, but the state is also home to Senate Majority Leader Mitch McConnell who&#39;s led efforts to kill the law. With the failure of the latest GOP attempt to replace the ACA, the state&#39;s voters weigh in.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_kentucky_residents_express_dissatisfaction_with_gop_efforts_to_dismantle_obamacare.mp3?orgId=1&amp;topicId=1014&amp;d=177&amp;p=2&amp;story=537948591&amp;t=progseg&amp;e=537945306&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - Hundreds of thousands of people in Kentucky got health insurance under the Affordable Care Act, but the state is also home to Senate Majority Leader Mitch McConnell who's led efforts to kill the law. With the failure of the latest GOP attempt to replace the ACA, the state's voters weigh in.
 
 <a href="http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca">http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>177</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_conservative_media_express_outrage_over_republican_health_care_failure.mp3?orgId=1&amp;topicId=1020&amp;d=184&amp;p=2&amp;story=537948563&amp;t=progseg&amp;e=537945306&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Conservative Media Express Outrage Over Republican Health Care Failure</title>
       <link>http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure</link>
       <description>July 18, 2017 - Conservative media are reacting to the failure of the GOP&#39;s latest health care plan with outrage and disappointment. The Republican bill was effectively blocked on Monday night when two more GOP senators came out in opposition to it.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_conservative_media_express_outrage_over_republican_health_care_failure.mp3?orgId=1&amp;topicId=1020&amp;d=184&amp;p=2&amp;story=537948563&amp;t=progseg&amp;e=537945306&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - Conservative media are reacting to the failure of the GOP's latest health care plan with outrage and disappointment. The Republican bill was effectively blocked on Monday night when two more GOP senators came out in opposition to it.
 
 <a href="http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure">http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>184</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948556/after-demise-of-gop-health-care-bill-insurance-companies-wonder-whats-next</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_after_demise_of_gop_health_care_bill_insurance_companies_wonder_whats_next.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=2&amp;story=537948556&amp;t=progseg&amp;e=537945306&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>After Demise Of GOP Health Care Bill, Insurance Companies Wonder What&#39;s Next</title>
       <link>http://www.npr.org/2017/07/18/537948556/after-demise-of-gop-health-care-bill-insurance-companies-wonder-whats-next</link>
       <description>July 18, 2017 - With the demise of Republican efforts to both repeal and replace the Affordable Care Act, there&#39;s likely to be an impact on consumers and companies that depend on the health care law.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_after_demise_of_gop_health_care_bill_insurance_companies_wonder_whats_next.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=2&amp;story=537948556&amp;t=progseg&amp;e=537945306&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - With the demise of Republican efforts to both repeal and replace the Affordable Care Act, there's likely to be an impact on consumers and companies that depend on the health care law.
 
 <a href="http://www.npr.org/2017/07/18/537948556/after-demise-of-gop-health-care-bill-insurance-companies-wonder-whats-next">http://www.npr.org/2017/07/18/537948556/after-demise-of-gop-health-care-bill-insurance-companies-wonder-whats-next</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -229,23 +252,6 @@ July 18, 2017 - Hospitals and pharmacies are required to toss expired drugs, no 
 <a href="http://www.npr.org/sections/health-shots/2017/07/18/537257884/that-drug-expiration-date-may-be-more-myth-than-fact">http://www.npr.org/sections/health-shots/2017/07/18/537257884/that-drug-expiration-date-may-be-more-myth-than-fact</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/lee-cantrell-1_wide-d0c9c1e3367695a892697a49b1e65114eb7fe6a5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>331</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_hcbill_detrow.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;p=2&amp;story=537803874&amp;t=progseg&amp;e=537657366&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Republican Health Care Bill Falls Short, Dealing Blow To Trump Agenda</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass</link>
-      <description>July 17, 2017 - Republicans Sen. Mike Lee and Jerry Moran have put their names in the no column, bringing to four the GOP senators opposed. As it stands, there aren&#39;t enough votes for an Obamacare replacement.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_hcbill_detrow.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;p=2&amp;story=537803874&amp;t=progseg&amp;e=537657366&amp;seg=22&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_17187699471764_wide-6c562d081cc2ae06379945264a91b06ede114c58-s800-c15.jpg"></a>
-
-July 17, 2017 - Republicans Sen. Mike Lee and Jerry Moran have put their names in the no column, bringing to four the GOP senators opposed. As it stands, there aren't enough votes for an Obamacare replacement.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass">http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17187699471764_wide-6c562d081cc2ae06379945264a91b06ede114c58-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
