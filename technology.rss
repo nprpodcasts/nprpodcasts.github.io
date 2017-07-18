@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 16:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 17:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 16:00:15 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 17:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</guid>
+      <title>Font Could Be The Key To Corruption Probe Of Pakistan&#39;s Prime Minister</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</link>
+      <description>July 18, 2017 - An investigation into Nawaz Sharif&#39;s wealth found forensic evidence that papers were forged to &#34;camouflage truth.&#34; A document dated 2006 uses Calibri, a font that wasn&#39;t widely available until 2007.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-809109578_wide-3a9ab3388e5400447cd43da8f03228b158cdbe33-s800-c15.jpg"></a>
+
+July 18, 2017 - An investigation into Nawaz Sharif's wealth found forensic evidence that papers were forged to "camouflage truth." A document dated 2006 uses Calibri, a font that wasn't widely available until 2007.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister">http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-809109578_wide-3a9ab3388e5400447cd43da8f03228b158cdbe33-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</guid>
       <title>Tight On Wall Space, SFMOMA Will Text Its Art To You Instead</title>
@@ -104,11 +119,11 @@ July 17, 2017 - Google's search results on health issues can be influential, but
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Students Compete In First-Ever International High School Robotics Competition</title>
       <link>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</link>
-      <description>July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.</description>
+      <description>July 17, 2017 - The first-ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 17, 2017 - The first ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.
+      <itunes:summary><![CDATA[July 17, 2017 - The first-ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.
 
 <a href="http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition">http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -237,23 +252,6 @@ July 14, 2017 - School districts are making deals with telecom companies to buil
 
 <a href="http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful">http://www.npr.org/sections/ed/2017/07/14/535403513/cell-towers-at-schools-godsend-or-god-awful</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/c_beck_celltowers-copy_wide-339eda992d9581b0f42854e097a22a501bc9b5ca-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_computer_scientists_demonstrate_the_potential_for_faking_video.mp3?orgId=1&amp;topicId=1019&amp;d=127&amp;p=3&amp;story=537154304&amp;t=progseg&amp;e=537172781&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Computer Scientists Demonstrate The Potential For Faking Video</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video</link>
-      <description>July 14, 2017 - Fake news articles may just be the tip of the iceberg. New research — which manipulates footage of former President Obama — shows it&#39;s possible to create fake news videos too.</description>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_computer_scientists_demonstrate_the_potential_for_faking_video.mp3?orgId=1&amp;topicId=1019&amp;d=127&amp;p=3&amp;story=537154304&amp;t=progseg&amp;e=537172781&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/obama-videos_wide-3ddd2129b7e87e5854e225b0ea999c27db5e0e55-s800-c15.jpg"></a>
-
-July 14, 2017 - Fake news articles may just be the tip of the iceberg. New research — which manipulates footage of former President Obama — shows it's possible to create fake news videos too.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video">http://www.npr.org/sections/alltechconsidered/2017/07/14/537154304/computer-scientists-demonstrate-the-potential-for-faking-video</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/obama-videos_wide-3ddd2129b7e87e5854e225b0ea999c27db5e0e55-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>127</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
