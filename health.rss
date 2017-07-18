@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 05:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 14:12:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 05:00:27 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 14:12:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_death_knell_sounded_for_senates_gop_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=154&amp;p=3&amp;story=537844748&amp;t=progseg&amp;e=537842344&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Death Knell Sounds For Senate&#39;s GOP Health Care Bill</title>
+      <link>http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill</link>
+      <description>July 18, 2017 - Senate Republicans have shelved their health care bill after two more Senate Republicans, Mike Lee and Jerry Moran, announced their opposition to the bill Monday night.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_death_knell_sounded_for_senates_gop_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=154&amp;p=3&amp;story=537844748&amp;t=progseg&amp;e=537842344&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 18, 2017 - Senate Republicans have shelved their health care bill after two more Senate Republicans, Mike Lee and Jerry Moran, announced their opposition to the bill Monday night.
+
+<a href="http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill">http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>154</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_that_drug_expiration_date_may_be_more_myth_than_fact.mp3?orgId=199135797&amp;topicId=1128&amp;d=331&amp;p=3&amp;story=537257884&amp;t=progseg&amp;e=537842344&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>That Drug Expiration Date May Be More Myth Than Fact</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/18/537257884/that-drug-expiration-date-may-be-more-myth-than-fact</link>
+      <description>July 18, 2017 - Hospitals and pharmacies are required to toss expired drugs, no matter how expensive, vital or scarce. And that&#39;s even though the FDA has long known that many remain safe and potent for years longer.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_that_drug_expiration_date_may_be_more_myth_than_fact.mp3?orgId=199135797&amp;topicId=1128&amp;d=331&amp;p=3&amp;story=537257884&amp;t=progseg&amp;e=537842344&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/lee-cantrell-1_wide-d0c9c1e3367695a892697a49b1e65114eb7fe6a5-s800-c15.jpg"></a>
+
+July 18, 2017 - Hospitals and pharmacies are required to toss expired drugs, no matter how expensive, vital or scarce. And that's even though the FDA has long known that many remain safe and potent for years longer.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/18/537257884/that-drug-expiration-date-may-be-more-myth-than-fact">http://www.npr.org/sections/health-shots/2017/07/18/537257884/that-drug-expiration-date-may-be-more-myth-than-fact</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/lee-cantrell-1_wide-d0c9c1e3367695a892697a49b1e65114eb7fe6a5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>331</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_hcbill_detrow.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;p=2&amp;story=537803874&amp;t=progseg&amp;e=537657366&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
       <title>Republican Health Care Bill Falls Short, Dealing Blow To Trump Agenda</title>
@@ -230,36 +262,6 @@ July 16, 2017 - New research finds that African-Americans who grow up in harsh e
 <a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_shame_guilt_pose_significant_hurdles_for_those_recovering_from_addiction.mp3?orgId=1&amp;topicId=1128&amp;d=370&amp;p=2&amp;story=537451534&amp;t=progseg&amp;e=537401930&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Shame, Guilt Pose Significant Hurdles For Those Recovering From Addiction</title>
-      <link>http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction</link>
-      <description>July 15, 2017 - For some, recovering from addiction is only half the battle. The other half is getting over the guilt, depression and shame associated with it. NPR&#39;s Michel Martin speaks with author Neil Steinberg.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_shame_guilt_pose_significant_hurdles_for_those_recovering_from_addiction.mp3?orgId=1&amp;topicId=1128&amp;d=370&amp;p=2&amp;story=537451534&amp;t=progseg&amp;e=537401930&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 15, 2017 - For some, recovering from addiction is only half the battle. The other half is getting over the guilt, depression and shame associated with it. NPR's Michel Martin speaks with author Neil Steinberg.
-
-<a href="http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction">http://www.npr.org/2017/07/15/537451534/shame-guilt-pose-significant-hurdles-for-those-recovering-from-addiction</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>370</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_amid_health_care_debate_legislative_group_seeks_to_foster_bipartisanship.mp3?orgId=1&amp;topicId=1003&amp;d=682&amp;p=2&amp;story=537451509&amp;t=progseg&amp;e=537401930&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Amid Health Care Debate, Legislative Group Seeks To Foster Bipartisanship</title>
-      <link>http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship</link>
-      <description>July 15, 2017 - More and more lawmakers are seeking ways to build bipartisanship. NPR Host Michel Martin talks with co-chairs of the Problem Solvers Caucus, Congressmen Tom Reed and Josh Gottheimer, about health care.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170715_atc_amid_health_care_debate_legislative_group_seeks_to_foster_bipartisanship.mp3?orgId=1&amp;topicId=1003&amp;d=682&amp;p=2&amp;story=537451509&amp;t=progseg&amp;e=537401930&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 15, 2017 - More and more lawmakers are seeking ways to build bipartisanship. NPR Host Michel Martin talks with co-chairs of the Problem Solvers Caucus, Congressmen Tom Reed and Josh Gottheimer, about health care.
-
-<a href="http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship">http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>682</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

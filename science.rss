@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jul 2017 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 14:12:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 17 Jul 2017 23:15:43 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 14:12:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_people_are_more_susceptible_to_fake_news_when_theyre_in_groups_studies_say.mp3?orgId=1&amp;topicId=1024&amp;d=200&amp;p=3&amp;story=537844762&amp;t=progseg&amp;e=537842344&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Researchers Examine When People Are More Susceptible To Fake News </title>
+      <link>http://www.npr.org/2017/07/18/537844762/researchers-examine-when-people-are-more-susceptible-to-fake-news</link>
+      <description>July 18, 2017 - Whether people consume news in a social setting or alone can affect how likely they are to fact-check. Research suggests people let their guard down when they&#39;re in groups and become less skeptical.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_people_are_more_susceptible_to_fake_news_when_theyre_in_groups_studies_say.mp3?orgId=1&amp;topicId=1024&amp;d=200&amp;p=3&amp;story=537844762&amp;t=progseg&amp;e=537842344&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 18, 2017 - Whether people consume news in a social setting or alone can affect how likely they are to fact-check. Research suggests people let their guard down when they're in groups and become less skeptical.
+
+<a href="http://www.npr.org/2017/07/18/537844762/researchers-examine-when-people-are-more-susceptible-to-fake-news">http://www.npr.org/2017/07/18/537844762/researchers-examine-when-people-are-more-susceptible-to-fake-news</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>200</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Students Compete In First-Ever International High School Robotics Competition</title>
@@ -239,21 +254,6 @@ July 13, 2017 - President Trump intervened to find a way to permit the girls ent
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition">http://www.npr.org/sections/thetwo-way/2017/07/13/537050073/afghan-girls-robotics-team-allowed-to-enter-u-s-for-competition</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/gettyimages-813750460_wide-bc88d0acd25fd30a1ca06d4eb51578a03427dea3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>How Storytelling Can Improve The Care Of People With Alzheimer&#39;s</title>
-      <link>http://the1a.org/shows/2017-07-13/memory-well</link>
-      <description>July 13, 2017 - A former journalist is making sure caregivers know patients&#39; life stories.&#xA;&#xA; - http://the1a.org/shows/2017-07-13/memory-well</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170713-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 13, 2017 - A former journalist is making sure caregivers know patients' life stories.
-
-<a href="http://the1a.org/shows/2017-07-13/memory-well">http://the1a.org/shows/2017-07-13/memory-well</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2112</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
