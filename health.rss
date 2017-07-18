@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 21:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 22:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 21:00:23 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 22:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</guid>
+      <title>Why It&#39;s So Hard To Stop The World&#39;s Looming Famines</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</link>
+      <description>July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing food shortages and severe malnutrition. Host Audie Cornish talks with Justin Forsyth of UNICEF about the crisis.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s800-c15.jpg"></a>
+
+July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing food shortages and severe malnutrition. Host Audie Cornish talks with Justin Forsyth of UNICEF about the crisis.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines">http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</guid>
       <title>Kentucky Residents Express Dissatisfaction With GOP Efforts To Dismantle Obamacare</title>
@@ -63,42 +78,48 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_death_of_gop_health_care_bill_deals_political_blow_to_president_trump.mp3?orgId=1&amp;topicId=1014&amp;d=256&amp;p=2&amp;story=537948542&amp;t=progseg&amp;e=537945306&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Death Of GOP Health Care Bill Deals Political Blow To President Trump</title>
       <link>http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump</link>
       <description>July 18, 2017 - The Republican-led effort to repeal and replace the Affordable Care Act appears to be dead, dealing political consequences to the party and President Trump.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_death_of_gop_health_care_bill_deals_political_blow_to_president_trump.mp3?orgId=1&amp;topicId=1014&amp;d=256&amp;p=2&amp;story=537948542&amp;t=progseg&amp;e=537945306&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - The Republican-led effort to repeal and replace the Affordable Care Act appears to be dead, dealing political consequences to the party and President Trump.
 
 <a href="http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump">http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>256</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tennessee_insurance_commissioner_outlines_what_gop_failure_means_for_health_care.mp3?orgId=1&amp;topicId=1128&amp;d=348&amp;p=2&amp;story=537948521&amp;t=progseg&amp;e=537945306&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tennessee Insurance Commissioner Outlines What GOP Failure Means For Health Care</title>
       <link>http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care</link>
       <description>July 18, 2017 - NPR&#39;s Robert Siegel talks with Tennessee Insurance Commissioner Julie McPeak about what the collapse of the Better Care Reconciliation Act means for Tennessee.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tennessee_insurance_commissioner_outlines_what_gop_failure_means_for_health_care.mp3?orgId=1&amp;topicId=1128&amp;d=348&amp;p=2&amp;story=537948521&amp;t=progseg&amp;e=537945306&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - NPR's Robert Siegel talks with Tennessee Insurance Commissioner Julie McPeak about what the collapse of the Better Care Reconciliation Act means for Tennessee.
 
 <a href="http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care">http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>348</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_sen_mcconnells_plan_b_to_repeal_affordable_care_act_fails.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=537948514&amp;t=progseg&amp;e=537945306&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sen. McConnell&#39;s Plan B To Repeal Affordable Care Act Fails</title>
       <link>http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</link>
       <description>July 18, 2017 - Three Republican senators Tuesday effectively scuttled Senate Majority Leader Mitch McConnell&#39;s plan to repeal the Affordable Care Act without replacing it. This was hours after the Senate&#39;s bill to repeal and replace Obamacare was blocked when two more GOP senators came out in opposition to it.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_sen_mcconnells_plan_b_to_repeal_affordable_care_act_fails.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=537948514&amp;t=progseg&amp;e=537945306&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 18, 2017 - Three Republican senators Tuesday effectively scuttled Senate Majority Leader Mitch McConnell's plan to repeal the Affordable Care Act without replacing it. This was hours after the Senate's bill to repeal and replace Obamacare was blocked when two more GOP senators came out in opposition to it.
 
 <a href="http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails">http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -147,11 +168,12 @@ July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are disc
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_the_loyal_republican_senator_from_kansas_who_helped_kill_the_health_care_bill.mp3?orgId=60&amp;topicId=1014&amp;d=103&amp;p=2&amp;story=537877556&amp;t=progseg&amp;e=537945306&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Loyal Republican Senator From Kansas Who Helped Kill The Health Care Bill</title>
       <link>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</link>
       <description>July 18, 2017 - &#34;I am a product of rural Kansas,&#34; Sen. Jerry Moran said earlier this month. &#34;I understand the value of a hospital in your community, of a physician in your town, of a pharmacy on Main Street.&#34;</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_the_loyal_republican_senator_from_kansas_who_helped_kill_the_health_care_bill.mp3?orgId=60&amp;topicId=1014&amp;d=103&amp;p=2&amp;story=537877556&amp;t=progseg&amp;e=537945306&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s800-c15.jpg"></a>
 
@@ -159,6 +181,7 @@ July 18, 2017 - "I am a product of rural Kansas," Sen. Jerry Moran said earlier 
 
 <a href="http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill">http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>103</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -223,23 +246,6 @@ July 17, 2017 - Republicans Sen. Mike Lee and Jerry Moran have put their names i
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass">http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17187699471764_wide-6c562d081cc2ae06379945264a91b06ede114c58-s3000-c15.jpg"></itunes:image>
       <itunes:duration>222</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_neurosurgeon_outlines_sen_mccains_blood_clot_removal_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=537748077&amp;t=progseg&amp;e=537657366&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Neurosurgeon: McCain&#39;s Recovery From Brain Surgery Might Take Weeks</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks</link>
-      <description>July 17, 2017 - Neurosurgeon Peter Nakaji says that the operation performed on Sen. John McCain to remove a blood clot from his brain gets people home within days, but they still need time to recover.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_neurosurgeon_outlines_sen_mccains_blood_clot_removal_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=537748077&amp;t=progseg&amp;e=537657366&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-807815232-3_wide-8fdde6abde76dbd51f12799d2bfcb5b16f9e529c-s800-c15.jpg"></a>
-
-July 17, 2017 - Neurosurgeon Peter Nakaji says that the operation performed on Sen. John McCain to remove a blood clot from his brain gets people home within days, but they still need time to recover.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks">http://www.npr.org/sections/health-shots/2017/07/17/537748077/neurosurgeon-mccains-recovery-from-brain-surgery-might-take-weeks</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-807815232-3_wide-8fdde6abde76dbd51f12799d2bfcb5b16f9e529c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
