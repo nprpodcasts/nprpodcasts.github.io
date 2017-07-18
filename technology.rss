@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 19:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 21:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 19:00:10 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 21:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app</guid>
+      <title>Tour Rio De Janeiro&#39;s Oldest Slave Port With This New App</title>
+      <link>http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app</link>
+      <description>July 18, 2017 - Rio de Janeiro was home to the Americas&#39; largest slave port, which received nearly a million slaves over several centuries. Now modern day Cariocas have developed an app that provides an immersive tour through that history.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 18, 2017 - Rio de Janeiro was home to the Americas' largest slave port, which received nearly a million slaves over several centuries. Now modern day Cariocas have developed an app that provides an immersive tour through that history.
+
+<a href="http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app">http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</guid>
       <title>When Robot Face-Plants In Fountain, Onlookers Show Humanity — By Gloating</title>
@@ -235,23 +248,6 @@ July 17, 2017 - Shaping technology to some form of learning could depart pretty 
 <a href="http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls">http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_80s_keyboard_comeback.mp3?orgId=1&amp;topicId=1019&amp;d=143&amp;p=2&amp;story=537290841&amp;t=progseg&amp;e=537178959&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>This 10-Pound Keyboard From The 1980s Is Making A Comeback</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback</link>
-      <description>July 14, 2017 - IBM&#39;s Model F keyboard was manufactured from 1981 until 1994 and cost hundreds of dollars. Computer aficionados treasure it, but it&#39;s hard to find these days. So one man is working to bring it back.</description>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170714_atc_80s_keyboard_comeback.mp3?orgId=1&amp;topicId=1019&amp;d=143&amp;p=2&amp;story=537290841&amp;t=progseg&amp;e=537178959&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/keyboard_wide-abde4b7e33fc9ba4971d2662653cf90dc7216132-s800-c15.jpg"></a>
-
-July 14, 2017 - IBM's Model F keyboard was manufactured from 1981 until 1994 and cost hundreds of dollars. Computer aficionados treasure it, but it's hard to find these days. So one man is working to bring it back.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback">http://www.npr.org/sections/alltechconsidered/2017/07/14/537290841/this-10-pound-keyboard-from-the-1980s-is-making-a-comeback</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/keyboard_wide-abde4b7e33fc9ba4971d2662653cf90dc7216132-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>143</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
