@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 14:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 15:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 14:12:29 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 15:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</guid>
+      <title>The Loyal Republican Senator From Kansas Who Helped Kill The Health Care Bill</title>
+      <link>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</link>
+      <description>July 18, 2017 - &#34;I am a product of rural Kansas,&#34; Sen. Jerry Moran said earlier this month. &#34;I understand the value of a hospital in your community, of a physician in your town, of a pharmacy on Main Street.&#34;</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s800-c15.jpg"></a>
+
+July 18, 2017 - "I am a product of rural Kansas," Sen. Jerry Moran said earlier this month. "I understand the value of a hospital in your community, of a physician in your town, of a pharmacy on Main Street."
+
+<a href="http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill">http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_death_knell_sounded_for_senates_gop_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=154&amp;p=3&amp;story=537844748&amp;t=progseg&amp;e=537842344&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Death Knell Sounds For Senate&#39;s GOP Health Care Bill</title>
@@ -245,23 +260,6 @@ July 16, 2017 - Should I use antibacterial soaps? How often should I bathe my ch
 <a href="http://www.npr.org/sections/health-shots/2017/07/16/537075018/dirt-is-good-why-kids-need-exposure-to-germs">http://www.npr.org/sections/health-shots/2017/07/16/537075018/dirt-is-good-why-kids-need-exposure-to-germs</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/gettyimages-570141263_wide-afbbd264770c02d3ed6788a7a60458915d69ee8b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>343</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</link>
-      <description>July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer&#39;s or some other form of dementia.</description>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s800-c15.jpg"></a>
-
-July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer's or some other form of dementia.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
