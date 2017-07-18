@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 00:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 05:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 00:00:22 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 05:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_hcbill_detrow.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;p=2&amp;story=537803874&amp;t=progseg&amp;e=537657366&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Republican Health Care Bill Falls Short, Dealing Blow To Trump Agenda</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass</link>
+      <description>July 17, 2017 - Republicans Sen. Mike Lee and Jerry Moran have put their names in the no column, bringing to four the GOP senators opposed. As it stands, there aren&#39;t enough votes for an Obamacare replacement.</description>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_hcbill_detrow.mp3?orgId=1&amp;topicId=1014&amp;d=222&amp;p=2&amp;story=537803874&amp;t=progseg&amp;e=537657366&amp;seg=22&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_17187699471764_wide-6c562d081cc2ae06379945264a91b06ede114c58-s800-c15.jpg"></a>
+
+July 17, 2017 - Republicans Sen. Mike Lee and Jerry Moran have put their names in the no column, bringing to four the GOP senators opposed. As it stands, there aren't enough votes for an Obamacare replacement.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass">http://www.npr.org/sections/thetwo-way/2017/07/17/537803874/gop-senators-come-out-against-republican-healthcare-bill-ensuring-it-cant-pass</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17187699471764_wide-6c562d081cc2ae06379945264a91b06ede114c58-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>222</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_neurosurgeon_outlines_sen_mccains_blood_clot_removal_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=537748077&amp;t=progseg&amp;e=537657366&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Neurosurgeon: McCain&#39;s Recovery From Brain Surgery Might Take Weeks</title>
@@ -58,18 +75,18 @@ July 17, 2017 - Google's search results on health issues can be influential, but
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_trump_administration_moves_to_defund_teen_pregnancy_research_programs.mp3?orgId=1&amp;topicId=1128&amp;d=248&amp;p=2&amp;story=537754569&amp;t=progseg&amp;e=537657366&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_trump_administration_moves_to_defund_teen_pregnancy_research_programs.mp3?orgId=1&amp;topicId=1128&amp;d=245&amp;p=2&amp;story=537754569&amp;t=progseg&amp;e=537657366&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump Administration Moves To Defund Teen Pregnancy Research Programs</title>
       <link>http://www.npr.org/2017/07/17/537754569/trump-administration-moves-to-defund-teen-pregnancy-research-programs</link>
       <description>July 17, 2017 - NPR&#39;s Audie Cornish talks to Texas A&amp;M professor Kelly Wilson about the Trump administration&#39;s moves to defund teen pregnancy research programs, including the program she leads at Texas A&amp;M.</description>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_trump_administration_moves_to_defund_teen_pregnancy_research_programs.mp3?orgId=1&amp;topicId=1128&amp;d=248&amp;p=2&amp;story=537754569&amp;t=progseg&amp;e=537657366&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_trump_administration_moves_to_defund_teen_pregnancy_research_programs.mp3?orgId=1&amp;topicId=1128&amp;d=245&amp;p=2&amp;story=537754569&amp;t=progseg&amp;e=537657366&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 17, 2017 - NPR's Audie Cornish talks to Texas A&M professor Kelly Wilson about the Trump administration's moves to defund teen pregnancy research programs, including the program she leads at Texas A&M.
 
 <a href="http://www.npr.org/2017/07/17/537754569/trump-administration-moves-to-defund-teen-pregnancy-research-programs">http://www.npr.org/2017/07/17/537754569/trump-administration-moves-to-defund-teen-pregnancy-research-programs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>248</itunes:duration>
+      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +260,6 @@ July 16, 2017 - New research finds that African-Americans who grow up in harsh e
 <a href="http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship">http://www.npr.org/2017/07/15/537451509/amid-health-care-debate-legislative-group-seeks-to-foster-bipartisanship</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>682</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_charlie_gard.mp3?orgId=1&amp;topicId=1128&amp;d=216&amp;p=7&amp;story=537381133&amp;t=progseg&amp;e=537380511&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Terminal Illness Divides Parents And Doctors</title>
-      <link>http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors</link>
-      <description>July 15, 2017 - &#xA;&#xA; - http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_charlie_gard.mp3?orgId=1&amp;topicId=1128&amp;d=216&amp;p=7&amp;story=537381133&amp;t=progseg&amp;e=537380511&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 15, 2017 - 
-
-<a href="http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors">http://www.npr.org/2017/07/15/537381133/a-terminal-illness-divides-parents-and-doctors</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>216</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
