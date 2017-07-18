@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 15:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 16:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 15:00:10 +0000</pubDate>
+    <pubDate>Tue, 18 Jul 2017 16:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</guid>
+      <title>Health Care: The Risks Of Repeal Without Replace</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</link>
+      <description>July 18, 2017 - Republicans are toying with repealing the Affordable Care Act and then coming up with a replacement a few years later. But insurance rates could soar, and millions could lose coverage within a year.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-f209f756caa7661c7fc6c7615e3ca7bc64948742-s800-c15.jpg"></a>
+
+July 18, 2017 - Republicans are toying with repealing the Affordable Care Act and then coming up with a replacement a few years later. But insurance rates could soar, and millions could lose coverage within a year.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace">http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-f209f756caa7661c7fc6c7615e3ca7bc64948742-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</guid>
+      <title>Pushing Hospitals To Reduce Readmissions Hasn&#39;t Increased Deaths</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</link>
+      <description>July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are discharged and then readmitted with the same problems too often. That effort has improved care for patients, two researchers say.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gurney_wide-e778dd2bb0e191810d1d7c68addc2f4a9169de74-s800-c15.jpg"></a>
+
+July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are discharged and then readmitted with the same problems too often. That effort has improved care for patients, two researchers say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths">http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gurney_wide-e778dd2bb0e191810d1d7c68addc2f4a9169de74-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</guid>
       <title>The Loyal Republican Senator From Kansas Who Helped Kill The Health Care Bill</title>
@@ -228,38 +258,6 @@ July 16, 2017 - The patient hadn't complained of irritation. "She was quite shoc
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye">http://www.npr.org/sections/thetwo-way/2017/07/16/537562692/doctors-report-removing-27-contact-lenses-from-a-womans-eye</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/16/gettyimages-94655886_wide-93eb2f79237e5fdb68901cd634c16ae22a8c0049-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/16/536478699/gonorrhea-aka-the-clap-is-excellent-at-resisting-antibiotics</guid>
-      <title>Gonorrhea — AKA The Clap — Is Excellent At Resisting Antibiotics</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/16/536478699/gonorrhea-aka-the-clap-is-excellent-at-resisting-antibiotics</link>
-      <description>July 16, 2017 - The sexually transmitted disease is typically not fatal but can cause a lifetime of suffering. And the go-to drugs are increasingly less effective.</description>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/10/scisource_jb9675_wide-f7c7ab0595966a0bd2b883c176436a38572166d9-s800-c15.jpg"></a>
-
-July 16, 2017 - The sexually transmitted disease is typically not fatal but can cause a lifetime of suffering. And the go-to drugs are increasingly less effective.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/16/536478699/gonorrhea-aka-the-clap-is-excellent-at-resisting-antibiotics">http://www.npr.org/sections/goatsandsoda/2017/07/16/536478699/gonorrhea-aka-the-clap-is-excellent-at-resisting-antibiotics</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/scisource_jb9675_wide-f7c7ab0595966a0bd2b883c176436a38572166d9-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_dirt_is_good_why_kids_need_exposure_to_germs.mp3?orgId=1&amp;topicId=1128&amp;d=343&amp;p=10&amp;story=537075018&amp;t=progseg&amp;e=537508926&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Dirt Is Good&#39;: Why Kids Need Exposure To Germs</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/16/537075018/dirt-is-good-why-kids-need-exposure-to-germs</link>
-      <description>July 16, 2017 - Should I use antibacterial soaps? How often should I bathe my child? Those are just some of the questions Jack Gilbert, a microbiome scientist, answers in his new book.</description>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_dirt_is_good_why_kids_need_exposure_to_germs.mp3?orgId=1&amp;topicId=1128&amp;d=343&amp;p=10&amp;story=537075018&amp;t=progseg&amp;e=537508926&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/gettyimages-570141263_wide-afbbd264770c02d3ed6788a7a60458915d69ee8b-s800-c15.jpg"></a>
-
-July 16, 2017 - Should I use antibacterial soaps? How often should I bathe my child? Those are just some of the questions Jack Gilbert, a microbiome scientist, answers in his new book.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/16/537075018/dirt-is-good-why-kids-need-exposure-to-germs">http://www.npr.org/sections/health-shots/2017/07/16/537075018/dirt-is-good-why-kids-need-exposure-to-germs</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/gettyimages-570141263_wide-afbbd264770c02d3ed6788a7a60458915d69ee8b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>343</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
