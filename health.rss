@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 19:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 21:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 19:00:21 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 21:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo</guid>
+      <title>Uncertainty Over Obamacare Leaves Next Year&#39;s Rates In Limbo</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo</link>
+      <description>July 19, 2017 - While Washington ponders the future of the Affordable Care Act, health insurers need to decide right now what to charge people for health insurance in 2018. &#34;It&#39;s insane,&#34; says one CEO.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/ap_17138695735576_wide-3acb40bf841452aa65c0c551774c44c25c9dece1-s800-c15.jpg"></a>
+
+July 19, 2017 - While Washington ponders the future of the Affordable Care Act, health insurers need to decide right now what to charge people for health insurance in 2018. "It's insane," says one CEO.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo">http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/ap_17138695735576_wide-3acb40bf841452aa65c0c551774c44c25c9dece1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</guid>
       <title>Her Own Medical Future At Stake, A Child Storms Capitol Hill</title>
@@ -233,21 +248,6 @@ July 18, 2017 - The Republicans' last-ditch attempt to repeal the Affordable Car
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace">http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-e803d4bd4bc04e7eb284a29427207bfc56282888-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</guid>
-      <title>Pushing Hospitals To Reduce Readmissions Hasn&#39;t Increased Deaths</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</link>
-      <description>July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are discharged and then readmitted with the same problems too often. That effort has improved care for patients, two researchers say.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gurney_wide-e778dd2bb0e191810d1d7c68addc2f4a9169de74-s800-c15.jpg"></a>
-
-July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are discharged and then readmitted with the same problems too often. That effort has improved care for patients, two researchers say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths">http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gurney_wide-e778dd2bb0e191810d1d7c68addc2f4a9169de74-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

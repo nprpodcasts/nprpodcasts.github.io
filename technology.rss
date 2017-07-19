@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 19:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 21:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 19:00:24 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 21:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</guid>
+      <title>Congress Struggles To Keep Up With Regulations For Self-Driving Cars</title>
+      <link>http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</link>
+      <description>July 19, 2017 - Cars that drive themselves are a thing of the not-so-distant future. But Congress is having a hard time keeping up regulations to go with the technological change.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 19, 2017 - Cars that drive themselves are a thing of the not-so-distant future. But Congress is having a hard time keeping up regulations to go with the technological change.
+
+<a href="http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars">http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Getting Really Smart About Artificial Intelligence</title>
@@ -239,23 +252,6 @@ July 17, 2017 - Evaldas Rimasauskas is accused of crafting a massive scheme to d
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537713538/his-alleged-email-scam-swindled-100-million-now-hes-set-to-be-extradited">http://www.npr.org/sections/thetwo-way/2017/07/17/537713538/his-alleged-email-scam-swindled-100-million-now-hes-set-to-be-extradited</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17138412415703_wide-64aafc573e0c97c64cf701c3dead531005cb6806-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1091&amp;d=219&amp;story=537463986&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tech Workers Brace For Seattle&#39;s Plan to &#39;Tax The Rich&#39; </title>
-      <link>http://www.npr.org/2017/07/17/537463986/tech-workers-brace-for-seattles-plan-to-tax-the-rich</link>
-      <description>July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. Now tech workers are facing a new city income tax on the highest earners to help those who make less.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1091&amp;d=219&amp;story=537463986&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_328129811847_wide-77203652b0f758bc12301e4894ffd8a1174eb81d-s800-c15.jpg"></a>
-
-July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. Now tech workers are facing a new city income tax on the highest earners to help those who make less.
-
-<a href="http://www.npr.org/2017/07/17/537463986/tech-workers-brace-for-seattles-plan-to-tax-the-rich">http://www.npr.org/2017/07/17/537463986/tech-workers-brace-for-seattles-plan-to-tax-the-rich</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_328129811847_wide-77203652b0f758bc12301e4894ffd8a1174eb81d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
