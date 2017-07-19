@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 19:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 22:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 19:00:27 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 22:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</guid>
+      <title>Plastic Is Everywhere And Recycling Isn&#39;t The End Of It</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</link>
+      <description>July 19, 2017 - A researcher tallied how much has been manufactured since plastic&#39;s invention: &#34;Eight point three billion metric tons of plastics produced so far. That&#39;s just really a staggering amount.&#34;</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-609735160_wide-f24bed3394d88adac9df0786da539ec4ed35acbd-s800-c15.jpg"></a>
+
+July 19, 2017 - A researcher tallied how much has been manufactured since plastic's invention: "Eight point three billion metric tons of plastics produced so far. That's just really a staggering amount."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it">http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-609735160_wide-f24bed3394d88adac9df0786da539ec4ed35acbd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Getting Really Smart About Artificial Intelligence</title>
@@ -241,21 +256,6 @@ July 13, 2017 - As recently as 10 years ago, humans were thought to be the only 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan">http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope</guid>
-      <title>If It Walks Like An Ant, You Probably Wouldn&#39;t Eat It — Or So These Spiders Hope</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope</link>
-      <description>July 13, 2017 - A scientist discovers how some spiders go undercover as a less delicious species to evade predators.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/13/6053820011_819934a30f_o_wide-1e3522badfdf0b290b6fd0f3e59d7ca103a8f15a-s800-c15.jpg"></a>
-
-July 13, 2017 - A scientist discovers how some spiders go undercover as a less delicious species to evade predators.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope">http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/6053820011_819934a30f_o_wide-1e3522badfdf0b290b6fd0f3e59d7ca103a8f15a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
