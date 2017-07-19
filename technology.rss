@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 14:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 18 Jul 2017 22:00:09 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 14:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,55 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</guid>
+      <title>Musk&#39;s Warning Sparks Call For Regulating Artificial Intelligence </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</link>
+      <description>July 19, 2017 - Elon Musk is warning that artificial intelligence is a &#34;fundamental existential risk for human civilization.&#34; Colorado Gov. John Hickenlooper is looking into how states can respond.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17196689342515_wide-752107d0dec484ef83f7dcf47d151f4563d31e6f-s800-c15.jpg"></a>
+
+July 19, 2017 - Elon Musk is warning that artificial intelligence is a "fundamental existential risk for human civilization." Colorado Gov. John Hickenlooper is looking into how states can respond.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence">http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17196689342515_wide-752107d0dec484ef83f7dcf47d151f4563d31e6f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_the_youtube_star_whos_teaching_kids_how_to_bake.mp3?orgId=1&amp;topicId=1053&amp;d=225&amp;p=3&amp;story=537302223&amp;t=progseg&amp;e=538037389&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The YouTube Star Who&#39;s Teaching Kids How To Bake</title>
+      <link>http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake</link>
+      <description>July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_the_youtube_star_whos_teaching_kids_how_to_bake.mp3?orgId=1&amp;topicId=1053&amp;d=225&amp;p=3&amp;story=537302223&amp;t=progseg&amp;e=538037389&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/rosanna_wide-c961ee3aa009503cec00a8b190bd22a98b4069c9-s800-c15.png"></a>
+
+July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.
+
+<a href="http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake">http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/rosanna_wide-c961ee3aa009503cec00a8b190bd22a98b4069c9-s3000-c15.png"></itunes:image>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_with_entry_into_interest_curation_google_goes_head-to-head_with_facebook.mp3?orgId=1&amp;topicId=1019&amp;d=133&amp;p=3&amp;story=537960537&amp;t=progseg&amp;e=538037389&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>With Entry Into Interest Curation, Google Goes Head-To-Head With Facebook</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook</link>
+      <description>July 19, 2017 - In the feed, users will get a stream of news, photos and more based on their search histories and interests across Google products. The company promises a different, less friend-filtered experience.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_with_entry_into_interest_curation_google_goes_head-to-head_with_facebook.mp3?orgId=1&amp;topicId=1019&amp;d=133&amp;p=3&amp;story=537960537&amp;t=progseg&amp;e=538037389&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/19/ap_16278639324230_wide-e2bddbafe4504981f1248959b7256f5cccd4209e-s800-c15.jpg"></a>
+
+July 19, 2017 - In the feed, users will get a stream of news, photos and more based on their search histories and interests across Google products. The company promises a different, less friend-filtered experience.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook">http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/ap_16278639324230_wide-e2bddbafe4504981f1248959b7256f5cccd4209e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>133</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tour_rio_de_janeiros_oldest_slave_port_with_this_new_app.mp3?orgId=1&amp;topicId=1127&amp;d=235&amp;p=2&amp;story=537948535&amp;t=progseg&amp;e=537945306&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tour Rio De Janeiro&#39;s Oldest Slave Port With This New App</title>
@@ -71,11 +120,12 @@ July 18, 2017 - An investigation into Nawaz Sharif's wealth found forensic evide
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_art_by_text.mp3?orgId=1&amp;topicId=1019&amp;d=64&amp;p=3&amp;story=537737939&amp;t=progseg&amp;e=538037389&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tight On Wall Space, SFMOMA Will Text Its Art To You Instead</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</link>
       <description>July 18, 2017 - The San Francisco Museum of Modern Art can only display a fraction of its collection at any given time. Now, you can text a word or emoji and the museum will send back a corresponding work of art.</description>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_art_by_text.mp3?orgId=1&amp;topicId=1019&amp;d=64&amp;p=3&amp;story=537737939&amp;t=progseg&amp;e=538037389&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-525644556_wide-c31caa560e24882c338af2140a23335102797018-s800-c15.jpg"></a>
 
@@ -83,6 +133,7 @@ July 18, 2017 - The San Francisco Museum of Modern Art can only display a fracti
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead">http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-525644556_wide-c31caa560e24882c338af2140a23335102797018-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>64</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -207,51 +258,6 @@ July 17, 2017 - At a bipartisan governors conference in Rhode Island, the CEO of
 
 <a href="http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</guid>
-      <title>Technology Can Be A Tool, A Teacher, A Trickster</title>
-      <link>http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</link>
-      <description>July 17, 2017 - Shaping technology to some form of learning could depart pretty radically from the more familiar aim of shaping technology to the way we are now, says psychologist Tania Lombrozo.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/istock-490361666_wide-6e34d27836acda2833fe396bac3ffb256e4c9527-s800-c15.jpg"></a>
-
-July 17, 2017 - Shaping technology to some form of learning could depart pretty radically from the more familiar aim of shaping technology to the way we are now, says psychologist Tania Lombrozo.
-
-<a href="http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster">http://www.npr.org/sections/13.7/2017/07/17/537667988/technology-can-be-a-tool-a-teacher-a-trickster</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/istock-490361666_wide-6e34d27836acda2833fe396bac3ffb256e4c9527-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1006&amp;d=219&amp;p=3&amp;story=537645901&amp;t=progseg&amp;e=537644267&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Legal Challenges Expected As Seattle Approves Income Tax On High Earners</title>
-      <link>http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners</link>
-      <description>July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. The highly paid tech workers there are expected to pay a new city income tax to help those who make less.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170717_me_legal_challenges_expected_as_seattle_approves_income_tax_on_high_earners.mp3?orgId=231&amp;topicId=1006&amp;d=219&amp;p=3&amp;story=537645901&amp;t=progseg&amp;e=537644267&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 17, 2017 - Seattle is among a number of cities in which the tech boom is driving up the cost of living. The highly paid tech workers there are expected to pay a new city income tax to help those who make less.
-
-<a href="http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners">http://www.npr.org/2017/07/17/537645901/legal-challenges-expected-as-seattle-approves-income-tax-on-high-earners</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_coast_guard_voice_profiling.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=7&amp;story=537381231&amp;t=progseg&amp;e=537380511&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Coast Guard Works To Weed Out Hoax Distress Calls</title>
-      <link>http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls</link>
-      <description>July 15, 2017 - Every year, the Coast Guard wastes valuable resources and crew on as many as 150 fraud calls. Scott Simon talks with the Coast Guard&#39;s Branch Chief Al Arsenault about using voice forensics for help.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170715_wesat_coast_guard_voice_profiling.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=7&amp;story=537381231&amp;t=progseg&amp;e=537380511&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 15, 2017 - Every year, the Coast Guard wastes valuable resources and crew on as many as 150 fraud calls. Scott Simon talks with the Coast Guard's Branch Chief Al Arsenault about using voice forensics for help.
-
-<a href="http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls">http://www.npr.org/2017/07/15/537381231/coast-guard-works-to-weed-out-hoax-distress-calls</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
