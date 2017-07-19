@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 14:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 15:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 14:00:31 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 15:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</guid>
+      <title>Why Zika Is Especially Hard On The Women Of Brazil</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</link>
+      <description>July 19, 2017 - They&#39;ve been largely responsible for warding off mosquitoes at home — and caring for the children born with microcephaly. A new study says that the government has not given them the support they need.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s800-c15.jpeg"></a>
+
+July 19, 2017 - They've been largely responsible for warding off mosquitoes at home — and caring for the children born with microcephaly. A new study says that the government has not given them the support they need.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil">http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life</guid>
       <title>Social Interaction Improves Quality Of Life For People With Dementia</title>
@@ -235,21 +250,6 @@ July 18, 2017 - "I am a product of rural Kansas," Sen. Jerry Moran said earlier 
 <a href="http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate">http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2880</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_death_knell_sounded_for_senates_gop_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=154&amp;p=3&amp;story=537844748&amp;t=progseg&amp;e=537842344&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Death Knell Sounds For Senate&#39;s GOP Health Care Bill</title>
-      <link>http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill</link>
-      <description>July 18, 2017 - Senate Republicans have shelved their health care bill after two more Senate Republicans, Mike Lee and Jerry Moran, announced their opposition to the bill Monday night.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_death_knell_sounded_for_senates_gop_health_care_bill.mp3?orgId=1&amp;topicId=1027&amp;d=154&amp;p=3&amp;story=537844748&amp;t=progseg&amp;e=537842344&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - Senate Republicans have shelved their health care bill after two more Senate Republicans, Mike Lee and Jerry Moran, announced their opposition to the bill Monday night.
-
-<a href="http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill">http://www.npr.org/2017/07/18/537844748/death-knell-sounds-for-senates-gop-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>154</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
