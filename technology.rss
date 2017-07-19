@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 19:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 14:00:21 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 19:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Getting Really Smart About Artificial Intelligence</title>
+      <link>http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</link>
+      <description>July 19, 2017 - AI isn&#39;t on the way … it&#39;s already here.&#xA;&#xA; - http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 19, 2017 - AI isn't on the way … it's already here.
+
+<a href="http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence">http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2827</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</guid>
       <title>Musk&#39;s Warning Sparks Call For Regulating Artificial Intelligence </title>
@@ -46,12 +61,10 @@ July 19, 2017 - Elon Musk is warning that artificial intelligence is a "fundamen
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_the_youtube_star_whos_teaching_kids_how_to_bake.mp3?orgId=1&amp;topicId=1053&amp;d=225&amp;p=3&amp;story=537302223&amp;t=progseg&amp;e=538037389&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/14/rosanna_wide-c961ee3aa009503cec00a8b190bd22a98b4069c9-s800-c15.png"></a>
-
-July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.
+      <itunes:summary><![CDATA[July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake">http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/rosanna_wide-c961ee3aa009503cec00a8b190bd22a98b4069c9-s3000-c15.png"></itunes:image>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -243,21 +256,6 @@ July 17, 2017 - Seattle is among a number of cities in which the tech boom is dr
 <a href="http://www.npr.org/2017/07/17/537463986/tech-workers-brace-for-seattles-plan-to-tax-the-rich">http://www.npr.org/2017/07/17/537463986/tech-workers-brace-for-seattles-plan-to-tax-the-rich</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_328129811847_wide-77203652b0f758bc12301e4894ffd8a1174eb81d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</guid>
-      <title>Elon Musk Warns Governors: Artificial Intelligence Poses &#39;Existential Risk&#39;</title>
-      <link>http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</link>
-      <description>July 17, 2017 - At a bipartisan governors conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s800-c15.jpg"></a>
-
-July 17, 2017 - At a bipartisan governors conference in Rhode Island, the CEO of Tesla urged politicians to impose proactive regulations on AI development.
-
-<a href="http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 15:00:19 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</guid>
+      <title>Her Own Medical Future At Stake, A Child Storms Capitol Hill</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</link>
+      <description>July 19, 2017 - The Republican health care bill failed in part because of opposition to shrinking Medicaid. An 11-year-old girl with sickle cell anemia went to Washington, D.C., to make sure that wouldn&#39;t happen.</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s800-c15.jpg"></a>
+
+July 19, 2017 - The Republican health care bill failed in part because of opposition to shrinking Medicaid. An 11-year-old girl with sickle cell anemia went to Washington, D.C., to make sure that wouldn't happen.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill">http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</guid>
       <title>Why Zika Is Especially Hard On The Women Of Brazil</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</link>
@@ -36,6 +51,21 @@ July 19, 2017 - They've been largely responsible for warding off mosquitoes at h
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil">http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s3000-c15.jpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170719.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Guardians Of The Gridlock</title>
+      <link>http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</link>
+      <description>July 19, 2017 - What can Congress get done?&#xA;&#xA; - http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170719.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 19, 2017 - What can Congress get done?
+
+<a href="http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock">http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2828</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -218,38 +248,6 @@ July 18, 2017 - The Affordable Care Act penalizes hospitals if patients are disc
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths">http://www.npr.org/sections/health-shots/2017/07/18/537696772/pushing-hospitals-to-reduce-readmissions-hasnt-increased-deaths</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gurney_wide-e778dd2bb0e191810d1d7c68addc2f4a9169de74-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_the_loyal_republican_senator_from_kansas_who_helped_kill_the_health_care_bill.mp3?orgId=60&amp;topicId=1014&amp;d=102&amp;p=2&amp;story=537877556&amp;t=progseg&amp;e=537945306&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Loyal Republican Senator From Kansas Who Helped Kill The Health Care Bill</title>
-      <link>http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</link>
-      <description>July 18, 2017 - &#34;I am a product of rural Kansas,&#34; Sen. Jerry Moran said earlier this month. &#34;I understand the value of a hospital in your community, of a physician in your town, of a pharmacy on Main Street.&#34;</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_the_loyal_republican_senator_from_kansas_who_helped_kill_the_health_care_bill.mp3?orgId=60&amp;topicId=1014&amp;d=102&amp;p=2&amp;story=537877556&amp;t=progseg&amp;e=537945306&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s800-c15.jpg"></a>
-
-July 18, 2017 - "I am a product of rural Kansas," Sen. Jerry Moran said earlier this month. "I understand the value of a hospital in your community, of a physician in your town, of a pharmacy on Main Street."
-
-<a href="http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill">http://www.npr.org/2017/07/18/537877556/the-loyal-republican-senator-from-kansas-who-helped-kill-the-health-care-bill</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-695697166_wide-23ac3dc9da3ff12a5dd02ff6b35462aaea2c9b7e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>102</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170718.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Who Will Decide Health Care&#39;s Future?</title>
-      <link>http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</link>
-      <description>July 18, 2017 - The president says &#34;we will return!&#34;&#xA;&#xA; - http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170718.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - The president says "we will return!"
-
-<a href="http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate">http://the1a.org/shows/2017-07-18/players-in-the-health-care-debate</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

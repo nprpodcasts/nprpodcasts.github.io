@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 18:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 19:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 18:00:11 +0000</pubDate>
+    <pubDate>Wed, 19 Jul 2017 19:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Getting Really Smart About Artificial Intelligence</title>
+      <link>http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</link>
+      <description>July 19, 2017 - AI isn&#39;t on the way … it&#39;s already here.&#xA;&#xA; - http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 19, 2017 - AI isn't on the way … it's already here.
+
+<a href="http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence">http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2827</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/07/19/538062450/viewing-the-great-american-eclipse</guid>
       <title>Viewing The Great American Eclipse</title>
@@ -241,21 +256,6 @@ July 13, 2017 - A scientist discovers how some spiders go undercover as a less d
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope">http://www.npr.org/sections/thetwo-way/2017/07/13/537081375/if-it-walks-like-an-ant-you-probably-wouldnt-eat-it-or-so-these-spiders-hope</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/6053820011_819934a30f_o_wide-1e3522badfdf0b290b6fd0f3e59d7ca103a8f15a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_scientists_discover_sneaky_spider_that_fools_predators.mp3?orgId=1&amp;topicId=1007&amp;d=139&amp;p=2&amp;story=537082136&amp;t=progseg&amp;e=536998102&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Discover Sneaky Spider That Fools Predators</title>
-      <link>http://www.npr.org/2017/07/13/537082136/scientists-discover-sneaky-spider-that-fools-predators</link>
-      <description>July 13, 2017 - It&#39;s a dog eat dog world out there in nature. One way not to get eaten is to look like something else that&#39;s not tasty. Now scientists have discovered a spider that fools predators by not only looking like a nasty ant, but actually walking like one.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170713_atc_scientists_discover_sneaky_spider_that_fools_predators.mp3?orgId=1&amp;topicId=1007&amp;d=139&amp;p=2&amp;story=537082136&amp;t=progseg&amp;e=536998102&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 13, 2017 - It's a dog eat dog world out there in nature. One way not to get eaten is to look like something else that's not tasty. Now scientists have discovered a spider that fools predators by not only looking like a nasty ant, but actually walking like one.
-
-<a href="http://www.npr.org/2017/07/13/537082136/scientists-discover-sneaky-spider-that-fools-predators">http://www.npr.org/2017/07/13/537082136/scientists-discover-sneaky-spider-that-fools-predators</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>139</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
