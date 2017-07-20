@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 17:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 18:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 17:00:30 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 18:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</guid>
+      <title>Justice Department Announces &#39;Largest Darknet Takedown In History&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</link>
+      <description>July 20, 2017 - A joint operation by the department, the FBI and international law enforcement has shut down AlphaBay and Hansa, two of the world&#39;s largest anonymous marketplaces for illicit drugs and goods.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/20/gettyimages-819434982_wide-3519bd9c04bb42569fe75a63c6332b7b3a4169eb-s800-c15.jpg"></a>
+
+July 20, 2017 - A joint operation by the department, the FBI and international law enforcement has shut down AlphaBay and Hansa, two of the world's largest anonymous marketplaces for illicit drugs and goods.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history">http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-819434982_wide-3519bd9c04bb42569fe75a63c6332b7b3a4169eb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop</guid>
+      <title>Elon Musk Says He Has &#39;Verbal&#39; OK To Build N.Y.-D.C. Hyperloop</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop</link>
+      <description>July 20, 2017 - There&#39;s still much to do before getting formal approval, the entrepreneur adds. Hyperloop has the goal of reaching speeds of more than 700 mph, using magnetic levitation in a vacuum environment.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/20/hyperloop_2017-04-06_wide-6f9a4867a64a420f0d147b3055dc1627c726ca79-s800-c15.jpg"></a>
+
+July 20, 2017 - There's still much to do before getting formal approval, the entrepreneur adds. Hyperloop has the goal of reaching speeds of more than 700 mph, using magnetic levitation in a vacuum environment.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop">http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/hyperloop_2017-04-06_wide-6f9a4867a64a420f0d147b3055dc1627c726ca79-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east</guid>
       <title>U.S. Ends Laptop Ban On Flights From Middle East</title>
@@ -222,38 +252,6 @@ July 17, 2017 - The team from Gambia was denied visas when they first applied. "
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition">http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/6f6a1084_wide-389fdc2b8f74032861a2ccc9d276e491f43c41c8-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_seeking_online_medical_advice_googles_top_results_arent_always_on_target.mp3?orgId=144&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=537711453&amp;t=progseg&amp;e=537657366&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Seeking Online Medical Advice? Google&#39;s Top Results Aren&#39;t Always On Target</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</link>
-      <description>July 17, 2017 - Google&#39;s search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_seeking_online_medical_advice_googles_top_results_arent_always_on_target.mp3?orgId=144&amp;topicId=1019&amp;d=237&amp;p=2&amp;story=537711453&amp;t=progseg&amp;e=537657366&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s800-c15.jpg"></a>
-
-July 17, 2017 - Google's search results on health issues can be influential, but they can also be unreliable or wrong. The highlighted answer may come from a dubious source while a more credible one is buried below.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target">http://www.npr.org/sections/health-shots/2017/07/17/537711453/seeking-online-medical-advice-googles-top-results-arent-always-on-target</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_16180630648825_wide-74b5f4d0aa9150dc8dce6c10c5b6b91e3251a3e3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>237</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Students Compete In First-Ever International High School Robotics Competition</title>
-      <link>http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</link>
-      <description>July 17, 2017 - The first-ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_students_compete_in_first-ever_international_high_school_robotics_competition.mp3?orgId=1&amp;topicId=1007&amp;d=219&amp;p=2&amp;story=537754562&amp;t=progseg&amp;e=537657366&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 17, 2017 - The first-ever international high school robotics competition is happening in Washington, D.C., this week. Over 150 countries from six continents sent teams to compete.
-
-<a href="http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition">http://www.npr.org/2017/07/17/537754562/students-compete-in-first-ever-international-high-school-robotics-competition</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
