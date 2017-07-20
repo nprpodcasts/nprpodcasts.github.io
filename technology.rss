@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 19:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 21:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 19:00:14 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 21:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,32 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</guid>
+      <title>Justice Department Announces Seizure Of Dark Web Marketplace</title>
+      <link>http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</link>
+      <description>July 20, 2017 - The Department of Justice announced Thursday its seizure of an international marketplace on the dark web. AlphaBay provided an anonymous site for people selling illegal drugs, firearms and other items.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 20, 2017 - The Department of Justice announced Thursday its seizure of an international marketplace on the dark web. AlphaBay provided an anonymous site for people selling illegal drugs, firearms and other items.
+
+<a href="http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace">http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</guid>
+      <title>In Rural Oregon, Efforts To Bring In Large Data Centers Raise Housing Costs</title>
+      <link>http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</link>
+      <description>July 20, 2017 - In places like rural Oregon, politicians are working to bring in large data centers to town. It&#39;s great for folks who want good jobs but don&#39;t want to move away. But it&#39;s also raising housing costs.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 20, 2017 - In places like rural Oregon, politicians are working to bring in large data centers to town. It's great for folks who want good jobs but don't want to move away. But it's also raising housing costs.
+
+<a href="http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs">http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</guid>
       <title>Justice Department Announces &#39;Largest Darknet Takedown In History&#39;</title>
@@ -222,36 +248,6 @@ July 18, 2017 - The San Francisco Museum of Modern Art can only display a fracti
 <a href="http://www.npr.org/2017/07/18/537844706/elon-musk-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/18/537844706/elon-musk-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>231</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_morning_news_brief_health_care_bill_is_dead_russian_compound_discussions.mp3?orgId=1&amp;topicId=1014&amp;d=619&amp;p=3&amp;story=537844678&amp;t=progseg&amp;e=537842344&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>News Brief: Health Care Bill Is Dead, Russian Compound Discussions</title>
-      <link>http://www.npr.org/2017/07/18/537844678/morning-news-brief-health-care-bill-is-dead-russian-compound-discussions</link>
-      <description>July 18, 2017 - When 2 GOP senators said they would vote no on a bill to replace Obamacare, it effectively killed the bill. U.S. and Russian diplomats are discussing 2 Russian compounds that U.S. authorities seized.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170718_me_morning_news_brief_health_care_bill_is_dead_russian_compound_discussions.mp3?orgId=1&amp;topicId=1014&amp;d=619&amp;p=3&amp;story=537844678&amp;t=progseg&amp;e=537842344&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - When 2 GOP senators said they would vote no on a bill to replace Obamacare, it effectively killed the bill. U.S. and Russian diplomats are discussing 2 Russian compounds that U.S. authorities seized.
-
-<a href="http://www.npr.org/2017/07/18/537844678/morning-news-brief-health-care-bill-is-dead-russian-compound-discussions">http://www.npr.org/2017/07/18/537844678/morning-news-brief-health-care-bill-is-dead-russian-compound-discussions</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>619</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</guid>
-      <title>Meet The Other Robotics Team That Almost Didn&#39;t Make It To The Competition</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</link>
-      <description>July 17, 2017 - The team from Gambia was denied visas when they first applied. &#34;Having no hope to come, we still worked,&#34; says team captain Alieu Bah.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/6f6a1084_wide-389fdc2b8f74032861a2ccc9d276e491f43c41c8-s800-c15.jpg"></a>
-
-July 17, 2017 - The team from Gambia was denied visas when they first applied. "Having no hope to come, we still worked," says team captain Alieu Bah.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition">http://www.npr.org/sections/goatsandsoda/2017/07/17/537732623/meet-the-other-robotics-team-that-almost-didnt-make-it-to-the-competition</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/6f6a1084_wide-389fdc2b8f74032861a2ccc9d276e491f43c41c8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

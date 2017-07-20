@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 20:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 21:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 20:00:17 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 21:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care</guid>
+      <title>Senate Republicans Look Down Uncertain Path On Health Care</title>
+      <link>http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care</link>
+      <description>July 20, 2017 - Some Senate Republicans have suggested they will work with Democrats to craft legislation on health care after their party failed repeatedly to pass a bill on their own. But that is also an uncertain path.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 20, 2017 - Some Senate Republicans have suggested they will work with Democrats to craft legislation on health care after their party failed repeatedly to pass a bill on their own. But that is also an uncertain path.
+
+<a href="http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care">http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</guid>
       <title>GOP Effort To Make Environmental Science &#39;Transparent&#39; Worries Scientists</title>
@@ -237,21 +250,6 @@ July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing fo
 <a href="http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca">http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>177</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_conservative_media_express_outrage_over_republican_health_care_failure.mp3?orgId=1&amp;topicId=1020&amp;d=184&amp;p=2&amp;story=537948563&amp;t=progseg&amp;e=537945306&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Conservative Media Express Outrage Over Republican Health Care Failure</title>
-      <link>http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure</link>
-      <description>July 18, 2017 - Conservative media are reacting to the failure of the GOP&#39;s latest health care plan with outrage and disappointment. The Republican bill was effectively blocked on Monday night when two more GOP senators came out in opposition to it.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_conservative_media_express_outrage_over_republican_health_care_failure.mp3?orgId=1&amp;topicId=1020&amp;d=184&amp;p=2&amp;story=537948563&amp;t=progseg&amp;e=537945306&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - Conservative media are reacting to the failure of the GOP's latest health care plan with outrage and disappointment. The Republican bill was effectively blocked on Monday night when two more GOP senators came out in opposition to it.
-
-<a href="http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure">http://www.npr.org/2017/07/18/537948563/conservative-media-express-outrage-over-republican-health-care-failure</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>184</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

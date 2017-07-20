@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 19:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 21:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 19:00:16 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 21:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</guid>
+      <title>Is It A Good Idea To Pay Villagers Not To Chop Down Trees?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</link>
+      <description>July 20, 2017 - Governments dole out millions each year. Researchers debate whether the payouts actually work. A new study from Uganda offers some answers.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/baboon-in-farmers-jackfruit-tree_wide-c8fc81b6e4447a1609c38a1987d5588bdc207139-s800-c15.jpg"></a>
+
+July 20, 2017 - Governments dole out millions each year. Researchers debate whether the payouts actually work. A new study from Uganda offers some answers.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees">http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/baboon-in-farmers-jackfruit-tree_wide-c8fc81b6e4447a1609c38a1987d5588bdc207139-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</guid>
+      <title>GOP Effort To Make Environmental Science &#39;Transparent&#39; Worries Scientists</title>
+      <link>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</link>
+      <description>July 20, 2017 - There&#39;s a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s800-c15.jpg"></a>
+
+July 20, 2017 - There's a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.
+
+<a href="http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists">http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</guid>
       <title>John McCain Was Diagnosed With A Glioblastoma, Among The Deadliest Of Cancers</title>
@@ -226,38 +256,6 @@ July 17, 2017 - At a bipartisan governors conference in Rhode Island, the CEO of
 
 <a href="http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk">http://www.npr.org/2017/07/17/537686649/elon-musk-warns-governors-artificial-intelligence-poses-existential-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/ap_17196683417367_wide-d24e540f40e7849649a8f897ae6ff13573d7b6b6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Stress And Poverty May Explain High Rates Of Dementia In African-Americans</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</link>
-      <description>July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer&#39;s or some other form of dementia.</description>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170716_wesun_stress_and_poverty_may_explain_high_rates_of_dementia_in_african-americans.mp3?orgId=1&amp;topicId=1128&amp;d=212&amp;p=10&amp;story=536935957&amp;t=progseg&amp;e=537508926&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s800-c15.jpg"></a>
-
-July 16, 2017 - New research finds that African-Americans who grow up in harsh environments and have many stressful experiences are much more likely to develop Alzheimer's or some other form of dementia.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans">http://www.npr.org/sections/health-shots/2017/07/16/536935957/stress-and-poverty-may-explain-high-rates-of-dementia-in-african-americans</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/dementia-hands-1_wide-f511f9ff499aa7ebc90901562375925c238df2b7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</guid>
-      <title>Maryam Mirzakhani, Prize-Winning Mathematician, Dies At 40</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</link>
-      <description>July 15, 2017 - Maryam Mirzakhani was the first woman to win the prestigious Fields Medal. She worked at Stanford University, which confirmed her death Saturday.</description>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/15/mathmetician_wide-8d528712c556a3e8f5522dcdd39ea84aff09d151-s800-c15.jpg"></a>
-
-July 15, 2017 - Maryam Mirzakhani was the first woman to win the prestigious Fields Medal. She worked at Stanford University, which confirmed her death Saturday.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40">http://www.npr.org/sections/thetwo-way/2017/07/15/537419982/maryam-mirzakhani-prize-winning-mathemetician-dies-at-40</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/15/mathmetician_wide-8d528712c556a3e8f5522dcdd39ea84aff09d151-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
