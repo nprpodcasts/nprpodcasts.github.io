@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 23:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 22:00:41 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 23:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/20/538360550/with-so-many-obamacare-repeal-options-in-play-confusion-reigns</guid>
+      <title>With So Many Obamacare Repeal Options In Play, Confusion Reigns</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/20/538360550/with-so-many-obamacare-repeal-options-in-play-confusion-reigns</link>
+      <description>July 20, 2017 - Congress has been trying to repeal and/or replace the Affordable Care Act for years. Now it&#39;s down to the wire, but there are multiple proposals on the Senate&#39;s table, and more could be on the way.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/promo-ahca-comparison-2_wide-1702d570015bbb25058bb5f132058b766ea05d19-s800-c15.png"></a>
+
+July 20, 2017 - Congress has been trying to repeal and/or replace the Affordable Care Act for years. Now it's down to the wire, but there are multiple proposals on the Senate's table, and more could be on the way.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/20/538360550/with-so-many-obamacare-repeal-options-in-play-confusion-reigns">http://www.npr.org/sections/health-shots/2017/07/20/538360550/with-so-many-obamacare-repeal-options-in-play-confusion-reigns</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/promo-ahca-comparison-2_wide-1702d570015bbb25058bb5f132058b766ea05d19-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_senate_republicans_look_down_uncertain_path_on_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=240&amp;p=2&amp;story=538370615&amp;t=progseg&amp;e=538256344&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Senate Republicans Look Down Uncertain Path On Health Care</title>
@@ -39,11 +54,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>GOP Effort To Make Environmental Science &#39;Transparent&#39; Worries Scientists</title>
       <link>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</link>
       <description>July 20, 2017 - There&#39;s a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.</description>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s800-c15.jpg"></a>
 
@@ -51,6 +67,7 @@ July 20, 2017 - There's a push in Congress to rewrite how science gets used in r
 
 <a href="http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists">http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +256,6 @@ July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing fo
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines">http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s3000-c15.jpg"></itunes:image>
       <itunes:duration>316</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_kentucky_residents_express_dissatisfaction_with_gop_efforts_to_dismantle_obamacare.mp3?orgId=1&amp;topicId=1014&amp;d=177&amp;p=2&amp;story=537948591&amp;t=progseg&amp;e=537945306&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Kentucky Residents Express Dissatisfaction With GOP Efforts To Dismantle Obamacare</title>
-      <link>http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</link>
-      <description>July 18, 2017 - Hundreds of thousands of people in Kentucky got health insurance under the Affordable Care Act, but the state is also home to Senate Majority Leader Mitch McConnell who&#39;s led efforts to kill the law. With the failure of the latest GOP attempt to replace the ACA, the state&#39;s voters weigh in.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_kentucky_residents_express_dissatisfaction_with_gop_efforts_to_dismantle_obamacare.mp3?orgId=1&amp;topicId=1014&amp;d=177&amp;p=2&amp;story=537948591&amp;t=progseg&amp;e=537945306&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - Hundreds of thousands of people in Kentucky got health insurance under the Affordable Care Act, but the state is also home to Senate Majority Leader Mitch McConnell who's led efforts to kill the law. With the failure of the latest GOP attempt to replace the ACA, the state's voters weigh in.
-
-<a href="http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca">http://www.npr.org/2017/07/18/537948591/kentucky-residents-express-dissatisfaction-with-gop-efforts-to-dismantle-obamaca</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>177</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

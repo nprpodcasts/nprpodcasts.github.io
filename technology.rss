@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 22:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 23:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 22:00:34 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 23:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -39,16 +39,18 @@ July 20, 2017 - The Afghan team made headlines even before the event started whe
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_justice_department_announces_seizure_of_dark_web_marketplace.mp3?orgId=1&amp;topicId=1070&amp;d=237&amp;p=2&amp;story=538370711&amp;t=progseg&amp;e=538256344&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Justice Department Announces Seizure Of Dark Web Marketplace</title>
       <link>http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</link>
       <description>July 20, 2017 - The Department of Justice announced Thursday its seizure of an international marketplace on the dark web. AlphaBay provided an anonymous site for people selling illegal drugs, firearms and other items.</description>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_justice_department_announces_seizure_of_dark_web_marketplace.mp3?orgId=1&amp;topicId=1070&amp;d=237&amp;p=2&amp;story=538370711&amp;t=progseg&amp;e=538256344&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 20, 2017 - The Department of Justice announced Thursday its seizure of an international marketplace on the dark web. AlphaBay provided an anonymous site for people selling illegal drugs, firearms and other items.
 
 <a href="http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace">http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>237</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
