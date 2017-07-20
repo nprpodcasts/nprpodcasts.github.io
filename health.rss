@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 15:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 17:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 15:03:24 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 17:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,15 +24,45 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</guid>
+      <title>John McCain Was Diagnosed With A Glioblastoma, Among The Deadliest Of Cancers</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</link>
+      <description>July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year in the U.S. Fewer than a third of them will survive beyond two years.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s800-c15.jpg"></a>
+
+July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year in the U.S. Fewer than a third of them will survive beyond two years.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers">http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</guid>
+      <title>The Side Effect Of That New Malaria Drug? American Jobs</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</link>
+      <description>July 20, 2017 - The Trump administration wants to cut the U.S. global health budget. A new study puts a different spin on the spending.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-723498243_wide-fc07d665bf13ca0502b53bb14064608db0ba9518-s800-c15.jpg"></a>
+
+July 20, 2017 - The Trump administration wants to cut the U.S. global health budget. A new study puts a different spin on the spending.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs">http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-723498243_wide-fc07d665bf13ca0502b53bb14064608db0ba9518-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</guid>
       <title>Just Thinking You&#39;re Slacking On Exercise Could Boost Risk Of Death</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</link>
-      <description>July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they&#39;re actually getting the same amount of exercise. The social comparison could kill motivation, the researcher say.</description>
+      <description>July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they&#39;re actually getting the same amount of exercise. The social comparison could kill motivation, researchers say.</description>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s800-c15.jpg"></a>
 
-July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they're actually getting the same amount of exercise. The social comparison could kill motivation, the researcher say.
+July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they're actually getting the same amount of exercise. The social comparison could kill motivation, researchers say.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death">http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s3000-c15.jpg"></itunes:image>
@@ -222,36 +252,6 @@ July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing fo
 <a href="http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump">http://www.npr.org/2017/07/18/537948542/death-of-gop-health-care-bill-deals-political-blow-to-president-trump</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>256</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tennessee_insurance_commissioner_outlines_what_gop_failure_means_for_health_care.mp3?orgId=1&amp;topicId=1128&amp;d=349&amp;p=2&amp;story=537948521&amp;t=progseg&amp;e=537945306&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tennessee Insurance Commissioner Outlines What GOP Failure Means For Health Care</title>
-      <link>http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care</link>
-      <description>July 18, 2017 - NPR&#39;s Robert Siegel talks with Tennessee Insurance Commissioner Julie McPeak about what the collapse of the Better Care Reconciliation Act means for Tennessee.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tennessee_insurance_commissioner_outlines_what_gop_failure_means_for_health_care.mp3?orgId=1&amp;topicId=1128&amp;d=349&amp;p=2&amp;story=537948521&amp;t=progseg&amp;e=537945306&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - NPR's Robert Siegel talks with Tennessee Insurance Commissioner Julie McPeak about what the collapse of the Better Care Reconciliation Act means for Tennessee.
-
-<a href="http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care">http://www.npr.org/2017/07/18/537948521/tennessee-insurance-commissioner-outlines-what-gop-failure-means-for-health-care</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>349</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_sen_mcconnells_plan_b_to_repeal_affordable_care_act_fails.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=537948514&amp;t=progseg&amp;e=537945306&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Sen. McConnell&#39;s Plan B To Repeal Affordable Care Act Fails</title>
-      <link>http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</link>
-      <description>July 18, 2017 - Three Republican senators Tuesday effectively scuttled Senate Majority Leader Mitch McConnell&#39;s plan to repeal the Affordable Care Act without replacing it. This was hours after the Senate&#39;s bill to repeal and replace Obamacare was blocked when two more GOP senators came out in opposition to it.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_sen_mcconnells_plan_b_to_repeal_affordable_care_act_fails.mp3?orgId=1&amp;topicId=1014&amp;d=239&amp;p=2&amp;story=537948514&amp;t=progseg&amp;e=537945306&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - Three Republican senators Tuesday effectively scuttled Senate Majority Leader Mitch McConnell's plan to repeal the Affordable Care Act without replacing it. This was hours after the Senate's bill to repeal and replace Obamacare was blocked when two more GOP senators came out in opposition to it.
-
-<a href="http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails">http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
