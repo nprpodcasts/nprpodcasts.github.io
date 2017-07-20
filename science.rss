@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 21:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 22:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 21:00:23 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 22:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -54,11 +54,12 @@ July 20, 2017 - There's a push in Congress to rewrite how science gets used in r
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_john_mccain_was_diagnosed_with_a_glioblastoma_among_the_deadliest_of_cancers.mp3?orgId=1&amp;topicId=1128&amp;d=192&amp;p=2&amp;story=538295015&amp;t=progseg&amp;e=538256344&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>John McCain Was Diagnosed With A Glioblastoma, Among The Deadliest Of Cancers</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</link>
       <description>July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year in the U.S. Fewer than a third of them will survive beyond two years.</description>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_john_mccain_was_diagnosed_with_a_glioblastoma_among_the_deadliest_of_cancers.mp3?orgId=1&amp;topicId=1128&amp;d=192&amp;p=2&amp;story=538295015&amp;t=progseg&amp;e=538256344&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s800-c15.jpg"></a>
 
@@ -66,6 +67,7 @@ July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year 
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers">http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>192</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
