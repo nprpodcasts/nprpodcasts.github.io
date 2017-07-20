@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 22:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 22:00:13 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 00:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -41,11 +41,12 @@ July 19, 2017 - While Washington ponders the future of the Affordable Care Act, 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=289&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Her Own Medical Future At Stake, A Child Storms Capitol Hill</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</link>
       <description>July 19, 2017 - The Republican health care bill failed in part because of opposition to shrinking Medicaid. An 11-year-old girl with sickle cell anemia went to Washington, D.C., to make sure that wouldn&#39;t happen.</description>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=289&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s800-c15.jpg"></a>
 
@@ -53,6 +54,7 @@ July 19, 2017 - The Republican health care bill failed in part because of opposi
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill">http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>289</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
