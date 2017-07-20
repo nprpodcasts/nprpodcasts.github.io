@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 17:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 19:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 17:00:31 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 19:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -69,11 +69,12 @@ July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to tr
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170720_me_climate_whistleblower.mp3?orgId=1&amp;topicId=1007&amp;d=241&amp;story=538216232&amp;siteplayer=true&amp;dl=1</guid>
       <title>Climate Scientist Says He Was Demoted For Speaking Out On Climate Change</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</link>
       <description>July 19, 2017 - Joel Clement, who was director of the Interior Department&#39;s Office of Policy Analysis during the Obama administration, says in a newspaper op-ed that he was reassigned to an &#34;accounting office.&#34;</description>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170720_me_climate_whistleblower.mp3?orgId=1&amp;topicId=1007&amp;d=241&amp;story=538216232&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-664085502_wide-43e89bbfd57d86a50f3b21d3c36d74a204854b0a-s800-c15.jpg"></a>
 
@@ -81,6 +82,7 @@ July 19, 2017 - Joel Clement, who was director of the Interior Department's Offi
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change">http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-664085502_wide-43e89bbfd57d86a50f3b21d3c36d74a204854b0a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>241</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
