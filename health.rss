@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 01:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 15:03:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 01:00:10 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 15:03:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</guid>
+      <title>Just Thinking You&#39;re Slacking On Exercise Could Boost Risk Of Death</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</link>
+      <description>July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they&#39;re actually getting the same amount of exercise. The social comparison could kill motivation, the researcher say.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s800-c15.jpg"></a>
+
+July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they're actually getting the same amount of exercise. The social comparison could kill motivation, the researcher say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death">http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</guid>
+      <title>Opioid Treatment Funds In Senate Bill Would Fall Far Short Of Needs</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</link>
+      <description>July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn&#39;t make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s800-c15.jpg"></a>
+
+July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn't make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs">http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_uncertainty_over_obamacare_funding_leaves_insurance_companies_in_limbo.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=538099050&amp;t=progseg&amp;e=538051467&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Uncertainty Over Obamacare Leaves Next Year&#39;s Rates In Limbo</title>
@@ -41,12 +71,12 @@ July 19, 2017 - While Washington ponders the future of the Affordable Care Act, 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=285&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=287&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Her Own Medical Future At Stake, A Child Storms Capitol Hill</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</link>
       <description>July 19, 2017 - The Republican health care bill failed in part because of opposition to shrinking Medicaid. An 11-year-old girl with sickle cell anemia went to Washington, D.C., to make sure that wouldn&#39;t happen.</description>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=285&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_her_own_medical_future_at_stake_a_child_storms_capitol_hill.mp3?orgId=1&amp;topicId=1027&amp;d=287&amp;p=2&amp;story=537208601&amp;t=progseg&amp;e=538051467&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s800-c15.jpg"></a>
 
@@ -54,7 +84,7 @@ July 19, 2017 - The Republican health care bill failed in part because of opposi
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill">http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>285</itunes:duration>
+      <itunes:duration>287</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -222,36 +252,6 @@ July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing fo
 <a href="http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails">http://www.npr.org/2017/07/18/537948514/sen-mcconnells-plan-b-to-repeal-affordable-care-act-fails</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</guid>
-      <title>After Low-Key Lobbying Effort, Trump Says He Was &#39;Let Down&#39; By Senators</title>
-      <link>http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</link>
-      <description>July 18, 2017 - The president was blindsided by the latest collapse of a Republican health care bill, which happened just after a White House dinner he held with seven lawmakers.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-818190884_wide-0645817021521e3f305e4d9a9502a3c2efa4a111-s800-c15.jpg"></a>
-
-July 18, 2017 - The president was blindsided by the latest collapse of a Republican health care bill, which happened just after a White House dinner he held with seven lawmakers.
-
-<a href="http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators">http://www.npr.org/2017/07/18/537904716/after-low-key-lobbying-effort-trump-says-he-was-let-down-by-senators</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-818190884_wide-0645817021521e3f305e4d9a9502a3c2efa4a111-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</guid>
-      <title>Health Care: Were The Risks Of Repeal Without Replace Too High? </title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</link>
-      <description>July 18, 2017 - The Republicans&#39; last-ditch attempt to repeal the Affordable Care Act now and replace it later would have caused insurance rates to soar, and millions could have lost coverage within a year.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-e803d4bd4bc04e7eb284a29427207bfc56282888-s800-c15.jpg"></a>
-
-July 18, 2017 - The Republicans' last-ditch attempt to repeal the Affordable Care Act now and replace it later would have caused insurance rates to soar, and millions could have lost coverage within a year.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace">http://www.npr.org/sections/health-shots/2017/07/18/537868412/health-care-the-risks-of-repeal-without-replace</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17198533455661_wide-e803d4bd4bc04e7eb284a29427207bfc56282888-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

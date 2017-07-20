@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2017 22:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 15:03:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 19 Jul 2017 22:00:12 +0000</pubDate>
+    <pubDate>Thu, 20 Jul 2017 15:03:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</guid>
+      <title>Opioid Treatment Funds In Senate Bill Would Fall Far Short Of Needs</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</link>
+      <description>July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn&#39;t make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.</description>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s800-c15.jpg"></a>
+
+July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn't make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs">http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</guid>
+      <title>Climate Scientist Says He Was Demoted For Speaking Out On Climate Change</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</link>
+      <description>July 19, 2017 - Joel Clement, who was director of the Interior Department&#39;s Office of Policy Analysis during the Obama administration, says in a newspaper op-ed that he was reassigned to an &#34;accounting office.&#34;</description>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-664085502_wide-43e89bbfd57d86a50f3b21d3c36d74a204854b0a-s800-c15.jpg"></a>
+
+July 19, 2017 - Joel Clement, who was director of the Interior Department's Office of Policy Analysis during the Obama administration, says in a newspaper op-ed that he was reassigned to an "accounting office."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change">http://www.npr.org/sections/thetwo-way/2017/07/19/538216232/climate-scientist-says-he-was-demoted-for-speaking-out-on-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-664085502_wide-43e89bbfd57d86a50f3b21d3c36d74a204854b0a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170720_me_plastic_is_everywhere_and_recycling_isnt_the_end_of_it.mp3?orgId=1&amp;topicId=1025&amp;d=141&amp;p=3&amp;story=538166682&amp;t=progseg&amp;e=538251047&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Plastic Is Everywhere And Recycling Isn&#39;t The End Of It</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</link>
       <description>July 19, 2017 - A researcher tallied how much has been manufactured since plastic&#39;s invention: &#34;Eight point three billion metric tons of plastics produced so far. That&#39;s just really a staggering amount.&#34;</description>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170720_me_plastic_is_everywhere_and_recycling_isnt_the_end_of_it.mp3?orgId=1&amp;topicId=1025&amp;d=141&amp;p=3&amp;story=538166682&amp;t=progseg&amp;e=538251047&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-609735160_wide-f24bed3394d88adac9df0786da539ec4ed35acbd-s800-c15.jpg"></a>
 
@@ -36,6 +67,7 @@ July 19, 2017 - A researcher tallied how much has been manufactured since plasti
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it">http://www.npr.org/sections/thetwo-way/2017/07/19/538166682/plastic-is-everywhere-and-recycling-isnt-the-end-of-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-609735160_wide-f24bed3394d88adac9df0786da539ec4ed35acbd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>141</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,38 +256,6 @@ July 14, 2017 -
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it">http://www.npr.org/sections/health-shots/2017/07/14/529835628/theres-an-amazing-new-drug-for-multiple-sclerosis-should-i-try-it</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/29/ms5_wide-af6c516b27a345a105808caa3a6252dbb99dfdcc-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_scientists_teleport_a_photon_into_space.mp3?orgId=1&amp;topicId=1007&amp;d=223&amp;p=3&amp;story=537174817&amp;t=progseg&amp;e=537172781&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Beam Me Up, Scotty ... Sort Of. Chinese Scientists &#39;Teleport&#39; Photon To Space</title>
-      <link>http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space</link>
-      <description>July 14, 2017 - Chinese scientists have announced they pulled off a successful teleportation of a photon from Earth to space. But what does that really mean?&#xA;&#xA; - http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space</description>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170714_me_scientists_teleport_a_photon_into_space.mp3?orgId=1&amp;topicId=1007&amp;d=223&amp;p=3&amp;story=537174817&amp;t=progseg&amp;e=537172781&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/14/gettyimages-631983084_wide-e12aa55fce173a356f78af32fd0db92d60796bf1-s800-c15.jpg"></a>
-
-July 14, 2017 - Chinese scientists have announced they pulled off a successful teleportation of a photon from Earth to space. But what does that really mean?
-
-<a href="http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space">http://www.npr.org/2017/07/14/537174817/scientists-teleport-a-photon-into-space</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/gettyimages-631983084_wide-e12aa55fce173a356f78af32fd0db92d60796bf1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</guid>
-      <title>Ravens Surprise Scientists By Showing They Can Plan</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</link>
-      <description>July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can, too, on a par with great apes.</description>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s800-c15.jpg"></a>
-
-July 13, 2017 - As recently as 10 years ago, humans were thought to be the only species with the ability to plan. Turns out ravens can, too, on a par with great apes.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan">http://www.npr.org/sections/thetwo-way/2017/07/13/537040868/ravens-surprise-scientists-by-showing-they-can-plan</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/21870743818_4d3ba53afe_o_wide-8c17aeccd3d0c96531b9f184da341982f8232f2f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
