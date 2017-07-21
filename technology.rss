@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 16:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 22:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 16:00:27 +0000</pubDate>
+    <pubDate>Fri, 21 Jul 2017 22:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</guid>
+      <title>A Future Of Gadgets Without Power Cords? Not So Fast</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</link>
+      <description>July 21, 2017 - This month, the first wireless-charging laptop hit the market. But making wireless power a standard consumer feature is a big technological — and psychological — challenge.</description>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s800-c15.jpg"></a>
+
+July 21, 2017 - This month, the first wireless-charging laptop hit the market. But making wireless power a standard consumer feature is a big technological — and psychological — challenge.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast">http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions</guid>
       <title>Spotify Sued, Yet Again, Over Compositions</title>
@@ -235,21 +250,6 @@ July 18, 2017 - The Knightscope K5 is a state-of-the-art machine, a patrol bot b
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating">http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/capture-robot1_wide-b5708b28700d6a813389407ecdd34b5299ec9752-s3000-c15.png"></itunes:image>
       <itunes:duration>89</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</guid>
-      <title>Font Could Be The Key To Corruption Probe Of Pakistan&#39;s Prime Minister</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</link>
-      <description>July 18, 2017 - An investigation into Nawaz Sharif&#39;s wealth found forensic evidence that papers were forged to &#34;camouflage truth.&#34; A document dated 2006 uses Calibri, a font that wasn&#39;t widely available until 2007.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-809109578_wide-3a9ab3388e5400447cd43da8f03228b158cdbe33-s800-c15.jpg"></a>
-
-July 18, 2017 - An investigation into Nawaz Sharif's wealth found forensic evidence that papers were forged to "camouflage truth." A document dated 2006 uses Calibri, a font that wasn't widely available until 2007.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister">http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-809109578_wide-3a9ab3388e5400447cd43da8f03228b158cdbe33-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
