@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 16:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 14:00:22 +0000</pubDate>
+    <pubDate>Fri, 21 Jul 2017 16:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions</guid>
+      <title>Spotify Sued, Yet Again, Over Compositions</title>
+      <link>http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions</link>
+      <description>July 21, 2017 - Two new lawsuits against the music streaming leader landed this week, over issues that have already twice led to settlements.&#xA;&#xA; - http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions</description>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-134296839_wide-6cdfcaa7c4b1a1cd1a94c5e616459ded2c847f63-s800-c15.jpg"></a>
+
+July 21, 2017 - Two new lawsuits against the music streaming leader landed this week, over issues that have already twice led to settlements.
+
+<a href="http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions">http://www.npr.org/sections/therecord/2017/07/21/538501163/spotify-sued-yet-again-over-compositions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-134296839_wide-6cdfcaa7c4b1a1cd1a94c5e616459ded2c847f63-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/20/538379999/how-did-the-afghan-all-girl-team-do-at-the-robotics-competition</guid>
       <title>How Did The Afghan All-Girl Team Do At The Robotics Competition?</title>
@@ -235,23 +250,6 @@ July 18, 2017 - An investigation into Nawaz Sharif's wealth found forensic evide
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister">http://www.npr.org/sections/thetwo-way/2017/07/18/537897815/font-could-be-the-key-to-corruption-probe-of-pakistans-prime-minister</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-809109578_wide-3a9ab3388e5400447cd43da8f03228b158cdbe33-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_art_by_text.mp3?orgId=1&amp;topicId=1019&amp;d=64&amp;p=3&amp;story=537737939&amp;t=progseg&amp;e=538037389&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tight On Wall Space, SFMOMA Will Text Its Art To You Instead</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</link>
-      <description>July 18, 2017 - The San Francisco Museum of Modern Art can only display a fraction of its collection at any given time. Now, you can text a word or emoji and the museum will send back a corresponding work of art.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_art_by_text.mp3?orgId=1&amp;topicId=1019&amp;d=64&amp;p=3&amp;story=537737939&amp;t=progseg&amp;e=538037389&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-525644556_wide-c31caa560e24882c338af2140a23335102797018-s800-c15.jpg"></a>
-
-July 18, 2017 - The San Francisco Museum of Modern Art can only display a fraction of its collection at any given time. Now, you can text a word or emoji and the museum will send back a corresponding work of art.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead">http://www.npr.org/sections/alltechconsidered/2017/07/18/537737939/tight-on-wall-space-sfmoma-will-text-its-art-to-you-instead</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-525644556_wide-c31caa560e24882c338af2140a23335102797018-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>64</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

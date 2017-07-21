@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 23:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 16:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 20 Jul 2017 23:00:21 +0000</pubDate>
+    <pubDate>Fri, 21 Jul 2017 16:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you</guid>
+      <title>Is Inflammation Bad For You Or Good For You?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you</link>
+      <description>July 21, 2017 - It depends what&#39;s causing the inflammation and how long it lasts. But the habits that keep you healthy overall also help prevent the bad inflammation that increases the risk of chronic disease.</description>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/gettyimages-172592966_wide-a1e8a6fe1fd2bf41c451b0d243b4749c0628cfcf-s800-c15.jpg"></a>
+
+July 21, 2017 - It depends what's causing the inflammation and how long it lasts. But the habits that keep you healthy overall also help prevent the bad inflammation that increases the risk of chronic disease.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you">http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-172592966_wide-a1e8a6fe1fd2bf41c451b0d243b4749c0628cfcf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</guid>
+      <title>A Wake-Up Call: Coffee Recalled By FDA For Having Viagra-Like Ingredient</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</link>
+      <description>July 21, 2017 - Regulators took issue with the tortuously named &#34;New of Kopi Jantan Tradisional Natural Herbs Coffee,&#34; which didn&#39;t declare a chemical akin to the erectile dysfunction drug&#39;s active ingredient.</description>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s800-c15.jpg"></a>
+
+July 21, 2017 - Regulators took issue with the tortuously named "New of Kopi Jantan Tradisional Natural Herbs Coffee," which didn't declare a chemical akin to the erectile dysfunction drug's active ingredient.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient">http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/20/538360550/with-so-many-obamacare-repeal-options-in-play-confusion-reigns</guid>
       <title>With So Many Obamacare Repeal Options In Play, Confusion Reigns</title>
@@ -224,38 +254,6 @@ July 19, 2017 - Patients with memory loss and other cognitive problems responded
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life">http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-523322162_wide-e5b33bf64fc043fb69a3e962bd0d61e4e70bc117-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</guid>
-      <title>Chipotle Stock Dips After Some Va. Customers Report Illness</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</link>
-      <description>July 18, 2017 - Chipotle temporarily closed a Sterling, Va., restaurant to sanitize it. A company representative told NPR that the reported symptoms were consistent with norovirus.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-509063322_wide-fa8dff41935f5d8318b9ab401a21a3cf07966e4e-s800-c15.jpg"></a>
-
-July 18, 2017 - Chipotle temporarily closed a Sterling, Va., restaurant to sanitize it. A company representative told NPR that the reported symptoms were consistent with norovirus.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness">http://www.npr.org/sections/thetwo-way/2017/07/18/537954003/chipotle-stocks-dip-after-some-va-customers-report-illness</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-509063322_wide-fa8dff41935f5d8318b9ab401a21a3cf07966e4e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_why_arent_the_worlds_terrible_famines_getting_more_attention.mp3?orgId=1&amp;topicId=1031&amp;d=316&amp;p=2&amp;story=537907401&amp;t=progseg&amp;e=537945306&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why It&#39;s So Hard To Stop The World&#39;s Looming Famines</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</link>
-      <description>July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing food shortages and severe malnutrition. Host Audie Cornish talks with Justin Forsyth of UNICEF about the crisis.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_why_arent_the_worlds_terrible_famines_getting_more_attention.mp3?orgId=1&amp;topicId=1031&amp;d=316&amp;p=2&amp;story=537907401&amp;t=progseg&amp;e=537945306&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s800-c15.jpg"></a>
-
-July 18, 2017 - Millions of people in Yemen and sub-Saharan Africa are facing food shortages and severe malnutrition. Host Audie Cornish talks with Justin Forsyth of UNICEF about the crisis.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines">http://www.npr.org/sections/goatsandsoda/2017/07/18/537907401/why-its-so-hard-to-stop-the-worlds-looming-famines</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-685982748-1_wide-b4d33f3b20ce74891155f6af91ca28c8e4a3a968-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>316</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
