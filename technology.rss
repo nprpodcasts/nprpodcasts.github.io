@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 22:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 23:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 22:00:33 +0000</pubDate>
+    <pubDate>Fri, 21 Jul 2017 23:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_a_future_of_gadgets_without_power_cords_not_so_fast.mp3?orgId=329&amp;topicId=1019&amp;d=222&amp;p=2&amp;story=538531750&amp;t=progseg&amp;e=538476163&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Future Of Gadgets Without Power Cords? Not So Fast</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</link>
       <description>July 21, 2017 - This month, the first wireless-charging laptop hit the market. But making wireless power a standard consumer feature is a big technological — and psychological — challenge.</description>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_a_future_of_gadgets_without_power_cords_not_so_fast.mp3?orgId=329&amp;topicId=1019&amp;d=222&amp;p=2&amp;story=538531750&amp;t=progseg&amp;e=538476163&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ July 21, 2017 - This month, the first wireless-charging laptop hit the market. B
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast">http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
