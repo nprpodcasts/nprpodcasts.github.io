@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 23:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 21:00:52 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 23:00:13 +0000</pubDate>
+    <pubDate>Sat, 22 Jul 2017 21:00:52 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,40 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_sing_different_steve_jobs_life_becomes_an_opera.mp3?orgId=1&amp;topicId=1039&amp;d=330&amp;p=7&amp;story=538088296&amp;t=progseg&amp;e=538705423&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Sing Different: Steve Jobs&#39; Life Becomes An Opera</title>
+      <link>http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera</link>
+      <description>July 22, 2017 - The Apple co-founder&#39;s complicated story is the subject of The (R)evolution Of Steve Jobs, by composer Mason Bates and librettist Mark Campbell. It premieres Saturday in Santa Fe.</description>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_sing_different_steve_jobs_life_becomes_an_opera.mp3?orgId=1&amp;topicId=1039&amp;d=330&amp;p=7&amp;story=538088296&amp;t=progseg&amp;e=538705423&amp;seg=22&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/19/steve-jobs-opera_ken-howard_wide-8e7af0d3b028a3f1c7cba529c86ccbf617f5a055-s800-c15.jpg"></a>
+
+July 22, 2017 - The Apple co-founder's complicated story is the subject of The (R)evolution Of Steve Jobs, by composer Mason Bates and librettist Mark Campbell. It premieres Saturday in Santa Fe.
+
+<a href="http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera">http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/steve-jobs-opera_ken-howard_wide-8e7af0d3b028a3f1c7cba529c86ccbf617f5a055-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>330</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_i_sink_therefore_i_am_this_robot_wasnt_programmed_for_existential_angst.mp3?orgId=1&amp;topicId=1060&amp;aggIds=4495795&amp;d=157&amp;p=7&amp;story=538624461&amp;t=progseg&amp;e=538705423&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>I Sink, Therefore I Am: This Robot Wasn&#39;t Programmed For Existential Angst</title>
+      <link>http://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst</link>
+      <description>July 22, 2017 - After a security robot drowned in a fountain in Washington, D.C., NPR&#39;s Scott Simon muses on robot suicide, and how long it will be until a robot has the capacity to question its own existence.</description>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_i_sink_therefore_i_am_this_robot_wasnt_programmed_for_existential_angst.mp3?orgId=1&amp;topicId=1060&amp;aggIds=4495795&amp;d=157&amp;p=7&amp;story=538624461&amp;t=progseg&amp;e=538705423&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-688223544_wide-1d2e538f895204d21c80ab4d81dd952ae872fed6-s800-c15.jpg"></a>
+
+July 22, 2017 - After a security robot drowned in a fountain in Washington, D.C., NPR's Scott Simon muses on robot suicide, and how long it will be until a robot has the capacity to question its own existence.
+
+<a href="http://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst">http://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-688223544_wide-1d2e538f895204d21c80ab4d81dd952ae872fed6-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>157</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_a_future_of_gadgets_without_power_cords_not_so_fast.mp3?orgId=329&amp;topicId=1019&amp;d=222&amp;p=2&amp;story=538531750&amp;t=progseg&amp;e=538476163&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Future Of Gadgets Without Power Cords? Not So Fast</title>
@@ -220,38 +254,6 @@ July 19, 2017 - In the feed, users will get a stream of news, photos and more ba
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook">http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/ap_16278639324230_wide-e2bddbafe4504981f1248959b7256f5cccd4209e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>133</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tour_rio_de_janeiros_oldest_slave_port_with_this_new_app.mp3?orgId=1&amp;topicId=1127&amp;d=235&amp;p=2&amp;story=537948535&amp;t=progseg&amp;e=537945306&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tour Rio De Janeiro&#39;s Oldest Slave Port With This New App</title>
-      <link>http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app</link>
-      <description>July 18, 2017 - Rio de Janeiro was home to the Americas&#39; largest slave port, which received nearly a million slaves over several centuries. Now modern day Cariocas have developed an app that provides an immersive tour through that history.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_tour_rio_de_janeiros_oldest_slave_port_with_this_new_app.mp3?orgId=1&amp;topicId=1127&amp;d=235&amp;p=2&amp;story=537948535&amp;t=progseg&amp;e=537945306&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 18, 2017 - Rio de Janeiro was home to the Americas' largest slave port, which received nearly a million slaves over several centuries. Now modern day Cariocas have developed an app that provides an immersive tour through that history.
-
-<a href="http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app">http://www.npr.org/2017/07/18/537948535/tour-rio-de-janeiros-oldest-slave-port-with-this-new-app</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_when_robot_face-plants_in_fountain_onlookers_show_humanity_by_gloating.mp3?orgId=1&amp;topicId=1019&amp;d=89&amp;p=2&amp;story=537905142&amp;t=progseg&amp;e=537945306&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>When Robot Face-Plants In Fountain, Onlookers Show Humanity — By Gloating</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</link>
-      <description>July 18, 2017 - The Knightscope K5 is a state-of-the-art machine, a patrol bot built to rove complexes in search of &#34;unusual activity.&#34; But on Monday, it appeared to have a little trouble with stairs.</description>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170718_atc_when_robot_face-plants_in_fountain_onlookers_show_humanity_by_gloating.mp3?orgId=1&amp;topicId=1019&amp;d=89&amp;p=2&amp;story=537905142&amp;t=progseg&amp;e=537945306&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/capture-robot1_wide-b5708b28700d6a813389407ecdd34b5299ec9752-s800-c15.png"></a>
-
-July 18, 2017 - The Knightscope K5 is a state-of-the-art machine, a patrol bot built to rove complexes in search of "unusual activity." But on Monday, it appeared to have a little trouble with stairs.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating">http://www.npr.org/sections/thetwo-way/2017/07/18/537905142/when-robot-face-plants-in-fountain-onlookers-show-humanity-by-gloating</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/capture-robot1_wide-b5708b28700d6a813389407ecdd34b5299ec9752-s3000-c15.png"></itunes:image>
-      <itunes:duration>89</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

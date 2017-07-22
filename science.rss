@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 23:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 21:00:49 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 23:00:14 +0000</pubDate>
+    <pubDate>Sat, 22 Jul 2017 21:00:49 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</guid>
+      <title>A Bother, A Brotherhood: Living Among The Mines In Coal Country</title>
+      <link>http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</link>
+      <description>July 22, 2017 - When Mary Jo and Mike Picklo bought their house in 2003, they expected to retire in it — until a coal mine opened across the street. They don&#39;t want it there, but they are nearly alone in their view.</description>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/_mg_0746_wide-22cf4de195b99c8761d3eac27011e0b52f9ac4e5-s800-c15.jpg"></a>
+
+July 22, 2017 - When Mary Jo and Mike Picklo bought their house in 2003, they expected to retire in it — until a coal mine opened across the street. They don't want it there, but they are nearly alone in their view.
+
+<a href="http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country">http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/_mg_0746_wide-22cf4de195b99c8761d3eac27011e0b52f9ac4e5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</guid>
       <title>A Wake-Up Call: Coffee Recalled By FDA For Having Viagra-Like Ingredient</title>
@@ -245,23 +260,6 @@ July 17, 2017 - New research suggests the biggest animals run out of fuel for th
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest">http://www.npr.org/sections/thetwo-way/2017/07/17/537754520/new-research-suggests-why-mid-sized-animals-are-the-fastest</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/cheetah_wide-ab4799a8153ef295691038ecfcda9dffed5f0cc9-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>159</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Massachusetts, Proposed Medicaid Cuts Put Kids&#39; Health Care At Risk</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</link>
-      <description>July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medicaid funding would jeopardize the treatment a lot of kids rely on. The state would either have to make up lost funding or cut benefits.</description>
-      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170717_atc_in_massachusetts_proposed_medicaid_cuts_put_kids_health_care_at_risk.mp3?orgId=329&amp;topicId=1128&amp;d=252&amp;p=2&amp;story=537695506&amp;t=progseg&amp;e=537657366&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s800-c15.jpg"></a>
-
-July 17, 2017 - Doctors, consumers and politicians say big federal cuts to Medicaid funding would jeopardize the treatment a lot of kids rely on. The state would either have to make up lost funding or cut benefits.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk">http://www.npr.org/sections/health-shots/2017/07/17/537695506/in-massachusetts-proposed-medicaid-cuts-put-kids-health-care-at-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/0622_ahca-senate-kids07_wide-469158a17aa7b25ebca97758850d50ed9561cc9d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>252</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

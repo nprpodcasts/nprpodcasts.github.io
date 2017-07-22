@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 21:00:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 21 Jul 2017 23:00:16 +0000</pubDate>
+    <pubDate>Sat, 22 Jul 2017 21:00:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_rural_californians_want_price_relief_from_gop_health_bill_but_most_wont_get_it.mp3?orgId=150&amp;topicId=1128&amp;d=236&amp;p=7&amp;story=538396570&amp;t=progseg&amp;e=538705423&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Rural Californians Want Price Relief From GOP Health Bill, But Most Won&#39;t Get It</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it</link>
+      <description>July 22, 2017 - GOP efforts to repeal the ACA are still in flux, and there&#39;s more talk now of trying to work out bipartisan fixes for Obamacare. But most suggested remedies won&#39;t fix the problems in remote regions.</description>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_rural_californians_want_price_relief_from_gop_health_bill_but_most_wont_get_it.mp3?orgId=150&amp;topicId=1128&amp;d=236&amp;p=7&amp;story=538396570&amp;t=progseg&amp;e=538705423&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/tessa-front_wide-2dcd6aab9b90abca431ab4ddcc43293476dac54b-s800-c15.jpg"></a>
+
+July 22, 2017 - GOP efforts to repeal the ACA are still in flux, and there's more talk now of trying to work out bipartisan fixes for Obamacare. But most suggested remedies won't fix the problems in remote regions.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it">http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/tessa-front_wide-2dcd6aab9b90abca431ab4ddcc43293476dac54b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you</guid>
       <title>Is Inflammation Bad For You Or Good For You?</title>
@@ -243,21 +260,6 @@ July 19, 2017 - They've been largely responsible for warding off mosquitoes at h
 <a href="http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock">http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2828</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life</guid>
-      <title>Social Interaction Improves Quality Of Life For People With Dementia</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life</link>
-      <description>July 19, 2017 - Patients with memory loss and other cognitive problems responded well to one-on-one conversations aimed at increasing their sense of control and independence.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/18/gettyimages-523322162_wide-e5b33bf64fc043fb69a3e962bd0d61e4e70bc117-s800-c15.jpg"></a>
-
-July 19, 2017 - Patients with memory loss and other cognitive problems responded well to one-on-one conversations aimed at increasing their sense of control and independence.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life">http://www.npr.org/sections/health-shots/2017/07/19/537907127/for-dementia-patients-engagement-can-improve-mood-and-quality-of-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/gettyimages-523322162_wide-e5b33bf64fc043fb69a3e962bd0d61e4e70bc117-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
