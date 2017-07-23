@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 15:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 23 Jul 2017 14:00:21 +0000</pubDate>
+    <pubDate>Sun, 23 Jul 2017 15:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,24 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/23/538825548/researchers-map-more-of-the-ocean-floor-in-search-for-missing-plane</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_flight_mh370_and_ocean_floor_mapping.mp3?orgId=1&amp;topicId=1007&amp;d=50&amp;p=10&amp;story=538825548&amp;t=progseg&amp;e=538823754&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Map More Of The Ocean Floor In Search For Missing Plane</title>
       <link>http://www.npr.org/2017/07/23/538825548/researchers-map-more-of-the-ocean-floor-in-search-for-missing-plane</link>
       <description>July 23, 2017 - The search for Malaysia Airlines Flight 370 did not turn up a plane, but it did uncover a detailed view of the ocean floor — volcanoes, shipwrecks, and mountains to rival Mount Everest.</description>
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_flight_mh370_and_ocean_floor_mapping.mp3?orgId=1&amp;topicId=1007&amp;d=50&amp;p=10&amp;story=538825548&amp;t=progseg&amp;e=538823754&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 23, 2017 - The search for Malaysia Airlines Flight 370 did not turn up a plane, but it did uncover a detailed view of the ocean floor — volcanoes, shipwrecks, and mountains to rival Mount Everest.
 
 <a href="http://www.npr.org/2017/07/23/538825548/researchers-map-more-of-the-ocean-floor-in-search-for-missing-plane">http://www.npr.org/2017/07/23/538825548/researchers-map-more-of-the-ocean-floor-in-search-for-missing-plane</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/parallels/2017/07/23/538373985/as-the-climate-changes-kenyan-herders-find-centuries-old-way-of-life-in-danger</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_kenya_-_climate_change_herders.mp3?orgId=1&amp;topicId=1126&amp;d=416&amp;p=10&amp;story=538373985&amp;t=progseg&amp;e=538823754&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>As The Climate Changes, Kenyan Herders Find Centuries-Old Way Of Life In Danger </title>
       <link>http://www.npr.org/sections/parallels/2017/07/23/538373985/as-the-climate-changes-kenyan-herders-find-centuries-old-way-of-life-in-danger</link>
       <description>July 23, 2017 - Nomadic herders in Kenya&#39;s northwest are having to move farther afield as sustained drought fundamentally changes the landscape. The result: no grasses for their herds.</description>
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_kenya_-_climate_change_herders.mp3?orgId=1&amp;topicId=1126&amp;d=416&amp;p=10&amp;story=538373985&amp;t=progseg&amp;e=538823754&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/23/img_2316_wide-41df747884cb6a81ea478ff880d0bdb75d0205e2-s800-c15.jpg"></a>
 
@@ -49,6 +52,7 @@ July 23, 2017 - Nomadic herders in Kenya's northwest are having to move farther 
 
 <a href="http://www.npr.org/sections/parallels/2017/07/23/538373985/as-the-climate-changes-kenyan-herders-find-centuries-old-way-of-life-in-danger">http://www.npr.org/sections/parallels/2017/07/23/538373985/as-the-climate-changes-kenyan-herders-find-centuries-old-way-of-life-in-danger</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/23/img_2316_wide-41df747884cb6a81ea478ff880d0bdb75d0205e2-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>416</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
