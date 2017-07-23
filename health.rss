@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2017 21:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 12:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 22 Jul 2017 21:00:51 +0000</pubDate>
+    <pubDate>Sun, 23 Jul 2017 12:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</guid>
+      <title>Beyond The Nasty Needle: Trying To Make Vaccines More Comfy And Convenient</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</link>
+      <description>July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and nasal sprays, scientists are developing alternatives to typical vaccinations.</description>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s800-c15.jpg"></a>
+
+July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and nasal sprays, scientists are developing alternatives to typical vaccinations.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient">http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_rural_californians_want_price_relief_from_gop_health_bill_but_most_wont_get_it.mp3?orgId=150&amp;topicId=1128&amp;d=236&amp;p=7&amp;story=538396570&amp;t=progseg&amp;e=538705423&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Rural Californians Want Price Relief From GOP Health Bill, But Most Won&#39;t Get It</title>
@@ -245,21 +260,6 @@ July 19, 2017 - They've been largely responsible for warding off mosquitoes at h
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil">http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a1170719.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Guardians Of The Gridlock</title>
-      <link>http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</link>
-      <description>July 19, 2017 - What can Congress get done?&#xA;&#xA; - http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a1170719.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 19, 2017 - What can Congress get done?
-
-<a href="http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock">http://the1a.org/shows/2017-07-19/guardians-of-the-gridlock</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2828</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
