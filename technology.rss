@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2017 14:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 16:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 23 Jul 2017 14:00:20 +0000</pubDate>
+    <pubDate>Sun, 23 Jul 2017 16:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_dadbot.mp3?orgId=1&amp;topicId=1019&amp;d=382&amp;p=10&amp;story=538825555&amp;t=progseg&amp;e=538823754&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Creating A &#39;Dadbot&#39; To Talk With A Dead Father</title>
       <link>http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</link>
       <description>July 23, 2017 - NPR&#39;s Lulu Garcia-Navarro talks with James Vlahos about his article in Wired. He wrote about creating a chatbot that allows him to &#34;communicate&#34; with his father who died of cancer.</description>
       <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_dadbot.mp3?orgId=1&amp;topicId=1019&amp;d=382&amp;p=10&amp;story=538825555&amp;t=progseg&amp;e=538823754&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 23, 2017 - NPR's Lulu Garcia-Navarro talks with James Vlahos about his article in Wired. He wrote about creating a chatbot that allows him to "communicate" with his father who died of cancer.
 
 <a href="http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father">http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>382</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
