@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2017 21:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 14:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 22 Jul 2017 21:00:52 +0000</pubDate>
+    <pubDate>Sun, 23 Jul 2017 14:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</guid>
+      <title>Creating A &#39;Dadbot&#39; To Talk With A Dead Father</title>
+      <link>http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</link>
+      <description>July 23, 2017 - NPR&#39;s Lulu Garcia-Navarro talks with James Vlahos about his article in Wired. He wrote about creating a chatbot that allows him to &#34;communicate&#34; with his father who died of cancer.</description>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 23, 2017 - NPR's Lulu Garcia-Navarro talks with James Vlahos about his article in Wired. He wrote about creating a chatbot that allows him to "communicate" with his father who died of cancer.
+
+<a href="http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father">http://www.npr.org/2017/07/23/538825555/creating-a-dadbot-to-talk-with-a-dead-father</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior</guid>
+      <title>Screen Saviors: Can Activism-Focused Games Change Our Behavior?</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior</link>
+      <description>July 23, 2017 - In recent years, there has been an influx of games centered on social and political issues from sexism to racism to the refugee crisis. In one of the latest, you rescue animals in a slaughterhouse.</description>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/paintball-hero-screenshot-830x467_wide-97c50ff5316168d6b7b09284728dd91968561532-s800-c15.png"></a>
+
+July 23, 2017 - In recent years, there has been an influx of games centered on social and political issues from sexism to racism to the refugee crisis. In one of the latest, you rescue animals in a slaughterhouse.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior">http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/paintball-hero-screenshot-830x467_wide-97c50ff5316168d6b7b09284728dd91968561532-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_sing_different_steve_jobs_life_becomes_an_opera.mp3?orgId=1&amp;topicId=1039&amp;d=330&amp;p=7&amp;story=538088296&amp;t=progseg&amp;e=538705423&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sing Different: Steve Jobs&#39; Life Becomes An Opera</title>
@@ -222,38 +250,6 @@ July 19, 2017 - Elon Musk is warning that artificial intelligence is a "fundamen
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence">http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17196689342515_wide-752107d0dec484ef83f7dcf47d151f4563d31e6f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_the_youtube_star_whos_teaching_kids_how_to_bake.mp3?orgId=1&amp;topicId=1053&amp;d=225&amp;p=3&amp;story=537302223&amp;t=progseg&amp;e=538037389&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The YouTube Star Who&#39;s Teaching Kids How To Bake</title>
-      <link>http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake</link>
-      <description>July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_the_youtube_star_whos_teaching_kids_how_to_bake.mp3?orgId=1&amp;topicId=1053&amp;d=225&amp;p=3&amp;story=537302223&amp;t=progseg&amp;e=538037389&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 19, 2017 - Celebrity chef Rosanna Pansino hosts the YouTube show Nerdy Nummies and has more than 8 million subscribers. Among her fans are thousands of children who want to learn how to bake.
-
-<a href="http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake">http://www.npr.org/sections/thesalt/2017/07/19/537302223/the-youtube-star-whos-teaching-kids-how-to-bake</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_with_entry_into_interest_curation_google_goes_head-to-head_with_facebook.mp3?orgId=1&amp;topicId=1019&amp;d=133&amp;p=3&amp;story=537960537&amp;t=progseg&amp;e=538037389&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>With Entry Into Interest Curation, Google Goes Head-To-Head With Facebook</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook</link>
-      <description>July 19, 2017 - In the feed, users will get a stream of news, photos and more based on their search histories and interests across Google products. The company promises a different, less friend-filtered experience.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170719_me_with_entry_into_interest_curation_google_goes_head-to-head_with_facebook.mp3?orgId=1&amp;topicId=1019&amp;d=133&amp;p=3&amp;story=537960537&amp;t=progseg&amp;e=538037389&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/19/ap_16278639324230_wide-e2bddbafe4504981f1248959b7256f5cccd4209e-s800-c15.jpg"></a>
-
-July 19, 2017 - In the feed, users will get a stream of news, photos and more based on their search histories and interests across Google products. The company promises a different, less friend-filtered experience.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook">http://www.npr.org/sections/alltechconsidered/2017/07/19/537960537/with-entry-into-interest-curation-google-goes-head-to-head-with-facebook</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/ap_16278639324230_wide-e2bddbafe4504981f1248959b7256f5cccd4209e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>133</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
