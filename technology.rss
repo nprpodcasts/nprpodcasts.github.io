@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 14:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 22:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 14:05:52 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 22:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_apple_unveils_56_new_emoji.mp3?orgId=1&amp;topicId=1049&amp;d=211&amp;p=2&amp;story=539087926&amp;t=progseg&amp;e=539016165&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Apple Unveils New Emoji Designs — Including T. Rex And A Zombie</title>
+      <link>http://www.npr.org/2017/07/24/539087926/apple-unveils-56-new-emoji-including-t-rex-and-a-zombie</link>
+      <description>July 24, 2017 - The world is getting new emoji. Emjoi expert Jeremy Burge talks with Robert Siegel about who gets to decide what icons join the emoji lexicon and how the meaning of those icons can change.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_apple_unveils_56_new_emoji.mp3?orgId=1&amp;topicId=1049&amp;d=211&amp;p=2&amp;story=539087926&amp;t=progseg&amp;e=539016165&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 24, 2017 - The world is getting new emoji. Emjoi expert Jeremy Burge talks with Robert Siegel about who gets to decide what icons join the emoji lexicon and how the meaning of those icons can change.
+
+<a href="http://www.npr.org/2017/07/24/539087926/apple-unveils-56-new-emoji-including-t-rex-and-a-zombie">http://www.npr.org/2017/07/24/539087926/apple-unveils-56-new-emoji-including-t-rex-and-a-zombie</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>211</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_are_helicopter_parents_ruining_summer_camp.mp3?orgId=1&amp;topicId=1013&amp;d=229&amp;p=2&amp;story=533059271&amp;t=progseg&amp;e=539016165&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Are Helicopter Parents Ruining Summer Camp?</title>
       <link>http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</link>
       <description>July 24, 2017 - In a wired world, summer camp is one of the last phone-free zones. But campers, staff and especially parents don&#39;t always appreciate the message.</description>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_are_helicopter_parents_ruining_summer_camp.mp3?orgId=1&amp;topicId=1013&amp;d=229&amp;p=2&amp;story=533059271&amp;t=progseg&amp;e=539016165&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/npr_helicopter_parents_ogawa_2017_wide-1e7d4fd52880883522d30addb3e32e70efb23fea-s800-c15.jpg"></a>
 
@@ -36,6 +52,7 @@ July 24, 2017 - In a wired world, summer camp is one of the last phone-free zone
 
 <a href="http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp">http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/03/npr_helicopter_parents_ogawa_2017_wide-1e7d4fd52880883522d30addb3e32e70efb23fea-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -46,12 +63,12 @@ July 24, 2017 - In a wired world, summer camp is one of the last phone-free zone
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_bikes_may_have_to_talk_to_self-driving_cars_for_safetys_sake.mp3?orgId=360&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=537746346&amp;t=progseg&amp;e=538969920&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-429ec14d410329c5a61f47b76be84afa69667da9-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-b00230b4892c4daa0dc40c31fd7030ea2ac48b11-s800-c15.jpg"></a>
 
 July 24, 2017 - Autonomous vehicles have gotten pretty good at detecting other cars and pedestrians. But "seeing" bikes and predicting what they'll do is still a challenge. The answer may lie in bikes themselves.
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/24/537746346/bikes-may-have-to-talk-to-self-driving-cars-for-safetys-sake">http://www.npr.org/sections/alltechconsidered/2017/07/24/537746346/bikes-may-have-to-talk-to-self-driving-cars-for-safetys-sake</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-429ec14d410329c5a61f47b76be84afa69667da9-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-b00230b4892c4daa0dc40c31fd7030ea2ac48b11-s3000-c15.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,21 +256,6 @@ July 20, 2017 - The ban originally affected 10 airports and nine airlines, mostl
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east">http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-656089066_wide-e3b5ad89690f4a7b0004e04c3a9ef7b808dc6589-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_congress_struggles_to_keep_up_with_regulations_for_self-driving_cars.mp3?orgId=1&amp;topicId=1014&amp;d=134&amp;p=2&amp;story=538148767&amp;t=progseg&amp;e=538051467&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Congress Struggles To Keep Up With Regulations For Self-Driving Cars</title>
-      <link>http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</link>
-      <description>July 19, 2017 - Cars that drive themselves are a thing of the not-so-distant future. But Congress is having a hard time keeping up regulations to go with the technological change.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_congress_struggles_to_keep_up_with_regulations_for_self-driving_cars.mp3?orgId=1&amp;topicId=1014&amp;d=134&amp;p=2&amp;story=538148767&amp;t=progseg&amp;e=538051467&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 19, 2017 - Cars that drive themselves are a thing of the not-so-distant future. But Congress is having a hard time keeping up regulations to go with the technological change.
-
-<a href="http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars">http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>134</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

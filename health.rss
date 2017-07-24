@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 21:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 22:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 21:00:07 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 22:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</guid>
+      <title>Study: Memphis Support Program For New Moms Especially Helps Boys</title>
+      <link>http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</link>
+      <description>July 24, 2017 - Nurse-Family Partnership programs provide low-income mothers with checkups. Robert Siegel speaks with Nobel Laureate James Heckman on the benefits of NFP, which is found to especially help boys.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 24, 2017 - Nurse-Family Partnership programs provide low-income mothers with checkups. Robert Siegel speaks with Nobel Laureate James Heckman on the benefits of NFP, which is found to especially help boys.
+
+<a href="http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys">http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</guid>
       <title>The Senate Health Care Vote, Simplified</title>
@@ -40,7 +53,7 @@ July 24, 2017 - President Trump is pushing the Senate to repeal and replace Obam
     </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</guid>
-      <title>Crisis Pregnancy Centers Help Pregnant Women Enroll In Medicaid</title>
+      <title>How Crisis Pregnancy Center Clients Rely On Medicaid</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</link>
       <description>July 24, 2017 - Medicaid pays for nearly half the births in the U.S., and centers that counsel women against abortion often help pregnant women enroll in Medicaid so they don&#39;t have to worry about health care costs.</description>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
@@ -239,23 +252,6 @@ July 20, 2017 - The Trump administration wants to cut the U.S. global health bud
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs">http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-723498243_wide-fc07d665bf13ca0502b53bb14064608db0ba9518-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_just_thinking_youre_slacking_on_exercise_could_boost_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=233&amp;p=2&amp;story=538157820&amp;t=progseg&amp;e=538476163&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Just Thinking You&#39;re Slacking On Exercise Could Boost Risk Of Death</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</link>
-      <description>July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they&#39;re actually getting the same amount of exercise. The social comparison could kill motivation, researchers say.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_just_thinking_youre_slacking_on_exercise_could_boost_risk_of_death.mp3?orgId=1&amp;topicId=1128&amp;d=233&amp;p=2&amp;story=538157820&amp;t=progseg&amp;e=538476163&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s800-c15.jpg"></a>
-
-July 20, 2017 - People who think others are more active tend to have shorter lifespans, even if they're actually getting the same amount of exercise. The social comparison could kill motivation, researchers say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death">http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>233</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
