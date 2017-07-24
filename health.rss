@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 19:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 16:00:11 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 19:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</guid>
+      <title>Crisis Pregnancy Centers Help Pregnant Women Enroll In Medicaid</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</link>
+      <description>July 24, 2017 - Medicaid pays for nearly half the births in the U.S., and centers that counsel women against abortion often help pregnant women enroll in Medicaid so they don&#39;t have to worry about health care costs.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/img_0341-2_wide-b865e901e5ca7895d948839cb6944feafc59f2df-s800-c15.jpg"></a>
+
+July 24, 2017 - Medicaid pays for nearly half the births in the U.S., and centers that counsel women against abortion often help pregnant women enroll in Medicaid so they don't have to worry about health care costs.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid">http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/img_0341-2_wide-b865e901e5ca7895d948839cb6944feafc59f2df-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/24/539020732/parents-of-terminally-ill-british-baby-charlie-gard-end-legal-fight</guid>
       <title>Parents Of Terminally Ill British Baby Charlie Gard End Legal Fight</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/24/539020732/parents-of-terminally-ill-british-baby-charlie-gard-end-legal-fight</link>
       <description>July 24, 2017 - The couple&#39;s lawyer told the London High Court that new medical tests have shown that an experimental treatment would not help at this point, ending their legal fight to transport him to the U.S.</description>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/24/ap_17205465299081_wide-7d44f4b15b913b5fe3b69f783df3997a68527341-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/24/ap_17205465299081_wide-91c31211c9505d9cb012a67ffa8239e8e19b5cba-s800-c15.jpg"></a>
 
 July 24, 2017 - The couple's lawyer told the London High Court that new medical tests have shown that an experimental treatment would not help at this point, ending their legal fight to transport him to the U.S.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/24/539020732/parents-of-terminally-ill-british-baby-charlie-gard-end-legal-fight">http://www.npr.org/sections/thetwo-way/2017/07/24/539020732/parents-of-terminally-ill-british-baby-charlie-gard-end-legal-fight</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/ap_17205465299081_wide-7d44f4b15b913b5fe3b69f783df3997a68527341-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/ap_17205465299081_wide-91c31211c9505d9cb012a67ffa8239e8e19b5cba-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,23 +258,6 @@ July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to tr
 <a href="http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs">http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>189</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_uncertainty_over_obamacare_funding_leaves_insurance_companies_in_limbo.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=538099050&amp;t=progseg&amp;e=538051467&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Uncertainty Over Obamacare Leaves Next Year&#39;s Rates In Limbo</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo</link>
-      <description>July 19, 2017 - While Washington ponders the future of the Affordable Care Act, health insurers need to decide right now what to charge people for health insurance in 2018. &#34;It&#39;s insane,&#34; says one CEO.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170719_atc_uncertainty_over_obamacare_funding_leaves_insurance_companies_in_limbo.mp3?orgId=1&amp;topicId=1128&amp;d=260&amp;p=2&amp;story=538099050&amp;t=progseg&amp;e=538051467&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/ap_17138695735576_wide-3acb40bf841452aa65c0c551774c44c25c9dece1-s800-c15.jpg"></a>
-
-July 19, 2017 - While Washington ponders the future of the Affordable Care Act, health insurers need to decide right now what to charge people for health insurance in 2018. "It's insane," says one CEO.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo">http://www.npr.org/sections/health-shots/2017/07/19/538099050/uncertainty-over-obamacare-leaves-next-years-rates-in-limbo</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/ap_17138695735576_wide-3acb40bf841452aa65c0c551774c44c25c9dece1-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>260</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
