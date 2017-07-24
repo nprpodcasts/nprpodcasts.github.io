@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2017 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 14:05:52 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 23 Jul 2017 16:00:06 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 14:05:52 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</guid>
+      <title>Are Helicopter Parents Ruining Summer Camp?</title>
+      <link>http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</link>
+      <description>July 24, 2017 - In a wired world, summer camp is one of the last phone-free zones. But campers, staff and especially parents don&#39;t always appreciate the message.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/03/npr_helicopter_parents_ogawa_2017_wide-1e7d4fd52880883522d30addb3e32e70efb23fea-s800-c15.jpg"></a>
+
+July 24, 2017 - In a wired world, summer camp is one of the last phone-free zones. But campers, staff and especially parents don't always appreciate the message.
+
+<a href="http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp">http://www.npr.org/sections/ed/2017/07/24/533059271/are-helicopter-parents-ruining-summer-camp</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/npr_helicopter_parents_ogawa_2017_wide-1e7d4fd52880883522d30addb3e32e70efb23fea-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_bikes_may_have_to_talk_to_self-driving_cars_for_safetys_sake.mp3?orgId=360&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=537746346&amp;t=progseg&amp;e=538969920&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Bikes May Have To Talk To Self-Driving Cars For Safety&#39;s Sake</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/24/537746346/bikes-may-have-to-talk-to-self-driving-cars-for-safetys-sake</link>
+      <description>July 24, 2017 - Autonomous vehicles have gotten pretty good at detecting other cars and pedestrians. But &#34;seeing&#34; bikes and predicting what they&#39;ll do is still a challenge. The answer may lie in bikes themselves.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_bikes_may_have_to_talk_to_self-driving_cars_for_safetys_sake.mp3?orgId=360&amp;topicId=1019&amp;d=219&amp;p=3&amp;story=537746346&amp;t=progseg&amp;e=538969920&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-429ec14d410329c5a61f47b76be84afa69667da9-s800-c15.jpg"></a>
+
+July 24, 2017 - Autonomous vehicles have gotten pretty good at detecting other cars and pedestrians. But "seeing" bikes and predicting what they'll do is still a challenge. The answer may lie in bikes themselves.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/24/537746346/bikes-may-have-to-talk-to-self-driving-cars-for-safetys-sake">http://www.npr.org/sections/alltechconsidered/2017/07/24/537746346/bikes-may-have-to-talk-to-self-driving-cars-for-safetys-sake</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/img_8841_wide-429ec14d410329c5a61f47b76be84afa69667da9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>219</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170723_wesun_dadbot.mp3?orgId=1&amp;topicId=1019&amp;d=382&amp;p=10&amp;story=538825555&amp;t=progseg&amp;e=538823754&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Creating A &#39;Dadbot&#39; To Talk With A Dead Father</title>
@@ -222,36 +254,6 @@ July 20, 2017 - The ban originally affected 10 airports and nine airlines, mostl
 <a href="http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars">http://www.npr.org/2017/07/19/538148767/congress-struggles-to-keep-up-with-regulations-for-self-driving-cars</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>134</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Getting Really Smart About Artificial Intelligence</title>
-      <link>http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</link>
-      <description>July 19, 2017 - AI isn&#39;t on the way … it&#39;s already here.&#xA;&#xA; - http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170719.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 19, 2017 - AI isn't on the way … it's already here.
-
-<a href="http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence">http://the1a.org/shows/2017-07-19/getting-real-smart-about-artificial-intelligence</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2827</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</guid>
-      <title>Musk&#39;s Warning Sparks Call For Regulating Artificial Intelligence </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</link>
-      <description>July 19, 2017 - Elon Musk is warning that artificial intelligence is a &#34;fundamental existential risk for human civilization.&#34; Colorado Gov. John Hickenlooper is looking into how states can respond.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/18/ap_17196689342515_wide-752107d0dec484ef83f7dcf47d151f4563d31e6f-s800-c15.jpg"></a>
-
-July 19, 2017 - Elon Musk is warning that artificial intelligence is a "fundamental existential risk for human civilization." Colorado Gov. John Hickenlooper is looking into how states can respond.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence">http://www.npr.org/sections/alltechconsidered/2017/07/19/537961841/musks-warning-sparks-call-for-regulating-artificial-intelligence</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/18/ap_17196689342515_wide-752107d0dec484ef83f7dcf47d151f4563d31e6f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

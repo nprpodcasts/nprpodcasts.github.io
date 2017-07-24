@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2017 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 14:05:55 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 23 Jul 2017 12:00:25 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 14:05:55 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Female Athletes Are Closing The Gender Gap When It Comes To Concussions</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</link>
+      <description>July 24, 2017 - Gina &#34;Danger&#34; Mazany is a professional mixed martial arts athlete, and she&#39;s helping researchers learn more about head injuries and the female brain.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s800-c15.jpg"></a>
+
+July 24, 2017 - Gina "Danger" Mazany is a professional mixed martial arts athlete, and she's helping researchers learn more about head injuries and the female brain.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions">http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>399</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</guid>
       <title>Beyond The Nasty Needle: Trying To Make Vaccines More Comfy And Convenient</title>
@@ -245,21 +262,6 @@ July 19, 2017 - The Republican health care bill failed in part because of opposi
 <a href="http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill">http://www.npr.org/sections/health-shots/2017/07/19/537208601/her-own-medical-future-at-stake-a-child-stormed-capitol-hill</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/img_0209_wide-48be3013a55e4a7c9ae21bef20b4a97e6a9c2572-s3000-c15.jpg"></itunes:image>
       <itunes:duration>287</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</guid>
-      <title>Why Zika Is Especially Hard On The Women Of Brazil</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</link>
-      <description>July 19, 2017 - They&#39;ve been largely responsible for warding off mosquitoes at home — and caring for the children born with microcephaly. A new study says that the government has not given them the support they need.</description>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s800-c15.jpeg"></a>
-
-July 19, 2017 - They've been largely responsible for warding off mosquitoes at home — and caring for the children born with microcephaly. A new study says that the government has not given them the support they need.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil">http://www.npr.org/sections/goatsandsoda/2017/07/19/537062303/why-zika-is-especially-hard-on-the-women-of-brazil</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/13/image002_wide-ab3e9848bc14a5da11bc78db50614e27d1be69b9-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
