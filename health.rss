@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 19:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 21:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 19:00:07 +0000</pubDate>
+    <pubDate>Mon, 24 Jul 2017 21:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</guid>
+      <title>The Senate Health Care Vote, Simplified</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</link>
+      <description>July 24, 2017 - President Trump is pushing the Senate to repeal and replace Obamacare this week. But with multiple bills in play, it&#39;s far from clear what the Senate would vote on. Here&#39;s a recap of the options.</description>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/24/gettyimages-511823665_wide-a14c1ee0ba696aee9347cbe2a56660653f820068-s800-c15.jpg"></a>
+
+July 24, 2017 - President Trump is pushing the Senate to repeal and replace Obamacare this week. But with multiple bills in play, it's far from clear what the Senate would vote on. Here's a recap of the options.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified">http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/gettyimages-511823665_wide-a14c1ee0ba696aee9347cbe2a56660653f820068-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/24/538556088/crisis-pregnancy-centers-help-pregnant-women-enroll-in-medicaid</guid>
       <title>Crisis Pregnancy Centers Help Pregnant Women Enroll In Medicaid</title>
@@ -241,23 +256,6 @@ July 20, 2017 - People who think others are more active tend to have shorter lif
 <a href="http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death">http://www.npr.org/sections/health-shots/2017/07/20/538157820/just-thinking-youre-slacking-on-exercise-could-boost-risk-of-death</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-5670917772_wide-87e8abda80a3bd8b2dd7202833bcab4c854341a3-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_opioid_treatment_funds_in_senate_bill_would_fall_far_short_of_needs.mp3?orgId=442&amp;topicId=1128&amp;d=189&amp;p=2&amp;story=537661375&amp;t=progseg&amp;e=538476163&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Opioid Treatment Funds In Senate Bill Would Fall Far Short Of Needs</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</link>
-      <description>July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn&#39;t make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_opioid_treatment_funds_in_senate_bill_would_fall_far_short_of_needs.mp3?orgId=442&amp;topicId=1128&amp;d=189&amp;p=2&amp;story=537661375&amp;t=progseg&amp;e=538476163&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s800-c15.jpg"></a>
-
-July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn't make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs">http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>189</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
