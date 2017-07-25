@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 20:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 23:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 20:00:18 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 23:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_to_keep_drivers_from_leaving_uber_tries_to_treat_them_better.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=539227139&amp;t=progseg&amp;e=539189870&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>To Keep Drivers From Leaving, Uber Tries To Treat Them Better</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better</link>
       <description>July 25, 2017 - Uber is changing its harsh termination policies and launching a hotline for drivers in distress. Leaders at the tech company are trying to repair the relationship they say is &#34;broken.&#34;</description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_to_keep_drivers_from_leaving_uber_tries_to_treat_them_better.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=539227139&amp;t=progseg&amp;e=539189870&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/25/uber-2_wide-25526943a4d307777b39dc2b77e67cc31af86843-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ July 25, 2017 - Uber is changing its harsh termination policies and launching a 
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better">http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/uber-2_wide-25526943a4d307777b39dc2b77e67cc31af86843-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

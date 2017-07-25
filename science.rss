@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 23:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 17:00:09 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 23:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Student Athletes Who Specialize Early Are Injured More Often, Study Finds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</link>
+      <description>July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn&#39;t specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s800-c15.jpg"></a>
+
+July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn't specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_hidden_brain_cigarette_taxes.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=174&amp;p=3&amp;story=539183590&amp;t=progseg&amp;e=539182488&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hidden Brain: How Cigarette Taxes Affect Food Buying</title>
@@ -241,23 +258,6 @@ July 20, 2017 - Governments dole out millions each year. Researchers debate whet
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees">http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/19/baboon-in-farmers-jackfruit-tree_wide-c8fc81b6e4447a1609c38a1987d5588bdc207139-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Effort To Make Environmental Science &#39;Transparent&#39; Worries Scientists</title>
-      <link>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</link>
-      <description>July 20, 2017 - There&#39;s a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s800-c15.jpg"></a>
-
-July 20, 2017 - There's a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.
-
-<a href="http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists">http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
