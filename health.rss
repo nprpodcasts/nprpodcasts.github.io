@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 16:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 20:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 16:00:13 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 20:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/25/539270923/senators-to-vote-on-whether-to-proceed-with-health-care-debate</guid>
+      <title>Senators Vote To Proceed With Health Care Debate</title>
+      <link>http://www.npr.org/2017/07/25/539270923/senators-to-vote-on-whether-to-proceed-with-health-care-debate</link>
+      <description>July 25, 2017 - Tuesday&#39;s vote was on a procedural step that opens the door to formal debate — but on what remains to be seen.&#xA;&#xA; - http://www.npr.org/2017/07/25/539270923/senators-to-vote-on-whether-to-proceed-with-health-care-debate</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/25/gettyimages-822308366_wide-929bdad3a28ffa8cd296c1c6fce0dd06ac2c7546-s800-c15.jpg"></a>
+
+July 25, 2017 - Tuesday's vote was on a procedural step that opens the door to formal debate — but on what remains to be seen.
+
+<a href="http://www.npr.org/2017/07/25/539270923/senators-to-vote-on-whether-to-proceed-with-health-care-debate">http://www.npr.org/2017/07/25/539270923/senators-to-vote-on-whether-to-proceed-with-health-care-debate</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/gettyimages-822308366_wide-929bdad3a28ffa8cd296c1c6fce0dd06ac2c7546-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170725-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>New Hope For HIV Treatment?</title>
+      <link>http://the1a.org/shows/2017-07-25/new-hope-for-hiv-treatment</link>
+      <description>July 25, 2017 - A case study on a girl in South Africa could provide the key to new ways of treating HIV. She is the latest of one of three childhood cases of the virus that have gone into extended remission. What does this mean for the future of treatment?</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170725-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 25, 2017 - A case study on a girl in South Africa could provide the key to new ways of treating HIV. She is the latest of one of three childhood cases of the virus that have gone into extended remission. What does this mean for the future of treatment?
+
+<a href="http://the1a.org/shows/2017-07-25/new-hope-for-hiv-treatment">http://the1a.org/shows/2017-07-25/new-hope-for-hiv-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>718</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/25/539198429/study-cte-found-in-nearly-all-donated-nfl-player-brains</guid>
       <title>Study: CTE Found In Nearly All Donated NFL Player Brains</title>
@@ -222,38 +252,6 @@ July 20, 2017 - Congress has been trying to repeal and/or replace the Affordable
 <a href="http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care">http://www.npr.org/2017/07/20/538370615/senate-republicans-look-down-uncertain-path-on-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>240</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>GOP Effort To Make Environmental Science &#39;Transparent&#39; Worries Scientists</title>
-      <link>http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</link>
-      <description>July 20, 2017 - There&#39;s a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_gop_efforts_to_make_environmental_science_transparent_worries_scientists.mp3?orgId=1&amp;topicId=1007&amp;d=234&amp;p=2&amp;story=537243392&amp;t=progseg&amp;e=538256344&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s800-c15.jpg"></a>
-
-July 20, 2017 - There's a push in Congress to rewrite how science gets used in regulation — and that has researchers worried. The industry-backed bill would let business nitpick raw data and ignore valid results.
-
-<a href="http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists">http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/20/538343377/newest-senate-health-care-overhaul-to-increase-uninsured-by-22-million-cbo-says</guid>
-      <title>Newest Senate Health Care Overhaul Would Increase Uninsured By 22 Million, CBO Says</title>
-      <link>http://www.npr.org/2017/07/20/538343377/newest-senate-health-care-overhaul-to-increase-uninsured-by-22-million-cbo-says</link>
-      <description>July 20, 2017 - The latest report has similar findings to prior estimates: big increases in the uninsured population, with some deficit reduction. But there&#39;s a big caveat: This bill will likely change.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/gettyimages-818959988_wide-8538276d37c7c969cc314581137f3154c4df0820-s800-c15.jpg"></a>
-
-July 20, 2017 - The latest report has similar findings to prior estimates: big increases in the uninsured population, with some deficit reduction. But there's a big caveat: This bill will likely change.
-
-<a href="http://www.npr.org/2017/07/20/538343377/newest-senate-health-care-overhaul-to-increase-uninsured-by-22-million-cbo-says">http://www.npr.org/2017/07/20/538343377/newest-senate-health-care-overhaul-to-increase-uninsured-by-22-million-cbo-says</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-818959988_wide-8538276d37c7c969cc314581137f3154c4df0820-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
