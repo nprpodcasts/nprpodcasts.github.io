@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 22:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 13:00:56 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 22:00:22 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 13:00:56 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Alabama Woman Stuck In NYC Traffic In 1902 Invented The Windshield Wiper</title>
+      <link>http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</link>
+      <description>July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her &#34;window cleaning device.&#34;</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s800-c15.jpg"></a>
+
+July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her "window cleaning device."
+
+<a href="http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper">http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>193</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_apple_unveils_56_new_emoji.mp3?orgId=1&amp;topicId=1049&amp;d=211&amp;p=2&amp;story=539087926&amp;t=progseg&amp;e=539016165&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Apple Unveils New Emoji Designs — Including T. Rex And A Zombie</title>
@@ -241,21 +258,6 @@ July 20, 2017 - There's still much to do before getting formal approval, the ent
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop">http://www.npr.org/sections/thetwo-way/2017/07/20/538328487/elon-musk-says-he-has-verbal-ok-to-build-n-y-d-c-hyperloop</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/hyperloop_2017-04-06_wide-6f9a4867a64a420f0d147b3055dc1627c726ca79-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east</guid>
-      <title>U.S. Ends Laptop Ban On Flights From Middle East</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east</link>
-      <description>July 20, 2017 - The ban originally affected 10 airports and nine airlines, mostly Middle Eastern carriers. Meanwhile, the U.S. has issued additional security requirements affecting some 280 international airports.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/20/gettyimages-656089066_wide-e3b5ad89690f4a7b0004e04c3a9ef7b808dc6589-s800-c15.jpg"></a>
-
-July 20, 2017 - The ban originally affected 10 airports and nine airlines, mostly Middle Eastern carriers. Meanwhile, the U.S. has issued additional security requirements affecting some 280 international airports.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east">http://www.npr.org/sections/thetwo-way/2017/07/20/538289182/u-s-ends-laptop-ban-on-flights-from-middle-east</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-656089066_wide-e3b5ad89690f4a7b0004e04c3a9ef7b808dc6589-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

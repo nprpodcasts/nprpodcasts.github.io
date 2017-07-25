@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 20:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 13:00:57 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 20:00:20 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 13:00:57 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,53 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</guid>
+      <title>What Are The Planet&#39;s Real &#39;Talking&#39; Chimps And Gorillas Saying?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</link>
+      <description>July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR&#39;s Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s800-c15.jpg"></a>
+
+July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR's Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying">http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_hidden_brain_cigarette_taxes.mp3?orgId=1&amp;topicId=1024&amp;d=174&amp;p=3&amp;story=539183590&amp;t=progseg&amp;e=539182488&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Hidden Brain: How Cigarette Taxes Affect Food Buying</title>
+      <link>http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes</link>
+      <description>July 25, 2017 - A new study shows a connection between cigarette taxes and food stamps. When cigarette taxes go up, smokers end up spending more of their income on cigarettes and that leaves less money for food.</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_hidden_brain_cigarette_taxes.mp3?orgId=1&amp;topicId=1024&amp;d=174&amp;p=3&amp;story=539183590&amp;t=progseg&amp;e=539182488&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 25, 2017 - A new study shows a connection between cigarette taxes and food stamps. When cigarette taxes go up, smokers end up spending more of their income on cigarettes and that leaves less money for food.
+
+<a href="http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes">http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>174</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Alabama Woman Stuck In NYC Traffic In 1902 Invented The Windshield Wiper</title>
+      <link>http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</link>
+      <description>July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her &#34;window cleaning device.&#34;</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s800-c15.jpg"></a>
+
+July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her "window cleaning device."
+
+<a href="http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper">http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>193</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/24/539066277/a-new-study-shows-the-moons-interior-could-contain-water</guid>
       <title>A New Study Shows The Moon&#39;s Interior Could Contain Water</title>
@@ -61,12 +108,12 @@ July 24, 2017 - Sick of your crowded neighborhood pool? A new study shows there 
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s800-c15.jpg"></a>
 
 July 24, 2017 - Gina "Danger" Mazany is a professional mixed martial arts athlete, and she's helping researchers learn more about head injuries and the female brain.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions">http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>399</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -209,55 +256,6 @@ July 20, 2017 - There's a push in Congress to rewrite how science gets used in r
 <a href="http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists">http://www.npr.org/2017/07/20/537243392/gop-effort-to-make-environmental-science-transparent-worries-scientists</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/ap_170827858889251_wide-b597944f40b5b9378387e44a5b9e8519255ded0a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_john_mccain_was_diagnosed_with_a_glioblastoma_among_the_deadliest_of_cancers.mp3?orgId=1&amp;topicId=1128&amp;d=192&amp;p=2&amp;story=538295015&amp;t=progseg&amp;e=538256344&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>John McCain Was Diagnosed With A Glioblastoma, Among The Deadliest Of Cancers</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</link>
-      <description>July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year in the U.S. Fewer than a third of them will survive beyond two years.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_john_mccain_was_diagnosed_with_a_glioblastoma_among_the_deadliest_of_cancers.mp3?orgId=1&amp;topicId=1128&amp;d=192&amp;p=2&amp;story=538295015&amp;t=progseg&amp;e=538256344&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s800-c15.jpg"></a>
-
-July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year in the U.S. Fewer than a third of them will survive beyond two years.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers">http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>192</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538092965/elephant-seals-can-recognize-rhythm-and-pitch</guid>
-      <title>Elephant Seals Can Recognize Rhythm And Pitch</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/20/538092965/elephant-seals-can-recognize-rhythm-and-pitch</link>
-      <description>July 20, 2017 - A new study reveals that elephant seals memorize the rhythm and pitch of individual voices. That means that the massive sea mammals know who&#39;s who, just by the sound of their voice.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/bloody-twosome_wide-f52c0d28aba70376d8efe4340ff8c0e026eed5d0-s800-c15.jpg"></a>
-
-July 20, 2017 - A new study reveals that elephant seals memorize the rhythm and pitch of individual voices. That means that the massive sea mammals know who's who, just by the sound of their voice.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538092965/elephant-seals-can-recognize-rhythm-and-pitch">http://www.npr.org/sections/thetwo-way/2017/07/20/538092965/elephant-seals-can-recognize-rhythm-and-pitch</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/bloody-twosome_wide-f52c0d28aba70376d8efe4340ff8c0e026eed5d0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_opioid_treatment_funds_in_senate_bill_would_fall_far_short_of_needs.mp3?orgId=442&amp;topicId=1128&amp;d=189&amp;p=2&amp;story=537661375&amp;t=progseg&amp;e=538476163&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Opioid Treatment Funds In Senate Bill Would Fall Far Short Of Needs</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</link>
-      <description>July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn&#39;t make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_opioid_treatment_funds_in_senate_bill_would_fall_far_short_of_needs.mp3?orgId=442&amp;topicId=1128&amp;d=189&amp;p=2&amp;story=537661375&amp;t=progseg&amp;e=538476163&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s800-c15.jpg"></a>
-
-July 20, 2017 - A Senate proposal to repeal Obamacare includes $45 billion to treat opioid addiction. But it wouldn't make up for deep cuts to Medicaid in that same bill that has funded much of that treatment.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs">http://www.npr.org/sections/health-shots/2017/07/20/537661375/opioid-treatment-funds-in-senate-bill-would-fall-far-short-of-needs</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/gettyimages-128628535-2_wide-b4687515783dc2ec9b20862d5bcdc2dd9df37fd9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>189</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

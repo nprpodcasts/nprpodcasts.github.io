@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 13:00:58 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 24 Jul 2017 23:00:11 +0000</pubDate>
+    <pubDate>Tue, 25 Jul 2017 13:00:58 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</guid>
+      <title>What Are The Planet&#39;s Real &#39;Talking&#39; Chimps And Gorillas Saying?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</link>
+      <description>July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR&#39;s Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.</description>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s800-c15.jpg"></a>
+
+July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR's Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying">http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_nurse-family_partnership.mp3?orgId=1&amp;topicId=1027&amp;d=283&amp;p=2&amp;story=539087970&amp;t=progseg&amp;e=539016165&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Study: Memphis Support Program For New Moms Especially Helps Boys</title>
@@ -93,12 +108,12 @@ July 24, 2017 - The couple's lawyer told the London High Court that new medical 
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s800-c15.jpg"></a>
 
 July 24, 2017 - Gina "Danger" Mazany is a professional mixed martial arts athlete, and she's helping researchers learn more about head injuries and the female brain.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions">http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-f5825a0a11a04b8c9c9cda3589918f7b513d2522-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>399</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -241,21 +256,6 @@ July 20, 2017 - About 12,000 people are diagnosed with a glioblastoma each year 
 <a href="http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers">http://www.npr.org/sections/health-shots/2017/07/20/538295015/john-mccain-was-diagnosed-with-a-glioblastoma-among-the-deadliest-of-cancers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/g_wide-e47a339c1cb589713600d10ace054405f58e20a6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>192</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</guid>
-      <title>The Side Effect Of That New Malaria Drug? American Jobs</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</link>
-      <description>July 20, 2017 - The Trump administration wants to cut the U.S. global health budget. A new study puts a different spin on the spending.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/19/gettyimages-723498243_wide-fc07d665bf13ca0502b53bb14064608db0ba9518-s800-c15.jpg"></a>
-
-July 20, 2017 - The Trump administration wants to cut the U.S. global health budget. A new study puts a different spin on the spending.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs">http://www.npr.org/sections/goatsandsoda/2017/07/20/538114370/the-side-effect-of-that-new-malaria-drug-american-jobs</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/gettyimages-723498243_wide-fc07d665bf13ca0502b53bb14064608db0ba9518-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
