@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 15:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 23:00:19 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 15:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,12 +24,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</guid>
+      <title>New Abortion Restrictions Head To Missouri Governor&#39;s Office</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</link>
+      <description>July 26, 2017 - &#34;Today is a great victory for pregnancy care centers,&#34;  Gov. Eric Greitens said after lawmakers approved the legislation.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 26, 2017 - "Today is a great victory for pregnancy care centers,"  Gov. Eric Greitens said after lawmakers approved the legislation.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office">http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Student Athletes Who Specialize Early Are Injured More Often, Study Finds</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</link>
       <description>July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn&#39;t specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.</description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s800-c15.jpg"></a>
 
@@ -37,7 +50,7 @@ July 25, 2017 - High school athletes who tended to focus on one sport were 50 pe
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
+      <itunes:duration>208</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +254,6 @@ July 21, 2017 - It depends what's causing the inflammation and how long it lasts
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you">http://www.npr.org/sections/health-shots/2017/07/21/538377221/is-inflammation-bad-for-you-or-good-for-you</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-172592966_wide-a1e8a6fe1fd2bf41c451b0d243b4749c0628cfcf-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</guid>
-      <title>A Wake-Up Call: Coffee Recalled By FDA For Having Viagra-Like Ingredient</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</link>
-      <description>July 21, 2017 - Regulators took issue with the tortuously named &#34;New of Kopi Jantan Tradisional Natural Herbs Coffee,&#34; which didn&#39;t declare a chemical akin to the erectile dysfunction drug&#39;s active ingredient.</description>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s800-c15.jpg"></a>
-
-July 21, 2017 - Regulators took issue with the tortuously named "New of Kopi Jantan Tradisional Natural Herbs Coffee," which didn't declare a chemical akin to the erectile dysfunction drug's active ingredient.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient">http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

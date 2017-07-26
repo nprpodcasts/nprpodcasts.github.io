@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 23:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 15:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 23:00:18 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 15:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,12 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</guid>
+      <title>3, 2, 1 ... Bake Off! The Mission To Make Bread In Space</title>
+      <link>http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</link>
+      <description>July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous. But bread is a big deal in Germany, so scientists and engineers there are teaming up to create an oven and dough fit for microgravity.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/astronaut_bis_wide-23484627065141b462c212a4af84372c6503a8a6-s800-c15.jpg"></a>
+
+July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous. But bread is a big deal in Germany, so scientists and engineers there are teaming up to create an oven and dough fit for microgravity.
+
+<a href="http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space">http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/astronaut_bis_wide-23484627065141b462c212a4af84372c6503a8a6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</guid>
+      <title>After A Year In Space, The Air Hasn&#39;t Gone Out Of NASA&#39;s Inflated Module</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</link>
+      <description>July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it&#39;s doing well in the harsh environment.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-a2fb2ef509fbadd84e76a602b4ed8171c89f402b-s800-c15.jpg"></a>
+
+July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it's doing well in the harsh environment.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module">http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-a2fb2ef509fbadd84e76a602b4ed8171c89f402b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Student Athletes Who Specialize Early Are Injured More Often, Study Finds</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</link>
       <description>July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn&#39;t specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.</description>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s800-c15.jpg"></a>
 
@@ -37,7 +67,7 @@ July 25, 2017 - High school athletes who tended to focus on one sport were 50 pe
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
+      <itunes:duration>208</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -228,36 +258,6 @@ July 21, 2017 - Regulators took issue with the tortuously named "New of Kopi Jan
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient">http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/21/538470321/to-shrink-the-mosquito-population-scientists-are-releasing-20-million-of-them</guid>
-      <title>To Shrink Mosquito Population, Scientists Are Releasing 20 Million Mosquitoes</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/21/538470321/to-shrink-the-mosquito-population-scientists-are-releasing-20-million-of-them</link>
-      <description>July 21, 2017 - Scientists plan to release millions of sterile, male bacteria-infected mosquitoes in California, to breed with wild females. They&#39;re hoping for a &#34;steep decline&#34; in the species that carries Zika.</description>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-507238080_wide-23bc02cca29d877522d9e19dc74357d3d37e342e-s800-c15.jpg"></a>
-
-July 21, 2017 - Scientists plan to release millions of sterile, male bacteria-infected mosquitoes in California, to breed with wild females. They're hoping for a "steep decline" in the species that carries Zika.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/21/538470321/to-shrink-the-mosquito-population-scientists-are-releasing-20-million-of-them">http://www.npr.org/sections/thetwo-way/2017/07/21/538470321/to-shrink-the-mosquito-population-scientists-are-releasing-20-million-of-them</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-507238080_wide-23bc02cca29d877522d9e19dc74357d3d37e342e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</guid>
-      <title>Is It A Good Idea To Pay Villagers Not To Chop Down Trees?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</link>
-      <description>July 20, 2017 - Governments dole out millions each year. Researchers debate whether the payouts actually work. A new study from Uganda offers some answers.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/19/baboon-in-farmers-jackfruit-tree_wide-c8fc81b6e4447a1609c38a1987d5588bdc207139-s800-c15.jpg"></a>
-
-July 20, 2017 - Governments dole out millions each year. Researchers debate whether the payouts actually work. A new study from Uganda offers some answers.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees">http://www.npr.org/sections/goatsandsoda/2017/07/20/538115612/is-it-a-good-idea-to-pay-villagers-not-to-chop-down-trees</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/baboon-in-farmers-jackfruit-tree_wide-c8fc81b6e4447a1609c38a1987d5588bdc207139-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

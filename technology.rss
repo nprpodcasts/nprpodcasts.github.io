@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jul 2017 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 15:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 25 Jul 2017 23:00:16 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 15:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170726_me_military_tries_to_cut_through_the_noise_of_war.mp3?orgId=406240675&amp;topicId=1091&amp;aggIds=363340041&amp;d=325&amp;p=3&amp;story=539438864&amp;t=progseg&amp;e=539438794&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Military Tries To Cut Through The Noise Of War</title>
+      <link>http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</link>
+      <description>July 26, 2017 - The military wants to reduce the deafening, chaotic roar of firefight noise so that front-line commanders can communicate with their troops.  &#xA;&#xA; - http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170726_me_military_tries_to_cut_through_the_noise_of_war.mp3?orgId=406240675&amp;topicId=1091&amp;aggIds=363340041&amp;d=325&amp;p=3&amp;story=539438864&amp;t=progseg&amp;e=539438794&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/26/price1_wide-6c7f2a554cf208a49bb58f165563e77c94fc4d31-s800-c15.jpg"></a>
+
+July 26, 2017 - The military wants to reduce the deafening, chaotic roar of firefight noise so that front-line commanders can communicate with their troops.  
+
+<a href="http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war">http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/price1_wide-6c7f2a554cf208a49bb58f165563e77c94fc4d31-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>325</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_to_keep_drivers_from_leaving_uber_tries_to_treat_them_better.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=539227139&amp;t=progseg&amp;e=539189870&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>To Keep Drivers From Leaving, Uber Tries To Treat Them Better</title>
@@ -245,21 +262,6 @@ July 20, 2017 - The Afghan team made headlines even before the event started whe
 <a href="http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs">http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</guid>
-      <title>Justice Department Announces &#39;Largest Darknet Takedown In History&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</link>
-      <description>July 20, 2017 - A joint operation by the department, the FBI and international law enforcement has shut down AlphaBay and Hansa, two of the world&#39;s largest anonymous marketplaces for illicit drugs and goods.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/20/gettyimages-819434982_wide-3519bd9c04bb42569fe75a63c6332b7b3a4169eb-s800-c15.jpg"></a>
-
-July 20, 2017 - A joint operation by the department, the FBI and international law enforcement has shut down AlphaBay and Hansa, two of the world's largest anonymous marketplaces for illicit drugs and goods.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history">http://www.npr.org/sections/thetwo-way/2017/07/20/538309613/justice-department-announces-largest-darknet-takedown-in-history</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/gettyimages-819434982_wide-3519bd9c04bb42569fe75a63c6332b7b3a4169eb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
