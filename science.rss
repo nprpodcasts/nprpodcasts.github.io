@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 18:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 20:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 18:00:16 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 20:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/26/539044757/photos-japanese-scientists-turn-chrysanthemums-true-blue</guid>
+      <title>PHOTOS: Japanese Scientists Turn Chrysanthemums &#39;True Blue&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/26/539044757/photos-japanese-scientists-turn-chrysanthemums-true-blue</link>
+      <description>July 26, 2017 - The scientists introduced genes from two other flowers that allowed the mums to mimic the chemical process producing blue pigment. This might be applicable to other flowers, like roses and lilies.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/24/blue1_wide-873c23d3c18caa0254acb442bd6db4bd0ca0f3c6-s800-c15.jpg"></a>
+
+July 26, 2017 - The scientists introduced genes from two other flowers that allowed the mums to mimic the chemical process producing blue pigment. This might be applicable to other flowers, like roses and lilies.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/26/539044757/photos-japanese-scientists-turn-chrysanthemums-true-blue">http://www.npr.org/sections/thetwo-way/2017/07/26/539044757/photos-japanese-scientists-turn-chrysanthemums-true-blue</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/blue1_wide-873c23d3c18caa0254acb442bd6db4bd0ca0f3c6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170726_fa_01.mp3?orgId=427869011&amp;topicId=1007&amp;d=1900&amp;p=13&amp;story=539520353&amp;t=progseg&amp;e=539513463&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Looking Back At The Most Powerful Earthquake Ever To Strike North America</title>
@@ -243,21 +258,6 @@ July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient">http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</guid>
-      <title>A Bother, A Brotherhood: Living Among The Mines In Coal Country</title>
-      <link>http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</link>
-      <description>July 22, 2017 - When Mary Jo and Mike Picklo bought their house in 2003, they expected to retire in it — until a coal mine opened across the street. They don&#39;t want it there, but they are nearly alone in their view.</description>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/_mg_0746_wide-22cf4de195b99c8761d3eac27011e0b52f9ac4e5-s800-c15.jpg"></a>
-
-July 22, 2017 - When Mary Jo and Mike Picklo bought their house in 2003, they expected to retire in it — until a coal mine opened across the street. They don't want it there, but they are nearly alone in their view.
-
-<a href="http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country">http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/_mg_0746_wide-22cf4de195b99c8761d3eac27011e0b52f9ac4e5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
