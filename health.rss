@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 17:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 19:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 17:00:18 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 19:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -51,6 +51,21 @@ July 26, 2017 - For Venezuelans, the stuffed corn-meal cakes have long been the 
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela">http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/royal-15-cheese-arepas-2_wide-a59c9d7dadf5c8b4387345c88fa6def0a9f2ea61-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170726-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The GOP Tries Again On Health Care</title>
+      <link>http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</link>
+      <description>July 26, 2017 - Senate Republicans have voted to begin proceedings on a new healthcare plan.&#xA;&#xA; - http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170726-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 26, 2017 - Senate Republicans have voted to begin proceedings on a new healthcare plan.
+
+<a href="http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care">http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>718</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ July 24, 2017 - Gina "Danger" Mazany is a professional mixed martial arts athlet
 <a href="http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions">http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s3000-c15.jpg"></itunes:image>
       <itunes:duration>399</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</guid>
-      <title>Beyond The Nasty Needle: Trying To Make Vaccines More Comfy And Convenient</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</link>
-      <description>July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and nasal sprays, scientists are developing alternatives to typical vaccinations.</description>
-      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s800-c15.jpg"></a>
-
-July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and nasal sprays, scientists are developing alternatives to typical vaccinations.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient">http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
