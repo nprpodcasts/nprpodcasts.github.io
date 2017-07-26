@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 15:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 17:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 15:00:27 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 17:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</guid>
+      <title>Hospitals Face Growing Cybersecurity Threats</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</link>
+      <description>July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients&#39; health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s800-c15.jpg"></a>
+
+July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients' health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats">http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170726_me_military_tries_to_cut_through_the_noise_of_war.mp3?orgId=406240675&amp;topicId=1091&amp;aggIds=363340041&amp;d=325&amp;p=3&amp;story=539438864&amp;t=progseg&amp;e=539438794&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Military Tries To Cut Through The Noise Of War</title>
@@ -247,21 +262,6 @@ July 20, 2017 - The Afghan team made headlines even before the event started whe
 <a href="http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace">http://www.npr.org/2017/07/20/538370711/justice-department-announces-seizure-of-dark-web-marketplace</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>237</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_in_rural_oregon_efforts_to_bring_in_large_data_centers_raise_housing_costs.mp3?orgId=1&amp;topicId=1091&amp;d=234&amp;p=2&amp;story=538370646&amp;t=progseg&amp;e=538256344&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Rural Oregon, Efforts To Bring In Large Data Centers Raise Housing Costs</title>
-      <link>http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</link>
-      <description>July 20, 2017 - In places like rural Oregon, politicians are working to bring in large data centers to town. It&#39;s great for folks who want good jobs but don&#39;t want to move away. But it&#39;s also raising housing costs.</description>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170720_atc_in_rural_oregon_efforts_to_bring_in_large_data_centers_raise_housing_costs.mp3?orgId=1&amp;topicId=1091&amp;d=234&amp;p=2&amp;story=538370646&amp;t=progseg&amp;e=538256344&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 20, 2017 - In places like rural Oregon, politicians are working to bring in large data centers to town. It's great for folks who want good jobs but don't want to move away. But it's also raising housing costs.
-
-<a href="http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs">http://www.npr.org/2017/07/20/538370646/in-rural-oregon-efforts-to-bring-in-large-data-centers-raise-housing-costs</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

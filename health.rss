@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 17:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 16:00:11 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 17:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</guid>
+      <title>Hospitals Face Growing Cybersecurity Threats</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</link>
+      <description>July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients&#39; health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s800-c15.jpg"></a>
+
+July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients' health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats">http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</guid>
       <title>Arepas Are Conquering The World – But Dying At Home In Venezuela</title>
@@ -237,23 +252,6 @@ July 23, 2017 - From tiny, dissolving needles to high-powered liquid streams and
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient">http://www.npr.org/sections/health-shots/2017/07/23/537287781/beyond-the-nasty-needle-trying-to-make-vaccines-more-comfy-and-convenient</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/14/needles_holding-3_wide-6c25edb8ad443f6454f7bfb0721598113a95005a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_rural_californians_want_price_relief_from_gop_health_bill_but_most_wont_get_it.mp3?orgId=150&amp;topicId=1128&amp;d=236&amp;p=7&amp;story=538396570&amp;t=progseg&amp;e=538705423&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Rural Californians Want Price Relief From GOP Health Bill, But Most Won&#39;t Get It</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it</link>
-      <description>July 22, 2017 - GOP efforts to repeal the ACA are still in flux, and there&#39;s more talk now of trying to work out bipartisan fixes for Obamacare. But most suggested remedies won&#39;t fix the problems in remote regions.</description>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_rural_californians_want_price_relief_from_gop_health_bill_but_most_wont_get_it.mp3?orgId=150&amp;topicId=1128&amp;d=236&amp;p=7&amp;story=538396570&amp;t=progseg&amp;e=538705423&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/20/tessa-front_wide-2dcd6aab9b90abca431ab4ddcc43293476dac54b-s800-c15.jpg"></a>
-
-July 22, 2017 - GOP efforts to repeal the ACA are still in flux, and there's more talk now of trying to work out bipartisan fixes for Obamacare. But most suggested remedies won't fix the problems in remote regions.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it">http://www.npr.org/sections/health-shots/2017/07/22/538396570/rural-californians-want-price-relief-from-gop-health-bill-but-most-won-t-get-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/20/tessa-front_wide-2dcd6aab9b90abca431ab4ddcc43293476dac54b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
