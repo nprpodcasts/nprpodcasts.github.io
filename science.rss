@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 15:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 18:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 15:00:28 +0000</pubDate>
+    <pubDate>Wed, 26 Jul 2017 18:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170726_fa_01.mp3?orgId=427869011&amp;topicId=1007&amp;d=1900&amp;p=13&amp;story=539520353&amp;t=progseg&amp;e=539513463&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Looking Back At The Most Powerful Earthquake Ever To Strike North America</title>
+      <link>http://www.npr.org/2017/07/26/539520353/looking-back-at-the-most-powerful-earthquake-ever-to-strike-north-america</link>
+      <description>July 26, 2017 - Science writer Henry Fountain says the deadly quake that shook Alaska in 1964 was so loud some thought it was the beginning of World War III. His new book is The Great Quake.</description>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170726_fa_01.mp3?orgId=427869011&amp;topicId=1007&amp;d=1900&amp;p=13&amp;story=539520353&amp;t=progseg&amp;e=539513463&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 26, 2017 - Science writer Henry Fountain says the deadly quake that shook Alaska in 1964 was so loud some thought it was the beginning of World War III. His new book is The Great Quake.
+
+<a href="http://www.npr.org/2017/07/26/539520353/looking-back-at-the-most-powerful-earthquake-ever-to-strike-north-america">http://www.npr.org/2017/07/26/539520353/looking-back-at-the-most-powerful-earthquake-ever-to-strike-north-america</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>1900</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</guid>
       <title>3, 2, 1 ... Bake Off! The Mission To Make Bread In Space</title>
@@ -45,12 +60,12 @@ July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous
       <description>July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it&#39;s doing well in the harsh environment.</description>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-a2fb2ef509fbadd84e76a602b4ed8171c89f402b-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s800-c15.jpg"></a>
 
 July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it's doing well in the harsh environment.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module">http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-a2fb2ef509fbadd84e76a602b4ed8171c89f402b-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ July 22, 2017 - When Mary Jo and Mike Picklo bought their house in 2003, they ex
 
 <a href="http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country">http://www.npr.org/2017/07/22/536809177/a-bother-a-brotherhood-living-among-the-mines-in-coal-country</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/_mg_0746_wide-22cf4de195b99c8761d3eac27011e0b52f9ac4e5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</guid>
-      <title>A Wake-Up Call: Coffee Recalled By FDA For Having Viagra-Like Ingredient</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</link>
-      <description>July 21, 2017 - Regulators took issue with the tortuously named &#34;New of Kopi Jantan Tradisional Natural Herbs Coffee,&#34; which didn&#39;t declare a chemical akin to the erectile dysfunction drug&#39;s active ingredient.</description>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s800-c15.jpg"></a>
-
-July 21, 2017 - Regulators took issue with the tortuously named "New of Kopi Jantan Tradisional Natural Herbs Coffee," which didn't declare a chemical akin to the erectile dysfunction drug's active ingredient.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient">http://www.npr.org/sections/thetwo-way/2017/07/21/538512368/a-wake-up-call-coffee-recalled-by-fda-for-having-viagra-like-ingredient</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-174457215_wide-ed0360c0e8c5cf767d0e87f770913ba83a6ebfbc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
