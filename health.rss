@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 17:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 19:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 17:00:38 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 19:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue</guid>
+      <title>Slug Slime Inspires Scientists To Invent Sticky Surgical Glue </title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue</link>
+      <description>July 27, 2017 - The words &#34;strong&#34; and &#34;inspiring&#34; are not usually assigned to garden slugs. But slug slime inspired materials scientists to invent a new kind of adhesive that could one day help heal human wounds.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-475180447_wide-17cd2c449f9a4bb9b37f3b6cbe33aca46babde8b-s800-c15.jpg"></a>
+
+July 27, 2017 - The words "strong" and "inspiring" are not usually assigned to garden slugs. But slug slime inspired materials scientists to invent a new kind of adhesive that could one day help heal human wounds.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue">http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-475180447_wide-17cd2c449f9a4bb9b37f3b6cbe33aca46babde8b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/07/27/539754960/terminally-ill-baby-charlie-gard-will-move-to-hospice-care-to-die</guid>
       <title>Terminally Ill Baby Charlie Gard Will Move To Hospice Care To Die</title>
@@ -237,21 +252,6 @@ July 25, 2017 - As the country starts to get back into its most popular professi
 <a href="http://www.npr.org/2017/07/25/539198429/study-cte-found-in-nearly-all-donated-nfl-player-brains">http://www.npr.org/2017/07/25/539198429/study-cte-found-in-nearly-all-donated-nfl-player-brains</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/ap_358645810966_wide-aedd384d7c00822f8bb9a24cd90588a9674c51f4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>177</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</guid>
-      <title>What Are The Planet&#39;s Real &#39;Talking&#39; Chimps And Gorillas Saying?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</link>
-      <description>July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR&#39;s Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s800-c15.jpg"></a>
-
-July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes really use language? NPR's Skunk Bear sorts through the disturbing history of research on ape language to sort fact from wishful thinking.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying">http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
