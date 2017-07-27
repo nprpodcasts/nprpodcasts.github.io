@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 20:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 21:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 20:00:25 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 21:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</guid>
+      <title>Mapping Coastal Flood Risk Lags Behind Sea Level Rise</title>
+      <link>http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</link>
+      <description>July 27, 2017 - Federal maps help determine who on the coast must buy flood insurance, but many don&#39;t include the latest data. Maryland is now making its own flood maps, so homeowners can see if they&#39;re at risk.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/gettyimages-174211672_wide-e47c374cc95914c5e5b2655fbfe97b1d188347bb-s800-c15.jpg"></a>
+
+July 27, 2017 - Federal maps help determine who on the coast must buy flood insurance, but many don't include the latest data. Maryland is now making its own flood maps, so homeowners can see if they're at risk.
+
+<a href="http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise">http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/gettyimages-174211672_wide-e47c374cc95914c5e5b2655fbfe97b1d188347bb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution</guid>
       <title>Perdue Farms Signs Up For A Chicken Welfare Revolution</title>
@@ -239,23 +254,6 @@ July 24, 2017 - Sick of your crowded neighborhood pool? A new study shows there 
 <a href="http://www.npr.org/2017/07/24/539005688/inside-the-global-seed-vault-where-the-history-and-future-of-agriculture-is-stor">http://www.npr.org/2017/07/24/539005688/inside-the-global-seed-vault-where-the-history-and-future-of-agriculture-is-stor</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2147</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Female Athletes Are Closing The Gender Gap When It Comes To Concussions</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</link>
-      <description>July 24, 2017 - Gina &#34;Danger&#34; Mazany is a professional mixed martial arts athlete, and she&#39;s helping researchers learn more about head injuries and the female brain.</description>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170724_me_female_athletes_are_closing_the_gender_gap_when_it_comes_to_concussions.mp3?orgId=1&amp;topicId=1066&amp;d=399&amp;p=3&amp;story=538294331&amp;t=progseg&amp;e=538969920&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s800-c15.jpg"></a>
-
-July 24, 2017 - Gina "Danger" Mazany is a professional mixed martial arts athlete, and she's helping researchers learn more about head injuries and the female brain.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions">http://www.npr.org/sections/health-shots/2017/07/24/538294331/female-athletes-are-closing-the-gender-gap-when-it-comes-to-concussions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/20170718_ginadanger_001-2_wide-09ff8482033e4d39e9d8964dc686ecca03da6e69-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>399</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
