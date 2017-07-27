@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 23:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 22:00:07 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 23:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,12 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_rising_sea_levels_mean_federal_flood_maps_are_no_longer_accurate.mp3?orgId=1&amp;topicId=1007&amp;d=276&amp;p=2&amp;story=539506529&amp;t=progseg&amp;e=539703822&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</guid>
+      <title>&#39;An Inconvenient Sequel&#39; Is An Effective, Cautiously Optimistic, &#39;I Told You So&#39;</title>
+      <link>http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</link>
+      <description>July 27, 2017 - In 2006, Al Gore issued a forceful warning about the threat of climate change in An Inconvenient Truth. He&#39;s followed it up with a sequel that shows how far we&#39;ve come — but with plenty of caveats.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/ais0019r2-3000_wide-19b81e9f9a710b105d734de43d1873e4e40c9181-s800-c15.jpg"></a>
+
+July 27, 2017 - In 2006, Al Gore issued a forceful warning about the threat of climate change in An Inconvenient Truth. He's followed it up with a sequel that shows how far we've come — but with plenty of caveats.
+
+<a href="http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so">http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/ais0019r2-3000_wide-19b81e9f9a710b105d734de43d1873e4e40c9181-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_rising_sea_levels_mean_federal_flood_maps_are_no_longer_accurate.mp3?orgId=1&amp;topicId=1007&amp;d=277&amp;p=2&amp;story=539506529&amp;t=progseg&amp;e=539703822&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Mapping Coastal Flood Risk Lags Behind Sea Level Rise</title>
       <link>http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</link>
       <description>July 27, 2017 - Federal maps help determine who on the coast must buy flood insurance, but many don&#39;t include the latest data. Maryland is now making its own flood maps, so homeowners can see if they&#39;re at risk.</description>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_rising_sea_levels_mean_federal_flood_maps_are_no_longer_accurate.mp3?orgId=1&amp;topicId=1007&amp;d=276&amp;p=2&amp;story=539506529&amp;t=progseg&amp;e=539703822&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_rising_sea_levels_mean_federal_flood_maps_are_no_longer_accurate.mp3?orgId=1&amp;topicId=1007&amp;d=277&amp;p=2&amp;story=539506529&amp;t=progseg&amp;e=539703822&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/gettyimages-174211672_wide-17132d6ef48d733928463f470fff1d0df427716d-s800-c15.jpg"></a>
 
@@ -37,7 +52,7 @@ July 27, 2017 - Federal maps help determine who on the coast must buy flood insu
 
 <a href="http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise">http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/27/gettyimages-174211672_wide-17132d6ef48d733928463f470fff1d0df427716d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>276</itunes:duration>
+      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ July 24, 2017 - Sick of your crowded neighborhood pool? A new study shows there 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/24/539066277/a-new-study-shows-the-moons-interior-could-contain-water">http://www.npr.org/sections/thetwo-way/2017/07/24/539066277/a-new-study-shows-the-moons-interior-could-contain-water</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/24/gettyimages-72758855_wide-81c890b16587a530b358b53d2f234ce1f21f3478-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170724_fa_01.mp3?orgId=427869011&amp;topicId=1025&amp;d=2147&amp;p=13&amp;story=539005688&amp;t=progseg&amp;e=539007614&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Inside The Global Seed Vault, Where The History And Future Of Agriculture Is Stored</title>
-      <link>http://www.npr.org/2017/07/24/539005688/inside-the-global-seed-vault-where-the-history-and-future-of-agriculture-is-stor</link>
-      <description>July 24, 2017 - Seeds on Ice author Cary Fowler describes the underground tunnel near the North Pole, which stores and protects a collection of 933,000 samples of different, unique crop varieties.</description>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/07/20170724_fa_01.mp3?orgId=427869011&amp;topicId=1025&amp;d=2147&amp;p=13&amp;story=539005688&amp;t=progseg&amp;e=539007614&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 24, 2017 - Seeds on Ice author Cary Fowler describes the underground tunnel near the North Pole, which stores and protects a collection of 933,000 samples of different, unique crop varieties.
-
-<a href="http://www.npr.org/2017/07/24/539005688/inside-the-global-seed-vault-where-the-history-and-future-of-agriculture-is-stor">http://www.npr.org/2017/07/24/539005688/inside-the-global-seed-vault-where-the-history-and-future-of-agriculture-is-stor</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2147</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 23:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 22:00:09 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 23:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/07/27/539850088/repeal-and-replace-effort-in-senate-still-dominated-by-confusion</guid>
+      <title>Repeal-And-Replace Effort In Senate Still Dominated By Confusion</title>
+      <link>http://www.npr.org/2017/07/27/539850088/repeal-and-replace-effort-in-senate-still-dominated-by-confusion</link>
+      <description>July 27, 2017 - Four Republican senators say they will vote yes on a so-called &#34;skinny repeal&#34; bill only with the assurance that the bill will go to a House-Senate conference. The bill is not yet finalized.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/27/gettyimages-823645970_wide-c738bc231fc392e1dd40f69087e00e88085343a0-s800-c15.jpg"></a>
+
+July 27, 2017 - Four Republican senators say they will vote yes on a so-called "skinny repeal" bill only with the assurance that the bill will go to a House-Senate conference. The bill is not yet finalized.
+
+<a href="http://www.npr.org/2017/07/27/539850088/repeal-and-replace-effort-in-senate-still-dominated-by-confusion">http://www.npr.org/2017/07/27/539850088/repeal-and-replace-effort-in-senate-still-dominated-by-confusion</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/gettyimages-823645970_wide-c738bc231fc392e1dd40f69087e00e88085343a0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_senator_explains_why_he_signed_letter_to_reject_healthcare_law.mp3?orgId=1&amp;topicId=1027&amp;d=306&amp;p=2&amp;story=539825397&amp;t=progseg&amp;e=539703822&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Montana Governor Says Why He Signed Letter To Reject Health Care Law</title>
@@ -237,21 +252,6 @@ July 25, 2017 - High school athletes who tended to focus on one sport were 50 pe
 <a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
       <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/25/538539473/new-report-shows-64-of-195-countries-arent-meeting-basic-vaccination-target</guid>
-      <title>New Report Shows 64 Of 195 Countries Aren&#39;t Meeting A Basic Vaccination Target</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/25/538539473/new-report-shows-64-of-195-countries-arent-meeting-basic-vaccination-target</link>
-      <description>July 25, 2017 - The goal is to reach 90 percent of children with the DTP vaccination — a child&#39;s first scheduled immunization. Some countries are barely at 50 percent.</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/25/vaccine-map_wide-7f9bdf750dbb5275489a10b4618a0e8564b3678f-s800-c15.jpg"></a>
-
-July 25, 2017 - The goal is to reach 90 percent of children with the DTP vaccination — a child's first scheduled immunization. Some countries are barely at 50 percent.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/25/538539473/new-report-shows-64-of-195-countries-arent-meeting-basic-vaccination-target">http://www.npr.org/sections/goatsandsoda/2017/07/25/538539473/new-report-shows-64-of-195-countries-arent-meeting-basic-vaccination-target</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/vaccine-map_wide-7f9bdf750dbb5275489a10b4618a0e8564b3678f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
