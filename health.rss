@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 01:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 14:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 01:00:09 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 14:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</guid>
+      <title>States Have Already Tried Versions Of &#39;Skinny Repeal.&#39; It Didn&#39;t Go Well</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</link>
+      <description>July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act&#39;s individual and employer mandates but leave much of the law intact.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-10f25c160020005c3356d65c0a83af482b329dc1-s800-c15.jpg"></a>
+
+July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act's individual and employer mandates but leave much of the law intact.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well">http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-10f25c160020005c3356d65c0a83af482b329dc1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/26/539615662/whats-next-in-the-health-care-debate</guid>
       <title>What&#39;s Next In The Health Care Debate?</title>
@@ -237,21 +252,6 @@ July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes re
 <a href="http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys">http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>283</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</guid>
-      <title>The Senate Health Care Vote, Simplified</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</link>
-      <description>July 24, 2017 - President Trump is pushing the Senate to repeal and replace Obamacare this week. But with multiple bills in play, it&#39;s far from clear what the Senate would vote on. Here&#39;s a recap of the options.</description>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/24/gettyimages-511823665_wide-a14c1ee0ba696aee9347cbe2a56660653f820068-s800-c15.jpg"></a>
-
-July 24, 2017 - President Trump is pushing the Senate to repeal and replace Obamacare this week. But with multiple bills in play, it's far from clear what the Senate would vote on. Here's a recap of the options.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified">http://www.npr.org/sections/health-shots/2017/07/24/539051768/the-senate-health-care-vote-simplified</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/gettyimages-511823665_wide-a14c1ee0ba696aee9347cbe2a56660653f820068-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

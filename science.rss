@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 20:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 14:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 26 Jul 2017 20:00:10 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 14:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -69,11 +69,12 @@ July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_after_a_year_in_space_the_air_hasnt_gone_out_of_nasas_inflated_module.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=196&amp;p=3&amp;story=532610193&amp;t=progseg&amp;e=539682447&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>After A Year In Space, The Air Hasn&#39;t Gone Out Of NASA&#39;s Inflated Module</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</link>
       <description>July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it&#39;s doing well in the harsh environment.</description>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_after_a_year_in_space_the_air_hasnt_gone_out_of_nasas_inflated_module.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=196&amp;p=3&amp;story=532610193&amp;t=progseg&amp;e=539682447&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s800-c15.jpg"></a>
 
@@ -81,6 +82,7 @@ July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it ar
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module">http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>196</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
