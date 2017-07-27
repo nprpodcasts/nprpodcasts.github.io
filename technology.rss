@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 14:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 17:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 14:00:16 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 17:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_morning_news_brief_health_care_transgender_people_in_the_military_foxconn_charlie_gard.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=539682616&amp;t=progseg&amp;e=539682447&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Morning News Brief: Health Care, Transgender Service Members, Foxconn, Charlie Gard</title>
-      <link>http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard</link>
-      <description>July 27, 2017 - Republicans continue debating health care plans while President Trump tweeted about transgender people in the military. Tony Romm of Recode discusses electronics-maker Foxconn&#39;s U.S. factory plans.</description>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</guid>
+      <title>Pakistani Ride Sharing App Puts A Matchmaker In The Car</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</link>
+      <description>July 27, 2017 - The Careem app ran a campaign: Book a car — and a matchmaker will join you. The company thought it was funny. But a lot of women hated it.</description>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_morning_news_brief_health_care_transgender_people_in_the_military_foxconn_charlie_gard.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=539682616&amp;t=progseg&amp;e=539682447&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 27, 2017 - Republicans continue debating health care plans while President Trump tweeted about transgender people in the military. Tony Romm of Recode discusses electronics-maker Foxconn's U.S. factory plans.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard">http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>620</itunes:duration>
+July 27, 2017 - The Careem app ran a campaign: Book a car — and a matchmaker will join you. The company thought it was funny. But a lot of women hated it.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car">http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -66,6 +66,21 @@
 <a href="http://www.npr.org/2017/07/27/539682647/rep-keith-ellison-on-trump-and-the-media">http://www.npr.org/2017/07/27/539682647/rep-keith-ellison-on-trump-and-the-media</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>227</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_morning_news_brief_health_care_transgender_people_in_the_military_foxconn_charlie_gard.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=539682616&amp;t=progseg&amp;e=539682447&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Morning News Brief: Health Care, Transgender Service Members, Foxconn, Charlie Gard</title>
+      <link>http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard</link>
+      <description>July 27, 2017 - Republicans continue debating health care plans while President Trump tweeted about transgender people in the military. Tony Romm of Recode discusses electronics-maker Foxconn&#39;s U.S. factory plans.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_morning_news_brief_health_care_transgender_people_in_the_military_foxconn_charlie_gard.mp3?orgId=1&amp;topicId=1014&amp;d=620&amp;p=3&amp;story=539682616&amp;t=progseg&amp;e=539682447&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 27, 2017 - Republicans continue debating health care plans while President Trump tweeted about transgender people in the military. Tony Romm of Recode discusses electronics-maker Foxconn's U.S. factory plans.
+
+<a href="http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard">http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>620</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -247,23 +262,6 @@ July 22, 2017 - After a security robot drowned in a fountain in Washington, D.C.
 <a href="http://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst">http://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/gettyimages-688223544_wide-1d2e538f895204d21c80ab4d81dd952ae872fed6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>157</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_a_future_of_gadgets_without_power_cords_not_so_fast.mp3?orgId=329&amp;topicId=1019&amp;d=222&amp;p=2&amp;story=538531750&amp;t=progseg&amp;e=538476163&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Future Of Gadgets Without Power Cords? Not So Fast</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</link>
-      <description>July 21, 2017 - This month, the first wireless-charging laptop hit the market. But making wireless power a standard consumer feature is a big technological — and psychological — challenge.</description>
-      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170721_atc_a_future_of_gadgets_without_power_cords_not_so_fast.mp3?orgId=329&amp;topicId=1019&amp;d=222&amp;p=2&amp;story=538531750&amp;t=progseg&amp;e=538476163&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s800-c15.jpg"></a>
-
-July 21, 2017 - This month, the first wireless-charging laptop hit the market. But making wireless power a standard consumer feature is a big technological — and psychological — challenge.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast">http://www.npr.org/sections/alltechconsidered/2017/07/21/538531750/a-future-of-gadgets-without-power-cords-not-so-fast</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/0711_witricity02-2-_wide-707a22041be7e17e604d3ba62f875bb52ea0adb8-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>222</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

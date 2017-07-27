@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 14:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 17:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 14:00:14 +0000</pubDate>
+    <pubDate>Thu, 27 Jul 2017 17:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/27/539754960/terminally-ill-baby-charlie-gard-will-move-to-hospice-care-to-die</guid>
+      <title>Terminally Ill Baby Charlie Gard Will Move To Hospice Care To Die</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/27/539754960/terminally-ill-baby-charlie-gard-will-move-to-hospice-care-to-die</link>
+      <description>July 27, 2017 - A British judge has approved a plan to transfer Charlie, who has a rare genetic disorder with no known cure, to a hospice facility. His life support will be withdrawn shortly after the transfer.</description>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/27/gettyimages-821452196_wide-15716da118e00f15c5185ad94069337861c552e8-s800-c15.jpg"></a>
+
+July 27, 2017 - A British judge has approved a plan to transfer Charlie, who has a rare genetic disorder with no known cure, to a hospice facility. His life support will be withdrawn shortly after the transfer.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/27/539754960/terminally-ill-baby-charlie-gard-will-move-to-hospice-care-to-die">http://www.npr.org/sections/thetwo-way/2017/07/27/539754960/terminally-ill-baby-charlie-gard-will-move-to-hospice-care-to-die</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/gettyimages-821452196_wide-15716da118e00f15c5185ad94069337861c552e8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</guid>
       <title>States Have Already Tried Versions Of &#39;Skinny Repeal.&#39; It Didn&#39;t Go Well</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</link>
       <description>July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act&#39;s individual and employer mandates but leave much of the law intact.</description>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-10f25c160020005c3356d65c0a83af482b329dc1-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-805b64888352abb0135889b9ad3c5029e9d596ec-s800-c15.jpg"></a>
 
 July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act's individual and employer mandates but leave much of the law intact.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well">http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-10f25c160020005c3356d65c0a83af482b329dc1-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-805b64888352abb0135889b9ad3c5029e9d596ec-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes re
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying">http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_nurse-family_partnership.mp3?orgId=1&amp;topicId=1027&amp;d=283&amp;p=2&amp;story=539087970&amp;t=progseg&amp;e=539016165&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Study: Memphis Support Program For New Moms Especially Helps Boys</title>
-      <link>http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</link>
-      <description>July 24, 2017 - Nurse-Family Partnership programs provide low-income mothers with checkups. Robert Siegel speaks with Nobel Laureate James Heckman on the benefits of NFP, which is found to especially help boys.</description>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170724_atc_nurse-family_partnership.mp3?orgId=1&amp;topicId=1027&amp;d=283&amp;p=2&amp;story=539087970&amp;t=progseg&amp;e=539016165&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 24, 2017 - Nurse-Family Partnership programs provide low-income mothers with checkups. Robert Siegel speaks with Nobel Laureate James Heckman on the benefits of NFP, which is found to especially help boys.
-
-<a href="http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys">http://www.npr.org/2017/07/24/539087970/study-memphis-support-program-for-new-moms-especially-helps-boys</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>283</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
