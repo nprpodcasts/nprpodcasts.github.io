@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 01:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 13:00:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Jul 2017 01:00:15 +0000</pubDate>
+    <pubDate>Fri, 28 Jul 2017 13:00:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_co_gov_on_healthcare.mp3?orgId=1&amp;topicId=1014&amp;d=368&amp;p=3&amp;story=539961510&amp;t=progseg&amp;e=539942032&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Gov. John Hickenlooper On Democrats&#39; Plans For Health Care</title>
+      <link>http://www.npr.org/2017/07/28/539961510/gov-john-hickenlooper-on-democrats-plans-for-health-care</link>
+      <description>July 28, 2017 - Rachel Martin talks with Democratic Gov. John Hickenlooper of Colorado about what Democrats plan to do after Senate Republicans failed to pass their latest health care bill.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_co_gov_on_healthcare.mp3?orgId=1&amp;topicId=1014&amp;d=368&amp;p=3&amp;story=539961510&amp;t=progseg&amp;e=539942032&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 28, 2017 - Rachel Martin talks with Democratic Gov. John Hickenlooper of Colorado about what Democrats plan to do after Senate Republicans failed to pass their latest health care bill.
+
+<a href="http://www.npr.org/2017/07/28/539961510/gov-john-hickenlooper-on-democrats-plans-for-health-care">http://www.npr.org/2017/07/28/539961510/gov-john-hickenlooper-on-democrats-plans-for-health-care</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>368</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_for_decades_these_caregivers_helped_patients_families_through_illness_and_death_.mp3?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;d=181&amp;p=3&amp;story=539726037&amp;t=progseg&amp;e=539942032&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>For Decades These Caregivers Helped Patients, Families Through Illness And Death </title>
+      <link>http://www.npr.org/2017/07/28/539726037/for-decades-these-caregivers-helped-patients-families-through-illness-and-death</link>
+      <description>July 28, 2017 - When the Rev. Noel Hickie and Marcia Hilton began working in hospice care, neither was sure they were cut out for the job. But they realized they could help families process grief and make things OK.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_for_decades_these_caregivers_helped_patients_families_through_illness_and_death_.mp3?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;d=181&amp;p=3&amp;story=539726037&amp;t=progseg&amp;e=539942032&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/27/hickienpr_wide-5af20bd29398b63f8ed17b0e5c8070b12ac1e249-s800-c15.jpg"></a>
+
+July 28, 2017 - When the Rev. Noel Hickie and Marcia Hilton began working in hospice care, neither was sure they were cut out for the job. But they realized they could help families process grief and make things OK.
+
+<a href="http://www.npr.org/2017/07/28/539726037/for-decades-these-caregivers-helped-patients-families-through-illness-and-death">http://www.npr.org/2017/07/28/539726037/for-decades-these-caregivers-helped-patients-families-through-illness-and-death</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/hickienpr_wide-5af20bd29398b63f8ed17b0e5c8070b12ac1e249-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>181</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/07/27/539850088/repeal-and-replace-effort-in-senate-still-dominated-by-confusion</guid>
       <title>Repeal-And-Replace Effort In Senate Still Dominated By Confusion</title>
@@ -222,36 +254,6 @@ July 26, 2017 - For Venezuelans, the stuffed cornmeal cakes have long been the d
 <a href="http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care">http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>718</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</guid>
-      <title>New Abortion Restrictions Head To Missouri Governor&#39;s Office</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</link>
-      <description>July 26, 2017 - &#34;Today is a great victory for pregnancy care centers,&#34;  Gov. Eric Greitens said after lawmakers approved the legislation.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 26, 2017 - "Today is a great victory for pregnancy care centers,"  Gov. Eric Greitens said after lawmakers approved the legislation.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office">http://www.npr.org/sections/thetwo-way/2017/07/26/539479601/new-abortion-restrictions-head-to-missouri-governors-office</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Student Athletes Who Specialize Early Are Injured More Often, Study Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</link>
-      <description>July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn&#39;t specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s800-c15.jpg"></a>
-
-July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn't specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>208</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
