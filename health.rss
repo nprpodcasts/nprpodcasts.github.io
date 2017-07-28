@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 14:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 16:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Jul 2017 14:00:11 +0000</pubDate>
+    <pubDate>Fri, 28 Jul 2017 16:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</guid>
+      <title>FDA Proposes Cutting Nicotine Amounts In Cigarettes And Electronic Cigarettes</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</link>
+      <description>July 28, 2017 - It would be the first time in the agency&#39;s history that it has sought to regulate the amount of nicotine in cigarettes.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-818802284_wide-c1aa59e2496c4e55fff6d7580c9e00f400614d62-s800-c15.jpg"></a>
+
+July 28, 2017 - It would be the first time in the agency's history that it has sought to regulate the amount of nicotine in cigarettes.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes">http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-818802284_wide-c1aa59e2496c4e55fff6d7580c9e00f400614d62-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_co_gov_on_healthcare.mp3?orgId=1&amp;topicId=1014&amp;d=368&amp;p=3&amp;story=539961510&amp;t=progseg&amp;e=539942032&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Gov. John Hickenlooper On Democrats&#39; Plans For Health Care</title>
@@ -239,21 +254,6 @@ July 26, 2017 - For Venezuelans, the stuffed cornmeal cakes have long been the d
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela">http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/royal-15-cheese-arepas-2_wide-b48fe9411754633713960980fe657947819a3159-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/07/a2170726-1.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The GOP Tries Again On Health Care</title>
-      <link>http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</link>
-      <description>July 26, 2017 - Senate Republicans have voted to begin proceedings on a new healthcare plan.&#xA;&#xA; - http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/07/a2170726-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 26, 2017 - Senate Republicans have voted to begin proceedings on a new healthcare plan.
-
-<a href="http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care">http://the1a.org/shows/2017-07-26/the-gop-tries-again-on-health-care</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>718</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
