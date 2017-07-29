@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 13:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 00:21:00 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Jul 2017 13:00:07 +0000</pubDate>
+    <pubDate>Sat, 29 Jul 2017 00:21:00 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</guid>
+      <title>From Rats To Humans, A Brain Knows When It Can&#39;t Remember</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</link>
+      <description>July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person&#39;s name. That&#39;s because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s800-c15.jpg"></a>
+
+July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person's name. That's because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember">http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_a_newspaperman_looks_back_on_a_77-year_career.mp3?orgId=1&amp;topicId=1020&amp;d=233&amp;p=3&amp;story=539945623&amp;t=progseg&amp;e=539942032&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Newspaperman Looks Back On A 77-Year Career</title>
@@ -39,11 +54,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170728_atc_an_inconvenient_sequel_is_an_effective_cautiously_optimistic_i_told_you_so.mp3?orgId=1&amp;topicId=4467349&amp;d=269&amp;p=2&amp;story=539734176&amp;t=progseg&amp;e=539961351&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;An Inconvenient Sequel&#39; Is An Effective, Cautiously Optimistic, &#39;I Told You So&#39;</title>
       <link>http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</link>
       <description>July 27, 2017 - In 2006, Al Gore issued a forceful warning about the threat of climate change in An Inconvenient Truth. He&#39;s followed it up with a sequel that shows how far we&#39;ve come — but with plenty of caveats.</description>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170728_atc_an_inconvenient_sequel_is_an_effective_cautiously_optimistic_i_told_you_so.mp3?orgId=1&amp;topicId=4467349&amp;d=269&amp;p=2&amp;story=539734176&amp;t=progseg&amp;e=539961351&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/ais0019r2-3000_wide-19b81e9f9a710b105d734de43d1873e4e40c9181-s800-c15.jpg"></a>
 
@@ -51,6 +67,7 @@ July 27, 2017 - In 2006, Al Gore issued a forceful warning about the threat of c
 
 <a href="http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so">http://www.npr.org/2017/07/27/539734176/-an-inconvenient-sequel-is-an-effective-cautiously-optimistic-i-told-you-so</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/27/ais0019r2-3000_wide-19b81e9f9a710b105d734de43d1873e4e40c9181-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>269</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,23 +258,6 @@ July 25, 2017 - Movies are full of loquacious chimps, but could nonhuman apes re
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying">http://www.npr.org/sections/health-shots/2017/07/25/538580495/what-are-the-planet-s-real-talking-chimps-and-gorillas-saying</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/apethumb1_03076_wide-35de1451fc246128ceb67a5f351446df6d30cfca-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Alabama Woman Stuck In NYC Traffic In 1902 Invented The Windshield Wiper</title>
-      <link>http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</link>
-      <description>July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her &#34;window cleaning device.&#34;</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_alabama_woman_stuck_in_nyc_traffic_in_1902_invented_the_windshield_wiper.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=193&amp;p=3&amp;story=536835744&amp;t=progseg&amp;e=539182488&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s800-c15.jpg"></a>
-
-July 25, 2017 - Entrepreneur Mary Anderson thought it made no sense that New York streetcar drivers had to keep jumping off to clean snow from the windshield. She soon won a patent for her "window cleaning device."
-
-<a href="http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper">http://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/us743801-1_wide-6df7fb4f56e37a371fce4f979b0b5c92b80745c8-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>193</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2017 18:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 00:20:58 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 27 Jul 2017 18:00:10 +0000</pubDate>
+    <pubDate>Sat, 29 Jul 2017 00:20:58 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</guid>
+      <title>British Hacker Known As &#39;Spiderman&#39; Sentenced Over Cyberattack </title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</link>
+      <description>July 28, 2017 - The 29-year-old man was given a suspended sentence of one year and eight months in an attack that reportedly knocked out Internet for nearly 1 million people in Germany in November.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/28/rtx3d90o_wide-a6a6d748479ffb4cfd4f73dbc47139048a802b5c-s800-c15.jpg"></a>
+
+July 28, 2017 - The 29-year-old man was given a suspended sentence of one year and eight months in an attack that reportedly knocked out Internet for nearly 1 million people in Germany in November.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack">http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/rtx3d90o_wide-a6a6d748479ffb4cfd4f73dbc47139048a802b5c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</guid>
-      <title>Pakistani Ride Sharing App Puts A Matchmaker In The Car</title>
+      <title>What If You Booked A Ride — And There Was A Matchmaker In The Backseat?</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</link>
-      <description>July 27, 2017 - The Careem app ran a campaign: Book a car — and a matchmaker will join you. The company thought it was funny. But a lot of women hated it.</description>
+      <description>July 27, 2017 - Pakistan&#39;s popular Careem app ran the campaign. The company thought it was funny. But a lot of women hated it.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</description>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s800-c15.jpg"></a>
 
-July 27, 2017 - The Careem app ran a campaign: Book a car — and a matchmaker will join you. The company thought it was funny. But a lot of women hated it.
+July 27, 2017 - Pakistan's popular Careem app ran the campaign. The company thought it was funny. But a lot of women hated it.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car">http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s3000-c15.jpg"></itunes:image>
@@ -245,23 +260,6 @@ July 23, 2017 - In recent years, there has been an influx of games centered on s
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior">http://www.npr.org/sections/alltechconsidered/2017/07/23/538617205/screen-saviors-can-activism-focused-games-change-our-behavior</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/paintball-hero-screenshot-830x467_wide-97c50ff5316168d6b7b09284728dd91968561532-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_sing_different_steve_jobs_life_becomes_an_opera.mp3?orgId=1&amp;topicId=1039&amp;d=330&amp;p=7&amp;story=538088296&amp;t=progseg&amp;e=538705423&amp;seg=22&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Sing Different: Steve Jobs&#39; Life Becomes An Opera</title>
-      <link>http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera</link>
-      <description>July 22, 2017 - The Apple co-founder&#39;s complicated story is the subject of The (R)evolution Of Steve Jobs, by composer Mason Bates and librettist Mark Campbell. It premieres Saturday in Santa Fe.</description>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170722_wesat_sing_different_steve_jobs_life_becomes_an_opera.mp3?orgId=1&amp;topicId=1039&amp;d=330&amp;p=7&amp;story=538088296&amp;t=progseg&amp;e=538705423&amp;seg=22&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/19/steve-jobs-opera_ken-howard_wide-8e7af0d3b028a3f1c7cba529c86ccbf617f5a055-s800-c15.jpg"></a>
-
-July 22, 2017 - The Apple co-founder's complicated story is the subject of The (R)evolution Of Steve Jobs, by composer Mason Bates and librettist Mark Campbell. It premieres Saturday in Santa Fe.
-
-<a href="http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera">http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/19/steve-jobs-opera_ken-howard_wide-8e7af0d3b028a3f1c7cba529c86ccbf617f5a055-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>330</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

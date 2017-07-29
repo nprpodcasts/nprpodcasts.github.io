@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 16:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 00:21:01 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 28 Jul 2017 16:00:15 +0000</pubDate>
+    <pubDate>Sat, 29 Jul 2017 00:21:01 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,17 +24,107 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</guid>
-      <title>FDA Proposes Cutting Nicotine Amounts In Cigarettes And Electronic Cigarettes</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</link>
-      <description>July 28, 2017 - It would be the first time in the agency&#39;s history that it has sought to regulate the amount of nicotine in cigarettes.</description>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170728_atc_tobacco_regulations.mp3?orgId=1&amp;topicId=1128&amp;d=217&amp;p=2&amp;story=540088353&amp;t=progseg&amp;e=539961351&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>FDA Announces Plan To Cut Level Of Nicotine Allowed In Cigarettes</title>
+      <link>http://www.npr.org/2017/07/28/540088353/fda-announces-plan-to-cut-level-of-nicotine-allowed-in-cigarettes</link>
+      <description>July 28, 2017 - The Food and Drug Administration is proposing sweeping changes to how it regulates cigarettes and related products, including reducing the amount of nicotine allowed in tobacco cigarettes.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170728_atc_tobacco_regulations.mp3?orgId=1&amp;topicId=1128&amp;d=217&amp;p=2&amp;story=540088353&amp;t=progseg&amp;e=539961351&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 28, 2017 - The Food and Drug Administration is proposing sweeping changes to how it regulates cigarettes and related products, including reducing the amount of nicotine allowed in tobacco cigarettes.
+
+<a href="http://www.npr.org/2017/07/28/540088353/fda-announces-plan-to-cut-level-of-nicotine-allowed-in-cigarettes">http://www.npr.org/2017/07/28/540088353/fda-announces-plan-to-cut-level-of-nicotine-allowed-in-cigarettes</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>217</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</guid>
+      <title>From Rats To Humans, A Brain Knows When It Can&#39;t Remember</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</link>
+      <description>July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person&#39;s name. That&#39;s because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s800-c15.jpg"></a>
+
+July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person's name. That's because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember">http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies</guid>
+      <title>Charlie Gard, Baby Whose Parents Battled Hospital Over Treatment, Dies</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies</link>
+      <description>July 28, 2017 - Charlie had a severe genetic disorder with no known cure, and doctors said experimental treatments could cause suffering. He died in a hospice after his parents dropped a legal challenge.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/ap_17209628464159_wide-bd1559cff481609d5b21d730d6918d23108fc619-s800-c15.jpg"></a>
+
+July 28, 2017 - Charlie had a severe genetic disorder with no known cure, and doctors said experimental treatments could cause suffering. He died in a hospice after his parents dropped a legal challenge.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies">http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/ap_17209628464159_wide-bd1559cff481609d5b21d730d6918d23108fc619-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</guid>
+      <title>Congress Emerges From Another Health Care Failure Without A Clear Path Forward</title>
+      <link>http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</link>
+      <description>July 28, 2017 - Whether Republicans will try to resurrect health care efforts — again — is uncertain. Republican Sen. John McCain, who cast the decisive no vote, said the bill&#39;s defeat is a chance to &#34;start fresh.&#34;</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-823746344_wide-d208ab0adfbecf19822c703b36903fb61f41924e-s800-c15.jpg"></a>
+
+July 28, 2017 - Whether Republicans will try to resurrect health care efforts — again — is uncertain. Republican Sen. John McCain, who cast the decisive no vote, said the bill's defeat is a chance to "start fresh."
+
+<a href="http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward">http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-823746344_wide-d208ab0adfbecf19822c703b36903fb61f41924e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</guid>
+      <title>Dutch-Led Fund Raises $300 Million To Replace U.S. Funding For Sexual Health</title>
+      <link>http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</link>
+      <description>July 28, 2017 - In March, the &#34;She Decides&#34; initiative announced $190 million for charities that would lose U.S. support under the Trump administration&#39;s anti-abortion policy. Since then, money has kept pouring in.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-632497182_wide-b917453a342bf3e8e2e01b3ddb64801092fe9ebb-s800-c15.jpg"></a>
+
+July 28, 2017 - In March, the "She Decides" initiative announced $190 million for charities that would lose U.S. support under the Trump administration's anti-abortion policy. Since then, money has kept pouring in.
+
+<a href="http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health">http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-632497182_wide-b917453a342bf3e8e2e01b3ddb64801092fe9ebb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_new_nicotine_regulations_proposed.mp3?orgId=1&amp;topicId=1128&amp;d=254&amp;p=3&amp;story=540019945&amp;t=progseg&amp;e=539942032&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
+      <title>FDA Wants To Lower Nicotine In Tobacco Cigarettes </title>
+      <link>http://www.npr.org/2017/07/28/540019945/fda-wants-to-lower-nicotine-in-tobacco-cigarettes</link>
+      <description>July 28, 2017 - The FDA announces a new approach to regulating the amount of nicotine in tobacco cigarettes. NPR&#39;s Rob Stein tells Rachel Martin that research shows there may be a non-addictive level of nicotine.</description>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170728_me_new_nicotine_regulations_proposed.mp3?orgId=1&amp;topicId=1128&amp;d=254&amp;p=3&amp;story=540019945&amp;t=progseg&amp;e=539942032&amp;seg=21&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[July 28, 2017 - The FDA announces a new approach to regulating the amount of nicotine in tobacco cigarettes. NPR's Rob Stein tells Rachel Martin that research shows there may be a non-addictive level of nicotine.
+
+<a href="http://www.npr.org/2017/07/28/540019945/fda-wants-to-lower-nicotine-in-tobacco-cigarettes">http://www.npr.org/2017/07/28/540019945/fda-wants-to-lower-nicotine-in-tobacco-cigarettes</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>254</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes</guid>
+      <title>FDA Proposes Cutting Nicotine Amounts In Cigarettes, Targeting Addiction</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes</link>
+      <description>July 28, 2017 - It would be the first time in the agency&#39;s history that it has sought to regulate the amount of nicotine in cigarettes.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes</description>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-818802284_wide-c1aa59e2496c4e55fff6d7580c9e00f400614d62-s800-c15.jpg"></a>
 
 July 28, 2017 - It would be the first time in the agency's history that it has sought to regulate the amount of nicotine in cigarettes.
 
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes">http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes-and-electronic-cigarettes</a>]]></itunes:summary>
+<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes">http://www.npr.org/sections/thetwo-way/2017/07/28/540012363/fda-proposes-cutting-nicotine-amounts-in-cigarettes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-818802284_wide-c1aa59e2496c4e55fff6d7580c9e00f400614d62-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -160,100 +250,6 @@ July 27, 2017 - A British judge has approved a plan to transfer Charlie, who has
 <a href="http://the1a.org/shows/2017-07-27/is-it-time-to-sack-football-as-we-know-it">http://the1a.org/shows/2017-07-27/is-it-time-to-sack-football-as-we-know-it</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</guid>
-      <title>States Have Already Tried Versions Of &#39;Skinny Repeal.&#39; It Didn&#39;t Go Well</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</link>
-      <description>July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act&#39;s individual and employer mandates but leave much of the law intact.</description>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-805b64888352abb0135889b9ad3c5029e9d596ec-s800-c15.jpg"></a>
-
-July 27, 2017 - Republican senators are warming to the idea of a scaled-back plan that would delete the Affordable Care Act's individual and employer mandates but leave much of the law intact.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well">http://www.npr.org/sections/health-shots/2017/07/27/539588546/states-have-already-tried-versions-of-skinny-repeal-it-didn-t-go-well</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/mitch-1_wide-805b64888352abb0135889b9ad3c5029e9d596ec-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/26/539615662/whats-next-in-the-health-care-debate</guid>
-      <title>What&#39;s Next In The Health Care Debate?</title>
-      <link>http://www.npr.org/2017/07/26/539615662/whats-next-in-the-health-care-debate</link>
-      <description>July 26, 2017 - Senators have narrowed their options and are likely moving forward on a &#34;skinny repeal&#34; that takes away some key provisions in the Affordable Care Act, leaving the rest intact.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-823004562_wide-d90f54efedcf02db243f909d4810ed23388ab1c2-s800-c15.jpg"></a>
-
-July 26, 2017 - Senators have narrowed their options and are likely moving forward on a "skinny repeal" that takes away some key provisions in the Affordable Care Act, leaving the rest intact.
-
-<a href="http://www.npr.org/2017/07/26/539615662/whats-next-in-the-health-care-debate">http://www.npr.org/2017/07/26/539615662/whats-next-in-the-health-care-debate</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-823004562_wide-d90f54efedcf02db243f909d4810ed23388ab1c2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_health_care_ceo_pay.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=539518682&amp;t=progseg&amp;e=539440283&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>As Cost Of U.S. Health Care Skyrockets, So Does Pay Of Health Care CEOs</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/26/539518682/as-cost-of-u-s-health-care-skyrockets-so-does-pay-of-health-care-ceos</link>
-      <description>July 26, 2017 - Compensation in recent years for the CEOs of the largest U.S. health care companies has far outstripped the wage growth of nearly all Americans, an investigation by the news site Axios has found.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_health_care_ceo_pay.mp3?orgId=1&amp;topicId=1128&amp;d=239&amp;p=2&amp;story=539518682&amp;t=progseg&amp;e=539440283&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/ap_831909327827_wide-af7b8716bb90d3c6e01beb1671f84c48a7932dfb-s800-c15.jpg"></a>
-
-July 26, 2017 - Compensation in recent years for the CEOs of the largest U.S. health care companies has far outstripped the wage growth of nearly all Americans, an investigation by the news site Axios has found.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/26/539518682/as-cost-of-u-s-health-care-skyrockets-so-does-pay-of-health-care-ceos">http://www.npr.org/sections/health-shots/2017/07/26/539518682/as-cost-of-u-s-health-care-skyrockets-so-does-pay-of-health-care-ceos</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/ap_831909327827_wide-af7b8716bb90d3c6e01beb1671f84c48a7932dfb-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_senate_health_care_debate_to_dismantle_obamacare_enters_day_2.mp3?orgId=1&amp;topicId=1027&amp;d=234&amp;p=2&amp;story=539576114&amp;t=progseg&amp;e=539440283&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Health Care Debate To Dismantle Obamacare Continues</title>
-      <link>http://www.npr.org/2017/07/26/539576114/senate-health-care-debate-to-dismantle-obamacare-enters-day-2</link>
-      <description>July 26, 2017 - The Senate has another day of debate on healthcare. Tuesday a repeal and replace proposal fell short of the votes needed to pass and on Wednesday, lawmakers will take a vote on a repeal only option.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_senate_health_care_debate_to_dismantle_obamacare_enters_day_2.mp3?orgId=1&amp;topicId=1027&amp;d=234&amp;p=2&amp;story=539576114&amp;t=progseg&amp;e=539440283&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 26, 2017 - The Senate has another day of debate on healthcare. Tuesday a repeal and replace proposal fell short of the votes needed to pass and on Wednesday, lawmakers will take a vote on a repeal only option.
-
-<a href="http://www.npr.org/2017/07/26/539576114/senate-health-care-debate-to-dismantle-obamacare-enters-day-2">http://www.npr.org/2017/07/26/539576114/senate-health-care-debate-to-dismantle-obamacare-enters-day-2</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_hospitals_face_growing_cybersecurity_threats.mp3?orgId=77&amp;topicId=1027&amp;d=247&amp;p=2&amp;story=539290596&amp;t=progseg&amp;e=539440283&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hospitals Face Growing Cybersecurity Threats</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</link>
-      <description>July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients&#39; health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_hospitals_face_growing_cybersecurity_threats.mp3?orgId=77&amp;topicId=1027&amp;d=247&amp;p=2&amp;story=539290596&amp;t=progseg&amp;e=539440283&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s800-c15.jpg"></a>
-
-July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients' health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats">http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</guid>
-      <title>Arepas Are Conquering The World — But Dying At Home In Venezuela</title>
-      <link>http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</link>
-      <description>July 26, 2017 - For Venezuelans, the stuffed cornmeal cakes have long been the daily bread of life. Yet even as arepas are embraced from New York to Spain, they are disappearing in their hunger-wracked homeland.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/royal-15-cheese-arepas-2_wide-b48fe9411754633713960980fe657947819a3159-s800-c15.jpg"></a>
-
-July 26, 2017 - For Venezuelans, the stuffed cornmeal cakes have long been the daily bread of life. Yet even as arepas are embraced from New York to Spain, they are disappearing in their hunger-wracked homeland.
-
-<a href="http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela">http://www.npr.org/sections/thesalt/2017/07/26/538515889/arepas-are-conquering-the-world-but-dying-at-home-in-venezuela</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/royal-15-cheese-arepas-2_wide-b48fe9411754633713960980fe657947819a3159-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
