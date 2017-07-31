@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2017 15:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 23:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 31 Jul 2017 15:00:11 +0000</pubDate>
+    <pubDate>Mon, 31 Jul 2017 23:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tech Incubator Faces Challenges Of Tackling Sexual Harassment Among Investors</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</link>
+      <description>July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence what venture capitalists get invited to its prestigious Demo Day.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s800-c15.jpg"></a>
+
+July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence what venture capitalists get invited to its prestigious Demo Day.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors">http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>242</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</guid>
+      <title>Watchdog Group Files Complaint Over Google Tracking In-Person Purchases</title>
+      <link>http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</link>
+      <description>July 31, 2017 - Using search and app data, combined with third-party credit card records, Google can link online ad viewing to purchases at physical stores. User privacy may be at risk, an advocacy group says.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-684227160_wide-29348b27fb6df2205ce5360b2697657e76cc7118-s800-c15.jpg"></a>
+
+July 31, 2017 - Using search and app data, combined with third-party credit card records, Google can link online ad viewing to purchases at physical stores. User privacy may be at risk, an advocacy group says.
+
+<a href="http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases">http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-684227160_wide-29348b27fb6df2205ce5360b2697657e76cc7118-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_familiar-looking_numbers_are_the_latest_twist_in_robocalls.mp3?orgId=1&amp;topicId=1019&amp;d=226&amp;p=3&amp;story=540515367&amp;t=progseg&amp;e=540513921&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Familiar-Looking Numbers Are The Latest Twist In Robocalls</title>
@@ -222,40 +254,6 @@ July 26, 2017 - Cyberattacks and data breaches are common at health care facilit
 <a href="http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats">http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170726_me_military_tries_to_cut_through_the_noise_of_war.mp3?orgId=406240675&amp;topicId=1091&amp;aggIds=363340041&amp;d=325&amp;p=3&amp;story=539438864&amp;t=progseg&amp;e=539438794&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Military Tries To Cut Through The Noise Of War</title>
-      <link>http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</link>
-      <description>July 26, 2017 - The military wants to reduce the deafening, chaotic roar of firefight noise so that front-line commanders can communicate with their troops.  &#xA;&#xA; - http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170726_me_military_tries_to_cut_through_the_noise_of_war.mp3?orgId=406240675&amp;topicId=1091&amp;aggIds=363340041&amp;d=325&amp;p=3&amp;story=539438864&amp;t=progseg&amp;e=539438794&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/26/price1_wide-6c7f2a554cf208a49bb58f165563e77c94fc4d31-s800-c15.jpg"></a>
-
-July 26, 2017 - The military wants to reduce the deafening, chaotic roar of firefight noise so that front-line commanders can communicate with their troops.  
-
-<a href="http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war">http://www.npr.org/2017/07/26/539438864/military-tries-to-cut-through-the-noise-of-war</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/price1_wide-6c7f2a554cf208a49bb58f165563e77c94fc4d31-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>325</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_to_keep_drivers_from_leaving_uber_tries_to_treat_them_better.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=539227139&amp;t=progseg&amp;e=539189870&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Keep Drivers From Leaving, Uber Tries To Treat Them Better</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better</link>
-      <description>July 25, 2017 - Uber is changing its harsh termination policies and launching a hotline for drivers in distress. Leaders at the tech company are trying to repair the relationship they say is &#34;broken.&#34;</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_to_keep_drivers_from_leaving_uber_tries_to_treat_them_better.mp3?orgId=1&amp;topicId=1019&amp;d=188&amp;p=2&amp;story=539227139&amp;t=progseg&amp;e=539189870&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/25/uber-2_wide-25526943a4d307777b39dc2b77e67cc31af86843-s800-c15.jpg"></a>
-
-July 25, 2017 - Uber is changing its harsh termination policies and launching a hotline for drivers in distress. Leaders at the tech company are trying to repair the relationship they say is "broken."
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better">http://www.npr.org/sections/alltechconsidered/2017/07/25/539227139/to-keep-drivers-from-leaving-uber-tries-to-treat-them-better</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/uber-2_wide-25526943a4d307777b39dc2b77e67cc31af86843-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>188</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

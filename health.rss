@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2017 17:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 23:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 31 Jul 2017 17:00:06 +0000</pubDate>
+    <pubDate>Mon, 31 Jul 2017 23:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Country Music And Brain Research Come Together At Nashville Summer Camp</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</link>
+      <description>July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don&#39;t know why.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s800-c15.jpg"></a>
+
+July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don't know why.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp">http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>293</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</guid>
+      <title>Scientists Edge Closer To Elusive Lab Test For &#39;Chronic Fatigue Syndrome&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</link>
+      <description>July 31, 2017 - Stanford University scientists have found an array of proteins in the blood whose levels correlate closely with the severity of symptoms of the mysterious illness that&#39;s increasingly known as ME/CFS.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-691037177_wide-89ae79e7b80caffc254bbde4ad3a3c4b9d26248d-s800-c15.jpg"></a>
+
+July 31, 2017 - Stanford University scientists have found an array of proteins in the blood whose levels correlate closely with the severity of symptoms of the mysterious illness that's increasingly known as ME/CFS.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome">http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-691037177_wide-89ae79e7b80caffc254bbde4ad3a3c4b9d26248d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/07/31/540062185/why-we-all-scream-when-we-get-ice-cream-brain-freeze</guid>
       <title>Why We All Scream When We Get Ice Cream Brain Freeze</title>
@@ -193,11 +225,12 @@ July 29, 2017 - The relationship has been fraught with disputes about which rese
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_from_rats_to_humans_a_brain_knows_when_it_cant_remember.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=539761740&amp;t=progseg&amp;e=540522101&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>From Rats To Humans, A Brain Knows When It Can&#39;t Remember</title>
       <link>http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</link>
       <description>July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person&#39;s name. That&#39;s because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.</description>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_from_rats_to_humans_a_brain_knows_when_it_cant_remember.mp3?orgId=1&amp;topicId=1128&amp;d=221&amp;p=2&amp;story=539761740&amp;t=progseg&amp;e=540522101&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/30/lab-rat-3_wide-13d3e0cf614bb2aeeac209868457d1a29a02fed3-s800-c15.jpg"></a>
 
@@ -205,6 +238,7 @@ July 28, 2017 - When we see a familiar face, we know instantly if we can remembe
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember">http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/30/lab-rat-3_wide-13d3e0cf614bb2aeeac209868457d1a29a02fed3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>221</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -220,36 +254,6 @@ July 28, 2017 - Charlie had a severe genetic disorder with no known cure, and do
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies">http://www.npr.org/sections/thetwo-way/2017/07/28/540033758/charlie-gard-baby-whose-parents-battled-hospital-over-treatment-dies</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/ap_17209628464159_wide-bd1559cff481609d5b21d730d6918d23108fc619-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</guid>
-      <title>Congress Emerges From Another Health Care Failure Without A Clear Path Forward</title>
-      <link>http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</link>
-      <description>July 28, 2017 - Whether Republicans will try to resurrect health care efforts — again — is uncertain. Republican Sen. John McCain, who cast the decisive no vote, said the bill&#39;s defeat is a chance to &#34;start fresh.&#34;</description>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-823746344_wide-d208ab0adfbecf19822c703b36903fb61f41924e-s800-c15.jpg"></a>
-
-July 28, 2017 - Whether Republicans will try to resurrect health care efforts — again — is uncertain. Republican Sen. John McCain, who cast the decisive no vote, said the bill's defeat is a chance to "start fresh."
-
-<a href="http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward">http://www.npr.org/2017/07/28/540021021/congress-emerges-from-another-health-care-failure-without-a-clear-path-forward</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-823746344_wide-d208ab0adfbecf19822c703b36903fb61f41924e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</guid>
-      <title>Dutch-Led Fund Raises $300 Million To Replace U.S. Funding For Sexual Health</title>
-      <link>http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</link>
-      <description>July 28, 2017 - In March, the &#34;She Decides&#34; initiative announced $190 million for charities that would lose U.S. support under the Trump administration&#39;s anti-abortion policy. Since then, money has kept pouring in.</description>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-632497182_wide-b917453a342bf3e8e2e01b3ddb64801092fe9ebb-s800-c15.jpg"></a>
-
-July 28, 2017 - In March, the "She Decides" initiative announced $190 million for charities that would lose U.S. support under the Trump administration's anti-abortion policy. Since then, money has kept pouring in.
-
-<a href="http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health">http://www.npr.org/2017/07/28/539991817/dutch-led-fund-raises-300-million-to-replace-u-s-funding-for-sexual-health</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-632497182_wide-b917453a342bf3e8e2e01b3ddb64801092fe9ebb-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
