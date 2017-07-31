@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jul 2017 14:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 12:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 29 Jul 2017 14:00:47 +0000</pubDate>
+    <pubDate>Mon, 31 Jul 2017 12:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,82 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170729_wesat_invisibilia_-_alien_hand_rolloff.mp3?orgId=1&amp;topicId=1129&amp;d=340&amp;p=7&amp;story=540214710&amp;t=progseg&amp;e=540213936&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>http://www.npr.org/sections/thesalt/2017/07/31/540062185/why-we-all-scream-when-we-get-ice-cream-brain-freeze</guid>
+      <title>Why We All Scream When We Get Ice Cream Brain Freeze</title>
+      <link>http://www.npr.org/sections/thesalt/2017/07/31/540062185/why-we-all-scream-when-we-get-ice-cream-brain-freeze</link>
+      <description>July 31, 2017 - When temperatures soar, there&#39;s nothing like a frozen treat to take off the edge. But if we dive in too fast, our brains are thrown for a distressing and sometimes painful loop. Here&#39;s why.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/icecreampic_wide-7571db3ecfa307446b11a21ffbb458bac1112c51-s800-c15.jpg"></a>
+
+July 31, 2017 - When temperatures soar, there's nothing like a frozen treat to take off the edge. But if we dive in too fast, our brains are thrown for a distressing and sometimes painful loop. Here's why.
+
+<a href="http://www.npr.org/sections/thesalt/2017/07/31/540062185/why-we-all-scream-when-we-get-ice-cream-brain-freeze">http://www.npr.org/sections/thesalt/2017/07/31/540062185/why-we-all-scream-when-we-get-ice-cream-brain-freeze</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/icecreampic_wide-7571db3ecfa307446b11a21ffbb458bac1112c51-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_new_florida_law_lets_residents_challenge_school_textbooks.mp3?orgId=1&amp;topicId=1013&amp;d=191&amp;p=3&amp;story=540041860&amp;t=progseg&amp;e=540513921&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>New Florida Law Lets Residents Challenge School Textbooks</title>
+      <link>http://www.npr.org/2017/07/31/540041860/new-florida-law-lets-residents-challenge-school-textbooks</link>
+      <description>July 31, 2017 - The new bill was pushed by a conservative group critical of the way evolution, climate change and government were being taught in Florida schools.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_new_florida_law_lets_residents_challenge_school_textbooks.mp3?orgId=1&amp;topicId=1013&amp;d=191&amp;p=3&amp;story=540041860&amp;t=progseg&amp;e=540513921&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-532858307_wide-11c53f6cf1eebbaed6c3870fe84e3f21e6a21871-s800-c15.jpg"></a>
+
+July 31, 2017 - The new bill was pushed by a conservative group critical of the way evolution, climate change and government were being taught in Florida schools.
+
+<a href="http://www.npr.org/2017/07/31/540041860/new-florida-law-lets-residents-challenge-school-textbooks">http://www.npr.org/2017/07/31/540041860/new-florida-law-lets-residents-challenge-school-textbooks</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-532858307_wide-11c53f6cf1eebbaed6c3870fe84e3f21e6a21871-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>191</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_sperm_counts_plummet_in_western_men_study_finds.mp3?orgId=1&amp;topicId=1066&amp;d=152&amp;p=3&amp;story=539517210&amp;t=progseg&amp;e=540513921&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Sperm Counts Plummet In Western Men, Study Finds</title>
+      <link>http://www.npr.org/2017/07/31/539517210/sperm-counts-plummet-in-western-men-study-finds</link>
+      <description>July 31, 2017 - Data from nearly 43,000 men around the world found a 52 percent decline in sperm counts in Western countries. It could reflect a decline in health overall, scientists say.</description>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_sperm_counts_plummet_in_western_men_study_finds.mp3?orgId=1&amp;topicId=1066&amp;d=152&amp;p=3&amp;story=539517210&amp;t=progseg&amp;e=540513921&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/hbarczyk_npr_sperm_finalart_wide-1eacc75f8541725b6ddcbf360615354f1b855571-s800-c15.jpg"></a>
+
+July 31, 2017 - Data from nearly 43,000 men around the world found a 52 percent decline in sperm counts in Western countries. It could reflect a decline in health overall, scientists say.
+
+<a href="http://www.npr.org/2017/07/31/539517210/sperm-counts-plummet-in-western-men-study-finds">http://www.npr.org/2017/07/31/539517210/sperm-counts-plummet-in-western-men-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/hbarczyk_npr_sperm_finalart_wide-1eacc75f8541725b6ddcbf360615354f1b855571-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>152</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</guid>
+      <title>Scientists Still Seek A Reliable DUI Test For Marijuana </title>
+      <link>http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</link>
+      <description>July 30, 2017 - Coloradans can get arrested for driving while stoned. But with no good roadside tools, officers&#39; determinations are more subjective than for alcohol DUIs. Scientists hope to find chemical markers.</description>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-576713119_wide-efa0077721679cc1d956f30656cfd0ef37ecce9f-s800-c15.jpg"></a>
+
+July 30, 2017 - Coloradans can get arrested for driving while stoned. But with no good roadside tools, officers' determinations are more subjective than for alcohol DUIs. Scientists hope to find chemical markers.
+
+<a href="http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana">http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-576713119_wide-efa0077721679cc1d956f30656cfd0ef37ecce9f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170729_wesat_invisibilia_-_alien_hand_rolloff.mp3?orgId=1&amp;topicId=1129&amp;d=339&amp;p=7&amp;story=540214710&amp;t=progseg&amp;e=540213936&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>When Your Hand Has A Mind Of Its Own</title>
       <link>http://www.npr.org/2017/07/29/540214710/when-your-hand-has-a-mind-of-its-own</link>
       <description>July 29, 2017 - What happens when you think and how you act don&#39;t align? We tell the story of a woman diagnosed with what&#39;s known as &#34;alien hand syndrome.&#34;&#xA;&#xA; - http://www.npr.org/2017/07/29/540214710/when-your-hand-has-a-mind-of-its-own</description>
       <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170729_wesat_invisibilia_-_alien_hand_rolloff.mp3?orgId=1&amp;topicId=1129&amp;d=340&amp;p=7&amp;story=540214710&amp;t=progseg&amp;e=540213936&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/07/20170729_wesat_invisibilia_-_alien_hand_rolloff.mp3?orgId=1&amp;topicId=1129&amp;d=339&amp;p=7&amp;story=540214710&amp;t=progseg&amp;e=540213936&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[July 29, 2017 - What happens when you think and how you act don't align? We tell the story of a woman diagnosed with what's known as "alien hand syndrome."
 
 <a href="http://www.npr.org/2017/07/29/540214710/when-your-hand-has-a-mind-of-its-own">http://www.npr.org/2017/07/29/540214710/when-your-hand-has-a-mind-of-its-own</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>340</itunes:duration>
+      <itunes:duration>339</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -45,12 +109,12 @@
       <description>July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person&#39;s name. That&#39;s because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.</description>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/30/lab-rat-3_wide-13d3e0cf614bb2aeeac209868457d1a29a02fed3-s800-c15.jpg"></a>
 
 July 28, 2017 - When we see a familiar face, we know instantly if we can remember that person's name. That's because the human brain has an ability called metamemory. Looks like rats may have that higher power, too.
 
 <a href="http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember">http://www.npr.org/sections/health-shots/2017/07/28/539761740/from-rats-to-humans-a-brain-knows-when-it-cant-remember</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/istock-645663070_wide-da5fa7f3e3dead63d9c23661350aff2e1c326211-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/30/lab-rat-3_wide-13d3e0cf614bb2aeeac209868457d1a29a02fed3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -192,72 +256,6 @@ July 26, 2017 - The scientists introduced genes from two other flowers that allo
 <a href="http://www.npr.org/2017/07/26/539520353/looking-back-at-the-most-powerful-earthquake-ever-to-strike-north-america">http://www.npr.org/2017/07/26/539520353/looking-back-at-the-most-powerful-earthquake-ever-to-strike-north-america</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>1900</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</guid>
-      <title>3, 2, 1 ... Bake Off! The Mission To Make Bread In Space</title>
-      <link>http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</link>
-      <description>July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous. But bread is a big deal in Germany, so scientists and engineers there are teaming up to create an oven and dough fit for microgravity.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/astronaut_bis_wide-23484627065141b462c212a4af84372c6503a8a6-s800-c15.jpg"></a>
-
-July 26, 2017 - On Earth, crumbs are harmless, but in orbit they can be perilous. But bread is a big deal in Germany, so scientists and engineers there are teaming up to create an oven and dough fit for microgravity.
-
-<a href="http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space">http://www.npr.org/sections/thesalt/2017/07/26/539103284/3-2-1-bake-off-the-mission-to-make-bread-in-space</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/astronaut_bis_wide-23484627065141b462c212a4af84372c6503a8a6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_after_a_year_in_space_the_air_hasnt_gone_out_of_nasas_inflated_module.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=196&amp;p=3&amp;story=532610193&amp;t=progseg&amp;e=539682447&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>After A Year In Space, The Air Hasn&#39;t Gone Out Of NASA&#39;s Inflated Module</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</link>
-      <description>July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it&#39;s doing well in the harsh environment.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170727_me_after_a_year_in_space_the_air_hasnt_gone_out_of_nasas_inflated_module.mp3?orgId=1&amp;topicId=1026&amp;aggIds=156490415&amp;d=196&amp;p=3&amp;story=532610193&amp;t=progseg&amp;e=539682447&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s800-c15.jpg"></a>
-
-July 26, 2017 - The Bigelow Expandable Activity Module was pumped up after it arrived at the International Space Station in 2016. NASA says it's doing well in the harsh environment.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module">http://www.npr.org/sections/thetwo-way/2017/07/26/532610193/after-a-year-in-space-the-air-hasnt-gone-out-of-nasas-inflated-module</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/iss048e069952_wide-95229e7a30b97115b69f3db1da50b18633f67e0d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>196</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Student Athletes Who Specialize Early Are Injured More Often, Study Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</link>
-      <description>July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn&#39;t specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170725_atc_kids_who_specialize_in_one_sport_get_more_injuries.mp3?orgId=1&amp;topicId=1128&amp;d=208&amp;p=2&amp;story=539334374&amp;t=progseg&amp;e=539189870&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s800-c15.jpg"></a>
-
-July 25, 2017 - High school athletes who tended to focus on one sport were 50 percent more likely to get hurt than those who hadn't specialized. Injuries included ankle sprains, knee tendonitis, and stress fractures.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds">http://www.npr.org/sections/health-shots/2017/07/25/539334374/student-athletes-who-specialize-early-are-injured-more-often-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/soccer_wide-21e5b8bdf46d919f0236d34933316f9f5f1df562-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>208</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_hidden_brain_cigarette_taxes.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=174&amp;p=3&amp;story=539183590&amp;t=progseg&amp;e=539182488&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hidden Brain: How Cigarette Taxes Affect Food Buying</title>
-      <link>http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes</link>
-      <description>July 25, 2017 - A new study shows a connection between cigarette taxes and food stamps. When cigarette taxes go up, smokers end up spending more of their income on cigarettes and that leaves less money for food.</description>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170725_me_hidden_brain_cigarette_taxes.mp3?orgId=1&amp;topicId=1024&amp;aggIds=423302056&amp;d=174&amp;p=3&amp;story=539183590&amp;t=progseg&amp;e=539182488&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/25/gettyimages-85753442_wide-563105c5779a630b135a763ce7bf7756beea3820-s800-c15.jpg"></a>
-
-July 25, 2017 - A new study shows a connection between cigarette taxes and food stamps. When cigarette taxes go up, smokers end up spending more of their income on cigarettes and that leaves less money for food.
-
-<a href="http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes">http://www.npr.org/2017/07/25/539183590/hidden-brain-cigarette-taxes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/gettyimages-85753442_wide-563105c5779a630b135a763ce7bf7756beea3820-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>174</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
