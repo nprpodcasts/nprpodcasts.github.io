@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 17:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 18:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 17:00:30 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 18:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</guid>
+      <title>&#39;I Was Somebody&#39;s Mother&#39;: Reflections On The Guilt And Grief Of Miscarriage</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</link>
+      <description>August 1, 2017 - Ariel Levy was five months pregnant and alone in a hotel room in Mongolia when she gave birth. Her son lived only 10 minutes. Afterward, Levy was haunted by the notion that she had caused his death.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/hi-res-ariel-levy-david-klagsbrun_wide-f344286001ede78866c0abd64a8d9e8339594de9-s800-c15.jpg"></a>
+
+August 1, 2017 - Ariel Levy was five months pregnant and alone in a hotel room in Mongolia when she gave birth. Her son lived only 10 minutes. Afterward, Levy was haunted by the notion that she had caused his death.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage">http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/hi-res-ariel-levy-david-klagsbrun_wide-f344286001ede78866c0abd64a8d9e8339594de9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</guid>
+      <title>Drug Puts A $750,000 &#39;Price Tag On Life&#39;</title>
+      <link>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</link>
+      <description>August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s800-c15.jpg"></a>
+
+August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.
+
+<a href="http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life">http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
       <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
@@ -222,36 +252,6 @@ July 31, 2017 - Girls are much less likely to be diagnosed with autism, but that
 <a href="http://www.npr.org/2017/07/30/540359356/doctors-make-the-case-against-taking-a-full-course-of-antibiotics">http://www.npr.org/2017/07/30/540359356/doctors-make-the-case-against-taking-a-full-course-of-antibiotics</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>227</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</guid>
-      <title>Scientists Still Seek A Reliable DUI Test For Marijuana </title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</link>
-      <description>July 30, 2017 - Coloradans can get arrested for driving while stoned. But with no good roadside tools, officers&#39; determinations are more subjective than for alcohol DUIs. Scientists hope to find chemical markers.</description>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-576713119_wide-efa0077721679cc1d956f30656cfd0ef37ecce9f-s800-c15.jpg"></a>
-
-July 30, 2017 - Coloradans can get arrested for driving while stoned. But with no good roadside tools, officers' determinations are more subjective than for alcohol DUIs. Scientists hope to find chemical markers.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana">http://www.npr.org/sections/health-shots/2017/07/30/523004450/scientists-still-seek-a-reliable-dui-test-for-marijuana</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-576713119_wide-efa0077721679cc1d956f30656cfd0ef37ecce9f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience</guid>
-      <title>How Do Refugee Teens Build Resilience?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience</link>
-      <description>July 30, 2017 - We often think of resilience as something that comes from within. Syrian youngsters have a different perspective.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience</description>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/gettyimages-690966126_wide-5318dcb7519ab405cc4be06b3781e32eb643338d-s800-c15.jpg"></a>
-
-July 30, 2017 - We often think of resilience as something that comes from within. Syrian youngsters have a different perspective.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience">http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-690966126_wide-5318dcb7519ab405cc4be06b3781e32eb643338d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

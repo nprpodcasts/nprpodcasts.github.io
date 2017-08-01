@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 18:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 17:00:28 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 18:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</guid>
+      <title>Drug Puts A $750,000 &#39;Price Tag On Life&#39;</title>
+      <link>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</link>
+      <description>August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s800-c15.jpg"></a>
+
+August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.
+
+<a href="http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life">http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
       <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
@@ -243,21 +258,6 @@ July 27, 2017 - Federal maps help determine who on the coast must buy flood insu
 <a href="http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise">http://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/27/gettyimages-174211672_wide-17132d6ef48d733928463f470fff1d0df427716d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>277</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution</guid>
-      <title>Perdue Farms Signs Up For A Chicken Welfare Revolution</title>
-      <link>http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution</link>
-      <description>July 27, 2017 - The poultry industry may be on the verge of adopting ambitious new animal-welfare standards, giving chickens more space and daylight, and even returning to older, slower-growing chicken breeds.</description>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/26/img_5782_wide-0b2cbcb9d65512613ab934a4a15043bd410d34a5-s800-c15.jpg"></a>
-
-July 27, 2017 - The poultry industry may be on the verge of adopting ambitious new animal-welfare standards, giving chickens more space and daylight, and even returning to older, slower-growing chicken breeds.
-
-<a href="http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution">http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/img_5782_wide-0b2cbcb9d65512613ab934a4a15043bd410d34a5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
