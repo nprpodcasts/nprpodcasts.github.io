@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2017 23:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 14:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 31 Jul 2017 23:00:16 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 14:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_kevin_harts_new_online_comedy_service_joins_crowded_streaming_market.mp3?orgId=1&amp;topicId=1138&amp;d=100&amp;p=3&amp;story=540755174&amp;t=progseg&amp;e=540754005&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Kevin Hart&#39;s New Online Comedy Service Joins Crowded Streaming Market</title>
+      <link>http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market</link>
+      <description>August 1, 2017 - Kevin Hart is launching a streaming comedy service. The actor&#39;s Laugh Out Loud Network, which rolls out this week, enters an already crowded market.  LANGUAGE ADVISORY: There are two bleeps in actualities in this piece at :14 and :44 in.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_kevin_harts_new_online_comedy_service_joins_crowded_streaming_market.mp3?orgId=1&amp;topicId=1138&amp;d=100&amp;p=3&amp;story=540755174&amp;t=progseg&amp;e=540754005&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 1, 2017 - Kevin Hart is launching a streaming comedy service. The actor's Laugh Out Loud Network, which rolls out this week, enters an already crowded market.  LANGUAGE ADVISORY: There are two bleeps in actualities in this piece at :14 and :44 in.
+
+<a href="http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market">http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>100</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tech Incubator Faces Challenges Of Tackling Sexual Harassment Among Investors</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</link>
-      <description>July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence what venture capitalists get invited to its prestigious Demo Day.</description>
+      <description>July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence which venture capitalists get invited to its prestigious Demo Day.</description>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s800-c15.jpg"></a>
 
-July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence what venture capitalists get invited to its prestigious Demo Day.
+July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence which venture capitalists get invited to its prestigious Demo Day.
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors">http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s3000-c15.jpg"></itunes:image>
@@ -237,23 +252,6 @@ July 26, 2017 - Underneath high-rise apartment buildings along the 2-mile island
 <a href="http://www.npr.org/2017/07/26/539304811/how-new-york-s-roosevelt-island-sucks-away-summer-trash-stink">http://www.npr.org/2017/07/26/539304811/how-new-york-s-roosevelt-island-sucks-away-summer-trash-stink</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/25/img_1357_wide-46ebaadccef9d534d8b9d3894aba176e5014e3c5-s3000-c15.jpg"></itunes:image>
       <itunes:duration>224</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_hospitals_face_growing_cybersecurity_threats.mp3?orgId=77&amp;topicId=1027&amp;d=247&amp;p=2&amp;story=539290596&amp;t=progseg&amp;e=539440283&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hospitals Face Growing Cybersecurity Threats</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</link>
-      <description>July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients&#39; health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_hospitals_face_growing_cybersecurity_threats.mp3?orgId=77&amp;topicId=1027&amp;d=247&amp;p=2&amp;story=539290596&amp;t=progseg&amp;e=539440283&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s800-c15.jpg"></a>
-
-July 26, 2017 - Cyberattacks and data breaches are common at health care facilities, and they can put patients' health at risk. Hospitals are behind the curve in beefing up defenses, industry analysts say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats">http://www.npr.org/sections/health-shots/2017/07/26/539290596/hospitals-face-growing-cybersecurity-threats</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-557136215_wide-2dcdf77ee4b717b7fe89e3455b7d319ccc8891a2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>247</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
