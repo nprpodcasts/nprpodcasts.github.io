@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 21:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 22:00:45 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 21:00:24 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 22:00:45 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</guid>
+      <title>Federal Judge Strikes Down Portions Of An Alabama Abortion Law</title>
+      <link>http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</link>
+      <description>August 1, 2017 - The law had meant that a minor without parental consent for an abortion could face a legal proceeding involving the district attorney, her parents and a person representing the fetus.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/ap_400071956392_wide-ffa7d223f300ebe0cff2b9342b6fa617e36c3049-s800-c15.jpg"></a>
+
+August 1, 2017 - The law had meant that a minor without parental consent for an abortion could face a legal proceeding involving the district attorney, her parents and a person representing the fetus.
+
+<a href="http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law">http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/ap_400071956392_wide-ffa7d223f300ebe0cff2b9342b6fa617e36c3049-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</guid>
       <title>A Big Win For Afghan Women&#39;s Wheelchair Hoopsters</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</link>
-      <description>August 1, 2017 - The players used to be shy about playing sports as women who use wheelchairs. Today, they&#39;re international champions and role models in their country.</description>
+      <description>August 1, 2017 - The players used to be shy about playing sports as women using wheelchairs. Today, they&#39;re international champions and role models in their country.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s800-c15.jpg"></a>
 
-August 1, 2017 - The players used to be shy about playing sports as women who use wheelchairs. Today, they're international champions and role models in their country.
+August 1, 2017 - The players used to be shy about playing sports as women using wheelchairs. Today, they're international champions and role models in their country.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins">http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s3000-c15.jpg"></itunes:image>
@@ -71,11 +86,12 @@ August 1, 2017 - The high cost of Spinraza, a new and promising treatment for sp
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170801_atc_planning_to_watch_the_eclipse_heres_what_you_need_to_protect_your_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=250&amp;p=2&amp;story=540661570&amp;t=progseg&amp;e=540763078&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</link>
       <description>August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what&#39;s being sold out there isn&#39;t safe.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170801_atc_planning_to_watch_the_eclipse_heres_what_you_need_to_protect_your_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=250&amp;p=2&amp;story=540661570&amp;t=progseg&amp;e=540763078&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s800-c15.jpg"></a>
 
@@ -83,6 +99,7 @@ August 1, 2017 - A total solar eclipse is one of the most magnificent sights you
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes">http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>250</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ July 31, 2017 - Data from nearly 43,000 men around the world found that sperm co
 <a href="http://www.npr.org/2017/07/31/539517210/sperm-counts-plummet-in-western-men-study-finds">http://www.npr.org/2017/07/31/539517210/sperm-counts-plummet-in-western-men-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/hbarczyk_npr_sperm_finalart_wide-1eacc75f8541725b6ddcbf360615354f1b855571-s3000-c15.jpg"></itunes:image>
       <itunes:duration>150</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_social_camouflage_may_lead_to_underdiagnosis_of_autism_in_girls.mp3?orgId=1&amp;topicId=1066&amp;d=242&amp;p=3&amp;story=539123377&amp;t=progseg&amp;e=540513921&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Social Camouflage&#39; May Lead To Underdiagnosis Of Autism In Girls</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/31/539123377/social-camouflage-may-lead-to-underdiagnosis-of-autism-in-girls</link>
-      <description>July 31, 2017 - Girls are much less likely to be diagnosed with autism, but that may be because the signs of the disorder are different than in boys. And girls may be missing out on help as a result.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_social_camouflage_may_lead_to_underdiagnosis_of_autism_in_girls.mp3?orgId=1&amp;topicId=1066&amp;d=242&amp;p=3&amp;story=539123377&amp;t=progseg&amp;e=540513921&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/autism-color_resized_wide-efbbb6bbb505277c626f69da65e38144c644153b-s800-c15.jpg"></a>
-
-July 31, 2017 - Girls are much less likely to be diagnosed with autism, but that may be because the signs of the disorder are different than in boys. And girls may be missing out on help as a result.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/31/539123377/social-camouflage-may-lead-to-underdiagnosis-of-autism-in-girls">http://www.npr.org/sections/health-shots/2017/07/31/539123377/social-camouflage-may-lead-to-underdiagnosis-of-autism-in-girls</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/autism-color_resized_wide-efbbb6bbb505277c626f69da65e38144c644153b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

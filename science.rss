@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 18:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 22:00:43 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 18:00:21 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 22:00:43 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -39,11 +39,12 @@ August 1, 2017 - The high cost of Spinraza, a new and promising treatment for sp
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170801_atc_planning_to_watch_the_eclipse_heres_what_you_need_to_protect_your_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=250&amp;p=2&amp;story=540661570&amp;t=progseg&amp;e=540763078&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</link>
       <description>August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what&#39;s being sold out there isn&#39;t safe.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170801_atc_planning_to_watch_the_eclipse_heres_what_you_need_to_protect_your_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=250&amp;p=2&amp;story=540661570&amp;t=progseg&amp;e=540763078&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s800-c15.jpg"></a>
 
@@ -51,6 +52,7 @@ August 1, 2017 - A total solar eclipse is one of the most magnificent sights you
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes">http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>250</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
