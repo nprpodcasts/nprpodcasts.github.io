@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 18:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 19:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 18:00:23 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 19:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170801_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;d=2225&amp;p=13&amp;story=540822381&amp;t=progseg&amp;e=540824086&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;I Was Somebody&#39;s Mother&#39;: Reflections On The Guilt And Grief Of Miscarriage</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</link>
       <description>August 1, 2017 - Ariel Levy was five months pregnant and alone in a hotel room in Mongolia when she gave birth. Her son lived only 10 minutes. Afterward, Levy was haunted by the notion that she had caused his death.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170801_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;d=2225&amp;p=13&amp;story=540822381&amp;t=progseg&amp;e=540824086&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/hi-res-ariel-levy-david-klagsbrun_wide-f344286001ede78866c0abd64a8d9e8339594de9-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ August 1, 2017 - Ariel Levy was five months pregnant and alone in a hotel room i
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage">http://www.npr.org/sections/health-shots/2017/08/01/540822381/i-was-somebodys-mother-reflections-on-the-guilt-and-grief-of-miscarriage</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/hi-res-ariel-levy-david-klagsbrun_wide-f344286001ede78866c0abd64a8d9e8339594de9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
