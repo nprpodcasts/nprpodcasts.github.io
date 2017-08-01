@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 19:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 21:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 19:00:09 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 21:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</guid>
+      <title>A Big Win For Afghan Women&#39;s Wheelchair Hoopsters</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</link>
+      <description>August 1, 2017 - The players used to be shy about playing sports as women who use wheelchairs. Today, they&#39;re international champions and role models in their country.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s800-c15.jpg"></a>
+
+August 1, 2017 - The players used to be shy about playing sports as women who use wheelchairs. Today, they're international champions and role models in their country.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins">http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170801_fa_01.mp3?orgId=427869011&amp;topicId=1033&amp;d=2225&amp;p=13&amp;story=540822381&amp;t=progseg&amp;e=540824086&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;I Was Somebody&#39;s Mother&#39;: Reflections On The Guilt And Grief Of Miscarriage</title>
@@ -117,14 +132,14 @@ August 1, 2017 - A total solar eclipse is one of the most magnificent sights you
     </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets</guid>
-      <title>Trump&#39;s Tweets Threaten To Destabilize Insurance Markets</title>
+      <title>Senate To Hold Bipartisan Hearings To Stabilize Insurance Markets</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets</link>
-      <description>August 1, 2017 - The president says he may cut off payments to insurance companies. These are federal payments that help insurers discount the price of the health plans they sell to people who have lower incomes.</description>
+      <description>August 1, 2017 - A Senate committee will hold hearings on stabilizing the Obamacare markets in 2018. The chair called on President Trump to continue payments to insurers that help lower costs for low-income people.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-0f984ed8f28be2d86204a4468072e2336bfaa4bd-s800-c15.jpg"></a>
 
-August 1, 2017 - The president says he may cut off payments to insurance companies. These are federal payments that help insurers discount the price of the health plans they sell to people who have lower incomes.
+August 1, 2017 - A Senate committee will hold hearings on stabilizing the Obamacare markets in 2018. The chair called on President Trump to continue payments to insurers that help lower costs for low-income people.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-0f984ed8f28be2d86204a4468072e2336bfaa4bd-s3000-c15.jpg"></itunes:image>
@@ -239,21 +254,6 @@ July 31, 2017 - Girls are much less likely to be diagnosed with autism, but that
 <a href="http://www.npr.org/sections/health-shots/2017/07/31/539123377/social-camouflage-may-lead-to-underdiagnosis-of-autism-in-girls">http://www.npr.org/sections/health-shots/2017/07/31/539123377/social-camouflage-may-lead-to-underdiagnosis-of-autism-in-girls</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/autism-color_resized_wide-efbbb6bbb505277c626f69da65e38144c644153b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>242</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_antibiotic_course_analysis.mp3?orgId=1&amp;topicId=1128&amp;d=227&amp;p=10&amp;story=540359356&amp;t=progseg&amp;e=540359324&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Doctors Make The Case Against Taking A Full Course Of Antibiotics</title>
-      <link>http://www.npr.org/2017/07/30/540359356/doctors-make-the-case-against-taking-a-full-course-of-antibiotics</link>
-      <description>July 30, 2017 - Some U.K. doctors recently pushed back against the idea of taking a full course of antibiotics. Lulu Garcia-Navarro speaks with doctor Tim Peto, a professor at the University of Oxford.</description>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_antibiotic_course_analysis.mp3?orgId=1&amp;topicId=1128&amp;d=227&amp;p=10&amp;story=540359356&amp;t=progseg&amp;e=540359324&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 30, 2017 - Some U.K. doctors recently pushed back against the idea of taking a full course of antibiotics. Lulu Garcia-Navarro speaks with doctor Tim Peto, a professor at the University of Oxford.
-
-<a href="http://www.npr.org/2017/07/30/540359356/doctors-make-the-case-against-taking-a-full-course-of-antibiotics">http://www.npr.org/2017/07/30/540359356/doctors-make-the-case-against-taking-a-full-course-of-antibiotics</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>227</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
