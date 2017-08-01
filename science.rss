@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 17:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 14:00:22 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 17:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
+      <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</link>
+      <description>August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what&#39;s being sold out there isn&#39;t safe.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s800-c15.jpg"></a>
+
+August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what's being sold out there isn't safe.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes">http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents</guid>
       <title>Who Were Your Millionth-Great-Grandparents?</title>
@@ -62,12 +77,12 @@ July 31, 2017 - Researchers in Nashville are tapping into a country music camp t
       <description>July 31, 2017 - Because demand for seafood is rising and wild stocks are not, a hatchery owner in Canada is hoping his model of &#34;responsible agriculture&#34; can keep the prized fish both on the menu and in the water.</description>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/fish1_wide-44dfd2dc0b7a038ce22e42a26d040f031410b828-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/fish1_wide-14fc5c51744958c880e13e9d4ad8ab27c54c8fe9-s800-c15.jpg"></a>
 
 July 31, 2017 - Because demand for seafood is rising and wild stocks are not, a hatchery owner in Canada is hoping his model of "responsible agriculture" can keep the prized fish both on the menu and in the water.
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together">http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/fish1_wide-44dfd2dc0b7a038ce22e42a26d040f031410b828-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/fish1_wide-14fc5c51744958c880e13e9d4ad8ab27c54c8fe9-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,23 +258,6 @@ July 27, 2017 - The poultry industry may be on the verge of adopting ambitious n
 
 <a href="http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution">http://www.npr.org/sections/thesalt/2017/07/27/537929392/perdue-farms-signs-up-for-a-chicken-welfare-revolution</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/26/img_5782_wide-0b2cbcb9d65512613ab934a4a15043bd410d34a5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_slug_slime_inspires_scientists_to_invent_sticky_surgical_glue_.mp3?orgId=1&amp;topicId=1128&amp;d=127&amp;p=2&amp;story=539473673&amp;t=progseg&amp;e=539703822&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Slug Slime Inspires Scientists To Invent Sticky Surgical Glue </title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue</link>
-      <description>July 27, 2017 - The words &#34;strong&#34; and &#34;inspiring&#34; are not usually assigned to garden slugs. But slug slime inspired materials scientists to invent a new kind of adhesive that could one day help heal human wounds.</description>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170727_atc_slug_slime_inspires_scientists_to_invent_sticky_surgical_glue_.mp3?orgId=1&amp;topicId=1128&amp;d=127&amp;p=2&amp;story=539473673&amp;t=progseg&amp;e=539703822&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-475180447_wide-17cd2c449f9a4bb9b37f3b6cbe33aca46babde8b-s800-c15.jpg"></a>
-
-July 27, 2017 - The words "strong" and "inspiring" are not usually assigned to garden slugs. But slug slime inspired materials scientists to invent a new kind of adhesive that could one day help heal human wounds.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue">http://www.npr.org/sections/health-shots/2017/07/27/539473673/slug-slime-inspires-scientists-to-invent-sticky-surgical-glue</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-475180447_wide-17cd2c449f9a4bb9b37f3b6cbe33aca46babde8b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>127</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

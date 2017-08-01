@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 17:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 14:00:24 +0000</pubDate>
+    <pubDate>Tue, 01 Aug 2017 17:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</guid>
+      <title>Planning To Watch The Eclipse? Here&#39;s What You Need To Protect Your Eyes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</link>
+      <description>August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what&#39;s being sold out there isn&#39;t safe.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s800-c15.jpg"></a>
+
+August 1, 2017 - A total solar eclipse is one of the most magnificent sights you can ever see. But you need the right kind of eye protection, and some of what's being sold out there isn't safe.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes">http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_hr1_return-ac-lena.mp3?orgId=1&amp;topicId=1128&amp;d=29&amp;p=3&amp;story=540755123&amp;t=progseg&amp;e=540754005&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>This Doctor Was Ready To Have Her Baby When She Delivered Another</title>
@@ -149,11 +164,11 @@ July 31, 2017 - When temperatures soar, there's nothing like a frozen treat to t
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_a_hospital_ceo_watches_washington_struggle_over_health_care.mp3?orgId=1&amp;topicId=1027&amp;d=226&amp;p=3&amp;story=540515360&amp;t=progseg&amp;e=540513921&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Hospital CEO Watches Washington Struggle Over Health Care</title>
       <link>http://www.npr.org/2017/07/31/540515360/a-hospital-ceo-watches-washington-struggle-over-health-care</link>
-      <description>July 31, 2017 - As a provider of both a health care and insurance, Northwell Health has a huge stake in what health care legislation Congress proposes. CEO Michael Dowling says it&#39;s time for Democrats and health care professionals to come to the table.</description>
+      <description>July 31, 2017 - Northwell Health has a huge stake in what health care legislation Congress proposes. CEO Michael Dowling says it&#39;s time for Democrats and health care professionals to come to the table.</description>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_a_hospital_ceo_watches_washington_struggle_over_health_care.mp3?orgId=1&amp;topicId=1027&amp;d=226&amp;p=3&amp;story=540515360&amp;t=progseg&amp;e=540513921&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 31, 2017 - As a provider of both a health care and insurance, Northwell Health has a huge stake in what health care legislation Congress proposes. CEO Michael Dowling says it's time for Democrats and health care professionals to come to the table.
+      <itunes:summary><![CDATA[July 31, 2017 - Northwell Health has a huge stake in what health care legislation Congress proposes. CEO Michael Dowling says it's time for Democrats and health care professionals to come to the table.
 
 <a href="http://www.npr.org/2017/07/31/540515360/a-hospital-ceo-watches-washington-struggle-over-health-care">http://www.npr.org/2017/07/31/540515360/a-hospital-ceo-watches-washington-struggle-over-health-care</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -237,21 +252,6 @@ July 30, 2017 - We often think of resilience as something that comes from within
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience">http://www.npr.org/sections/goatsandsoda/2017/07/30/540002667/how-do-refugee-teens-build-resilience</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/gettyimages-690966126_wide-5318dcb7519ab405cc4be06b3781e32eb643338d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170729_atc_aca_what_now.mp3?orgId=1&amp;topicId=1027&amp;d=254&amp;p=2&amp;story=540300069&amp;t=progseg&amp;e=540300024&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Path Forward In Health Care Remains Uncertain For Both Parties </title>
-      <link>http://www.npr.org/2017/07/29/540300069/the-path-forward-in-health-care-remains-uncertain-for-both-parties</link>
-      <description>July 29, 2017 - The failure of the GOP&#39;s health care bill in the senate means the Affordable Care Act is still law. NPR&#39;s Noel King speaks with Julie Rovner of Kaiser Health News about where things might go now.</description>
-      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170729_atc_aca_what_now.mp3?orgId=1&amp;topicId=1027&amp;d=254&amp;p=2&amp;story=540300069&amp;t=progseg&amp;e=540300024&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 29, 2017 - The failure of the GOP's health care bill in the senate means the Affordable Care Act is still law. NPR's Noel King speaks with Julie Rovner of Kaiser Health News about where things might go now.
-
-<a href="http://www.npr.org/2017/07/29/540300069/the-path-forward-in-health-care-remains-uncertain-for-both-parties">http://www.npr.org/2017/07/29/540300069/the-path-forward-in-health-care-remains-uncertain-for-both-parties</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>254</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
