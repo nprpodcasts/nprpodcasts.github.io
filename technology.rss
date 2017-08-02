@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 14:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 01 Aug 2017 14:00:21 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 14:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</guid>
+      <title>Apple Has Good Sales News For Wall Street</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</link>
+      <description>August 1, 2017 - Investors expected a slowdown in iPhone 7 sales but they were up 1.6 percent year-over-year. Apple also enjoyed iPad and Mac sales well ahead of the overall industry for computers and tablets.</description>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-807503078_wide-7410756a67412b1a88a7b0913287ba120667155e-s800-c15.jpg"></a>
+
+August 1, 2017 - Investors expected a slowdown in iPhone 7 sales but they were up 1.6 percent year-over-year. Apple also enjoyed iPad and Mac sales well ahead of the overall industry for computers and tablets.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street">http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-807503078_wide-7410756a67412b1a88a7b0913287ba120667155e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_kevin_harts_new_online_comedy_service_joins_crowded_streaming_market.mp3?orgId=1&amp;topicId=1138&amp;d=100&amp;p=3&amp;story=540755174&amp;t=progseg&amp;e=540754005&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Kevin Hart&#39;s New Online Comedy Service Joins Crowded Streaming Market</title>
@@ -235,23 +250,6 @@ July 27, 2017 - Pakistan's popular Careem app ran the campaign. The company thou
 <a href="http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard">http://www.npr.org/2017/07/27/539682616/morning-news-brief-health-care-transgender-service-members-foxconn-charlie-gard</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>620</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_how_new_yorks_roosevelt_island_sucks_away_summer_trash_stink_.mp3?orgId=393&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=539304811&amp;t=progseg&amp;e=539440283&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How New York&#39;s Roosevelt Island Sucks Away Summer Trash Stink  </title>
-      <link>http://www.npr.org/2017/07/26/539304811/how-new-york-s-roosevelt-island-sucks-away-summer-trash-stink</link>
-      <description>July 26, 2017 - Underneath high-rise apartment buildings along the 2-mile island, an automated trash disposal system whisks away nearly 6 tons of trash per day through pipes and tubes.</description>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170726_atc_how_new_yorks_roosevelt_island_sucks_away_summer_trash_stink_.mp3?orgId=393&amp;topicId=1019&amp;d=224&amp;p=2&amp;story=539304811&amp;t=progseg&amp;e=539440283&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/25/img_1357_wide-46ebaadccef9d534d8b9d3894aba176e5014e3c5-s800-c15.jpg"></a>
-
-July 26, 2017 - Underneath high-rise apartment buildings along the 2-mile island, an automated trash disposal system whisks away nearly 6 tons of trash per day through pipes and tubes.
-
-<a href="http://www.npr.org/2017/07/26/539304811/how-new-york-s-roosevelt-island-sucks-away-summer-trash-stink">http://www.npr.org/2017/07/26/539304811/how-new-york-s-roosevelt-island-sucks-away-summer-trash-stink</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/25/img_1357_wide-46ebaadccef9d534d8b9d3894aba176e5014e3c5-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
