@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 21:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 22:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 21:00:12 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 22:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170802_atc_from_family_snapshots_to_nasa_photos_archivists_aim_to_solve_preservation_puzzles.mp3?orgId=20&amp;topicId=1019&amp;d=255&amp;p=2&amp;story=540914751&amp;t=progseg&amp;e=541102360&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>From Family Snapshots To NASA Photos, Archivists Aim To Solve Preservation Puzzles</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</link>
       <description>August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, and Dennis Wingo helped rescue early pictures of the moon. But what will happen when historical photos go from analog to digital?</description>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170802_atc_from_family_snapshots_to_nasa_photos_archivists_aim_to_solve_preservation_puzzles.mp3?orgId=20&amp;topicId=1019&amp;d=255&amp;p=2&amp;story=540914751&amp;t=progseg&amp;e=541102360&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, 
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle">http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>255</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
