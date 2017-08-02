@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 20:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 21:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 20:00:18 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 21:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</guid>
+      <title>One Million Malnourished Children At Risk Of Cholera In Yemen </title>
+      <link>http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</link>
+      <description>August 2, 2017 - That&#39;s according to a new analysis from Save the Children. Yemen&#39;s outbreak is the world&#39;s worst in a single year since records have been kept, according to Oxfam.</description>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/02/ap_17182564266663_wide-be29dd106d7160b2b801bc80a829f161c271d567-s800-c15.jpg"></a>
+
+August 2, 2017 - That's according to a new analysis from Save the Children. Yemen's outbreak is the world's worst in a single year since records have been kept, according to Oxfam.
+
+<a href="http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen">http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/ap_17182564266663_wide-be29dd106d7160b2b801bc80a829f161c271d567-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene</guid>
       <title>Scientists Precisely Edit DNA In Human Embryos To Fix A Disease Gene</title>
@@ -237,23 +252,6 @@ August 1, 2017 - A Senate committee will hold hearings on stabilizing the Obamac
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-55dd54cfae0ecb3c841312e36e5ae14d2dd9598e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Country Music And Brain Research Come Together At Nashville Summer Camp</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</link>
-      <description>July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don&#39;t know why.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s800-c15.jpg"></a>
-
-July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don't know why.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp">http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>293</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

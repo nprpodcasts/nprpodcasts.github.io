@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 20:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 21:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 20:00:15 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 21:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</guid>
+      <title>From Family Snapshots To NASA Photos, Archivists Aim To Solve Preservation Puzzles</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</link>
+      <description>August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, and Dennis Wingo helped rescue early pictures of the moon. But what will happen when historical photos go from analog to digital?</description>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s800-c15.jpg"></a>
+
+August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, and Dennis Wingo helped rescue early pictures of the moon. But what will happen when historical photos go from analog to digital?
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle">http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</guid>
       <title>Oh, Snap! Scientists Are Turning People&#39;s Food Photos Into Recipes</title>
@@ -237,21 +252,6 @@ July 29, 2017 - VPNs can be used to skirt China's "Great Firewall" of Internet c
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store">http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/29/ap_17202009121684_wide-572c9cb0273510864e0d7d45a7147c976bcd78b5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</guid>
-      <title>British Hacker Known As &#39;Spiderman&#39; Sentenced Over Cyberattack </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</link>
-      <description>July 28, 2017 - The 29-year-old man was given a suspended sentence of one year and eight months in an attack that reportedly knocked out Internet for nearly 1 million people in Germany in November.</description>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/28/rtx3d90o_wide-a6a6d748479ffb4cfd4f73dbc47139048a802b5c-s800-c15.jpg"></a>
-
-July 28, 2017 - The 29-year-old man was given a suspended sentence of one year and eight months in an attack that reportedly knocked out Internet for nearly 1 million people in Germany in November.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack">http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/rtx3d90o_wide-a6a6d748479ffb4cfd4f73dbc47139048a802b5c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
