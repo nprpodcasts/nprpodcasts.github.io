@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 16:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 20:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 16:00:04 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 20:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</guid>
+      <title>Oh, Snap! Scientists Are Turning People&#39;s Food Photos Into Recipes</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</link>
+      <description>August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.</description>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s800-c15.jpg"></a>
+
+August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes">http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</guid>
       <title>This Police Department Is A Smash Hit On Social Media</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</link>
-      <description>August 2, 2017 - They&#39;re doing it with memes from &#34;Game of Thrones&#34; and &#34;The Simpsons.&#34; And by quickly responding to queries from the public.</description>
+      <description>August 2, 2017 - They&#39;re doing it with memes from Game of Thrones and The Simpsons. And by quickly responding to queries from the public.</description>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-59d2b3e53bad3b731389fbffc6c14b64d3d1829c-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-3a61ae2682c72cb7b5d8c13181231d7bda78b368-s800-c15.jpg"></a>
 
-August 2, 2017 - They're doing it with memes from "Game of Thrones" and "The Simpsons." And by quickly responding to queries from the public.
+August 2, 2017 - They're doing it with memes from Game of Thrones and The Simpsons. And by quickly responding to queries from the public.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media">http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-59d2b3e53bad3b731389fbffc6c14b64d3d1829c-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-3a61ae2682c72cb7b5d8c13181231d7bda78b368-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ July 28, 2017 - The 29-year-old man was given a suspended sentence of one year a
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack">http://www.npr.org/sections/thetwo-way/2017/07/28/540022288/british-hacker-known-as-spiderman-sentenced-over-cyberattack</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/28/rtx3d90o_wide-a6a6d748479ffb4cfd4f73dbc47139048a802b5c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</guid>
-      <title>What If You Booked A Ride — And There Was A Matchmaker In The Backseat?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</link>
-      <description>July 27, 2017 - Pakistan&#39;s popular Careem app ran the campaign. The company thought it was funny. But a lot of women hated it.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</description>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s800-c15.jpg"></a>
-
-July 27, 2017 - Pakistan's popular Careem app ran the campaign. The company thought it was funny. But a lot of women hated it.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car">http://www.npr.org/sections/goatsandsoda/2017/07/27/539560271/pakistani-ride-sharing-app-puts-a-matchmaker-in-the-car</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/_e8a7781_wide-d54e5e25bd3da5f42b28b7c98ae59632a5b232b1-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 20:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 14:00:23 +0000</pubDate>
+    <pubDate>Wed, 02 Aug 2017 20:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene</guid>
+      <title>Scientists Precisely Edit DNA In Human Embryos To Fix A Disease Gene</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene</link>
+      <description>August 2, 2017 - In experimental embryos, scientists were able to repair the gene that causes a serious heart disorder. More research is needed to confirm the method would produce healthy babies, they say.</description>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/embryos-4_wide-829ce0fc92810e3235e3ef2a7a00ade32127ab7c-s800-c15.jpg"></a>
+
+August 2, 2017 - In experimental embryos, scientists were able to repair the gene that causes a serious heart disorder. More research is needed to confirm the method would produce healthy babies, they say.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene">http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/embryos-4_wide-829ce0fc92810e3235e3ef2a7a00ade32127ab7c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/02/540669492/many-avoid-end-of-life-care-planning-study-finds</guid>
       <title>Many Avoid End-Of-Life Care Planning, Study Finds</title>
@@ -216,12 +231,12 @@ August 1, 2017 - A total solar eclipse is one of the most magnificent sights you
       <description>August 1, 2017 - A Senate committee will hold hearings on stabilizing the Obamacare markets in 2018. The chair called on President Trump to continue payments to insurers that help lower costs for low-income people.</description>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-0f984ed8f28be2d86204a4468072e2336bfaa4bd-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-55dd54cfae0ecb3c841312e36e5ae14d2dd9598e-s800-c15.jpg"></a>
 
 August 1, 2017 - A Senate committee will hold hearings on stabilizing the Obamacare markets in 2018. The chair called on President Trump to continue payments to insurers that help lower costs for low-income people.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/01/540656651/trumps-tweets-threaten-to-destabilize-insurance-markets</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-0f984ed8f28be2d86204a4468072e2336bfaa4bd-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-822505196_wide-55dd54cfae0ecb3c841312e36e5ae14d2dd9598e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ July 31, 2017 - Researchers in Nashville are tapping into a country music camp t
 <a href="http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp">http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s3000-c15.jpg"></itunes:image>
       <itunes:duration>293</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</guid>
-      <title>Scientists Edge Closer To Elusive Lab Test For Chronic Fatigue Syndrome</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</link>
-      <description>July 31, 2017 - Stanford University scientists have found an array of proteins in the blood whose levels correlate closely with the severity of symptoms of the mysterious illness that&#39;s increasingly known as ME/CFS.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-691037177_wide-89ae79e7b80caffc254bbde4ad3a3c4b9d26248d-s800-c15.jpg"></a>
-
-July 31, 2017 - Stanford University scientists have found an array of proteins in the blood whose levels correlate closely with the severity of symptoms of the mysterious illness that's increasingly known as ME/CFS.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome">http://www.npr.org/sections/health-shots/2017/07/31/540565526/scientists-edge-closer-to-elusive-lab-test-for-chronic-fatigue-syndrome</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-691037177_wide-89ae79e7b80caffc254bbde4ad3a3c4b9d26248d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
