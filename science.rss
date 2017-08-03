@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 14:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 19:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 03 Aug 2017 14:00:19 +0000</pubDate>
+    <pubDate>Thu, 03 Aug 2017 19:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541383664/study-suggests-artificial-light-deters-nocturnal-pollinators</guid>
+      <title>Study Suggests Artificial Light Deters Nocturnal Pollinators</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/03/541383664/study-suggests-artificial-light-deters-nocturnal-pollinators</link>
+      <description>August 3, 2017 - Scientists in Switzerland used mobile street lamps to light up patches of cabbage thistle. They found that nocturnal pollinators, such as beetles and flies, mostly stayed away.</description>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/03/gettyimages-523117643_wide-3e691dc38439c54209727551d0a4dad96be8e6aa-s800-c15.jpg"></a>
+
+August 3, 2017 - Scientists in Switzerland used mobile street lamps to light up patches of cabbage thistle. They found that nocturnal pollinators, such as beetles and flies, mostly stayed away.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/03/541383664/study-suggests-artificial-light-deters-nocturnal-pollinators">http://www.npr.org/sections/thetwo-way/2017/08/03/541383664/study-suggests-artificial-light-deters-nocturnal-pollinators</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/gettyimages-523117643_wide-3e691dc38439c54209727551d0a4dad96be8e6aa-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/03/541352728/do-you-have-what-it-takes-to-be-nasa-s-next-planetary-protection-officer</guid>
+      <title>Do You Have What It Takes To Be NASA&#39;s Next Planetary Protection Officer?</title>
+      <link>http://www.npr.org/2017/08/03/541352728/do-you-have-what-it-takes-to-be-nasa-s-next-planetary-protection-officer</link>
+      <description>August 3, 2017 - The job posting has elicited headlines about how the space agency is seeking a person to defend Earth from aliens. But it&#39;s really more about microorganisms than little green men.</description>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/03/5052124705_c513d4a5a0_o_wide-b22b1ff0bb6031e7bd9e9619fd04a5ce6923e2f4-s800-c15.jpg"></a>
+
+August 3, 2017 - The job posting has elicited headlines about how the space agency is seeking a person to defend Earth from aliens. But it's really more about microorganisms than little green men.
+
+<a href="http://www.npr.org/2017/08/03/541352728/do-you-have-what-it-takes-to-be-nasa-s-next-planetary-protection-officer">http://www.npr.org/2017/08/03/541352728/do-you-have-what-it-takes-to-be-nasa-s-next-planetary-protection-officer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/5052124705_c513d4a5a0_o_wide-b22b1ff0bb6031e7bd9e9619fd04a5ce6923e2f4-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/03/540805776/animal-images-in-prehistoric-rock-art-looking-beyond-europe</guid>
       <title>Animal Images In Prehistoric Rock Art: Looking Beyond Europe</title>
@@ -46,12 +76,12 @@ August 3, 2017 - Animals are depicted in rock art in more than 100 countries, no
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170803_me_the_gulf_of_mexicos_dead_zone_is_the_biggest_ever_seen.mp3?orgId=1&amp;topicId=1053&amp;d=166&amp;p=3&amp;story=541222717&amp;t=progseg&amp;e=541298577&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-71888364_wide-b5516e89c2882551583c30f3c56314e8ea6a8617-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-71888364_wide-48fc1c976ef07c2241d1a49167c5cf92c02aebca-s800-c15.jpg"></a>
 
 August 3, 2017 - A record-setting "dead zone," where water doesn't have enough oxygen for fish to survive, has appeared this summer. One major cause is pollution from farms.
 
 <a href="http://www.npr.org/sections/thesalt/2017/08/03/541222717/the-gulf-of-mexicos-dead-zone-is-the-biggest-ever-seen">http://www.npr.org/sections/thesalt/2017/08/03/541222717/the-gulf-of-mexicos-dead-zone-is-the-biggest-ever-seen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-71888364_wide-b5516e89c2882551583c30f3c56314e8ea6a8617-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-71888364_wide-48fc1c976ef07c2241d1a49167c5cf92c02aebca-s3000-c15.jpg"></itunes:image>
       <itunes:duration>166</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -224,38 +254,6 @@ August 1, 2017 - Our pre-human ancestors are back there somewhere in the deep ti
 
 <a href="http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents">http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/istock-498505467_wide-094519321152fa96e5df9397a4153d144abacba2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Country Music And Brain Research Come Together At Nashville Summer Camp</title>
-      <link>http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</link>
-      <description>July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don&#39;t know why.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_williams_syndrome_and_country_music.mp3?orgId=577&amp;topicId=1128&amp;d=293&amp;p=2&amp;story=540553819&amp;t=progseg&amp;e=540522101&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s800-c15.jpg"></a>
-
-July 31, 2017 - Researchers in Nashville are tapping into a country music camp to learn more about Williams Syndrome, a rare genetic disorder. Many people who have it love music but don't know why.
-
-<a href="http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp">http://www.npr.org/sections/health-shots/2017/07/31/540553819/country-music-and-brain-research-come-together-at-nashville-summer-camp</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/img_14481_wide-f3fce44d75c5e8bbf2af39d76b54a6bf16e905ac-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>293</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together</guid>
-      <title>To Help Keep Sturgeon Sustainable, Farm And Fishery Work Together</title>
-      <link>http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together</link>
-      <description>July 31, 2017 - Because demand for seafood is rising and wild stocks are not, a hatchery owner in Canada is hoping his model of &#34;responsible agriculture&#34; can keep the prized fish both on the menu and in the water.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/fish1_wide-14fc5c51744958c880e13e9d4ad8ab27c54c8fe9-s800-c15.jpg"></a>
-
-July 31, 2017 - Because demand for seafood is rising and wild stocks are not, a hatchery owner in Canada is hoping his model of "responsible agriculture" can keep the prized fish both on the menu and in the water.
-
-<a href="http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together">http://www.npr.org/sections/thesalt/2017/07/31/539591489/to-help-keep-sturgeon-sustainable-farm-and-fishery-work-together</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/fish1_wide-14fc5c51744958c880e13e9d4ad8ab27c54c8fe9-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
