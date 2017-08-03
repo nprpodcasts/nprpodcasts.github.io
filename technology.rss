@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 22:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 22:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 02 Aug 2017 22:00:06 +0000</pubDate>
+    <pubDate>Thu, 03 Aug 2017 22:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</guid>
+      <title>Feds Arrest Man Credited With Helping To Stop Ransomware Attack</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</link>
+      <description>August 3, 2017 - The Justice Department alleges Marcus Hutchins, who is said to have short-circuited WannaCry&#39;s global attack, created another malware program. His supporters say DOJ couldn&#39;t be more wrong.</description>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/ap_17215670099306_wide-f687b9ef1e82dfb3c541e3c095b760c6e2c23120-s800-c15.jpg"></a>
+
+August 3, 2017 - The Justice Department alleges Marcus Hutchins, who is said to have short-circuited WannaCry's global attack, created another malware program. His supporters say DOJ couldn't be more wrong.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack">http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/ap_17215670099306_wide-f687b9ef1e82dfb3c541e3c095b760c6e2c23120-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170802_atc_from_family_snapshots_to_nasa_photos_archivists_aim_to_solve_preservation_puzzles.mp3?orgId=20&amp;topicId=1019&amp;d=255&amp;p=2&amp;story=540914751&amp;t=progseg&amp;e=541102360&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>From Family Snapshots To NASA Photos, Archivists Aim To Solve Preservation Puzzles</title>
@@ -239,21 +254,6 @@ July 31, 2017 - When Kim Hak-min got to South Korea, he saw his first-ever smart
 <a href="http://www.npr.org/2017/07/30/540359398/for-maine-islands-internet-means-opportunity">http://www.npr.org/2017/07/30/540359398/for-maine-islands-internet-means-opportunity</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>300</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store</guid>
-      <title>Apple Accused Of Removing Apps Used To Evade Censorship From Its China Store</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store</link>
-      <description>July 29, 2017 - VPNs can be used to skirt China&#39;s &#34;Great Firewall&#34; of Internet censorship. China is among Apple&#39;s biggest markets, and the company has shown a willingness to comply with Beijing&#39;s demands.</description>
-      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/29/ap_17202009121684_wide-572c9cb0273510864e0d7d45a7147c976bcd78b5-s800-c15.jpg"></a>
-
-July 29, 2017 - VPNs can be used to skirt China's "Great Firewall" of Internet censorship. China is among Apple's biggest markets, and the company has shown a willingness to comply with Beijing's demands.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store">http://www.npr.org/sections/thetwo-way/2017/07/29/540280448/apple-accused-of-removing-apps-used-to-evade-censorship-from-its-china-store</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/29/ap_17202009121684_wide-572c9cb0273510864e0d7d45a7147c976bcd78b5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
