@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 20:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 03 Aug 2017 20:00:07 +0000</pubDate>
+    <pubDate>Thu, 03 Aug 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/03/541432494/white-house-reverses-effort-to-delay-obama-ozone-regulations</guid>
+      <title>White House Reverses Effort To Delay Obama Ozone Regulations</title>
+      <link>http://www.npr.org/2017/08/03/541432494/white-house-reverses-effort-to-delay-obama-ozone-regulations</link>
+      <description>August 3, 2017 - The Trump administration has reversed its effort to delay implementation of an Environmental Protection Agency regulation lowering acceptable ozone emissions, a major component of smog. The reversal comes after 16 states filed a lawsuit saying the delay was unlawful.</description>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 3, 2017 - The Trump administration has reversed its effort to delay implementation of an Environmental Protection Agency regulation lowering acceptable ozone emissions, a major component of smog. The reversal comes after 16 states filed a lawsuit saying the delay was unlawful.
+
+<a href="http://www.npr.org/2017/08/03/541432494/white-house-reverses-effort-to-delay-obama-ozone-regulations">http://www.npr.org/2017/08/03/541432494/white-house-reverses-effort-to-delay-obama-ozone-regulations</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541383664/study-suggests-artificial-light-deters-nocturnal-pollinators</guid>
       <title>Artificial Light Deters Nocturnal Pollinators, Study Suggests</title>
@@ -239,21 +252,6 @@ August 1, 2017 - A total solar eclipse is one of the most magnificent sights you
 <a href="http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes">http://www.npr.org/sections/health-shots/2017/08/01/540661570/planning-to-watch-the-eclipse-heres-what-you-need-to-protect-your-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-467013808_wide-45c45ab730ab86e87f220f2fb0d05cae0c33ee06-s3000-c15.jpg"></itunes:image>
       <itunes:duration>251</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents</guid>
-      <title>Who Were Your Millionth-Great-Grandparents?</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents</link>
-      <description>August 1, 2017 - Our pre-human ancestors are back there somewhere in the deep time that makes up Earth&#39;s braided history of life and change — and we are the tip of the spear moving that life forward, says Adam Frank.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/01/istock-498505467_wide-094519321152fa96e5df9397a4153d144abacba2-s800-c15.jpg"></a>
-
-August 1, 2017 - Our pre-human ancestors are back there somewhere in the deep time that makes up Earth's braided history of life and change — and we are the tip of the spear moving that life forward, says Adam Frank.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents">http://www.npr.org/sections/13.7/2017/08/01/540792411/who-were-your-millionth-great-grandparents</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/istock-498505467_wide-094519321152fa96e5df9397a4153d144abacba2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
