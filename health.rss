@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2017 17:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 18:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 04 Aug 2017 17:02:44 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 18:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code</guid>
+      <title>Your Zip Code Might Be As Important To Health As Your Genetic Code</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code</link>
+      <description>August 4, 2017 - Health care forms increasingly ask about more than just medical history. That&#39;s because doctors are beginning to understand that a patient&#39;s stress, and how and where they live, influence health, too.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-4b531704de54c86a367c3c33a96363883665024b-s800-c15.jpg"></a>
+
+August 4, 2017 - Health care forms increasingly ask about more than just medical history. That's because doctors are beginning to understand that a patient's stress, and how and where they live, influence health, too.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code">http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-4b531704de54c86a367c3c33a96363883665024b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/04/539800393/south-texas-fights-tuberculosis-one-blood-test-at-a-time</guid>
+      <title>South Texas Fights Tuberculosis One Blood Test At A Time</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/04/539800393/south-texas-fights-tuberculosis-one-blood-test-at-a-time</link>
+      <description>August 4, 2017 - Texas has one of the highest rates of TB among U.S. states. A sweeping effort is underway, largely funded by Medicaid, to diagnose and treat people who don&#39;t know they harbor the lung infection.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/27/tbtesting.thirteen_wide-bd07c32c5b3db04f7c6e22f68217872b6ac53b8f-s800-c15.jpg"></a>
+
+August 4, 2017 - Texas has one of the highest rates of TB among U.S. states. A sweeping effort is underway, largely funded by Medicaid, to diagnose and treat people who don't know they harbor the lung infection.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/04/539800393/south-texas-fights-tuberculosis-one-blood-test-at-a-time">http://www.npr.org/sections/health-shots/2017/08/04/539800393/south-texas-fights-tuberculosis-one-blood-test-at-a-time</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/tbtesting.thirteen_wide-bd07c32c5b3db04f7c6e22f68217872b6ac53b8f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/04/541393576/scientists-aim-for-better-cheaper-tests-for-alzheimers</guid>
       <title>Scientists Aim For Better, Cheaper Tests For Alzheimer&#39;s</title>
@@ -226,36 +256,6 @@ August 2, 2017 - Addiction treatment professionals are praising many of the reco
 <a href="http://www.npr.org/sections/health-shots/2017/08/02/541071209/should-the-opioid-crisis-be-declared-a-national-emergency">http://www.npr.org/sections/health-shots/2017/08/02/541071209/should-the-opioid-crisis-be-declared-a-national-emergency</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-819001970_wide-d43bc1cb91812576255e10c01ca95fb42379e9e1-s3000-c15.jpg"></itunes:image>
       <itunes:duration>163</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/02/540975904/senate-republicans-dont-seem-too-worried-about-trumps-subsidy-threat</guid>
-      <title>Trump Threatens Congress&#39; Health Care; Senate Republicans Don&#39;t Seem Too Worried</title>
-      <link>http://www.npr.org/2017/08/02/540975904/senate-republicans-dont-seem-too-worried-about-trumps-subsidy-threat</link>
-      <description>August 2, 2017 - President Trump tweeted that he would undo federal subsidies for congressional health care if the Senate didn&#39;t keep its focus on repealing Obamacare. GOP leaders are still moving on to other issues.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-823219630_wide-5684035a58cc8eb80e255086895fc7b4c7439bb3-s800-c15.jpg"></a>
-
-August 2, 2017 - President Trump tweeted that he would undo federal subsidies for congressional health care if the Senate didn't keep its focus on repealing Obamacare. GOP leaders are still moving on to other issues.
-
-<a href="http://www.npr.org/2017/08/02/540975904/senate-republicans-dont-seem-too-worried-about-trumps-subsidy-threat">http://www.npr.org/2017/08/02/540975904/senate-republicans-dont-seem-too-worried-about-trumps-subsidy-threat</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-823219630_wide-5684035a58cc8eb80e255086895fc7b4c7439bb3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</guid>
-      <title>Federal Judge Strikes Down Portions Of An Alabama Abortion Law</title>
-      <link>http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</link>
-      <description>August 1, 2017 - Under the law, a minor who didn&#39;t have parental consent for an abortion could have faced a legal proceeding involving her parents, the district attorney and a person representing the fetus.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/ap_400071956392_wide-ffa7d223f300ebe0cff2b9342b6fa617e36c3049-s800-c15.jpg"></a>
-
-August 1, 2017 - Under the law, a minor who didn't have parental consent for an abortion could have faced a legal proceeding involving her parents, the district attorney and a person representing the fetus.
-
-<a href="http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law">http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/ap_400071956392_wide-ffa7d223f300ebe0cff2b9342b6fa617e36c3049-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
