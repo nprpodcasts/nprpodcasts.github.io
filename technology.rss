@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2017 10:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 17:02:39 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 04 Aug 2017 10:00:15 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 17:02:39 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,48 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</guid>
+      <guid>http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</guid>
+      <title>Technology Gets Under The Skin</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</link>
+      <description>August 4, 2017 - Last week, a Wisconsin company offered its employees the option to have a chip inserted into their bodies in an effort to help them navigate the workplace. Alva Noë asks: What&#39;s the big deal?</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/04/istock-537329934_wide-44fdd28e1803233ea46212762a6249cf125cf693-s800-c15.jpg"></a>
+
+August 4, 2017 - Last week, a Wisconsin company offered its employees the option to have a chip inserted into their bodies in an effort to help them navigate the workplace. Alva Noë asks: What's the big deal?
+
+<a href="http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin">http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/istock-537329934_wide-44fdd28e1803233ea46212762a6249cf125cf693-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>China Steps Up Efforts To Block Virtual Private Networks</title>
+      <link>http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks</link>
+      <description>August 4, 2017 - Savvy Internet users in China can tunnel under the &#34;Great Firewall&#34; using Virtual Private Networks. Even as the government finds new methods to block VPNs, providers find ways to end-run the blocks.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - Savvy Internet users in China can tunnel under the "Great Firewall" using Virtual Private Networks. Even as the government finds new methods to block VPNs, providers find ways to end-run the blocks.
+
+<a href="http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks">http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>239</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_hyperloop_tests_magnetic_levitation_at_192_mph.mp3?orgId=1&amp;topicId=1019&amp;d=251&amp;p=3&amp;story=541538743&amp;t=progseg&amp;e=541538718&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hyperloop Tests Magnetic Levitation At 192 MPH</title>
       <link>http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</link>
       <description>August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.</description>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_hyperloop_tests_magnetic_levitation_at_192_mph.mp3?orgId=1&amp;topicId=1019&amp;d=251&amp;p=3&amp;story=541538743&amp;t=progseg&amp;e=541538718&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.
 
 <a href="http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph">http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>251</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -220,38 +252,6 @@ July 31, 2017 - For all the focus in 2016 on the cyberattacks against the Democr
 
 <a href="http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon">http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-621781022_wide-e311d62111c56f5d34544003510179278138daff-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_how_steve_jobs_helped_this_north_korean_defector_think_different.mp3?orgId=1&amp;topicId=1125&amp;d=240&amp;p=3&amp;story=540226659&amp;t=progseg&amp;e=540513921&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Steve Jobs Helped This North Korean Defector &#39;Think Different&#39;</title>
-      <link>http://www.npr.org/sections/parallels/2017/07/31/540226659/how-steve-jobs-helped-this-north-korean-defector-think-different</link>
-      <description>July 31, 2017 - When Kim Hak-min got to South Korea, he saw his first-ever smartphone, the iPhone 4. It changed his life trajectory.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/07/20170731_me_how_steve_jobs_helped_this_north_korean_defector_think_different.mp3?orgId=1&amp;topicId=1125&amp;d=240&amp;p=3&amp;story=540226659&amp;t=progseg&amp;e=540513921&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/29/dsc08634_wide-92a3cb54f36efa11c55ccb64a930999e36177d6a-s800-c15.jpg"></a>
-
-July 31, 2017 - When Kim Hak-min got to South Korea, he saw his first-ever smartphone, the iPhone 4. It changed his life trajectory.
-
-<a href="http://www.npr.org/sections/parallels/2017/07/31/540226659/how-steve-jobs-helped-this-north-korean-defector-think-different">http://www.npr.org/sections/parallels/2017/07/31/540226659/how-steve-jobs-helped-this-north-korean-defector-think-different</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/29/dsc08634_wide-92a3cb54f36efa11c55ccb64a930999e36177d6a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>240</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170730_atc_32m_chip_party.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=2&amp;story=540448094&amp;t=progseg&amp;e=540447015&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>This Wisconsin &#39;Chip Party&#39; Doesn&#39;t Come With Cheese Dip</title>
-      <link>http://www.npr.org/2017/07/30/540448094/this-wisconsin-chip-party-doesnt-come-with-cheese-dip</link>
-      <description>July 30, 2017 - Some employees of 32M have volunteered to have microchips implanted in them. NPR&#39;s Noel King and University of Wisconsin-Milwaukee professor of information studies Michael Zimmer, explore the risks.</description>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170730_atc_32m_chip_party.mp3?orgId=1&amp;topicId=1019&amp;d=219&amp;p=2&amp;story=540448094&amp;t=progseg&amp;e=540447015&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 30, 2017 - Some employees of 32M have volunteered to have microchips implanted in them. NPR's Noel King and University of Wisconsin-Milwaukee professor of information studies Michael Zimmer, explore the risks.
-
-<a href="http://www.npr.org/2017/07/30/540448094/this-wisconsin-chip-party-doesnt-come-with-cheese-dip">http://www.npr.org/2017/07/30/540448094/this-wisconsin-chip-party-doesnt-come-with-cheese-dip</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>219</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

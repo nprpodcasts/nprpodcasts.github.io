@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 23:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 17:02:44 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 03 Aug 2017 23:00:07 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 17:02:44 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/04/541393576/scientists-aim-for-better-cheaper-tests-for-alzheimers</guid>
+      <title>Scientists Aim For Better, Cheaper Tests For Alzheimer&#39;s</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/04/541393576/scientists-aim-for-better-cheaper-tests-for-alzheimers</link>
+      <description>August 4, 2017 - The goal is to find accurate, painless tests that can help doctors diagnose Alzheimer&#39;s early and track the progression of the illness and any response to treatment. A few tests seem promising.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/03/istock-538181436_wide-be455013bc3032c078ca5cb82e1d5ddda20c7f5f-s800-c15.jpg"></a>
+
+August 4, 2017 - The goal is to find accurate, painless tests that can help doctors diagnose Alzheimer's early and track the progression of the illness and any response to treatment. A few tests seem promising.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/04/541393576/scientists-aim-for-better-cheaper-tests-for-alzheimers">http://www.npr.org/sections/health-shots/2017/08/04/541393576/scientists-aim-for-better-cheaper-tests-for-alzheimers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/istock-538181436_wide-be455013bc3032c078ca5cb82e1d5ddda20c7f5f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170803_atc_vermont_medical_school_says_goodbye_to_lectures.mp3?orgId=1&amp;topicId=1128&amp;d=244&amp;p=2&amp;story=541411275&amp;t=progseg&amp;e=541317664&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Vermont Medical School Says Goodbye To Lectures</title>
@@ -241,21 +256,6 @@ August 1, 2017 - Under the law, a minor who didn't have parental consent for an 
 
 <a href="http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law">http://www.npr.org/2017/08/01/540932724/federal-judge-strikes-down-portions-of-an-alabama-abortion-law</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/ap_400071956392_wide-ffa7d223f300ebe0cff2b9342b6fa617e36c3049-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</guid>
-      <title>A Big Win For Afghan Women&#39;s Wheelchair Hoopsters</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</link>
-      <description>August 1, 2017 - The players used to be shy about playing sports as women using wheelchairs. Today, they&#39;re international champions and role models in their country.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s800-c15.jpg"></a>
-
-August 1, 2017 - The players used to be shy about playing sports as women using wheelchairs. Today, they're international champions and role models in their country.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins">http://www.npr.org/sections/goatsandsoda/2017/08/01/540910077/afghanistan-s-female-wheelchair-basketball-wins</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/afghanistan-women-in-bali-4_wide-74fa3de39a5872e68c177263a1ac77f3d3289623-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
