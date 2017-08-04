@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2017 20:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 21:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 04 Aug 2017 20:00:07 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 21:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate</guid>
+      <title>New Human Embryo Editing Research Reignites Ethical Debate</title>
+      <link>http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate</link>
+      <description>August 4, 2017 - NPR&#39;s Audie Cornish talks with Dr. George Daley, the dean of Harvard Medical School, about the ethical discussions surrounding editing the DNA of human embryos and what the future of the technology might look like.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - NPR's Audie Cornish talks with Dr. George Daley, the dean of Harvard Medical School, about the ethical discussions surrounding editing the DNA of human embryos and what the future of the technology might look like.
+
+<a href="http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate">http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</guid>
       <title>Brush Yourself Off And Try Again: An Invention Story</title>
@@ -45,12 +58,12 @@ August 4, 2017 - Inventing even the simplest product is a fraught process. Mike 
       <description>August 4, 2017 - Health care forms increasingly ask about more than just medical history. That&#39;s because doctors are beginning to understand that patients&#39; stress, and how and where they live, influence health, too.</description>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-ede0d9c98b9ee518661d4b3d6ca69b14b821a6c1-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-018d7cc473371c7f70d46462c2c937f6b2511d2d-s800-c15.jpg"></a>
 
 August 4, 2017 - Health care forms increasingly ask about more than just medical history. That's because doctors are beginning to understand that patients' stress, and how and where they live, influence health, too.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code">http://www.npr.org/sections/health-shots/2017/08/04/539757759/your-zip-code-can-be-as-important-to-health-as-your-genetic-code</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-ede0d9c98b9ee518661d4b3d6ca69b14b821a6c1-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/27/shannon-mcgrath-with-rayder-2_wide-018d7cc473371c7f70d46462c2c937f6b2511d2d-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +248,6 @@ August 3, 2017 - A record-setting "dead zone," where water doesn't have enough o
 <a href="http://www.npr.org/sections/thesalt/2017/08/03/541222717/the-gulf-of-mexicos-dead-zone-is-the-biggest-ever-seen">http://www.npr.org/sections/thesalt/2017/08/03/541222717/the-gulf-of-mexicos-dead-zone-is-the-biggest-ever-seen</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-71888364_wide-48fc1c976ef07c2241d1a49167c5cf92c02aebca-s3000-c15.jpg"></itunes:image>
       <itunes:duration>166</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541298754/earthquake-shakes-central-oklahoma-one-of-7-in-28-hours</guid>
-      <title>Earthquake Shakes Central Oklahoma, One Of 7 In 28 Hours</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/03/541298754/earthquake-shakes-central-oklahoma-one-of-7-in-28-hours</link>
-      <description>August 3, 2017 - An earthquake of preliminary magnitude 4.2 hit Wednesday night. Earthquakes used to be rare in Oklahoma. Scientists say they&#39;re linked to the disposal of wastewater from fracking.</description>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/03/earthquake_wide-c69b6ce9474473cb9a10ad6b443c3cb7726ea4dc-s800-c15.jpg"></a>
-
-August 3, 2017 - An earthquake of preliminary magnitude 4.2 hit Wednesday night. Earthquakes used to be rare in Oklahoma. Scientists say they're linked to the disposal of wastewater from fracking.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/03/541298754/earthquake-shakes-central-oklahoma-one-of-7-in-28-hours">http://www.npr.org/sections/thetwo-way/2017/08/03/541298754/earthquake-shakes-central-oklahoma-one-of-7-in-28-hours</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/earthquake_wide-c69b6ce9474473cb9a10ad6b443c3cb7726ea4dc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
