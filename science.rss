@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 23:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 10:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 03 Aug 2017 23:00:06 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 10:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,45 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/541538834/the-archaeologist-who-hunts-for-stolen-art</guid>
+      <title>The Archaeologist Who Hunts For Stolen Art</title>
+      <link>http://www.npr.org/2017/08/04/541538834/the-archaeologist-who-hunts-for-stolen-art</link>
+      <description>August 4, 2017 - Christos Tsirogiannis, a forensic archaeologist, explains to Ailsa Chang how he persuaded U.S. authorities to seize an ancient Italian vase from the Metropolitan Museum of Art.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - Christos Tsirogiannis, a forensic archaeologist, explains to Ailsa Chang how he persuaded U.S. authorities to seize an ancient Italian vase from the Metropolitan Museum of Art.
+
+<a href="http://www.npr.org/2017/08/04/541538834/the-archaeologist-who-hunts-for-stolen-art">http://www.npr.org/2017/08/04/541538834/the-archaeologist-who-hunts-for-stolen-art</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/541538827/uncovering-a-little-pompeii-in-france</guid>
+      <title>Uncovering A &#39;Little Pompeii&#39; In France</title>
+      <link>http://www.npr.org/2017/08/04/541538827/uncovering-a-little-pompeii-in-france</link>
+      <description>August 4, 2017 - Archaeologists in France have discovered the well-preserved ruins of a Roman town, whose inhabitants appear to have fled to avoid a fire — leaving their belongings and household objects behind.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - Archaeologists in France have discovered the well-preserved ruins of a Roman town, whose inhabitants appear to have fled to avoid a fire — leaving their belongings and household objects behind.
+
+<a href="http://www.npr.org/2017/08/04/541538827/uncovering-a-little-pompeii-in-france">http://www.npr.org/2017/08/04/541538827/uncovering-a-little-pompeii-in-france</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/541538778/saving-vultures-with-nepals-vulture-restaurant</guid>
+      <title>Saving Vultures With Nepal&#39;s &#39;Vulture Restaurant&#39;</title>
+      <link>http://www.npr.org/2017/08/04/541538778/saving-vultures-with-nepals-vulture-restaurant</link>
+      <description>August 4, 2017 - A unique conservation attempt is underway in Nepal to save vultures that have nearly been decimated through much of South Asia over the past few decades.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - A unique conservation attempt is underway in Nepal to save vultures that have nearly been decimated through much of South Asia over the past few decades.
+
+<a href="http://www.npr.org/2017/08/04/541538778/saving-vultures-with-nepals-vulture-restaurant">http://www.npr.org/2017/08/04/541538778/saving-vultures-with-nepals-vulture-restaurant</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170803_atc_vermont_medical_school_says_goodbye_to_lectures.mp3?orgId=1&amp;topicId=1128&amp;d=244&amp;p=2&amp;story=541411275&amp;t=progseg&amp;e=541317664&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Vermont Medical School Says Goodbye To Lectures</title>
@@ -209,51 +248,6 @@ August 2, 2017 - In experimental embryos, scientists were able to repair the gen
 <a href="http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene">http://www.npr.org/sections/health-shots/2017/08/02/540975224/scientists-precisely-edit-dna-in-human-embryos-to-fix-a-disease-gene</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/embryos-4_wide-829ce0fc92810e3235e3ef2a7a00ade32127ab7c-s3000-c15.jpg"></itunes:image>
       <itunes:duration>236</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</guid>
-      <title>Oh, Snap! Scientists Are Turning People&#39;s Food Photos Into Recipes</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</link>
-      <description>August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s800-c15.jpg"></a>
-
-August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes">http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/02/541095519/why-we-are-naively-optimistic-about-climate-change</guid>
-      <title>Why We Are Naively Optimistic About Climate Change</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/02/541095519/why-we-are-naively-optimistic-about-climate-change</link>
-      <description>August 2, 2017 - Unfortunately, we are failing in the goal to make our children&#39;s world better than our own — and those who deny it won&#39;t have to see the consequences of their choices, says blogger Marcelo Gleiser.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/sunset_wide-311a62a3ab70abaca4f42ce1e3a1ade40590448f-s800-c15.jpg"></a>
-
-August 2, 2017 - Unfortunately, we are failing in the goal to make our children's world better than our own — and those who deny it won't have to see the consequences of their choices, says blogger Marcelo Gleiser.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/02/541095519/why-we-are-naively-optimistic-about-climate-change">http://www.npr.org/sections/13.7/2017/08/02/541095519/why-we-are-naively-optimistic-about-climate-change</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/sunset_wide-311a62a3ab70abaca4f42ce1e3a1ade40590448f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</guid>
-      <title>Drug Puts A $750,000 &#39;Price Tag On Life&#39;</title>
-      <link>http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</link>
-      <description>August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s800-c15.jpg"></a>
-
-August 1, 2017 - The high cost of Spinraza, a new and promising treatment for spinal muscular atrophy, highlights how the cost-benefit analysis insurers use to make drug coverage decisions plays out in human terms.
-
-<a href="http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life">http://www.npr.org/2017/08/01/540100976/drug-puts-a-750-000-price-tag-on-life</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/spinraza-1_wide-a6ceb518b9ab465f9ba8aa110be3ff02754b037c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

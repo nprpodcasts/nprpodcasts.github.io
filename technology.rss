@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 22:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 10:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 03 Aug 2017 22:00:22 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 10:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</guid>
+      <title>Hyperloop Tests Magnetic Levitation At 192 MPH</title>
+      <link>http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</link>
+      <description>August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.
+
+<a href="http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph">http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</guid>
       <title>Feds Arrest Man Credited With Helping To Stop Ransomware Attack</title>
@@ -239,21 +252,6 @@ July 31, 2017 - When Kim Hak-min got to South Korea, he saw his first-ever smart
 <a href="http://www.npr.org/2017/07/30/540448094/this-wisconsin-chip-party-doesnt-come-with-cheese-dip">http://www.npr.org/2017/07/30/540448094/this-wisconsin-chip-party-doesnt-come-with-cheese-dip</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_for_maine_island_internet_means_opportunity.mp3?orgId=495&amp;topicId=1091&amp;d=300&amp;p=10&amp;story=540359398&amp;t=progseg&amp;e=540359324&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>For Maine Islands, Internet Means Opportunity</title>
-      <link>http://www.npr.org/2017/07/30/540359398/for-maine-islands-internet-means-opportunity</link>
-      <description>July 30, 2017 - Residents of some Maine islands say lack of decent internet is keeping them from participating in the economy. Jobs are in short supply and telecommuting isn&#39;t practical.</description>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_for_maine_island_internet_means_opportunity.mp3?orgId=495&amp;topicId=1091&amp;d=300&amp;p=10&amp;story=540359398&amp;t=progseg&amp;e=540359324&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[July 30, 2017 - Residents of some Maine islands say lack of decent internet is keeping them from participating in the economy. Jobs are in short supply and telecommuting isn't practical.
-
-<a href="http://www.npr.org/2017/07/30/540359398/for-maine-islands-internet-means-opportunity">http://www.npr.org/2017/07/30/540359398/for-maine-islands-internet-means-opportunity</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>300</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
