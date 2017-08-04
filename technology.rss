@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2017 17:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 20:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 04 Aug 2017 17:02:39 +0000</pubDate>
+    <pubDate>Fri, 04 Aug 2017 20:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</guid>
+      <title>Brush Yourself Off And Try Again: An Invention Story</title>
+      <link>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</link>
+      <description>August 4, 2017 - Inventing even the simplest product is a fraught process. Mike Davidson and Mike Smith have learned that lesson the hard way as they seek to change the way teeth get cleaned.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s800-c15.jpg"></a>
+
+August 4, 2017 - Inventing even the simplest product is a fraught process. Mike Davidson and Mike Smith have learned that lesson the hard way as they seek to change the way teeth get cleaned.
+
+<a href="http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story">http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</guid>
       <title>Technology Gets Under The Skin</title>
@@ -39,17 +54,19 @@ August 4, 2017 - Last week, a Wisconsin company offered its employees the option
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>China Steps Up Efforts To Block Virtual Private Networks</title>
-      <link>http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks</link>
-      <description>August 4, 2017 - Savvy Internet users in China can tunnel under the &#34;Great Firewall&#34; using Virtual Private Networks. Even as the government finds new methods to block VPNs, providers find ways to end-run the blocks.</description>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Behind China&#39;s VPN Crackdown, A &#39;Game Of Cat And Mouse&#39; Continues</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues</link>
+      <description>August 4, 2017 - Savvy Internet users in China can tunnel under the &#34;Great Firewall&#34; using virtual private networks. Even as the government finds new methods to block VPNs, providers find ways to go around the blocks.</description>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 4, 2017 - Savvy Internet users in China can tunnel under the "Great Firewall" using Virtual Private Networks. Even as the government finds new methods to block VPNs, providers find ways to end-run the blocks.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/04/gettyimages-501527486_wide-71d2c11fe7e411ffa000c76e9b0c26931f75a61a-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks">http://www.npr.org/2017/08/04/541554438/china-steps-up-efforts-to-block-virtual-private-networks</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+August 4, 2017 - Savvy Internet users in China can tunnel under the "Great Firewall" using virtual private networks. Even as the government finds new methods to block VPNs, providers find ways to go around the blocks.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues">http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/gettyimages-501527486_wide-71d2c11fe7e411ffa000c76e9b0c26931f75a61a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -237,21 +254,6 @@ July 31, 2017 - Using search and app data, combined with third-party credit card
 <a href="http://www.npr.org/2017/07/31/540515367/familiar-looking-numbers-are-the-latest-twist-in-robocalls">http://www.npr.org/2017/07/31/540515367/familiar-looking-numbers-are-the-latest-twist-in-robocalls</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon</guid>
-      <title>Timeline: Foreign Efforts To Hack State Election Systems And How Officials Responded</title>
-      <link>http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon</link>
-      <description>July 31, 2017 - For all the focus in 2016 on the cyberattacks against the Democratic National Committee and Clinton campaign chairman John Podesta, less attention was paid to what was happening in the states.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/26/gettyimages-621781022_wide-e311d62111c56f5d34544003510179278138daff-s800-c15.jpg"></a>
-
-July 31, 2017 - For all the focus in 2016 on the cyberattacks against the Democratic National Committee and Clinton campaign chairman John Podesta, less attention was paid to what was happening in the states.
-
-<a href="http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon">http://www.npr.org/2017/07/31/539483156/timeline-foreign-efforts-to-hack-state-election-systems-and-how-officials-respon</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/26/gettyimages-621781022_wide-e311d62111c56f5d34544003510179278138daff-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
