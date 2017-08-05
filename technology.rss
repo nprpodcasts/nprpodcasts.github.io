@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2017 20:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Aug 2017 18:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 04 Aug 2017 20:00:06 +0000</pubDate>
+    <pubDate>Sat, 05 Aug 2017 18:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_brush_yourself_off_and_try_again_an_invention_story.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=204&amp;p=2&amp;story=536835736&amp;t=progseg&amp;e=541567805&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Brush Yourself Off And Try Again: An Invention Story</title>
       <link>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</link>
       <description>August 4, 2017 - Inventing even the simplest product is a fraught process. Mike Davidson and Mike Smith have learned that lesson the hard way as they seek to change the way teeth get cleaned.</description>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_brush_yourself_off_and_try_again_an_invention_story.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=204&amp;p=2&amp;story=536835736&amp;t=progseg&amp;e=541567805&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ August 4, 2017 - Inventing even the simplest product is a fraught process. Mike 
 
 <a href="http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story">http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
