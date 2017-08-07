@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 19:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 22:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 19:00:07 +0000</pubDate>
+    <pubDate>Mon, 07 Aug 2017 22:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</guid>
+      <title>How Smartphones Are Making Kids Unhappy</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</link>
+      <description>August 7, 2017 - Writer Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They&#39;re spending less time with friends and reporting greater anxiety.</description>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-7aae86ccade79f960dc2dc32e8a5e536d556df6e-s800-c15.jpg"></a>
+
+August 7, 2017 - Writer Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They're spending less time with friends and reporting greater anxiety.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy">http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-7aae86ccade79f960dc2dc32e8a5e536d556df6e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170807_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2225&amp;p=13&amp;story=541610511&amp;t=progseg&amp;e=542022320&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>Can Buddhist Practices Help Us Overcome The Biological Pull Of Dissatisfaction?</title>
@@ -243,21 +258,6 @@ August 3, 2017 - The pharmaceutical company Alkermes is trying to increase the n
 <a href="http://www.npr.org/sections/health-shots/2017/08/03/540029500/to-grow-market-share-a-drugmaker-pitches-its-product-to-judges">http://www.npr.org/sections/health-shots/2017/08/03/540029500/to-grow-market-share-a-drugmaker-pitches-its-product-to-judges</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/dsc01078-2_wide-df116e749f67f30fb17530e524d446c7a74f3880-s3000-c15.jpg"></itunes:image>
       <itunes:duration>419</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</guid>
-      <title>1 Million Malnourished Children At Risk Of Cholera In Yemen </title>
-      <link>http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</link>
-      <description>August 2, 2017 - That&#39;s according to a new analysis from Save the Children. Yemen&#39;s outbreak is the world&#39;s worst in a single year since records have been kept, according to Oxfam.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/02/ap_17182564266663_wide-be29dd106d7160b2b801bc80a829f161c271d567-s800-c15.jpg"></a>
-
-August 2, 2017 - That's according to a new analysis from Save the Children. Yemen's outbreak is the world's worst in a single year since records have been kept, according to Oxfam.
-
-<a href="http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen">http://www.npr.org/2017/08/02/541181026/one-million-malnourished-children-at-risk-of-cholera-in-yemen</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/ap_17182564266663_wide-be29dd106d7160b2b801bc80a829f161c271d567-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

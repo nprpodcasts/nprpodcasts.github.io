@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 21:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 22:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 21:00:09 +0000</pubDate>
+    <pubDate>Mon, 07 Aug 2017 22:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</guid>
+      <title>How Smartphones Are Making Kids Unhappy</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</link>
+      <description>August 7, 2017 - Writer Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They&#39;re spending less time with friends and reporting greater anxiety.</description>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-7aae86ccade79f960dc2dc32e8a5e536d556df6e-s800-c15.jpg"></a>
+
+August 7, 2017 - Writer Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They're spending less time with friends and reporting greater anxiety.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy">http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-7aae86ccade79f960dc2dc32e8a5e536d556df6e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</guid>
       <title>Google Engineer&#39;s Criticism Of Diversity Programs Sparks Controversy</title>
@@ -237,23 +252,6 @@ August 1, 2017 - Investors expected a slowdown in iPhone 7 sales but they were u
 <a href="http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market">http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>100</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tech Incubator Faces Challenges Of Tackling Sexual Harassment Among Investors</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</link>
-      <description>July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence which venture capitalists get invited to its prestigious Demo Day.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/07/20170731_atc_tech_incubator_harassment.mp3?orgId=150&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=540578895&amp;t=progseg&amp;e=540522101&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s800-c15.jpg"></a>
-
-July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrepreneurs a form to report sexual harassment. Such reports influence which venture capitalists get invited to its prestigious Demo Day.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors">http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
