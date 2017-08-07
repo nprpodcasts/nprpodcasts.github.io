@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 16:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 21:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 16:00:18 +0000</pubDate>
+    <pubDate>Mon, 07 Aug 2017 21:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</guid>
+      <title>Google Engineer&#39;s Criticism Of Diversity Programs Sparks Controversy</title>
+      <link>http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</link>
+      <description>August 7, 2017 - A Google engineer&#39;s critique of the company&#39;s diversity programs is stoking controversy. The male engineer wrote that women aren&#39;t suited for tech jobs for &#34;biological&#34; reasons. Google executives are now trying to tamp down the furor as the memo ricochets around the tech industry and beyond.</description>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 7, 2017 - A Google engineer's critique of the company's diversity programs is stoking controversy. The male engineer wrote that women aren't suited for tech jobs for "biological" reasons. Google executives are now trying to tamp down the furor as the memo ricochets around the tech industry and beyond.
+
+<a href="http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy">http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts</guid>
       <title>Google Grapples With Fallout After Employee Slams Diversity Efforts</title>
@@ -241,21 +254,6 @@ July 31, 2017 - Y Combinator, an influential startup incubator, sends its entrep
 <a href="http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors">http://www.npr.org/sections/alltechconsidered/2017/07/31/540578895/tech-incubator-faces-challenges-of-tackling-sexual-harassment-among-investors</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-598776143_wide-2d9cdadde3a09978468f2a4ac5bf1a902b74ae6b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>242</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</guid>
-      <title>Watchdog Group Files Complaint Over Google Tracking In-Person Purchases</title>
-      <link>http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</link>
-      <description>July 31, 2017 - Using search and app data, combined with third-party credit card records, Google can link online ad viewing to purchases at physical stores. User privacy may be at risk, an advocacy group says.</description>
-      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-684227160_wide-29348b27fb6df2205ce5360b2697657e76cc7118-s800-c15.jpg"></a>
-
-July 31, 2017 - Using search and app data, combined with third-party credit card records, Google can link online ad viewing to purchases at physical stores. User privacy may be at risk, an advocacy group says.
-
-<a href="http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases">http://www.npr.org/2017/07/31/540610933/watchdog-group-files-complaint-over-google-tracking-in-person-purchases</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-684227160_wide-29348b27fb6df2205ce5360b2697657e76cc7118-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
