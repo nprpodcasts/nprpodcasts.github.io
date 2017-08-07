@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2017 13:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 13:00:05 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 06 Aug 2017 13:00:20 +0000</pubDate>
+    <pubDate>Mon, 07 Aug 2017 13:00:05 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_flattening_the_mummy_tummy_with_one_exercise_10_minutes_a_day.mp3?orgId=1&amp;topicId=1066&amp;d=420&amp;p=3&amp;story=541204499&amp;t=progseg&amp;e=541958484&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Flattening The &#39;Mummy Tummy&#39; With 1 Exercise, 10 Minutes A Day</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day</link>
+      <description>August 7, 2017 - The technical term is diastasis recti and it affects many new moms. The growing fetus pushes apart the abdominal muscles and the separation often stays open. But science suggests this fix can work.</description>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_flattening_the_mummy_tummy_with_one_exercise_10_minutes_a_day.mp3?orgId=1&amp;topicId=1066&amp;d=420&amp;p=3&amp;story=541204499&amp;t=progseg&amp;e=541958484&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/04/_n0a6086-copy_wide-97e2db5bcb444ae821b686c91db9666ee96c66ea-s800-c15.jpg"></a>
+
+August 7, 2017 - The technical term is diastasis recti and it affects many new moms. The growing fetus pushes apart the abdominal muscles and the separation often stays open. But science suggests this fix can work.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day">http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/_n0a6086-copy_wide-97e2db5bcb444ae821b686c91db9666ee96c66ea-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>420</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/parallels/2017/08/06/541209398/acid-attacks-on-the-rise-in-the-u-k</guid>
       <title>Acid Attacks On The Rise In The U.K.</title>
@@ -241,21 +258,6 @@ August 2, 2017 - Only about a third of U.S. adults have advance directives in pl
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/02/540669492/many-avoid-end-of-life-care-planning-study-finds">http://www.npr.org/sections/health-shots/2017/08/02/540669492/many-avoid-end-of-life-care-planning-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-157613105_wide-930e322fd058edf2e06c390f99591c99235c263d-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/02/540918790/video-little-known-middlemen-save-money-on-medicines-but-maybe-not-for-you</guid>
-      <title>VIDEO: Little-Known Middlemen Save Money On Medicines — But Maybe Not For You</title>
-      <link>http://www.npr.org/2017/08/02/540918790/video-little-known-middlemen-save-money-on-medicines-but-maybe-not-for-you</link>
-      <description>August 2, 2017 - Many people have never heard of pharmacy benefit managers. They&#39;re the companies that help insurers decide what drugs to cover and how much you pay for them.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/01/pbm-1_wide-f96dc1fc4ebf1d2f63538794547843466166871e-s800-c15.jpg"></a>
-
-August 2, 2017 - Many people have never heard of pharmacy benefit managers. They're the companies that help insurers decide what drugs to cover and how much you pay for them.
-
-<a href="http://www.npr.org/2017/08/02/540918790/video-little-known-middlemen-save-money-on-medicines-but-maybe-not-for-you">http://www.npr.org/2017/08/02/540918790/video-little-known-middlemen-save-money-on-medicines-but-maybe-not-for-you</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/pbm-1_wide-f96dc1fc4ebf1d2f63538794547843466166871e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
