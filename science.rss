@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 22:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 23:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 22:00:16 +0000</pubDate>
+    <pubDate>Mon, 07 Aug 2017 23:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -41,24 +41,27 @@ August 7, 2017 - In Leipzig, Germany, two scientists from very different backgro
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_it_is_such_a_beautiful_spectacle_geographer_makes_case_to_witness_solar_eclipse.mp3?orgId=1&amp;topicId=1026&amp;d=266&amp;p=2&amp;story=542087057&amp;t=progseg&amp;e=541985440&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;A Beautiful Spectacle&#39;: Geographer Makes Case To Witness Solar Eclipse</title>
       <link>http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse</link>
       <description>August 7, 2017 - A total solar eclipse is the most beautiful natural spectacle Michael Zeiler has ever seen. The geographer tells NPR&#39;s Ari Shapiro that once one witnesses a total eclipse, they&#39;ll be hooked for life.</description>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_it_is_such_a_beautiful_spectacle_geographer_makes_case_to_witness_solar_eclipse.mp3?orgId=1&amp;topicId=1026&amp;d=266&amp;p=2&amp;story=542087057&amp;t=progseg&amp;e=541985440&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 7, 2017 - A total solar eclipse is the most beautiful natural spectacle Michael Zeiler has ever seen. The geographer tells NPR's Ari Shapiro that once one witnesses a total eclipse, they'll be hooked for life.
 
 <a href="http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse">http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>266</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_coddled_puppies_make_poor_guide_dogs_study_suggests.mp3?orgId=1&amp;topicId=1024&amp;d=182&amp;p=2&amp;story=541644280&amp;t=progseg&amp;e=541985440&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Coddled Puppies Make Poor Guide Dogs, Study Suggests</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests</link>
       <description>August 7, 2017 - New research suggests that when puppies have more attentive, active mothers, they&#39;re more likely to fail guide-dog training.</description>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_coddled_puppies_make_poor_guide_dogs_study_suggests.mp3?orgId=1&amp;topicId=1024&amp;d=182&amp;p=2&amp;story=541644280&amp;t=progseg&amp;e=541985440&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/04/gettyimages-542511219_wide-822661c638a79259e599e785cfdaa9f8f74aee3c-s800-c15.jpg"></a>
 
@@ -66,6 +69,7 @@ August 7, 2017 - New research suggests that when puppies have more attentive, ac
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests">http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/04/gettyimages-542511219_wide-822661c638a79259e599e785cfdaa9f8f74aee3c-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>182</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
