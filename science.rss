@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 23:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 01:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 23:00:09 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 01:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</guid>
+      <title>Federal Report Calls For $275 Million To Stop Asian Carp</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</link>
+      <description>August 7, 2017 - The invasive species have been caught mere miles from Lake Michigan. Scientists fear if they invade the lake, they could spread throughout the Great Lakes.</description>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/ap_17216615574663_wide-2efc95cdecc203ae8021ec60e891acadbdd7c634-s800-c15.jpg"></a>
+
+August 7, 2017 - The invasive species have been caught mere miles from Lake Michigan. Scientists fear if they invade the lake, they could spread throughout the Great Lakes.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp">http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/ap_17216615574663_wide-2efc95cdecc203ae8021ec60e891acadbdd7c634-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_syrian_refugee_and_german_scientist_make_an_unlikely_team.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=271&amp;p=2&amp;story=539044891&amp;t=progseg&amp;e=541985440&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Syrian Refugee And German Scientist Make An Unlikely Team</title>
@@ -245,21 +260,6 @@ August 6, 2017 - Construction of new, modern reactors seemed to herald a new era
 <a href="http://www.npr.org/2017/08/06/541582729/how-the-dream-of-americas-nuclear-renaissance-failed-to-materialize">http://www.npr.org/2017/08/06/541582729/how-the-dream-of-americas-nuclear-renaissance-failed-to-materialize</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/04/vogtle2_wide-cea2d6f4b75eca495cdd29c7e36efa5186629a39-s3000-c15.jpg"></itunes:image>
       <itunes:duration>194</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_new_human_embryo_editing_research_reignites_ethical_debate.mp3?orgId=1&amp;topicId=1007&amp;d=225&amp;p=2&amp;story=541675208&amp;t=progseg&amp;e=541567805&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>New Human Embryo Editing Research Reignites Ethical Debate</title>
-      <link>http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate</link>
-      <description>August 4, 2017 - NPR&#39;s Audie Cornish talks with Dr. George Daley, the dean of Harvard Medical School, about the ethical discussions surrounding editing the DNA of human embryos and what the future of the technology might look like.</description>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_new_human_embryo_editing_research_reignites_ethical_debate.mp3?orgId=1&amp;topicId=1007&amp;d=225&amp;p=2&amp;story=541675208&amp;t=progseg&amp;e=541567805&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 4, 2017 - NPR's Audie Cornish talks with Dr. George Daley, the dean of Harvard Medical School, about the ethical discussions surrounding editing the DNA of human embryos and what the future of the technology might look like.
-
-<a href="http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate">http://www.npr.org/2017/08/04/541675208/new-human-embryo-editing-research-reignites-ethical-debate</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>225</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
