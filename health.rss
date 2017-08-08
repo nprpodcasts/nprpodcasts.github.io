@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 23:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 14:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 07 Aug 2017 23:00:10 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 14:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</guid>
+      <title>A Chip That Reprograms Cells Helps Healing, At Least In Mice</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</link>
+      <description>August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they&#39;ve got a long, long way to go.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s800-c15.jpg"></a>
+
+August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they've got a long, long way to go.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice">http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_nashville_mayor_mourning_sons_overdose_death_aims_to_save_other_children.mp3?orgId=577&amp;topicId=1091&amp;d=178&amp;p=3&amp;story=542116681&amp;t=progseg&amp;e=542148220&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Nashville Mayor, Mourning Son&#39;s Overdose Death, Aims To Save Other Children</title>
+      <link>http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children</link>
+      <description>August 8, 2017 - &#34;Max is not going to text me back. I&#39;m not going to hear his voice again,&#34; Mayor Megan Barry said of her only child. The 22-year-old died last month of an apparent overdose near Denver.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_nashville_mayor_mourning_sons_overdose_death_aims_to_save_other_children.mp3?orgId=577&amp;topicId=1091&amp;d=178&amp;p=3&amp;story=542116681&amp;t=progseg&amp;e=542148220&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-161687e2d7dfd0031b70026b0614ba50eb65b4bb-s800-c15.jpg"></a>
+
+August 8, 2017 - "Max is not going to text me back. I'm not going to hear his voice again," Mayor Megan Barry said of her only child. The 22-year-old died last month of an apparent overdose near Denver.
+
+<a href="http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children">http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-161687e2d7dfd0031b70026b0614ba50eb65b4bb-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>178</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_smartphones_and_teens.mp3?orgId=1&amp;topicId=1128&amp;d=291&amp;p=2&amp;story=542016165&amp;t=progseg&amp;e=541985440&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Smartphones Are Making Kids Unhappy</title>
@@ -228,38 +260,6 @@ August 3, 2017 - Andrea Towson was known in West Baltimore as the go-to person f
 <a href="http://www.npr.org/2017/08/03/541318222/senate-panel-to-probe-how-to-bring-stability-to-health-insurance-market">http://www.npr.org/2017/08/03/541318222/senate-panel-to-probe-how-to-bring-stability-to-health-insurance-market</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>327</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/03/541191480/if-you-hemorrhage-dont-clean-up-advice-from-mothers-who-almost-died</guid>
-      <title>&#39;If You Hemorrhage, Don&#39;t Clean Up&#39;: Advice From Mothers Who Almost Died</title>
-      <link>http://www.npr.org/2017/08/03/541191480/if-you-hemorrhage-dont-clean-up-advice-from-mothers-who-almost-died</link>
-      <description>August 3, 2017 - We&#39;ve heard from 3,100 women who survived life-threatening complications of pregnancy or childbirth. They told us what they wished they had known and what they would say to new and expectant mothers.</description>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/02/20170516_121306edit1_wide-e9b03a5ba8b5b32e774877a28a96d27b675f48fc-s800-c15.jpg"></a>
-
-August 3, 2017 - We've heard from 3,100 women who survived life-threatening complications of pregnancy or childbirth. They told us what they wished they had known and what they would say to new and expectant mothers.
-
-<a href="http://www.npr.org/2017/08/03/541191480/if-you-hemorrhage-dont-clean-up-advice-from-mothers-who-almost-died">http://www.npr.org/2017/08/03/541191480/if-you-hemorrhage-dont-clean-up-advice-from-mothers-who-almost-died</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/20170516_121306edit1_wide-e9b03a5ba8b5b32e774877a28a96d27b675f48fc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170803_me_to_grow_market_share_a_drugmaker_pitches_its_product_to_judges.mp3?orgId=4780019&amp;topicId=1128&amp;d=419&amp;p=3&amp;story=540029500&amp;t=progseg&amp;e=541298577&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Grow Market Share, A Drugmaker Pitches Its Product To Judges</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/03/540029500/to-grow-market-share-a-drugmaker-pitches-its-product-to-judges</link>
-      <description>August 3, 2017 - The pharmaceutical company Alkermes is trying to increase the number of people taking Vivitrol for their opioid addiction by marketing the drug to judges, who have the power to influence treatment.</description>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170803_me_to_grow_market_share_a_drugmaker_pitches_its_product_to_judges.mp3?orgId=4780019&amp;topicId=1128&amp;d=419&amp;p=3&amp;story=540029500&amp;t=progseg&amp;e=541298577&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/02/dsc01078-2_wide-df116e749f67f30fb17530e524d446c7a74f3880-s800-c15.jpg"></a>
-
-August 3, 2017 - The pharmaceutical company Alkermes is trying to increase the number of people taking Vivitrol for their opioid addiction by marketing the drug to judges, who have the power to influence treatment.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/03/540029500/to-grow-market-share-a-drugmaker-pitches-its-product-to-judges">http://www.npr.org/sections/health-shots/2017/08/03/540029500/to-grow-market-share-a-drugmaker-pitches-its-product-to-judges</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/dsc01078-2_wide-df116e749f67f30fb17530e524d446c7a74f3880-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>419</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

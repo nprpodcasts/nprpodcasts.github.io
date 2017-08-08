@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 14:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 04:00:05 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 14:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_google_fires_engineer_who_wrote_memo.mp3?orgId=1&amp;topicId=1019&amp;d=271&amp;p=3&amp;story=542180434&amp;t=progseg&amp;e=542148220&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Google Fires Engineer Who Criticized Diversity Efforts</title>
+      <link>http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts</link>
+      <description>August 8, 2017 - The software engineer&#39;s internal memo created controversy after it was leaked. The memo, called &#34;Google&#39;s Ideological Echo Chamber,&#34; criticized the company&#39;s efforts to diversify its workforce.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_google_fires_engineer_who_wrote_memo.mp3?orgId=1&amp;topicId=1019&amp;d=271&amp;p=3&amp;story=542180434&amp;t=progseg&amp;e=542148220&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 8, 2017 - The software engineer's internal memo created controversy after it was leaked. The memo, called "Google's Ideological Echo Chamber," criticized the company's efforts to diversify its workforce.
+
+<a href="http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts">http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>271</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_the_cubist_revolution_minecraft_for_all.mp3?orgId=1&amp;topicId=1013&amp;d=232&amp;p=3&amp;story=538580856&amp;t=progseg&amp;e=542148220&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Cubist Revolution: Minecraft For All</title>
+      <link>http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all</link>
+      <description>August 8, 2017 - Minecraft, one of the most popular video games in the world, is touted for its educational possibilities. But is that potential really accessible to all?</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_the_cubist_revolution_minecraft_for_all.mp3?orgId=1&amp;topicId=1013&amp;d=232&amp;p=3&amp;story=538580856&amp;t=progseg&amp;e=542148220&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.diversity.final3_wide-7c19db2055abcc6a65e7d4a8da7dcc845cb47840-s800-c15.jpg"></a>
+
+August 8, 2017 - Minecraft, one of the most popular video games in the world, is touted for its educational possibilities. But is that potential really accessible to all?
+
+<a href="http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all">http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.diversity.final3_wide-7c19db2055abcc6a65e7d4a8da7dcc845cb47840-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_smartphones_and_teens.mp3?orgId=1&amp;topicId=1128&amp;d=291&amp;p=2&amp;story=542016165&amp;t=progseg&amp;e=541985440&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Smartphones Are Making Kids Unhappy</title>
@@ -226,36 +258,6 @@ August 2, 2017 -  If you've ever dreamed of the good life on one of Maine's coas
 <a href="http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband">http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/img_5436_wide-0c3fd42b89dfbfd0ee1c7deb08a0bff6675cf5be-s3000-c15.jpg"></itunes:image>
       <itunes:duration>300</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</guid>
-      <title>Apple Has Good Sales News For Wall Street</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</link>
-      <description>August 1, 2017 - Investors expected a slowdown in iPhone 7 sales but they were up 1.6 percent year-over-year. Apple also enjoyed iPad and Mac sales well ahead of the overall industry for computers and tablets.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/gettyimages-807503078_wide-7410756a67412b1a88a7b0913287ba120667155e-s800-c15.jpg"></a>
-
-August 1, 2017 - Investors expected a slowdown in iPhone 7 sales but they were up 1.6 percent year-over-year. Apple also enjoyed iPad and Mac sales well ahead of the overall industry for computers and tablets.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street">http://www.npr.org/sections/thetwo-way/2017/08/01/541020384/apple-has-good-sales-news-for-wall-street</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/gettyimages-807503078_wide-7410756a67412b1a88a7b0913287ba120667155e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_kevin_harts_new_online_comedy_service_joins_crowded_streaming_market.mp3?orgId=1&amp;topicId=1138&amp;d=100&amp;p=3&amp;story=540755174&amp;t=progseg&amp;e=540754005&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Kevin Hart&#39;s New Online Comedy Service Joins Crowded Streaming Market</title>
-      <link>http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market</link>
-      <description>August 1, 2017 - Kevin Hart is launching a streaming comedy service. The actor&#39;s Laugh Out Loud Network, which rolls out this week, enters an already crowded market.  LANGUAGE ADVISORY: There are two bleeps in actualities in this piece at :14 and :44 in.</description>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170801_me_kevin_harts_new_online_comedy_service_joins_crowded_streaming_market.mp3?orgId=1&amp;topicId=1138&amp;d=100&amp;p=3&amp;story=540755174&amp;t=progseg&amp;e=540754005&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 1, 2017 - Kevin Hart is launching a streaming comedy service. The actor's Laugh Out Loud Network, which rolls out this week, enters an already crowded market.  LANGUAGE ADVISORY: There are two bleeps in actualities in this piece at :14 and :44 in.
-
-<a href="http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market">http://www.npr.org/2017/08/01/540755174/kevin-harts-new-online-comedy-service-joins-crowded-streaming-market</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>100</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 01:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 14:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 01:00:18 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 14:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</guid>
+      <title>A Chip That Reprograms Cells Helps Healing, At Least In Mice</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</link>
+      <description>August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they&#39;ve got a long, long way to go.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s800-c15.jpg"></a>
+
+August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they've got a long, long way to go.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice">http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_go_see_it_eclipse_chasers_urge_your_first_time_is_always_special.mp3?orgId=1&amp;topicId=1007&amp;d=314&amp;p=3&amp;story=539553696&amp;t=progseg&amp;e=542148220&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Go See It, Eclipse Chasers Urge. &#39;Your First Time Is Always Special&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special</link>
+      <description>August 8, 2017 - A small number of passionate &#34;shadow-lovers&#34; roam the world to be at exactly the right place when the moon blots out the sun. One man has seen 33 — and calls each &#34;one of the top events of my life.&#34;</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_go_see_it_eclipse_chasers_urge_your_first_time_is_always_special.mp3?orgId=1&amp;topicId=1007&amp;d=314&amp;p=3&amp;story=539553696&amp;t=progseg&amp;e=542148220&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/tse2008-3034npr_wide-903b3398aa64ea7c19ad4973f01a61af720136bd-s800-c15.jpg"></a>
+
+August 8, 2017 - A small number of passionate "shadow-lovers" roam the world to be at exactly the right place when the moon blots out the sun. One man has seen 33 — and calls each "one of the top events of my life."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special">http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/tse2008-3034npr_wide-903b3398aa64ea7c19ad4973f01a61af720136bd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>314</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</guid>
       <title>Federal Report Calls For $275 Million To Stop Asian Carp</title>
@@ -226,40 +258,6 @@ August 7, 2017 - The technical term is diastasis recti and it affects many new m
 <a href="http://www.npr.org/2017/08/06/541877776/nasa-s-voyager-program-turns-40">http://www.npr.org/2017/08/06/541877776/nasa-s-voyager-program-turns-40</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>223</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_erratic_weather_threatens_livelihood_of_rice_farmers_in_madagascar.mp3?orgId=1&amp;topicId=1025&amp;d=311&amp;p=10&amp;story=541462387&amp;t=progseg&amp;e=541877747&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Erratic Weather Threatens Livelihood Of Rice Farmers In Madagascar</title>
-      <link>http://www.npr.org/sections/parallels/2017/08/06/541462387/erratic-weather-threatens-livelihood-of-rice-farmers-in-madagascar</link>
-      <description>August 6, 2017 - Climate change is complicating the lives of subsistence rice farmers in Madagascar. For years, the wet and dry seasons arrived predictably. No more. To survive, farmers are looking to diversify.</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_erratic_weather_threatens_livelihood_of_rice_farmers_in_madagascar.mp3?orgId=1&amp;topicId=1025&amp;d=311&amp;p=10&amp;story=541462387&amp;t=progseg&amp;e=541877747&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/04/samantha-reinders_ricefarming_062-84_wide-7a7b22242b2ed8c448f9447bd9725551d7f158d0-s800-c15.jpg"></a>
-
-August 6, 2017 - Climate change is complicating the lives of subsistence rice farmers in Madagascar. For years, the wet and dry seasons arrived predictably. No more. To survive, farmers are looking to diversify.
-
-<a href="http://www.npr.org/sections/parallels/2017/08/06/541462387/erratic-weather-threatens-livelihood-of-rice-farmers-in-madagascar">http://www.npr.org/sections/parallels/2017/08/06/541462387/erratic-weather-threatens-livelihood-of-rice-farmers-in-madagascar</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/samantha-reinders_ricefarming_062-84_wide-7a7b22242b2ed8c448f9447bd9725551d7f158d0-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>311</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_how_the_dream_of_americas_nuclear_renaissance_fizzled.mp3?orgId=295&amp;topicId=1131&amp;d=194&amp;p=10&amp;story=541582729&amp;t=progseg&amp;e=541877747&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How The Dream Of America&#39;s &#39;Nuclear Renaissance&#39; Fizzled</title>
-      <link>http://www.npr.org/2017/08/06/541582729/how-the-dream-of-americas-nuclear-renaissance-failed-to-materialize</link>
-      <description>August 6, 2017 - Construction of new, modern reactors seemed to herald a new era of nuclear power expansion in the U.S. Now all but one of those projects have been canceled.</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_how_the_dream_of_americas_nuclear_renaissance_fizzled.mp3?orgId=295&amp;topicId=1131&amp;d=194&amp;p=10&amp;story=541582729&amp;t=progseg&amp;e=541877747&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/04/vogtle2_wide-cea2d6f4b75eca495cdd29c7e36efa5186629a39-s800-c15.jpg"></a>
-
-August 6, 2017 - Construction of new, modern reactors seemed to herald a new era of nuclear power expansion in the U.S. Now all but one of those projects have been canceled.
-
-<a href="http://www.npr.org/2017/08/06/541582729/how-the-dream-of-americas-nuclear-renaissance-failed-to-materialize">http://www.npr.org/2017/08/06/541582729/how-the-dream-of-americas-nuclear-renaissance-failed-to-materialize</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/vogtle2_wide-cea2d6f4b75eca495cdd29c7e36efa5186629a39-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>194</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
