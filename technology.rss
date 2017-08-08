@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 14:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 17:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 14:00:21 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 17:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</guid>
+      <title>Google CEO Cuts Vacation Short To Deal With Crisis Over Diversity Memo</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</link>
+      <description>August 8, 2017 - CEO Sundar Pichai said he supported the right of workers to express themselves but that a senior engineer&#39;s memo had gone too far. The memo&#39;s author says he&#39;s reportedly weighing legal action.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/08/gettyimages-532150054_wide-bc6408fb7cec0fa8a99bce2fbb78cf26064fbc42-s800-c15.jpg"></a>
+
+August 8, 2017 - CEO Sundar Pichai said he supported the right of workers to express themselves but that a senior engineer's memo had gone too far. The memo's author says he's reportedly weighing legal action.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo">http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/gettyimages-532150054_wide-bc6408fb7cec0fa8a99bce2fbb78cf26064fbc42-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_google_fires_engineer_who_wrote_memo.mp3?orgId=1&amp;topicId=1019&amp;d=271&amp;p=3&amp;story=542180434&amp;t=progseg&amp;e=542148220&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Fires Engineer Who Criticized Diversity Efforts</title>
@@ -241,23 +256,6 @@ August 2, 2017 - The problem comes after the airline experienced a major informa
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/02/541102526/british-airways-apologizes-once-again-for-delays-caused-by-it-system-failure">http://www.npr.org/sections/thetwo-way/2017/08/02/541102526/british-airways-apologizes-once-again-for-delays-caused-by-it-system-failure</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/ap_17147390305804_wide-47f49669c3519269863e466dba8bcc1f09aba2e6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_for_maine_island_internet_means_opportunity.mp3?orgId=495&amp;topicId=1091&amp;d=300&amp;story=538605858&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Coastal Islanders Band Together For Broadband</title>
-      <link>http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband</link>
-      <description>August 2, 2017 -  If you&#39;ve ever dreamed of the good life on one of Maine&#39;s coastal islands, be forewarned: the Internet ranges from lousy to nonexistent.&#xA;&#xA; - http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/07/20170730_wesun_for_maine_island_internet_means_opportunity.mp3?orgId=495&amp;topicId=1091&amp;d=300&amp;story=538605858&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/02/img_5436_wide-0c3fd42b89dfbfd0ee1c7deb08a0bff6675cf5be-s800-c15.jpg"></a>
-
-August 2, 2017 -  If you've ever dreamed of the good life on one of Maine's coastal islands, be forewarned: the Internet ranges from lousy to nonexistent.
-
-<a href="http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband">http://www.npr.org/2017/08/02/538605858/coastal-islanders-band-together-for-broadband</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/img_5436_wide-0c3fd42b89dfbfd0ee1c7deb08a0bff6675cf5be-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>300</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

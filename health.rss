@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 17:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 14:00:25 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 17:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/08/08/540923229/gnawing-questions-is-sugar-from-fruit-the-same-as-sugar-from-candy</guid>
+      <title>Gnawing Questions: Is Sugar From Fruit The Same As Sugar From Candy?</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/08/540923229/gnawing-questions-is-sugar-from-fruit-the-same-as-sugar-from-candy</link>
+      <description>August 8, 2017 - Stories about the harms of sugar have consumers wondering if they should put the apple back on the shelf.&#xA;&#xA; - http://www.npr.org/sections/thesalt/2017/08/08/540923229/gnawing-questions-is-sugar-from-fruit-the-same-as-sugar-from-candy</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/08/fruit1d_wide-04b3d4bbec1cffb2fa0909eafdb196133be94549-s800-c15.jpg"></a>
+
+August 8, 2017 - Stories about the harms of sugar have consumers wondering if they should put the apple back on the shelf.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/08/540923229/gnawing-questions-is-sugar-from-fruit-the-same-as-sugar-from-candy">http://www.npr.org/sections/thesalt/2017/08/08/540923229/gnawing-questions-is-sugar-from-fruit-the-same-as-sugar-from-candy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/fruit1d_wide-04b3d4bbec1cffb2fa0909eafdb196133be94549-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</guid>
       <title>A Chip That Reprograms Cells Helps Healing, At Least In Mice</title>
@@ -40,18 +55,18 @@ August 8, 2017 - This device shoots new genetic code into cells to make them cha
     </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_nashville_mayor_mourning_sons_overdose_death_aims_to_save_other_children.mp3?orgId=577&amp;topicId=1091&amp;d=178&amp;p=3&amp;story=542116681&amp;t=progseg&amp;e=542148220&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Nashville Mayor, Mourning Son&#39;s Overdose Death, Aims To Save Other Children</title>
+      <title>Nashville Mayor Mourns Son&#39;s Overdose Death, Urges Families To Talk About Addiction</title>
       <link>http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children</link>
       <description>August 8, 2017 - &#34;Max is not going to text me back. I&#39;m not going to hear his voice again,&#34; Mayor Megan Barry said of her only child. The 22-year-old died last month of an apparent overdose near Denver.</description>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_nashville_mayor_mourning_sons_overdose_death_aims_to_save_other_children.mp3?orgId=577&amp;topicId=1091&amp;d=178&amp;p=3&amp;story=542116681&amp;t=progseg&amp;e=542148220&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-161687e2d7dfd0031b70026b0614ba50eb65b4bb-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-67b23d4cef5d5152e9d14a8410bdda981b334e72-s800-c15.jpg"></a>
 
 August 8, 2017 - "Max is not going to text me back. I'm not going to hear his voice again," Mayor Megan Barry said of her only child. The 22-year-old died last month of an apparent overdose near Denver.
 
 <a href="http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children">http://www.npr.org/2017/08/08/542116681/nashville-mayor-mourning-sons-overdose-death-aims-to-save-other-children</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-161687e2d7dfd0031b70026b0614ba50eb65b4bb-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/barry1-gonzalez_wide-67b23d4cef5d5152e9d14a8410bdda981b334e72-s3000-c15.jpg"></itunes:image>
       <itunes:duration>178</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -245,21 +260,6 @@ August 3, 2017 - Andrea Towson was known in West Baltimore as the go-to person f
 <a href="http://the1a.org/shows/2017-08-03/what-would-a-popular-health-care-plan-look-like">http://the1a.org/shows/2017-08-03/what-would-a-popular-health-care-plan-look-like</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2880</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170803_me_bipartisan_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=327&amp;p=3&amp;story=541318222&amp;t=progseg&amp;e=541298577&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Senate Panel To Probe How To Bring Stability To Health Insurance Market</title>
-      <link>http://www.npr.org/2017/08/03/541318222/senate-panel-to-probe-how-to-bring-stability-to-health-insurance-market</link>
-      <description>August 3, 2017 - GOP Sen. Lamar Alexander has organized bipartisan hearings aimed at preventing a &#34;death spiral&#34; on the health insurance market. David Greene talks to Democratic Sen. Maggie Hassan of New Hampshire.</description>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170803_me_bipartisan_health_care.mp3?orgId=1&amp;topicId=1014&amp;d=327&amp;p=3&amp;story=541318222&amp;t=progseg&amp;e=541298577&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 3, 2017 - GOP Sen. Lamar Alexander has organized bipartisan hearings aimed at preventing a "death spiral" on the health insurance market. David Greene talks to Democratic Sen. Maggie Hassan of New Hampshire.
-
-<a href="http://www.npr.org/2017/08/03/541318222/senate-panel-to-probe-how-to-bring-stability-to-health-insurance-market">http://www.npr.org/2017/08/03/541318222/senate-panel-to-probe-how-to-bring-stability-to-health-insurance-market</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>327</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
