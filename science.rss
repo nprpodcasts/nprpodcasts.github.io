@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 16:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 20:40:48 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 16:00:17 +0000</pubDate>
+    <pubDate>Tue, 08 Aug 2017 20:40:48 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,49 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</guid>
+      <title>Scientists Fear Trump Administration Will Counter Climate Report</title>
+      <link>http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</link>
+      <description>August 8, 2017 - A comprehensive government report on climate change has leaked to the public. The report clearly states that humans are changing the climate, and the consequences could be serious. Those views are at odds with statements by many in the Trump administration.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 8, 2017 - A comprehensive government report on climate change has leaked to the public. The report clearly states that humans are changing the climate, and the consequences could be serious. Those views are at odds with statements by many in the Trump administration.
+
+<a href="http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report">http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</guid>
+      <title>U.S. Already Feeling Consequences Of Global Warming, Draft Report Finds</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</link>
+      <description>August 8, 2017 - The document, which was leaked ahead of publication, states that humans are causing climate change. The findings are at odds with statements by President Trump and key members of his administration.</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/08/rts1axax_wide-b5d5361b627837f9e0f94dabced123dbb6ce3b10-s800-c15.jpg"></a>
+
+August 8, 2017 - The document, which was leaked ahead of publication, states that humans are causing climate change. The findings are at odds with statements by President Trump and key members of his administration.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds">http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/rts1axax_wide-b5d5361b627837f9e0f94dabced123dbb6ce3b10-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a1170808-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Baby, It&#39;s Cold Inside</title>
+      <link>http://the1a.org/shows/2017-08-08/baby-its-cold-inside</link>
+      <description>August 8, 2017 - AC is central to American life — more than 8 out of 10 homes have it.&#xA;&#xA; - http://the1a.org/shows/2017-08-08/baby-its-cold-inside</description>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a1170808-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 8, 2017 - AC is central to American life — more than 8 out of 10 homes have it.
+
+<a href="http://the1a.org/shows/2017-08-08/baby-its-cold-inside">http://the1a.org/shows/2017-08-08/baby-its-cold-inside</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2112</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</guid>
       <title>A Chip That Reprograms Cells Helps Healing, At Least In Mice</title>
@@ -213,51 +256,6 @@ August 7, 2017 - The technical term is diastasis recti and it affects many new m
 <a href="http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error">http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>61</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_c_section_effects.mp3?orgId=1&amp;topicId=1129&amp;d=218&amp;p=10&amp;story=541877818&amp;t=progseg&amp;e=541877747&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Changes In Birthing Mean For Evolution</title>
-      <link>http://www.npr.org/2017/08/06/541877818/what-changes-in-birthing-mean-for-evolution</link>
-      <description>August 6, 2017 - Lulu Garcia-Navarro talks with biological anthropologist Julienne Rutherford about the long term evolutionary changes possible from a shift in birth practices in the U.S.</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_c_section_effects.mp3?orgId=1&amp;topicId=1129&amp;d=218&amp;p=10&amp;story=541877818&amp;t=progseg&amp;e=541877747&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 6, 2017 - Lulu Garcia-Navarro talks with biological anthropologist Julienne Rutherford about the long term evolutionary changes possible from a shift in birth practices in the U.S.
-
-<a href="http://www.npr.org/2017/08/06/541877818/what-changes-in-birthing-mean-for-evolution">http://www.npr.org/2017/08/06/541877818/what-changes-in-birthing-mean-for-evolution</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_the_call_in_genetic_engineering.mp3?orgId=1&amp;topicId=1007&amp;d=535&amp;p=10&amp;story=541877804&amp;t=progseg&amp;e=541877747&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Call-In: Genetic Engineering</title>
-      <link>http://www.npr.org/2017/08/06/541877804/the-call-in-genetic-engineering</link>
-      <description>August 6, 2017 - Last week, a new study was released confirming that scientists had successfully modified human embryos to eliminate a genetic defect. We asked you for your questions.</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_the_call_in_genetic_engineering.mp3?orgId=1&amp;topicId=1007&amp;d=535&amp;p=10&amp;story=541877804&amp;t=progseg&amp;e=541877747&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 6, 2017 - Last week, a new study was released confirming that scientists had successfully modified human embryos to eliminate a genetic defect. We asked you for your questions.
-
-<a href="http://www.npr.org/2017/08/06/541877804/the-call-in-genetic-engineering">http://www.npr.org/2017/08/06/541877804/the-call-in-genetic-engineering</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>535</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_nasa_voyager_anniversary.mp3?orgId=1&amp;topicId=1026&amp;d=223&amp;p=10&amp;story=541877776&amp;t=progseg&amp;e=541877747&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>NASA&#39;s Voyager Program Turns 40</title>
-      <link>http://www.npr.org/2017/08/06/541877776/nasa-s-voyager-program-turns-40</link>
-      <description>August 6, 2017 - NPR&#39;s Lulu Garcia-Navarro talks to Ed Stone, a chief scientist at NASA, about the Voyager program as it approaches its 40th anniversary.  He&#39;s 81 years old and has spent half his life on the project.</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_nasa_voyager_anniversary.mp3?orgId=1&amp;topicId=1026&amp;d=223&amp;p=10&amp;story=541877776&amp;t=progseg&amp;e=541877747&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 6, 2017 - NPR's Lulu Garcia-Navarro talks to Ed Stone, a chief scientist at NASA, about the Voyager program as it approaches its 40th anniversary.  He's 81 years old and has spent half his life on the project.
-
-<a href="http://www.npr.org/2017/08/06/541877776/nasa-s-voyager-program-turns-40">http://www.npr.org/2017/08/06/541877776/nasa-s-voyager-program-turns-40</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>223</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
