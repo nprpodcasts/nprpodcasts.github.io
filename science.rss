@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 20:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 09:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 20:40:48 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 09:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,238 +24,232 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</guid>
-      <title>Scientists Fear Trump Administration Will Counter Climate Report</title>
-      <link>http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</link>
-      <description>August 8, 2017 - A comprehensive government report on climate change has leaked to the public. The report clearly states that humans are changing the climate, and the consequences could be serious. Those views are at odds with statements by many in the Trump administration.</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</guid>
+      <title>Nearly 1 In 5 Hospice Patients Discharged While Still Alive</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</link>
+      <description>August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 8, 2017 - A comprehensive government report on climate change has leaked to the public. The report clearly states that humans are changing the climate, and the consequences could be serious. Those views are at odds with statements by many in the Trump administration.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report">http://www.npr.org/2017/08/08/542285987/scientists-fear-trump-administration-will-counter-climate-report</a>]]></itunes:summary>
+August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive">http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</guid>
+      <title>2016 Hit Records For Global Temperature And Climate Extremes</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</link>
+      <description>August 10, 2017 - An annual report, comprising data from scientists across the globe, shows it was the warmest on records that date back 137 years. It also saw the highest sea levels and lowest polar sea ice.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17222422377139_wide-36301d391e35ab7b3e73568821ba293101b8bdc3-s800-c15.jpg"></a>
+
+August 10, 2017 - An annual report, comprising data from scientists across the globe, shows it was the warmest on records that date back 137 years. It also saw the highest sea levels and lowest polar sea ice.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes">http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17222422377139_wide-36301d391e35ab7b3e73568821ba293101b8bdc3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</guid>
+      <title>People Back Editing Genes To Treat Disease, But Are Wary Of Inheritable Changes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</link>
+      <description>August 10, 2017 - Scientists are getting closer to being able to alter people&#39;s genes permanently. A survey found that people are more cautious about changes that could be passed on to future generations.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-170416551_wide-886bb4cd7d59fc1c64996a0fdbe9dc9d79711bbc-s800-c15.jpg"></a>
+
+August 10, 2017 - Scientists are getting closer to being able to alter people's genes permanently. A survey found that people are more cautious about changes that could be passed on to future generations.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes">http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-170416551_wide-886bb4cd7d59fc1c64996a0fdbe9dc9d79711bbc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</guid>
+      <title>Environmental Penalties Down Under President Trump</title>
+      <link>http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</link>
+      <description>August 10, 2017 - A new report shows the EPA has collected 60 percent less in civil penalties from polluters compared with recent administrations.&#xA;&#xA; - http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17154009093536_wide-817b5ac5b6bf5d72f2e7d22334d6930e56f903f0-s800-c15.jpg"></a>
+
+August 10, 2017 - A new report shows the EPA has collected 60 percent less in civil penalties from polluters compared with recent administrations.
+
+<a href="http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump">http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17154009093536_wide-817b5ac5b6bf5d72f2e7d22334d6930e56f903f0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Widowed Early, A Cancer Doctor Writes About The Harm Of Medical Debt</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</link>
+      <description>August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s800-c15.jpg"></a>
+
+August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt">http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>213</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170810_me_as_eclipse_madness_sweeps_us_a_stonehenge_made_of_cars_prepares.mp3?orgId=1&amp;topicId=1003&amp;d=168&amp;p=3&amp;story=541583064&amp;t=progseg&amp;e=542546850&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>As Eclipse Madness Sweeps U.S., A Stonehenge Made Of Cars Prepares</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/541583064/as-eclipse-madness-sweeps-u-s-a-stonehenge-made-of-cars-prepares</link>
+      <description>August 10, 2017 - Carhenge in Alliance, Neb., will be prime viewing for this month&#39;s total solar eclipse. The town is preparing for thousands of visitors.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170810_me_as_eclipse_madness_sweeps_us_a_stonehenge_made_of_cars_prepares.mp3?orgId=1&amp;topicId=1003&amp;d=168&amp;p=3&amp;story=541583064&amp;t=progseg&amp;e=542546850&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/gettyimages-530333896_wide-99daac6ab4b6e440709cccfbe5e7487c24d993dd-s800-c15.jpg"></a>
+
+August 10, 2017 - Carhenge in Alliance, Neb., will be prime viewing for this month's total solar eclipse. The town is preparing for thousands of visitors.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/541583064/as-eclipse-madness-sweeps-u-s-a-stonehenge-made-of-cars-prepares">http://www.npr.org/sections/thetwo-way/2017/08/10/541583064/as-eclipse-madness-sweeps-u-s-a-stonehenge-made-of-cars-prepares</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/gettyimages-530333896_wide-99daac6ab4b6e440709cccfbe5e7487c24d993dd-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>168</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542510195/hurricane-franklin-first-of-atlantic-season-barrels-toward-mexicos-coast</guid>
+      <title>Hurricane Franklin, First Of Atlantic Season, Barrels Toward Mexico&#39;s Coast</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542510195/hurricane-franklin-first-of-atlantic-season-barrels-toward-mexicos-coast</link>
+      <description>August 9, 2017 - The storm is expected to make landfall north of Veracruz, where it could dump as much as 15 inches of rain, causing &#34;life-threatening flash floods and mudslides.&#34;</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/ap_17221719196279_wide-46af5a4b656e64ca9f9ea9aff7d0c7bebb8ee65a-s800-c15.jpg"></a>
+
+August 9, 2017 - The storm is expected to make landfall north of Veracruz, where it could dump as much as 15 inches of rain, causing "life-threatening flash floods and mudslides."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542510195/hurricane-franklin-first-of-atlantic-season-barrels-toward-mexicos-coast">http://www.npr.org/sections/thetwo-way/2017/08/09/542510195/hurricane-franklin-first-of-atlantic-season-barrels-toward-mexicos-coast</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_17221719196279_wide-46af5a4b656e64ca9f9ea9aff7d0c7bebb8ee65a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</guid>
+      <title>47 Hospitals Slashed Their Use Of 2 Key Heart Drugs After Huge Price Hikes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</link>
+      <description>August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are frequently used in emergency and intensive care situations and have no direct alternatives, say cardiologists.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s800-c15.jpg"></a>
+
+August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are frequently used in emergency and intensive care situations and have no direct alternatives, say cardiologists.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes">http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</guid>
+      <title>Belgian And Dutch Officials Point Fingers Amid Egg Contamination Scare</title>
+      <link>http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</link>
+      <description>August 9, 2017 - Millions of eggs have been recalled in European countries afraid they&#39;ve been contaminated with insecticide. Who is to blame, though? That question is now a matter of international discord.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-827682426_wide-5afec0cc9140ad9636edc9d78a1b5d774350e21c-s800-c15.jpg"></a>
+
+August 9, 2017 - Millions of eggs have been recalled in European countries afraid they've been contaminated with insecticide. Who is to blame, though? That question is now a matter of international discord.
+
+<a href="http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare">http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-827682426_wide-5afec0cc9140ad9636edc9d78a1b5d774350e21c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</guid>
+      <title>Some Tuna Can Carry Up To 36 Times The Toxic Chemicals Of Others. Here&#39;s Why</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</link>
+      <description>August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s800-c15.jpg"></a>
+
+August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why">http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_trump_claims_to_have_modernized_the_us_nuclear_arsenal.mp3?orgId=1&amp;topicId=1122&amp;d=235&amp;p=2&amp;story=542468244&amp;t=progseg&amp;e=542351245&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Trump Claims To Have Modernized The U.S. Nuclear Arsenal</title>
+      <link>http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal</link>
+      <description>August 9, 2017 - On Wednesday, President Trump tweeted that he modernized the U.S. nuclear arsenal as his first act in office. But others question that claim. NPR takes a closer look at America&#39;s nuclear capabilities.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_trump_claims_to_have_modernized_the_us_nuclear_arsenal.mp3?orgId=1&amp;topicId=1122&amp;d=235&amp;p=2&amp;story=542468244&amp;t=progseg&amp;e=542351245&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 9, 2017 - On Wednesday, President Trump tweeted that he modernized the U.S. nuclear arsenal as his first act in office. But others question that claim. NPR takes a closer look at America's nuclear capabilities.
+
+<a href="http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal">http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</guid>
-      <title>U.S. Already Feeling Consequences Of Global Warming, Draft Report Finds</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</link>
-      <description>August 8, 2017 - The document, which was leaked ahead of publication, states that humans are causing climate change. The findings are at odds with statements by President Trump and key members of his administration.</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/08/rts1axax_wide-b5d5361b627837f9e0f94dabced123dbb6ce3b10-s800-c15.jpg"></a>
-
-August 8, 2017 - The document, which was leaked ahead of publication, states that humans are causing climate change. The findings are at odds with statements by President Trump and key members of his administration.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds">http://www.npr.org/sections/thetwo-way/2017/08/08/542223530/u-s-already-feeling-consequences-of-global-warming-draft-report-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/rts1axax_wide-b5d5361b627837f9e0f94dabced123dbb6ce3b10-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/08/a1170808-2.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Baby, It&#39;s Cold Inside</title>
-      <link>http://the1a.org/shows/2017-08-08/baby-its-cold-inside</link>
-      <description>August 8, 2017 - AC is central to American life — more than 8 out of 10 homes have it.&#xA;&#xA; - http://the1a.org/shows/2017-08-08/baby-its-cold-inside</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a1170808-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 8, 2017 - AC is central to American life — more than 8 out of 10 homes have it.
-
-<a href="http://the1a.org/shows/2017-08-08/baby-its-cold-inside">http://the1a.org/shows/2017-08-08/baby-its-cold-inside</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2112</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</guid>
-      <title>A Chip That Reprograms Cells Helps Healing, At Least In Mice</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</link>
-      <description>August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they&#39;ve got a long, long way to go.</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s800-c15.jpg"></a>
-
-August 8, 2017 - This device shoots new genetic code into cells to make them change their purpose. Researchers say the chip could someday be used to treat injuries in humans. But they've got a long, long way to go.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice">http://www.npr.org/sections/health-shots/2017/08/08/542057520/a-chip-that-reprograms-cells-helps-healing-at-least-in-mice</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/chip-2_wide-8d9f48c5db0894b178fcfc498e69c7c8331c52fe-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_go_see_it_eclipse_chasers_urge_your_first_time_is_always_special.mp3?orgId=1&amp;topicId=1007&amp;d=314&amp;p=3&amp;story=539553696&amp;t=progseg&amp;e=542148220&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Go See It, Eclipse Chasers Urge. &#39;Your First Time Is Always Special&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special</link>
-      <description>August 8, 2017 - A small number of passionate &#34;shadow lovers&#34; roam the world to be at exactly the right place when the moon blots out the sun. One man has seen 33 — and calls each &#34;one of the top events of my life.&#34;</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_go_see_it_eclipse_chasers_urge_your_first_time_is_always_special.mp3?orgId=1&amp;topicId=1007&amp;d=314&amp;p=3&amp;story=539553696&amp;t=progseg&amp;e=542148220&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/tse2008-3034npr_wide-43ec1984d6010a1124e932beb269c6f0a8050a33-s800-c15.jpg"></a>
-
-August 8, 2017 - A small number of passionate "shadow lovers" roam the world to be at exactly the right place when the moon blots out the sun. One man has seen 33 — and calls each "one of the top events of my life."
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special">http://www.npr.org/sections/thetwo-way/2017/08/08/539553696/go-see-it-eclipse-chasers-urge-your-first-time-is-always-special</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/tse2008-3034npr_wide-43ec1984d6010a1124e932beb269c6f0a8050a33-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>314</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</guid>
-      <title>Federal Report Calls For $275 Million To Stop Asian Carp</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</link>
-      <description>August 7, 2017 - The invasive species have been caught mere miles from Lake Michigan. Scientists fear if they invade the lake, they could spread throughout the Great Lakes.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/ap_17216615574663_wide-2efc95cdecc203ae8021ec60e891acadbdd7c634-s800-c15.jpg"></a>
-
-August 7, 2017 - The invasive species have been caught mere miles from Lake Michigan. Scientists fear if they invade the lake, they could spread throughout the Great Lakes.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp">http://www.npr.org/sections/thetwo-way/2017/08/07/542116993/federal-report-calls-for-275-million-to-stop-asian-carp</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/ap_17216615574663_wide-2efc95cdecc203ae8021ec60e891acadbdd7c634-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_syrian_refugee_and_german_scientist_make_an_unlikely_team.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=271&amp;p=2&amp;story=539044891&amp;t=progseg&amp;e=541985440&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Syrian Refugee And German Scientist Make An Unlikely Team</title>
-      <link>http://www.npr.org/2017/08/07/539044891/syrian-refugee-and-german-scientist-make-an-unlikely-team</link>
-      <description>August 7, 2017 - In Leipzig, Germany, two scientists from very different backgrounds are working on a unique research project.&#xA;&#xA; - http://www.npr.org/2017/08/07/539044891/syrian-refugee-and-german-scientist-make-an-unlikely-team</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_syrian_refugee_and_german_scientist_make_an_unlikely_team.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=271&amp;p=2&amp;story=539044891&amp;t=progseg&amp;e=541985440&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/24/promo-teach_wide-391c37122c196f7978d4d407a133ff5deee7e0ea-s800-c15.jpg"></a>
-
-August 7, 2017 - In Leipzig, Germany, two scientists from very different backgrounds are working on a unique research project.
-
-<a href="http://www.npr.org/2017/08/07/539044891/syrian-refugee-and-german-scientist-make-an-unlikely-team">http://www.npr.org/2017/08/07/539044891/syrian-refugee-and-german-scientist-make-an-unlikely-team</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/promo-teach_wide-391c37122c196f7978d4d407a133ff5deee7e0ea-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>271</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_it_is_such_a_beautiful_spectacle_geographer_makes_case_to_witness_solar_eclipse.mp3?orgId=1&amp;topicId=1026&amp;d=266&amp;p=2&amp;story=542087057&amp;t=progseg&amp;e=541985440&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;A Beautiful Spectacle&#39;: Geographer Makes Case To Witness Solar Eclipse</title>
-      <link>http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse</link>
-      <description>August 7, 2017 - A total solar eclipse is the most beautiful natural spectacle Michael Zeiler has ever seen. The geographer tells NPR&#39;s Ari Shapiro that once one witnesses a total eclipse, they&#39;ll be hooked for life.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_it_is_such_a_beautiful_spectacle_geographer_makes_case_to_witness_solar_eclipse.mp3?orgId=1&amp;topicId=1026&amp;d=266&amp;p=2&amp;story=542087057&amp;t=progseg&amp;e=541985440&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 7, 2017 - A total solar eclipse is the most beautiful natural spectacle Michael Zeiler has ever seen. The geographer tells NPR's Ari Shapiro that once one witnesses a total eclipse, they'll be hooked for life.
-
-<a href="http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse">http://www.npr.org/2017/08/07/542087057/a-beautiful-spectacle-geographer-makes-case-to-witness-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>266</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_coddled_puppies_make_poor_guide_dogs_study_suggests.mp3?orgId=1&amp;topicId=1024&amp;d=182&amp;p=2&amp;story=541644280&amp;t=progseg&amp;e=541985440&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Coddled Puppies Make Poor Guide Dogs, Study Suggests</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests</link>
-      <description>August 7, 2017 - New research suggests that when puppies have more attentive, active mothers, they&#39;re more likely to fail guide-dog training.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_coddled_puppies_make_poor_guide_dogs_study_suggests.mp3?orgId=1&amp;topicId=1024&amp;d=182&amp;p=2&amp;story=541644280&amp;t=progseg&amp;e=541985440&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/04/gettyimages-542511219_wide-822661c638a79259e599e785cfdaa9f8f74aee3c-s800-c15.jpg"></a>
-
-August 7, 2017 - New research suggests that when puppies have more attentive, active mothers, they're more likely to fail guide-dog training.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests">http://www.npr.org/sections/health-shots/2017/08/07/541644280/coddled-puppies-make-poor-guide-dogs-study-suggests</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/gettyimages-542511219_wide-822661c638a79259e599e785cfdaa9f8f74aee3c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>182</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_scientists_prepare_for_the_most_beautiful_thing_you_can_see_in_the_sky.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=2&amp;story=541609379&amp;t=progseg&amp;e=541985440&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scientists Prepare For &#39;The Most Beautiful Thing You Can See In The Sky&#39;</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/07/541609379/scientists-prepare-for-the-most-beautiful-thing-you-can-see-in-the-sky</link>
-      <description>August 7, 2017 - You&#39;d think that after hundreds of years of watching total solar eclipses, scientists would know all they&#39;d need to about that particular phenomenon. You&#39;d be wrong.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_scientists_prepare_for_the_most_beautiful_thing_you_can_see_in_the_sky.mp3?orgId=1&amp;topicId=1026&amp;d=235&amp;p=2&amp;story=541609379&amp;t=progseg&amp;e=541985440&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/ap_182614486859_wide-240f2a24247e90ed1b8ebb8959814db37a45534a-s800-c15.jpg"></a>
-
-August 7, 2017 - You'd think that after hundreds of years of watching total solar eclipses, scientists would know all they'd need to about that particular phenomenon. You'd be wrong.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/07/541609379/scientists-prepare-for-the-most-beautiful-thing-you-can-see-in-the-sky">http://www.npr.org/sections/thetwo-way/2017/08/07/541609379/scientists-prepare-for-the-most-beautiful-thing-you-can-see-in-the-sky</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/ap_182614486859_wide-240f2a24247e90ed1b8ebb8959814db37a45534a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170807_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2225&amp;p=13&amp;story=541610511&amp;t=progseg&amp;e=542022320&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Can Buddhist Practices Help Us Overcome The Biological Pull Of Dissatisfaction?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/07/541610511/can-buddhist-practices-help-us-overcome-the-biological-pull-of-dissatisfaction</link>
-      <description>August 7, 2017 - Science journalist and author Robert Wright says that Buddhist enlightenment might help counteract our natural tendency towards unhappiness. His new book is Why Buddhism is True.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170807_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2225&amp;p=13&amp;story=541610511&amp;t=progseg&amp;e=542022320&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_ahead_of_solar_eclipse_small_town_prepares_for_light_among_the_darkness.mp3?orgId=1&amp;topicId=1091&amp;d=212&amp;p=2&amp;story=542468196&amp;t=progseg&amp;e=542351245&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Ahead Of Solar Eclipse, Small Town Prepares For Light Among The Darkness</title>
+      <link>http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness</link>
+      <description>August 9, 2017 - When the total solar eclipse crosses North America next month, one city will be dark for the longest time. Hopkinsville, Ky., is a small town making big preparations for the big event.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_ahead_of_solar_eclipse_small_town_prepares_for_light_among_the_darkness.mp3?orgId=1&amp;topicId=1091&amp;d=212&amp;p=2&amp;story=542468196&amp;t=progseg&amp;e=542351245&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/meditation_wide-9828578e9d495c3d6e3cbd3c8cabe59f9284a81f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[August 9, 2017 - When the total solar eclipse crosses North America next month, one city will be dark for the longest time. Hopkinsville, Ky., is a small town making big preparations for the big event.
 
-August 7, 2017 - Science journalist and author Robert Wright says that Buddhist enlightenment might help counteract our natural tendency towards unhappiness. His new book is Why Buddhism is True.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/07/541610511/can-buddhist-practices-help-us-overcome-the-biological-pull-of-dissatisfaction">http://www.npr.org/sections/health-shots/2017/08/07/541610511/can-buddhist-practices-help-us-overcome-the-biological-pull-of-dissatisfaction</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/meditation_wide-9828578e9d495c3d6e3cbd3c8cabe59f9284a81f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>2225</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542029322/what-bloodied-this-teens-feet-tiny-marine-flesh-eaters-had-scientists-stumped</guid>
-      <title>What Bloodied This Teen&#39;s Feet? Tiny Marine Flesh Eaters Had Scientists Stumped</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/07/542029322/what-bloodied-this-teens-feet-tiny-marine-flesh-eaters-had-scientists-stumped</link>
-      <description>August 7, 2017 - After a 30-minute soak, Sam Kanizay left the water bleeding profusely. Exactly what attacked him puzzled experts, though — that is, until his father tracked down some of the little creatures.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/07/ap_17219466584326_wide-2ae9176f6fa52f4b0b422a5f3afe07831b9419fd-s800-c15.jpg"></a>
-
-August 7, 2017 - After a 30-minute soak, Sam Kanizay left the water bleeding profusely. Exactly what attacked him puzzled experts, though — that is, until his father tracked down some of the little creatures.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/07/542029322/what-bloodied-this-teens-feet-tiny-marine-flesh-eaters-had-scientists-stumped">http://www.npr.org/sections/thetwo-way/2017/08/07/542029322/what-bloodied-this-teens-feet-tiny-marine-flesh-eaters-had-scientists-stumped</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/ap_17219466584326_wide-2ae9176f6fa52f4b0b422a5f3afe07831b9419fd-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_threatened_seabird_issues_could_extend_to_the_lobster_industry.mp3?orgId=1&amp;topicId=1132&amp;d=232&amp;p=3&amp;story=541969303&amp;t=progseg&amp;e=541958484&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Issues Threatening Seabirds Could Extend To The Lobster Industry</title>
-      <link>http://www.npr.org/2017/08/07/541969303/issues-threatening-seabirds-could-extend-to-the-lobster-industry</link>
-      <description>August 7, 2017 - Researchers off the coast of New Hampshire are spending the summer studying baby seabirds called terns. They say the chicks are in trouble and it&#39;s an indication local lobstermen could be too.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_threatened_seabird_issues_could_extend_to_the_lobster_industry.mp3?orgId=1&amp;topicId=1132&amp;d=232&amp;p=3&amp;story=541969303&amp;t=progseg&amp;e=541958484&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 7, 2017 - Researchers off the coast of New Hampshire are spending the summer studying baby seabirds called terns. They say the chicks are in trouble and it's an indication local lobstermen could be too.
-
-<a href="http://www.npr.org/2017/08/07/541969303/issues-threatening-seabirds-could-extend-to-the-lobster-industry">http://www.npr.org/2017/08/07/541969303/issues-threatening-seabirds-could-extend-to-the-lobster-industry</a>]]></itunes:summary>
+<a href="http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness">http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
+      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_flattening_the_mummy_tummy_with_one_exercise_10_minutes_a_day.mp3?orgId=1&amp;topicId=1066&amp;d=387&amp;p=3&amp;story=541204499&amp;t=progseg&amp;e=541958484&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Flattening The &#39;Mummy Tummy&#39; With 1 Exercise, 10 Minutes A Day</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day</link>
-      <description>August 7, 2017 - The technical term is diastasis recti and it affects many new moms. The growing fetus pushes apart the abdominal muscles and the separation often stays open. But science suggests this fix can work.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170807_me_flattening_the_mummy_tummy_with_one_exercise_10_minutes_a_day.mp3?orgId=1&amp;topicId=1066&amp;d=387&amp;p=3&amp;story=541204499&amp;t=progseg&amp;e=541958484&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</guid>
+      <title>Perseid Meteor Shower Falls Victim To Fake News. Sad!</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</link>
+      <description>August 9, 2017 - It seems nothing is safe from fake news this year, not even the annual astronomical event. This year&#39;s Perseid show will be at its peak Saturday night into Sunday.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/04/_n0a6086-copy_wide-97e2db5bcb444ae821b686c91db9666ee96c66ea-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/ap_16225354180398_wide-527d4cebb7ea4d5c3c86890e4043eeea436a3192-s800-c15.jpg"></a>
 
-August 7, 2017 - The technical term is diastasis recti and it affects many new moms. The growing fetus pushes apart the abdominal muscles and the separation often stays open. But science suggests this fix can work.
+August 9, 2017 - It seems nothing is safe from fake news this year, not even the annual astronomical event. This year's Perseid show will be at its peak Saturday night into Sunday.
 
-<a href="http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day">http://www.npr.org/sections/health-shots/2017/08/07/541204499/flattening-the-mummy-tummy-with-1-exercise-10-minutes-a-day</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/_n0a6086-copy_wide-97e2db5bcb444ae821b686c91db9666ee96c66ea-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>387</itunes:duration>
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad">http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_16225354180398_wide-527d4cebb7ea4d5c3c86890e4043eeea436a3192-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_dinosaur_fo.mp3?orgId=1&amp;topicId=1007&amp;d=61&amp;p=10&amp;story=541877832&amp;t=progseg&amp;e=541877747&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>10-Year-Old Spots Museum Error</title>
-      <link>http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error</link>
-      <description>August 6, 2017 - Ten-year-old Charlie Edwards got a jump start on his paleontology career when he noted a mistaken label at the Natural History Museum in London.&#xA;&#xA; - http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error</description>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170806_wesun_dinosaur_fo.mp3?orgId=1&amp;topicId=1007&amp;d=61&amp;p=10&amp;story=541877832&amp;t=progseg&amp;e=541877747&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</guid>
+      <title>This Could Be The Biggest Dinosaur Ever Found — And It&#39;s Finally Got A Name</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</link>
+      <description>August 9, 2017 - After years of study, scientists have given a name to the prehistoric colossus: Patagotitan mayorum. And in a paper published Wednesday, researchers offered the world a closer glimpse.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 6, 2017 - Ten-year-old Charlie Edwards got a jump start on his paleontology career when he noted a mistaken label at the Natural History Museum in London.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-504974090_wide-2e56fc369ad04d43efc49d8bece0ac4bc0404fc5-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error">http://www.npr.org/2017/08/06/541877832/10-year-old-spots-museum-error</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>61</itunes:duration>
+August 9, 2017 - After years of study, scientists have given a name to the prehistoric colossus: Patagotitan mayorum. And in a paper published Wednesday, researchers offered the world a closer glimpse.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name">http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-504974090_wide-2e56fc369ad04d43efc49d8bece0ac4bc0404fc5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</guid>
+      <title>Earliest-Known Winged Mammal Relatives Discovered In China</title>
+      <link>http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</link>
+      <description>August 9, 2017 - These 160-million-year-old fossils are the oldest known examples of mammal relatives with the ability to glide. They&#39;re from an extinct lineage with no relationship to modern gliders.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/maiopatagium_life_scene_lg_wide-371bf154d77eb9f910f21d6c8a78e65807f3527f-s800-c15.jpg"></a>
+
+August 9, 2017 - These 160-million-year-old fossils are the oldest known examples of mammal relatives with the ability to glide. They're from an extinct lineage with no relationship to modern gliders.
+
+<a href="http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china">http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/maiopatagium_life_scene_lg_wide-371bf154d77eb9f910f21d6c8a78e65807f3527f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

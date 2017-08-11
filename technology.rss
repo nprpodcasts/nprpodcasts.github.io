@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2017 20:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 09:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 08 Aug 2017 20:40:46 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 09:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,24 +24,198 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/08/542286029/google-memo-raises-questions-about-limits-of-free-speech-in-the-workplace</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</guid>
+      <title>Google Cancels Town Hall After Employee&#39;s Controversial Diversity Memo</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</link>
+      <description>August 10, 2017 - The meeting had been called to discuss fallout from the memo written by a senior software engineer who complained that &#34;biological causes&#34; explained why women were underrepresented at the tech giant.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17137643084817_wide-b480255c80125195cc5d8ae1802040f965dccff8-s800-c15.jpg"></a>
+
+August 10, 2017 - The meeting had been called to discuss fallout from the memo written by a senior software engineer who complained that "biological causes" explained why women were underrepresented at the tech giant.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo">http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17137643084817_wide-b480255c80125195cc5d8ae1802040f965dccff8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_colleges_have_increased_women_computer_science_majors_what_can_google_learn_.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=542638758&amp;t=progseg&amp;e=542550507&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Colleges Have Increased Women Computer Science Majors: What Can Google Learn? </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/10/542638758/colleges-have-increased-women-computer-science-majors-what-can-google-learn</link>
+      <description>August 10, 2017 - About half of Harvey Mudd College computer science graduates are women, up sharply in the past decade. It and other schools found success by adjusting their curriculums and making other changes.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_colleges_have_increased_women_computer_science_majors_what_can_google_learn_.mp3?orgId=1&amp;topicId=1019&amp;d=225&amp;p=2&amp;story=542638758&amp;t=progseg&amp;e=542550507&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/csmooc14-081_wide-628fc64c3f722b7c11f2c15bf31620d136c6f5fe-s800-c15.jpg"></a>
+
+August 10, 2017 - About half of Harvey Mudd College computer science graduates are women, up sharply in the past decade. It and other schools found success by adjusting their curriculums and making other changes.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/10/542638758/colleges-have-increased-women-computer-science-majors-what-can-google-learn">http://www.npr.org/sections/alltechconsidered/2017/08/10/542638758/colleges-have-increased-women-computer-science-majors-what-can-google-learn</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/csmooc14-081_wide-628fc64c3f722b7c11f2c15bf31620d136c6f5fe-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_russian_cyberattack_targeted_elections_vendor_tied_to_voting_day_disruptions.mp3?orgId=1&amp;topicId=1122&amp;d=334&amp;p=2&amp;story=542634370&amp;t=progseg&amp;e=542550507&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Russian Cyberattack Targeted Elections Vendor Tied To Voting Day Disruptions</title>
+      <link>http://www.npr.org/2017/08/10/542634370/russian-cyberattack-targeted-elections-vendor-tied-to-voting-day-disruptions</link>
+      <description>August 10, 2017 - Weird things started to happen as people showed up to vote in parts of North Carolina on Nov. 8. Why didn&#39;t state workers know that their elections contractor had been hit by a cyberattack?</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_russian_cyberattack_targeted_elections_vendor_tied_to_voting_day_disruptions.mp3?orgId=1&amp;topicId=1122&amp;d=334&amp;p=2&amp;story=542634370&amp;t=progseg&amp;e=542550507&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-621769514_wide-c05089efadaafa92ee50d659c67fff6203e0794b-s800-c15.jpg"></a>
+
+August 10, 2017 - Weird things started to happen as people showed up to vote in parts of North Carolina on Nov. 8. Why didn't state workers know that their elections contractor had been hit by a cyberattack?
+
+<a href="http://www.npr.org/2017/08/10/542634370/russian-cyberattack-targeted-elections-vendor-tied-to-voting-day-disruptions">http://www.npr.org/2017/08/10/542634370/russian-cyberattack-targeted-elections-vendor-tied-to-voting-day-disruptions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-621769514_wide-c05089efadaafa92ee50d659c67fff6203e0794b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>334</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</guid>
+      <title>Facebook Watch Is Company&#39;s New Plan For Online Video</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</link>
+      <description>August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an online video space — and compete with YouTube and other networks for ad revenue.</description>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/facebook-watch-watchlist_wide-2d298a913d2e78c001a1c6614974637af7490aa4-s800-c15.jpg"></a>
+
+August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an online video space — and compete with YouTube and other networks for ad revenue.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video">http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/facebook-watch-watchlist_wide-2d298a913d2e78c001a1c6614974637af7490aa4-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_airbnb_cancels_bookings_by_users_connected_to_white_nationalist_rally.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=542468293&amp;t=progseg&amp;e=542351245&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Airbnb Cancels Bookings By Users Connected To White Nationalist Rally</title>
+      <link>http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally</link>
+      <description>August 9, 2017 - NPR&#39;s Ari Shapiro talks to Deborah Hellman, a professor at the University of Virginia, about Airbnb&#39;s cancellation of bookings by attendees to a Charlottesville, Va., white nationalist event.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_airbnb_cancels_bookings_by_users_connected_to_white_nationalist_rally.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=542468293&amp;t=progseg&amp;e=542351245&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 9, 2017 - NPR's Ari Shapiro talks to Deborah Hellman, a professor at the University of Virginia, about Airbnb's cancellation of bookings by attendees to a Charlottesville, Va., white nationalist event.
+
+<a href="http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally">http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>245</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_car_seat_camouflage_man_wears_bizarre_costume_in_automatic_vehicle_experiment.mp3?orgId=1&amp;topicId=1019&amp;d=117&amp;p=2&amp;story=542468251&amp;t=progseg&amp;e=542351245&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Car Seat Camouflage: Man Wears Bizarre Costume In Automatic Vehicle Experiment</title>
+      <link>http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment</link>
+      <description>August 9, 2017 - An apparently driverless van was spotted driving around Arlington, Va., recently. The vehicle appeared to have no humans on board, and the story got stranger from there.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_car_seat_camouflage_man_wears_bizarre_costume_in_automatic_vehicle_experiment.mp3?orgId=1&amp;topicId=1019&amp;d=117&amp;p=2&amp;story=542468251&amp;t=progseg&amp;e=542351245&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 9, 2017 - An apparently driverless van was spotted driving around Arlington, Va., recently. The vehicle appeared to have no humans on board, and the story got stranger from there.
+
+<a href="http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment">http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>117</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_is_the_memo_controversy_a_pivot_point_on_diversity_for_google.mp3?orgId=1&amp;topicId=1006&amp;d=177&amp;p=2&amp;story=542412661&amp;t=progseg&amp;e=542351245&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Is The Memo Controversy A Pivot Point On Diversity For Google?</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/09/542412661/is-the-memo-controversy-a-pivot-point-on-diversity-for-google</link>
+      <description>August 9, 2017 - Once Google is done putting out fires in the wake of a male employee&#39;s incendiary memo about gender, the company will have to think about how to tackle its longstanding diversity problem.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_is_the_memo_controversy_a_pivot_point_on_diversity_for_google.mp3?orgId=1&amp;topicId=1006&amp;d=177&amp;p=2&amp;story=542412661&amp;t=progseg&amp;e=542351245&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-529707282_wide-f17bb1018f4f01f6acd2188d4b8b2e83070c1067-s800-c15.jpg"></a>
+
+August 9, 2017 - Once Google is done putting out fires in the wake of a male employee's incendiary memo about gender, the company will have to think about how to tackle its longstanding diversity problem.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/09/542412661/is-the-memo-controversy-a-pivot-point-on-diversity-for-google">http://www.npr.org/sections/alltechconsidered/2017/08/09/542412661/is-the-memo-controversy-a-pivot-point-on-diversity-for-google</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-529707282_wide-f17bb1018f4f01f6acd2188d4b8b2e83070c1067-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>177</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</guid>
+      <title>Video Games May Affect The Brain Differently, Depending On What You Play</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</link>
+      <description>August 9, 2017 - Millions of people play video games, but there&#39;s plenty of disagreement on whether they&#39;re good or bad for brains. Action games may have a different effect than something like Super Mario.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/08/gettyimages-176426057_wide-c6d79c47986bd46b88ffe656b1ca09afd3b7e7b3-s800-c15.jpg"></a>
+
+August 9, 2017 - Millions of people play video games, but there's plenty of disagreement on whether they're good or bad for brains. Action games may have a different effect than something like Super Mario.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play">http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/gettyimages-176426057_wide-c6d79c47986bd46b88ffe656b1ca09afd3b7e7b3-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/09/542376003/at-cern-in-search-of-nature-s-building-blocks</guid>
+      <title>At CERN, In Search Of Nature&#39;s Building Blocks</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/09/542376003/at-cern-in-search-of-nature-s-building-blocks</link>
+      <description>August 9, 2017 - In a world so divided by cultural and economic warfare, what happens at the European laboratory for particle physics stands out as a celebration of the best we have to offer, says Marcelo Gleiser.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/09/istock-187421846_wide-2fb317da9e890df2b1b4d5cf546a7d72705e28b0-s800-c15.jpg"></a>
+
+August 9, 2017 - In a world so divided by cultural and economic warfare, what happens at the European laboratory for particle physics stands out as a celebration of the best we have to offer, says Marcelo Gleiser.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/09/542376003/at-cern-in-search-of-nature-s-building-blocks">http://www.npr.org/sections/13.7/2017/08/09/542376003/at-cern-in-search-of-nature-s-building-blocks</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/istock-187421846_wide-2fb317da9e890df2b1b4d5cf546a7d72705e28b0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services</guid>
+      <title>Disney Will End Netflix Deal And Offer Its Own Streaming Services</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services</link>
+      <description>August 9, 2017 - There will be one streaming service for sports and another for films and television shows, the company announced on Tuesday. But new Disney movies will still be available on Netflix until 2019.</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/09/ap_17219645815970_wide-9080f0466b2876685bfd607dae22e783b7afddbc-s800-c15.jpg"></a>
+
+August 9, 2017 - There will be one streaming service for sports and another for films and television shows, the company announced on Tuesday. But new Disney movies will still be available on Netflix until 2019.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services">http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_17219645815970_wide-9080f0466b2876685bfd607dae22e783b7afddbc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</guid>
+      <title>&#39;Schoolifying&#39; Minecraft Without Ruining It</title>
+      <link>http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</link>
+      <description>August 9, 2017 - Microsoft is trying to help more teachers use the hugely popular game in the classroom without alienating the initial enthusiasts.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</description>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.classroom.final_wide-83a4c5e78a074931c9a7dc91238a179fa90cb920-s800-c15.jpg"></a>
+
+August 9, 2017 - Microsoft is trying to help more teachers use the hugely popular game in the classroom without alienating the initial enthusiasts.
+
+<a href="http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it">http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.classroom.final_wide-83a4c5e78a074931c9a7dc91238a179fa90cb920-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170808_atc_google_memo_raises_questions_about_limits_of_free_speech_in_the_workplace.mp3?orgId=1&amp;topicId=1006&amp;d=210&amp;p=2&amp;story=542286029&amp;t=progseg&amp;e=542165929&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google Memo Raises Questions About Limits Of Free Speech In The Workplace</title>
       <link>http://www.npr.org/2017/08/08/542286029/google-memo-raises-questions-about-limits-of-free-speech-in-the-workplace</link>
       <description>August 8, 2017 - Google moved quickly to fire the software engineer who criticized the company&#39;s diversity programs. The engineer, James Damore, told The New York Times he has a right to express his concerns and that he will likely sue Google over the issue.</description>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170808_atc_google_memo_raises_questions_about_limits_of_free_speech_in_the_workplace.mp3?orgId=1&amp;topicId=1006&amp;d=210&amp;p=2&amp;story=542286029&amp;t=progseg&amp;e=542165929&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 8, 2017 - Google moved quickly to fire the software engineer who criticized the company's diversity programs. The engineer, James Damore, told The New York Times he has a right to express his concerns and that he will likely sue Google over the issue.
 
 <a href="http://www.npr.org/2017/08/08/542286029/google-memo-raises-questions-about-limits-of-free-speech-in-the-workplace">http://www.npr.org/2017/08/08/542286029/google-memo-raises-questions-about-limits-of-free-speech-in-the-workplace</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>210</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170808_atc_google_ceo_cuts_vacation_short_to_deal_with_crisis_over_diversity_memo.mp3?orgId=1&amp;topicId=1006&amp;d=217&amp;p=2&amp;story=542210855&amp;t=progseg&amp;e=542165929&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google CEO Cuts Vacation Short To Deal With Crisis Over Diversity Memo</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</link>
       <description>August 8, 2017 - CEO Sundar Pichai says that he supported the right of workers to express themselves but that a senior engineer&#39;s memo had gone too far. The memo&#39;s author says he is weighing legal action.</description>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170808_atc_google_ceo_cuts_vacation_short_to_deal_with_crisis_over_diversity_memo.mp3?orgId=1&amp;topicId=1006&amp;d=217&amp;p=2&amp;story=542210855&amp;t=progseg&amp;e=542165929&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/08/gettyimages-532150054_wide-05fbfb058cb4efa9cfaeeea3a859d6dd76a0f1c3-s800-c15.jpg"></a>
 
@@ -49,6 +223,7 @@ August 8, 2017 - CEO Sundar Pichai says that he supported the right of workers t
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo">http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/08/gettyimages-532150054_wide-05fbfb058cb4efa9cfaeeea3a859d6dd76a0f1c3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>217</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -81,179 +256,6 @@ August 8, 2017 - Minecraft, one of the most popular video games in the world, is
 <a href="http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all">http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.diversity.final3_wide-7c19db2055abcc6a65e7d4a8da7dcc845cb47840-s3000-c15.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_smartphones_and_teens.mp3?orgId=1&amp;topicId=1128&amp;d=291&amp;p=2&amp;story=542016165&amp;t=progseg&amp;e=541985440&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Smartphones Are Making Kids Unhappy</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</link>
-      <description>August 7, 2017 - Psychologist Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They&#39;re spending less time with friends and reporting greater anxiety.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_smartphones_and_teens.mp3?orgId=1&amp;topicId=1128&amp;d=291&amp;p=2&amp;story=542016165&amp;t=progseg&amp;e=541985440&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-5854cf25d2ae416e4d41718a174aa64a5ddd331d-s800-c15.jpg"></a>
-
-August 7, 2017 - Psychologist Jean Twenge has observed dramatic shifts in behavior among children who go through adolescence with smartphones. They're spending less time with friends and reporting greater anxiety.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy">http://www.npr.org/sections/health-shots/2017/08/07/542016165/how-smartphones-are-making-kids-unhappy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/teenssmartphone_wide-5854cf25d2ae416e4d41718a174aa64a5ddd331d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>291</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_google_engineers_criticism_of_diversity_programs_sparks_controversy.mp3?orgId=1&amp;topicId=1019&amp;d=175&amp;p=2&amp;story=542087066&amp;t=progseg&amp;e=541985440&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Google Engineer&#39;s Criticism Of Diversity Programs Sparks Controversy</title>
-      <link>http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</link>
-      <description>August 7, 2017 - A Google engineer&#39;s critique of the company&#39;s diversity programs is stoking controversy. The male engineer wrote that women aren&#39;t suited for tech jobs for &#34;biological&#34; reasons. Google executives are now trying to tamp down the furor as the memo ricochets around the tech industry and beyond.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170807_atc_google_engineers_criticism_of_diversity_programs_sparks_controversy.mp3?orgId=1&amp;topicId=1019&amp;d=175&amp;p=2&amp;story=542087066&amp;t=progseg&amp;e=541985440&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 7, 2017 - A Google engineer's critique of the company's diversity programs is stoking controversy. The male engineer wrote that women aren't suited for tech jobs for "biological" reasons. Google executives are now trying to tamp down the furor as the memo ricochets around the tech industry and beyond.
-
-<a href="http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy">http://www.npr.org/2017/08/07/542087066/google-engineers-criticism-of-diversity-programs-sparks-controversy</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>175</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts</guid>
-      <title>Google Reportedly Fires Employee Who Slammed Diversity Efforts</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts</link>
-      <description>August 7, 2017 - In a 3,300-word document that has been shared across Google&#39;s internal networks and beyond, an engineer at the company said &#34;biological causes&#34; are part of the reason women aren&#39;t represented equally.</description>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/07/ap_276703064179_wide-9f1383a759fab42b52bcb816490640882d3e392b-s800-c15.jpg"></a>
-
-August 7, 2017 - In a 3,300-word document that has been shared across Google's internal networks and beyond, an engineer at the company said "biological causes" are part of the reason women aren't represented equally.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts">http://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/07/ap_276703064179_wide-9f1383a759fab42b52bcb816490640882d3e392b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_brush_yourself_off_and_try_again_an_invention_story.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=204&amp;p=2&amp;story=536835736&amp;t=progseg&amp;e=541567805&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Brush Yourself Off And Try Again: An Invention Story</title>
-      <link>http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</link>
-      <description>August 4, 2017 - Inventing even the simplest product is a fraught process. Mike Davidson and Mike Smith have learned that lesson the hard way as they seek to change the way teeth get cleaned.</description>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170804_atc_brush_yourself_off_and_try_again_an_invention_story.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=204&amp;p=2&amp;story=536835736&amp;t=progseg&amp;e=541567805&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s800-c15.jpg"></a>
-
-August 4, 2017 - Inventing even the simplest product is a fraught process. Mike Davidson and Mike Smith have learned that lesson the hard way as they seek to change the way teeth get cleaned.
-
-<a href="http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story">http://www.npr.org/2017/08/04/536835736/brush-yourself-off-and-try-again-an-invention-story</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/toothbrush-1_wide-8fd86b43db3c6c28edea82318fb812c71f630010-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</guid>
-      <title>Technology Gets Under The Skin</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</link>
-      <description>August 4, 2017 - Last week, a Wisconsin company offered its employees the option to have a chip inserted into their bodies in an effort to help them navigate the workplace. Alva Noë asks: What&#39;s the big deal?</description>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/04/istock-537329934_wide-44fdd28e1803233ea46212762a6249cf125cf693-s800-c15.jpg"></a>
-
-August 4, 2017 - Last week, a Wisconsin company offered its employees the option to have a chip inserted into their bodies in an effort to help them navigate the workplace. Alva Noë asks: What's the big deal?
-
-<a href="http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin">http://www.npr.org/sections/13.7/2017/08/04/541106998/technology-gets-under-the-skin</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/istock-537329934_wide-44fdd28e1803233ea46212762a6249cf125cf693-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Behind China&#39;s VPN Crackdown, A &#39;Game Of Cat And Mouse&#39; Continues</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues</link>
-      <description>August 4, 2017 - Savvy Internet users in China can tunnel under the &#34;Great Firewall&#34; using virtual private networks. Even as the government finds new methods to block VPNs, providers find ways to go around the blocks.</description>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_china_-_vpn_clampdown.mp3?orgId=1&amp;topicId=1125&amp;d=239&amp;p=3&amp;story=541554438&amp;t=progseg&amp;e=541538718&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/04/gettyimages-501527486_wide-71d2c11fe7e411ffa000c76e9b0c26931f75a61a-s800-c15.jpg"></a>
-
-August 4, 2017 - Savvy Internet users in China can tunnel under the "Great Firewall" using virtual private networks. Even as the government finds new methods to block VPNs, providers find ways to go around the blocks.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues">http://www.npr.org/sections/alltechconsidered/2017/08/04/541554438/behind-chinas-vpn-crackdown-a-game-of-cat-and-mouse-continues</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/04/gettyimages-501527486_wide-71d2c11fe7e411ffa000c76e9b0c26931f75a61a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_hyperloop_tests_magnetic_levitation_at_192_mph.mp3?orgId=1&amp;topicId=1019&amp;d=251&amp;p=3&amp;story=541538743&amp;t=progseg&amp;e=541538718&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hyperloop Tests Magnetic Levitation At 192 MPH</title>
-      <link>http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</link>
-      <description>August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.</description>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170804_me_hyperloop_tests_magnetic_levitation_at_192_mph.mp3?orgId=1&amp;topicId=1019&amp;d=251&amp;p=3&amp;story=541538743&amp;t=progseg&amp;e=541538718&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 4, 2017 - David Greene speaks with Hyperloop One co-founder Josh Giegel about the logistical and political challenges involved in building the high speed transportation system in California.
-
-<a href="http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph">http://www.npr.org/2017/08/04/541538743/hyperloop-tests-magnetic-levitation-at-192-mph</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>251</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</guid>
-      <title>Feds Arrest Man Credited With Helping To Stop Ransomware Attack</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</link>
-      <description>August 3, 2017 - The Justice Department alleges Marcus Hutchins, who is said to have short-circuited WannaCry&#39;s global attack, created another malware program. His supporters say DOJ couldn&#39;t be more wrong.</description>
-      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/ap_17215670099306_wide-f687b9ef1e82dfb3c541e3c095b760c6e2c23120-s800-c15.jpg"></a>
-
-August 3, 2017 - The Justice Department alleges Marcus Hutchins, who is said to have short-circuited WannaCry's global attack, created another malware program. His supporters say DOJ couldn't be more wrong.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack">http://www.npr.org/sections/thetwo-way/2017/08/03/541447479/feds-arrest-man-credited-with-helping-to-stop-ransomware-attack</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/ap_17215670099306_wide-f687b9ef1e82dfb3c541e3c095b760c6e2c23120-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170802_atc_from_family_snapshots_to_nasa_photos_archivists_aim_to_solve_preservation_puzzles.mp3?orgId=20&amp;topicId=1019&amp;d=255&amp;p=2&amp;story=540914751&amp;t=progseg&amp;e=541102360&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>From Family Snapshots To NASA Photos, Archivists Aim To Solve Preservation Puzzles</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</link>
-      <description>August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, and Dennis Wingo helped rescue early pictures of the moon. But what will happen when historical photos go from analog to digital?</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170802_atc_from_family_snapshots_to_nasa_photos_archivists_aim_to_solve_preservation_puzzles.mp3?orgId=20&amp;topicId=1019&amp;d=255&amp;p=2&amp;story=540914751&amp;t=progseg&amp;e=541102360&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s800-c15.jpg"></a>
-
-August 2, 2017 - Levi Bettwieser develops found film rolls from his Idaho home, and Dennis Wingo helped rescue early pictures of the moon. But what will happen when historical photos go from analog to digital?
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle">http://www.npr.org/sections/alltechconsidered/2017/08/02/540914751/from-family-snapshots-to-nasa-photos-archivists-aim-to-solve-preservation-puzzle</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/loimagefull_wide-b9572745c6bc52cf7838af294070ecf86006b478-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>255</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</guid>
-      <title>Oh, Snap! Scientists Are Turning People&#39;s Food Photos Into Recipes</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</link>
-      <description>August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s800-c15.jpg"></a>
-
-August 2, 2017 - Researchers have created an artificial neural network that analyzes an image of a dish and tells you how to make it. Still in the early stages, the technology might help improve our dietary health.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes">http://www.npr.org/sections/thesalt/2017/08/02/540022733/oh-snap-scientists-are-turning-peoples-food-photos-into-recipes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-498206474_wide-258213c5437bec61436eb76c7582f8fcf55f6fa1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</guid>
-      <title>This Police Department Is A Smash Hit On Social Media</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</link>
-      <description>August 2, 2017 - They&#39;re doing it with memes from Game of Thrones and The Simpsons. And by quickly responding to queries from the public.</description>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-3a61ae2682c72cb7b5d8c13181231d7bda78b368-s800-c15.jpg"></a>
-
-August 2, 2017 - They're doing it with memes from Game of Thrones and The Simpsons. And by quickly responding to queries from the public.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media">http://www.npr.org/sections/goatsandsoda/2017/08/02/540822294/this-police-department-is-a-smash-hit-on-social-media</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/01/screen-shot-2017-08-01-at-5.22.35-pm_wide-3a61ae2682c72cb7b5d8c13181231d7bda78b368-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
