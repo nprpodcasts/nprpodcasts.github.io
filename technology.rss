@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 16:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 19:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 16:00:24 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 19:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</guid>
+      <title>SoundCloud Saved By The Bell Of A Big Chunk Of Financing</title>
+      <link>http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</link>
+      <description>August 11, 2017 - After a noisy month in the press and a significant round of layoffs, SoundCloud announced today it had secured its largest round of financing to date, ending speculation of its demise (for now).</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/11/gettyimages-527596840_wide-9b1bd1f43ba772bae1530bc3294263857dbf3b0e-s800-c15.jpg"></a>
+
+August 11, 2017 - After a noisy month in the press and a significant round of layoffs, SoundCloud announced today it had secured its largest round of financing to date, ending speculation of its demise (for now).
+
+<a href="http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing">http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-527596840_wide-9b1bd1f43ba772bae1530bc3294263857dbf3b0e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=693&amp;p=57&amp;story=541644282&amp;t=progseg&amp;e=535044918&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Sal Khan: Can Technology Help Create A Global Classroom?</title>
@@ -241,21 +256,6 @@ August 8, 2017 - CEO Sundar Pichai says that he supported the right of workers t
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo">http://www.npr.org/sections/alltechconsidered/2017/08/08/542210855/google-ceo-cuts-vacation-short-to-deal-with-crisis-over-diversity-memo</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/08/gettyimages-532150054_wide-05fbfb058cb4efa9cfaeeea3a859d6dd76a0f1c3-s3000-c15.jpg"></itunes:image>
       <itunes:duration>217</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_google_fires_engineer_who_wrote_memo.mp3?orgId=1&amp;topicId=1019&amp;d=271&amp;p=3&amp;story=542180434&amp;t=progseg&amp;e=542148220&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Google Fires Engineer Who Criticized Diversity Efforts</title>
-      <link>http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts</link>
-      <description>August 8, 2017 - The software engineer&#39;s internal memo created controversy after it was leaked. The memo, called &#34;Google&#39;s Ideological Echo Chamber,&#34; criticized the company&#39;s efforts to diversify its workforce.</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_google_fires_engineer_who_wrote_memo.mp3?orgId=1&amp;topicId=1019&amp;d=271&amp;p=3&amp;story=542180434&amp;t=progseg&amp;e=542148220&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 8, 2017 - The software engineer's internal memo created controversy after it was leaked. The memo, called "Google's Ideological Echo Chamber," criticized the company's efforts to diversify its workforce.
-
-<a href="http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts">http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>271</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
