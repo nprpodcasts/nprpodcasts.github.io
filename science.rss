@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 17:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 21:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 17:13:14 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 21:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</guid>
+      <title>40 Years Ago, NASA Launched Message To Aliens Into Deep Space</title>
+      <link>http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</link>
+      <description>August 11, 2017 - Forty years ago, NASA launched two Voyager spacecraft into deep space. Onboard both were gold discs with music, greetings and sounds from Earth — a message to aliens. Ann Druyan, the creative director of the project, talks about how they decided what message to put in the interstellar bottle.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 11, 2017 - Forty years ago, NASA launched two Voyager spacecraft into deep space. Onboard both were gold discs with music, greetings and sounds from Earth — a message to aliens. Ann Druyan, the creative director of the project, talks about how they decided what message to put in the interstellar bottle.
+
+<a href="http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space">http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</guid>
       <title>Success In Placing Shelter Dogs Takes More Than Temperament Tests</title>
       <link>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</link>
       <description>August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.</description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-a72976537a79c40d481a47072e743ec96ce2e019-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-f6296748906310df87b186ac5c6fc88a002c699b-s800-c15.jpg"></a>
 
 August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.
 
 <a href="http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests">http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-a72976537a79c40d481a47072e743ec96ce2e019-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-f6296748906310df87b186ac5c6fc88a002c699b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +252,6 @@ August 9, 2017 - When it comes to pollutant levels, researchers now say where yo
 <a href="http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness">http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</guid>
-      <title>Perseid Meteor Shower Falls Victim To Fake News. Sad!</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</link>
-      <description>August 9, 2017 - It seems nothing is safe from fake news this year, not even the annual astronomical event. This year&#39;s Perseid show will be at its peak Saturday night into Sunday.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/ap_16225354180398_wide-527d4cebb7ea4d5c3c86890e4043eeea436a3192-s800-c15.jpg"></a>
-
-August 9, 2017 - It seems nothing is safe from fake news this year, not even the annual astronomical event. This year's Perseid show will be at its peak Saturday night into Sunday.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad">http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_16225354180398_wide-527d4cebb7ea4d5c3c86890e4043eeea436a3192-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
