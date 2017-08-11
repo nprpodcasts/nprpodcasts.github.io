@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 09:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 16:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 09:00:10 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 16:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=693&amp;p=57&amp;story=541644282&amp;t=progseg&amp;e=535044918&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Sal Khan: Can Technology Help Create A Global Classroom?</title>
+      <link>http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom</link>
+      <description>August 11, 2017 - Sal Khan turned tutoring lessons with his cousins into a series of free educational videos called Khan Academy. His goal: to make learning accessible for everyone, everywhere.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=693&amp;p=57&amp;story=541644282&amp;t=progseg&amp;e=535044918&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/salmankhan_2011-embed_wide-756bec75d667031a12730b5b65e27f0b72391323-s800-c15.jpg"></a>
+
+August 11, 2017 - Sal Khan turned tutoring lessons with his cousins into a series of free educational videos called Khan Academy. His goal: to make learning accessible for everyone, everywhere.
+
+<a href="http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom">http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/salmankhan_2011-embed_wide-756bec75d667031a12730b5b65e27f0b72391323-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>693</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</guid>
       <title>Google Cancels Town Hall After Employee&#39;s Controversial Diversity Memo</title>
@@ -239,23 +256,6 @@ August 8, 2017 - CEO Sundar Pichai says that he supported the right of workers t
 <a href="http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts">http://www.npr.org/2017/08/08/542180434/google-fires-engineer-who-criticized-diversity-efforts</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>271</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_the_cubist_revolution_minecraft_for_all.mp3?orgId=1&amp;topicId=1013&amp;d=232&amp;p=3&amp;story=538580856&amp;t=progseg&amp;e=542148220&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Cubist Revolution: Minecraft For All</title>
-      <link>http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all</link>
-      <description>August 8, 2017 - Minecraft, one of the most popular video games in the world, is touted for its educational possibilities. But is that potential really accessible to all?</description>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170808_me_the_cubist_revolution_minecraft_for_all.mp3?orgId=1&amp;topicId=1013&amp;d=232&amp;p=3&amp;story=538580856&amp;t=progseg&amp;e=542148220&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.diversity.final3_wide-7c19db2055abcc6a65e7d4a8da7dcc845cb47840-s800-c15.jpg"></a>
-
-August 8, 2017 - Minecraft, one of the most popular video games in the world, is touted for its educational possibilities. But is that potential really accessible to all?
-
-<a href="http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all">http://www.npr.org/sections/ed/2017/08/08/538580856/the-cubist-revolution-minecraft-for-all</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.diversity.final3_wide-7c19db2055abcc6a65e7d4a8da7dcc845cb47840-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

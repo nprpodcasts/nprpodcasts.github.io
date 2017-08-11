@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 09:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 16:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 09:00:12 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 16:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,11 +24,57 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</guid>
+      <title>Netflix, ABC Portrayals Of Autism Still Fall Short, Critics Say</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</link>
+      <description>August 11, 2017 - Two new TV series feature main characters who have autism. While some are applauding the fresh take on the disorder, others worry that the shows send the wrong messages.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/downloadasset11_wide-e9951564604bc07bb35faf110f520ecda949112c-s800-c15.jpg"></a>
+
+August 11, 2017 - Two new TV series feature main characters who have autism. While some are applauding the fresh take on the disorder, others worry that the shows send the wrong messages.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say">http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/downloadasset11_wide-e9951564604bc07bb35faf110f520ecda949112c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1014&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>President Trump To Declare National Opioid Emergency </title>
+      <link>http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</link>
+      <description>August 11, 2017 - The president said paperwork needs to be done to make it officially a national emergency. It&#39;s a change from earlier this week when Health Secretary Tom Price held off on making that declaration.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1014&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 11, 2017 - The president said paperwork needs to be done to make it officially a national emergency. It's a change from earlier this week when Health Secretary Tom Price held off on making that declaration.
+
+<a href="http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency">http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>257</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_morning_news_brief_trump_speaks_out_about_north_korea_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=542752972&amp;t=progseg&amp;e=542752949&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>News Brief: Trump Speaks Out About North Korea, Opioid Crisis</title>
+      <link>http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis</link>
+      <description>August 11, 2017 - President Trump says his promise to meet Pyongyang&#39;s threats with &#34;fire and fury&#34; might have been too soft. And, he says he&#39;s ready to declare the nation&#39;s opioid crisis &#34;a national emergency.&#34;</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_morning_news_brief_trump_speaks_out_about_north_korea_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=542752972&amp;t=progseg&amp;e=542752949&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 11, 2017 - President Trump says his promise to meet Pyongyang's threats with "fire and fury" might have been too soft. And, he says he's ready to declare the nation's opioid crisis "a national emergency."
+
+<a href="http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis">http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>621</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Nearly 1 In 5 Hospice Patients Discharged While Still Alive</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</link>
       <description>August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s800-c15.jpg"></a>
 
@@ -36,6 +82,7 @@ August 11, 2017 - The hospices who discharge the most patients before their deat
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive">http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -207,53 +254,6 @@ August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are fre
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes">http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</guid>
-      <title>Some Tuna Can Carry Up To 36 Times The Toxic Chemicals Of Others. Here&#39;s Why</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</link>
-      <description>August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s800-c15.jpg"></a>
-
-August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why">http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_some_states_say_declaring_an_emergency_has_helped_in_the_opioid_fight.mp3?orgId=1&amp;topicId=1128&amp;d=258&amp;p=2&amp;story=542416005&amp;t=progseg&amp;e=542351245&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Some States Say Declaring An Emergency Has Helped In The Opioid Fight</title>
-      <link>http://www.npr.org/2017/08/09/542416005/some-states-say-declaring-an-emergency-has-helped-in-the-opioid-fight</link>
-      <description>August 9, 2017 - Arizona is among the states that have declared the opioid epidemic a public health emergency, to help with funding and access to data. President Trump now says he&#39;ll declare it a national emergency.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_some_states_say_declaring_an_emergency_has_helped_in_the_opioid_fight.mp3?orgId=1&amp;topicId=1128&amp;d=258&amp;p=2&amp;story=542416005&amp;t=progseg&amp;e=542351245&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-827748182_wide-5875abf788a716a571b6bcaaf33036f795798e26-s800-c15.jpg"></a>
-
-August 9, 2017 - Arizona is among the states that have declared the opioid epidemic a public health emergency, to help with funding and access to data. President Trump now says he'll declare it a national emergency.
-
-<a href="http://www.npr.org/2017/08/09/542416005/some-states-say-declaring-an-emergency-has-helped-in-the-opioid-fight">http://www.npr.org/2017/08/09/542416005/some-states-say-declaring-an-emergency-has-helped-in-the-opioid-fight</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-827748182_wide-5875abf788a716a571b6bcaaf33036f795798e26-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>258</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170809_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=1232&amp;p=13&amp;story=542390784&amp;t=progseg&amp;e=542396136&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Physician Explores &#39;A Better Path&#39; To The End Of Life</title>
-      <link>http://www.npr.org/2017/08/09/542390784/a-physician-explores-a-better-path-to-the-end-of-life</link>
-      <description>August 9, 2017 - Dr. Jessica Nutik Zitter, author of Extreme Measures, discusses the ethics of using medical assistance to hasten death. Zitter is the subject of the Netflix documentary Extremis.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170809_fa_01.mp3?orgId=427869011&amp;topicId=1027&amp;d=1232&amp;p=13&amp;story=542390784&amp;t=progseg&amp;e=542396136&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 9, 2017 - Dr. Jessica Nutik Zitter, author of Extreme Measures, discusses the ethics of using medical assistance to hasten death. Zitter is the subject of the Netflix documentary Extremis.
-
-<a href="http://www.npr.org/2017/08/09/542390784/a-physician-explores-a-better-path-to-the-end-of-life">http://www.npr.org/2017/08/09/542390784/a-physician-explores-a-better-path-to-the-end-of-life</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>1232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

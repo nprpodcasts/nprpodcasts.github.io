@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 09:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 16:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 09:00:11 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 16:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,44 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</guid>
+      <guid>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</guid>
+      <title>Success In Placing Shelter Dogs Takes More Than Temperament Tests</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</link>
+      <description>August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-a72976537a79c40d481a47072e743ec96ce2e019-s800-c15.jpg"></a>
+
+August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests">http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-a72976537a79c40d481a47072e743ec96ce2e019-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=749&amp;p=57&amp;story=541644222&amp;t=progseg&amp;e=535044918&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Tyler DeWitt: How Do We Get Kids Hooked On Science?</title>
+      <link>http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science</link>
+      <description>August 11, 2017 - When a student complained that science textbooks were boring, teacher Tyler DeWitt got thinking about how he can make his lessons fun. DeWitt recounts his quest to make kids care about science.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=749&amp;p=57&amp;story=541644222&amp;t=progseg&amp;e=535044918&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/tylerdewitt_2012x-embed_wide-26bdae48733378509db774acbda5f963f17915d7-s800-c15.jpg"></a>
+
+August 11, 2017 - When a student complained that science textbooks were boring, teacher Tyler DeWitt got thinking about how he can make his lessons fun. DeWitt recounts his quest to make kids care about science.
+
+<a href="http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science">http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/tylerdewitt_2012x-embed_wide-26bdae48733378509db774acbda5f963f17915d7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>749</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Nearly 1 In 5 Hospice Patients Discharged While Still Alive</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</link>
       <description>August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s800-c15.jpg"></a>
 
@@ -36,6 +69,7 @@ August 11, 2017 - The hospices who discharge the most patients before their deat
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive">http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>232</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -220,36 +254,6 @@ August 9, 2017 - It seems nothing is safe from fake news this year, not even the
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad">http://www.npr.org/sections/thetwo-way/2017/08/09/542455857/perseid-meteor-shower-falls-victim-to-fake-news-sad</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_16225354180398_wide-527d4cebb7ea4d5c3c86890e4043eeea436a3192-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</guid>
-      <title>This Could Be The Biggest Dinosaur Ever Found — And It&#39;s Finally Got A Name</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</link>
-      <description>August 9, 2017 - After years of study, scientists have given a name to the prehistoric colossus: Patagotitan mayorum. And in a paper published Wednesday, researchers offered the world a closer glimpse.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-504974090_wide-2e56fc369ad04d43efc49d8bece0ac4bc0404fc5-s800-c15.jpg"></a>
-
-August 9, 2017 - After years of study, scientists have given a name to the prehistoric colossus: Patagotitan mayorum. And in a paper published Wednesday, researchers offered the world a closer glimpse.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name">http://www.npr.org/sections/thetwo-way/2017/08/09/542396807/this-could-be-the-biggest-dinosaur-ever-found-and-its-finally-got-a-name</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-504974090_wide-2e56fc369ad04d43efc49d8bece0ac4bc0404fc5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</guid>
-      <title>Earliest-Known Winged Mammal Relatives Discovered In China</title>
-      <link>http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</link>
-      <description>August 9, 2017 - These 160-million-year-old fossils are the oldest known examples of mammal relatives with the ability to glide. They&#39;re from an extinct lineage with no relationship to modern gliders.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/maiopatagium_life_scene_lg_wide-371bf154d77eb9f910f21d6c8a78e65807f3527f-s800-c15.jpg"></a>
-
-August 9, 2017 - These 160-million-year-old fossils are the oldest known examples of mammal relatives with the ability to glide. They're from an extinct lineage with no relationship to modern gliders.
-
-<a href="http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china">http://www.npr.org/2017/08/09/542078677/earliest-known-winged-mammal-relatives-discovered-in-china</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/maiopatagium_life_scene_lg_wide-371bf154d77eb9f910f21d6c8a78e65807f3527f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
