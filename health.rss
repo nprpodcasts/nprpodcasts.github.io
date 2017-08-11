@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 16:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 17:13:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 16:00:27 +0000</pubDate>
+    <pubDate>Fri, 11 Aug 2017 17:13:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</guid>
+      <title>Europe&#39;s Egg-Contamination Scandal Spreads As Far As Hong Kong</title>
+      <link>http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</link>
+      <description>August 11, 2017 - Tainted eggs have been found in at least 16 countries in Europe. Millions of eggs have been pulled from European shelves over fears they are contaminated with fipronil, which is used to kill insects.</description>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/11/gettyimages-829976166_wide-53307aa533ce02ae26b71ff38e1669670a351f11-s800-c15.jpg"></a>
+
+August 11, 2017 - Tainted eggs have been found in at least 16 countries in Europe. Millions of eggs have been pulled from European shelves over fears they are contaminated with fipronil, which is used to kill insects.
+
+<a href="http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong">http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-829976166_wide-53307aa533ce02ae26b71ff38e1669670a351f11-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</guid>
       <title>Netflix, ABC Portrayals Of Autism Still Fall Short, Critics Say</title>
@@ -39,17 +54,19 @@ August 11, 2017 - Two new TV series feature main characters who have autism. Whi
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1014&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>President Trump To Declare National Opioid Emergency </title>
-      <link>http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</link>
-      <description>August 11, 2017 - The president said paperwork needs to be done to make it officially a national emergency. It&#39;s a change from earlier this week when Health Secretary Tom Price held off on making that declaration.</description>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>What Could Happen If Trump Formally Declares Opioids A National Emergency</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</link>
+      <description>August 11, 2017 - The president has already called the opioid crisis an emergency. If he makes it official through a formal declaration, more money and personnel could be available to deal with the epidemic.</description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1014&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_opioid_state_of_emergency.mp3?orgId=1&amp;topicId=1128&amp;d=257&amp;p=3&amp;story=542767898&amp;t=progseg&amp;e=542752949&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 11, 2017 - The president said paperwork needs to be done to make it officially a national emergency. It's a change from earlier this week when Health Secretary Tom Price held off on making that declaration.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/11/ap_172226716315771_wide-5d82a129253943e61b5187f9d112a5781c17c1f6-s800-c15.jpg"></a>
 
-<a href="http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency">http://www.npr.org/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+August 11, 2017 - The president has already called the opioid crisis an emergency. If he makes it official through a formal declaration, more money and personnel could be available to deal with the epidemic.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency">http://www.npr.org/sections/health-shots/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/ap_172226716315771_wide-5d82a129253943e61b5187f9d112a5781c17c1f6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -72,13 +89,13 @@ August 11, 2017 - Two new TV series feature main characters who have autism. Whi
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Nearly 1 In 5 Hospice Patients Discharged While Still Alive</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</link>
-      <description>August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</description>
+      <description>August 11, 2017 - The hospices that discharge the most patients before their death also make the most money, a recent study shows.</description>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_nearly_1_in_5_hospice_patients_discharged_while_still_alive.mp3?orgId=1&amp;topicId=1128&amp;d=232&amp;p=3&amp;story=542607941&amp;t=progseg&amp;e=542752949&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s800-c15.jpg"></a>
 
-August 11, 2017 - The hospices who discharge the most patients before their death also make the most money, a recent study shows.
+August 11, 2017 - The hospices that discharge the most patients before their death also make the most money, a recent study shows.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive">http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s3000-c15.jpg"></itunes:image>
@@ -239,21 +256,6 @@ August 10, 2017 - It's unclear whether the Consumer Product Safety Commission wi
 <a href="http://www.npr.org/2017/08/10/542474093/despite-proven-technology-attempts-to-make-table-saws-safer-drag-on">http://www.npr.org/2017/08/10/542474093/despite-proven-technology-attempts-to-make-table-saws-safer-drag-on</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/saw2_wide-a204e4dc96c487a4bd73694946147f3a90f308ea-s3000-c15.jpg"></itunes:image>
       <itunes:duration>228</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</guid>
-      <title>47 Hospitals Slashed Their Use Of 2 Key Heart Drugs After Huge Price Hikes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</link>
-      <description>August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are frequently used in emergency and intensive care situations and have no direct alternatives, say cardiologists.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s800-c15.jpg"></a>
-
-August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are frequently used in emergency and intensive care situations and have no direct alternatives, say cardiologists.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes">http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
