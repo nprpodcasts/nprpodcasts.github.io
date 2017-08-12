@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2017 22:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 16:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 11 Aug 2017 22:45:11 +0000</pubDate>
+    <pubDate>Sat, 12 Aug 2017 16:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170812_wesat_malware_and_dna_sequencing.mp3?orgId=1&amp;topicId=1024&amp;d=241&amp;p=7&amp;story=542998566&amp;t=progseg&amp;e=542998533&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Researchers: Hackers Could Encode Human DNA With Malicious Software</title>
+      <link>http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software</link>
+      <description>August 12, 2017 - University of Washington researchers say malware could be encoded into DNA strands. NPR&#39;s Scott Simon speaks to researcher Karl Koscher about the findings and what they mean for gene sequencing.</description>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170812_wesat_malware_and_dna_sequencing.mp3?orgId=1&amp;topicId=1024&amp;d=241&amp;p=7&amp;story=542998566&amp;t=progseg&amp;e=542998533&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 12, 2017 - University of Washington researchers say malware could be encoded into DNA strands. NPR's Scott Simon speaks to researcher Karl Koscher about the findings and what they mean for gene sequencing.
+
+<a href="http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software">http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>241</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170811_atc_40_years_ago_nasa_launched_message_to_aliens_into_deep_space.mp3?orgId=1&amp;topicId=1026&amp;d=239&amp;p=2&amp;story=542867050&amp;t=progseg&amp;e=542756640&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>40 Years Ago, NASA Launched Message To Aliens Into Deep Space</title>
@@ -239,21 +254,6 @@ August 9, 2017 - When it comes to pollutant levels, researchers now say where yo
 <a href="http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal">http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_ahead_of_solar_eclipse_small_town_prepares_for_light_among_the_darkness.mp3?orgId=1&amp;topicId=1091&amp;d=212&amp;p=2&amp;story=542468196&amp;t=progseg&amp;e=542351245&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Ahead Of Solar Eclipse, Small Town Prepares For Light Among The Darkness</title>
-      <link>http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness</link>
-      <description>August 9, 2017 - When the total solar eclipse crosses North America next month, one city will be dark for the longest time. Hopkinsville, Ky., is a small town making big preparations for the big event.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_ahead_of_solar_eclipse_small_town_prepares_for_light_among_the_darkness.mp3?orgId=1&amp;topicId=1091&amp;d=212&amp;p=2&amp;story=542468196&amp;t=progseg&amp;e=542351245&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 9, 2017 - When the total solar eclipse crosses North America next month, one city will be dark for the longest time. Hopkinsville, Ky., is a small town making big preparations for the big event.
-
-<a href="http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness">http://www.npr.org/2017/08/09/542468196/ahead-of-solar-eclipse-small-town-prepares-for-light-among-the-darkness</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
