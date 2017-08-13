@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2017 16:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 13:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 12 Aug 2017 16:00:23 +0000</pubDate>
+    <pubDate>Sun, 13 Aug 2017 13:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</guid>
+      <title>The Call-In: The Solar Eclipse</title>
+      <link>http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</link>
+      <description>August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.&#xA;&#xA; - http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</description>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.
+
+<a href="http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse">http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</guid>
+      <title>People In Nepal Used To Think Vultures Were Bad Luck. Not Anymore</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</link>
+      <description>August 13, 2017 - The number of vultures in South Asia has plummeted. But &#34;restaurants&#34; to feed rescued chicks and wild vultures are good for the birds — and for the local economy.</description>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-e303b9cf0d8a51f417a9edaf61ad95d963b6f20d-s800-c15.jpg"></a>
+
+August 13, 2017 - The number of vultures in South Asia has plummeted. But "restaurants" to feed rescued chicks and wild vultures are good for the birds — and for the local economy.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore">http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-e303b9cf0d8a51f417a9edaf61ad95d963b6f20d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170812_wesat_malware_and_dna_sequencing.mp3?orgId=1&amp;topicId=1024&amp;d=241&amp;p=7&amp;story=542998566&amp;t=progseg&amp;e=542998533&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers: Hackers Could Encode Human DNA With Malicious Software</title>
@@ -224,36 +252,6 @@ August 9, 2017 - Millions of eggs have been recalled in European countries afrai
 
 <a href="http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare">http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-827682426_wide-5afec0cc9140ad9636edc9d78a1b5d774350e21c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</guid>
-      <title>Some Tuna Can Carry Up To 36 Times The Toxic Chemicals Of Others. Here&#39;s Why</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</link>
-      <description>August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s800-c15.jpg"></a>
-
-August 9, 2017 - When it comes to pollutant levels, researchers now say where your tuna was caught can make a huge difference. But tracking your yellowfin to the spot it was caught may be tricky.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why">http://www.npr.org/sections/thesalt/2017/08/09/542488351/some-tuna-can-carry-up-36-times-the-toxins-of-others-heres-why</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/yellowfin_wide-9df47684f036d45dd4e8498f4c5e08793bc4a34c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_trump_claims_to_have_modernized_the_us_nuclear_arsenal.mp3?orgId=1&amp;topicId=1122&amp;d=235&amp;p=2&amp;story=542468244&amp;t=progseg&amp;e=542351245&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Trump Claims To Have Modernized The U.S. Nuclear Arsenal</title>
-      <link>http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal</link>
-      <description>August 9, 2017 - On Wednesday, President Trump tweeted that he modernized the U.S. nuclear arsenal as his first act in office. But others question that claim. NPR takes a closer look at America&#39;s nuclear capabilities.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_trump_claims_to_have_modernized_the_us_nuclear_arsenal.mp3?orgId=1&amp;topicId=1122&amp;d=235&amp;p=2&amp;story=542468244&amp;t=progseg&amp;e=542351245&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 9, 2017 - On Wednesday, President Trump tweeted that he modernized the U.S. nuclear arsenal as his first act in office. But others question that claim. NPR takes a closer look at America's nuclear capabilities.
-
-<a href="http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal">http://www.npr.org/2017/08/09/542468244/trump-claims-to-have-modernized-the-u-s-nuclear-arsenal</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

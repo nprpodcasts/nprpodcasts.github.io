@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2017 16:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 13:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 12 Aug 2017 16:00:25 +0000</pubDate>
+    <pubDate>Sun, 13 Aug 2017 13:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</guid>
+      <title>You Can Order a Dozen STD Tests Online — But Should You?</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</link>
+      <description>August 13, 2017 - It sounds so simple: Order a kit online, test for sexually transmitted diseases in the privacy of home and mail it back. But deciding what to test for and who gets tested is far from easy.</description>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/mylab-1_wide-fb33b676a6802cc12c176f8c5547a5eded36b0ca-s800-c15.jpg"></a>
+
+August 13, 2017 - It sounds so simple: Order a kit online, test for sexually transmitted diseases in the privacy of home and mail it back. But deciding what to test for and who gets tested is far from easy.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you">http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/mylab-1_wide-fb33b676a6802cc12c176f8c5547a5eded36b0ca-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/12/537066002/video-where-mastectomy-scars-raged-a-tattoo-garden-blooms</guid>
       <title>VIDEO: Where Mastectomy Scars Raged, A Tattoo Garden Blooms</title>
@@ -241,23 +256,6 @@ August 10, 2017 - A new report looks at the number of anesthesiologists around t
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/10/530885138/imagine-facing-surgery-without-an-anesthesiologist-on-hand">http://www.npr.org/sections/goatsandsoda/2017/08/10/530885138/imagine-facing-surgery-without-an-anesthesiologist-on-hand</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/05/31/anesthetiologist-operating_wide-d197b65b7fbdae8859becba2321376a9deff6d5a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Widowed Early, A Cancer Doctor Writes About The Harm Of Medical Debt</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</link>
-      <description>August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s800-c15.jpg"></a>
-
-August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt">http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>213</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
