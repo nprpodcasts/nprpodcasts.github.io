@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Aug 2017 13:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 18:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 13 Aug 2017 13:00:23 +0000</pubDate>
+    <pubDate>Sun, 13 Aug 2017 18:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170813_wesun_the_call-in_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=551&amp;p=10&amp;story=543197278&amp;t=progseg&amp;e=543197214&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Call-In: The Solar Eclipse</title>
       <link>http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</link>
       <description>August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.&#xA;&#xA; - http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</description>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170813_wesun_the_call-in_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=551&amp;p=10&amp;story=543197278&amp;t=progseg&amp;e=543197214&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.
 
 <a href="http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse">http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>551</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
