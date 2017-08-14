@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2017 20:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 14 Aug 2017 20:00:08 +0000</pubDate>
+    <pubDate>Mon, 14 Aug 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple</guid>
+      <title>Forget Tough Passwords: New Guidelines Make It Simple</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple</link>
+      <description>August 14, 2017 - We&#39;ve been told to create passwords that are complicated, to change them regularly and to use different ones for each app or site. But the latest advice is to keep them simple, long and memorable.</description>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/istock-629961072_wide-5733b2a98b2358392509dcb178aeb9b532237569-s800-c15.jpg"></a>
+
+August 14, 2017 - We've been told to create passwords that are complicated, to change them regularly and to use different ones for each app or site. But the latest advice is to keep them simple, long and memorable.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple">http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/istock-629961072_wide-5733b2a98b2358392509dcb178aeb9b532237569-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/08/14/541699733/our-homes-may-get-smarter-but-have-we-thought-it-through</guid>
       <title>Our Homes May Get Smarter, But Have We Thought It Through?</title>
@@ -241,21 +256,6 @@ August 9, 2017 - Once Google is done putting out fires in the wake of a male emp
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/09/542412661/is-the-memo-controversy-a-pivot-point-on-diversity-for-google">http://www.npr.org/sections/alltechconsidered/2017/08/09/542412661/is-the-memo-controversy-a-pivot-point-on-diversity-for-google</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-529707282_wide-f17bb1018f4f01f6acd2188d4b8b2e83070c1067-s3000-c15.jpg"></itunes:image>
       <itunes:duration>177</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</guid>
-      <title>Video Games May Affect The Brain Differently, Depending On What You Play</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</link>
-      <description>August 9, 2017 - Millions of people play video games, but there&#39;s plenty of disagreement on whether they&#39;re good or bad for brains. Action games may have a different effect than something like Super Mario.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/08/gettyimages-176426057_wide-c6d79c47986bd46b88ffe656b1ca09afd3b7e7b3-s800-c15.jpg"></a>
-
-August 9, 2017 - Millions of people play video games, but there's plenty of disagreement on whether they're good or bad for brains. Action games may have a different effect than something like Super Mario.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play">http://www.npr.org/sections/health-shots/2017/08/09/542215646/video-games-may-affect-the-brain-differently-depending-on-what-you-play</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/08/gettyimages-176426057_wide-c6d79c47986bd46b88ffe656b1ca09afd3b7e7b3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
