@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Aug 2017 13:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 13:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 13 Aug 2017 13:00:21 +0000</pubDate>
+    <pubDate>Mon, 14 Aug 2017 13:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_n_germany_churchgoers_are_encouraged_to_tweet_from_the_pews.mp3?orgId=1&amp;topicId=1019&amp;d=212&amp;p=3&amp;story=542861104&amp;t=progseg&amp;e=543338920&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Germany, Churchgoers Are  Encouraged To Tweet From The Pews</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews</link>
+      <description>August 14, 2017 - As it celebrates 500 years since Martin Luther and the Reformation, the Protestant church in Germany is turning to social media to reach those too busy to attend.</description>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_n_germany_churchgoers_are_encouraged_to_tweet_from_the_pews.mp3?orgId=1&amp;topicId=1019&amp;d=212&amp;p=3&amp;story=542861104&amp;t=progseg&amp;e=543338920&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/11/tweet-church_wide-9b52358fe0c0066a3f453f1afbb2bf56f5a0c248-s800-c15.jpg"></a>
+
+August 14, 2017 - As it celebrates 500 years since Martin Luther and the Reformation, the Protestant church in Germany is turning to social media to reach those too busy to attend.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews">http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/tweet-church_wide-9b52358fe0c0066a3f453f1afbb2bf56f5a0c248-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/13/542809000/ashes-to-ashes-dust-to-interactive-biodegradable-funerary-urns</guid>
       <title>Ashes to Ashes, Dust to ... Interactive Biodegradable Funerary Urns?</title>
@@ -239,21 +256,6 @@ August 9, 2017 - There will be one streaming service for sports and another for 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services">http://www.npr.org/sections/thetwo-way/2017/08/09/542353743/disney-will-end-netflix-deal-and-offer-its-own-streaming-services</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/ap_17219645815970_wide-9080f0466b2876685bfd607dae22e783b7afddbc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</guid>
-      <title>&#39;Schoolifying&#39; Minecraft Without Ruining It</title>
-      <link>http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</link>
-      <description>August 9, 2017 - Microsoft is trying to help more teachers use the hugely popular game in the classroom without alienating the initial enthusiasts.&#xA;&#xA; - http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.classroom.final_wide-83a4c5e78a074931c9a7dc91238a179fa90cb920-s800-c15.jpg"></a>
-
-August 9, 2017 - Microsoft is trying to help more teachers use the hugely popular game in the classroom without alienating the initial enthusiasts.
-
-<a href="http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it">http://www.npr.org/sections/ed/2017/08/09/539518179/schoolifying-minecraft-without-ruining-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/03/mgeenpr.minecraft.classroom.final_wide-83a4c5e78a074931c9a7dc91238a179fa90cb920-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

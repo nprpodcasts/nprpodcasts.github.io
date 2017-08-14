@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Aug 2017 18:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 13:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 13 Aug 2017 18:00:20 +0000</pubDate>
+    <pubDate>Mon, 14 Aug 2017 13:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</guid>
+      <title>Why Future Earthlings Won&#39;t See Total Solar Eclipses</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</link>
+      <description>August 14, 2017 - The Earth won&#39;t enjoy total solar eclipses forever because the moon is moving farther away, so it looks smaller and smaller over time.</description>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s800-c15.jpg"></a>
+
+August 14, 2017 - The Earth won't enjoy total solar eclipses forever because the moon is moving farther away, so it looks smaller and smaller over time.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses">http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170813_wesun_the_call-in_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=551&amp;p=10&amp;story=543197278&amp;t=progseg&amp;e=543197214&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Call-In: The Solar Eclipse</title>
@@ -45,12 +60,12 @@
       <description>August 13, 2017 - The number of vultures in South Asia has plummeted. But &#34;restaurants&#34; to feed rescued chicks and wild vultures are good for the birds — and for the local economy.</description>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-e303b9cf0d8a51f417a9edaf61ad95d963b6f20d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-b5449f30d33b8b037741875906d159ca3be45224-s800-c15.jpg"></a>
 
 August 13, 2017 - The number of vultures in South Asia has plummeted. But "restaurants" to feed rescued chicks and wild vultures are good for the birds — and for the local economy.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore">http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-e303b9cf0d8a51f417a9edaf61ad95d963b6f20d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-b5449f30d33b8b037741875906d159ca3be45224-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 9, 2017 - These two older drugs, nitroprusside and isoproterenol, are fre
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes">http://www.npr.org/sections/health-shots/2017/08/09/542485307/47-hospitals-slashed-their-use-of-two-key-heart-drugs-after-huge-price-hikes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/09/valeant_wide-28c72ca5100b9aaae649afb9cc682a574c2766ac-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</guid>
-      <title>Belgian And Dutch Officials Point Fingers Amid Egg Contamination Scare</title>
-      <link>http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</link>
-      <description>August 9, 2017 - Millions of eggs have been recalled in European countries afraid they&#39;ve been contaminated with insecticide. Who is to blame, though? That question is now a matter of international discord.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/09/gettyimages-827682426_wide-5afec0cc9140ad9636edc9d78a1b5d774350e21c-s800-c15.jpg"></a>
-
-August 9, 2017 - Millions of eggs have been recalled in European countries afraid they've been contaminated with insecticide. Who is to blame, though? That question is now a matter of international discord.
-
-<a href="http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare">http://www.npr.org/2017/08/09/542470613/belgian-and-dutch-officials-point-fingers-amid-egg-contamination-scare</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/gettyimages-827682426_wide-5afec0cc9140ad9636edc9d78a1b5d774350e21c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
