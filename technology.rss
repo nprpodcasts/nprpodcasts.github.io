@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2017 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 13:29:40 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 14 Aug 2017 23:00:11 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 13:29:40 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_social_media_heats_up.mp3?orgId=1&amp;topicId=1019&amp;d=259&amp;p=3&amp;story=543566757&amp;t=progseg&amp;e=543583421&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Twitter Account Names And Shames Far-Right Activists At Charlottesville</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville</link>
+      <description>August 15, 2017 - The &#34;Yes, you&#39;re a racist&#34; Twitter account uses crowdsourcing to help identify white supremacists. But sometimes it gets things wrong. And not everyone is happy about efforts at public shaming.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_social_media_heats_up.mp3?orgId=1&amp;topicId=1019&amp;d=259&amp;p=3&amp;story=543566757&amp;t=progseg&amp;e=543583421&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-9d6ce2df45f9a10d3e91fa5ed1a25393be97d4cf-s800-c15.jpg"></a>
+
+August 15, 2017 - The "Yes, you're a racist" Twitter account uses crowdsourcing to help identify white supremacists. But sometimes it gets things wrong. And not everyone is happy about efforts at public shaming.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville">http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-9d6ce2df45f9a10d3e91fa5ed1a25393be97d4cf-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>259</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</guid>
       <title>British Cybersecurity Expert Pleads Not Guilty To Federal Malware Charges</title>
@@ -243,21 +260,6 @@ August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an
 <a href="http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally">http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>245</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_car_seat_camouflage_man_wears_bizarre_costume_in_automatic_vehicle_experiment.mp3?orgId=1&amp;topicId=1019&amp;d=117&amp;p=2&amp;story=542468251&amp;t=progseg&amp;e=542351245&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Car Seat Camouflage: Man Wears Bizarre Costume In Automatic Vehicle Experiment</title>
-      <link>http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment</link>
-      <description>August 9, 2017 - An apparently driverless van was spotted driving around Arlington, Va., recently. The vehicle appeared to have no humans on board, and the story got stranger from there.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_car_seat_camouflage_man_wears_bizarre_costume_in_automatic_vehicle_experiment.mp3?orgId=1&amp;topicId=1019&amp;d=117&amp;p=2&amp;story=542468251&amp;t=progseg&amp;e=542351245&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 9, 2017 - An apparently driverless van was spotted driving around Arlington, Va., recently. The vehicle appeared to have no humans on board, and the story got stranger from there.
-
-<a href="http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment">http://www.npr.org/2017/08/09/542468251/car-seat-camouflage-man-wears-bizarre-costume-in-automatic-vehicle-experiment</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>117</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
