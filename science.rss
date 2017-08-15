@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2017 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 14 Aug 2017 22:00:09 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,17 +24,36 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_new_study_highlights_strong_link_between_basic_research_and_inventions.mp3?orgId=1&amp;topicId=1007&amp;d=156&amp;p=2&amp;story=543477432&amp;t=progseg&amp;e=543347804&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>6,000-Year-Old Knee Joints Suggest Osteoarthritis Isn&#39;t Just Wear And Tear</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</link>
+      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s800-c15.jpg"></a>
+
+August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees">http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>231</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_new_study_highlights_strong_link_between_basic_research_and_inventions.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=156&amp;p=2&amp;story=543477432&amp;t=progseg&amp;e=543347804&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>New Study Highlights Strong Link Between Basic Research And Inventions</title>
       <link>http://www.npr.org/2017/08/14/543477432/new-study-highlights-strong-link-between-basic-research-and-inventions</link>
       <description>August 14, 2017 - A big waste of money or the engine of marketplace innovation? That&#39;s how some people see basic scientific research. Now a new study shows how basic research and inventions are connected.</description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_new_study_highlights_strong_link_between_basic_research_and_inventions.mp3?orgId=1&amp;topicId=1007&amp;d=156&amp;p=2&amp;story=543477432&amp;t=progseg&amp;e=543347804&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_new_study_highlights_strong_link_between_basic_research_and_inventions.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=156&amp;p=2&amp;story=543477432&amp;t=progseg&amp;e=543347804&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 14, 2017 - A big waste of money or the engine of marketplace innovation? That's how some people see basic scientific research. Now a new study shows how basic research and inventions are connected.
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/uber-gps_wide-2f32465633c9942131587c4e95ba97f9f5251262-s800-c15.jpg"></a>
+
+August 14, 2017 - A big waste of money or the engine of marketplace innovation? That's how some people see basic scientific research. Now a new study shows how basic research and inventions are connected.
 
 <a href="http://www.npr.org/2017/08/14/543477432/new-study-highlights-strong-link-between-basic-research-and-inventions">http://www.npr.org/2017/08/14/543477432/new-study-highlights-strong-link-between-basic-research-and-inventions</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/uber-gps_wide-2f32465633c9942131587c4e95ba97f9f5251262-s3000-c15.jpg"></itunes:image>
       <itunes:duration>156</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -235,23 +254,6 @@ August 10, 2017 - A new report shows the EPA has collected 60 percent less in ci
 
 <a href="http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump">http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17154009093536_wide-817b5ac5b6bf5d72f2e7d22334d6930e56f903f0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Widowed Early, A Cancer Doctor Writes About The Harm Of Medical Debt</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</link>
-      <description>August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170810_atc_widowed_early_a_cancer_doctor_writes_about_the_harm_of_medical_debt.mp3?orgId=1&amp;topicId=1027&amp;d=213&amp;p=2&amp;story=542589232&amp;t=progseg&amp;e=542550507&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s800-c15.jpg"></a>
-
-August 10, 2017 - A decade after the death of her husband, Fumiko Chino is studying the strain that uncovered medical costs put on cancer patients, even those who have insurance.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt">http://www.npr.org/sections/health-shots/2017/08/10/542589232/widowed-early-a-cancer-doctor-writes-about-the-harm-of-medical-debt</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/artist_wide-8cf997ca0634da0172ee4beb8366af92478364a6-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>213</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
