@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 19:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 20:23:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 19:46:24 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 20:23:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</guid>
+      <title>CBO Predicts Rise In Deficit If Trump Cuts Payments To Insurance Companies</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</link>
+      <description>August 15, 2017 - The Congressional Budget Office estimates that ending what&#39;s known as cost-sharing reduction payments to insurers will raise the deficit $194 billion over 10 years.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/cbo1_wide-4ffd6e3f22d6c7c345a2f705e2b36506725bbb77-s800-c15.jpg"></a>
+
+August 15, 2017 - The Congressional Budget Office estimates that ending what's known as cost-sharing reduction payments to insurers will raise the deficit $194 billion over 10 years.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies">http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/cbo1_wide-4ffd6e3f22d6c7c345a2f705e2b36506725bbb77-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/15/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</guid>
       <title>Can My Boss Make Me Pay The Tax On My Great Health Plan? Maybe Yes</title>
@@ -241,21 +256,6 @@ August 11, 2017 - President Trump announced Thursday that his administration pla
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542836709/from-alaska-to-florida-states-respond-to-opioid-crisis-with-emergency-declaratio">http://www.npr.org/sections/health-shots/2017/08/11/542836709/from-alaska-to-florida-states-respond-to-opioid-crisis-with-emergency-declaratio</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-85390650_1_wide-c2c24d05e8362ad86b8eb00a0d70388053873460-s3000-c15.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</guid>
-      <title>Europe&#39;s Egg-Contamination Scandal Spreads As Far As Hong Kong</title>
-      <link>http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</link>
-      <description>August 11, 2017 - Tainted eggs have been found in at least 16 countries in Europe. Millions of eggs have been pulled from European shelves over fears they are contaminated with fipronil, which is used to kill insects.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/11/gettyimages-829976166_wide-53307aa533ce02ae26b71ff38e1669670a351f11-s800-c15.jpg"></a>
-
-August 11, 2017 - Tainted eggs have been found in at least 16 countries in Europe. Millions of eggs have been pulled from European shelves over fears they are contaminated with fipronil, which is used to kill insects.
-
-<a href="http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong">http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-829976166_wide-53307aa533ce02ae26b71ff38e1669670a351f11-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
