@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 18:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 17:00:09 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 18:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</guid>
+      <title>In The Event Of A Nuclear Blast, Don&#39;t Condition Your Hair</title>
+      <link>http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</link>
+      <description>August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s800-c15.jpg"></a>
+
+August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.
+
+<a href="http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair">http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</guid>
       <title>Science, Solitude And The Sacred On The Appalachian Trail</title>
@@ -45,12 +60,12 @@ August 15, 2017 - There is no greater source for science, for the inspiration to
       <description>August 15, 2017 - Wildfires are still burning in western Greenland, close to the Arctic island&#39;s ice sheet. As the fires burn, they release black particles that can coat the ice and snow, and make it melt more quickly.</description>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-ec75ac923db7169a9c669eb64f86508ab91d746a-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-a1412ea72675353e6b9fb2367c0a1afe8bc3a111-s800-c15.jpg"></a>
 
 August 15, 2017 - Wildfires are still burning in western Greenland, close to the Arctic island's ice sheet. As the fires burn, they release black particles that can coat the ice and snow, and make it melt more quickly.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem">http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-ec75ac923db7169a9c669eb64f86508ab91d746a-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-a1412ea72675353e6b9fb2367c0a1afe8bc3a111-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 11, 2017 - The hospices that discharge the most patients before their dea
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive">http://www.npr.org/sections/health-shots/2017/08/11/542607941/nearly-1-in-5-hospice-patients-discharged-while-still-alive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-723497453_wide-2bcaab7be7922dd28cd98836f89cb4b8e3ed66ab-s3000-c15.jpg"></itunes:image>
       <itunes:duration>232</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</guid>
-      <title>2016 Hit Records For Global Temperature And Climate Extremes</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</link>
-      <description>August 10, 2017 - An annual report, comprising data from scientists across the globe, shows it was the warmest on records that date back 137 years. It also saw the highest sea levels and lowest polar sea ice.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17222422377139_wide-36301d391e35ab7b3e73568821ba293101b8bdc3-s800-c15.jpg"></a>
-
-August 10, 2017 - An annual report, comprising data from scientists across the globe, shows it was the warmest on records that date back 137 years. It also saw the highest sea levels and lowest polar sea ice.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes">http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17222422377139_wide-36301d391e35ab7b3e73568821ba293101b8bdc3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
