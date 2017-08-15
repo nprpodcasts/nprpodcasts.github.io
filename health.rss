@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 14:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 16:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 14:00:24 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 16:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,16 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad</guid>
+      <title>Why U.S.-Trained Surgeons Often Aren&#39;t Ready For Humanitarian Work Abroad</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad</link>
+      <description>August 15, 2017 - A study compares surgeries performed by Doctors Without Borders volunteers in the developing world with those taught to U.S. surgical residents — and finds &#34;a dramatic mismatch.&#34;</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-485249689-50_wide-e5c7e19c8eadddb1c224b4e99247d40f664a1db0-s800-c15.jpg"></a>
+
+August 15, 2017 - A study compares surgeries performed by Doctors Without Borders volunteers in the developing world with those taught to U.S. surgical residents — and finds "a dramatic mismatch."
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad">http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-485249689-50_wide-e5c7e19c8eadddb1c224b4e99247d40f664a1db0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>6,000-Year-Old Knee Joints Suggest Osteoarthritis Isn&#39;t Just Wear And Tear</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</link>
-      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.</description>
+      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.</description>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s800-c15.jpg"></a>
 
-August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.
+August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees">http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s3000-c15.jpg"></itunes:image>
@@ -245,21 +260,6 @@ August 11, 2017 - The president has already called the opioid crisis an emergenc
 <a href="http://www.npr.org/sections/health-shots/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency">http://www.npr.org/sections/health-shots/2017/08/11/542767898/president-trump-to-declare-national-opioid-emergency</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/ap_172226716315771_wide-5d82a129253943e61b5187f9d112a5781c17c1f6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>257</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_morning_news_brief_trump_speaks_out_about_north_korea_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=542752972&amp;t=progseg&amp;e=542752949&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>News Brief: Trump Speaks Out About North Korea, Opioid Crisis</title>
-      <link>http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis</link>
-      <description>August 11, 2017 - President Trump says his promise to meet Pyongyang&#39;s threats with &#34;fire and fury&#34; might have been too soft. And, he says he&#39;s ready to declare the nation&#39;s opioid crisis &#34;a national emergency.&#34;</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170811_me_morning_news_brief_trump_speaks_out_about_north_korea_opioid_crisis.mp3?orgId=1&amp;topicId=1014&amp;d=621&amp;p=3&amp;story=542752972&amp;t=progseg&amp;e=542752949&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 11, 2017 - President Trump says his promise to meet Pyongyang's threats with "fire and fury" might have been too soft. And, he says he's ready to declare the nation's opioid crisis "a national emergency."
-
-<a href="http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis">http://www.npr.org/2017/08/11/542752972/morning-news-brief-trump-speaks-out-about-north-korea-opioid-crisis</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>621</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

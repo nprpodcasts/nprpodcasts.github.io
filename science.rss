@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 14:00:22 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem</guid>
+      <title>Greenland Is Still Burning, But The Smoke May Be The Real Problem</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem</link>
+      <description>August 15, 2017 - Wildfires are still burning in western Greenland, close to the Arctic island&#39;s ice sheet. As the fires burn, they release black particles that can coat the ice and snow, and make it melt more quickly.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-ec75ac923db7169a9c669eb64f86508ab91d746a-s800-c15.jpg"></a>
+
+August 15, 2017 - Wildfires are still burning in western Greenland, close to the Arctic island's ice sheet. As the fires burn, they release black particles that can coat the ice and snow, and make it melt more quickly.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem">http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/36396573002_81788834ed_o_wide-ec75ac923db7169a9c669eb64f86508ab91d746a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>6,000-Year-Old Knee Joints Suggest Osteoarthritis Isn&#39;t Just Wear And Tear</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</link>
-      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.</description>
+      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.</description>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s800-c15.jpg"></a>
 
-August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knee joints today, they found that modern humans tend to have more osteoarthritis.
+August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees">http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s3000-c15.jpg"></itunes:image>
@@ -79,12 +94,12 @@ August 14, 2017 - The Trump administration has opened a 45-day comment period ah
       <description>August 14, 2017 - Young children have an easier time exporting what they learn from a fictional storybook to the real world when the storybook is realistic, says psychologist Tania Lombrozo.</description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/14/istock-509416856_wide-7059197e0077cae96847df9118ce549a8beb952d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/istock-157192787-edit_wide-c532bbe03ce12345d10ad02c0d742888204bb6a3-s800-c15.jpg"></a>
 
 August 14, 2017 - Young children have an easier time exporting what they learn from a fictional storybook to the real world when the storybook is realistic, says psychologist Tania Lombrozo.
 
 <a href="http://www.npr.org/sections/13.7/2017/08/14/543405845/in-children-s-storybooks-realism-has-advantages">http://www.npr.org/sections/13.7/2017/08/14/543405845/in-children-s-storybooks-realism-has-advantages</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/istock-509416856_wide-7059197e0077cae96847df9118ce549a8beb952d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/istock-157192787-edit_wide-c532bbe03ce12345d10ad02c0d742888204bb6a3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 10, 2017 - Scientists are getting closer to being able to alter people's 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes">http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-170416551_wide-886bb4cd7d59fc1c64996a0fdbe9dc9d79711bbc-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</guid>
-      <title>Environmental Penalties Down Under President Trump</title>
-      <link>http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</link>
-      <description>August 10, 2017 - A new report shows the EPA has collected 60 percent less in civil penalties from polluters compared with recent administrations.&#xA;&#xA; - http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17154009093536_wide-817b5ac5b6bf5d72f2e7d22334d6930e56f903f0-s800-c15.jpg"></a>
-
-August 10, 2017 - A new report shows the EPA has collected 60 percent less in civil penalties from polluters compared with recent administrations.
-
-<a href="http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump">http://www.npr.org/2017/08/10/542603483/environmental-penalties-are-down-under-president-trump</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17154009093536_wide-817b5ac5b6bf5d72f2e7d22334d6930e56f903f0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
