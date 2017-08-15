@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 19:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 19:46:30 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/15/543730262/scientists-move-to-establish-wildlife-preserve-at-guantanamo-bay</guid>
+      <title>Scientists Move To Establish Wildlife Preserve At Guantanamo Bay</title>
+      <link>http://www.npr.org/2017/08/15/543730262/scientists-move-to-establish-wildlife-preserve-at-guantanamo-bay</link>
+      <description>August 15, 2017 - In the 15 years since the Guantanamo Bay detention camp was established to house suspected terrorists, a green buffer surrounding the facility to keep out the world has reverted back to the wild. Now some scientists would like to turn it into a protected research area.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 15, 2017 - In the 15 years since the Guantanamo Bay detention camp was established to house suspected terrorists, a green buffer surrounding the facility to keep out the world has reverted back to the wild. Now some scientists would like to turn it into a protected research area.
+
+<a href="http://www.npr.org/2017/08/15/543730262/scientists-move-to-establish-wildlife-preserve-at-guantanamo-bay">http://www.npr.org/2017/08/15/543730262/scientists-move-to-establish-wildlife-preserve-at-guantanamo-bay</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/15/543675398/can-we-feed-the-world-with-farmed-fish</guid>
       <title>Can We Feed The World With Farmed Fish?</title>
@@ -235,23 +248,6 @@ August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need t
 
 <a href="http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests">http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-f6296748906310df87b186ac5c6fc88a002c699b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=749&amp;p=57&amp;story=541644222&amp;t=progseg&amp;e=535044918&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tyler DeWitt: How Do We Get Kids Hooked On Science?</title>
-      <link>http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science</link>
-      <description>August 11, 2017 - When a student complained that science textbooks were boring, teacher Tyler DeWitt got thinking about how he can make his lessons fun. DeWitt recounts his quest to make kids care about science.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=749&amp;p=57&amp;story=541644222&amp;t=progseg&amp;e=535044918&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/tylerdewitt_2012x-embed_wide-26bdae48733378509db774acbda5f963f17915d7-s800-c15.jpg"></a>
-
-August 11, 2017 - When a student complained that science textbooks were boring, teacher Tyler DeWitt got thinking about how he can make his lessons fun. DeWitt recounts his quest to make kids care about science.
-
-<a href="http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science">http://www.npr.org/2017/08/11/541644222/tyler-dewitt-how-do-we-get-kids-hooked-on-science</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/tylerdewitt_2012x-embed_wide-26bdae48733378509db774acbda5f963f17915d7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>749</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
