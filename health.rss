@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 18:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 19:46:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 18:00:09 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 19:46:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/15/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</guid>
+      <title>Can My Boss Make Me Pay The Tax On My Great Health Plan? Maybe Yes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/15/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</link>
+      <description>August 15, 2017 - Since Congress hasn&#39;t passed a fix, employers who offer generous health care plans may look to shift the tax burden to employees if the so-called &#34;Cadillac tax&#34; kicks in.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/money_wide-49f4dabe8d59ff4cac5ed764c588640c1eb52c0c-s800-c15.jpg"></a>
+
+August 15, 2017 - Since Congress hasn't passed a fix, employers who offer generous health care plans may look to shift the tax burden to employees if the so-called "Cadillac tax" kicks in.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/15/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes">http://www.npr.org/sections/health-shots/2017/08/15/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/money_wide-49f4dabe8d59ff4cac5ed764c588640c1eb52c0c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</guid>
       <title>In The Event Of A Nuclear Blast, Don&#39;t Condition Your Hair</title>
@@ -241,23 +256,6 @@ August 11, 2017 - Tainted eggs have been found in at least 16 countries in Europ
 
 <a href="http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong">http://www.npr.org/2017/08/11/542781029/europes-egg-contamination-scandal-spreads-as-far-as-hong-kong</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-829976166_wide-53307aa533ce02ae26b71ff38e1669670a351f11-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170811_atc_netflix_abc_portrayals_of_autism_still_fall_short_critics_say.mp3?orgId=1&amp;topicId=1138&amp;d=305&amp;p=2&amp;story=542668400&amp;t=progseg&amp;e=542756640&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Netflix, ABC Portrayals Of Autism Still Fall Short, Critics Say</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</link>
-      <description>August 11, 2017 - Two new TV series feature main characters who have autism. While some are applauding the fresh take on the disorder, others worry that the shows send the wrong messages.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170811_atc_netflix_abc_portrayals_of_autism_still_fall_short_critics_say.mp3?orgId=1&amp;topicId=1138&amp;d=305&amp;p=2&amp;story=542668400&amp;t=progseg&amp;e=542756640&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/downloadasset11_wide-e9951564604bc07bb35faf110f520ecda949112c-s800-c15.jpg"></a>
-
-August 11, 2017 - Two new TV series feature main characters who have autism. While some are applauding the fresh take on the disorder, others worry that the shows send the wrong messages.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say">http://www.npr.org/sections/health-shots/2017/08/11/542668400/netflix-abc-portrayals-of-autism-still-fall-short-critics-say</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/downloadasset11_wide-e9951564604bc07bb35faf110f520ecda949112c-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>305</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
