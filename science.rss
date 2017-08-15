@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 16:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 17:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 16:00:13 +0000</pubDate>
+    <pubDate>Tue, 15 Aug 2017 17:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</guid>
+      <title>Science, Solitude And The Sacred On The Appalachian Trail</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</link>
+      <description>August 15, 2017 - There is no greater source for science, for the inspiration to do science, than the wild; that is where the sense of sacredness at the root of science&#39;s aspiration lives, says blogger Adam Frank.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/istock-476579840_wide-367be3258a55f6b11d680f7cbbde43b4b6ce4853-s800-c15.jpg"></a>
+
+August 15, 2017 - There is no greater source for science, for the inspiration to do science, than the wild; that is where the sense of sacredness at the root of science's aspiration lives, says blogger Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail">http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/istock-476579840_wide-367be3258a55f6b11d680f7cbbde43b4b6ce4853-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/15/543406558/greenland-is-still-burning-but-the-smoke-may-be-the-real-problem</guid>
       <title>Greenland Is Still Burning, But The Smoke May Be The Real Problem</title>
@@ -239,21 +254,6 @@ August 10, 2017 - An annual report, comprising data from scientists across the g
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes">http://www.npr.org/sections/thetwo-way/2017/08/10/542720189/2016-hit-records-for-global-temperature-and-climate-extremes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17222422377139_wide-36301d391e35ab7b3e73568821ba293101b8bdc3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</guid>
-      <title>People Back Editing Genes To Treat Disease, But Are Wary Of Inheritable Changes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</link>
-      <description>August 10, 2017 - Scientists are getting closer to being able to alter people&#39;s genes permanently. A survey found that people are more cautious about changes that could be passed on to future generations.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-170416551_wide-886bb4cd7d59fc1c64996a0fdbe9dc9d79711bbc-s800-c15.jpg"></a>
-
-August 10, 2017 - Scientists are getting closer to being able to alter people's genes permanently. A survey found that people are more cautious about changes that could be passed on to future generations.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes">http://www.npr.org/sections/health-shots/2017/08/10/542659066/people-back-editing-genes-to-treat-disease-but-are-wary-of-inheritable-changes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-170416551_wide-886bb4cd7d59fc1c64996a0fdbe9dc9d79711bbc-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
