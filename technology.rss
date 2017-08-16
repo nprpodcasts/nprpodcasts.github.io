@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 15:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 03:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 15:00:04 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 03:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/15/543782396/doj-demands-files-on-anti-trump-activists-and-a-web-hosting-company-resists</guid>
+      <title>DOJ Demands Files On Anti-Trump Activists, And A Web Hosting Company Resists</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/15/543782396/doj-demands-files-on-anti-trump-activists-and-a-web-hosting-company-resists</link>
+      <description>August 15, 2017 - Legal experts called the government&#39;s demand for information unusually broad. DreamHost says the warrant would require it to hand over logs of 1.3 million visits to its customer&#39;s website.</description>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-632191698_wide-cdf0e2416ba5ff7cece3d378d5e3c7796148dc47-s800-c15.jpg"></a>
+
+August 15, 2017 - Legal experts called the government's demand for information unusually broad. DreamHost says the warrant would require it to hand over logs of 1.3 million visits to its customer's website.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/15/543782396/doj-demands-files-on-anti-trump-activists-and-a-web-hosting-company-resists">http://www.npr.org/sections/thetwo-way/2017/08/15/543782396/doj-demands-files-on-anti-trump-activists-and-a-web-hosting-company-resists</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-632191698_wide-cdf0e2416ba5ff7cece3d378d5e3c7796148dc47-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_social_media_heats_up.mp3?orgId=1&amp;topicId=1019&amp;d=255&amp;p=3&amp;story=543566757&amp;t=progseg&amp;e=543583421&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Some Are Troubled By Online Shaming Of Charlottesville Rally Participants</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville</link>
@@ -31,12 +46,12 @@
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_social_media_heats_up.mp3?orgId=1&amp;topicId=1019&amp;d=255&amp;p=3&amp;story=543566757&amp;t=progseg&amp;e=543583421&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-9d6ce2df45f9a10d3e91fa5ed1a25393be97d4cf-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-108118ccab38f33018e7bf9fe34103bdbb6ad390-s800-c15.jpg"></a>
 
 August 15, 2017 - The "Yes, You're Racist" Twitter account uses crowdsourcing to help identify white supremacists. But sometimes it gets things wrong. And not everyone is happy about efforts at public shaming.
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville">http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-9d6ce2df45f9a10d3e91fa5ed1a25393be97d4cf-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-108118ccab38f33018e7bf9fe34103bdbb6ad390-s3000-c15.jpg"></itunes:image>
       <itunes:duration>255</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -245,21 +260,6 @@ August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video">http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/facebook-watch-watchlist_wide-2d298a913d2e78c001a1c6614974637af7490aa4-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_airbnb_cancels_bookings_by_users_connected_to_white_nationalist_rally.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=542468293&amp;t=progseg&amp;e=542351245&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Airbnb Cancels Bookings By Users Connected To White Nationalist Rally</title>
-      <link>http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally</link>
-      <description>August 9, 2017 - NPR&#39;s Ari Shapiro talks to Deborah Hellman, a professor at the University of Virginia, about Airbnb&#39;s cancellation of bookings by attendees to a Charlottesville, Va., white nationalist event.</description>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170809_atc_airbnb_cancels_bookings_by_users_connected_to_white_nationalist_rally.mp3?orgId=1&amp;topicId=1014&amp;d=245&amp;p=2&amp;story=542468293&amp;t=progseg&amp;e=542351245&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 9, 2017 - NPR's Ari Shapiro talks to Deborah Hellman, a professor at the University of Virginia, about Airbnb's cancellation of bookings by attendees to a Charlottesville, Va., white nationalist event.
-
-<a href="http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally">http://www.npr.org/2017/08/09/542468293/airbnb-cancels-bookings-by-users-connected-to-white-nationalist-rally</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
