@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 19:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 21:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 19:00:08 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 21:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</guid>
+      <title>NASA Astronauts Set To Get Sweet Treat With Next Delivery To International Space Station</title>
+      <link>http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</link>
+      <description>August 16, 2017 - This week, a rocket bound for the International Space Station lifted off with 6,400 pounds of supplies. Along with the provisions, medical supplies and experiments, NASA astronauts will be getting a special care package with ice cream.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 16, 2017 - This week, a rocket bound for the International Space Station lifted off with 6,400 pounds of supplies. Along with the provisions, medical supplies and experiments, NASA astronauts will be getting a special care package with ice cream.
+
+<a href="http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space">http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds</guid>
       <title>At CERN, Hunting For Invisible Worlds</title>
@@ -237,21 +250,6 @@ August 14, 2017 - The Earth won't enjoy total solar eclipses forever because the
 <a href="http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse">http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>551</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</guid>
-      <title>People In Nepal Used To Think Vultures Were Bad Luck. Not Anymore</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</link>
-      <description>August 13, 2017 - The number of vultures in South Asia has plummeted. But &#34;restaurants&#34; to feed rescued chicks and wild vultures are good for the birds — and for the local economy.</description>
-      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-b5449f30d33b8b037741875906d159ca3be45224-s800-c15.jpg"></a>
-
-August 13, 2017 - The number of vultures in South Asia has plummeted. But "restaurants" to feed rescued chicks and wild vultures are good for the birds — and for the local economy.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore">http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-b5449f30d33b8b037741875906d159ca3be45224-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

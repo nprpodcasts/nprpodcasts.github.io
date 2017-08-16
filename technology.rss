@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 20:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 21:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 20:00:15 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 21:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</guid>
+      <title>Dreamhost Challenges Department Of Justice Anti-Trump Records Request</title>
+      <link>http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</link>
+      <description>August 16, 2017 - NPR&#39;s Audie Cornish speaks with Dallas Kashuba, co-founder of DreamHost. The company challenged the Department of Justice&#39;s demand that DreamHost hand over 1.3 million IP addresses for people who visited an anti-trump protest site.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 16, 2017 - NPR's Audie Cornish speaks with Dallas Kashuba, co-founder of DreamHost. The company challenged the Department of Justice's demand that DreamHost hand over 1.3 million IP addresses for people who visited an anti-trump protest site.
+
+<a href="http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request">http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/543882516/obama-s-tweet-after-charlottesville-is-the-most-liked-tweet-ever</guid>
       <title>Quoting Mandela, Obama&#39;s Tweet After Charlottesville Is The Most-Liked Ever</title>
@@ -42,12 +55,12 @@ August 16, 2017 - "No one is born hating another person because of the color of 
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/16/543389661/unicef-picks-youtube-star-as-ambassador</guid>
       <title>UNICEF Picks YouTube Star As Ambassador</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/16/543389661/unicef-picks-youtube-star-as-ambassador</link>
-      <description>August 16, 2017 - Known as &#34;iiSuperwomanii&#34; to her 12 million online followers, Lilly Singh represents a new kind of celebrity — and that&#39;s exactly why UNICEF&#39;s made her the face of its cause.</description>
+      <description>August 16, 2017 - Known as &#34;iiSuperwomanii&#34; to her 12 million YouTube followers, Lilly Singh represents a new kind of celebrity — and that&#39;s exactly why UNICEF has made her the face of its cause.</description>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/un071620-50_wide-35f5e180e507dec4c66c3839b9090e32b6534c64-s800-c15.jpg"></a>
 
-August 16, 2017 - Known as "iiSuperwomanii" to her 12 million online followers, Lilly Singh represents a new kind of celebrity — and that's exactly why UNICEF's made her the face of its cause.
+August 16, 2017 - Known as "iiSuperwomanii" to her 12 million YouTube followers, Lilly Singh represents a new kind of celebrity — and that's exactly why UNICEF has made her the face of its cause.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543389661/unicef-picks-youtube-star-as-ambassador">http://www.npr.org/sections/goatsandsoda/2017/08/16/543389661/unicef-picks-youtube-star-as-ambassador</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/un071620-50_wide-35f5e180e507dec4c66c3839b9090e32b6534c64-s3000-c15.jpg"></itunes:image>
@@ -241,21 +254,6 @@ August 11, 2017 - Sal Khan turned tutoring lessons with his cousins into a serie
 <a href="http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom">http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/salmankhan_2011-embed_wide-756bec75d667031a12730b5b65e27f0b72391323-s3000-c15.jpg"></itunes:image>
       <itunes:duration>693</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</guid>
-      <title>Google Cancels Town Hall After Employee&#39;s Controversial Diversity Memo</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</link>
-      <description>August 10, 2017 - The meeting had been called to discuss fallout from the memo written by a senior software engineer who complained that &#34;biological causes&#34; explained why women were underrepresented at the tech giant.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/ap_17137643084817_wide-b480255c80125195cc5d8ae1802040f965dccff8-s800-c15.jpg"></a>
-
-August 10, 2017 - The meeting had been called to discuss fallout from the memo written by a senior software engineer who complained that "biological causes" explained why women were underrepresented at the tech giant.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo">http://www.npr.org/sections/thetwo-way/2017/08/10/542724804/google-cancels-town-hall-after-employees-controversial-diversity-memo</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/ap_17137643084817_wide-b480255c80125195cc5d8ae1802040f965dccff8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
