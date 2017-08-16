@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 22:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 14:15:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 15 Aug 2017 22:00:22 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 14:15:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history</guid>
+      <title>How Eclipses Changed History</title>
+      <link>http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history</link>
+      <description>August 16, 2017 - Newton and Einstein had big ideas, but needed an eclipse to prove them. And scientists are still pursuing secrets of the universe one eclipse at a time.&#xA;&#xA; - http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/eclipse_charcoal1_wide-4d32984d48d5afbc0eef23275459797c38efe01b-s800-c15.jpg"></a>
+
+August 16, 2017 - Newton and Einstein had big ideas, but needed an eclipse to prove them. And scientists are still pursuing secrets of the universe one eclipse at a time.
+
+<a href="http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history">http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/eclipse_charcoal1_wide-4d32984d48d5afbc0eef23275459797c38efe01b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170815_atc_scientists_move_to_establish_wildlife_preserve_at_guantanamo_bay.mp3?orgId=1&amp;topicId=1007&amp;d=273&amp;p=2&amp;story=543730262&amp;t=progseg&amp;e=543587917&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scientists Move To Establish Wildlife Preserve At Guantanamo Bay</title>
@@ -163,11 +178,12 @@ August 14, 2017 - Young children have an easier time exporting what they learn f
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170816_me_why_future_earthlings_wont_see_total_solar_eclipses.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=3&amp;story=542700588&amp;t=progseg&amp;e=543830231&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
       <title>Why Future Earthlings Won&#39;t See Total Solar Eclipses</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</link>
       <description>August 14, 2017 - The Earth won&#39;t enjoy total solar eclipses forever because the moon is moving farther away, so it looks smaller and smaller over time.</description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170816_me_why_future_earthlings_wont_see_total_solar_eclipses.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=3&amp;story=542700588&amp;t=progseg&amp;e=543830231&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s800-c15.jpg"></a>
 
@@ -175,6 +191,7 @@ August 14, 2017 - The Earth won't enjoy total solar eclipses forever because the
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses">http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>153</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ August 13, 2017 - The number of vultures in South Asia has plummeted. But "resta
 <a href="http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space">http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</guid>
-      <title>Success In Placing Shelter Dogs Takes More Than Temperament Tests</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</link>
-      <description>August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-f6296748906310df87b186ac5c6fc88a002c699b-s800-c15.jpg"></a>
-
-August 11, 2017 - Blogger Alva Noë talks with a dog trainer who says the need to give shelters, handlers and adopters the resources required to keep dogs and people supported and safe is critical in the process.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests">http://www.npr.org/sections/13.7/2017/08/11/542793565/success-in-placing-shelter-dogs-takes-more-than-temperament-tests</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/istock-466417874_wide-f6296748906310df87b186ac5c6fc88a002c699b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
