@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 21:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 22:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 21:00:13 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 22:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_dreamhost_challenges_department_of_justice_anti-trump_records_request.mp3?orgId=1&amp;topicId=1014&amp;d=253&amp;p=2&amp;story=543973265&amp;t=progseg&amp;e=543840412&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Dreamhost Challenges Department Of Justice Anti-Trump Records Request</title>
       <link>http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</link>
       <description>August 16, 2017 - NPR&#39;s Audie Cornish speaks with Dallas Kashuba, co-founder of DreamHost. The company challenged the Department of Justice&#39;s demand that DreamHost hand over 1.3 million IP addresses for people who visited an anti-trump protest site.</description>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_dreamhost_challenges_department_of_justice_anti-trump_records_request.mp3?orgId=1&amp;topicId=1014&amp;d=253&amp;p=2&amp;story=543973265&amp;t=progseg&amp;e=543840412&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 16, 2017 - NPR's Audie Cornish speaks with Dallas Kashuba, co-founder of DreamHost. The company challenged the Department of Justice's demand that DreamHost hand over 1.3 million IP addresses for people who visited an anti-trump protest site.
 
 <a href="http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request">http://www.npr.org/2017/08/16/543973265/dreamhost-challenges-department-of-justice-anti-trump-records-request</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>253</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>

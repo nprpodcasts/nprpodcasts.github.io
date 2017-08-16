@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 21:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 22:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 21:00:09 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 22:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,50 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</guid>
+      <guid>http://www.npr.org/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</guid>
+      <title>Trump Rolls Back Obama-Era Flood Standards For Infrastructure Projects</title>
+      <link>http://www.npr.org/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</link>
+      <description>August 16, 2017 - An Obama order called for new public infrastructure projects to be built to withstand rising sea levels caused by climate change. President Trump revoked that order to accelerate the review process.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-826368128-s_wide-7bf9f42b0a74dee43a91af039acffc1d9a0bd27f-s800-c15.jpg"></a>
+
+August 16, 2017 - An Obama order called for new public infrastructure projects to be built to withstand rising sea levels caused by climate change. President Trump revoked that order to accelerate the review process.
+
+<a href="http://www.npr.org/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects">http://www.npr.org/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-826368128-s_wide-7bf9f42b0a74dee43a91af039acffc1d9a0bd27f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_nasa_astronauts_set_to_get_sweet_treat_with_next_delivery_to_international_space_station.mp3?orgId=1&amp;topicId=1026&amp;d=147&amp;p=2&amp;story=543980504&amp;t=progseg&amp;e=543840412&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Best Item In An Astronaut&#39;s Care Package? Definitely The Ice Cream</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/543980504/the-best-item-in-an-astronaut-s-care-package-definitely-the-ice-cream</link>
+      <description>August 16, 2017 - Unlike other cargo vehicles, the SpaceX spacecraft can return to Earth without burning up. So it&#39;s equipped with freezers for transporting medical samples — and the occasional frozen treat.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_nasa_astronauts_set_to_get_sweet_treat_with_next_delivery_to_international_space_station.mp3?orgId=1&amp;topicId=1026&amp;d=147&amp;p=2&amp;story=543980504&amp;t=progseg&amp;e=543840412&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/ap_17228501948286_wide-2862045ec179b98e95fd2f10b2fa1d68d7a79ee4-s800-c15.jpg"></a>
+
+August 16, 2017 - Unlike other cargo vehicles, the SpaceX spacecraft can return to Earth without burning up. So it's equipped with freezers for transporting medical samples — and the occasional frozen treat.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/543980504/the-best-item-in-an-astronaut-s-care-package-definitely-the-ice-cream">http://www.npr.org/sections/thetwo-way/2017/08/16/543980504/the-best-item-in-an-astronaut-s-care-package-definitely-the-ice-cream</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/ap_17228501948286_wide-2862045ec179b98e95fd2f10b2fa1d68d7a79ee4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>147</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_nasa_astronauts_set_to_get_sweet_treat_with_next_delivery_to_international_space_station.mp3?orgId=1&amp;topicId=1026&amp;d=147&amp;p=2&amp;story=543973258&amp;t=progseg&amp;e=543840412&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>NASA Astronauts Set To Get Sweet Treat With Next Delivery To International Space Station</title>
       <link>http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</link>
       <description>August 16, 2017 - This week, a rocket bound for the International Space Station lifted off with 6,400 pounds of supplies. Along with the provisions, medical supplies and experiments, NASA astronauts will be getting a special care package with ice cream.</description>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_nasa_astronauts_set_to_get_sweet_treat_with_next_delivery_to_international_space_station.mp3?orgId=1&amp;topicId=1026&amp;d=147&amp;p=2&amp;story=543973258&amp;t=progseg&amp;e=543840412&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 16, 2017 - This week, a rocket bound for the International Space Station lifted off with 6,400 pounds of supplies. Along with the provisions, medical supplies and experiments, NASA astronauts will be getting a special care package with ice cream.
 
 <a href="http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space">http://www.npr.org/2017/08/16/543973258/nasa-astronauts-set-to-get-sweet-treat-with-next-delivery-to-international-space</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>147</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -218,38 +252,6 @@ August 14, 2017 - Young children have an easier time exporting what they learn f
 
 <a href="http://www.npr.org/sections/13.7/2017/08/14/543405845/in-children-s-storybooks-realism-has-advantages">http://www.npr.org/sections/13.7/2017/08/14/543405845/in-children-s-storybooks-realism-has-advantages</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/istock-157192787-edit_wide-c532bbe03ce12345d10ad02c0d742888204bb6a3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170816_me_why_future_earthlings_wont_see_total_solar_eclipses.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=3&amp;story=542700588&amp;t=progseg&amp;e=543830231&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Why Future Earthlings Won&#39;t See Total Solar Eclipses</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</link>
-      <description>August 14, 2017 - The Earth won&#39;t enjoy total solar eclipses forever because the moon is moving farther away, so it looks smaller and smaller over time.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170816_me_why_future_earthlings_wont_see_total_solar_eclipses.mp3?orgId=1&amp;topicId=1026&amp;d=153&amp;p=3&amp;story=542700588&amp;t=progseg&amp;e=543830231&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s800-c15.jpg"></a>
-
-August 14, 2017 - The Earth won't enjoy total solar eclipses forever because the moon is moving farther away, so it looks smaller and smaller over time.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses">http://www.npr.org/sections/thetwo-way/2017/08/14/542700588/why-future-earthlings-wont-see-total-solar-eclipses</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/eclipse-outline-1_wide-b597df1252e38a29926de1ecb7f2222c267115f0-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>153</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170813_wesun_the_call-in_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=551&amp;p=10&amp;story=543197278&amp;t=progseg&amp;e=543197214&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Call-In: The Solar Eclipse</title>
-      <link>http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</link>
-      <description>August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.&#xA;&#xA; - http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</description>
-      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170813_wesun_the_call-in_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=551&amp;p=10&amp;story=543197278&amp;t=progseg&amp;e=543197214&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 13, 2017 - This week, on The Call-In, we answer all your questions about the upcoming solar eclipse — how to protect your eyes, and what to do if the day is cloudy.
-
-<a href="http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse">http://www.npr.org/2017/08/13/543197278/the-call-in-the-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>551</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
