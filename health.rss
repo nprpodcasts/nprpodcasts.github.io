@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 14:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 17:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 14:15:07 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 17:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases</guid>
+      <title>After Charlottesville, A Doctor Reflects On Hateful Patients And His Own Biases</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases</link>
+      <description>August 16, 2017 - Medical professionals take pride in their commitment to care for all patients. But that pride doesn&#39;t shield them from the difficult ones.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/doctor_wide-afbabc05fe97145486dc73cf8c67c2262d7cf1e5-s800-c15.jpg"></a>
+
+August 16, 2017 - Medical professionals take pride in their commitment to care for all patients. But that pride doesn't shield them from the difficult ones.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases">http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/doctor_wide-afbabc05fe97145486dc73cf8c67c2262d7cf1e5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</guid>
+      <title>Hippos, Anthrax And Hunger Make A Deadly Mix</title>
+      <link>http://www.npr.org/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</link>
+      <description>August 16, 2017 - In Zambia, some people were so hungry that they risked their health to eat hippo meat infected with anthrax. Researchers say it reveals how food insecurity can spread disease.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/hippo--50_wide-609226cf107388e66476c33133b103058e5f8f09-s800-c15.jpg"></a>
+
+August 16, 2017 - In Zambia, some people were so hungry that they risked their health to eat hippo meat infected with anthrax. Researchers say it reveals how food insecurity can spread disease.
+
+<a href="http://www.npr.org/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix">http://www.npr.org/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/hippo--50_wide-609226cf107388e66476c33133b103058e5f8f09-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling</guid>
       <title>Shh! These Quiet Food Videos Will Get Your Senses Tingling</title>
@@ -226,38 +256,6 @@ August 14, 2017 - The whiter the smile the more attractive the person, research 
 <a href="http://www.npr.org/sections/health-shots/2017/08/14/542830158/navigating-the-aisle-of-confusion-to-whiten-your-teeth">http://www.npr.org/sections/health-shots/2017/08/14/542830158/navigating-the-aisle-of-confusion-to-whiten-your-teeth</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/teeth_2_wide-7e807a11d1bc64677a54161f29b635e03cf06bd6-s3000-c15.jpg"></itunes:image>
       <itunes:duration>191</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_men_listen_up_women_like_the_smell_of_guys_who_eat_a_certain_diet.mp3?orgId=1&amp;topicId=1134&amp;d=211&amp;p=3&amp;story=540059875&amp;t=progseg&amp;e=543338920&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Men, Listen Up: Women Like The Smell Of Guys Who Eat A Certain Diet</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/14/540059875/men-listen-up-women-like-the-smell-of-guys-who-eat-a-certain-diet</link>
-      <description>August 14, 2017 - Your diet can influence your appearance. You knew that. But did you know that what you eat can also affect your body odor and your attractiveness to the opposite sex?</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_men_listen_up_women_like_the_smell_of_guys_who_eat_a_certain_diet.mp3?orgId=1&amp;topicId=1134&amp;d=211&amp;p=3&amp;story=540059875&amp;t=progseg&amp;e=543338920&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/28/npr_sweat_final_wide-19d7042bcae6bdb23e9cf140d2d93e068578bc59-s800-c15.jpg"></a>
-
-August 14, 2017 - Your diet can influence your appearance. You knew that. But did you know that what you eat can also affect your body odor and your attractiveness to the opposite sex?
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/14/540059875/men-listen-up-women-like-the-smell-of-guys-who-eat-a-certain-diet">http://www.npr.org/sections/thesalt/2017/08/14/540059875/men-listen-up-women-like-the-smell-of-guys-who-eat-a-certain-diet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/28/npr_sweat_final_wide-19d7042bcae6bdb23e9cf140d2d93e068578bc59-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>211</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</guid>
-      <title>You Can Order a Dozen STD Tests Online — But Should You?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</link>
-      <description>August 13, 2017 - It sounds so simple: Order a kit online, test for sexually transmitted diseases in the privacy of home and mail it back. But deciding what to test for and who gets tested is far from easy.</description>
-      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/12/mylab-1_wide-fb33b676a6802cc12c176f8c5547a5eded36b0ca-s800-c15.jpg"></a>
-
-August 13, 2017 - It sounds so simple: Order a kit online, test for sexually transmitted diseases in the privacy of home and mail it back. But deciding what to test for and who gets tested is far from easy.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you">http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/12/mylab-1_wide-fb33b676a6802cc12c176f8c5547a5eded36b0ca-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
