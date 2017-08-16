@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 15:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 19:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 15:00:09 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 19:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds</guid>
+      <title>At CERN, Hunting For Invisible Worlds</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds</link>
+      <description>August 16, 2017 - With so many dedicated to solving nature&#39;s riddles at CERN, it&#39;s hard not to think of it as a modern cathedral, a link between reason and mystery, a place of pilgrimage, says blogger Marcelo Gleiser.</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/istock-472001299_wide-eebb768d66e3428593a93cdaac5b7eedac0ca94b-s800-c15.jpg"></a>
+
+August 16, 2017 - With so many dedicated to solving nature's riddles at CERN, it's hard not to think of it as a modern cathedral, a link between reason and mystery, a place of pilgrimage, says blogger Marcelo Gleiser.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds">http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/istock-472001299_wide-eebb768d66e3428593a93cdaac5b7eedac0ca94b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</guid>
       <title>Here&#39;s What You Need To Know About The Total Solar Eclipse</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</link>
       <description>August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</description>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/ap_08080106560_wide-becd7896ef420812be9e44aa3936a19af45acf39-s800-c15.jpg"></a>
 
 August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse">http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/ap_08080106560_wide-becd7896ef420812be9e44aa3936a19af45acf39-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ August 13, 2017 - The number of vultures in South Asia has plummeted. But "resta
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore">http://www.npr.org/sections/goatsandsoda/2017/08/13/541138366/people-in-nepal-used-to-think-vultures-were-bad-luck-not-anymore</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/02/gettyimages-90063553_wide-b5449f30d33b8b037741875906d159ca3be45224-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170812_wesat_malware_and_dna_sequencing.mp3?orgId=1&amp;topicId=1024&amp;d=241&amp;p=7&amp;story=542998566&amp;t=progseg&amp;e=542998533&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Researchers: Hackers Could Encode Human DNA With Malicious Software</title>
-      <link>http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software</link>
-      <description>August 12, 2017 - University of Washington researchers say malware could be encoded into DNA strands. NPR&#39;s Scott Simon speaks to researcher Karl Koscher about the findings and what they mean for gene sequencing.</description>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170812_wesat_malware_and_dna_sequencing.mp3?orgId=1&amp;topicId=1024&amp;d=241&amp;p=7&amp;story=542998566&amp;t=progseg&amp;e=542998533&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 12, 2017 - University of Washington researchers say malware could be encoded into DNA strands. NPR's Scott Simon speaks to researcher Karl Koscher about the findings and what they mean for gene sequencing.
-
-<a href="http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software">http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>241</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
