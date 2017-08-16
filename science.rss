@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 14:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 15:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 14:15:06 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 15:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</guid>
+      <title>Here&#39;s What You Need To Know About The Total Solar Eclipse</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</link>
+      <description>August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s800-c15.jpg"></a>
+
+August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse">http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/16/543532422/how-eclipses-changed-history</guid>
       <title>How Eclipses Changed History</title>
@@ -237,21 +252,6 @@ August 13, 2017 - The number of vultures in South Asia has plummeted. But "resta
 <a href="http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software">http://www.npr.org/2017/08/12/542998566/researchers-hackers-could-encode-human-dna-with-malicious-software</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>241</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170811_atc_40_years_ago_nasa_launched_message_to_aliens_into_deep_space.mp3?orgId=1&amp;topicId=1026&amp;d=239&amp;p=2&amp;story=542867050&amp;t=progseg&amp;e=542756640&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>40 Years Ago, NASA Launched Message To Aliens Into Deep Space</title>
-      <link>http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</link>
-      <description>August 11, 2017 - Forty years ago, NASA launched two Voyager spacecraft into deep space. Onboard both were gold discs with music, greetings and sounds from Earth — a message to aliens. Ann Druyan, the creative director of the project, talks about how they decided what message to put in the interstellar bottle.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170811_atc_40_years_ago_nasa_launched_message_to_aliens_into_deep_space.mp3?orgId=1&amp;topicId=1026&amp;d=239&amp;p=2&amp;story=542867050&amp;t=progseg&amp;e=542756640&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 11, 2017 - Forty years ago, NASA launched two Voyager spacecraft into deep space. Onboard both were gold discs with music, greetings and sounds from Earth — a message to aliens. Ann Druyan, the creative director of the project, talks about how they decided what message to put in the interstellar bottle.
-
-<a href="http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space">http://www.npr.org/2017/08/11/542867050/40-years-ago-nasa-launched-message-to-aliens-into-deep-space</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>239</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

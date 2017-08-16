@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 03:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 15:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 03:00:27 +0000</pubDate>
+    <pubDate>Wed, 16 Aug 2017 15:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</guid>
+      <title>Here&#39;s What You Need To Know About The Total Solar Eclipse</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</link>
+      <description>August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s800-c15.jpg"></a>
+
+August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse">http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/solareclipse_wide-293b534365ee363c7aeebe7cadddc8335d9265c7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/15/543782396/doj-demands-files-on-anti-trump-activists-and-a-web-hosting-company-resists</guid>
       <title>DOJ Demands Files On Anti-Trump Activists, And A Web Hosting Company Resists</title>
@@ -245,21 +260,6 @@ August 10, 2017 - Weird things started to happen as people showed up to vote in 
 <a href="http://www.npr.org/2017/08/10/542634370/russian-cyberattack-targeted-elections-vendor-tied-to-voting-day-disruptions">http://www.npr.org/2017/08/10/542634370/russian-cyberattack-targeted-elections-vendor-tied-to-voting-day-disruptions</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-621769514_wide-c05089efadaafa92ee50d659c67fff6203e0794b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>334</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</guid>
-      <title>Facebook Watch Is Company&#39;s New Plan For Online Video</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</link>
-      <description>August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an online video space — and compete with YouTube and other networks for ad revenue.</description>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/facebook-watch-watchlist_wide-2d298a913d2e78c001a1c6614974637af7490aa4-s800-c15.jpg"></a>
-
-August 10, 2017 - With nearly 2 billion users, Facebook could further disrupt an online video space — and compete with YouTube and other networks for ad revenue.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video">http://www.npr.org/sections/thetwo-way/2017/08/10/542625208/facebook-watch-is-companys-new-plan-for-online-video</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/facebook-watch-watchlist_wide-2d298a913d2e78c001a1c6614974637af7490aa4-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
