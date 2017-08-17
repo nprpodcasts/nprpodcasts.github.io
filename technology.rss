@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 18:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 19:28:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 18:00:07 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 19:28:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</guid>
+      <title>Turning To VPNs For Online Privacy? You Might Be Putting Your Data At Risk</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</link>
+      <description>August 17, 2017 - With Internet providers able to track and sell your browsing data, people who want to keep their activity hidden are turning to virtual private networks. But VPNs can themselves be insecure.</description>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s800-c15.jpg"></a>
+
+August 17, 2017 - With Internet providers able to track and sell your browsing data, people who want to keep their activity hidden are turning to virtual private networks. But VPNs can themselves be insecure.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk">http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</guid>
       <title>Kyle Quinn Hid At A Friend&#39;s House After Being Misidentified On Twitter As A Racist</title>
@@ -131,9 +146,9 @@ August 15, 2017 - The "Yes, You're Racist" Twitter account uses crowdsourcing to
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</guid>
       <title>British Cybersecurity Expert Pleads Not Guilty To Federal Malware Charges</title>
-      <link>http://www.npr.org/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</link>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</link>
       <description>August 14, 2017 - Before these allegations, 23-year-old Marcus Hutchins was known for his role in finding the kill switch to the WannaCry ransomware cyber-attack last May. He is accused of creating a malware scheme.</description>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
@@ -141,7 +156,7 @@ August 15, 2017 - The "Yes, You're Racist" Twitter account uses crowdsourcing to
 
 August 14, 2017 - Before these allegations, 23-year-old Marcus Hutchins was known for his role in finding the kill switch to the WannaCry ransomware cyber-attack last May. He is accused of creating a malware scheme.
 
-<a href="http://www.npr.org/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges">http://www.npr.org/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</a>]]></itunes:summary>
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges">http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/ap_17225848789498_wide-bf27aa94af200db92a9ee51af840833e1f2554ab-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -239,21 +254,6 @@ August 13, 2017 - It sounds so simple: Order a kit online, test for sexually tra
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you">http://www.npr.org/sections/health-shots/2017/08/13/536905120/you-can-order-a-dozen-std-tests-online-but-should-you</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/12/mylab-1_wide-fb33b676a6802cc12c176f8c5547a5eded36b0ca-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</guid>
-      <title>SoundCloud Saved By The Bell Of A Big Chunk Of Financing</title>
-      <link>http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</link>
-      <description>August 11, 2017 - After a noisy month in the press and a significant round of layoffs, SoundCloud announced today it had secured its largest round of financing to date, ending speculation of its demise (for now).</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/11/gettyimages-527596840_wide-9b1bd1f43ba772bae1530bc3294263857dbf3b0e-s800-c15.jpg"></a>
-
-August 11, 2017 - After a noisy month in the press and a significant round of layoffs, SoundCloud announced today it had secured its largest round of financing to date, ending speculation of its demise (for now).
-
-<a href="http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing">http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-527596840_wide-9b1bd1f43ba772bae1530bc3294263857dbf3b0e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
