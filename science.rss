@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 15:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 16:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 15:00:15 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 16:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos</guid>
+      <title>Bears Can Face Summer Challenges In Roadside Zoos</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos</link>
+      <description>August 17, 2017 - Even when the Animal Welfare Act is followed, bears may not live in conditions that many would find reasonable for such large, intelligent animals to flourish, says anthropologist Barbara J. King.</description>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/17/istock-140450813_wide-270c0979e52e05d6bcc7e64a46617b1895c58357-s800-c15.jpg"></a>
+
+August 17, 2017 - Even when the Animal Welfare Act is followed, bears may not live in conditions that many would find reasonable for such large, intelligent animals to flourish, says anthropologist Barbara J. King.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos">http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/istock-140450813_wide-270c0979e52e05d6bcc7e64a46617b1895c58357-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/17/543902701/chemists-say-you-should-add-a-little-water-to-your-whisky-here-s-why</guid>
       <title>Chemists Say You Should Add A Little Water To Your Whiskey. Here&#39;s Why</title>
@@ -237,21 +252,6 @@ August 15, 2017 - New research suggests there is space on the open ocean to farm
 
 <a href="http://www.npr.org/2017/08/15/543675398/can-we-feed-the-world-with-farmed-fish">http://www.npr.org/2017/08/15/543675398/can-we-feed-the-world-with-farmed-fish</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/nets-1_wide-01c3b5ebd0d717bd50433e402fd75dc5e35d6f44-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</guid>
-      <title>In The Event Of A Nuclear Blast, Don&#39;t Condition Your Hair</title>
-      <link>http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</link>
-      <description>August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s800-c15.jpg"></a>
-
-August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.
-
-<a href="http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair">http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
