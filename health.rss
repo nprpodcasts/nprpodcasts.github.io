@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 06:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 14:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 06:00:18 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 14:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170817_me_many_nurses_lack_knowledge_of_health_risks_to_mothers_after_childbirth.mp3?orgId=199135797&amp;topicId=1128&amp;aggIds=543928389&amp;d=414&amp;p=3&amp;story=543924405&amp;t=progseg&amp;e=544081010&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Many Nurses Lack Knowledge Of Health Risks To Mothers After Childbirth</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth</link>
+      <description>August 17, 2017 - A nationwide survey shows that postpartum nurses often fail to warn mothers about potentially life-threatening complications following childbirth, mainly because they need more education themselves.</description>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170817_me_many_nurses_lack_knowledge_of_health_risks_to_mothers_after_childbirth.mp3?orgId=199135797&amp;topicId=1128&amp;aggIds=543928389&amp;d=414&amp;p=3&amp;story=543924405&amp;t=progseg&amp;e=544081010&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/gettyimages-528840679_wide-5d8d73a1385977a19182476f8333c34c52e287c9-s800-c15.jpg"></a>
+
+August 17, 2017 - A nationwide survey shows that postpartum nurses often fail to warn mothers about potentially life-threatening complications following childbirth, mainly because they need more education themselves.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth">http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/gettyimages-528840679_wide-5d8d73a1385977a19182476f8333c34c52e287c9-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>414</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren</guid>
       <title>Federal Appeals Court Says Arkansas Can Block Medicaid Payments To Planned Parenthood</title>
@@ -241,23 +258,6 @@ August 15, 2017 - Even after a Harvard team took into account differences in age
 <a href="http://www.npr.org/2017/08/14/543477483/after-mastectomy-young-womans-tattoo-helps-her-feel-whole-again">http://www.npr.org/2017/08/14/543477483/after-mastectomy-young-womans-tattoo-helps-her-feel-whole-again</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>380</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170814_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2156&amp;p=13&amp;story=543362834&amp;t=progseg&amp;e=543365171&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Poet Imagines Life Inside A 1910 Institution That Eugenics Built</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/14/543362834/poet-imagines-life-inside-a-1910-institution-that-eugenics-built</link>
-      <description>August 14, 2017 - Molly McCully Brown, who has cerebral palsy, says that if she&#39;d been born in a different era, she might have been sent to the &#34;Virginia State Colony,&#34; an early landmark of the U.S. eugenics movement.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170814_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2156&amp;p=13&amp;story=543362834&amp;t=progseg&amp;e=543365171&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/14/brownmollymccully2_wide-9dafd21622efb4b65828dec5ffb0a3ab9f1b8f0d-s800-c15.jpg"></a>
-
-August 14, 2017 - Molly McCully Brown, who has cerebral palsy, says that if she'd been born in a different era, she might have been sent to the "Virginia State Colony," an early landmark of the U.S. eugenics movement.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/14/543362834/poet-imagines-life-inside-a-1910-institution-that-eugenics-built">http://www.npr.org/sections/health-shots/2017/08/14/543362834/poet-imagines-life-inside-a-1910-institution-that-eugenics-built</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/brownmollymccully2_wide-9dafd21622efb4b65828dec5ffb0a3ab9f1b8f0d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>2156</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
