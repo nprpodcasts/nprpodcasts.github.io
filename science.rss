@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 15:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 14:00:22 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 15:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -165,6 +165,21 @@ August 16, 2017 - With so many dedicated to solving nature's riddles at CERN, it
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170816.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>United By The Sun: A Solar Event For All Americans To Share (Rebroadcast)</title>
+      <link>http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</link>
+      <description>August 16, 2017 - Skywatchers and astrophysicists are already gearing up for next month&#39;s &#34;Great American Solar Eclipse.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</description>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170816.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 16, 2017 - Skywatchers and astrophysicists are already gearing up for next month's "Great American Solar Eclipse."
+
+<a href="http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast">http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</guid>
       <title>Here&#39;s What You Need To Know About The Total Solar Eclipse</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</link>
@@ -237,21 +252,6 @@ August 15, 2017 - That advice came in guidelines issued to residents of Guam on 
 
 <a href="http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair">http://www.npr.org/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</guid>
-      <title>Science, Solitude And The Sacred On The Appalachian Trail</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</link>
-      <description>August 15, 2017 - There is no greater source for science, for the inspiration to do science, than the wild; that is where the sense of sacredness at the root of science&#39;s aspiration lives, says blogger Adam Frank.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/istock-476579840_wide-367be3258a55f6b11d680f7cbbde43b4b6ce4853-s800-c15.jpg"></a>
-
-August 15, 2017 - There is no greater source for science, for the inspiration to do science, than the wild; that is where the sense of sacredness at the root of science's aspiration lives, says blogger Adam Frank.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail">http://www.npr.org/sections/13.7/2017/08/15/543667558/science-solitude-and-the-sacred-on-the-appalachian-trail</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/istock-476579840_wide-367be3258a55f6b11d680f7cbbde43b4b6ce4853-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
