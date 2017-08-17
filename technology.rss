@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 21:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 22:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 21:00:17 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 22:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,24 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_silicon_valley_fights_back_against_extremism_online.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;p=2&amp;story=544259690&amp;t=progseg&amp;e=544103509&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Silicon Valley Fights Back Against Extremism Online</title>
       <link>http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online</link>
       <description>August 17, 2017 - Companies are waging a broad attack against white supremacist groups, cutting off their ability to raise money, post content or register their sites online. These moves are not unprecedented, but this muscle flexing raises a lot of questions — not just about free speech, but also about due process and who controls the Internet.</description>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_silicon_valley_fights_back_against_extremism_online.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;p=2&amp;story=544259690&amp;t=progseg&amp;e=544103509&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 17, 2017 - Companies are waging a broad attack against white supremacist groups, cutting off their ability to raise money, post content or register their sites online. These moves are not unprecedented, but this muscle flexing raises a lot of questions — not just about free speech, but also about due process and who controls the Internet.
 
 <a href="http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online">http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>221</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_turning_to_vpns_for_online_privacy_you_might_be_putting_your_data_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=246&amp;p=2&amp;story=543716811&amp;t=progseg&amp;e=544103509&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Turning To VPNs For Online Privacy? You Might Be Putting Your Data At Risk</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</link>
       <description>August 17, 2017 - With Internet providers able to track and sell your browsing data, people who want to keep their activity hidden are turning to virtual private networks. But VPNs can themselves be insecure.</description>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_turning_to_vpns_for_online_privacy_you_might_be_putting_your_data_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=246&amp;p=2&amp;story=543716811&amp;t=progseg&amp;e=544103509&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s800-c15.jpg"></a>
 
@@ -49,14 +52,16 @@ August 17, 2017 - With Internet providers able to track and sell your browsing d
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk">http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>246</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_kyle_quinn_hid_at_a_friends_house_after_being_misidentified_on_twitter_as_a_racist.mp3?orgId=1&amp;topicId=1019&amp;d=211&amp;p=2&amp;story=543980653&amp;t=progseg&amp;e=544103509&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Kyle Quinn Hid At A Friend&#39;s House After Being Misidentified On Twitter As A Racist</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</link>
       <description>August 17, 2017 - A University of Arkansas professor falsely identified as a participant in a white supremacist rally in Charlottesville says the online reaction was frightening and felt like being chased by a mob.</description>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_kyle_quinn_hid_at_a_friends_house_after_being_misidentified_on_twitter_as_a_racist.mp3?orgId=1&amp;topicId=1019&amp;d=211&amp;p=2&amp;story=543980653&amp;t=progseg&amp;e=544103509&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/16/kyle_quinn2_wide-cb9475d8f9554c7fca78c46bd7871789295197bf-s800-c15.jpg"></a>
 
@@ -64,6 +69,7 @@ August 17, 2017 - A University of Arkansas professor falsely identified as a par
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac">http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/kyle_quinn2_wide-cb9475d8f9554c7fca78c46bd7871789295197bf-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>211</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
