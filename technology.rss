@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 17:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 16 Aug 2017 22:00:07 +0000</pubDate>
+    <pubDate>Thu, 17 Aug 2017 17:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</guid>
+      <title>Kyle Quinn Hid At A Friend&#39;s House After Being Misidentified On Twitter As A Racist</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</link>
+      <description>August 17, 2017 - A University of Arkansas professor falsely identified as a participant in a white supremacist rally in Charlottesville says the online reaction was frightening and felt like being chased by a mob.</description>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/16/kyle_quinn2_wide-cb9475d8f9554c7fca78c46bd7871789295197bf-s800-c15.jpg"></a>
+
+August 17, 2017 - A University of Arkansas professor falsely identified as a participant in a white supremacist rally in Charlottesville says the online reaction was frightening and felt like being chased by a mob.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac">http://www.npr.org/sections/alltechconsidered/2017/08/17/543980653/kyle-quinn-hid-at-a-friend-s-house-after-being-misidentified-on-twitter-as-a-rac</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/kyle_quinn2_wide-cb9475d8f9554c7fca78c46bd7871789295197bf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_dreamhost_challenges_department_of_justice_anti-trump_records_request.mp3?orgId=1&amp;topicId=1014&amp;d=253&amp;p=2&amp;story=543973265&amp;t=progseg&amp;e=543840412&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Dreamhost Challenges Department Of Justice Anti-Trump Records Request</title>
@@ -239,23 +254,6 @@ August 11, 2017 - After a noisy month in the press and a significant round of la
 
 <a href="http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing">http://www.npr.org/sections/therecord/2017/08/11/542817301/soundcloud-saved-by-the-bell-of-a-big-chunk-of-financing</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/gettyimages-527596840_wide-9b1bd1f43ba772bae1530bc3294263857dbf3b0e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=693&amp;p=57&amp;story=541644282&amp;t=progseg&amp;e=535044918&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Sal Khan: Can Technology Help Create A Global Classroom?</title>
-      <link>http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom</link>
-      <description>August 11, 2017 - Sal Khan turned tutoring lessons with his cousins into a series of free educational videos called Khan Academy. His goal: to make learning accessible for everyone, everywhere.</description>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170810_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=693&amp;p=57&amp;story=541644282&amp;t=progseg&amp;e=535044918&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/10/salmankhan_2011-embed_wide-756bec75d667031a12730b5b65e27f0b72391323-s800-c15.jpg"></a>
-
-August 11, 2017 - Sal Khan turned tutoring lessons with his cousins into a series of free educational videos called Khan Academy. His goal: to make learning accessible for everyone, everywhere.
-
-<a href="http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom">http://www.npr.org/2017/08/11/541644282/sal-khan-can-technology-help-create-a-global-classroom</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/salmankhan_2011-embed_wide-756bec75d667031a12730b5b65e27f0b72391323-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>693</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
