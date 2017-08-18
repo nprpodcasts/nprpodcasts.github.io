@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 22:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 20:00:19 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 22:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</guid>
+      <title>Be Smart: A Partial Eclipse Can Fry Your Naked Eyes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</link>
+      <description>August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you&#39;re not in the &#34;path of totality,&#34; take precautions if you plan to watch.</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s800-c15.jpg"></a>
+
+August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you're not in the "path of totality," take precautions if you plan to watch.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</guid>
       <title>Is AI More Threatening Than North Korean Missiles?</title>
@@ -241,21 +256,6 @@ August 16, 2017 - With so many dedicated to solving nature's riddles at CERN, it
 
 <a href="http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds">http://www.npr.org/sections/13.7/2017/08/16/543928634/at-cern-hunting-for-invisible-worlds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/istock-472001299_wide-eebb768d66e3428593a93cdaac5b7eedac0ca94b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170816.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>United By The Sun: A Solar Event For All Americans To Share (Rebroadcast)</title>
-      <link>http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</link>
-      <description>August 16, 2017 - Skywatchers and astrophysicists are already gearing up for next month&#39;s &#34;Great American Solar Eclipse.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170816.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 16, 2017 - Skywatchers and astrophysicists are already gearing up for next month's "Great American Solar Eclipse."
-
-<a href="http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast">http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2831</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 21:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 22:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 21:00:20 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 22:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</guid>
+      <title>Be Smart: A Partial Eclipse Can Fry Your Naked Eyes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</link>
+      <description>August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you&#39;re not in the &#34;path of totality,&#34; take precautions if you plan to watch.</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s800-c15.jpg"></a>
+
+August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you're not in the "path of totality," take precautions if you plan to watch.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</guid>
       <title>Iconic Plague Images Are Often Not What They Seem</title>
@@ -243,21 +258,6 @@ August 15, 2017 - Since Congress hasn't passed a fix, employers who offer genero
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes">http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/money_wide-49f4dabe8d59ff4cac5ed764c588640c1eb52c0c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</guid>
-      <title>In The Event Of A Nuclear Blast, Don&#39;t Condition Your Hair</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</link>
-      <description>August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s800-c15.jpg"></a>
-
-August 15, 2017 - That advice came in guidelines issued to residents of Guam on how to prepare for a missile threat on the island. The reason is conditioner can trap radioactive particles in strands of hair.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair">http://www.npr.org/sections/health-shots/2017/08/15/543647878/in-the-event-of-a-nuclear-blast-don-t-condition-your-hair</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-85274388-2_wide-3281c255d72b2496677e8526f402a8ed803a7bf6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
