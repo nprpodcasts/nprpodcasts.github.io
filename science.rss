@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 12:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 18:19:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 12:00:15 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 18:19:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</guid>
+      <title>Is AI More Threatening Than North Korean Missiles?</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</link>
+      <description>August 18, 2017 - Tesla CEO Elon Musk last week warned that AI is an enormous threat. There can be no doubt that the advent of smart, rather than smart-ish, machines, is a long way off, though, says blogger Alva Noë.</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/18/ap_16294097808683_wide-c175e466580a9d470d293f74342f63c089ed23eb-s800-c15.jpg"></a>
+
+August 18, 2017 - Tesla CEO Elon Musk last week warned that AI is an enormous threat. There can be no doubt that the advent of smart, rather than smart-ish, machines, is a long way off, though, says blogger Alva Noë.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles">http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/18/ap_16294097808683_wide-c175e466580a9d470d293f74342f63c089ed23eb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_a_first_look_inside_the_lab_where_scientists_are_editing_dna_in_human_embryos.mp3?orgId=1&amp;topicId=1007&amp;d=422&amp;p=3&amp;story=543769759&amp;t=progseg&amp;e=544362389&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Exclusive: Inside The Lab Where Scientists Are Editing DNA In Human Embryos</title>
@@ -41,12 +56,12 @@ August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where sc
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_california_prepares_for_an_eclipse_of_its_solar_power.mp3?orgId=150&amp;topicId=1131&amp;d=183&amp;p=3&amp;story=543462652&amp;t=progseg&amp;e=544362389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_california_prepares_for_an_eclipse_of_its_solar_power.mp3?orgId=150&amp;topicId=1131&amp;d=182&amp;p=3&amp;story=543462652&amp;t=progseg&amp;e=544362389&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>California Prepares For An Eclipse Of Its Solar Power</title>
       <link>http://www.npr.org/2017/08/18/543462652/california-prepares-for-an-eclipse-of-its-solar-power</link>
       <description>August 18, 2017 - On a sunny day, California gets up to 40 percent of its energy from solar power, so Monday&#39;s total eclipse isn&#39;t just a scientific spectacle, it&#39;s a major concern for the state&#39;s power grid.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_california_prepares_for_an_eclipse_of_its_solar_power.mp3?orgId=150&amp;topicId=1131&amp;d=183&amp;p=3&amp;story=543462652&amp;t=progseg&amp;e=544362389&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_california_prepares_for_an_eclipse_of_its_solar_power.mp3?orgId=150&amp;topicId=1131&amp;d=182&amp;p=3&amp;story=543462652&amp;t=progseg&amp;e=544362389&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/gettyimages-463127890_wide-6bf1cb37c7013e60989a899b06aa0859e8df7cf4-s800-c15.jpg"></a>
 
@@ -54,7 +69,7 @@ August 18, 2017 - On a sunny day, California gets up to 40 percent of its energy
 
 <a href="http://www.npr.org/2017/08/18/543462652/california-prepares-for-an-eclipse-of-its-solar-power">http://www.npr.org/2017/08/18/543462652/california-prepares-for-an-eclipse-of-its-solar-power</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/gettyimages-463127890_wide-6bf1cb37c7013e60989a899b06aa0859e8df7cf4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>183</itunes:duration>
+      <itunes:duration>182</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ August 16, 2017 - With so many dedicated to solving nature's riddles at CERN, it
 <a href="http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast">http://the1a.org/shows/2017-08-16/united-by-the-sun-a-solar-event-for-all-americans-to-share-rebroadcast</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2831</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</guid>
-      <title>Here&#39;s What You Need To Know About The Total Solar Eclipse</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</link>
-      <description>August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/ap_08080106560_wide-becd7896ef420812be9e44aa3936a19af45acf39-s800-c15.jpg"></a>
-
-August 16, 2017 - As America prepares for the eclipse on Aug. 21, here are some basic facts about the phenomenon.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse">http://www.npr.org/sections/thetwo-way/2017/08/16/541132645/heres-what-you-need-to-know-about-the-total-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/ap_08080106560_wide-becd7896ef420812be9e44aa3936a19af45acf39-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

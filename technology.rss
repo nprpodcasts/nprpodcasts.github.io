@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 18:19:55 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 13:00:25 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 18:19:55 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</guid>
+      <title>Is AI More Threatening Than North Korean Missiles?</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</link>
+      <description>August 18, 2017 - Tesla CEO Elon Musk last week warned that AI is an enormous threat. There can be no doubt that the advent of smart, rather than smart-ish, machines, is a long way off, though, says blogger Alva Noë.</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/18/ap_16294097808683_wide-c175e466580a9d470d293f74342f63c089ed23eb-s800-c15.jpg"></a>
+
+August 18, 2017 - Tesla CEO Elon Musk last week warned that AI is an enormous threat. There can be no doubt that the advent of smart, rather than smart-ish, machines, is a long way off, though, says blogger Alva Noë.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles">http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/18/ap_16294097808683_wide-c175e466580a9d470d293f74342f63c089ed23eb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_tech_companies_blacklist_white_supremacist_site.mp3?orgId=1&amp;topicId=1049&amp;d=233&amp;p=3&amp;story=544365040&amp;t=progseg&amp;e=544362389&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Tech Companies Blacklist White Supremacist Site</title>
@@ -241,23 +256,6 @@ August 14, 2017 - Both Google and GoDaddy have now banned the Daily Stormer site
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally">http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/tango_wide-2871b4a554d6e642d94f026c9a1d8eebe6ba8ba5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_n_germany_churchgoers_are_encouraged_to_tweet_from_the_pews.mp3?orgId=1&amp;topicId=1019&amp;d=212&amp;p=3&amp;story=542861104&amp;t=progseg&amp;e=543338920&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Germany, Churchgoers Are  Encouraged To Tweet From The Pews</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews</link>
-      <description>August 14, 2017 - As it celebrates 500 years since Martin Luther and the Reformation, the Protestant church in Germany is turning to social media to reach those too busy to attend.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170814_me_n_germany_churchgoers_are_encouraged_to_tweet_from_the_pews.mp3?orgId=1&amp;topicId=1019&amp;d=212&amp;p=3&amp;story=542861104&amp;t=progseg&amp;e=543338920&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/11/tweet-church_wide-9b52358fe0c0066a3f453f1afbb2bf56f5a0c248-s800-c15.jpg"></a>
-
-August 14, 2017 - As it celebrates 500 years since Martin Luther and the Reformation, the Protestant church in Germany is turning to social media to reach those too busy to attend.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews">http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/tweet-church_wide-9b52358fe0c0066a3f453f1afbb2bf56f5a0c248-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
