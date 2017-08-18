@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 10:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 11:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 10:00:15 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 11:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_a_first_look_inside_the_lab_where_scientists_are_editing_dna_in_human_embryos.mp3?orgId=1&amp;topicId=1007&amp;d=422&amp;p=3&amp;story=543769759&amp;t=progseg&amp;e=544362389&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>A First Look: Inside The Lab Where Scientists Are Editing DNA In Human Embryos</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</link>
       <description>August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where scientists have begun editing the DNA in human embryos to try to prevent genetic diseases.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_a_first_look_inside_the_lab_where_scientists_are_editing_dna_in_human_embryos.mp3?orgId=1&amp;topicId=1007&amp;d=422&amp;p=3&amp;story=543769759&amp;t=progseg&amp;e=544362389&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s800-c15.jpg"></a>
 
@@ -36,6 +37,7 @@ August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where sc
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos">http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
