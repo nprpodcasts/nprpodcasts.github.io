@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 22:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 10:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 22:00:06 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 10:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site</guid>
+      <title>Tech Companies Blacklist White Supremacist Site</title>
+      <link>http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site</link>
+      <description>August 18, 2017 - The neo-Nazi website The Daily Stormer has been essentially purged from the Internet following the white supremacist violence in Charlottesville.&#xA;&#xA; - http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 18, 2017 - The neo-Nazi website The Daily Stormer has been essentially purged from the Internet following the white supremacist violence in Charlottesville.
+
+<a href="http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site">http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_silicon_valley_fights_back_against_extremism_online.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;p=2&amp;story=544259690&amp;t=progseg&amp;e=544103509&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Silicon Valley Fights Back Against Extremism Online</title>
@@ -243,21 +256,6 @@ August 14, 2017 - As it celebrates 500 years since Martin Luther and the Reforma
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews">http://www.npr.org/sections/alltechconsidered/2017/08/14/542861104/in-germany-churchgoers-are-encouraged-to-tweet-from-the-pews</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/11/tweet-church_wide-9b52358fe0c0066a3f453f1afbb2bf56f5a0c248-s3000-c15.jpg"></itunes:image>
       <itunes:duration>212</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/13/542809000/ashes-to-ashes-dust-to-interactive-biodegradable-funerary-urns</guid>
-      <title>Ashes to Ashes, Dust to ... Interactive Biodegradable Funerary Urns?</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/13/542809000/ashes-to-ashes-dust-to-interactive-biodegradable-funerary-urns</link>
-      <description>August 13, 2017 - Technology is fundamentally changing how we deal with death, memorials and human remains. One of the latest examples: A startup offers a smartphone-connected urn where ashes are used to grow a tree.</description>
-      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/11/incube-1_wide-d74fa69af2984006f592f5c34766728c8720cb0f-s800-c15.jpg"></a>
-
-August 13, 2017 - Technology is fundamentally changing how we deal with death, memorials and human remains. One of the latest examples: A startup offers a smartphone-connected urn where ashes are used to grow a tree.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/13/542809000/ashes-to-ashes-dust-to-interactive-biodegradable-funerary-urns">http://www.npr.org/sections/alltechconsidered/2017/08/13/542809000/ashes-to-ashes-dust-to-interactive-biodegradable-funerary-urns</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/11/incube-1_wide-d74fa69af2984006f592f5c34766728c8720cb0f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

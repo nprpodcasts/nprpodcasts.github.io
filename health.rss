@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 19:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 10:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 17 Aug 2017 19:28:25 +0000</pubDate>
+    <pubDate>Fri, 18 Aug 2017 10:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</guid>
+      <title>A First Look: Inside The Lab Where Scientists Are Editing DNA In Human Embryos</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</link>
+      <description>August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where scientists have begun editing the DNA in human embryos to try to prevent genetic diseases.</description>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s800-c15.jpg"></a>
+
+August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where scientists have begun editing the DNA in human embryos to try to prevent genetic diseases.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos">http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/17/543881184/as-rain-keeps-falling-sierra-leone-scrambles-to-find-mudslide-survivors</guid>
       <title>As Rain Keeps Falling, Sierra Leone Scrambles To Find Mudslide Survivors </title>
@@ -241,23 +256,6 @@ August 15, 2017 - A study compares surgeries performed by Doctors Without Border
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad">http://www.npr.org/sections/goatsandsoda/2017/08/15/542797397/why-u-s-trained-surgeons-arent-ready-for-humanitarian-work-abroad</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-485249689-50_wide-e5c7e19c8eadddb1c224b4e99247d40f664a1db0-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>6,000-Year-Old Knee Joints Suggest Osteoarthritis Isn&#39;t Just Wear And Tear</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</link>
-      <description>August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170815_me_6000-year-old_knee_joints_suggest_osteoarthritis_isnt_just_wear_and_tear.mp3?orgId=1&amp;topicId=1128&amp;d=231&amp;p=3&amp;story=543402095&amp;t=progseg&amp;e=543583421&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s800-c15.jpg"></a>
-
-August 15, 2017 - Even after a Harvard team took into account differences in age and weight among ancient specimens and knees today, they found that modern humans tend to have more osteoarthritis.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees">http://www.npr.org/sections/health-shots/2017/08/15/543402095/creaky-knees</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/scisource_ba9695_wide-d28fe8e09d8b0c689ba6b709ace9393054073c6e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>231</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
