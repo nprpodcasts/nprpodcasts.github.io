@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 22:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 13:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 22:00:08 +0000</pubDate>
+    <pubDate>Sun, 20 Aug 2017 13:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/20/542424977/getting-to-the-core-of-exercises-said-to-strengthen-mum-tum</guid>
+      <title>Getting To The Core Of Exercises Said To Strengthen &#39;Mum Tum&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/20/542424977/getting-to-the-core-of-exercises-said-to-strengthen-mum-tum</link>
+      <description>August 20, 2017 - NPR listeners had lots of questions after our story about diastasis recti, a medical condition of abdominal muscles that&#39;s common among new moms. Many wanted to know more about how to fix the problem.</description>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/18/exercising-moves-2_wide-46de2e78da1c16ccdbcce86448894342a9f8b859-s800-c15.jpg"></a>
+
+August 20, 2017 - NPR listeners had lots of questions after our story about diastasis recti, a medical condition of abdominal muscles that's common among new moms. Many wanted to know more about how to fix the problem.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/20/542424977/getting-to-the-core-of-exercises-said-to-strengthen-mum-tum">http://www.npr.org/sections/health-shots/2017/08/20/542424977/getting-to-the-core-of-exercises-said-to-strengthen-mum-tum</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/18/exercising-moves-2_wide-46de2e78da1c16ccdbcce86448894342a9f8b859-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</guid>
       <title>Be Smart: A Partial Eclipse Can Fry Your Naked Eyes</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</link>
       <description>August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you&#39;re not in the &#34;path of totality,&#34; take precautions if you plan to watch.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s800-c15.jpg"></a>
 
 August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you're not in the "path of totality," take precautions if you plan to watch.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-660acb54f525faafed4f644f17a5142809e39257-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ August 15, 2017 - The Congressional Budget Office estimates that ending what's k
 <a href="http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies">http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/cbo1_wide-714a1a3d676360ea58a803e4871325b8ceb8f8e9-s3000-c15.jpg"></itunes:image>
       <itunes:duration>214</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</guid>
-      <title>Can My Boss Make Me Pay The Tax On My Great Health Plan? Maybe Yes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</link>
-      <description>August 15, 2017 - Since Congress hasn&#39;t passed a fix, employers who offer generous health care plans may look to shift the tax burden to employees if the so-called &#34;Cadillac tax&#34; kicks in.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/money_wide-49f4dabe8d59ff4cac5ed764c588640c1eb52c0c-s800-c15.jpg"></a>
-
-August 15, 2017 - Since Congress hasn't passed a fix, employers who offer generous health care plans may look to shift the tax burden to employees if the so-called "Cadillac tax" kicks in.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes">http://www.npr.org/sections/health-shots/2017/08/14/543518973/can-my-boss-make-me-pay-the-tax-on-my-great-health-plan-maybe-yes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/money_wide-49f4dabe8d59ff4cac5ed764c588640c1eb52c0c-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2017 18:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 13:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 18 Aug 2017 18:19:55 +0000</pubDate>
+    <pubDate>Sun, 20 Aug 2017 13:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says</guid>
+      <title>Russian Bots Tweeting Calls To Fire McMaster, Former FBI Agent Says</title>
+      <link>http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says</link>
+      <description>August 20, 2017 - An online tracker developed by former FBI agent Clint Watts has identified Russian bots as responsible for many tweets urging the firing of National Security Adviser H.R. McMaster.</description>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 20, 2017 - An online tracker developed by former FBI agent Clint Watts has identified Russian bots as responsible for many tweets urging the firing of National Security Adviser H.R. McMaster.
+
+<a href="http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says">http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/18/544061771/is-ai-more-threatening-than-north-korean-missiles</guid>
       <title>Is AI More Threatening Than North Korean Missiles?</title>
@@ -241,21 +254,6 @@ August 14, 2017 - As our houses fill with the Internet of things, sensors will t
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/541699733/our-homes-may-get-smarter-but-have-we-thought-it-through">http://www.npr.org/sections/alltechconsidered/2017/08/14/541699733/our-homes-may-get-smarter-but-have-we-thought-it-through</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/07/gierad_laput_cmu_sensor_iot_wide-16c52119079747475e60911ba34baf4996e53971-s3000-c15.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally</guid>
-      <title>Neo-Nazi Site Daily Stormer Is Banned By Google After Attempted Move From GoDaddy</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally</link>
-      <description>August 14, 2017 - Both Google and GoDaddy have now banned the Daily Stormer site, after it published a story mocking protester Heather Heyer&#39;s death in Charlottesville, Va.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/tango_wide-2871b4a554d6e642d94f026c9a1d8eebe6ba8ba5-s800-c15.jpg"></a>
-
-August 14, 2017 - Both Google and GoDaddy have now banned the Daily Stormer site, after it published a story mocking protester Heather Heyer's death in Charlottesville, Va.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally">http://www.npr.org/sections/thetwo-way/2017/08/14/543360434/white-supremacist-site-is-banned-by-go-daddy-after-virginia-rally</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/tango_wide-2871b4a554d6e642d94f026c9a1d8eebe6ba8ba5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
