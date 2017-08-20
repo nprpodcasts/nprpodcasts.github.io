@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2017 15:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 23:06:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 20 Aug 2017 15:17:22 +0000</pubDate>
+    <pubDate>Sun, 20 Aug 2017 23:06:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_words_youll_hear_eclipse_cheap_seats.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=2&amp;story=544886650&amp;t=progseg&amp;e=544882080&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Words You&#39;ll Hear: Eclipse Cheap Seats</title>
+      <link>http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats</link>
+      <description>August 20, 2017 - A total eclipse sweeps the U.S. on Monday. But most will see a partial eclipse. The question is: Is an 80 or even a 90 percent eclipse worth it? Or should people make the extra effort to see totality?</description>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_words_youll_hear_eclipse_cheap_seats.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=2&amp;story=544886650&amp;t=progseg&amp;e=544882080&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 20, 2017 - A total eclipse sweeps the U.S. on Monday. But most will see a partial eclipse. The question is: Is an 80 or even a 90 percent eclipse worth it? Or should people make the extra effort to see totality?
+
+<a href="http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats">http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_solar_eclipse_playlist.mp3?orgId=1&amp;topicId=1039&amp;d=75&amp;p=2&amp;story=544886678&amp;t=progseg&amp;e=544882080&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Blinded By The Light&#39;: Your Contributions To Our Solar Eclipse Soundtrack</title>
+      <link>http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack</link>
+      <description>August 20, 2017 - While watching the total eclipse, folks might want to follow along with some toe-tapping music about the sun, stars and moon. We&#39;ve got the playlist for the wondrous sky event.</description>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_solar_eclipse_playlist.mp3?orgId=1&amp;topicId=1039&amp;d=75&amp;p=2&amp;story=544886678&amp;t=progseg&amp;e=544882080&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 20, 2017 - While watching the total eclipse, folks might want to follow along with some toe-tapping music about the sun, stars and moon. We've got the playlist for the wondrous sky event.
+
+<a href="http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack">http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>75</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170820_wesun_as_indias_climate_changes_farmers_in_the_north_experiment_with_new_crops.mp3?orgId=1&amp;topicId=1025&amp;d=487&amp;p=10&amp;story=543881831&amp;t=progseg&amp;e=544815547&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>As India&#39;s Climate Changes, Farmers In The North Experiment With New Crops</title>
@@ -224,38 +254,6 @@ August 16, 2017 - Each year more than 600,000 babies die of sepsis. Researchers 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection">http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/npr_sepsis-50_wide-d6cdf534b9bc0dd217d0f8b670aed7edb3aff466-s3000-c15.jpg"></itunes:image>
       <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_how_much_is_too_much_when_it_comes_to_alcohol_consumption.mp3?orgId=1&amp;topicId=1134&amp;d=234&amp;p=2&amp;story=543965637&amp;t=progseg&amp;e=543840412&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>With Heavy Drinking On The Rise, How Much Is Too Much?</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it</link>
-      <description>August 16, 2017 - Binge-drinking sounds like an all-night bender, but here&#39;s a reality check: Many social drinkers may &#34;binge&#34; without knowing it. Women who drink four or more drinks on an occasion are binge-drinking.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_how_much_is_too_much_when_it_comes_to_alcohol_consumption.mp3?orgId=1&amp;topicId=1134&amp;d=234&amp;p=2&amp;story=543965637&amp;t=progseg&amp;e=543840412&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/wine_wide-1e8ab734474c9a3e4dceeee524050c0302a31c20-s800-c15.jpg"></a>
-
-August 16, 2017 - Binge-drinking sounds like an all-night bender, but here's a reality check: Many social drinkers may "binge" without knowing it. Women who drink four or more drinks on an occasion are binge-drinking.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it">http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/wine_wide-1e8ab734474c9a3e4dceeee524050c0302a31c20-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</guid>
-      <title>Trump Rolls Back Obama-Era Flood Standards For Infrastructure Projects</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</link>
-      <description>August 16, 2017 - An Obama order called for new public infrastructure projects to be built to withstand rising sea levels caused by climate change. President Trump revoked that order to accelerate the review process.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/15/gettyimages-826368128-s_wide-7bf9f42b0a74dee43a91af039acffc1d9a0bd27f-s800-c15.jpg"></a>
-
-August 16, 2017 - An Obama order called for new public infrastructure projects to be built to withstand rising sea levels caused by climate change. President Trump revoked that order to accelerate the review process.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects">http://www.npr.org/sections/thetwo-way/2017/08/16/543712263/trump-rolls-back-obama-era-flood-standards-for-infrastructure-projects</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/gettyimages-826368128-s_wide-7bf9f42b0a74dee43a91af039acffc1d9a0bd27f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
