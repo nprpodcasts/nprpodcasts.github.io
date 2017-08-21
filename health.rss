@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 16:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 21 Aug 2017 13:00:25 +0000</pubDate>
+    <pubDate>Mon, 21 Aug 2017 16:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive</guid>
+      <title>Global Problems Aid Groups Should Prepare For, If They Want To Survive </title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive</link>
+      <description>August 21, 2017 - Relief organizations can barely cope with today&#39;s famine and refugee crises. Are they ready for the next era of humanitarian emergencies?</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/10/gettyimages-659179582_wide-0d91493020383e42123c76658bfb1ae2976cd3bb-s800-c15.jpg"></a>
+
+August 21, 2017 - Relief organizations can barely cope with today's famine and refugee crises. Are they ready for the next era of humanitarian emergencies?
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive">http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-659179582_wide-0d91493020383e42123c76658bfb1ae2976cd3bb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</guid>
       <title>Home Visits Help Parents Overcome Tough Histories, Raise Healthy Children</title>
@@ -94,12 +109,12 @@ August 18, 2017 - And telescopes and binoculars only amplify the risk to your ey
       <description>August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/plague_wide-386d4b2916f9c73bb4511a00b42bf76950ae746b-s800-c15.jpeg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/plague_wide-57542098dbf7f382870aae525512f1f55b1692a3-s800-c15.jpeg"></a>
 
 August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague">http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/plague_wide-386d4b2916f9c73bb4511a00b42bf76950ae746b-s3000-c15.jpeg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/plague_wide-57542098dbf7f382870aae525512f1f55b1692a3-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -243,21 +258,6 @@ August 16, 2017 - In Zambia, some people were so hungry that they risked their h
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix">http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/hippo--50_wide-609226cf107388e66476c33133b103058e5f8f09-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling</guid>
-      <title>Shh! These Quiet Food Videos Will Get Your Senses Tingling</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling</link>
-      <description>August 16, 2017 - A growing number of food videos aim to trigger ASMR — Autonomous Sensory Meridian Response, or pleasing sensations in the brains of some viewers — by focusing on sounds like chopping and stirring.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/14/asmr-final-r2_wide-06cfbeaa713486fb84314a7bf87c1973033201fe-s800-c15.jpg"></a>
-
-August 16, 2017 - A growing number of food videos aim to trigger ASMR — Autonomous Sensory Meridian Response, or pleasing sensations in the brains of some viewers — by focusing on sounds like chopping and stirring.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling">http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/asmr-final-r2_wide-06cfbeaa713486fb84314a7bf87c1973033201fe-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

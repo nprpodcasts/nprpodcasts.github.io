@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 16:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 21 Aug 2017 15:00:29 +0000</pubDate>
+    <pubDate>Mon, 21 Aug 2017 16:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,8 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</guid>
+      <title>Watch: Experts Weigh In On America&#39;s Solar Eclipse </title>
+      <link>http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</link>
+      <description>August 21, 2017 - NASA is on eclipse watch as the moon blocks the sun in a celestial coincidence Monday. A segment of the country from Oregon to South Carolina is in the so-called path of totality.</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 21, 2017 - NASA is on eclipse watch as the moon blocks the sun in a celestial coincidence Monday. A segment of the country from Oregon to South Carolina is in the so-called path of totality.
+
+<a href="http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse">http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show</guid>
-      <title>Eclipse Map: Tracking Where The Astronomical Show</title>
+      <title>Eclipse Map: Tracking The Astronomical Show</title>
       <link>http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show</link>
       <description>August 21, 2017 - A total solar eclipse will begin in Oregon and make its way to South Carolina starting at 1:16 p.m. ET. Keep up with where the eclipse is as it treks across the United States.</description>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
@@ -239,21 +252,6 @@ August 17, 2017 - Even when the Animal Welfare Act is followed, bears may not li
 
 <a href="http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos">http://www.npr.org/sections/13.7/2017/08/17/543682389/bears-can-face-summer-challenges-in-roadside-zoos</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/istock-140450813_wide-270c0979e52e05d6bcc7e64a46617b1895c58357-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/17/543902701/chemists-say-you-should-add-a-little-water-to-your-whisky-here-s-why</guid>
-      <title>Chemists Say You Should Add A Little Water To Your Whiskey. Here&#39;s Why</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/17/543902701/chemists-say-you-should-add-a-little-water-to-your-whisky-here-s-why</link>
-      <description>August 17, 2017 - It&#39;s a common refrain from whiskey enthusiasts: Adding a few drops of water to a glass opens up the flavors of the drink. Chemists in Sweden provide a molecular explanation for why this works.</description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/gettyimages-630322348_wide-6cf0e2bb0c35716fb2ca4564c51ca42cacc6edb8-s800-c15.jpg"></a>
-
-August 17, 2017 - It's a common refrain from whiskey enthusiasts: Adding a few drops of water to a glass opens up the flavors of the drink. Chemists in Sweden provide a molecular explanation for why this works.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/17/543902701/chemists-say-you-should-add-a-little-water-to-your-whisky-here-s-why">http://www.npr.org/sections/thetwo-way/2017/08/17/543902701/chemists-say-you-should-add-a-little-water-to-your-whisky-here-s-why</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/gettyimages-630322348_wide-6cf0e2bb0c35716fb2ca4564c51ca42cacc6edb8-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
