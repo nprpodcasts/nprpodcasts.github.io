@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2017 13:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 13:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 20 Aug 2017 13:00:16 +0000</pubDate>
+    <pubDate>Mon, 21 Aug 2017 13:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</guid>
+      <title>Home Visits Help Parents Overcome Tough Histories, Raise Healthy Children</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</link>
+      <description>August 21, 2017 - A program that provides $400 million in federal funds for the visits expires next month. Advocates and providers hope it will be reauthorized and even expanded, saying it&#39;s money well spent.</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/home-visits-3_wide-51f0fa8e9b4a2ddd7a1322c30925b5de9f9f9020-s800-c15.jpg"></a>
+
+August 21, 2017 - A program that provides $400 million in federal funds for the visits expires next month. Advocates and providers hope it will be reauthorized and even expanded, saying it's money well spent.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children">http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/home-visits-3_wide-51f0fa8e9b4a2ddd7a1322c30925b5de9f9f9020-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_to_get_calcium_navajos_burn_juniper_branches_to_eat_the_ash.mp3?orgId=95&amp;topicId=1053&amp;d=212&amp;p=3&amp;story=544191316&amp;t=progseg&amp;e=544935384&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>To Get Calcium, Navajos Burn Juniper Branches To Eat The Ash</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash</link>
+      <description>August 21, 2017 - Most American Indians are lactose intolerant, which means they need to find nutrients outside of dairy sources. It turns out that a return to traditional cooking methods can be key to good health.</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_to_get_calcium_navajos_burn_juniper_branches_to_eat_the_ash.mp3?orgId=95&amp;topicId=1053&amp;d=212&amp;p=3&amp;story=544191316&amp;t=progseg&amp;e=544935384&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/navajo1_wide-43aaefd2ef188e6f5358c42da9a571367e999690-s800-c15.jpg"></a>
+
+August 21, 2017 - Most American Indians are lactose intolerant, which means they need to find nutrients outside of dairy sources. It turns out that a return to traditional cooking methods can be key to good health.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash">http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/navajo1_wide-43aaefd2ef188e6f5358c42da9a571367e999690-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>212</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/20/542424977/getting-to-the-core-of-exercises-said-to-strengthen-mum-tum</guid>
       <title>Getting To The Core Of Exercises Said To Strengthen &#39;Mum Tum&#39;</title>
@@ -39,11 +71,12 @@ August 20, 2017 - NPR listeners had lots of questions after our story about dias
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_be_smart_a_partial_eclipse_can_fry_your_naked_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=543745409&amp;t=progseg&amp;e=544935384&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Be Smart: A Partial Eclipse Can Fry Your Naked Eyes</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</link>
       <description>August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you&#39;re not in the &#34;path of totality,&#34; take precautions if you plan to watch.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_be_smart_a_partial_eclipse_can_fry_your_naked_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=543745409&amp;t=progseg&amp;e=544935384&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s800-c15.jpg"></a>
 
@@ -51,6 +84,7 @@ August 18, 2017 - And telescopes and binoculars only amplify the risk to your ey
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>189</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -224,40 +258,6 @@ August 16, 2017 - A growing number of food videos aim to trigger ASMR — Autono
 
 <a href="http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling">http://www.npr.org/sections/thesalt/2017/08/16/542903392/shh-these-quiet-food-videos-will-get-your-senses-tingling</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/14/asmr-final-r2_wide-06cfbeaa713486fb84314a7bf87c1973033201fe-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170815_atc_body_brokers_get_kickbacks_to_lure_people_with_addictions_to_bad_rehab.mp3?orgId=481&amp;topicId=1128&amp;d=268&amp;p=2&amp;story=542630442&amp;t=progseg&amp;e=543587917&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Body Brokers&#39; Get Kickbacks To Lure People With Addictions To Bad Rehab</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/15/542630442/body-brokers-get-kickbacks-to-lure-people-with-addictions-to-bad-rehab</link>
-      <description>August 15, 2017 - In South Florida, people with health insurance are the target of &#34;body brokers&#34; who can earn lucrative kickbacks — $500 per week — for referring vulnerable patients to centers that bilk insurers.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170815_atc_body_brokers_get_kickbacks_to_lure_people_with_addictions_to_bad_rehab.mp3?orgId=481&amp;topicId=1128&amp;d=268&amp;p=2&amp;story=542630442&amp;t=progseg&amp;e=543587917&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/14/floridapatientbroker_2_wide-7ddc0d295a06cd03f3f3f9ba0c983eb12e29051e-s800-c15.jpg"></a>
-
-August 15, 2017 - In South Florida, people with health insurance are the target of "body brokers" who can earn lucrative kickbacks — $500 per week — for referring vulnerable patients to centers that bilk insurers.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/15/542630442/body-brokers-get-kickbacks-to-lure-people-with-addictions-to-bad-rehab">http://www.npr.org/sections/health-shots/2017/08/15/542630442/body-brokers-get-kickbacks-to-lure-people-with-addictions-to-bad-rehab</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/floridapatientbroker_2_wide-7ddc0d295a06cd03f3f3f9ba0c983eb12e29051e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>268</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170815_atc_cbo_end_of_obamacare_subsidies_would_raise_deficit_premiums.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=2&amp;story=543714171&amp;t=progseg&amp;e=543587917&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>CBO Predicts Rise In Deficit If Trump Cuts Payments To Insurance Companies</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</link>
-      <description>August 15, 2017 - The Congressional Budget Office estimates that ending what&#39;s known as cost-sharing reduction payments to insurers will raise the deficit $194 billion over 10 years.</description>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170815_atc_cbo_end_of_obamacare_subsidies_would_raise_deficit_premiums.mp3?orgId=1&amp;topicId=1027&amp;d=214&amp;p=2&amp;story=543714171&amp;t=progseg&amp;e=543587917&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/15/cbo1_wide-714a1a3d676360ea58a803e4871325b8ceb8f8e9-s800-c15.jpg"></a>
-
-August 15, 2017 - The Congressional Budget Office estimates that ending what's known as cost-sharing reduction payments to insurers will raise the deficit $194 billion over 10 years.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies">http://www.npr.org/sections/health-shots/2017/08/15/543714171/cbo-predicts-rise-in-deficit-if-trump-cuts-payments-to-insurance-companies</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/15/cbo1_wide-714a1a3d676360ea58a803e4871325b8ceb8f8e9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

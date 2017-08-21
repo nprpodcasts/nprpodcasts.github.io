@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2017 23:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 13:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 20 Aug 2017 23:06:07 +0000</pubDate>
+    <pubDate>Mon, 21 Aug 2017 13:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</guid>
+      <title>In Illinois, This College Town Won&#39;t Be Eclipsed By August&#39;s Celestial Event</title>
+      <link>http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</link>
+      <description>August 20, 2017 - A town of 26,000 will more than double in size as the Great American Eclipse takes place in August. From the local state university to longtime bakery, people are getting ready for it to get dark.</description>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/20/gettyimages-835661948_wide-302379ddb7d2af11d9025f3f22614032fb323c70-s800-c15.jpg"></a>
+
+August 20, 2017 - A town of 26,000 will more than double in size as the Great American Eclipse takes place in August. From the local state university to longtime bakery, people are getting ready for it to get dark.
+
+<a href="http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event">http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/20/gettyimages-835661948_wide-302379ddb7d2af11d9025f3f22614032fb323c70-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_words_youll_hear_eclipse_cheap_seats.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=2&amp;story=544886650&amp;t=progseg&amp;e=544882080&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Words You&#39;ll Hear: Eclipse Cheap Seats</title>
@@ -101,11 +116,12 @@ August 20, 2017 - NPR listeners had lots of questions after our story about dias
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_be_smart_a_partial_eclipse_can_fry_your_naked_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=543745409&amp;t=progseg&amp;e=544935384&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Be Smart: A Partial Eclipse Can Fry Your Naked Eyes</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</link>
       <description>August 18, 2017 - And telescopes and binoculars only amplify the risk to your eyes from looking at the sun, doctors say. So even if you&#39;re not in the &#34;path of totality,&#34; take precautions if you plan to watch.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_be_smart_a_partial_eclipse_can_fry_your_naked_eyes.mp3?orgId=1&amp;topicId=1128&amp;d=189&amp;p=3&amp;story=543745409&amp;t=progseg&amp;e=544935384&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s800-c15.jpg"></a>
 
@@ -113,6 +129,7 @@ August 18, 2017 - And telescopes and binoculars only amplify the risk to your ey
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>189</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +254,6 @@ August 17, 2017 - No eclipse glasses? No problem. Make your own solar viewer; (a
 
 <a href="http://www.npr.org/2017/08/17/543633362/make-your-own-eclipse-viewer">http://www.npr.org/2017/08/17/543633362/make-your-own-eclipse-viewer</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/6upnotext_wide-5a93fe6824671d8203e5d9581fdea15b2fb4a556-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_saving_newborns_with_bacteria.mp3?orgId=1&amp;topicId=1031&amp;d=226&amp;p=2&amp;story=543920822&amp;t=progseg&amp;e=543840412&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Probiotic Bacteria Could Protect Newborns From Deadly Infection</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection</link>
-      <description>August 16, 2017 - Each year more than 600,000 babies die of sepsis. Researchers have found a simple way to prevent it: Feed babies probiotic bacteria that are common in kimchi, pickles and other fermented vegetables.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_saving_newborns_with_bacteria.mp3?orgId=1&amp;topicId=1031&amp;d=226&amp;p=2&amp;story=543920822&amp;t=progseg&amp;e=543840412&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/npr_sepsis-50_wide-d6cdf534b9bc0dd217d0f8b670aed7edb3aff466-s800-c15.jpg"></a>
-
-August 16, 2017 - Each year more than 600,000 babies die of sepsis. Researchers have found a simple way to prevent it: Feed babies probiotic bacteria that are common in kimchi, pickles and other fermented vegetables.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection">http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/npr_sepsis-50_wide-d6cdf534b9bc0dd217d0f8b670aed7edb3aff466-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>226</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
