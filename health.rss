@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 16:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 23:00:34 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 21 Aug 2017 16:00:19 +0000</pubDate>
+    <pubDate>Mon, 21 Aug 2017 23:00:34 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</guid>
+      <title>With Court&#39;s OK, Chile Relaxes One Of The World&#39;s Strictest Abortion Bans</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</link>
+      <description>August 21, 2017 - Chilean lawmakers passed a bill earlier this month adding three exceptions to its ban on the procedure. Still, the bill was in limbo — until the Constitutional Court approved it as law Monday.</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836313768_wide-74f05d0e5c1ddf416a0c031cb13f4717f9d569a5-s800-c15.jpg"></a>
+
+August 21, 2017 - Chilean lawmakers passed a bill earlier this month adding three exceptions to its ban on the procedure. Still, the bill was in limbo — until the Constitutional Court approved it as law Monday.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans">http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836313768_wide-74f05d0e5c1ddf416a0c031cb13f4717f9d569a5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive</guid>
       <title>Global Problems Aid Groups Should Prepare For, If They Want To Survive </title>
@@ -243,21 +258,6 @@ August 16, 2017 - Medical professionals take pride in their commitment to care f
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases">http://www.npr.org/sections/health-shots/2017/08/16/543883816/after-charlottesville-a-doctor-reflects-on-hateful-patients-and-his-own-biases</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/doctor_wide-afbabc05fe97145486dc73cf8c67c2262d7cf1e5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</guid>
-      <title>Hippos, Anthrax And Hunger Make A Deadly Mix</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</link>
-      <description>August 16, 2017 - In Zambia, some people were so hungry that they risked their health to eat hippo meat infected with anthrax. Researchers say it reveals how food insecurity can spread disease.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/hippo--50_wide-609226cf107388e66476c33133b103058e5f8f09-s800-c15.jpg"></a>
-
-August 16, 2017 - In Zambia, some people were so hungry that they risked their health to eat hippo meat infected with anthrax. Researchers say it reveals how food insecurity can spread disease.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix">http://www.npr.org/sections/goatsandsoda/2017/08/16/543900930/hippos-anthrax-and-hunger-make-a-deadly-mix</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/hippo--50_wide-609226cf107388e66476c33133b103058e5f8f09-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
