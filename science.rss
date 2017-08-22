@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 23:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 03:00:18 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 21 Aug 2017 23:00:31 +0000</pubDate>
+    <pubDate>Tue, 22 Aug 2017 03:00:18 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</guid>
+      <title>How To Tell If Watching The Eclipse Damaged Your Eyes</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</link>
+      <description>August 21, 2017 - If you heeded all the warnings, you&#39;re likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign the sun&#39;s direct rays permanently hurt the retina.</description>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s800-c15.jpg"></a>
+
+August 21, 2017 - If you heeded all the warnings, you're likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign the sun's direct rays permanently hurt the retina.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse">http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_people_travel_across_the_country_to_get_a_glimpse_of_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=65&amp;story=545083434&amp;siteplayer=true&amp;dl=1</guid>
       <title>PHOTOS: The Day The Eclipse Came To America</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</link>
@@ -31,12 +46,12 @@
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_people_travel_across_the_country_to_get_a_glimpse_of_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=65&amp;story=545083434&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-133f0e9fbeae1027cdb95fa1d34529e8a2ec3a66-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-7c6435667af0dafed5a1c1c81ce67829cbfe8f9d-s800-c15.jpg"></a>
 
 August 21, 2017 - A total solar eclipse crossed the entire country earlier today. Many Americans were treated to a rare and stunning view.
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america">http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-133f0e9fbeae1027cdb95fa1d34529e8a2ec3a66-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-7c6435667af0dafed5a1c1c81ce67829cbfe8f9d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>65</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -235,21 +250,6 @@ August 20, 2017 - Farmers are starting to grow new crops in winter, when their f
 <a href="http://www.npr.org/sections/parallels/2017/08/20/543881831/as-indias-climate-changes-farmers-in-the-north-experiment-with-new-crops">http://www.npr.org/sections/parallels/2017/08/20/543881831/as-indias-climate-changes-farmers-in-the-north-experiment-with-new-crops</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/2017-08-10_climate_change_india_jmcccartney_-12_wide-23efb7f912dd77aea87885d7af73d9215908dcf2-s3000-c15.jpg"></itunes:image>
       <itunes:duration>487</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/parallels/2017/08/20/540965889/in-turkey-schools-will-stop-teaching-evolution-this-fall</guid>
-      <title>In Turkey, Schools Will Stop Teaching Evolution This Fall</title>
-      <link>http://www.npr.org/sections/parallels/2017/08/20/540965889/in-turkey-schools-will-stop-teaching-evolution-this-fall</link>
-      <description>August 20, 2017 - When Turkish children head back to school, something will be missing from their textbooks: any mention of evolution. The government is phasing in what it calls a values-based curriculum.</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/05/evolution3_wide-7b73716ba35aca445831c8ea315b25872bea98da-s800-c15.jpg"></a>
-
-August 20, 2017 - When Turkish children head back to school, something will be missing from their textbooks: any mention of evolution. The government is phasing in what it calls a values-based curriculum.
-
-<a href="http://www.npr.org/sections/parallels/2017/08/20/540965889/in-turkey-schools-will-stop-teaching-evolution-this-fall">http://www.npr.org/sections/parallels/2017/08/20/540965889/in-turkey-schools-will-stop-teaching-evolution-this-fall</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/05/evolution3_wide-7b73716ba35aca445831c8ea315b25872bea98da-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
