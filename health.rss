@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 13:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 17:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 13:00:13 +0000</pubDate>
+    <pubDate>Tue, 22 Aug 2017 17:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</guid>
+      <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
+      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the internet. But maybe the real problem isn&#39;t forgetfulness.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
+
+August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the internet. But maybe the real problem isn't forgetfulness.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</guid>
+      <title>Hospitals Could Do More For Survivors Of Opioid Overdoses, Study Suggests</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</link>
+      <description>August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s800-c15.jpg"></a>
+
+August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</guid>
       <title>How To Tell If Watching The Eclipse Damaged Your Eyes</title>
@@ -76,12 +106,12 @@ August 21, 2017 - Relief organizations can barely cope with today's famine and r
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170822_me_under_trump_rule_nursing_home_residents_may_not_be_able_to_sue_after_abuse.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=544973339&amp;t=progseg&amp;e=545185426&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-3ed3107228c06296df0ade0da8b1f42ee6ac29b1-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-d3795fdf8c599bee56acec8020e7dd56b8f7387f-s800-c15.jpg"></a>
 
 August 21, 2017 - The Trump administration is proposing to replace an Obama-era rule that would have made it easier for nursing home residents to sue for negligence or abuse.
 
 <a href="http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse">http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-3ed3107228c06296df0ade0da8b1f42ee6ac29b1-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-d3795fdf8c599bee56acec8020e7dd56b8f7387f-s3000-c15.jpg"></itunes:image>
       <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -156,12 +186,12 @@ August 18, 2017 - And telescopes and binoculars only amplify the risk to your ey
       <description>August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.</description>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/plague_wide-57542098dbf7f382870aae525512f1f55b1692a3-s800-c15.jpeg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/plague_wide-20a74ce46dbd212604bedc03aa05a2cb90c817a9-s800-c15.jpeg"></a>
 
 August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague">http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/plague_wide-57542098dbf7f382870aae525512f1f55b1692a3-s3000-c15.jpeg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/plague_wide-20a74ce46dbd212604bedc03aa05a2cb90c817a9-s3000-c15.jpeg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -226,40 +256,6 @@ August 16, 2017 - It reversed earlier injunctions that forbade the state from su
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren">http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/16/ap_17194645729348_wide-c391fac7179ceef0ffe91fe3b467b5ce499cee55-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_saving_newborns_with_bacteria.mp3?orgId=1&amp;topicId=1031&amp;d=226&amp;p=2&amp;story=543920822&amp;t=progseg&amp;e=543840412&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Probiotic Bacteria Could Protect Newborns From Deadly Infection</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection</link>
-      <description>August 16, 2017 - Each year more than 600,000 babies die of sepsis. Researchers have found a simple way to prevent it: Feed babies probiotic bacteria that are common in kimchi, pickles and other fermented vegetables.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_saving_newborns_with_bacteria.mp3?orgId=1&amp;topicId=1031&amp;d=226&amp;p=2&amp;story=543920822&amp;t=progseg&amp;e=543840412&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/npr_sepsis-50_wide-d6cdf534b9bc0dd217d0f8b670aed7edb3aff466-s800-c15.jpg"></a>
-
-August 16, 2017 - Each year more than 600,000 babies die of sepsis. Researchers have found a simple way to prevent it: Feed babies probiotic bacteria that are common in kimchi, pickles and other fermented vegetables.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection">http://www.npr.org/sections/goatsandsoda/2017/08/16/543920822/probiotic-bacteria-could-protect-newborns-from-deadly-infection</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/npr_sepsis-50_wide-d6cdf534b9bc0dd217d0f8b670aed7edb3aff466-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>226</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_how_much_is_too_much_when_it_comes_to_alcohol_consumption.mp3?orgId=1&amp;topicId=1134&amp;d=234&amp;p=2&amp;story=543965637&amp;t=progseg&amp;e=543840412&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>With Heavy Drinking On The Rise, How Much Is Too Much?</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it</link>
-      <description>August 16, 2017 - Binge-drinking sounds like an all-night bender, but here&#39;s a reality check: Many social drinkers may &#34;binge&#34; without knowing it. Women who drink four or more drinks on an occasion are binge-drinking.</description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170816_atc_how_much_is_too_much_when_it_comes_to_alcohol_consumption.mp3?orgId=1&amp;topicId=1134&amp;d=234&amp;p=2&amp;story=543965637&amp;t=progseg&amp;e=543840412&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/wine_wide-1e8ab734474c9a3e4dceeee524050c0302a31c20-s800-c15.jpg"></a>
-
-August 16, 2017 - Binge-drinking sounds like an all-night bender, but here's a reality check: Many social drinkers may "binge" without knowing it. Women who drink four or more drinks on an occasion are binge-drinking.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it">http://www.npr.org/sections/thesalt/2017/08/16/543965637/women-who-love-wine-are-you-binge-drinking-without-realizing-it</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/wine_wide-1e8ab734474c9a3e4dceeee524050c0302a31c20-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>234</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 13:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 17:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 13:00:11 +0000</pubDate>
+    <pubDate>Tue, 22 Aug 2017 17:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</guid>
+      <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
+      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the internet. But maybe the real problem isn&#39;t forgetfulness.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
+
+August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the internet. But maybe the real problem isn't forgetfulness.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</guid>
+      <title>Hospitals Could Do More For Survivors Of Opioid Overdoses, Study Suggests</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</link>
+      <description>August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s800-c15.jpg"></a>
+
+August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</guid>
       <title>How To Tell If Watching The Eclipse Damaged Your Eyes</title>
@@ -218,38 +248,6 @@ August 20, 2017 - A town of 26,000 will more than double in size as the Great Am
 <a href="http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats">http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_solar_eclipse_playlist.mp3?orgId=1&amp;topicId=1039&amp;d=75&amp;p=2&amp;story=544886678&amp;t=progseg&amp;e=544882080&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Blinded By The Light&#39;: Your Contributions To Our Solar Eclipse Soundtrack</title>
-      <link>http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack</link>
-      <description>August 20, 2017 - While watching the total eclipse, folks might want to follow along with some toe-tapping music about the sun, stars and moon. We&#39;ve got the playlist for the wondrous sky event.</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_solar_eclipse_playlist.mp3?orgId=1&amp;topicId=1039&amp;d=75&amp;p=2&amp;story=544886678&amp;t=progseg&amp;e=544882080&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 20, 2017 - While watching the total eclipse, folks might want to follow along with some toe-tapping music about the sun, stars and moon. We've got the playlist for the wondrous sky event.
-
-<a href="http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack">http://www.npr.org/2017/08/20/544886678/blinded-by-the-light-your-contributions-to-our-solar-eclipse-soundtrack</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>75</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170820_wesun_as_indias_climate_changes_farmers_in_the_north_experiment_with_new_crops.mp3?orgId=1&amp;topicId=1025&amp;d=487&amp;p=10&amp;story=543881831&amp;t=progseg&amp;e=544815547&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>As India&#39;s Climate Changes, Farmers In The North Experiment With New Crops</title>
-      <link>http://www.npr.org/sections/parallels/2017/08/20/543881831/as-indias-climate-changes-farmers-in-the-north-experiment-with-new-crops</link>
-      <description>August 20, 2017 - Farmers are starting to grow new crops in winter, when their fields usually lie fallow. Meanwhile, air pollution, which contributes to climate change, is weakening India&#39;s solar energy production.</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170820_wesun_as_indias_climate_changes_farmers_in_the_north_experiment_with_new_crops.mp3?orgId=1&amp;topicId=1025&amp;d=487&amp;p=10&amp;story=543881831&amp;t=progseg&amp;e=544815547&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/16/2017-08-10_climate_change_india_jmcccartney_-12_wide-23efb7f912dd77aea87885d7af73d9215908dcf2-s800-c15.jpg"></a>
-
-August 20, 2017 - Farmers are starting to grow new crops in winter, when their fields usually lie fallow. Meanwhile, air pollution, which contributes to climate change, is weakening India's solar energy production.
-
-<a href="http://www.npr.org/sections/parallels/2017/08/20/543881831/as-indias-climate-changes-farmers-in-the-north-experiment-with-new-crops">http://www.npr.org/sections/parallels/2017/08/20/543881831/as-indias-climate-changes-farmers-in-the-north-experiment-with-new-crops</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/2017-08-10_climate_change_india_jmcccartney_-12_wide-23efb7f912dd77aea87885d7af73d9215908dcf2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>487</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
