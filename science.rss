@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 18:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 17:00:12 +0000</pubDate>
+    <pubDate>Tue, 22 Aug 2017 18:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</guid>
+      <title>American Science And The Nazis</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</link>
+      <description>August 22, 2017 - By standing strong against the Nazis, America became a beacon of hope to some of the world&#39;s greatest scientists — whose positive effects on American science we still feel today, says Adam Frank.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-8ae0b2c90e6fbb5f31cf481bd5fa51b05cb4c16d-s800-c15.jpg"></a>
+
+August 22, 2017 - By standing strong against the Nazis, America became a beacon of hope to some of the world's greatest scientists — whose positive effects on American science we still feel today, says Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis">http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-8ae0b2c90e6fbb5f31cf481bd5fa51b05cb4c16d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</guid>
       <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
@@ -233,21 +248,6 @@ August 20, 2017 - A town of 26,000 will more than double in size as the Great Am
 
 <a href="http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event">http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/20/gettyimages-835661948_wide-302379ddb7d2af11d9025f3f22614032fb323c70-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_words_youll_hear_eclipse_cheap_seats.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=2&amp;story=544886650&amp;t=progseg&amp;e=544882080&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Words You&#39;ll Hear: Eclipse Cheap Seats</title>
-      <link>http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats</link>
-      <description>August 20, 2017 - A total eclipse sweeps the U.S. on Monday. But most will see a partial eclipse. The question is: Is an 80 or even a 90 percent eclipse worth it? Or should people make the extra effort to see totality?</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170820_atc_words_youll_hear_eclipse_cheap_seats.mp3?orgId=1&amp;topicId=1003&amp;d=204&amp;p=2&amp;story=544886650&amp;t=progseg&amp;e=544882080&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 20, 2017 - A total eclipse sweeps the U.S. on Monday. But most will see a partial eclipse. The question is: Is an 80 or even a 90 percent eclipse worth it? Or should people make the extra effort to see totality?
-
-<a href="http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats">http://www.npr.org/2017/08/20/544886650/words-youll-hear-eclipse-cheap-seats</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
