@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 18:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 01:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 18:00:21 +0000</pubDate>
+    <pubDate>Wed, 23 Aug 2017 01:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,33 +24,97 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/22/545310247/dakota-access-pipeline-owner-sues-greenpeace-for-criminal-activity</guid>
+      <title>Dakota Access Pipeline Owner Sues Greenpeace For &#39;Criminal Activity&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/22/545310247/dakota-access-pipeline-owner-sues-greenpeace-for-criminal-activity</link>
+      <description>August 22, 2017 - Energy Transfer Partners alleges Greenpeace and other &#34;eco-terrorist groups&#34; tried to block its pipeline with &#34;campaigns of misinformation.&#34; Greenpeace says the suit is a bid to &#34;silence free speech.&#34;</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/gettyimages-674415474_wide-13214309ed2cdc938fba1bad3c2f3f64f659d9fe-s800-c15.jpg"></a>
+
+August 22, 2017 - Energy Transfer Partners alleges Greenpeace and other "eco-terrorist groups" tried to block its pipeline with "campaigns of misinformation." Greenpeace says the suit is a bid to "silence free speech."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/22/545310247/dakota-access-pipeline-owner-sues-greenpeace-for-criminal-activity">http://www.npr.org/sections/thetwo-way/2017/08/22/545310247/dakota-access-pipeline-owner-sues-greenpeace-for-criminal-activity</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/gettyimages-674415474_wide-13214309ed2cdc938fba1bad3c2f3f64f659d9fe-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_kelp_farming_scientists_mine_pacific_ocean_for_abundant_source_of_biofuel.mp3?orgId=1&amp;topicId=1025&amp;d=375&amp;p=2&amp;story=542903378&amp;t=progseg&amp;e=545198506&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Scientists Hope To Farm The Biofuel Of The Future In The Pacific Ocean</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/22/542903378/scientists-hope-to-farm-the-biofuel-of-the-future-in-the-pacific-ocean</link>
+      <description>August 22, 2017 - International research labs are using seaweed to make biofuel, but little progress has been made in the U.S. Now scientists in California are developing a prototype to enable vast open-ocean farming.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_kelp_farming_scientists_mine_pacific_ocean_for_abundant_source_of_biofuel.mp3?orgId=1&amp;topicId=1025&amp;d=375&amp;p=2&amp;story=542903378&amp;t=progseg&amp;e=545198506&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/underwater-3_david-ginsburg_wide-a91823c21c2bc305093c565c883a216d84df120e-s800-c15.jpg"></a>
+
+August 22, 2017 - International research labs are using seaweed to make biofuel, but little progress has been made in the U.S. Now scientists in California are developing a prototype to enable vast open-ocean farming.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/22/542903378/scientists-hope-to-farm-the-biofuel-of-the-future-in-the-pacific-ocean">http://www.npr.org/sections/thesalt/2017/08/22/542903378/scientists-hope-to-farm-the-biofuel-of-the-future-in-the-pacific-ocean</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/underwater-3_david-ginsburg_wide-a91823c21c2bc305093c565c883a216d84df120e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>375</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_in_alaska_one_man_fights_to_save_oil_fund_as_reserves_dry_up.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=545314118&amp;t=progseg&amp;e=545198506&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Alaska, One Man Fights To Save Oil Fund As Reserves Dry Up</title>
+      <link>http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up</link>
+      <description>August 22, 2017 - For 40 years, Alaska has been putting its oil money into a giant savings account. But now the oil — and the money — are drying up.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_in_alaska_one_man_fights_to_save_oil_fund_as_reserves_dry_up.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=545314118&amp;t=progseg&amp;e=545198506&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 22, 2017 - For 40 years, Alaska has been putting its oil money into a giant savings account. But now the oil — and the money — are drying up.
+
+<a href="http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up">http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_californias_forests_continue_to_die_after_years_of_drought.mp3?orgId=1&amp;topicId=1091&amp;d=233&amp;p=2&amp;story=545314063&amp;t=progseg&amp;e=545198506&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
+      <title>California&#39;s Forests Continue To Die After Years Of Drought</title>
+      <link>http://www.npr.org/2017/08/22/545314063/californias-forests-continue-to-die-after-years-of-drought</link>
+      <description>August 22, 2017 - California&#39;s record drought is officially over. But trees are still dying across the state because they were so badly weakened by years without water.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_californias_forests_continue_to_die_after_years_of_drought.mp3?orgId=1&amp;topicId=1091&amp;d=233&amp;p=2&amp;story=545314063&amp;t=progseg&amp;e=545198506&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 22, 2017 - California's record drought is officially over. But trees are still dying across the state because they were so badly weakened by years without water.
+
+<a href="http://www.npr.org/2017/08/22/545314063/californias-forests-continue-to-die-after-years-of-drought">http://www.npr.org/2017/08/22/545314063/californias-forests-continue-to-die-after-years-of-drought</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</guid>
       <title>American Science And The Nazis</title>
       <link>http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</link>
       <description>August 22, 2017 - By standing strong against the Nazis, America became a beacon of hope to some of the world&#39;s greatest scientists — whose positive effects on American science we still feel today, says Adam Frank.</description>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-8ae0b2c90e6fbb5f31cf481bd5fa51b05cb4c16d-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-97380f5f05d7c0d398815cefb2fe40482aafef24-s800-c15.jpg"></a>
 
 August 22, 2017 - By standing strong against the Nazis, America became a beacon of hope to some of the world's greatest scientists — whose positive effects on American science we still feel today, says Adam Frank.
 
 <a href="http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis">http://www.npr.org/sections/13.7/2017/08/22/545253708/american-science-and-the-nazis</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-8ae0b2c90e6fbb5f31cf481bd5fa51b05cb4c16d-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-594954526_wide-97380f5f05d7c0d398815cefb2fe40482aafef24-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
       <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
-      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the internet. But maybe the real problem isn&#39;t forgetfulness.</description>
+      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the Internet. But maybe the real problem isn&#39;t forgetfulness.</description>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
 
-August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the internet. But maybe the real problem isn't forgetfulness.
+August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the Internet. But maybe the real problem isn't forgetfulness.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -66,6 +130,21 @@ August 22, 2017 - Researchers say hospitals are missing an opportunity to help p
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The Sugar Story: A Spoonful Of Addiction Makes The Profits Go Up?</title>
+      <link>http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</link>
+      <description>August 22, 2017 - Americans are facing down a decades-long sugar habit.&#xA;&#xA; - http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 22, 2017 - Americans are facing down a decades-long sugar habit.
+
+<a href="http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up">http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2829</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -173,81 +252,6 @@ August 21, 2017 - A total solar eclipse crossed the entire country earlier today
 <a href="http://www.npr.org/2017/08/21/545071307/people-travel-across-the-country-to-get-a-glimpse-of-the-solar-eclipse">http://www.npr.org/2017/08/21/545071307/people-travel-across-the-country-to-get-a-glimpse-of-the-solar-eclipse</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>65</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_walmart_faces_challenges_in_reducing_food_industrys_carbon_footprint.mp3?orgId=1&amp;topicId=1025&amp;d=249&amp;p=2&amp;story=544229458&amp;t=progseg&amp;e=544965319&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Can Anyone, Even Walmart, Stem The Heat-Trapping Flood Of Nitrogen On Farms?</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/21/544229458/can-anyone-even-walmart-stem-the-heat-trapping-flood-of-nitrogen-on-farms</link>
-      <description>August 21, 2017 - Walmart has promised big cuts in emissions of greenhouse gases. To meet that goal, though, the giant retailer may have to persuade farmers to use less fertilizer. It won&#39;t be easy.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_walmart_faces_challenges_in_reducing_food_industrys_carbon_footprint.mp3?orgId=1&amp;topicId=1025&amp;d=249&amp;p=2&amp;story=544229458&amp;t=progseg&amp;e=544965319&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-115716456_wide-6fad1db5994e2466cd534ea758470bdceed742b8-s800-c15.jpg"></a>
-
-August 21, 2017 - Walmart has promised big cuts in emissions of greenhouse gases. To meet that goal, though, the giant retailer may have to persuade farmers to use less fertilizer. It won't be easy.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/21/544229458/can-anyone-even-walmart-stem-the-heat-trapping-flood-of-nitrogen-on-farms">http://www.npr.org/sections/thesalt/2017/08/21/544229458/can-anyone-even-walmart-stem-the-heat-trapping-flood-of-nitrogen-on-farms</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-115716456_wide-6fad1db5994e2466cd534ea758470bdceed742b8-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>249</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</guid>
-      <title>WATCH: Experts Weigh In On America&#39;s Solar Eclipse </title>
-      <link>http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</link>
-      <description>August 21, 2017 - NASA was on eclipse watch as the moon blocked the sun in a celestial coincidence Monday. A segment of the country from Oregon to South Carolina was in the so-called path of totality.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - NASA was on eclipse watch as the moon blocked the sun in a celestial coincidence Monday. A segment of the country from Oregon to South Carolina was in the so-called path of totality.
-
-<a href="http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse">http://www.npr.org/2017/08/21/544524025/watch-experts-weigh-in-on-americas-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show</guid>
-      <title>Eclipse Map: Tracking The Astronomical Show</title>
-      <link>http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show</link>
-      <description>August 21, 2017 - A total solar eclipse began in Oregon and made its way to South Carolina starting at 1:16 p.m. ET. Take a look at where the eclipse was as it traveled across the United States.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/eclipse-map-promo-crop_wide-5ec41ac824546e02367bffe3196115040843dec1-s800-c15.png"></a>
-
-August 21, 2017 - A total solar eclipse began in Oregon and made its way to South Carolina starting at 1:16 p.m. ET. Take a look at where the eclipse was as it traveled across the United States.
-
-<a href="http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show">http://www.npr.org/2017/08/21/544244965/eclipse-map-tracking-where-the-astronomical-show</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/eclipse-map-promo-crop_wide-5ec41ac824546e02367bffe3196115040843dec1-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/21/544239796/live-coverage-follow-the-solar-eclipse</guid>
-      <title>Replay Live Coverage: Follow The Solar Eclipse</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/21/544239796/live-coverage-follow-the-solar-eclipse</link>
-      <description>August 21, 2017 - It was dark during the day as a total solar eclipse traveled from Oregon to South Carolina. See highlights from the phenomenon&#39;s journey along with NPR journalists and others experiencing the eclipse.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836293600_wide-7f5929a6eba8070ecfa6af8dc9f4b1d48234d5b8-s800-c15.jpg"></a>
-
-August 21, 2017 - It was dark during the day as a total solar eclipse traveled from Oregon to South Carolina. See highlights from the phenomenon's journey along with NPR journalists and others experiencing the eclipse.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/21/544239796/live-coverage-follow-the-solar-eclipse">http://www.npr.org/sections/thetwo-way/2017/08/21/544239796/live-coverage-follow-the-solar-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836293600_wide-7f5929a6eba8070ecfa6af8dc9f4b1d48234d5b8-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</guid>
-      <title>In Illinois, This College Town Won&#39;t Be Eclipsed By August&#39;s Celestial Event</title>
-      <link>http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</link>
-      <description>August 20, 2017 - A town of 26,000 will more than double in size as the Great American Eclipse takes place in August. From the local state university to longtime bakery, people are getting ready for it to get dark.</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/20/gettyimages-835661948_wide-302379ddb7d2af11d9025f3f22614032fb323c70-s800-c15.jpg"></a>
-
-August 20, 2017 - A town of 26,000 will more than double in size as the Great American Eclipse takes place in August. From the local state university to longtime bakery, people are getting ready for it to get dark.
-
-<a href="http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event">http://www.npr.org/2017/08/20/538521952/in-illinois-this-college-town-wont-be-eclipsed-by-augusts-celestial-event</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/20/gettyimages-835661948_wide-302379ddb7d2af11d9025f3f22614032fb323c70-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

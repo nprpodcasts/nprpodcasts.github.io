@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 17:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 01:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 17:00:13 +0000</pubDate>
+    <pubDate>Wed, 23 Aug 2017 01:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,52 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_417_million_awarded_in_suit_linking_johnson_johnson_baby_powder_to_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=545314093&amp;t=progseg&amp;e=545198506&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Does Baby Powder Cause Cancer? A Jury Says Yes. Scientists Aren&#39;t So Sure</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer</link>
+      <description>August 22, 2017 - Scientists have found an association between talc and ovarian cancer, but they don&#39;t agree on exactly what that means.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_417_million_awarded_in_suit_linking_johnson_johnson_baby_powder_to_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=545314093&amp;t=progseg&amp;e=545198506&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/gettyimages-837182306_wide-b68afbabfd2f39912924213a144a0348c382135b-s800-c15.jpg"></a>
+
+August 22, 2017 - Scientists have found an association between talc and ovarian cancer, but they don't agree on exactly what that means.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer">http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/gettyimages-837182306_wide-b68afbabfd2f39912924213a144a0348c382135b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</guid>
+      <title>Governors Preparing Bipartisan Health Care Plan For Congress To Consider</title>
+      <link>http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</link>
+      <description>August 22, 2017 - Colorado Democrat John Hickenlooper and Ohio Republican John Kasich are nearing completion on a plan to strengthen the Affordable Care Act exchanges that they will present to the Senate next month.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/ap_17178582171153_small_wide-9366776156f85e1fad88fbe9ac375bb433a34e5b-s800-c15.jpg"></a>
+
+August 22, 2017 - Colorado Democrat John Hickenlooper and Ohio Republican John Kasich are nearing completion on a plan to strengthen the Affordable Care Act exchanges that they will present to the Senate next month.
+
+<a href="http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider">http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/ap_17178582171153_small_wide-9366776156f85e1fad88fbe9ac375bb433a34e5b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
       <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
-      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the internet. But maybe the real problem isn&#39;t forgetfulness.</description>
+      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the Internet. But maybe the real problem isn&#39;t forgetfulness.</description>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
 
-August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the internet. But maybe the real problem isn't forgetfulness.
+August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the Internet. But maybe the real problem isn't forgetfulness.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -51,6 +85,21 @@ August 22, 2017 - Researchers say hospitals are missing an opportunity to help p
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The Sugar Story: A Spoonful Of Addiction Makes The Profits Go Up?</title>
+      <link>http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</link>
+      <description>August 22, 2017 - Americans are facing down a decades-long sugar habit.&#xA;&#xA; - http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 22, 2017 - Americans are facing down a decades-long sugar habit.
+
+<a href="http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up">http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2829</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -209,53 +258,6 @@ August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where sc
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos">http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s3000-c15.jpg"></itunes:image>
       <itunes:duration>422</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/17/543881184/as-rain-keeps-falling-sierra-leone-scrambles-to-find-mudslide-survivors</guid>
-      <title>As Rain Keeps Falling, Sierra Leone Scrambles To Find Mudslide Survivors </title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/17/543881184/as-rain-keeps-falling-sierra-leone-scrambles-to-find-mudslide-survivors</link>
-      <description>August 17, 2017 - Idalia Amaya, an emergency response coordinator for Catholic Relief Services, says the top priority is rescuing people trapped in their homes under the mud.</description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/gettyimages-831743030-50_wide-1ba182742ba2e7a7750943d8ba740ed2d6064c4e-s800-c15.jpg"></a>
-
-August 17, 2017 - Idalia Amaya, an emergency response coordinator for Catholic Relief Services, says the top priority is rescuing people trapped in their homes under the mud.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/17/543881184/as-rain-keeps-falling-sierra-leone-scrambles-to-find-mudslide-survivors">http://www.npr.org/sections/goatsandsoda/2017/08/17/543881184/as-rain-keeps-falling-sierra-leone-scrambles-to-find-mudslide-survivors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/gettyimages-831743030-50_wide-1ba182742ba2e7a7750943d8ba740ed2d6064c4e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170817_me_many_nurses_lack_knowledge_of_health_risks_to_mothers_after_childbirth.mp3?orgId=199135797&amp;topicId=1128&amp;aggIds=543928389&amp;d=414&amp;p=3&amp;story=543924405&amp;t=progseg&amp;e=544081010&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Many Nurses Lack Knowledge Of Health Risks To Mothers After Childbirth</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth</link>
-      <description>August 17, 2017 - A nationwide survey shows that postpartum nurses often fail to warn mothers about potentially life-threatening complications following childbirth, mainly because they need more education themselves.</description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170817_me_many_nurses_lack_knowledge_of_health_risks_to_mothers_after_childbirth.mp3?orgId=199135797&amp;topicId=1128&amp;aggIds=543928389&amp;d=414&amp;p=3&amp;story=543924405&amp;t=progseg&amp;e=544081010&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/gettyimages-528840679_wide-5d8d73a1385977a19182476f8333c34c52e287c9-s800-c15.jpg"></a>
-
-August 17, 2017 - A nationwide survey shows that postpartum nurses often fail to warn mothers about potentially life-threatening complications following childbirth, mainly because they need more education themselves.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth">http://www.npr.org/sections/health-shots/2017/08/17/543924405/many-nurses-lack-knowledge-of-health-risks-for-mothers-after-childbirth</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/gettyimages-528840679_wide-5d8d73a1385977a19182476f8333c34c52e287c9-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>414</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren</guid>
-      <title>Federal Appeals Court Says Arkansas Can Block Medicaid Payments To Planned Parenthood</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren</link>
-      <description>August 16, 2017 - It reversed earlier injunctions that forbade the state from suspending payments to the medical provider over a controversial leaked video of Planned Parenthood staff. </description>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/ap_17194645729348_wide-c391fac7179ceef0ffe91fe3b467b5ce499cee55-s800-c15.jpg"></a>
-
-August 16, 2017 - It reversed earlier injunctions that forbade the state from suspending payments to the medical provider over a controversial leaked video of Planned Parenthood staff. 
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren">http://www.npr.org/sections/thetwo-way/2017/08/16/543974021/federal-appeals-court-says-arkansas-can-block-medicaid-payments-to-planned-paren</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/ap_17194645729348_wide-c391fac7179ceef0ffe91fe3b467b5ce499cee55-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

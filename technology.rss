@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 19:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 01:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 22 Aug 2017 19:00:35 +0000</pubDate>
+    <pubDate>Wed, 23 Aug 2017 01:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,14 +24,46 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</guid>
+      <title>New Bullet Trains To Put China Out Front On High-Speed Rail</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</link>
+      <description>August 22, 2017 - Six years after China slowed down its fastest trains in the wake of a deadly crash, a next generation of super-fast trains are set to cut commute times between major cities.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/22/ap_17234177971271_wide-95511c2671d2794072fd700b47a4fed8ad39d235-s800-c15.jpg"></a>
+
+August 22, 2017 - Six years after China slowed down its fastest trains in the wake of a deadly crash, a next generation of super-fast trains are set to cut commute times between major cities.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail">http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/ap_17234177971271_wide-95511c2671d2794072fd700b47a4fed8ad39d235-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Enough To Help The Medicine Go Down </title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
+      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the Internet. But maybe the real problem isn&#39;t forgetfulness.</description>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
+
+August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the Internet. But maybe the real problem isn't forgetfulness.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>277</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_uber_hires_harvard_business_schools_frances_frei_to_address_leadership_issues.mp3?orgId=1&amp;topicId=1006&amp;d=397&amp;p=2&amp;story=545071297&amp;t=progseg&amp;e=544965319&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Uber Hires Harvard Business School&#39;s Frances Frei To Address Leadership Issues</title>
       <link>http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues</link>
-      <description>August 21, 2017 - NPR&#39;s Ari Shapiro speaks with Frances Frei, Uber&#39;s new vice president of leadership and strategy, about what she plans to bring to the ride-hailing company after more than dozen executives left this year.</description>
+      <description>August 21, 2017 - NPR&#39;s Ari Shapiro speaks with Uber&#39;s new vice president of leadership and strategy about what she plans to bring to the ride-hailing company after more than a dozen executives left this year.</description>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_uber_hires_harvard_business_schools_frances_frei_to_address_leadership_issues.mp3?orgId=1&amp;topicId=1006&amp;d=397&amp;p=2&amp;story=545071297&amp;t=progseg&amp;e=544965319&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - NPR's Ari Shapiro speaks with Frances Frei, Uber's new vice president of leadership and strategy, about what she plans to bring to the ride-hailing company after more than dozen executives left this year.
+      <itunes:summary><![CDATA[August 21, 2017 - NPR's Ari Shapiro speaks with Uber's new vice president of leadership and strategy about what she plans to bring to the ride-hailing company after more than a dozen executives left this year.
 
 <a href="http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues">http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
@@ -222,38 +254,6 @@ August 15, 2017 - The "Yes, You're Racist" Twitter account uses crowdsourcing to
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville">http://www.npr.org/sections/alltechconsidered/2017/08/15/543566757/twitter-account-names-and-shames-far-right-activists-at-charlottesville</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/15/ap_17225791888033_wide-108118ccab38f33018e7bf9fe34103bdbb6ad390-s3000-c15.jpg"></itunes:image>
       <itunes:duration>255</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</guid>
-      <title>British Cybersecurity Expert Pleads Not Guilty To Federal Malware Charges</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</link>
-      <description>August 14, 2017 - Before these allegations, 23-year-old Marcus Hutchins was known for his role in finding the kill switch to the WannaCry ransomware cyber-attack last May. He is accused of creating a malware scheme.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/ap_17225848789498_wide-bf27aa94af200db92a9ee51af840833e1f2554ab-s800-c15.jpg"></a>
-
-August 14, 2017 - Before these allegations, 23-year-old Marcus Hutchins was known for his role in finding the kill switch to the WannaCry ransomware cyber-attack last May. He is accused of creating a malware scheme.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges">http://www.npr.org/sections/thetwo-way/2017/08/14/543465981/british-cybersecurity-expert-pleads-not-guilty-to-federal-malware-charges</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/ap_17225848789498_wide-bf27aa94af200db92a9ee51af840833e1f2554ab-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_forget_tough_passwords_new_guidelines_make_it_simple.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=2&amp;story=543434808&amp;t=progseg&amp;e=543347804&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Forget Tough Passwords: New Guidelines Make It Simple</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple</link>
-      <description>August 14, 2017 - We&#39;ve been told to create passwords that are complicated, to change them regularly and to use different ones for each app or site. But the latest advice is to keep them simple, long and memorable.</description>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170814_atc_forget_tough_passwords_new_guidelines_make_it_simple.mp3?orgId=1&amp;topicId=1019&amp;d=220&amp;p=2&amp;story=543434808&amp;t=progseg&amp;e=543347804&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/14/istock-629961072_wide-5733b2a98b2358392509dcb178aeb9b532237569-s800-c15.jpg"></a>
-
-August 14, 2017 - We've been told to create passwords that are complicated, to change them regularly and to use different ones for each app or site. But the latest advice is to keep them simple, long and memorable.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple">http://www.npr.org/sections/alltechconsidered/2017/08/14/543434808/forget-tough-passwords-new-guidelines-make-it-simple</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/14/istock-629961072_wide-5733b2a98b2358392509dcb178aeb9b532237569-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
