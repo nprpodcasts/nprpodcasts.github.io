@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 13:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 15:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 23 Aug 2017 13:00:22 +0000</pubDate>
+    <pubDate>Wed, 23 Aug 2017 15:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/23/545484098/to-infinity-and-beyond-celebrating-40-years-of-the-voyager-mission</guid>
+      <title>To Infinity And Beyond: Celebrating 40 Years Of The Voyager Mission</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/23/545484098/to-infinity-and-beyond-celebrating-40-years-of-the-voyager-mission</link>
+      <description>August 23, 2017 - The Farthest: Voyager In Space, airing Wednesday on PBS, celebrates a technological and intellectual achievement rarely matched in history — one that has forever changed us, says Marcelo Gleiser.</description>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/23/voyager2_large_wide-c9aed2f2b2d1d73d94f7e4ae7a71a47cc1a0ca02-s800-c15.jpg"></a>
+
+August 23, 2017 - The Farthest: Voyager In Space, airing Wednesday on PBS, celebrates a technological and intellectual achievement rarely matched in history — one that has forever changed us, says Marcelo Gleiser.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/23/545484098/to-infinity-and-beyond-celebrating-40-years-of-the-voyager-mission">http://www.npr.org/sections/13.7/2017/08/23/545484098/to-infinity-and-beyond-celebrating-40-years-of-the-voyager-mission</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/voyager2_large_wide-c9aed2f2b2d1d73d94f7e4ae7a71a47cc1a0ca02-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170823_me_los_angeles_aims_to_see_if_lighter_color_streets_will_lessen_heat_gain.mp3?orgId=1&amp;topicId=1025&amp;d=118&amp;p=3&amp;story=545435062&amp;t=progseg&amp;e=545434927&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Los Angeles Tests Whether Lighter Color Streets Will Lower The Temperature</title>
@@ -237,21 +252,6 @@ August 21, 2017 - A total solar eclipse crossed the entire country earlier today
 <a href="http://www.npr.org/2017/08/21/545071403/americans-view-astronomical-show-as-total-solar-eclipse-sweeps-across-u-s">http://www.npr.org/2017/08/21/545071403/americans-view-astronomical-show-as-total-solar-eclipse-sweeps-across-u-s</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>44</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_darkness_falls_across_the_land_as_total_solar_eclipse_passes_over_us.mp3?orgId=1&amp;topicId=1026&amp;d=25&amp;p=2&amp;story=545071331&amp;t=progseg&amp;e=544965319&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Darkness Falls Across The Land As Total Solar Eclipse Passes Over U.S.</title>
-      <link>http://www.npr.org/2017/08/21/545071331/darkness-falls-across-the-land-as-total-solar-eclipse-passes-over-u-s</link>
-      <description>August 21, 2017 - It was dark during the day on Monday as the total solar eclipse traveled across the U.S. from Oregon to South Carolina. NPR heard from some people who witnessed the astronomical show.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_darkness_falls_across_the_land_as_total_solar_eclipse_passes_over_us.mp3?orgId=1&amp;topicId=1026&amp;d=25&amp;p=2&amp;story=545071331&amp;t=progseg&amp;e=544965319&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - It was dark during the day on Monday as the total solar eclipse traveled across the U.S. from Oregon to South Carolina. NPR heard from some people who witnessed the astronomical show.
-
-<a href="http://www.npr.org/2017/08/21/545071331/darkness-falls-across-the-land-as-total-solar-eclipse-passes-over-u-s">http://www.npr.org/2017/08/21/545071331/darkness-falls-across-the-land-as-total-solar-eclipse-passes-over-u-s</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
