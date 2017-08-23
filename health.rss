@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 01:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 13:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 23 Aug 2017 01:00:11 +0000</pubDate>
+    <pubDate>Wed, 23 Aug 2017 13:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170823_me_state_law_limits_opioid_prescriptions.mp3?orgId=495&amp;topicId=1128&amp;d=255&amp;p=3&amp;story=543955887&amp;t=progseg&amp;e=545434927&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Intent On Reversing Its Opioid Epidemic, A State Limits Prescriptions </title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/23/543955887/intent-on-reversing-its-opioid-epidemic-a-state-limits-prescriptions</link>
+      <description>August 23, 2017 - Maine is among a handful of states putting limits on the painkiller dose that doctors can prescribe a patient. Some doctors and patients say the law is helping, while others say it goes too far.</description>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170823_me_state_law_limits_opioid_prescriptions.mp3?orgId=495&amp;topicId=1128&amp;d=255&amp;p=3&amp;story=543955887&amp;t=progseg&amp;e=545434927&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/16/gettyimages-170886426_wide-c9da8d1987091a671f7294fa17676ce20f372fd3-s800-c15.jpg"></a>
+
+August 23, 2017 - Maine is among a handful of states putting limits on the painkiller dose that doctors can prescribe a patient. Some doctors and patients say the law is helping, while others say it goes too far.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/23/543955887/intent-on-reversing-its-opioid-epidemic-a-state-limits-prescriptions">http://www.npr.org/sections/health-shots/2017/08/23/543955887/intent-on-reversing-its-opioid-epidemic-a-state-limits-prescriptions</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/16/gettyimages-170886426_wide-c9da8d1987091a671f7294fa17676ce20f372fd3-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>255</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage</guid>
+      <title>Oregon, Texas Lay Down Markers On Abortion Coverage</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage</link>
+      <description>August 23, 2017 - Highlighting the country&#39;s sharp divide over abortion and mixed reactions to requirements in the Affordable Care Act, Texas restricts insurance coverage while Oregon requires that it be covered.</description>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/18/ap_17075793998743_wide-94ab9cc5c22cb78686377b576c7f6f4da7e0cb79-s800-c15.jpg"></a>
+
+August 23, 2017 - Highlighting the country's sharp divide over abortion and mixed reactions to requirements in the Affordable Care Act, Texas restricts insurance coverage while Oregon requires that it be covered.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage">http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/18/ap_17075793998743_wide-94ab9cc5c22cb78686377b576c7f6f4da7e0cb79-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_417_million_awarded_in_suit_linking_johnson_johnson_baby_powder_to_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=545314093&amp;t=progseg&amp;e=545198506&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Does Baby Powder Cause Cancer? A Jury Says Yes. Scientists Aren&#39;t So Sure</title>
@@ -226,38 +258,6 @@ August 18, 2017 - And telescopes and binoculars only amplify the risk to your ey
 <a href="http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes">http://www.npr.org/sections/health-shots/2017/08/18/543745409/be-smart-a-partial-eclipse-can-fry-your-naked-eyes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/eclipsemontage_fullpartial1_wide-cd2bdc1f6d3b85789eddefde8719523116ba90ac-s3000-c15.jpg"></itunes:image>
       <itunes:duration>189</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</guid>
-      <title>Iconic Plague Images Are Often Not What They Seem</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</link>
-      <description>August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.</description>
-      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/09/plague_wide-20a74ce46dbd212604bedc03aa05a2cb90c817a9-s800-c15.jpeg"></a>
-
-August 18, 2017 - Many images that have been traditionally used to depict the Black Death are, in fact, not images of the plague at all. Now, a group of dedicated historians are trying to correct the record.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague">http://www.npr.org/sections/goatsandsoda/2017/08/18/542435991/those-iconic-images-of-the-plague-thats-not-the-plague</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/09/plague_wide-20a74ce46dbd212604bedc03aa05a2cb90c817a9-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_a_first_look_inside_the_lab_where_scientists_are_editing_dna_in_human_embryos.mp3?orgId=1&amp;topicId=1007&amp;d=422&amp;p=3&amp;story=543769759&amp;t=progseg&amp;e=544362389&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Exclusive: Inside The Lab Where Scientists Are Editing DNA In Human Embryos</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</link>
-      <description>August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where scientists have begun editing the DNA in human embryos to try to prevent genetic diseases.</description>
-      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170818_me_a_first_look_inside_the_lab_where_scientists_are_editing_dna_in_human_embryos.mp3?orgId=1&amp;topicId=1007&amp;d=422&amp;p=3&amp;story=543769759&amp;t=progseg&amp;e=544362389&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s800-c15.jpg"></a>
-
-August 18, 2017 - NPR gets exclusive access to a lab in Portland, Ore., where scientists have begun editing the DNA in human embryos to try to prevent genetic diseases.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos">http://www.npr.org/sections/health-shots/2017/08/18/543769759/a-first-look-inside-the-lab-where-scientists-are-editing-dna-in-human-embryos</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/trio_wide-6be897b124efcb700a6083c91ecedc2dc053ad33-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>422</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
