@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 22:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 23:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 22:00:11 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 23:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -54,11 +54,12 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_really_really_how_our_brains_figure_out_what_words_mean_based_on_how_theyre_said.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=545711940&amp;t=progseg&amp;e=545754873&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Really? Really. How Our Brains Figure Out What Words Mean Based On How They&#39;re Said</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</link>
       <description>August 24, 2017 - Scientists have identified the brain cells that detect pitch changes in speech, allowing us to understand whether someone is asking a question or making a statement.</description>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_really_really_how_our_brains_figure_out_what_words_mean_based_on_how_theyre_said.mp3?orgId=1&amp;topicId=1128&amp;d=176&amp;p=2&amp;story=545711940&amp;t=progseg&amp;e=545754873&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s800-c15.jpg"></a>
 
@@ -66,6 +67,7 @@ August 24, 2017 - Scientists have identified the brain cells that detect pitch c
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons">http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>176</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
