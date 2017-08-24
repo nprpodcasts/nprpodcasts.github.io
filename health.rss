@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 19:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 20:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 19:00:22 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 20:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/24/545562900/cars-are-starting-to-remind-us-not-to-leave-baby-in-the-back-seat</guid>
+      <title>Cars Are Starting To Remind Us Not To Leave Baby In The Back Seat</title>
+      <link>http://www.npr.org/2017/08/24/545562900/cars-are-starting-to-remind-us-not-to-leave-baby-in-the-back-seat</link>
+      <description>August 24, 2017 - An average of 37 children die in hot cars each year. A new bill in Congress aims to address the problem by requiring all new autos to remind drivers to check the back seat when they leave the car.  </description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/23/2017-gmc-acadia-rearseatreminder-013_wide-7f280573b51b889b104b9fd118e2415ae22de0b7-s800-c15.jpg"></a>
+
+August 24, 2017 - An average of 37 children die in hot cars each year. A new bill in Congress aims to address the problem by requiring all new autos to remind drivers to check the back seat when they leave the car.  
+
+<a href="http://www.npr.org/2017/08/24/545562900/cars-are-starting-to-remind-us-not-to-leave-baby-in-the-back-seat">http://www.npr.org/2017/08/24/545562900/cars-are-starting-to-remind-us-not-to-leave-baby-in-the-back-seat</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/2017-gmc-acadia-rearseatreminder-013_wide-7f280573b51b889b104b9fd118e2415ae22de0b7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</guid>
       <title>Really? Really. How Our Brains Figure Out What Words Mean Based On How They&#39;re Said</title>
@@ -241,21 +256,6 @@ August 21, 2017 - The Trump administration is proposing to replace an Obama-era 
 <a href="http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse">http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-d3795fdf8c599bee56acec8020e7dd56b8f7387f-s3000-c15.jpg"></itunes:image>
       <itunes:duration>230</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</guid>
-      <title>Home Visits Help Parents Overcome Tough Histories, Raise Healthy Children</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</link>
-      <description>August 21, 2017 - A program that provides $400 million in federal funds for the visits expires next month. Advocates and providers hope it will be reauthorized and even expanded, saying it&#39;s money well spent.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/home-visits-3_wide-51f0fa8e9b4a2ddd7a1322c30925b5de9f9f9020-s800-c15.jpg"></a>
-
-August 21, 2017 - A program that provides $400 million in federal funds for the visits expires next month. Advocates and providers hope it will be reauthorized and even expanded, saying it's money well spent.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children">http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/home-visits-3_wide-51f0fa8e9b4a2ddd7a1322c30925b5de9f9f9020-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
