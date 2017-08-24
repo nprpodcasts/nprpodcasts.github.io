@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 19:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 22:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 19:00:25 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 22:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_25_years_later_hurricane_andrews_devastation_lingers.mp3?orgId=1&amp;topicId=1003&amp;d=333&amp;p=2&amp;story=545901808&amp;t=progseg&amp;e=545754873&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>25 Years Later: How Hurricane Andrew Impacted Emergency Response</title>
+      <link>http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers</link>
+      <description>August 24, 2017 - NPR&#39;s Robert Siegel speaks with former FEMA Administrator Craig Fugate about the important changes inspired by the historic Category 5 storm, in computer modeling, housing codes and insurance.</description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_25_years_later_hurricane_andrews_devastation_lingers.mp3?orgId=1&amp;topicId=1003&amp;d=333&amp;p=2&amp;story=545901808&amp;t=progseg&amp;e=545754873&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 24, 2017 - NPR's Robert Siegel speaks with former FEMA Administrator Craig Fugate about the important changes inspired by the historic Category 5 storm, in computer modeling, housing codes and insurance.
+
+<a href="http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers">http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>333</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_texas_coast_prepares_for_strengthened_hurricane_harvey.mp3?orgId=220&amp;topicId=1003&amp;d=188&amp;p=2&amp;story=545901801&amp;t=progseg&amp;e=545754873&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Texas Coast Prepares For Strengthened Hurricane Harvey</title>
+      <link>http://www.npr.org/2017/08/24/545901801/texas-coast-prepares-for-strengthened-hurricane-harvey</link>
+      <description>August 24, 2017 - The National Hurricane Center now says Harvey will be a major hurricane when it arrives in Texas late Friday. The overnight escalation surprised planners who were told it would be a tropical storm.</description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_texas_coast_prepares_for_strengthened_hurricane_harvey.mp3?orgId=220&amp;topicId=1003&amp;d=188&amp;p=2&amp;story=545901801&amp;t=progseg&amp;e=545754873&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 24, 2017 - The National Hurricane Center now says Harvey will be a major hurricane when it arrives in Texas late Friday. The overnight escalation surprised planners who were told it would be a tropical storm.
+
+<a href="http://www.npr.org/2017/08/24/545901801/texas-coast-prepares-for-strengthened-hurricane-harvey">http://www.npr.org/2017/08/24/545901801/texas-coast-prepares-for-strengthened-hurricane-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>188</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</guid>
       <title>Really? Really. How Our Brains Figure Out What Words Mean Based On How They&#39;re Said</title>
@@ -218,38 +248,6 @@ August 22, 2017 - Researchers say hospitals are missing an opportunity to help p
 <a href="http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up">http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2829</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</guid>
-      <title>How To Tell If Watching The Eclipse Damaged Your Eyes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</link>
-      <description>August 21, 2017 - If you heeded all the warnings, you&#39;re likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign that the sun&#39;s direct rays permanently hurt the retina.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s800-c15.jpg"></a>
-
-August 21, 2017 - If you heeded all the warnings, you're likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign that the sun's direct rays permanently hurt the retina.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse">http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_people_travel_across_the_country_to_get_a_glimpse_of_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=65&amp;story=545083434&amp;siteplayer=true&amp;dl=1</guid>
-      <title>PHOTOS: The Day The Eclipse Came To America</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</link>
-      <description>August 21, 2017 - A total solar eclipse crossed the entire country earlier today. Many Americans were treated to a rare and stunning view.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_people_travel_across_the_country_to_get_a_glimpse_of_the_solar_eclipse.mp3?orgId=1&amp;topicId=1003&amp;d=65&amp;story=545083434&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-7c6435667af0dafed5a1c1c81ce67829cbfe8f9d-s800-c15.jpg"></a>
-
-August 21, 2017 - A total solar eclipse crossed the entire country earlier today. Many Americans were treated to a rare and stunning view.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america">http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-7c6435667af0dafed5a1c1c81ce67829cbfe8f9d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>65</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
