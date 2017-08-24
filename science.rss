@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 13:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 19:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 13:00:22 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 19:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</guid>
+      <title>Really? Really. How Our Brains Figure Out What Words Mean Based On How They&#39;re Said</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</link>
+      <description>August 24, 2017 - Scientists have identified the brain cells that detect pitch changes in speech, allowing us to understand whether someone is asking a question or making a statement.</description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s800-c15.jpg"></a>
+
+August 24, 2017 - Scientists have identified the brain cells that detect pitch changes in speech, allowing us to understand whether someone is asking a question or making a statement.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons">http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/23/545550187/washington-declares-open-season-on-escaped-aquaculture-salmon</guid>
       <title>Washington Declares Open Season On Escaped Aquaculture Salmon</title>
@@ -235,21 +250,6 @@ August 21, 2017 - A total solar eclipse crossed the entire country earlier today
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america">http://www.npr.org/sections/thetwo-way/2017/08/21/545083434/photos-the-day-the-eclipse-came-to-america</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836316090_wide-7c6435667af0dafed5a1c1c81ce67829cbfe8f9d-s3000-c15.jpg"></itunes:image>
       <itunes:duration>65</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_total_solar_eclipse_travels_from_oregon_to_south_carolina.mp3?orgId=1&amp;topicId=1026&amp;d=83&amp;p=2&amp;story=545071440&amp;t=progseg&amp;e=544965319&amp;seg=21&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Total Solar Eclipse Travels From Oregon To South Carolina</title>
-      <link>http://www.npr.org/2017/08/21/545071440/total-solar-eclipse-travels-from-oregon-to-south-carolina</link>
-      <description>August 21, 2017 - From coast to coast, a total solar eclipse crossed the United States on Monday. Fourteen states were in the path of total darkness, while a partial eclipse was visible in other parts of the country.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_total_solar_eclipse_travels_from_oregon_to_south_carolina.mp3?orgId=1&amp;topicId=1026&amp;d=83&amp;p=2&amp;story=545071440&amp;t=progseg&amp;e=544965319&amp;seg=21&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - From coast to coast, a total solar eclipse crossed the United States on Monday. Fourteen states were in the path of total darkness, while a partial eclipse was visible in other parts of the country.
-
-<a href="http://www.npr.org/2017/08/21/545071440/total-solar-eclipse-travels-from-oregon-to-south-carolina">http://www.npr.org/2017/08/21/545071440/total-solar-eclipse-travels-from-oregon-to-south-carolina</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>83</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

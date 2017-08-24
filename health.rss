@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 16:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 19:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 16:00:26 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 19:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</guid>
+      <title>Really? Really. How Our Brains Figure Out What Words Mean Based On How They&#39;re Said</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</link>
+      <description>August 24, 2017 - Scientists have identified the brain cells that detect pitch changes in speech, allowing us to understand whether someone is asking a question or making a statement.</description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s800-c15.jpg"></a>
+
+August 24, 2017 - Scientists have identified the brain cells that detect pitch changes in speech, allowing us to understand whether someone is asking a question or making a statement.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons">http://www.npr.org/sections/health-shots/2017/08/24/545711940/pitch-neurons</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/neurons_wide-23b19f0bdf916cdcebcf9b93dca9e846a7bae206-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170824_me_youtube_stars_stress_out_just_like_the_rest_of_us.mp3?orgId=1&amp;topicId=1008&amp;d=219&amp;p=3&amp;story=545552788&amp;t=progseg&amp;e=545737942&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>YouTube Stars Stress Out, Just Like The Rest Of Us</title>
@@ -241,23 +256,6 @@ August 21, 2017 - A program that provides $400 million in federal funds for the 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children">http://www.npr.org/sections/health-shots/2017/08/21/544214492/home-visits-help-parents-overcome-tough-histories-raise-healthy-children</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/17/home-visits-3_wide-51f0fa8e9b4a2ddd7a1322c30925b5de9f9f9020-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_to_get_calcium_navajos_burn_juniper_branches_to_eat_the_ash.mp3?orgId=95&amp;topicId=1053&amp;d=212&amp;p=3&amp;story=544191316&amp;t=progseg&amp;e=544935384&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>To Get Calcium, Navajos Burn Juniper Branches To Eat The Ash</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash</link>
-      <description>August 21, 2017 - Most American Indians are lactose intolerant, which means they need to find nutrients outside of dairy sources. It turns out that a return to traditional cooking methods can be key to good health.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170821_me_to_get_calcium_navajos_burn_juniper_branches_to_eat_the_ash.mp3?orgId=95&amp;topicId=1053&amp;d=212&amp;p=3&amp;story=544191316&amp;t=progseg&amp;e=544935384&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/17/navajo1_wide-43aaefd2ef188e6f5358c42da9a571367e999690-s800-c15.jpg"></a>
-
-August 21, 2017 - Most American Indians are lactose intolerant, which means they need to find nutrients outside of dairy sources. It turns out that a return to traditional cooking methods can be key to good health.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash">http://www.npr.org/sections/thesalt/2017/08/21/544191316/to-get-calcium-navajos-burn-juniper-branches-to-eat-the-ash</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/navajo1_wide-43aaefd2ef188e6f5358c42da9a571367e999690-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>212</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
