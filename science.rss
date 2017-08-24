@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 21:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 13:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 23 Aug 2017 21:00:17 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 13:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/23/545550187/washington-declares-open-season-on-escaped-aquaculture-salmon</guid>
+      <title>Washington Declares Open Season On Escaped Aquaculture Salmon</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/23/545550187/washington-declares-open-season-on-escaped-aquaculture-salmon</link>
+      <description>August 23, 2017 - State wildlife officials have asked the public to catch as many of the non-native Atlantic salmon as they can after an estimated 5,000 escaped from an aquaculture farm.</description>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 23, 2017 - State wildlife officials have asked the public to catch as many of the non-native Atlantic salmon as they can after an estimated 5,000 escaped from an aquaculture farm.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/23/545550187/washington-declares-open-season-on-escaped-aquaculture-salmon">http://www.npr.org/sections/thetwo-way/2017/08/23/545550187/washington-declares-open-season-on-escaped-aquaculture-salmon</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/23/545484098/to-infinity-and-beyond-celebrating-40-years-of-the-voyager-mission</guid>
       <title>To Infinity And Beyond: Celebrating 40 Years Of The Voyager Mission</title>
@@ -237,21 +250,6 @@ August 21, 2017 - A total solar eclipse crossed the entire country earlier today
 <a href="http://www.npr.org/2017/08/21/545071440/total-solar-eclipse-travels-from-oregon-to-south-carolina">http://www.npr.org/2017/08/21/545071440/total-solar-eclipse-travels-from-oregon-to-south-carolina</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>83</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_americans_view_astronomical_show_as_total_solar_eclipse_sweeps_across_us.mp3?orgId=1&amp;topicId=1026&amp;d=44&amp;p=2&amp;story=545071403&amp;t=progseg&amp;e=544965319&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Americans View Astronomical Show As Total Solar Eclipse Sweeps Across U.S.</title>
-      <link>http://www.npr.org/2017/08/21/545071403/americans-view-astronomical-show-as-total-solar-eclipse-sweeps-across-u-s</link>
-      <description>August 21, 2017 - The total solar eclipse swept across the country on Monday from Oregon to South Carolina. A partial eclipse was also visible in other parts of the U.S. All Things Considered checked in with some listeners who witnessed the eclipse.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_americans_view_astronomical_show_as_total_solar_eclipse_sweeps_across_us.mp3?orgId=1&amp;topicId=1026&amp;d=44&amp;p=2&amp;story=545071403&amp;t=progseg&amp;e=544965319&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - The total solar eclipse swept across the country on Monday from Oregon to South Carolina. A partial eclipse was also visible in other parts of the U.S. All Things Considered checked in with some listeners who witnessed the eclipse.
-
-<a href="http://www.npr.org/2017/08/21/545071403/americans-view-astronomical-show-as-total-solar-eclipse-sweeps-across-u-s">http://www.npr.org/2017/08/21/545071403/americans-view-astronomical-show-as-total-solar-eclipse-sweeps-across-u-s</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
