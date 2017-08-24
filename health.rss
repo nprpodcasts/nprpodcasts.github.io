@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 20:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 21:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 20:00:08 +0000</pubDate>
+    <pubDate>Thu, 24 Aug 2017 21:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170824_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2307&amp;p=13&amp;story=545705213&amp;t=progseg&amp;e=545821273&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>A Retired Marine And A Photojournalist Confront War&#39;s &#39;Invisible Injuries&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries</link>
+      <description>August 24, 2017 - Marine Sgt. TJ Brennan suffered from memory loss after being injured by a grenade in Afghanistan in 2010. Finbarr O&#39;Reilly captured the event on film. Now the two men have written a memoir.</description>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170824_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2307&amp;p=13&amp;story=545705213&amp;t=progseg&amp;e=545821273&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/23_eveningstormgathers_shootingghosts_wide-138a8dcd64b2bdc18bbff1b9dbb1b680e1191a7f-s800-c15.jpg"></a>
+
+August 24, 2017 - Marine Sgt. TJ Brennan suffered from memory loss after being injured by a grenade in Afghanistan in 2010. Finbarr O'Reilly captured the event on film. Now the two men have written a memoir.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries">http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/23_eveningstormgathers_shootingghosts_wide-138a8dcd64b2bdc18bbff1b9dbb1b680e1191a7f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>2307</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/24/545562900/cars-are-starting-to-remind-us-not-to-leave-baby-in-the-back-seat</guid>
       <title>Cars Are Starting To Remind Us Not To Leave Baby In The Back Seat</title>
@@ -239,23 +256,6 @@ August 21, 2017 - Relief organizations can barely cope with today's famine and r
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive">http://www.npr.org/sections/goatsandsoda/2017/08/21/542585015/global-problems-aid-groups-should-prepare-for-if-they-want-to-survive</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/10/gettyimages-659179582_wide-0d91493020383e42123c76658bfb1ae2976cd3bb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170822_me_under_trump_rule_nursing_home_residents_may_not_be_able_to_sue_after_abuse.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=544973339&amp;t=progseg&amp;e=545185426&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Under Trump Rule, Nursing Home Residents May Not Be Able To Sue After Abuse</title>
-      <link>http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse</link>
-      <description>August 21, 2017 - The Trump administration is proposing to replace an Obama-era rule that would have made it easier for nursing home residents to sue for negligence or abuse.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170822_me_under_trump_rule_nursing_home_residents_may_not_be_able_to_sue_after_abuse.mp3?orgId=1&amp;topicId=1014&amp;d=230&amp;p=3&amp;story=544973339&amp;t=progseg&amp;e=545185426&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-d3795fdf8c599bee56acec8020e7dd56b8f7387f-s800-c15.jpg"></a>
-
-August 21, 2017 - The Trump administration is proposing to replace an Obama-era rule that would have made it easier for nursing home residents to sue for negligence or abuse.
-
-<a href="http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse">http://www.npr.org/2017/08/21/544973339/trump-rule-could-make-it-harder-for-nursing-home-residents-to-sue-for-abuse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/ap_17181804526577_wide-d3795fdf8c599bee56acec8020e7dd56b8f7387f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>230</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
