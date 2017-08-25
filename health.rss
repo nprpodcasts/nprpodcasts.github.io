@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 17:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 19:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 17:00:23 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 19:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/25/545002991/a-day-camp-that-teaches-kids-in-the-u-s-about-female-genital-mutilation</guid>
+      <title>A Day Camp That Teaches Kids In The U.S. About Female Genital Mutilation</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/25/545002991/a-day-camp-that-teaches-kids-in-the-u-s-about-female-genital-mutilation</link>
+      <description>August 25, 2017 - There&#39;s a nature walk, a drum performance, a picnic lunch — and speakers who tell the youngsters about the harm caused by the practice.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/img_4942-50_wide-a5ecebd7ff51816903ce74b879fed9add959ae39-s800-c15.jpg"></a>
+
+August 25, 2017 - There's a nature walk, a drum performance, a picnic lunch — and speakers who tell the youngsters about the harm caused by the practice.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/25/545002991/a-day-camp-that-teaches-kids-in-the-u-s-about-female-genital-mutilation">http://www.npr.org/sections/goatsandsoda/2017/08/25/545002991/a-day-camp-that-teaches-kids-in-the-u-s-about-female-genital-mutilation</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/img_4942-50_wide-a5ecebd7ff51816903ce74b879fed9add959ae39-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/25/546048615/aetna-mailer-accidentally-reveals-hiv-status-of-up-to-12-000-patients</guid>
       <title>Aetna Mailer Accidentally Reveals HIV Status Of Up To 12,000 Customers</title>
@@ -247,23 +262,6 @@ August 22, 2017 - Colorado Democrat John Hickenlooper and Ohio Republican John K
 
 <a href="http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider">http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/ap_17178582171153_small_wide-9366776156f85e1fad88fbe9ac375bb433a34e5b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;Smart&#39; Pill Bottles Aren&#39;t Always Enough To Help The Medicine Go Down </title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</link>
-      <description>August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling &#34;smart&#34; pill bottles that send patients reminders through the Internet. But maybe the real problem isn&#39;t forgetfulness.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_smart_pill_bottles_arent_enough_to_help_the_medicine_go_down_.mp3?orgId=77&amp;topicId=1128&amp;d=277&amp;p=2&amp;story=538153337&amp;t=progseg&amp;e=545198506&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s800-c15.jpg"></a>
-
-August 22, 2017 - Lots of people forget to take their medicine on time. Now firms are selling "smart" pill bottles that send patients reminders through the Internet. But maybe the real problem isn't forgetfulness.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>277</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
