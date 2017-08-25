@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 21:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 22:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 21:00:06 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 22:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</guid>
+      <title>Four Steps That Could Cut Health Insurance Premiums And Boost Enrollment</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</link>
+      <description>August 25, 2017 - For now, the Affordable Care Act remains the law of the land. A consulting firm lays out four steps it says would lead to insurance coverage for millions more, at a lower cost.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/openenrollment_wide-f520fb141867df9a9a20d70cf1bc5163a96b4e8a-s800-c15.jpg"></a>
+
+August 25, 2017 - For now, the Affordable Care Act remains the law of the land. A consulting firm lays out four steps it says would lead to insurance coverage for millions more, at a lower cost.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment">http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/openenrollment_wide-f520fb141867df9a9a20d70cf1bc5163a96b4e8a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</guid>
       <title>This Music Teacher Played His Saxophone While In Brain Surgery</title>
@@ -245,23 +260,6 @@ August 23, 2017 - Highlighting the country's sharp divide over abortion and mixe
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage">http://www.npr.org/sections/health-shots/2017/08/23/544543714/oregon-texas-lay-down-markers-on-abortion-coverage</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/18/ap_17075793998743_wide-94ab9cc5c22cb78686377b576c7f6f4da7e0cb79-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_417_million_awarded_in_suit_linking_johnson_johnson_baby_powder_to_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=545314093&amp;t=progseg&amp;e=545198506&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Does Baby Powder Cause Cancer? A Jury Says Yes. Scientists Aren&#39;t So Sure</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer</link>
-      <description>August 22, 2017 - Scientists have found an association between talc and ovarian cancer, but they don&#39;t agree on exactly what that means.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_417_million_awarded_in_suit_linking_johnson_johnson_baby_powder_to_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=209&amp;p=2&amp;story=545314093&amp;t=progseg&amp;e=545198506&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/gettyimages-837182306_wide-b68afbabfd2f39912924213a144a0348c382135b-s800-c15.jpg"></a>
-
-August 22, 2017 - Scientists have found an association between talc and ovarian cancer, but they don't agree on exactly what that means.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer">http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/gettyimages-837182306_wide-b68afbabfd2f39912924213a144a0348c382135b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
