@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 19:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 19:00:12 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</guid>
+      <title>This Music Teacher Played His Saxophone While In Brain Surgery</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</link>
+      <description>August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio&#39;s brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s800-c15.jpg"></a>
+
+August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio's brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery">http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/25/545002991/a-day-camp-that-teaches-kids-in-the-u-s-about-female-genital-mutilation</guid>
       <title>A Day Camp That Teaches Kids In The U.S. About Female Genital Mutilation</title>
@@ -247,21 +262,6 @@ August 22, 2017 - Scientists have found an association between talc and ovarian 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer">http://www.npr.org/sections/health-shots/2017/08/22/545314093/-417-million-awarded-in-suit-linking-johnson-johnson-baby-powder-to-cancer</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/gettyimages-837182306_wide-b68afbabfd2f39912924213a144a0348c382135b-s3000-c15.jpg"></itunes:image>
       <itunes:duration>209</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</guid>
-      <title>Governors Preparing Bipartisan Health Care Plan For Congress To Consider</title>
-      <link>http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</link>
-      <description>August 22, 2017 - Colorado Democrat John Hickenlooper and Ohio Republican John Kasich are nearing completion on a plan to strengthen the Affordable Care Act exchanges that they will present to the Senate next month.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/ap_17178582171153_small_wide-9366776156f85e1fad88fbe9ac375bb433a34e5b-s800-c15.jpg"></a>
-
-August 22, 2017 - Colorado Democrat John Hickenlooper and Ohio Republican John Kasich are nearing completion on a plan to strengthen the Affordable Care Act exchanges that they will present to the Senate next month.
-
-<a href="http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider">http://www.npr.org/2017/08/22/545307530/governors-preparing-bipartisan-health-care-plan-for-congress-to-consider</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/ap_17178582171153_small_wide-9366776156f85e1fad88fbe9ac375bb433a34e5b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
