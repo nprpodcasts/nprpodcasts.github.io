@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 14:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 17:00:23 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 14:00:14 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 17:00:23 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/25/546048615/aetna-mailer-accidentally-reveals-hiv-status-of-up-to-12-000-patients</guid>
+      <title>Aetna Mailer Accidentally Reveals HIV Status Of Up To 12,000 Customers</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/25/546048615/aetna-mailer-accidentally-reveals-hiv-status-of-up-to-12-000-patients</link>
+      <description>August 25, 2017 - &#34;Aetna&#39;s privacy violation devastated people whose neighbors and family learned their intimate health information,&#34; a legal group representing customers says. Aetna calls its mistake &#34;unacceptable.&#34;</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/aetna2jpeg_wide-183d8fb20d20c0c84ef6d4715a91d14a593b62e9-s800-c15.jpg"></a>
+
+August 25, 2017 - "Aetna's privacy violation devastated people whose neighbors and family learned their intimate health information," a legal group representing customers says. Aetna calls its mistake "unacceptable."
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/25/546048615/aetna-mailer-accidentally-reveals-hiv-status-of-up-to-12-000-patients">http://www.npr.org/sections/thetwo-way/2017/08/25/546048615/aetna-mailer-accidentally-reveals-hiv-status-of-up-to-12-000-patients</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/aetna2jpeg_wide-183d8fb20d20c0c84ef6d4715a91d14a593b62e9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_02.mp3?orgId=1&amp;topicId=1008&amp;d=797&amp;p=57&amp;story=545092951&amp;t=progseg&amp;e=545024014&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Moshe Szyf: How Do Our Experiences Rewire Our Brains And Bodies?</title>
@@ -62,12 +77,12 @@ August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend whe
       <description>August 25, 2017 - Recent studies show that people who survive a brother or sister&#39;s suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.</description>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s800-c15.jpg"></a>
 
 August 25, 2017 - Recent studies show that people who survive a brother or sister's suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -249,21 +264,6 @@ August 22, 2017 - Lots of people forget to take their medicine on time. Now firm
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>277</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</guid>
-      <title>Hospitals Could Do More For Survivors Of Opioid Overdoses, Study Suggests</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</link>
-      <description>August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s800-c15.jpg"></a>
-
-August 22, 2017 - Researchers say hospitals are missing an opportunity to help people with opioid addiction get into treatment by not doing enough when they show up in emergency rooms after an overdose.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
