@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 14:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 16:10:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 14:00:11 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 16:10:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</guid>
+      <title>Science &#39;Gone Wrong&#39; Can Teach Us</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</link>
+      <description>August 25, 2017 - Pandora&#39;s Lab stresses that for science to work, it needs to base claims on data, studies need to be replicable, and scientists must be more attached to science than to their own ideas, says Alva Noë.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/istock-146717117_wide-c18d3218bb03eb19b444e207a724ea0929489f3e-s800-c15.jpg"></a>
+
+August 25, 2017 - Pandora's Lab stresses that for science to work, it needs to base claims on data, studies need to be replicable, and scientists must be more attached to science than to their own ideas, says Alva Noë.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us">http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/istock-146717117_wide-c18d3218bb03eb19b444e207a724ea0929489f3e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_02.mp3?orgId=1&amp;topicId=1008&amp;d=797&amp;p=57&amp;story=545092951&amp;t=progseg&amp;e=545024014&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Moshe Szyf: How Do Our Experiences Rewire Our Brains And Bodies?</title>
@@ -96,12 +111,12 @@ August 25, 2017 - Neuroscientist Robert Sapolsky says nearly all aspects of huma
       <description>August 25, 2017 - Recent studies show that people who survive a brother or sister&#39;s suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.</description>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s800-c15.jpg"></a>
 
 August 25, 2017 - Recent studies show that people who survive a brother or sister's suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 22, 2017 - International research labs are using seaweed to make biofuel,
 <a href="http://www.npr.org/sections/thesalt/2017/08/22/542903378/scientists-hope-to-farm-the-biofuel-of-the-future-in-the-pacific-ocean">http://www.npr.org/sections/thesalt/2017/08/22/542903378/scientists-hope-to-farm-the-biofuel-of-the-future-in-the-pacific-ocean</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/underwater-3_david-ginsburg_wide-a91823c21c2bc305093c565c883a216d84df120e-s3000-c15.jpg"></itunes:image>
       <itunes:duration>375</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_in_alaska_one_man_fights_to_save_oil_fund_as_reserves_dry_up.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=545314118&amp;t=progseg&amp;e=545198506&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Alaska, One Man Fights To Save Oil Fund As Reserves Dry Up</title>
-      <link>http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up</link>
-      <description>August 22, 2017 - For 40 years, Alaska has been putting its oil money into a giant savings account. But now the oil — and the money — are drying up.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170822_atc_in_alaska_one_man_fights_to_save_oil_fund_as_reserves_dry_up.mp3?orgId=1&amp;topicId=1091&amp;d=214&amp;p=2&amp;story=545314118&amp;t=progseg&amp;e=545198506&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 22, 2017 - For 40 years, Alaska has been putting its oil money into a giant savings account. But now the oil — and the money — are drying up.
-
-<a href="http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up">http://www.npr.org/2017/08/22/545314118/in-alaska-one-man-fights-to-save-oil-fund-as-reserves-dry-up</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>214</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
