@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 13:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 24 Aug 2017 23:00:22 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 13:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,6 +24,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</guid>
+      <title>After A Suicide, Sibling Survivors Are Often Overlooked</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</link>
+      <description>August 25, 2017 - Recent studies show that people who survive a brother or sister&#39;s suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s800-c15.jpg"></a>
+
+August 25, 2017 - Recent studies show that people who survive a brother or sister's suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-46dbe756a7d753cd26091b801b2f79e9e531970f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_extinct_microbiome.mp3?orgId=1&amp;topicId=1031&amp;d=146&amp;p=2&amp;story=545631521&amp;t=progseg&amp;e=545754873&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Is The Secret To A Healthier Microbiome Hidden In The Hadza Diet?</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet</link>
@@ -31,12 +46,12 @@
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_extinct_microbiome.mp3?orgId=1&amp;topicId=1031&amp;d=146&amp;p=2&amp;story=545631521&amp;t=progseg&amp;e=545754873&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-d247d974623e77cc9bbf1b6fe4a8e1d705873be1-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-0af11247ea461eac660ad1aecdabba8fdc0e1060-s800-c15.jpg"></a>
 
 August 24, 2017 - Some species of bacteria in our intestines are disappearing. Can we reverse the microbial die-off? The food eaten by Tanzania's Hadza tribe could hold the answer.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet">http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-d247d974623e77cc9bbf1b6fe4a8e1d705873be1-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-0af11247ea461eac660ad1aecdabba8fdc0e1060-s3000-c15.jpg"></itunes:image>
       <itunes:duration>146</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -247,21 +262,6 @@ August 21, 2017 - If you heeded all the warnings, you're likely fine. But spots 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse">http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</guid>
-      <title>With Court&#39;s OK, Chile Relaxes One Of The World&#39;s Strictest Abortion Bans</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</link>
-      <description>August 21, 2017 - Chilean lawmakers passed a bill earlier this month adding three exceptions to its ban on the procedure. Still, the bill was in limbo — until the Constitutional Court approved it as law Monday.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836313768_wide-a18a04b2239c97866b52b4b831ae70e400865398-s800-c15.jpg"></a>
-
-August 21, 2017 - Chilean lawmakers passed a bill earlier this month adding three exceptions to its ban on the procedure. Still, the bill was in limbo — until the Constitutional Court approved it as law Monday.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans">http://www.npr.org/sections/thetwo-way/2017/08/21/545076995/with-court-s-ok-chile-relaxes-one-of-the-world-s-strictest-abortion-bans</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836313768_wide-a18a04b2239c97866b52b4b831ae70e400865398-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
