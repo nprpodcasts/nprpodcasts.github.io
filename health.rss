@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2017 13:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 14:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 25 Aug 2017 13:00:12 +0000</pubDate>
+    <pubDate>Fri, 25 Aug 2017 14:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_02.mp3?orgId=1&amp;topicId=1008&amp;d=797&amp;p=57&amp;story=545092951&amp;t=progseg&amp;e=545024014&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Moshe Szyf: How Do Our Experiences Rewire Our Brains And Bodies?</title>
+      <link>http://www.npr.org/2017/08/25/545092951/moshe-szyf-how-do-our-experiences-rewire-our-brains-and-bodies</link>
+      <description>August 25, 2017 - Many think genetic makeup is fixed from the moment we&#39;re born. But Moshe Szyf says this understanding is incomplete because our experiences and environment have the power to change our basic biology.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_02.mp3?orgId=1&amp;topicId=1008&amp;d=797&amp;p=57&amp;story=545092951&amp;t=progseg&amp;e=545024014&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 25, 2017 - Many think genetic makeup is fixed from the moment we're born. But Moshe Szyf says this understanding is incomplete because our experiences and environment have the power to change our basic biology.
+
+<a href="http://www.npr.org/2017/08/25/545092951/moshe-szyf-how-do-our-experiences-rewire-our-brains-and-bodies">http://www.npr.org/2017/08/25/545092951/moshe-szyf-how-do-our-experiences-rewire-our-brains-and-bodies</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>797</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=754&amp;p=57&amp;story=545092982&amp;t=progseg&amp;e=545024014&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Nadine Burke Harris: How Does Trauma Affect A Child&#39;s DNA?</title>
+      <link>http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</link>
+      <description>August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend when examining patients at her clinic: trauma. She found that adversity can change a child&#39;s biology and result in severe health outcomes.</description>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=754&amp;p=57&amp;story=545092982&amp;t=progseg&amp;e=545024014&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s800-c15.jpg"></a>
+
+August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend when examining patients at her clinic: trauma. She found that adversity can change a child's biology and result in severe health outcomes.
+
+<a href="http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna">http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>754</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</guid>
       <title>After A Suicide, Sibling Survivors Are Often Overlooked</title>
@@ -232,36 +264,6 @@ August 22, 2017 - Researchers say hospitals are missing an opportunity to help p
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests">http://www.npr.org/sections/health-shots/2017/08/22/545115225/hospitals-could-do-more-for-survivors-of-opioid-overdoses-study-suggests</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/istock-526239055_wide-8a3b4e00e9bb3e29d641db958af3bb61bfa39c14-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Sugar Story: A Spoonful Of Addiction Makes The Profits Go Up?</title>
-      <link>http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</link>
-      <description>August 22, 2017 - Americans are facing down a decades-long sugar habit.&#xA;&#xA; - http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170822.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 22, 2017 - Americans are facing down a decades-long sugar habit.
-
-<a href="http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up">http://the1a.org/shows/2017-08-22/the-sugar-story-a-spoonful-of-addiction-makes-the-profits-go-up</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2829</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</guid>
-      <title>How To Tell If Watching The Eclipse Damaged Your Eyes</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</link>
-      <description>August 21, 2017 - If you heeded all the warnings, you&#39;re likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign that the sun&#39;s direct rays permanently hurt the retina.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s800-c15.jpg"></a>
-
-August 21, 2017 - If you heeded all the warnings, you're likely fine. But spots or blurred vision that shows up 12 hours later or the next day might be a sign that the sun's direct rays permanently hurt the retina.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse">http://www.npr.org/sections/health-shots/2017/08/21/545129631/how-to-tell-if-you-ve-damaged-your-eyes-watching-the-eclipse</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/21/gettyimages-836330180_wide-c14a04ecdea2cde3e0dc9e699a83b9bdea1ca458-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
