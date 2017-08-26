@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2017 01:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2017 13:38:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 26 Aug 2017 01:00:09 +0000</pubDate>
+    <pubDate>Sat, 26 Aug 2017 13:38:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</guid>
+      <title>Why Don&#39;t We Have Princess Leia Holograms Yet? </title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</link>
+      <description>August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they&#39;re getting pretty close. One obstacle: Current computing systems just aren&#39;t up to it.</description>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s800-c15.jpg"></a>
+
+August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they're getting pretty close. One obstacle: Current computing systems just aren't up to it.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet">http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</guid>
+      <title>Human Rights Watch Raises Concerns Over Autonomous Weapons</title>
+      <link>http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</link>
+      <description>August 26, 2017 - NPR&#39;s Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group&#39;s call for a pre-emptive ban on fully autonomous weapons.</description>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 26, 2017 - NPR's Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group's call for a pre-emptive ban on fully autonomous weapons.
+
+<a href="http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons">http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170825_atc_will_samsung_case_mark_a_turning_point_for_south_korean_business_ties_to_government.mp3?orgId=1&amp;topicId=1125&amp;d=188&amp;p=2&amp;story=546041137&amp;t=progseg&amp;e=546031992&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Will Samsung Case Mark A Turning Point For South Korean Business Ties To Government?</title>
@@ -224,38 +252,6 @@ August 18, 2017 - Tesla CEO Elon Musk last week warned that AI is an enormous th
 <a href="http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site">http://www.npr.org/2017/08/18/544365040/tech-companies-blacklist-white-supremacist-site</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>233</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_silicon_valley_fights_back_against_extremism_online.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;p=2&amp;story=544259690&amp;t=progseg&amp;e=544103509&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Silicon Valley Fights Back Against Extremism Online</title>
-      <link>http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online</link>
-      <description>August 17, 2017 - Companies are waging a broad attack against white supremacist groups, cutting off their ability to raise money, post content or register their sites online. These moves are not unprecedented, but this muscle flexing raises a lot of questions — not just about free speech, but also about due process and who controls the Internet.</description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_silicon_valley_fights_back_against_extremism_online.mp3?orgId=1&amp;topicId=1019&amp;d=221&amp;p=2&amp;story=544259690&amp;t=progseg&amp;e=544103509&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 17, 2017 - Companies are waging a broad attack against white supremacist groups, cutting off their ability to raise money, post content or register their sites online. These moves are not unprecedented, but this muscle flexing raises a lot of questions — not just about free speech, but also about due process and who controls the Internet.
-
-<a href="http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online">http://www.npr.org/2017/08/17/544259690/silicon-valley-fights-back-against-extremism-online</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>221</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_turning_to_vpns_for_online_privacy_you_might_be_putting_your_data_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=246&amp;p=2&amp;story=543716811&amp;t=progseg&amp;e=544103509&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Turning To VPNs For Online Privacy? You Might Be Putting Your Data At Risk</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</link>
-      <description>August 17, 2017 - With Internet providers able to track and sell your browsing data, people who want to keep their activity hidden are turning to virtual private networks. But VPNs can themselves be insecure.</description>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170817_atc_turning_to_vpns_for_online_privacy_you_might_be_putting_your_data_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=246&amp;p=2&amp;story=543716811&amp;t=progseg&amp;e=544103509&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s800-c15.jpg"></a>
-
-August 17, 2017 - With Internet providers able to track and sell your browsing data, people who want to keep their activity hidden are turning to virtual private networks. But VPNs can themselves be insecure.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk">http://www.npr.org/sections/alltechconsidered/2017/08/17/543716811/turning-to-vpns-for-online-privacy-you-might-be-putting-your-data-at-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/17/gettyimages-564723053-edit_wide-cb1b7a93d37fca01451284f7669721e06cd5b326-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>246</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
