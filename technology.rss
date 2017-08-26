@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2017 13:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2017 16:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 26 Aug 2017 13:38:51 +0000</pubDate>
+    <pubDate>Sat, 26 Aug 2017 16:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -39,16 +39,18 @@ August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of ge
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170826_wesat_killer_robots_and_human_rights_watch.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=7&amp;story=546323236&amp;t=progseg&amp;e=546321762&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
       <title>Human Rights Watch Raises Concerns Over Autonomous Weapons</title>
       <link>http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</link>
       <description>August 26, 2017 - NPR&#39;s Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group&#39;s call for a pre-emptive ban on fully autonomous weapons.</description>
       <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170826_wesat_killer_robots_and_human_rights_watch.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=7&amp;story=546323236&amp;t=progseg&amp;e=546321762&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 26, 2017 - NPR's Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group's call for a pre-emptive ban on fully autonomous weapons.
 
 <a href="http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons">http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
