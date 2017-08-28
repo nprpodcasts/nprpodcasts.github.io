@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 15:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 19:00:44 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 15:00:43 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 19:00:44 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</guid>
+      <title>FDA Cracks Down On Stem-Cell Clinics Selling Unapproved Treatments</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</link>
+      <description>August 28, 2017 - The companies are &#34;unscrupulous actors&#34; marketing stem-cell treatments that have not been proved effective and may be dangerous, the FDA says. It took action against clinics in Florida and California.</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-818637778_wide-333457d880c545d36eb1a3fe3ef34f325340e95e-s800-c15.jpg"></a>
+
+August 28, 2017 - The companies are "unscrupulous actors" marketing stem-cell treatments that have not been proved effective and may be dangerous, the FDA says. It took action against clinics in Florida and California.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments">http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-818637778_wide-333457d880c545d36eb1a3fe3ef34f325340e95e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_need_a_happiness_boost_spend_your_money_to_buy_time_not_more_stuff.mp3?orgId=1&amp;topicId=1128&amp;d=344&amp;p=3&amp;story=545839192&amp;t=progseg&amp;e=546667729&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Need A Happiness Boost? Spend Your Money To Buy Time, Not More Stuff</title>
@@ -241,23 +256,6 @@ August 24, 2017 - Some species of bacteria in our intestines are disappearing. C
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet">http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-0af11247ea461eac660ad1aecdabba8fdc0e1060-s3000-c15.jpg"></itunes:image>
       <itunes:duration>146</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170824_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2307&amp;p=13&amp;story=545705213&amp;t=progseg&amp;e=545821273&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Retired Marine And A Photojournalist Confront War&#39;s &#39;Invisible Injuries&#39;</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries</link>
-      <description>August 24, 2017 - Marine Sgt. TJ Brennan suffered from memory loss after being injured by a grenade in Afghanistan in 2010. Finbarr O&#39;Reilly captured the event on film. Now the two men have written a memoir.</description>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2017/08/20170824_fa_01.mp3?orgId=427869011&amp;topicId=1128&amp;d=2307&amp;p=13&amp;story=545705213&amp;t=progseg&amp;e=545821273&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/23_eveningstormgathers_shootingghosts_wide-138a8dcd64b2bdc18bbff1b9dbb1b680e1191a7f-s800-c15.jpg"></a>
-
-August 24, 2017 - Marine Sgt. TJ Brennan suffered from memory loss after being injured by a grenade in Afghanistan in 2010. Finbarr O'Reilly captured the event on film. Now the two men have written a memoir.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries">http://www.npr.org/sections/health-shots/2017/08/24/545705213/a-retired-marine-and-a-photojournalist-confront-wars-invisible-injuries</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/23_eveningstormgathers_shootingghosts_wide-138a8dcd64b2bdc18bbff1b9dbb1b680e1191a7f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>2307</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

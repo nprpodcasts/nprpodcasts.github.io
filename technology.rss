@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 13:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 19:00:41 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 13:17:55 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 19:00:41 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170828-2.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The News And Your Newsfeed</title>
+      <link>http://the1a.org/shows/2017-08-28/the-news-and-your-newsfeed</link>
+      <description>August 28, 2017 - Do Facebook&#39;s partnerships with news organizations make it part of the media?&#xA;&#xA; - http://the1a.org/shows/2017-08-28/the-news-and-your-newsfeed</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170828-2.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 28, 2017 - Do Facebook's partnerships with news organizations make it part of the media?
+
+<a href="http://the1a.org/shows/2017-08-28/the-news-and-your-newsfeed">http://the1a.org/shows/2017-08-28/the-news-and-your-newsfeed</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2112</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170828-1.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>How Silicon Valley Is Shaping The News</title>
+      <link>http://the1a.org/shows/2017-08-28/how-silicon-valley-is-shaping-the-news</link>
+      <description>August 28, 2017 - Tech giants could soon replace traditional media publishers. Are we ready for social media to be the &#34;mainstream media&#34;?&#xA;&#xA; - http://the1a.org/shows/2017-08-28/how-silicon-valley-is-shaping-the-news</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170828-1.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 28, 2017 - Tech giants could soon replace traditional media publishers. Are we ready for social media to be the "mainstream media"?
+
+<a href="http://the1a.org/shows/2017-08-28/how-silicon-valley-is-shaping-the-news">http://the1a.org/shows/2017-08-28/how-silicon-valley-is-shaping-the-news</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>718</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_expedias_dara_khosrowshahi_picked_as_ubers_new_ceo.mp3?orgId=1&amp;topicId=1006&amp;d=219&amp;p=3&amp;story=546668876&amp;t=progseg&amp;e=546667729&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>Expedia&#39;s Dara Khosrowshahi Picked As Uber&#39;s New CEO</title>
@@ -224,36 +254,6 @@ August 22, 2017 - Lots of people forget to take their medicine on time. Now firm
 <a href="http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down">http://www.npr.org/sections/health-shots/2017/08/22/538153337/smart-pill-bottles-arent-enough-to-help-the-medicine-go-down</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/07/21/smart-prescription-1_wide-8048c6130b0835facff048873510273516c57ba7-s3000-c15.jpg"></itunes:image>
       <itunes:duration>277</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_uber_hires_harvard_business_schools_frances_frei_to_address_leadership_issues.mp3?orgId=1&amp;topicId=1006&amp;d=397&amp;p=2&amp;story=545071297&amp;t=progseg&amp;e=544965319&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Uber Hires Harvard Business School&#39;s Frances Frei To Address Leadership Issues</title>
-      <link>http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues</link>
-      <description>August 21, 2017 - NPR&#39;s Ari Shapiro speaks with Uber&#39;s new vice president of leadership and strategy about what she plans to bring to the ride-hailing company after more than a dozen executives left this year.</description>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170821_atc_uber_hires_harvard_business_schools_frances_frei_to_address_leadership_issues.mp3?orgId=1&amp;topicId=1006&amp;d=397&amp;p=2&amp;story=545071297&amp;t=progseg&amp;e=544965319&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 21, 2017 - NPR's Ari Shapiro speaks with Uber's new vice president of leadership and strategy about what she plans to bring to the ride-hailing company after more than a dozen executives left this year.
-
-<a href="http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues">http://www.npr.org/2017/08/21/545071297/uber-hires-harvard-business-schools-frances-frei-to-address-leadership-issues</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>397</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170820_wesun_russian_bots.mp3?orgId=1&amp;topicId=1122&amp;d=237&amp;p=10&amp;story=544817844&amp;t=progseg&amp;e=544815547&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Russian Bots Tweeting Calls To Fire McMaster, Former FBI Agent Says</title>
-      <link>http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says</link>
-      <description>August 20, 2017 - An online tracker developed by former FBI agent Clint Watts has identified Russian bots as responsible for many tweets urging the firing of National Security Adviser H.R. McMaster.</description>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/08/20170820_wesun_russian_bots.mp3?orgId=1&amp;topicId=1122&amp;d=237&amp;p=10&amp;story=544817844&amp;t=progseg&amp;e=544815547&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 20, 2017 - An online tracker developed by former FBI agent Clint Watts has identified Russian bots as responsible for many tweets urging the firing of National Security Adviser H.R. McMaster.
-
-<a href="http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says">http://www.npr.org/2017/08/20/544817844/russian-bots-tweeting-calls-to-fire-mcmaster-former-fbi-agent-says</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>237</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
