@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 20:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 21:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 20:00:25 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 21:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/28/546831787/in-alaska-hepatitis-c-rate-rises-due-to-injection-opioid-use</guid>
+      <title>In Alaska, Hepatitis C Rate Rises Due To Injection Opioid Use</title>
+      <link>http://www.npr.org/2017/08/28/546831787/in-alaska-hepatitis-c-rate-rises-due-to-injection-opioid-use</link>
+      <description>August 28, 2017 - In Alaska, the Hepatitis C infection rate is skyrocketing due to the high number of injection opioid users. The state is looking to needle exchanges to curb rising costs of drug addiction treatment.</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 28, 2017 - In Alaska, the Hepatitis C infection rate is skyrocketing due to the high number of injection opioid users. The state is looking to needle exchanges to curb rising costs of drug addiction treatment.
+
+<a href="http://www.npr.org/2017/08/28/546831787/in-alaska-hepatitis-c-rate-rises-due-to-injection-opioid-use">http://www.npr.org/2017/08/28/546831787/in-alaska-hepatitis-c-rate-rises-due-to-injection-opioid-use</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</guid>
       <title>Stay Safe And Get A Tetanus Shot, Texas Health Officials Urge</title>
@@ -239,21 +252,6 @@ August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend whe
 <a href="http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna">http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s3000-c15.jpg"></itunes:image>
       <itunes:duration>754</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</guid>
-      <title>After A Suicide, Sibling Survivors Are Often Overlooked</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</link>
-      <description>August 25, 2017 - Recent studies show that people who survive a brother or sister&#39;s suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s800-c15.jpg"></a>
-
-August 25, 2017 - Recent studies show that people who survive a brother or sister's suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
