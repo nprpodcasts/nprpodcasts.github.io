@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2017 19:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 27 Aug 2017 19:00:07 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 00:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,66 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_mayor.mp3?orgId=1&amp;topicId=1003&amp;d=278&amp;p=2&amp;story=546604737&amp;t=progseg&amp;e=546603325&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Houston Mayor Sylvester Turner On Hurricane Harvey Preparedness</title>
+      <link>http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</link>
+      <description>August 27, 2017 - Michel Martin talks to Houston Mayor Sylvester Turner about the storm pummeling the region.&#xA;&#xA; - http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</description>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_mayor.mp3?orgId=1&amp;topicId=1003&amp;d=278&amp;p=2&amp;story=546604737&amp;t=progseg&amp;e=546603325&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 27, 2017 - Michel Martin talks to Houston Mayor Sylvester Turner about the storm pummeling the region.
+
+<a href="http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey">http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>278</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_coast_guard_update.mp3?orgId=1&amp;topicId=1003&amp;d=178&amp;p=2&amp;story=546604456&amp;t=progseg&amp;e=546603325&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Coast Guard Update: Houston Search And Rescue Efforts</title>
+      <link>http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts</link>
+      <description>August 27, 2017 - NPR&#39;s Michel Martin talks to a representative from the U.S. Coast Guard, Captain Kevin D. Oditt, about the how the search and rescue efforts are going in the city of Houston.</description>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_coast_guard_update.mp3?orgId=1&amp;topicId=1003&amp;d=178&amp;p=2&amp;story=546604456&amp;t=progseg&amp;e=546603325&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 27, 2017 - NPR's Michel Martin talks to a representative from the U.S. Coast Guard, Captain Kevin D. Oditt, about the how the search and rescue efforts are going in the city of Houston.
+
+<a href="http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts">http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>178</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_weather_forecast_update.mp3?orgId=1&amp;topicId=1003&amp;d=209&amp;p=2&amp;story=546603401&amp;t=progseg&amp;e=546603325&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Houston Weather Forecast Update</title>
+      <link>http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</link>
+      <description>August 27, 2017 - NPR&#39;s Michel Martin talks to meteorologist Eric Berger about the forecast for the city of Houston over the next few days.&#xA;&#xA; - http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</description>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_weather_forecast_update.mp3?orgId=1&amp;topicId=1003&amp;d=209&amp;p=2&amp;story=546603401&amp;t=progseg&amp;e=546603325&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 27, 2017 - NPR's Michel Martin talks to meteorologist Eric Berger about the forecast for the city of Houston over the next few days.
+
+<a href="http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update">http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_meteorologist_on_hurricane_historical_texas_damage.mp3?orgId=1&amp;topicId=1003&amp;d=247&amp;p=2&amp;story=546603354&amp;t=progseg&amp;e=546603325&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Meteorologist On Hurricane Historical Texas Damage</title>
+      <link>http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage</link>
+      <description>August 27, 2017 - Hurricane Harvey is causing much more damage than other hurricanes have in Texas. NPR&#39;s Michel Martin interviews Dr. Neil Frank, former director of the National Hurricane Center and longtime meteorologist, about why this storm is so bad.</description>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_meteorologist_on_hurricane_historical_texas_damage.mp3?orgId=1&amp;topicId=1003&amp;d=247&amp;p=2&amp;story=546603354&amp;t=progseg&amp;e=546603325&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 27, 2017 - Hurricane Harvey is causing much more damage than other hurricanes have in Texas. NPR's Michel Martin interviews Dr. Neil Frank, former director of the National Hurricane Center and longtime meteorologist, about why this storm is so bad.
+
+<a href="http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage">http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>247</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun</guid>
       <title>Eclipse 2017: One Nation Under The Sun</title>
@@ -190,70 +250,6 @@ August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend whe
 <a href="http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna">http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s3000-c15.jpg"></itunes:image>
       <itunes:duration>754</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=747&amp;p=57&amp;story=545092668&amp;t=progseg&amp;e=545024014&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Robert Sapolsky: How Much Agency Do We Have Over Our Behavior?</title>
-      <link>http://www.npr.org/2017/08/25/545092668/robert-sapolsky-how-much-agency-do-we-have-over-our-behavior</link>
-      <description>August 25, 2017 - Neuroscientist Robert Sapolsky says nearly all aspects of human behavior are explained by biology: from developments millions of years in the past to microscopic reactions happening in the present.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_01.mp3?orgId=1&amp;topicId=1008&amp;d=747&amp;p=57&amp;story=545092668&amp;t=progseg&amp;e=545024014&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/robertsapolsky_2017-embed_wide-d93e215840e618a23a1fdf80b372797e652fdb86-s800-c15.jpg"></a>
-
-August 25, 2017 - Neuroscientist Robert Sapolsky says nearly all aspects of human behavior are explained by biology: from developments millions of years in the past to microscopic reactions happening in the present.
-
-<a href="http://www.npr.org/2017/08/25/545092668/robert-sapolsky-how-much-agency-do-we-have-over-our-behavior">http://www.npr.org/2017/08/25/545092668/robert-sapolsky-how-much-agency-do-we-have-over-our-behavior</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/robertsapolsky_2017-embed_wide-d93e215840e618a23a1fdf80b372797e652fdb86-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>747</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_04.mp3?orgId=1&amp;topicId=1008&amp;d=619&amp;p=57&amp;story=545093051&amp;t=progseg&amp;e=545024014&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Brian Little: Are Human Personalities Hardwired?</title>
-      <link>http://www.npr.org/2017/08/25/545093051/brian-little-are-human-personalities-hardwired</link>
-      <description>August 25, 2017 - Are you introverted or extroverted? It depends. When it comes to personality, psychologist Brian Little says we can actually act against our biology — especially if we pursue a &#34;core life project.&#34;</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_04.mp3?orgId=1&amp;topicId=1008&amp;d=619&amp;p=57&amp;story=545093051&amp;t=progseg&amp;e=545024014&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/brianlittle_2016-embed_wide-272598dceb7fad43e9aa3dc2d124aca9b922d5aa-s800-c15.jpg"></a>
-
-August 25, 2017 - Are you introverted or extroverted? It depends. When it comes to personality, psychologist Brian Little says we can actually act against our biology — especially if we pursue a "core life project."
-
-<a href="http://www.npr.org/2017/08/25/545093051/brian-little-are-human-personalities-hardwired">http://www.npr.org/2017/08/25/545093051/brian-little-are-human-personalities-hardwired</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/brianlittle_2016-embed_wide-272598dceb7fad43e9aa3dc2d124aca9b922d5aa-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>619</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</guid>
-      <title>After A Suicide, Sibling Survivors Are Often Overlooked</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</link>
-      <description>August 25, 2017 - Recent studies show that people who survive a brother or sister&#39;s suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s800-c15.jpg"></a>
-
-August 25, 2017 - Recent studies show that people who survive a brother or sister's suicide are at great risk of mood disorders and mental health problems, including thoughts of harming themselves.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_25_years_later_hurricane_andrews_devastation_lingers.mp3?orgId=1&amp;topicId=1003&amp;d=333&amp;p=2&amp;story=545901808&amp;t=progseg&amp;e=545754873&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>25 Years Later: How Hurricane Andrew Impacted Emergency Response</title>
-      <link>http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers</link>
-      <description>August 24, 2017 - NPR&#39;s Robert Siegel speaks with former FEMA Administrator Craig Fugate about the important changes inspired by the historic Category 5 storm, in computer modeling, housing codes and insurance.</description>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_25_years_later_hurricane_andrews_devastation_lingers.mp3?orgId=1&amp;topicId=1003&amp;d=333&amp;p=2&amp;story=545901808&amp;t=progseg&amp;e=545754873&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 24, 2017 - NPR's Robert Siegel speaks with former FEMA Administrator Craig Fugate about the important changes inspired by the historic Category 5 storm, in computer modeling, housing codes and insurance.
-
-<a href="http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers">http://www.npr.org/2017/08/24/545901808/25-years-later-hurricane-andrews-devastation-lingers</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>333</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
