@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 19:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 20:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 19:00:44 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 20:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</guid>
+      <title>Stay Safe And Get A Tetanus Shot, Texas Health Officials Urge</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</link>
+      <description>August 28, 2017 - Texas public health officials are looking ahead to meeting health needs in the days and weeks ahead, including getting prescriptions to people displaced to shelters.</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-840255390-2_wide-90925a4c29c93c34aaadbb35033bab44136fb07b-s800-c15.jpg"></a>
+
+August 28, 2017 - Texas public health officials are looking ahead to meeting health needs in the days and weeks ahead, including getting prescriptions to people displaced to shelters.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge">http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840255390-2_wide-90925a4c29c93c34aaadbb35033bab44136fb07b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</guid>
       <title>FDA Cracks Down On Stem-Cell Clinics Selling Unapproved Treatments</title>
@@ -239,23 +254,6 @@ August 25, 2017 - Recent studies show that people who survive a brother or siste
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked">http://www.npr.org/sections/health-shots/2017/08/25/545554065/after-a-suicide-sibling-survivors-are-often-overlooked</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0871_wide-91c3bedaa217799f8805a3c40a9aaff659e664d6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_extinct_microbiome.mp3?orgId=1&amp;topicId=1031&amp;d=146&amp;p=2&amp;story=545631521&amp;t=progseg&amp;e=545754873&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Is The Secret To A Healthier Microbiome Hidden In The Hadza Diet?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet</link>
-      <description>August 24, 2017 - Some species of bacteria in our intestines are disappearing. Can we reverse the microbial die-off? The food eaten by Tanzania&#39;s Hadza tribe could hold the answer.</description>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170824_atc_extinct_microbiome.mp3?orgId=1&amp;topicId=1031&amp;d=146&amp;p=2&amp;story=545631521&amp;t=progseg&amp;e=545754873&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-0af11247ea461eac660ad1aecdabba8fdc0e1060-s800-c15.jpg"></a>
-
-August 24, 2017 - Some species of bacteria in our intestines are disappearing. Can we reverse the microbial die-off? The food eaten by Tanzania's Hadza tribe could hold the answer.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet">http://www.npr.org/sections/goatsandsoda/2017/08/24/545631521/is-the-secret-to-a-healthier-microbiome-hidden-in-the-hadza-diet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/nationalgeographic_1937953-60_wide-0af11247ea461eac660ad1aecdabba8fdc0e1060-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>146</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

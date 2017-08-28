@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 19:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 20:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 19:00:43 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 20:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/28/546748502/how-a-warmer-climate-helped-shape-harvey</guid>
+      <title>How A Warmer Climate Helped Shape Harvey</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/28/546748502/how-a-warmer-climate-helped-shape-harvey</link>
+      <description>August 28, 2017 - Rising temperatures factored into making the storm a watery giant. But other factors helped turn it into a catastrophe.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/08/28/546748502/how-a-warmer-climate-helped-shape-harvey</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-840246746_wide-9bb8e860dd60e3c6af21e307088e638c1af00ee0-s800-c15.jpg"></a>
+
+August 28, 2017 - Rising temperatures factored into making the storm a watery giant. But other factors helped turn it into a catastrophe.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/28/546748502/how-a-warmer-climate-helped-shape-harvey">http://www.npr.org/sections/thetwo-way/2017/08/28/546748502/how-a-warmer-climate-helped-shape-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840246746_wide-9bb8e860dd60e3c6af21e307088e638c1af00ee0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/28/546811975/what-should-we-be-teaching-young-children</guid>
+      <title>What Should We Be Teaching Young Children?</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/28/546811975/what-should-we-be-teaching-young-children</link>
+      <description>August 28, 2017 - Many things can be learned just as well later — so the focus should be on ones that really need to be early, like languages, music and communication, says psychologist Tania Lombrozo.</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/istock-481094842_wide-9f9ccec3f1007cba06a2d237986a428ca0d023b8-s800-c15.jpg"></a>
+
+August 28, 2017 - Many things can be learned just as well later — so the focus should be on ones that really need to be early, like languages, music and communication, says psychologist Tania Lombrozo.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/28/546811975/what-should-we-be-teaching-young-children">http://www.npr.org/sections/13.7/2017/08/28/546811975/what-should-we-be-teaching-young-children</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/istock-481094842_wide-9f9ccec3f1007cba06a2d237986a428ca0d023b8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/08/a1170828.mp3?siteplayer=true&amp;dl=1</guid>
       <title>Harvey Hits Hard</title>
@@ -218,38 +248,6 @@ August 26, 2017 - Researchers have found that people with deep friendships in ad
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/26/543739986/having-a-best-friend-in-your-teenage-years-could-benefit-you-for-life">http://www.npr.org/sections/health-shots/2017/08/26/543739986/having-a-best-friend-in-your-teenage-years-could-benefit-you-for-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/npr_bffs_wide-7a1c2fbb01dbccf1d9ec2f16d02f6f46810b897b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170825_atc_this_music_teacher_played_his_saxophone_while_in_brain_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=545710598&amp;t=progseg&amp;e=546031992&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>This Music Teacher Played His Saxophone While In Brain Surgery</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</link>
-      <description>August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio&#39;s brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170825_atc_this_music_teacher_played_his_saxophone_while_in_brain_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=545710598&amp;t=progseg&amp;e=546031992&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s800-c15.jpg"></a>
-
-August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio's brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery">http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>324</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</guid>
-      <title>Science &#39;Gone Wrong&#39; Can Teach Us</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</link>
-      <description>August 25, 2017 - Pandora&#39;s Lab stresses that for science to work, it needs to base claims on data, studies need to be replicable, and scientists must be more attached to science than to their own ideas, says Alva Noë.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/istock-146717117_wide-c18d3218bb03eb19b444e207a724ea0929489f3e-s800-c15.jpg"></a>
-
-August 25, 2017 - Pandora's Lab stresses that for science to work, it needs to base claims on data, studies need to be replicable, and scientists must be more attached to science than to their own ideas, says Alva Noë.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us">http://www.npr.org/sections/13.7/2017/08/25/545508337/science-gone-wrong-can-teach-us</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/istock-146717117_wide-c18d3218bb03eb19b444e207a724ea0929489f3e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
