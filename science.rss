@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 21:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 22:00:38 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 28 Aug 2017 21:00:24 +0000</pubDate>
+    <pubDate>Mon, 28 Aug 2017 22:00:38 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,31 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change</guid>
+      <guid>http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</guid>
+      <title>Louisiana, Texas Prepare For More Rain From Tropical Storm Harvey</title>
+      <link>http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</link>
+      <description>August 28, 2017 - Texas and Louisiana are steeling for more rain from now tropical storm Harvey. Rising temperatures factored into the size and impact of the storm.</description>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 28, 2017 - Texas and Louisiana are steeling for more rain from now tropical storm Harvey. Rising temperatures factored into the size and impact of the storm.
+
+<a href="http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey">http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_hurricane_harveys_size_and_impact_points_to_climate_change.mp3?orgId=1&amp;topicId=1007&amp;d=240&amp;p=2&amp;story=546831731&amp;t=progseg&amp;e=546679523&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Hurricane Harvey&#39;s Size And Impact Points To Climate Change</title>
       <link>http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change</link>
       <description>August 28, 2017 - Hurricane Harvey bears the marks of climate change. Warmer waters in the Gulf of Mexico and rising sea levels make rain heavy storms like Harvey more likely in the future.</description>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_hurricane_harveys_size_and_impact_points_to_climate_change.mp3?orgId=1&amp;topicId=1007&amp;d=240&amp;p=2&amp;story=546831731&amp;t=progseg&amp;e=546679523&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 28, 2017 - Hurricane Harvey bears the marks of climate change. Warmer waters in the Gulf of Mexico and rising sea levels make rain heavy storms like Harvey more likely in the future.
 
 <a href="http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change">http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -231,21 +246,6 @@ August 26, 2017 - Five dogs with this unusual hue were found in an industrial ar
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue">http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/gettyimages-837019676-60_wide-3b4633234dea3a1279f5caad208009c087e72be1-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/parallels/2017/08/26/546036670/i-will-lose-my-identity-cambodian-villagers-face-displacement-by-mekong-dam</guid>
-      <title>&#39;I Will Lose My Identity&#39;: Cambodian Villagers Face Displacement By Mekong Dam</title>
-      <link>http://www.npr.org/sections/parallels/2017/08/26/546036670/i-will-lose-my-identity-cambodian-villagers-face-displacement-by-mekong-dam</link>
-      <description>August 26, 2017 - Thousands are being displaced by new dam construction. &#34;I cannot leave my ancestors here,&#34; says a woman whose village will be submerged by the dam. &#34;If I abandon them, I won&#39;t know who I am.&#34;</description>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/20170817_175723-edit_wide-8a1e42fa588560cd4b16ce9faca243d270c567b6-s800-c15.jpg"></a>
-
-August 26, 2017 - Thousands are being displaced by new dam construction. "I cannot leave my ancestors here," says a woman whose village will be submerged by the dam. "If I abandon them, I won't know who I am."
-
-<a href="http://www.npr.org/sections/parallels/2017/08/26/546036670/i-will-lose-my-identity-cambodian-villagers-face-displacement-by-mekong-dam">http://www.npr.org/sections/parallels/2017/08/26/546036670/i-will-lose-my-identity-cambodian-villagers-face-displacement-by-mekong-dam</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/20170817_175723-edit_wide-8a1e42fa588560cd4b16ce9faca243d270c567b6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
