@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 14:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 20:27:57 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 14:10:06 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2017 20:27:57 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/29/547035773/after-pressure-mounts-joel-osteen-says-his-houston-megachurch-is-open-to-evacuee</guid>
+      <title>After Pressure Mounts, Joel Osteen Says His Houston Megachurch Is Open To Evacuees</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/29/547035773/after-pressure-mounts-joel-osteen-says-his-houston-megachurch-is-open-to-evacuee</link>
+      <description>August 29, 2017 - Lakewood Church occupies an arena that used to house the Houston Rockets. Questions circulated online about why it wasn&#39;t being used to house those needing refuge from Hurricane Harvey.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/lakewood-church-01_wide-336f70ffa04da1b4542415bff6d776cde1090d82-s800-c15.jpg"></a>
+
+August 29, 2017 - Lakewood Church occupies an arena that used to house the Houston Rockets. Questions circulated online about why it wasn't being used to house those needing refuge from Hurricane Harvey.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/29/547035773/after-pressure-mounts-joel-osteen-says-his-houston-megachurch-is-open-to-evacuee">http://www.npr.org/sections/thetwo-way/2017/08/29/547035773/after-pressure-mounts-joel-osteen-says-his-houston-megachurch-is-open-to-evacuee</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/lakewood-church-01_wide-336f70ffa04da1b4542415bff6d776cde1090d82-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</guid>
+      <title>How Moldy Hay And Sick Cows Led To A Lifesaving Drug</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</link>
+      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s800-c15.jpg"></a>
+
+August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug">http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_texas_police_and_residents_turn_to_social_media_to_communicate_amid_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=546831780&amp;t=progseg&amp;e=546679523&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>Facebook, Twitter Replace 911 Calls For Stranded In Houston</title>
@@ -222,38 +252,6 @@ August 23, 2017 - The world's largest retailer will hawk its products on Google 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/23/545482081/walmart-google-join-forces-in-online-fight-against-amazon">http://www.npr.org/sections/thetwo-way/2017/08/23/545482081/walmart-google-join-forces-in-online-fight-against-amazon</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/23/ap_16307671928312_wide-73c557427f98c318845ad9df8c5fa946960e5db4-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170823_me_online_speech.mp3?orgId=1&amp;topicId=1019&amp;d=228&amp;p=3&amp;story=545320833&amp;t=progseg&amp;e=545434927&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Unlikely Allies Join Fight To Protect Free Speech On The Internet </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/23/545320833/unlikely-allies-join-fight-to-protect-free-speech-on-the-internet</link>
-      <description>August 23, 2017 - After big tech companies took action to take down white supremacist content, there have been calls for the government to step in to protect free speech from the right and left.</description>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170823_me_online_speech.mp3?orgId=1&amp;topicId=1019&amp;d=228&amp;p=3&amp;story=545320833&amp;t=progseg&amp;e=545434927&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/23/gettyimages-831454884_wide-6de499c0b336c7b08f297604119720e4d767e3c2-s800-c15.jpg"></a>
-
-August 23, 2017 - After big tech companies took action to take down white supremacist content, there have been calls for the government to step in to protect free speech from the right and left.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/23/545320833/unlikely-allies-join-fight-to-protect-free-speech-on-the-internet">http://www.npr.org/sections/alltechconsidered/2017/08/23/545320833/unlikely-allies-join-fight-to-protect-free-speech-on-the-internet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/23/gettyimages-831454884_wide-6de499c0b336c7b08f297604119720e4d767e3c2-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>228</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</guid>
-      <title>New Bullet Trains To Put China Out Front On High-Speed Rail</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</link>
-      <description>August 22, 2017 - Six years after China slowed down its fastest trains in the wake of a deadly crash, a next generation of super-fast trains are set to cut commute times between major cities.</description>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/22/ap_17234177971271_wide-95511c2671d2794072fd700b47a4fed8ad39d235-s800-c15.jpg"></a>
-
-August 22, 2017 - Six years after China slowed down its fastest trains in the wake of a deadly crash, a next generation of super-fast trains are set to cut commute times between major cities.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail">http://www.npr.org/sections/thetwo-way/2017/08/22/545279475/new-bullet-trains-to-put-china-out-front-on-high-speed-rail</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/22/ap_17234177971271_wide-95511c2671d2794072fd700b47a4fed8ad39d235-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
