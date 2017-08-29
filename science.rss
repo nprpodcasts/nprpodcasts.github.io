@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 20:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 23:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 20:27:59 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2017 23:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,18 +24,65 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</guid>
-      <title>How Moldy Hay And Sick Cows Led To A Lifesaving Drug</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</link>
-      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.</description>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_warren_buffett_backs_nuclear_fuel_bank_in_kazakhstan.mp3?orgId=1&amp;topicId=1125&amp;d=229&amp;p=2&amp;story=547099597&amp;t=progseg&amp;e=546975504&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Warren Buffett Backs Nuclear Fuel Bank In Kazakhstan</title>
+      <link>http://www.npr.org/2017/08/29/547099597/warren-buffett-backs-nuclear-fuel-bank-in-kazakhstan</link>
+      <description>August 29, 2017 - An unusual bank will open Tuesday in Kazakhstan. The deposits will be nuclear fuel, low-enriched uranium. The customers withdrawing low-enriched uranium will be nations which lack enrichment facilities. The idea is to convince such nations not to build their own. Warren Buffett is among the bank&#39;s founders.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_warren_buffett_backs_nuclear_fuel_bank_in_kazakhstan.mp3?orgId=1&amp;topicId=1125&amp;d=229&amp;p=2&amp;story=547099597&amp;t=progseg&amp;e=546975504&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 29, 2017 - An unusual bank will open Tuesday in Kazakhstan. The deposits will be nuclear fuel, low-enriched uranium. The customers withdrawing low-enriched uranium will be nations which lack enrichment facilities. The idea is to convince such nations not to build their own. Warren Buffett is among the bank's founders.
+
+<a href="http://www.npr.org/2017/08/29/547099597/warren-buffett-backs-nuclear-fuel-bank-in-kazakhstan">http://www.npr.org/2017/08/29/547099597/warren-buffett-backs-nuclear-fuel-bank-in-kazakhstan</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>229</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_trumps_proposed_budget_cuts_could_undermine_harvey_relief_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=210&amp;p=2&amp;story=547099667&amp;t=progseg&amp;e=546975504&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Trump&#39;s Proposed Budget Cuts Could Undermine Harvey Relief Efforts</title>
+      <link>http://www.npr.org/2017/08/29/547099667/trumps-proposed-budget-cuts-could-undermine-harvey-relief-efforts</link>
+      <description>August 29, 2017 - President Trump pledged to rebuild Houston and Texas bigger and better than ever. However, earlier this month, he rescinded an Obama executive order that required flood-damaged property to be rebuilt higher and stronger. Trump also has proposed eliminating federal flood mapping and the federal government&#39;s top disaster agency.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_trumps_proposed_budget_cuts_could_undermine_harvey_relief_efforts.mp3?orgId=1&amp;topicId=1014&amp;d=210&amp;p=2&amp;story=547099667&amp;t=progseg&amp;e=546975504&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 29, 2017 - President Trump pledged to rebuild Houston and Texas bigger and better than ever. However, earlier this month, he rescinded an Obama executive order that required flood-damaged property to be rebuilt higher and stronger. Trump also has proposed eliminating federal flood mapping and the federal government's top disaster agency.
+
+<a href="http://www.npr.org/2017/08/29/547099667/trumps-proposed-budget-cuts-could-undermine-harvey-relief-efforts">http://www.npr.org/2017/08/29/547099667/trumps-proposed-budget-cuts-could-undermine-harvey-relief-efforts</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>210</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</guid>
+      <title>Fishermen Caught With 6,600 Sharks In Galápagos, Now Headed To Prison</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</link>
+      <description>August 29, 2017 - The dead sharks, mostly endangered hammerheads, were part of a 300-ton haul of fish found on a Chinese boat off the Galápagos Islands. An Ecuadorean judge fined and jailed the crew up to four years.</description>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/ap_17228545315756_wide-5546ba89c53e3be274fba3db14eb68c262696167-s800-c15.jpg"></a>
 
-August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.
+August 29, 2017 - The dead sharks, mostly endangered hammerheads, were part of a 300-ton haul of fish found on a Chinese boat off the Galápagos Islands. An Ecuadorean judge fined and jailed the crew up to four years.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison">http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/ap_17228545315756_wide-5546ba89c53e3be274fba3db14eb68c262696167-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Moldy Hay And Sick Cows Led To A Lifesaving Drug</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</link>
+      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s800-c15.jpg"></a>
+
+August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug">http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -69,17 +116,17 @@ August 29, 2017 - The great hope of urban advocates is to democratize data, allo
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/08/29/546861395/trump-in-texas-to-inspect-storm-damage</guid>
-      <title>Trump In Texas To Inspect Storm Damage</title>
-      <link>http://www.npr.org/2017/08/29/546861395/trump-in-texas-to-inspect-storm-damage</link>
-      <description>August 29, 2017 - The president said he waited to visit until he could do so &#34;without causing disruption.&#34; He will sidestep Houston and instead visit the Corpus Christi area, where Harvey made landfall on Friday.</description>
+      <guid>http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort</guid>
+      <title>Trump&#39; Texas Visit Highlights Federal Response Effort</title>
+      <link>http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort</link>
+      <description>August 29, 2017 - The president said he waited to visit until he could do so &#34;without causing disruption.&#34; He sidestepped Houston and instead stopped in Corpus Christi, where Harvey made landfall, and then in Austin.</description>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-840568988_wide-f5dead39f607e8bcc44fa8f9b38bebf4729c3514-s800-c15.jpg"></a>
 
-August 29, 2017 - The president said he waited to visit until he could do so "without causing disruption." He will sidestep Houston and instead visit the Corpus Christi area, where Harvey made landfall on Friday.
+August 29, 2017 - The president said he waited to visit until he could do so "without causing disruption." He sidestepped Houston and instead stopped in Corpus Christi, where Harvey made landfall, and then in Austin.
 
-<a href="http://www.npr.org/2017/08/29/546861395/trump-in-texas-to-inspect-storm-damage">http://www.npr.org/2017/08/29/546861395/trump-in-texas-to-inspect-storm-damage</a>]]></itunes:summary>
+<a href="http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort">http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-840568988_wide-f5dead39f607e8bcc44fa8f9b38bebf4729c3514-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -203,51 +250,6 @@ August 28, 2017 - A recent study suggests that when people spend their extra cas
 <a href="http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts">http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>178</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_weather_forecast_update.mp3?orgId=1&amp;topicId=1003&amp;d=209&amp;p=2&amp;story=546603401&amp;t=progseg&amp;e=546603325&amp;seg=11&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Houston Weather Forecast Update</title>
-      <link>http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</link>
-      <description>August 27, 2017 - NPR&#39;s Michel Martin talks to meteorologist Eric Berger about the forecast for the city of Houston over the next few days.&#xA;&#xA; - http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_weather_forecast_update.mp3?orgId=1&amp;topicId=1003&amp;d=209&amp;p=2&amp;story=546603401&amp;t=progseg&amp;e=546603325&amp;seg=11&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 27, 2017 - NPR's Michel Martin talks to meteorologist Eric Berger about the forecast for the city of Houston over the next few days.
-
-<a href="http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update">http://www.npr.org/2017/08/27/546603401/houston-weather-forecast-update</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_meteorologist_on_hurricane_historical_texas_damage.mp3?orgId=1&amp;topicId=1003&amp;d=247&amp;p=2&amp;story=546603354&amp;t=progseg&amp;e=546603325&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Meteorologist On Hurricane Historical Texas Damage</title>
-      <link>http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage</link>
-      <description>August 27, 2017 - Hurricane Harvey is causing much more damage than other hurricanes have in Texas. NPR&#39;s Michel Martin interviews Dr. Neil Frank, former director of the National Hurricane Center and longtime meteorologist, about why this storm is so bad.</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_meteorologist_on_hurricane_historical_texas_damage.mp3?orgId=1&amp;topicId=1003&amp;d=247&amp;p=2&amp;story=546603354&amp;t=progseg&amp;e=546603325&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 27, 2017 - Hurricane Harvey is causing much more damage than other hurricanes have in Texas. NPR's Michel Martin interviews Dr. Neil Frank, former director of the National Hurricane Center and longtime meteorologist, about why this storm is so bad.
-
-<a href="http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage">http://www.npr.org/2017/08/27/546603354/meteorologist-on-hurricane-historical-texas-damage</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>247</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun</guid>
-      <title>Eclipse 2017: One Nation Under The Sun</title>
-      <link>http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun</link>
-      <description>August 27, 2017 - For many, witnessing the total solar eclipse on Monday, Aug. 21, 2017, was the event of a lifetime.&#xA;&#xA; - http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/27/eclipse-wide_wide-4cd3a6f7e45eada003ab9a9666a1da2d998d7014-s800-c15.jpg"></a>
-
-August 27, 2017 - For many, witnessing the total solar eclipse on Monday, Aug. 21, 2017, was the event of a lifetime.
-
-<a href="http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun">http://www.npr.org/2017/08/27/546109041/eclipse-2017-one-nation-under-the-sun</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/27/eclipse-wide_wide-4cd3a6f7e45eada003ab9a9666a1da2d998d7014-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

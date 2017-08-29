@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 20:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 23:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 20:27:55 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2017 23:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_health_issues_stack_up_in_houston_as_evacuees_seek_shelter.mp3?orgId=1&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=547027763&amp;t=progseg&amp;e=546975504&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Health Issues Stack Up In Houston As Harvey Evacuees Seek Shelter</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter</link>
+      <description>August 29, 2017 - With thousands of people displaced, health workers are trying to address the immediate medical needs of evacuees as well as mental health issues made worse by the disaster.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_health_issues_stack_up_in_houston_as_evacuees_seek_shelter.mp3?orgId=1&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=547027763&amp;t=progseg&amp;e=546975504&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-840577266_wide-22af67b562e30ac21f8df5313abb07c4e086ed9a-s800-c15.jpg"></a>
+
+August 29, 2017 - With thousands of people displaced, health workers are trying to address the immediate medical needs of evacuees as well as mental health issues made worse by the disaster.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter">http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-840577266_wide-22af67b562e30ac21f8df5313abb07c4e086ed9a-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>270</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</guid>
       <title>Epic Floods — Not Just In Texas — Are A Challenge For Aid Groups</title>
@@ -54,11 +71,12 @@ August 29, 2017 - Some Navajo are trying to bring back their traditional food cu
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_in_alaska_hepatitis_c_rate_rises_due_to_injection_opioid_use.mp3?orgId=168&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=547054395&amp;t=progseg&amp;e=546679523&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Syringe Exchange Program Aims To Slow Hepatitis C Infections In Alaska </title>
       <link>http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska</link>
       <description>August 29, 2017 - As the nation&#39;s opioid abuse problem soars, so do health problems associated with drug use like hepatitis C, which is placing a major burden on Alaska&#39;s Medicaid program.</description>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_in_alaska_hepatitis_c_rate_rises_due_to_injection_opioid_use.mp3?orgId=168&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=547054395&amp;t=progseg&amp;e=546679523&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/20170616--needles-in-a-trashcan_wide-f88acd66f29661e1669562696e1401c88215c720-s800-c15.jpg"></a>
 
@@ -66,21 +84,24 @@ August 29, 2017 - As the nation's opioid abuse problem soars, so do health probl
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska">http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/20170616--needles-in-a-trashcan_wide-f88acd66f29661e1669562696e1401c88215c720-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Moldy Hay And Sick Cows Led To A Lifesaving Drug</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</link>
-      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.</description>
+      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.</description>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s800-c15.jpg"></a>
 
-August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating the wrong hay. That and a chemist who spent years trying to figure out why.
+August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug">http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-37f92c43100aacd9427b4ffb542dfa2cfe7b1785-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,23 +256,6 @@ August 25, 2017 - For now, the Affordable Care Act remains the law of the land. 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment">http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/openenrollment_wide-f520fb141867df9a9a20d70cf1bc5163a96b4e8a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170825_atc_this_music_teacher_played_his_saxophone_while_in_brain_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=545710598&amp;t=progseg&amp;e=546031992&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>This Music Teacher Played His Saxophone While In Brain Surgery</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</link>
-      <description>August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio&#39;s brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170825_atc_this_music_teacher_played_his_saxophone_while_in_brain_surgery.mp3?orgId=1&amp;topicId=1128&amp;d=324&amp;p=2&amp;story=545710598&amp;t=progseg&amp;e=546031992&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s800-c15.jpg"></a>
-
-August 25, 2017 - The surgeons tasked with removing a tumor from Dan Fabbio's brain had worked hard not to disrupt his ability to perform music. They rejoiced when he was able to play his sax on the operating table.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery">http://www.npr.org/sections/health-shots/2017/08/25/545710598/this-music-teacher-played-his-saxophone-while-in-brain-surgery</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/saxpromo_wide-a5ee52c71472af6738da4406f997b59a5b2c2265-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>324</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
