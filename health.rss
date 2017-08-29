@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 00:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 14:10:04 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 00:00:37 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2017 14:10:04 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids</guid>
+      <title>Holistic Therapy Programs May Help Pain Sufferers Ditch Opioids</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids</link>
+      <description>August 29, 2017 - Learning strategies to deal with chronic pain can be an effective way to stay off addictive medicines, says the head of the Mayo Clinic&#39;s pain rehab center. But insurance doesn&#39;t always cover it.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-568775853_wide-64fc60ff3d65de3abe5e498d8bb0af6bfd438289-s800-c15.jpg"></a>
+
+August 29, 2017 - Learning strategies to deal with chronic pain can be an effective way to stay off addictive medicines, says the head of the Mayo Clinic's pain rehab center. But insurance doesn't always cover it.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids">http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-568775853_wide-64fc60ff3d65de3abe5e498d8bb0af6bfd438289-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_in_alaska_hepatitis_c_rate_rises_due_to_injection_opioid_use.mp3?orgId=1&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=546831787&amp;t=progseg&amp;e=546679523&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Alaska, Hepatitis C Rate Rises Due To Injection Opioid Use</title>
@@ -237,23 +252,6 @@ August 25, 2017 - "Aetna's privacy violation devastated people whose neighbors a
 <a href="http://www.npr.org/2017/08/25/545092951/moshe-szyf-how-do-our-experiences-rewire-our-brains-and-bodies">http://www.npr.org/2017/08/25/545092951/moshe-szyf-how-do-our-experiences-rewire-our-brains-and-bodies</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>797</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=754&amp;p=57&amp;story=545092982&amp;t=progseg&amp;e=545024014&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Nadine Burke Harris: How Does Trauma Affect A Child&#39;s DNA?</title>
-      <link>http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</link>
-      <description>August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend when examining patients at her clinic: trauma. She found that adversity can change a child&#39;s biology and result in severe health outcomes.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/ted/2017/08/20170824_ted_03.mp3?orgId=1&amp;topicId=1008&amp;d=754&amp;p=57&amp;story=545092982&amp;t=progseg&amp;e=545024014&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s800-c15.jpg"></a>
-
-August 25, 2017 - Pediatrician Nadine Burke Harris found an unsettling trend when examining patients at her clinic: trauma. She found that adversity can change a child's biology and result in severe health outcomes.
-
-<a href="http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna">http://www.npr.org/2017/08/25/545092982/nadine-burke-harris-how-does-trauma-affect-a-childs-dna</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/nadineburkeharris_2014p-embed_wide-f1fa691a8d54ee5b351b1e12ff5758471031ad43-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>754</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

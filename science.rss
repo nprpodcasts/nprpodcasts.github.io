@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 04:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 14:10:01 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 04:00:27 +0000</pubDate>
+    <pubDate>Tue, 29 Aug 2017 14:10:01 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</guid>
+      <title>What Does It Take To See Gentrification Before It Happens?</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</link>
+      <description>August 29, 2017 - The great hope of urban advocates is to democratize data, allowing residents to see more clearly how a neighborhood is changing — but knowledge of those changes may accelerate them, says Adam Frank.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/istock-458993197_wide-a478c735672d11e730ca13b6c25ccb9055656c83-s800-c15.jpg"></a>
+
+August 29, 2017 - The great hope of urban advocates is to democratize data, allowing residents to see more clearly how a neighborhood is changing — but knowledge of those changes may accelerate them, says Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens">http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/istock-458993197_wide-a478c735672d11e730ca13b6c25ccb9055656c83-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/08/29/546861395/trump-heads-for-texas-to-inspect-storm-damage</guid>
+      <title>Trump Heads For Texas To Inspect Storm Damage</title>
+      <link>http://www.npr.org/2017/08/29/546861395/trump-heads-for-texas-to-inspect-storm-damage</link>
+      <description>August 29, 2017 - The president says he waited to visit until he could do so &#34;without causing disruption.&#34; He will sidestep Houston and instead visit the Corpus Christi area, where Harvey made landfall on Friday.</description>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-840308498_wide-927e33e29c211f715d43e369f0a72c8cdd6b8570-s800-c15.jpg"></a>
+
+August 29, 2017 - The president says he waited to visit until he could do so "without causing disruption." He will sidestep Houston and instead visit the Corpus Christi area, where Harvey made landfall on Friday.
+
+<a href="http://www.npr.org/2017/08/29/546861395/trump-heads-for-texas-to-inspect-storm-damage">http://www.npr.org/2017/08/29/546861395/trump-heads-for-texas-to-inspect-storm-damage</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840308498_wide-927e33e29c211f715d43e369f0a72c8cdd6b8570-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_louisiana_texas_prepare_for_more_rain_from_hurricane_harvey.mp3?orgId=1&amp;topicId=1091&amp;d=290&amp;p=2&amp;story=546862811&amp;t=progseg&amp;e=546679523&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>Louisiana, Texas Prepare For More Rain From Tropical Storm Harvey</title>
@@ -218,36 +248,6 @@ August 26, 2017 - In wealthy Sierra Plantation, crews are working hard to patch 
 
 <a href="http://www.npr.org/2017/08/26/546406272/as-houston-area-suburbs-wait-for-harvey-to-blow-over-temporary-fixes-abound">http://www.npr.org/2017/08/26/546406272/as-houston-area-suburbs-wait-for-harvey-to-blow-over-temporary-fixes-abound</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/26/siennaplantation-2-_wide-ccb78b27a81cd81b1912e8c97a92a13fb9cd7de8-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</guid>
-      <title>Why Don&#39;t We Have Princess Leia Holograms Yet? </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</link>
-      <description>August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they&#39;re getting pretty close. One obstacle: Current computing systems just aren&#39;t up to it.</description>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s800-c15.jpg"></a>
-
-August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they're getting pretty close. One obstacle: Current computing systems just aren't up to it.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet">http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue</guid>
-      <title>What&#39;s Making These Dogs In Mumbai Turn Blue? </title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue</link>
-      <description>August 26, 2017 - Five dogs with this unusual hue were found in an industrial area of Mumbai. The hunt for its cause revealed a much bigger problem.</description>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/25/gettyimages-837019676-60_wide-3b4633234dea3a1279f5caad208009c087e72be1-s800-c15.jpg"></a>
-
-August 26, 2017 - Five dogs with this unusual hue were found in an industrial area of Mumbai. The hunt for its cause revealed a much bigger problem.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue">http://www.npr.org/sections/goatsandsoda/2017/08/26/546049293/whats-making-these-dogs-in-mumbai-turn-blue</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/gettyimages-837019676-60_wide-3b4633234dea3a1279f5caad208009c087e72be1-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
