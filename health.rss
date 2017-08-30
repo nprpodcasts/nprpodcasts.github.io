@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 14:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 29 Aug 2017 23:00:11 +0000</pubDate>
+    <pubDate>Wed, 30 Aug 2017 14:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</guid>
+      <title>5 Controversial Ideas For Shoring Up Health Insurance Markets</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</link>
+      <description>August 30, 2017 - Lawmakers looking to stabilize the health insurance exchanges may consider a number of proposals — including pushing young adults off a parent&#39;s plan, or letting people buy into Medicare and Medicaid.</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-631979642_wide-05f045a9ea2311b0d956d70849960fb003d9ca0f-s800-c15.jpg"></a>
+
+August 30, 2017 - Lawmakers looking to stabilize the health insurance exchanges may consider a number of proposals — including pushing young adults off a parent's plan, or letting people buy into Medicare and Medicaid.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-631979642_wide-05f045a9ea2311b0d956d70849960fb003d9ca0f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_health_issues_stack_up_in_houston_as_evacuees_seek_shelter.mp3?orgId=1&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=547027763&amp;t=progseg&amp;e=546975504&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
       <title>Health Issues Stack Up In Houston As Harvey Evacuees Seek Shelter</title>
@@ -241,21 +256,6 @@ August 26, 2017 - Researchers have found that people with deep friendships in ad
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/26/543739986/having-a-best-friend-in-your-teenage-years-could-benefit-you-for-life">http://www.npr.org/sections/health-shots/2017/08/26/543739986/having-a-best-friend-in-your-teenage-years-could-benefit-you-for-life</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/22/npr_bffs_wide-7a1c2fbb01dbccf1d9ec2f16d02f6f46810b897b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</guid>
-      <title>4 Steps That Could Cut Health Insurance Premiums And Boost Enrollment</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</link>
-      <description>August 25, 2017 - For now, the Affordable Care Act remains the law of the land. A consulting firm lays out four steps it says would lead to insurance coverage for millions more, at a lower cost.</description>
-      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/openenrollment_wide-f520fb141867df9a9a20d70cf1bc5163a96b4e8a-s800-c15.jpg"></a>
-
-August 25, 2017 - For now, the Affordable Care Act remains the law of the land. A consulting firm lays out four steps it says would lead to insurance coverage for millions more, at a lower cost.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment">http://www.npr.org/sections/health-shots/2017/08/25/546141203/four-steps-that-could-cut-health-insurance-premiums-and-boost-enrollment</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/openenrollment_wide-f520fb141867df9a9a20d70cf1bc5163a96b4e8a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

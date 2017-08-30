@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 14:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 30 Aug 2017 00:00:10 +0000</pubDate>
+    <pubDate>Wed, 30 Aug 2017 14:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_houstons_susceptibility_to_flooding.mp3?orgId=1&amp;topicId=1007&amp;d=217&amp;p=3&amp;story=547219475&amp;t=progseg&amp;e=547219068&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Houston&#39;s Susceptibility To Flooding</title>
+      <link>http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding</link>
+      <description>August 30, 2017 - Sam Brody, a professor at Texas A&amp;M at Galveston, talks with Ailsa Chang about how Houston area levees, reservoirs, dams and bayous have been holding up during the storm.</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_houstons_susceptibility_to_flooding.mp3?orgId=1&amp;topicId=1007&amp;d=217&amp;p=3&amp;story=547219475&amp;t=progseg&amp;e=547219068&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 30, 2017 - Sam Brody, a professor at Texas A&M at Galveston, talks with Ailsa Chang about how Houston area levees, reservoirs, dams and bayous have been holding up during the storm.
+
+<a href="http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding">http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>217</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_flooded_texas_chemical_plants_raise_concerns_about_toxic_emissions.mp3?orgId=252&amp;topicId=1091&amp;d=190&amp;p=3&amp;story=547219385&amp;t=progseg&amp;e=547219068&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Flooded Texas Chemical Plants Raise Concerns About Toxic Emissions</title>
+      <link>http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions</link>
+      <description>August 30, 2017 - Houston is home to hundreds of petrochemical plants and some of them are damaged by flooding. Environmental groups worry about toxic emissions, and one plant is at risk of a possible explosion.</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_flooded_texas_chemical_plants_raise_concerns_about_toxic_emissions.mp3?orgId=252&amp;topicId=1091&amp;d=190&amp;p=3&amp;story=547219385&amp;t=progseg&amp;e=547219068&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 30, 2017 - Houston is home to hundreds of petrochemical plants and some of them are damaged by flooding. Environmental groups worry about toxic emissions, and one plant is at risk of a possible explosion.
+
+<a href="http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions">http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>190</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_warren_buffett_backs_nuclear_fuel_bank_in_kazakhstan.mp3?orgId=1&amp;topicId=1125&amp;d=229&amp;p=2&amp;story=547099597&amp;t=progseg&amp;e=546975504&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Warren Buffett Backs Nuclear Fuel Bank In Kazakhstan</title>
@@ -220,36 +250,6 @@ August 28, 2017 - A recent study suggests that when people spend their extra cas
 <a href="http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff">http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/ksoleckifinal_wide-35f1b7fa710a08ea2c32eff91be71bf654f0ddcb-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>344</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_mayor.mp3?orgId=1&amp;topicId=1003&amp;d=278&amp;p=2&amp;story=546604737&amp;t=progseg&amp;e=546603325&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Houston Mayor Sylvester Turner On Hurricane Harvey Preparedness</title>
-      <link>http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</link>
-      <description>August 27, 2017 - Michel Martin talks to Houston Mayor Sylvester Turner about the storm pummeling the region.&#xA;&#xA; - http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_houston_mayor.mp3?orgId=1&amp;topicId=1003&amp;d=278&amp;p=2&amp;story=546604737&amp;t=progseg&amp;e=546603325&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 27, 2017 - Michel Martin talks to Houston Mayor Sylvester Turner about the storm pummeling the region.
-
-<a href="http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey">http://www.npr.org/2017/08/27/546604737/houston-mayor-sylvester-turner-on-the-lead-up-to-hurricane-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>278</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_coast_guard_update.mp3?orgId=1&amp;topicId=1003&amp;d=178&amp;p=2&amp;story=546604456&amp;t=progseg&amp;e=546603325&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Coast Guard Update: Houston Search And Rescue Efforts</title>
-      <link>http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts</link>
-      <description>August 27, 2017 - NPR&#39;s Michel Martin talks to a representative from the U.S. Coast Guard, Captain Kevin D. Oditt, about the how the search and rescue efforts are going in the city of Houston.</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170827_atc_coast_guard_update.mp3?orgId=1&amp;topicId=1003&amp;d=178&amp;p=2&amp;story=546604456&amp;t=progseg&amp;e=546603325&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 27, 2017 - NPR's Michel Martin talks to a representative from the U.S. Coast Guard, Captain Kevin D. Oditt, about the how the search and rescue efforts are going in the city of Houston.
-
-<a href="http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts">http://www.npr.org/2017/08/27/546604456/coast-guard-update-houston-search-and-rescue-efforts</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>178</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
