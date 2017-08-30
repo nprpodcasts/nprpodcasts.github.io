@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 20:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 21:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 30 Aug 2017 20:00:09 +0000</pubDate>
+    <pubDate>Wed, 30 Aug 2017 21:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</guid>
+      <title>In Houston, Most Hospitals &#39;Up And Fully Functional&#39;</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</link>
+      <description>August 30, 2017 - In the past few days, Southeast Texas&#39;s catastrophic medical operations center has faced challenges like they&#39;ve never seen before in keeping the health care system functioning.</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-019693a47cc5481607b363756a247a0aa8514375-s800-c15.jpg"></a>
+
+August 30, 2017 - In the past few days, Southeast Texas's catastrophic medical operations center has faced challenges like they've never seen before in keeping the health care system functioning.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional">http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-019693a47cc5481607b363756a247a0aa8514375-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/30/547051705/whatever-happened-to-those-farmers-who-needed-shoes</guid>
       <title>Whatever Happened To ... Those Farmers Who Needed Shoes?</title>
@@ -117,7 +132,7 @@ August 29, 2017 - With thousands of people displaced, health workers are trying 
     </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</guid>
-      <title>Epic Floods Challenge Aid Workers On Both Sides Of The World</title>
+      <title>Epic Floods Challenge Aid Workers On Opposite Sides Of The World</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</link>
       <description>August 29, 2017 - Two weeks before Hurricane Harvey struck, monsoon rains swamped Bangladesh, India and Nepal. Aid groups are struggling to deal with both disasters.</description>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
@@ -239,23 +254,6 @@ August 28, 2017 - A recent study suggests that when people spend their extra cas
 <a href="http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff">http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/ksoleckifinal_wide-35f1b7fa710a08ea2c32eff91be71bf654f0ddcb-s3000-c15.jpeg"></itunes:image>
       <itunes:duration>344</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_serious_nursing_home_abuse_often_not_reported_to_police_federal_investigators_find.mp3?orgId=1&amp;topicId=1028&amp;d=142&amp;p=3&amp;story=546460187&amp;t=progseg&amp;e=546667729&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Serious Nursing Home Abuse Often Not Reported To Police, Federal Investigators Find</title>
-      <link>http://www.npr.org/2017/08/28/546460187/serious-nursing-home-abuse-often-not-reported-to-police-federal-investigators-fi</link>
-      <description>August 28, 2017 - Despite legal requirements, more than one-quarter of cases of severe abuse that were uncovered by government investigators were not reported to the police. The majority involved sexual assault.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_serious_nursing_home_abuse_often_not_reported_to_police_federal_investigators_find.mp3?orgId=1&amp;topicId=1028&amp;d=142&amp;p=3&amp;story=546460187&amp;t=progseg&amp;e=546667729&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/27/ap_110901074366_wide-42fc9e1c64ef1b43cf564caebde276cc159478dc-s800-c15.jpg"></a>
-
-August 28, 2017 - Despite legal requirements, more than one-quarter of cases of severe abuse that were uncovered by government investigators were not reported to the police. The majority involved sexual assault.
-
-<a href="http://www.npr.org/2017/08/28/546460187/serious-nursing-home-abuse-often-not-reported-to-police-federal-investigators-fi">http://www.npr.org/2017/08/28/546460187/serious-nursing-home-abuse-often-not-reported-to-police-federal-investigators-fi</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/27/ap_110901074366_wide-42fc9e1c64ef1b43cf564caebde276cc159478dc-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>142</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
