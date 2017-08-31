@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 13:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 19:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 13:00:07 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 19:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The Smartphone Generation: Less Sex, Fewer Drinks, More Depression</title>
+      <link>http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</link>
+      <description>August 31, 2017 - A psychologist worries that thousands of young people are &#34;on the brink of a mental health crisis.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 31, 2017 - A psychologist worries that thousands of young people are "on the brink of a mental health crisis."
+
+<a href="http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation">http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2880</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_google-funded_think_tank_fires_scholar_who_criticized_tech_giant.mp3?orgId=1&amp;topicId=1059&amp;d=268&amp;p=3&amp;story=547491063&amp;t=progseg&amp;e=547490025&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant</title>
@@ -239,21 +254,6 @@ August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of ge
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet">http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170826_wesat_killer_robots_and_human_rights_watch.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=7&amp;story=546323236&amp;t=progseg&amp;e=546321762&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Human Rights Watch Raises Concerns Over Autonomous Weapons</title>
-      <link>http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</link>
-      <description>August 26, 2017 - NPR&#39;s Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group&#39;s call for a pre-emptive ban on fully autonomous weapons.</description>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/08/20170826_wesat_killer_robots_and_human_rights_watch.mp3?orgId=1&amp;topicId=1019&amp;d=257&amp;p=7&amp;story=546323236&amp;t=progseg&amp;e=546321762&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 26, 2017 - NPR's Scott Simon talks to Bonnie Docherty, senior arms researcher at Human Rights Watch, about the group's call for a pre-emptive ban on fully autonomous weapons.
-
-<a href="http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons">http://www.npr.org/2017/08/26/546323236/human-rights-watch-raises-concerns-over-autonomous-weapons</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>257</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

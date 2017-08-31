@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 18:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 18:00:17 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -66,6 +66,21 @@ August 31, 2017 - After five years, just 12 percent of people diagnosed with pap
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds">http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/thyroid-cancer3_wide-99a793cecab679d9862879dcae6d6134e1fd3ddb-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>The Smartphone Generation: Less Sex, Fewer Drinks, More Depression</title>
+      <link>http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</link>
+      <description>August 31, 2017 - A psychologist worries that thousands of young people are &#34;on the brink of a mental health crisis.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 31, 2017 - A psychologist worries that thousands of young people are "on the brink of a mental health crisis."
+
+<a href="http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation">http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 29, 2017 - Two weeks before Hurricane Harvey struck, monsoon rains swampe
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups">http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-835977482-60_wide-e78e712e144078f43e01f458f8b6a111e10d64b6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature</guid>
-      <title>For Navajos, Desert &#39;Tea&#39; Fosters Kinship With Heritage And Nature</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature</link>
-      <description>August 29, 2017 - Some Navajo are trying to bring back their traditional food culture, including drinking Navajo &#34;tea.&#34; It&#39;s brewed with a plant called greenthread that thrives in the mid-summer heat of the Southwest.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/teaadacowan-2_wide-a12854b38fec7263f43832318ab1f7ee132f137b-s800-c15.jpg"></a>
-
-August 29, 2017 - Some Navajo are trying to bring back their traditional food culture, including drinking Navajo "tea." It's brewed with a plant called greenthread that thrives in the mid-summer heat of the Southwest.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature">http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/teaadacowan-2_wide-a12854b38fec7263f43832318ab1f7ee132f137b-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
