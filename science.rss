@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 20:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 17:00:27 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 20:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants</guid>
+      <title>What To Do When Facing A Floating Ball Of Fire Ants</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants</link>
+      <description>August 31, 2017 - &#34;Avoid, avoid, avoid,&#34; one fire ant expert says. The ants, common in areas flooded by Harvey, can&#39;t be submerged underwater. But if you have a bottle of soapy water, you might be able to drown them.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/gettyimages-840953590_wide-0955806d503aa6d16bd031f879b57334e94387c6-s800-c15.jpg"></a>
+
+August 31, 2017 - "Avoid, avoid, avoid," one fire ant expert says. The ants, common in areas flooded by Harvey, can't be submerged underwater. But if you have a bottle of soapy water, you might be able to drown them.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants">http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/gettyimages-840953590_wide-0955806d503aa6d16bd031f879b57334e94387c6-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/31/547550216/ants-seaweed-chocolate-beer-and-maybe-less-meat-the-future-of-food</guid>
       <title>Ants, Seaweed, Chocolate Beer And (Maybe) Less Meat: The Future Of Food</title>
@@ -237,21 +252,6 @@ August 29, 2017 - The U.S.-based environmental activist group says it will not s
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/29/547015438/sea-shepherd-says-this-year-it-wont-send-ships-to-disrupt-japanese-whalers">http://www.npr.org/sections/thetwo-way/2017/08/29/547015438/sea-shepherd-says-this-year-it-wont-send-ships-to-disrupt-japanese-whalers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-135159355_wide-6e99d43bc98d190957f08d7699acdf22913b4ed2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</guid>
-      <title>What Does It Take To See Gentrification Before It Happens?</title>
-      <link>http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</link>
-      <description>August 29, 2017 - The great hope of urban advocates is to democratize data, allowing residents to see more clearly how a neighborhood is changing — but knowledge of those changes may accelerate them, says Adam Frank.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/istock-458993197_wide-f03e9dc3890f251176fc5e2a2d4e98055bfb4cc6-s800-c15.jpg"></a>
-
-August 29, 2017 - The great hope of urban advocates is to democratize data, allowing residents to see more clearly how a neighborhood is changing — but knowledge of those changes may accelerate them, says Adam Frank.
-
-<a href="http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens">http://www.npr.org/sections/13.7/2017/08/29/546980178/what-does-it-take-to-see-gentrification-before-it-happens</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/istock-458993197_wide-f03e9dc3890f251176fc5e2a2d4e98055bfb4cc6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
