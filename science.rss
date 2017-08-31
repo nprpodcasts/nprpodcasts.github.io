@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 21:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 13:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 30 Aug 2017 21:00:10 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 13:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,16 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/08/30/547373292/researchers-explore-new-methods-to-quantify-power-of-storms-after-harvey</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_houston_rescue.mp3?orgId=1&amp;topicId=1003&amp;d=313&amp;p=2&amp;story=547347581&amp;t=progseg&amp;e=547237668&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Riding With A Rescue Mission In The Surreal, Perilous Texas Floods</title>
+      <link>http://www.npr.org/2017/08/30/547347581/riding-with-a-rescue-mission-in-the-surreal-perilous-texas-floods</link>
+      <description>August 30, 2017 - Nearly a week since Harvey struck Houston, many people remain stranded by high water in their neighborhoods. NPR rode along on a citizen water-borne rescue operation.</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_houston_rescue.mp3?orgId=1&amp;topicId=1003&amp;d=313&amp;p=2&amp;story=547347581&amp;t=progseg&amp;e=547237668&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/30/20170829_untitled_0153-edit_wide-25341e3da3b0a94da62303eef346cf44e738987e-s800-c15.jpg"></a>
+
+August 30, 2017 - Nearly a week since Harvey struck Houston, many people remain stranded by high water in their neighborhoods. NPR rode along on a citizen water-borne rescue operation.
+
+<a href="http://www.npr.org/2017/08/30/547347581/riding-with-a-rescue-mission-in-the-surreal-perilous-texas-floods">http://www.npr.org/2017/08/30/547347581/riding-with-a-rescue-mission-in-the-surreal-perilous-texas-floods</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/20170829_untitled_0153-edit_wide-25341e3da3b0a94da62303eef346cf44e738987e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>313</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_researchers_explore_new_methods_to_quantify_power_of_storms_after_harvey.mp3?orgId=1&amp;topicId=1007&amp;d=115&amp;p=2&amp;story=547373292&amp;t=progseg&amp;e=547237668&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Researchers Explore New Methods To Quantify Power Of Storms After Harvey</title>
       <link>http://www.npr.org/2017/08/30/547373292/researchers-explore-new-methods-to-quantify-power-of-storms-after-harvey</link>
       <description>August 30, 2017 - As Harvey continues to dump damaging rain on the south, some researchers are looking at new ways to quantify the power of a big storm.</description>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_researchers_explore_new_methods_to_quantify_power_of_storms_after_harvey.mp3?orgId=1&amp;topicId=1007&amp;d=115&amp;p=2&amp;story=547373292&amp;t=progseg&amp;e=547237668&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 30, 2017 - As Harvey continues to dump damaging rain on the south, some researchers are looking at new ways to quantify the power of a big storm.
 
 <a href="http://www.npr.org/2017/08/30/547373292/researchers-explore-new-methods-to-quantify-power-of-storms-after-harvey">http://www.npr.org/2017/08/30/547373292/researchers-explore-new-methods-to-quantify-power-of-storms-after-harvey</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>115</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,21 +252,6 @@ August 29, 2017 - The president said he waited to visit until he could do so "wi
 <a href="http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey">http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>290</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_hurricane_harveys_size_and_impact_points_to_climate_change.mp3?orgId=1&amp;topicId=1007&amp;d=240&amp;p=2&amp;story=546831731&amp;t=progseg&amp;e=546679523&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Hurricane Harvey&#39;s Size And Impact Points To Climate Change</title>
-      <link>http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change</link>
-      <description>August 28, 2017 - Hurricane Harvey bears the marks of climate change. Warmer waters in the Gulf of Mexico and rising sea levels make rain heavy storms like Harvey more likely in the future.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_hurricane_harveys_size_and_impact_points_to_climate_change.mp3?orgId=1&amp;topicId=1007&amp;d=240&amp;p=2&amp;story=546831731&amp;t=progseg&amp;e=546679523&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 28, 2017 - Hurricane Harvey bears the marks of climate change. Warmer waters in the Gulf of Mexico and rising sea levels make rain heavy storms like Harvey more likely in the future.
-
-<a href="http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change">http://www.npr.org/2017/08/28/546831731/hurricane-harveys-size-and-impact-points-to-climate-change</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>240</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

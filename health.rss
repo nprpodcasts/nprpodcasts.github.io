@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 21:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 13:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 30 Aug 2017 21:00:13 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 13:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,35 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</guid>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/31/547317533/ornstein-it-s-better-in-hawaii</guid>
+      <title>Live In Hawaii, And Odds Are You&#39;ll Need Fewer Prescription Meds</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/31/547317533/ornstein-it-s-better-in-hawaii</link>
+      <description>August 31, 2017 - People who live in the Aloha State are less likely to use opioid painkillers or be prescribed antibiotics than are mainland dwellers. Healthy lifestyles have a lot to do with that.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-601196616-2_wide-44f6981a43bb44f2c6174212e6c85412244d29a8-s800-c15.jpg"></a>
+
+August 31, 2017 - People who live in the Aloha State are less likely to use opioid painkillers or be prescribed antibiotics than are mainland dwellers. Healthy lifestyles have a lot to do with that.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/31/547317533/ornstein-it-s-better-in-hawaii">http://www.npr.org/sections/health-shots/2017/08/31/547317533/ornstein-it-s-better-in-hawaii</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-601196616-2_wide-44f6981a43bb44f2c6174212e6c85412244d29a8-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_in_houston_most_hospitals_up_and_fully_functional.mp3?orgId=1&amp;topicId=1128&amp;d=285&amp;p=2&amp;story=547327581&amp;t=progseg&amp;e=547237668&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>In Houston, Most Hospitals &#39;Up And Fully Functional&#39;</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</link>
-      <description>August 30, 2017 - In the past few days, Southeast Texas&#39;s catastrophic medical operations center has faced challenges like they&#39;ve never seen before in keeping the health care system functioning.</description>
+      <description>August 30, 2017 - In the past few days, Southeast Texas&#39; catastrophic medical operations center has faced challenges like it has never seen before in keeping the health care system functioning.</description>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_in_houston_most_hospitals_up_and_fully_functional.mp3?orgId=1&amp;topicId=1128&amp;d=285&amp;p=2&amp;story=547327581&amp;t=progseg&amp;e=547237668&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-019693a47cc5481607b363756a247a0aa8514375-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-148679d4bc8157fee153bb76ae96d9f2de863963-s800-c15.jpg"></a>
 
-August 30, 2017 - In the past few days, Southeast Texas's catastrophic medical operations center has faced challenges like they've never seen before in keeping the health care system functioning.
+August 30, 2017 - In the past few days, Southeast Texas' catastrophic medical operations center has faced challenges like it has never seen before in keeping the health care system functioning.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional">http://www.npr.org/sections/health-shots/2017/08/30/547327581/in-houston-most-hospitals-up-and-fully-functional</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-019693a47cc5481607b363756a247a0aa8514375-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-840674248_wide-148679d4bc8157fee153bb76ae96d9f2de863963-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>285</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -69,11 +86,12 @@ August 30, 2017 - The government is warning people not to handle tiny turtles be
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_fda_approves_first_cell-based_gene_therapy_for_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=159&amp;p=2&amp;story=547293551&amp;t=progseg&amp;e=547237668&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>FDA Approves First Gene Therapy For Leukemia</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</link>
       <description>August 30, 2017 - The process modifies patients&#39; immune cells to attack their own cancer cells. It was approved to treat acute lymphoblastic leukemia in children and young adults — the most common childhood cancer.</description>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_fda_approves_first_cell-based_gene_therapy_for_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=159&amp;p=2&amp;story=547293551&amp;t=progseg&amp;e=547237668&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_sf5256_wide-0ad38958cb975cba7e1c65a6ed60829562da0b5f-s800-c15.jpg"></a>
 
@@ -81,14 +99,16 @@ August 30, 2017 - The process modifies patients' immune cells to attack their ow
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer">http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_sf5256_wide-0ad38958cb975cba7e1c65a6ed60829562da0b5f-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>159</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_this_is_surreal_houston_dialysis_center_struggles_to_treat_patients.mp3?orgId=1&amp;topicId=1128&amp;d=197&amp;p=3&amp;story=547004371&amp;t=progseg&amp;e=547490025&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;This Is Surreal&#39;: Houston Dialysis Center Struggles To Treat Patients</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients</link>
       <description>August 30, 2017 - People with kidney failure typically need dialysis every other day to stay healthy. Delays in treatment can quickly become life-threatening.</description>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_this_is_surreal_houston_dialysis_center_struggles_to_treat_patients.mp3?orgId=1&amp;topicId=1128&amp;d=197&amp;p=3&amp;story=547004371&amp;t=progseg&amp;e=547490025&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/dialysis-1_wide-4f57ffabaf99602bc987108594127dd22578ef24-s800-c15.jpg"></a>
 
@@ -96,6 +116,7 @@ August 30, 2017 - People with kidney failure typically need dialysis every other
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients">http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/dialysis-1_wide-4f57ffabaf99602bc987108594127dd22578ef24-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>197</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +258,6 @@ August 28, 2017 - The companies are "unscrupulous actors" marketing stem-cell tr
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments">http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-818637778_wide-333457d880c545d36eb1a3fe3ef34f325340e95e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_need_a_happiness_boost_spend_your_money_to_buy_time_not_more_stuff.mp3?orgId=1&amp;topicId=1128&amp;d=344&amp;p=3&amp;story=545839192&amp;t=progseg&amp;e=546667729&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Need A Happiness Boost? Spend Your Money To Buy Time, Not More Stuff</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff</link>
-      <description>August 28, 2017 - A recent study suggests that when people spend their extra cash to get help with time-consuming chores, they&#39;re likelier to feel better than if they use the money to buy more things.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170828_me_need_a_happiness_boost_spend_your_money_to_buy_time_not_more_stuff.mp3?orgId=1&amp;topicId=1128&amp;d=344&amp;p=3&amp;story=545839192&amp;t=progseg&amp;e=546667729&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/25/ksoleckifinal_wide-35f1b7fa710a08ea2c32eff91be71bf654f0ddcb-s800-c15.jpeg"></a>
-
-August 28, 2017 - A recent study suggests that when people spend their extra cash to get help with time-consuming chores, they're likelier to feel better than if they use the money to buy more things.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff">http://www.npr.org/sections/health-shots/2017/08/28/545839192/need-a-happiness-boost-spend-your-money-to-buy-time-not-more-stuff</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/ksoleckifinal_wide-35f1b7fa710a08ea2c32eff91be71bf654f0ddcb-s3000-c15.jpeg"></itunes:image>
-      <itunes:duration>344</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
