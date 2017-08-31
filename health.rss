@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 17:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 18:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 17:00:29 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 18:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</guid>
+      <title>An &#39;Army Of People&#39; Helps Houston Cancer Patients Get Treatment</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</link>
+      <description>August 31, 2017 - During hurricane Harvey, doctors, nurses, technicians and facilities staff tended to inpatients at MD Anderson Cancer Center. Now the hospital is working to get outpatients back for care as well.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/pavilion_354a8230-1-_wide-1f2f876db6455bf9bfa272b7fb4b2d584da3dac1-s800-c15.jpg"></a>
+
+August 31, 2017 - During hurricane Harvey, doctors, nurses, technicians and facilities staff tended to inpatients at MD Anderson Cancer Center. Now the hospital is working to get outpatients back for care as well.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment">http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/pavilion_354a8230-1-_wide-1f2f876db6455bf9bfa272b7fb4b2d584da3dac1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/08/31/547550216/ants-seaweed-chocolate-beer-and-maybe-less-meat-the-future-of-food</guid>
       <title>Ants, Seaweed, Chocolate Beer And (Maybe) Less Meat: The Future Of Food</title>
@@ -40,14 +55,14 @@ August 31, 2017 - When it comes to finding and preparing food, we're a continual
     </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds</guid>
-      <title>People Can Delay Treatment For Thyroid Cancer, Study Finds</title>
+      <title>Many People Can Delay Treatment For Thyroid Cancer, Study Finds</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds</link>
-      <description>August 31, 2017 - After five years, just 12 percent of people diagnosed with papillary thyroid cancer had their tumors grow by 3 millimeters or more, a study found. And in some people, the tumors shrank.</description>
+      <description>August 31, 2017 - After five years, just 12 percent of people diagnosed with papillary thyroid cancer saw their tumors grow by 3 millimeters or more, a study found. And in some people, the tumors shrank.</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/thyroid-cancer3_wide-99a793cecab679d9862879dcae6d6134e1fd3ddb-s800-c15.jpg"></a>
 
-August 31, 2017 - After five years, just 12 percent of people diagnosed with papillary thyroid cancer had their tumors grow by 3 millimeters or more, a study found. And in some people, the tumors shrank.
+August 31, 2017 - After five years, just 12 percent of people diagnosed with papillary thyroid cancer saw their tumors grow by 3 millimeters or more, a study found. And in some people, the tumors shrank.
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds">http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/thyroid-cancer3_wide-99a793cecab679d9862879dcae6d6134e1fd3ddb-s3000-c15.jpg"></itunes:image>
@@ -239,23 +254,6 @@ August 29, 2017 - Some Navajo are trying to bring back their traditional food cu
 
 <a href="http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature">http://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/teaadacowan-2_wide-a12854b38fec7263f43832318ab1f7ee132f137b-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_in_alaska_hepatitis_c_rate_rises_due_to_injection_opioid_use.mp3?orgId=168&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=547054395&amp;t=progseg&amp;e=546679523&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Syringe Exchange Program Aims To Slow Hepatitis C Infections In Alaska </title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska</link>
-      <description>August 29, 2017 - As the nation&#39;s opioid abuse problem soars, so do health problems associated with drug use like hepatitis C, which is placing a major burden on Alaska&#39;s Medicaid program.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_in_alaska_hepatitis_c_rate_rises_due_to_injection_opioid_use.mp3?orgId=168&amp;topicId=1128&amp;d=235&amp;p=2&amp;story=547054395&amp;t=progseg&amp;e=546679523&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/20170616--needles-in-a-trashcan_wide-f88acd66f29661e1669562696e1401c88215c720-s800-c15.jpg"></a>
-
-August 29, 2017 - As the nation's opioid abuse problem soars, so do health problems associated with drug use like hepatitis C, which is placing a major burden on Alaska's Medicaid program.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska">http://www.npr.org/sections/health-shots/2017/08/29/547054395/syringe-exchange-program-aims-to-slow-hepatitis-c-infections-in-alaska</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/20170616--needles-in-a-trashcan_wide-f88acd66f29661e1669562696e1401c88215c720-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
