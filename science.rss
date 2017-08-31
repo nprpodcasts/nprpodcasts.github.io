@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 21:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 22:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 21:00:07 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 22:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/08/31/547606153/coral-reef-fish-are-more-resilient-than-we-thought-study-finds</guid>
+      <title>Coral Reef Fish Are More Resilient Than We Thought, Study Finds</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/08/31/547606153/coral-reef-fish-are-more-resilient-than-we-thought-study-finds</link>
+      <description>August 31, 2017 - Ocean acidification can cause reckless behavior in coral reef fish. But researchers say that coral reef environments have large chemical variations daily, which can offer recovery time for fish. </description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/clownfish_wide-9a1eb5fefa0c7f9df6bb7b714004594f0c8b1db5-s800-c15.jpg"></a>
+
+August 31, 2017 - Ocean acidification can cause reckless behavior in coral reef fish. But researchers say that coral reef environments have large chemical variations daily, which can offer recovery time for fish. 
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/08/31/547606153/coral-reef-fish-are-more-resilient-than-we-thought-study-finds">http://www.npr.org/sections/thetwo-way/2017/08/31/547606153/coral-reef-fish-are-more-resilient-than-we-thought-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/clownfish_wide-9a1eb5fefa0c7f9df6bb7b714004594f0c8b1db5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey</guid>
       <title>Chemical Plant Fire Raises Environmental Concerns In Wake Of Harvey</title>
@@ -38,7 +53,7 @@
     </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants</guid>
-      <title>What To Do When Facing A Floating Ball Of Fire Ants In Harvey&#39;s Floodwaters</title>
+      <title>What To Do When Facing A Floating Ball Of Fire Ants </title>
       <link>http://www.npr.org/sections/thetwo-way/2017/08/31/547541719/what-to-do-when-facing-a-floating-ball-of-fire-ants</link>
       <description>August 31, 2017 - &#34;Avoid, avoid, avoid,&#34; one fire ant expert says. The ants, common in areas flooded by Harvey, can&#39;t be submerged underwater. But if you have a bottle of soapy water, you might be able to drown them.</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
@@ -233,23 +248,6 @@ August 29, 2017 - The dead sharks, mostly endangered hammerheads, were part of a
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison">http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/ap_17228545315756_wide-5546ba89c53e3be274fba3db14eb68c262696167-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Moldy Hay And Sick Cows Led To A Lifesaving Drug</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</link>
-      <description>August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_how_moldy_hay_and_sick_cows_led_to_a_lifesaving_drug.mp3?orgId=1&amp;topicId=1128&amp;aggIds=156490415&amp;d=185&amp;p=2&amp;story=531749974&amp;t=progseg&amp;e=546975504&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s800-c15.jpg"></a>
-
-August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes its existence to some cows who got very sick after eating spoiled hay — and to a chemist who spent years trying to figure out why.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug">http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>185</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 21:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 22:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 21:00:09 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 22:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</guid>
+      <title>For Grocery Stores In Texas, It&#39;s A Race To Restock Their Shelves</title>
+      <link>http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</link>
+      <description>August 31, 2017 - Hurricane Harvey destroyed intricate supply chains that keep supermarket shelves stocked with perishable food. Grocery stores are already rebuilding those networks.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/ap_17241857819279-2_wide-ae57511b71718f70f25f975563ccaa550c26c553-s800-c15.jpg"></a>
+
+August 31, 2017 - Hurricane Harvey destroyed intricate supply chains that keep supermarket shelves stocked with perishable food. Grocery stores are already rebuilding those networks.
+
+<a href="http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves">http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/ap_17241857819279-2_wide-ae57511b71718f70f25f975563ccaa550c26c553-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</guid>
       <title>Why Some Muslims In Pakistan Won&#39;t Be Able To Buy A Goat This Year</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</link>
-      <description>August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid al-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.</description>
+      <description>August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid l-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-07af54abefe4cc396a1862327ac0f9e374b48bb0-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-618276097a988bf6a029bbd2b90520ff51ec83e6-s800-c15.jpg"></a>
 
-August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid al-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.
+August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid l-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year">http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-07af54abefe4cc396a1862327ac0f9e374b48bb0-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-618276097a988bf6a029bbd2b90520ff51ec83e6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,23 +252,6 @@ August 30, 2017 - Lawmakers looking to stabilize the health insurance exchanges 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-631979642_wide-98a548aebd13c6ce7fcc1960d40907137f68cde6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_health_issues_stack_up_in_houston_as_evacuees_seek_shelter.mp3?orgId=1&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=547027763&amp;t=progseg&amp;e=546975504&amp;seg=2&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Health Issues Stack Up In Houston As Harvey Evacuees Seek Shelter</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter</link>
-      <description>August 29, 2017 - With thousands of people displaced, health workers are trying to address the immediate medical needs of evacuees as well as mental health issues made worse by the disaster.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170829_atc_health_issues_stack_up_in_houston_as_evacuees_seek_shelter.mp3?orgId=1&amp;topicId=1128&amp;d=270&amp;p=2&amp;story=547027763&amp;t=progseg&amp;e=546975504&amp;seg=2&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-840577266_wide-22af67b562e30ac21f8df5313abb07c4e086ed9a-s800-c15.jpg"></a>
-
-August 29, 2017 - With thousands of people displaced, health workers are trying to address the immediate medical needs of evacuees as well as mental health issues made worse by the disaster.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter">http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-840577266_wide-22af67b562e30ac21f8df5313abb07c4e086ed9a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>270</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
