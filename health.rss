@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 20:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 21:00:09 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 20:00:04 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 21:00:09 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</guid>
+      <title>Why Some Muslims In Pakistan Won&#39;t Be Able To Buy A Goat This Year</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</link>
+      <description>August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid al-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-07af54abefe4cc396a1862327ac0f9e374b48bb0-s800-c15.jpg"></a>
+
+August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid al-Adha is the sign of a strong household. But harsh droughts in the Karachi area are making it hard for families to afford one.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year">http://www.npr.org/sections/goatsandsoda/2017/08/31/547286796/why-some-muslims-in-pakistan-wont-be-able-to-buy-a-goat-this-year</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/herder1-x4-50_wide-07af54abefe4cc396a1862327ac0f9e374b48bb0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</guid>
       <title>An &#39;Army Of People&#39; Helps Houston Cancer Patients Get Treatment</title>
@@ -239,21 +254,6 @@ August 29, 2017 - With thousands of people displaced, health workers are trying 
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter">http://www.npr.org/sections/health-shots/2017/08/29/547027763/health-issues-stack-up-in-houston-as-harvey-evacuees-seek-shelter</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-840577266_wide-22af67b562e30ac21f8df5313abb07c4e086ed9a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>270</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</guid>
-      <title>Epic Floods Challenge Aid Workers On Opposite Sides Of The World</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</link>
-      <description>August 29, 2017 - Two weeks before Hurricane Harvey struck, monsoon rains swamped Bangladesh, India and Nepal. Aid groups are struggling to deal with both disasters.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-835977482-60_wide-e78e712e144078f43e01f458f8b6a111e10d64b6-s800-c15.jpg"></a>
-
-August 29, 2017 - Two weeks before Hurricane Harvey struck, monsoon rains swamped Bangladesh, India and Nepal. Aid groups are struggling to deal with both disasters.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups">http://www.npr.org/sections/goatsandsoda/2017/08/29/547002884/epic-floods-not-just-in-texas-are-a-challenge-for-aid-groups</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-835977482-60_wide-e78e712e144078f43e01f458f8b6a111e10d64b6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

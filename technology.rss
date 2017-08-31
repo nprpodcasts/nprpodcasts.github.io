@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 19:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 21:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 19:00:16 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 21:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</guid>
+      <title>Facebook Prepares To Launch New Video Streaming Service</title>
+      <link>http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</link>
+      <description>August 31, 2017 - Facebook is rolling out it&#39;s new video streaming service this week. &#34;Facebook Watch&#34; is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It&#39;s paid for by ads, which could be aimed directly at you, since Facebook knows all about you.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[August 31, 2017 - Facebook is rolling out it's new video streaming service this week. "Facebook Watch" is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It's paid for by ads, which could be aimed directly at you, since Facebook knows all about you.
+
+<a href="http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service">http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1</guid>
       <title>The Smartphone Generation: Less Sex, Fewer Drinks, More Depression</title>
@@ -239,21 +252,6 @@ August 27, 2017 - Miscarriage, while widely experienced, is not often discussed 
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters">http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/25/npr_miscarriage_color_resized_wide-30c0f9702242e232b59a26dcc73b177eab24d360-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</guid>
-      <title>Why Don&#39;t We Have Princess Leia Holograms Yet? </title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</link>
-      <description>August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they&#39;re getting pretty close. One obstacle: Current computing systems just aren&#39;t up to it.</description>
-      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s800-c15.jpg"></a>
-
-August 26, 2017 - Researchers continue to chase down the sci-fi holy grail of genuine free-standing holograms — and they're getting pretty close. One obstacle: Current computing systems just aren't up to it.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet">http://www.npr.org/sections/alltechconsidered/2017/08/26/546084473/why-don-t-we-have-princess-leia-holograms-yet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/illumyn-1_wide-0085179897e025e9d916813627f527093dd08e94-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
