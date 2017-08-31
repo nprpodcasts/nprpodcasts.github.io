@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 13:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 16:00:27 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 13:00:08 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 16:00:27 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/08/31/547332452/from-hawk-to-horse-animal-rescues-during-hurricane-harvey</guid>
+      <title>From Hawk To Horse: Animal Rescues During Hurricane Harvey</title>
+      <link>http://www.npr.org/sections/13.7/2017/08/31/547332452/from-hawk-to-horse-animal-rescues-during-hurricane-harvey</link>
+      <description>August 31, 2017 - A storm of this magnitude affects many animals. Uplifting videos show people rescuing all kinds of animals from Hurricane Harvey&#39;s floodwaters, says anthropologist Barbara J. King.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/ap_17242855706710_wide-6edd5ba2fe36f7601637c0764a9141b337084e91-s800-c15.jpg"></a>
+
+August 31, 2017 - A storm of this magnitude affects many animals. Uplifting videos show people rescuing all kinds of animals from Hurricane Harvey's floodwaters, says anthropologist Barbara J. King.
+
+<a href="http://www.npr.org/sections/13.7/2017/08/31/547332452/from-hawk-to-horse-animal-rescues-during-hurricane-harvey">http://www.npr.org/sections/13.7/2017/08/31/547332452/from-hawk-to-horse-animal-rescues-during-hurricane-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/ap_17242855706710_wide-6edd5ba2fe36f7601637c0764a9141b337084e91-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_houston_rescue.mp3?orgId=1&amp;topicId=1003&amp;d=313&amp;p=2&amp;story=547347581&amp;t=progseg&amp;e=547237668&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
       <title>Riding With A Rescue Mission In The Surreal, Perilous Texas Floods</title>
@@ -237,21 +252,6 @@ August 29, 2017 - The president said he waited to visit until he could do so "wi
 
 <a href="http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort">http://www.npr.org/2017/08/29/546861395/trump-texas-visit-highlights-federal-response-effort</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-840568988_wide-f5dead39f607e8bcc44fa8f9b38bebf4729c3514-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_louisiana_texas_prepare_for_more_rain_from_hurricane_harvey.mp3?orgId=1&amp;topicId=1091&amp;d=290&amp;p=2&amp;story=546862811&amp;t=progseg&amp;e=546679523&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Louisiana, Texas Prepare For More Rain From Tropical Storm Harvey</title>
-      <link>http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</link>
-      <description>August 28, 2017 - Texas and Louisiana are steeling for more rain from now tropical storm Harvey. Rising temperatures factored into the size and impact of the storm.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_louisiana_texas_prepare_for_more_rain_from_hurricane_harvey.mp3?orgId=1&amp;topicId=1091&amp;d=290&amp;p=2&amp;story=546862811&amp;t=progseg&amp;e=546679523&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 28, 2017 - Texas and Louisiana are steeling for more rain from now tropical storm Harvey. Rising temperatures factored into the size and impact of the storm.
-
-<a href="http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey">http://www.npr.org/2017/08/28/546862811/louisiana-texas-prepare-for-more-rain-from-tropical-storm-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>290</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

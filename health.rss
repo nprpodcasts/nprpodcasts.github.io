@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 14:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 16:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 14:00:08 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 16:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/08/31/546997094/whatever-happened-to-the-surgeon-who-couldn-t-count-on-electricity</guid>
+      <title>Whatever Happened To ... The Surgeon Who Couldn&#39;t Count On Electricity?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/08/31/546997094/whatever-happened-to-the-surgeon-who-couldn-t-count-on-electricity</link>
+      <description>August 31, 2017 - His goal: to perform surgery. The problem: power outages and finicky machines. We check back in with a doctor in Ghana.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/surrey_2_wide-2e2caa18ba37ef2cd5bf84091201350ed21ebacd-s800-c15.jpg"></a>
+
+August 31, 2017 - His goal: to perform surgery. The problem: power outages and finicky machines. We check back in with a doctor in Ghana.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/08/31/546997094/whatever-happened-to-the-surgeon-who-couldn-t-count-on-electricity">http://www.npr.org/sections/goatsandsoda/2017/08/31/546997094/whatever-happened-to-the-surgeon-who-couldn-t-count-on-electricity</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/surrey_2_wide-2e2caa18ba37ef2cd5bf84091201350ed21ebacd-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/31/547320586/fatherhood-after-forty-its-now-a-lot-more-common-study-finds</guid>
       <title>Fatherhood After 40? It&#39;s Becoming A Lot More Common</title>
@@ -243,21 +258,6 @@ August 29, 2017 - Learning strategies to deal with chronic pain can be an effect
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids">http://www.npr.org/sections/health-shots/2017/08/29/546145817/holistic-therapy-programs-may-help-pain-sufferers-ditch-opioids</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-568775853_wide-64fc60ff3d65de3abe5e498d8bb0af6bfd438289-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</guid>
-      <title>Stay Safe And Get A Tetanus Shot, Texas Health Officials Urge</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</link>
-      <description>August 28, 2017 - Texas public health officials are looking ahead to meeting health needs in the days and weeks ahead, including getting prescriptions to people displaced to shelters.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-840255390-2_wide-e6634ac435c40d690d16ad956018de4073d40939-s800-c15.jpg"></a>
-
-August 28, 2017 - Texas public health officials are looking ahead to meeting health needs in the days and weeks ahead, including getting prescriptions to people displaced to shelters.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge">http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840255390-2_wide-e6634ac435c40d690d16ad956018de4073d40939-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
