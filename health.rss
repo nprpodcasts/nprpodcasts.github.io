@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 13:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 14:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 13:00:10 +0000</pubDate>
+    <pubDate>Thu, 31 Aug 2017 14:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/08/31/547320586/fatherhood-after-forty-its-now-a-lot-more-common-study-finds</guid>
+      <title>Fatherhood After 40? It&#39;s Becoming A Lot More Common</title>
+      <link>http://www.npr.org/sections/health-shots/2017/08/31/547320586/fatherhood-after-forty-its-now-a-lot-more-common-study-finds</link>
+      <description>August 31, 2017 - The average age for fathers of newborns in the U.S. has risen from 27.4 years back in 1972 to 30.9 years now. And if the baby&#39;s dad has a college degree, he&#39;s likely to be even older.</description>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-523463870_wide-bf81f5deded256602f3d4635c1504f517439b96b-s800-c15.jpg"></a>
+
+August 31, 2017 - The average age for fathers of newborns in the U.S. has risen from 27.4 years back in 1972 to 30.9 years now. And if the baby's dad has a college degree, he's likely to be even older.
+
+<a href="http://www.npr.org/sections/health-shots/2017/08/31/547320586/fatherhood-after-forty-its-now-a-lot-more-common-study-finds">http://www.npr.org/sections/health-shots/2017/08/31/547320586/fatherhood-after-forty-its-now-a-lot-more-common-study-finds</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-523463870_wide-bf81f5deded256602f3d4635c1504f517439b96b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/08/31/547317533/ornstein-it-s-better-in-hawaii</guid>
       <title>Live In Hawaii, And Odds Are You&#39;ll Need Fewer Prescription Meds</title>
@@ -243,21 +258,6 @@ August 28, 2017 - Texas public health officials are looking ahead to meeting hea
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge">http://www.npr.org/sections/health-shots/2017/08/28/546781492/stay-safe-and-get-a-tetanus-shot-texas-health-officials-urge</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840255390-2_wide-e6634ac435c40d690d16ad956018de4073d40939-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</guid>
-      <title>FDA Cracks Down On Stem-Cell Clinics Selling Unapproved Treatments</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</link>
-      <description>August 28, 2017 - The companies are &#34;unscrupulous actors&#34; marketing stem-cell treatments that have not been proved effective and may be dangerous, the FDA says. It took action against clinics in Florida and California.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-818637778_wide-333457d880c545d36eb1a3fe3ef34f325340e95e-s800-c15.jpg"></a>
-
-August 28, 2017 - The companies are "unscrupulous actors" marketing stem-cell treatments that have not been proved effective and may be dangerous, the FDA says. It took action against clinics in Florida and California.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments">http://www.npr.org/sections/health-shots/2017/08/28/546719842/fda-cracks-down-on-stem-cell-clinics-selling-unapproved-treatments</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-818637778_wide-333457d880c545d36eb1a3fe3ef34f325340e95e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
