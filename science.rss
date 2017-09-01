@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 22:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 14:20:59 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 22:00:10 +0000</pubDate>
+    <pubDate>Fri, 01 Sep 2017 14:20:59 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_the_lsu_tigers_new_tiger_makes_his_debut.mp3?orgId=1&amp;topicId=1132&amp;d=151&amp;p=3&amp;story=547270000&amp;t=progseg&amp;e=547774376&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The LSU Tigers&#39; New Tiger Makes His Debut</title>
+      <link>http://www.npr.org/2017/09/01/547270000/the-lsu-tigers-new-tiger-makes-his-debut</link>
+      <description>September 1, 2017 - Louisiana State University&#39;s live tiger mascot is an institution. Recently, the school got a new tiger — just in time for football season.&#xA;&#xA; - http://www.npr.org/2017/09/01/547270000/the-lsu-tigers-new-tiger-makes-his-debut</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_the_lsu_tigers_new_tiger_makes_his_debut.mp3?orgId=1&amp;topicId=1132&amp;d=151&amp;p=3&amp;story=547270000&amp;t=progseg&amp;e=547774376&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/mike1_wide-5ae1111130ae0b6606bc3634a81feba88dd7fd59-s800-c15.jpg"></a>
+
+September 1, 2017 - Louisiana State University's live tiger mascot is an institution. Recently, the school got a new tiger — just in time for football season.
+
+<a href="http://www.npr.org/2017/09/01/547270000/the-lsu-tigers-new-tiger-makes-his-debut">http://www.npr.org/2017/09/01/547270000/the-lsu-tigers-new-tiger-makes-his-debut</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/mike1_wide-5ae1111130ae0b6606bc3634a81feba88dd7fd59-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>151</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/08/31/547606153/coral-reef-fish-are-more-resilient-than-we-thought-study-finds</guid>
       <title>Coral Reef Fish Are More Resilient Than We Thought, Study Finds</title>
@@ -39,16 +56,18 @@ August 31, 2017 - Ocean acidification can cause reckless behavior in coral reef 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_chemical_plant_fire_raises_environmental_concerns_in_wake_of_harvey.mp3?orgId=1&amp;topicId=1025&amp;d=235&amp;p=2&amp;story=547646702&amp;t=progseg&amp;e=547496184&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Chemical Plant Fire Raises Environmental Concerns In Wake Of Harvey</title>
       <link>http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey</link>
       <description>August 31, 2017 - A fire at a chemical plant near Houston has raised concerns about the environmental consequences of the storm.&#xA;&#xA; - http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_chemical_plant_fire_raises_environmental_concerns_in_wake_of_harvey.mp3?orgId=1&amp;topicId=1025&amp;d=235&amp;p=2&amp;story=547646702&amp;t=progseg&amp;e=547496184&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 31, 2017 - A fire at a chemical plant near Houston has raised concerns about the environmental consequences of the storm.
 
 <a href="http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey">http://www.npr.org/2017/08/31/547646702/chemical-plant-fire-raises-environmental-concerns-in-wake-of-harvey</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>235</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -233,21 +252,6 @@ August 30, 2017 - Concern is growing that flood damage from Hurricane Harvey to 
 <a href="http://www.npr.org/2017/08/29/547099667/trumps-proposed-budget-cuts-could-undermine-harvey-relief-efforts">http://www.npr.org/2017/08/29/547099667/trumps-proposed-budget-cuts-could-undermine-harvey-relief-efforts</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>210</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</guid>
-      <title>Fishermen Caught With 6,600 Sharks In Galápagos, Now Headed To Prison</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</link>
-      <description>August 29, 2017 - The dead sharks, mostly endangered hammerheads, were part of a 300-ton haul of fish found on a Chinese boat off the Galápagos Islands. An Ecuadorean judge fined and jailed the crew up to four years.</description>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/ap_17228545315756_wide-5546ba89c53e3be274fba3db14eb68c262696167-s800-c15.jpg"></a>
-
-August 29, 2017 - The dead sharks, mostly endangered hammerheads, were part of a 300-ton haul of fish found on a Chinese boat off the Galápagos Islands. An Ecuadorean judge fined and jailed the crew up to four years.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison">http://www.npr.org/sections/thetwo-way/2017/08/29/547034125/fishermen-caught-with-6-600-sharks-in-galapagos-now-headed-to-prison</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/ap_17228545315756_wide-5546ba89c53e3be274fba3db14eb68c262696167-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

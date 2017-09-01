@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 22:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 14:21:01 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 22:00:07 +0000</pubDate>
+    <pubDate>Fri, 01 Sep 2017 14:21:01 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</guid>
+      <title>What Is &#39;Fruit Concentrate,&#39; Anyway? And Is It Good For You?</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</link>
+      <description>September 1, 2017 - The mystery ingredient pops up in a lot of household favorites, but its nutrition levels depends on how it&#39;s used.&#xA;&#xA; - http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/concentrate-final_resize_wide-268cfe842f6c200be5b5ab8e23eb858abc44825d-s800-c15.jpg"></a>
+
+September 1, 2017 - The mystery ingredient pops up in a lot of household favorites, but its nutrition levels depends on how it's used.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you">http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/concentrate-final_resize_wide-268cfe842f6c200be5b5ab8e23eb858abc44825d-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_a_father_to_his_son_i_know_what_its_like_living_with_tourettes_syndrome.mp3?orgId=1&amp;topicId=1129&amp;aggIds=4516989&amp;d=184&amp;p=3&amp;story=547412867&amp;t=progseg&amp;e=547774376&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>A Father To His Son: &#39;I Know What It&#39;s Like&#39; Living With Tourette&#39;s Syndrome</title>
+      <link>http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome</link>
+      <description>September 1, 2017 - Josh Hanagarne has an extreme form of Tourette&#39;s syndrome, where his tics — or involuntary movements and sounds — have been so severe, they&#39;ve put him in the hospital.</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_a_father_to_his_son_i_know_what_its_like_living_with_tourettes_syndrome.mp3?orgId=1&amp;topicId=1129&amp;aggIds=4516989&amp;d=184&amp;p=3&amp;story=547412867&amp;t=progseg&amp;e=547774376&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/hanagarnenpr_wide-a4d5517f4b8237b19f1da46b4e7eab103286e1db-s800-c15.jpg"></a>
+
+September 1, 2017 - Josh Hanagarne has an extreme form of Tourette's syndrome, where his tics — or involuntary movements and sounds — have been so severe, they've put him in the hospital.
+
+<a href="http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome">http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/hanagarnenpr_wide-a4d5517f4b8237b19f1da46b4e7eab103286e1db-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>184</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</guid>
       <title>For Grocery Stores In Texas, It&#39;s A Race To Restock Their Shelves</title>
@@ -54,11 +86,12 @@ August 31, 2017 - Buying a sacrificial goat for the Muslim holiday of Eid l-Adha
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_an_army_of_people_helps_houston_cancer_patients_get_treatment.mp3?orgId=1&amp;topicId=1128&amp;d=175&amp;p=3&amp;story=547539504&amp;t=progseg&amp;e=547774376&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>An &#39;Army Of People&#39; Helps Houston Cancer Patients Get Treatment</title>
       <link>http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</link>
       <description>August 31, 2017 - During Harvey, doctors, nurses, technicians and facilities staff tended to inpatients at MD Anderson Cancer Center. Now the hospital is working to get outpatients back for care as well.</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_an_army_of_people_helps_houston_cancer_patients_get_treatment.mp3?orgId=1&amp;topicId=1128&amp;d=175&amp;p=3&amp;story=547539504&amp;t=progseg&amp;e=547774376&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/pavilion_354a8230-1-_wide-1f2f876db6455bf9bfa272b7fb4b2d584da3dac1-s800-c15.jpg"></a>
 
@@ -66,6 +99,7 @@ August 31, 2017 - During Harvey, doctors, nurses, technicians and facilities sta
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment">http://www.npr.org/sections/health-shots/2017/08/31/547539504/an-army-of-people-helps-houston-cancer-patients-get-treatment</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/pavilion_354a8230-1-_wide-1f2f876db6455bf9bfa272b7fb4b2d584da3dac1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>175</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -220,38 +254,6 @@ August 30, 2017 - The process modifies patients' immune cells to attack their ow
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer">http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_sf5256_wide-0ad38958cb975cba7e1c65a6ed60829562da0b5f-s3000-c15.jpg"></itunes:image>
       <itunes:duration>159</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_this_is_surreal_houston_dialysis_center_struggles_to_treat_patients.mp3?orgId=1&amp;topicId=1128&amp;d=197&amp;p=3&amp;story=547004371&amp;t=progseg&amp;e=547490025&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>&#39;This Is Surreal&#39;: Houston Dialysis Center Struggles To Treat Patients</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients</link>
-      <description>August 30, 2017 - People with kidney failure typically need dialysis every other day to stay healthy. Delays in treatment can quickly become life-threatening.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_this_is_surreal_houston_dialysis_center_struggles_to_treat_patients.mp3?orgId=1&amp;topicId=1128&amp;d=197&amp;p=3&amp;story=547004371&amp;t=progseg&amp;e=547490025&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/dialysis-1_wide-4f57ffabaf99602bc987108594127dd22578ef24-s800-c15.jpg"></a>
-
-August 30, 2017 - People with kidney failure typically need dialysis every other day to stay healthy. Delays in treatment can quickly become life-threatening.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients">http://www.npr.org/sections/health-shots/2017/08/30/547004371/this-is-surreal-houston-dialysis-center-struggles-to-treat-patients</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/dialysis-1_wide-4f57ffabaf99602bc987108594127dd22578ef24-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>197</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</guid>
-      <title>5 Controversial Ideas For Shoring Up Health Insurance Markets</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</link>
-      <description>August 30, 2017 - Lawmakers looking to stabilize the health insurance exchanges may consider a number of proposals — including pushing young adults off a parent&#39;s plan or letting people buy into Medicare and Medicaid.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/29/gettyimages-631979642_wide-98a548aebd13c6ce7fcc1960d40907137f68cde6-s800-c15.jpg"></a>
-
-August 30, 2017 - Lawmakers looking to stabilize the health insurance exchanges may consider a number of proposals — including pushing young adults off a parent's plan or letting people buy into Medicare and Medicaid.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets">http://www.npr.org/sections/health-shots/2017/08/30/546793927/5-controversial-ideas-for-shoring-up-health-insurance-markets</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/gettyimages-631979642_wide-98a548aebd13c6ce7fcc1960d40907137f68cde6-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
