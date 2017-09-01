@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 19:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 20:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 01 Sep 2017 19:00:12 +0000</pubDate>
+    <pubDate>Fri, 01 Sep 2017 20:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</guid>
+      <title>Countries Pledge To Recover Dwindling Pacific Bluefin Tuna Population</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</link>
+      <description>September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-2604142626a8c42f5be462718dae5f885e983265-s800-c15.jpg"></a>
+
+September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population">http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-2604142626a8c42f5be462718dae5f885e983265-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</guid>
       <title>Texas Expedites Help From Out-Of-State Health Care Providers</title>
@@ -45,12 +60,12 @@ September 1, 2017 - As the medical and mental health needs of people affected by
       <description>September 1, 2017 - That stings! A new study suggests that fragments of plant genetic material in the pollen-rich diets of worker bee larvae ensures that they never grow up to be queens. </description>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-d7c03d06d0cb085cfcb66b875aaea47ac2b66c78-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-71a7364f5c5c1a93b1c66731fd3e93fea362c08e-s800-c15.jpg"></a>
 
 September 1, 2017 - That stings! A new study suggests that fragments of plant genetic material in the pollen-rich diets of worker bee larvae ensures that they never grow up to be queens. 
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals">http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-d7c03d06d0cb085cfcb66b875aaea47ac2b66c78-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-71a7364f5c5c1a93b1c66731fd3e93fea362c08e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,23 +250,6 @@ August 30, 2017 - As global warming changes the planet, we will experience many 
 <a href="http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding">http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>217</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_flooded_texas_chemical_plants_raise_concerns_about_toxic_emissions.mp3?orgId=252&amp;topicId=1091&amp;d=190&amp;p=3&amp;story=547219385&amp;t=progseg&amp;e=547219068&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Flooded Texas Chemical Plants Raise Concerns About Toxic Emissions</title>
-      <link>http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions</link>
-      <description>August 30, 2017 - Concern is growing that flood damage from Hurricane Harvey to some of Houston&#39;s petrochemical plants may be polluting the air, and could be threatening the water.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_flooded_texas_chemical_plants_raise_concerns_about_toxic_emissions.mp3?orgId=252&amp;topicId=1091&amp;d=190&amp;p=3&amp;story=547219385&amp;t=progseg&amp;e=547219068&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/30/gettyimages-840549116_wide-13c1c8bf3f5f750c31bdb9d0bd6a95878b368f1e-s800-c15.jpg"></a>
-
-August 30, 2017 - Concern is growing that flood damage from Hurricane Harvey to some of Houston's petrochemical plants may be polluting the air, and could be threatening the water.
-
-<a href="http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions">http://www.npr.org/2017/08/30/547219385/flooded-texas-chemical-plants-raise-concerns-about-toxic-emissions</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-840549116_wide-13c1c8bf3f5f750c31bdb9d0bd6a95878b368f1e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>190</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
