@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 18:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 19:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 01 Sep 2017 18:00:11 +0000</pubDate>
+    <pubDate>Fri, 01 Sep 2017 19:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</guid>
+      <title>Texas Expedites Help From Out-Of-State Health Care Providers</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</link>
+      <description>September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s800-c15.jpg"></a>
+
+September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</guid>
       <title>What Is &#39;Fruit Concentrate,&#39; Anyway? And Is It Good For You?</title>
@@ -237,23 +252,6 @@ August 30, 2017 - The government is warning people not to handle tiny turtles be
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/30/547305528/why-the-toxin-trouble-with-tiny-turtles-continues">http://www.npr.org/sections/health-shots/2017/08/30/547305528/why-the-toxin-trouble-with-tiny-turtles-continues</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/gettyimages-547562523_wide-7e9c9554cd2899f7f13dd5f30aa347482c71e618-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_fda_approves_first_cell-based_gene_therapy_for_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=159&amp;p=2&amp;story=547293551&amp;t=progseg&amp;e=547237668&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>FDA Approves First Gene Therapy For Leukemia</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</link>
-      <description>August 30, 2017 - The process modifies patients&#39; immune cells to attack their own cancer cells. It was approved to treat acute lymphoblastic leukemia in children and young adults — the most common childhood cancer.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170830_atc_fda_approves_first_cell-based_gene_therapy_for_cancer.mp3?orgId=1&amp;topicId=1128&amp;d=159&amp;p=2&amp;story=547293551&amp;t=progseg&amp;e=547237668&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_sf5256_wide-0ad38958cb975cba7e1c65a6ed60829562da0b5f-s800-c15.jpg"></a>
-
-August 30, 2017 - The process modifies patients' immune cells to attack their own cancer cells. It was approved to treat acute lymphoblastic leukemia in children and young adults — the most common childhood cancer.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer">http://www.npr.org/sections/health-shots/2017/08/30/547293551/fda-approves-first-gene-therapy-treatment-for-cancer</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_sf5256_wide-0ad38958cb975cba7e1c65a6ed60829562da0b5f-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>159</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
