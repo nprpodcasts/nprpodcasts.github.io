@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 22:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 15:36:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 31 Aug 2017 22:00:09 +0000</pubDate>
+    <pubDate>Fri, 01 Sep 2017 15:36:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=218&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_how_technology_helped_rescuers.mp3?orgId=1&amp;topicId=1019&amp;d=71&amp;p=3&amp;story=547774558&amp;t=progseg&amp;e=547774376&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Technology Helped Rescuers</title>
+      <link>http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</link>
+      <description>September 1, 2017 - New technology has played a crucial role in the Houston rescue efforts, as volunteers could communicate to find those in need.&#xA;&#xA; - http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_how_technology_helped_rescuers.mp3?orgId=1&amp;topicId=1019&amp;d=71&amp;p=3&amp;story=547774558&amp;t=progseg&amp;e=547774376&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 1, 2017 - New technology has played a crucial role in the Houston rescue efforts, as volunteers could communicate to find those in need.
+
+<a href="http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers">http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>71</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=220&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>Facebook Prepares To Launch New Video Streaming Service</title>
       <link>http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</link>
       <description>August 31, 2017 - Facebook is rolling out it&#39;s new video streaming service this week. &#34;Facebook Watch&#34; is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It&#39;s paid for by ads, which could be aimed directly at you, since Facebook knows all about you.</description>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=218&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=220&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[August 31, 2017 - Facebook is rolling out it's new video streaming service this week. "Facebook Watch" is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It's paid for by ads, which could be aimed directly at you, since Facebook knows all about you.
 
 <a href="http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service">http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>218</itunes:duration>
+      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ August 28, 2017 - Facebook and Twitter became de facto centers for thousands of 
 <a href="http://www.npr.org/2017/08/28/546668876/expedias-dara-khosrowshahi-picked-as-ubers-new-ceo">http://www.npr.org/2017/08/28/546668876/expedias-dara-khosrowshahi-picked-as-ubers-new-ceo</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>219</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters</guid>
-      <title>What The Public Is Saying About Miscarriage In 140 Characters</title>
-      <link>http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters</link>
-      <description>August 27, 2017 - Miscarriage, while widely experienced, is not often discussed in public. Researchers have turned to social media to see what people are saying about the topic and how much they&#39;re choosing to share.</description>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/25/npr_miscarriage_color_resized_wide-30c0f9702242e232b59a26dcc73b177eab24d360-s800-c15.jpg"></a>
-
-August 27, 2017 - Miscarriage, while widely experienced, is not often discussed in public. Researchers have turned to social media to see what people are saying about the topic and how much they're choosing to share.
-
-<a href="http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters">http://www.npr.org/sections/health-shots/2017/08/27/542809414/what-the-public-is-saying-about-miscarriage-in-140-characters</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/npr_miscarriage_color_resized_wide-30c0f9702242e232b59a26dcc73b177eab24d360-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
