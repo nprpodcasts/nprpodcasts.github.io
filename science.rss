@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Sep 2017 02:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 01 Sep 2017 23:00:22 +0000</pubDate>
+    <pubDate>Sat, 02 Sep 2017 02:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,27 +24,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding</guid>
+      <title>Early Data From Harvey Shows Epic Flooding</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding</link>
+      <description>September 1, 2017 - Government flood maps may need to be withdrawn following Harvey. That, in turn, could have implications for insurers.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding</description>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/flood-promo_wide-0f206dc7a01a2cc500aa4e4fa2dd6b6f96890d28-s800-c15.png"></a>
+
+September 1, 2017 - Government flood maps may need to be withdrawn following Harvey. That, in turn, could have implications for insurers.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding">http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/flood-promo_wide-0f206dc7a01a2cc500aa4e4fa2dd6b6f96890d28-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</guid>
       <title>Countries Pledge To Recover Dwindling Pacific Bluefin Tuna Population</title>
       <link>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</link>
       <description>September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.</description>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-2604142626a8c42f5be462718dae5f885e983265-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-c7c6ad773b0eeddf1df439c9f69add1b504cc3d2-s800-c15.jpg"></a>
 
 September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population">http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-2604142626a8c42f5be462718dae5f885e983265-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-c7c6ad773b0eeddf1df439c9f69add1b504cc3d2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=166&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Texas Expedites Help From Out-Of-State Health Care Providers</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</link>
       <description>September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.</description>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=166&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s800-c15.jpg"></a>
 
@@ -52,7 +67,7 @@ September 1, 2017 - As the medical and mental health needs of people affected by
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>166</itunes:duration>
+      <itunes:duration>165</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -237,21 +252,6 @@ August 30, 2017 - As global warming changes the planet, we will experience many 
 
 <a href="http://www.npr.org/sections/13.7/2017/08/30/547322858/when-nature-teaches-us-how-to-be-human">http://www.npr.org/sections/13.7/2017/08/30/547322858/when-nature-teaches-us-how-to-be-human</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/ap_17242054604531_wide-e2944ca72f131d9a6c4f93d615d544dc7e0ff270-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_houstons_susceptibility_to_flooding.mp3?orgId=1&amp;topicId=1007&amp;d=217&amp;p=3&amp;story=547219475&amp;t=progseg&amp;e=547219068&amp;seg=17&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Houston&#39;s Susceptibility To Flooding</title>
-      <link>http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding</link>
-      <description>August 30, 2017 - Sam Brody, a professor at Texas A&amp;M at Galveston, talks with Ailsa Chang about how Houston area levees, reservoirs, dams and bayous have been holding up during the storm.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_houstons_susceptibility_to_flooding.mp3?orgId=1&amp;topicId=1007&amp;d=217&amp;p=3&amp;story=547219475&amp;t=progseg&amp;e=547219068&amp;seg=17&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 30, 2017 - Sam Brody, a professor at Texas A&M at Galveston, talks with Ailsa Chang about how Houston area levees, reservoirs, dams and bayous have been holding up during the storm.
-
-<a href="http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding">http://www.npr.org/2017/08/30/547219475/houstons-susceptibility-to-flooding</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>217</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
