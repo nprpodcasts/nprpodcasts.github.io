@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2017 14:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2017 19:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 03 Sep 2017 14:00:14 +0000</pubDate>
+    <pubDate>Sun, 03 Sep 2017 19:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/03/548299633/san-diego-declares-health-emergency-amid-hepatitis-a-outbreak</guid>
+      <title>San Diego Declares Health Emergency Amid Hepatitis A Outbreak</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/03/548299633/san-diego-declares-health-emergency-amid-hepatitis-a-outbreak</link>
+      <description>September 3, 2017 - The virus has killed more than a dozen people and sickened hundreds of others in San Diego since November.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/09/03/548299633/san-diego-declares-health-emergency-amid-hepatitis-a-outbreak</description>
+      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/03/hep-a-vaccine_wide-b0afd9c160d23c72760535a84e38c8ca960b872a-s800-c15.jpg"></a>
+
+September 3, 2017 - The virus has killed more than a dozen people and sickened hundreds of others in San Diego since November.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/03/548299633/san-diego-declares-health-emergency-amid-hepatitis-a-outbreak">http://www.npr.org/sections/thetwo-way/2017/09/03/548299633/san-diego-declares-health-emergency-amid-hepatitis-a-outbreak</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/03/hep-a-vaccine_wide-b0afd9c160d23c72760535a84e38c8ca960b872a-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/03/547337695/whatever-happened-to-the-plan-to-make-jackfruit-more-popular</guid>
       <title>Whatever Happened To ... The Plan To Jazz Up Jackfruit?</title>
@@ -239,21 +254,6 @@ August 31, 2017 - After five years, just 12 percent of people diagnosed with pap
 
 <a href="http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds">http://www.npr.org/sections/health-shots/2017/08/31/547524399/people-can-delay-treatment-for-thyroid-cancer-study-finds</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/thyroid-cancer3_wide-99a793cecab679d9862879dcae6d6134e1fd3ddb-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Smartphone Generation: Less Sex, Fewer Drinks, More Depression</title>
-      <link>http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</link>
-      <description>August 31, 2017 - A psychologist worries that thousands of young people are &#34;on the brink of a mental health crisis.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</description>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 31, 2017 - A psychologist worries that thousands of young people are "on the brink of a mental health crisis."
-
-<a href="http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation">http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
