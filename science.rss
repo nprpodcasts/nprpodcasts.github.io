@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 18:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 21:01:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 18:00:44 +0000</pubDate>
+    <pubDate>Mon, 04 Sep 2017 21:01:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</guid>
+      <title>So You Want To Buy An Electric Car? It Requires Some Planning</title>
+      <link>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</link>
+      <description>September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here&#39;s what you should know if you&#39;re on the market for one.</description>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s800-c15.jpg"></a>
+
+September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here's what you should know if you're on the market for one.
+
+<a href="http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning">http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</guid>
       <title>Trump Picks Oklahoma Congressman To Head NASA</title>
@@ -239,23 +254,6 @@ September 1, 2017 - The long-term agreement would aid fish stocks that have fall
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population">http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-c7c6ad773b0eeddf1df439c9f69add1b504cc3d2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Texas Expedites Help From Out-Of-State Health Care Providers</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</link>
-      <description>September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s800-c15.jpg"></a>
-
-September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>165</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
