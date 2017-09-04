@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 13:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 17:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 13:00:12 +0000</pubDate>
+    <pubDate>Mon, 04 Sep 2017 17:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/parallels/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</guid>
+      <title>Trump Picks Oklahoma Congressman To Head NASA</title>
+      <link>http://www.npr.org/sections/parallels/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</link>
+      <description>September 4, 2017 - Rep. Jim Bridenstine is a fighter pilot who wants Americans to return to the moon but doesn&#39;t believe that humans are causing climate change.</description>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/04/ap_16183638921328_wide-c2e285560d2e6e1654a4d9fa47db0eece2ec58a2-s800-c15.jpg"></a>
+
+September 4, 2017 - Rep. Jim Bridenstine is a fighter pilot who wants Americans to return to the moon but doesn't believe that humans are causing climate change.
+
+<a href="http://www.npr.org/sections/parallels/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa">http://www.npr.org/sections/parallels/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/04/ap_16183638921328_wide-c2e285560d2e6e1654a4d9fa47db0eece2ec58a2-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/09/04/547934012/trumps-nominee-to-be-usdas-chief-scientist-is-not-a-scientist</guid>
       <title>Trump&#39;s Nominee To Be USDA&#39;s Chief Scientist Is Not A Scientist</title>
@@ -241,21 +256,6 @@ September 1, 2017 - As the medical and mental health needs of people affected by
 <a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
       <itunes:duration>165</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals</guid>
-      <title>The Divisive Diet of Honeybees: Why Some Will Never Be Royals</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals</link>
-      <description>September 1, 2017 - That stings! A new study suggests that fragments of plant genetic material in the pollen-rich diets of worker bee larvae ensures that they never grow up to be queens. </description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-71a7364f5c5c1a93b1c66731fd3e93fea362c08e-s800-c15.jpg"></a>
-
-September 1, 2017 - That stings! A new study suggests that fragments of plant genetic material in the pollen-rich diets of worker bee larvae ensures that they never grow up to be queens. 
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals">http://www.npr.org/sections/thesalt/2017/09/01/547601291/the-divisive-diet-of-honeybees-why-some-will-never-be-royals</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/gettyimages-102339968_wide-71a7364f5c5c1a93b1c66731fd3e93fea362c08e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
