@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 21:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 23:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 21:01:22 +0000</pubDate>
+    <pubDate>Mon, 04 Sep 2017 23:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,11 +24,29 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_flooded_super_fund_sites_in_texas.mp3?orgId=1&amp;topicId=1025&amp;d=230&amp;p=2&amp;story=548490643&amp;t=progseg&amp;e=548407189&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>In Texas, Concerns About Damage To Flooded Toxic Waste Sites</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites</link>
+      <description>September 4, 2017 - Environmental officials are inspecting toxic waste sites in southeast Texas that were flooded and potentially damaged last week.</description>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_flooded_super_fund_sites_in_texas.mp3?orgId=1&amp;topicId=1025&amp;d=230&amp;p=2&amp;story=548490643&amp;t=progseg&amp;e=548407189&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/04/ap_17244855693681_wide-c8a5041274b2e36622a1efb854b743eaefabc21e-s800-c15.jpg"></a>
+
+September 4, 2017 - Environmental officials are inspecting toxic waste sites in southeast Texas that were flooded and potentially damaged last week.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites">http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/04/ap_17244855693681_wide-c8a5041274b2e36622a1efb854b743eaefabc21e-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>230</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>So You Want To Buy An Electric Car? It Requires Some Planning</title>
       <link>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</link>
       <description>September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here&#39;s what you should know if you&#39;re on the market for one.</description>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s800-c15.jpg"></a>
 
@@ -36,6 +54,7 @@ September 4, 2017 - With new models aimed at the mass market going on sale this 
 
 <a href="http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning">http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>306</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -54,11 +73,12 @@ September 4, 2017 - Rep. Jim Bridenstine is a fighter pilot who wants Americans 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/04/547934012/trumps-nominee-to-be-usdas-chief-scientist-is-not-a-scientist</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_trumps_nominee_to_be_usdas_chief_scientist_is_not_a_scientist.mp3?orgId=556&amp;topicId=1014&amp;d=216&amp;p=2&amp;story=547934012&amp;t=progseg&amp;e=548407189&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Trump&#39;s Nominee To Be USDA&#39;s Chief Scientist Is Not A Scientist</title>
       <link>http://www.npr.org/2017/09/04/547934012/trumps-nominee-to-be-usdas-chief-scientist-is-not-a-scientist</link>
       <description>September 4, 2017 - Sam Clovis has a doctorate in public administration, is skeptical that humans have a role in climate change and pushed theories suggesting former President Barack Obama was born in Kenya.</description>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_trumps_nominee_to_be_usdas_chief_scientist_is_not_a_scientist.mp3?orgId=556&amp;topicId=1014&amp;d=216&amp;p=2&amp;story=547934012&amp;t=progseg&amp;e=548407189&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/ap_654685836577_wide-b75c6dbb5b06431d8ebd6b47141d39f778104062-s800-c15.jpg"></a>
 
@@ -66,6 +86,7 @@ September 4, 2017 - Sam Clovis has a doctorate in public administration, is skep
 
 <a href="http://www.npr.org/2017/09/04/547934012/trumps-nominee-to-be-usdas-chief-scientist-is-not-a-scientist">http://www.npr.org/2017/09/04/547934012/trumps-nominee-to-be-usdas-chief-scientist-is-not-a-scientist</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/ap_654685836577_wide-b75c6dbb5b06431d8ebd6b47141d39f778104062-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>216</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +260,6 @@ September 1, 2017 - Government flood maps may need to be redrawn following Harve
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding">http://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/flood-promo_wide-0f206dc7a01a2cc500aa4e4fa2dd6b6f96890d28-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</guid>
-      <title>Countries Pledge To Recover Dwindling Pacific Bluefin Tuna Population</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</link>
-      <description>September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-c7c6ad773b0eeddf1df439c9f69add1b504cc3d2-s800-c15.jpg"></a>
-
-September 1, 2017 - The long-term agreement would aid fish stocks that have fallen to just 2.6 percent of their historic size. The news comes at a time when Atlantic bluefin populations are also rebounding.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population">http://www.npr.org/sections/thesalt/2017/09/01/547903557/countries-pledge-to-recover-dwindling-pacific-bluefin-tuna-population</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-508079760_wide-c7c6ad773b0eeddf1df439c9f69add1b504cc3d2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

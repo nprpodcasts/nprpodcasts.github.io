@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 21:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 23:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 21:01:20 +0000</pubDate>
+    <pubDate>Mon, 04 Sep 2017 23:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,11 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_what_parts_of_the_workforce_might_be_safe_from_robots.mp3?orgId=1&amp;topicId=1019&amp;d=253&amp;p=2&amp;story=548505776&amp;t=progseg&amp;e=548407189&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
+      <title>What Parts Of The Workforce Might Be Safe From Robots?</title>
+      <link>http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</link>
+      <description>September 4, 2017 - To kick off our series &#34;Is My Job Safe?&#34; NPR&#39;s Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.</description>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_what_parts_of_the_workforce_might_be_safe_from_robots.mp3?orgId=1&amp;topicId=1019&amp;d=253&amp;p=2&amp;story=548505776&amp;t=progseg&amp;e=548407189&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 4, 2017 - To kick off our series "Is My Job Safe?" NPR's Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.
+
+<a href="http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots">http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>253</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scanning The Future, Radiologists See Their Jobs At Risk</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</link>
       <description>September 4, 2017 - In a new series called &#34;Is My Job Safe?&#34; NPR looks at the future of jobs at a time of rapid gains in artificial intelligence and robotics. We start with a high-paying job in medicine: radiologists.</description>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s800-c15.jpg"></a>
 
@@ -36,27 +52,16 @@ September 4, 2017 - In a new series called "Is My Job Safe?" NPR looks at the fu
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk">http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>281</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</guid>
-      <title>What Parts Of The Workforce Might Be Safe From Robots?</title>
-      <link>http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</link>
-      <description>September 4, 2017 - To kick off our series &#34;Is My Job Safe?&#34; NPR&#39;s Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 4, 2017 - To kick off our series "Is My Job Safe?" NPR's Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.
-
-<a href="http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots">http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
       <title>So You Want To Buy An Electric Car? It Requires Some Planning</title>
       <link>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</link>
       <description>September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here&#39;s what you should know if you&#39;re on the market for one.</description>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s800-c15.jpg"></a>
 
@@ -64,6 +69,7 @@ September 4, 2017 - With new models aimed at the mass market going on sale this 
 
 <a href="http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning">http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>306</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
