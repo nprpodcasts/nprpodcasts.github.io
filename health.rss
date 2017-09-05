@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 19:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 20:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 05 Sep 2017 19:00:21 +0000</pubDate>
+    <pubDate>Tue, 05 Sep 2017 20:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</guid>
+      <title>Whatever Happened To ... The Mission To Get Rid Of Rwanda&#39;s Dirt Floors?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</link>
+      <description>September 5, 2017 - A small project started in 2014 to replace dirt floors, which can make people sick, with sealed earthen floors. Demand has only grown — but not exactly in the way the CEO had imagined.</description>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/0e5a5885-60_wide-bb8dd69a8939b69de8fe6a92d73d130816993bb9-s800-c15.jpg"></a>
+
+September 5, 2017 - A small project started in 2014 to replace dirt floors, which can make people sick, with sealed earthen floors. Demand has only grown — but not exactly in the way the CEO had imagined.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors">http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/0e5a5885-60_wide-bb8dd69a8939b69de8fe6a92d73d130816993bb9-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</guid>
       <title>In A Case That Is &#39;Almost Impossible,&#39; Girl Dies Of Malaria In Italy</title>
@@ -45,12 +60,12 @@ September 5, 2017 - "It's a mystery," said one health official. Italy was declar
       <description>September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans&#39; Charity Hospital after Hurricane Katrina hit. She&#39;s now caring for evacuees from Hurricane Harvey.</description>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-6ec631dd66169fe7f72828948040aef8fea59bc5-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-4bd849a896fc682d0109d6876872c02e29f10bf5-s800-c15.jpg"></a>
 
 September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans' Charity Hospital after Hurricane Katrina hit. She's now caring for evacuees from Hurricane Harvey.
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey">http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-6ec631dd66169fe7f72828948040aef8fea59bc5-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-4bd849a896fc682d0109d6876872c02e29f10bf5-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ September 1, 2017 - As the medical and mental health needs of people affected by
 <a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
       <itunes:duration>165</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</guid>
-      <title>What Is &#39;Fruit Concentrate,&#39; Anyway? And Is It Good For You?</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</link>
-      <description>September 1, 2017 - The mystery ingredient pops up in a lot of household favorites, but its nutrition level depends on how it&#39;s used.&#xA;&#xA; - http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/concentrate-final_resize_wide-14bff57275eaef4184d5b6f057732e3c7acde92e-s800-c15.jpg"></a>
-
-September 1, 2017 - The mystery ingredient pops up in a lot of household favorites, but its nutrition level depends on how it's used.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you">http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/concentrate-final_resize_wide-14bff57275eaef4184d5b6f057732e3c7acde92e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
