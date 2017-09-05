@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 23:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 19:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 23:00:22 +0000</pubDate>
+    <pubDate>Tue, 05 Sep 2017 19:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</guid>
+      <title>In A Case That Is &#39;Almost Impossible,&#39; Girl Dies Of Malaria In Italy</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</link>
+      <description>September 5, 2017 - &#34;It&#39;s a mystery,&#34; said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.</description>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s800-c15.jpg"></a>
+
+September 5, 2017 - "It's a mystery," said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy">http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</guid>
+      <title>A Doctor Who Weathered Katrina Now Tends Victims Of Harvey</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</link>
+      <description>September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans&#39; Charity Hospital after Hurricane Katrina hit. She&#39;s now caring for evacuees from Hurricane Harvey.</description>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-6ec631dd66169fe7f72828948040aef8fea59bc5-s800-c15.jpg"></a>
+
+September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans' Charity Hospital after Hurricane Katrina hit. She's now caring for evacuees from Hurricane Harvey.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey">http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-6ec631dd66169fe7f72828948040aef8fea59bc5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Scanning The Future, Radiologists See Their Jobs At Risk</title>
@@ -226,38 +256,6 @@ September 1, 2017 - The mystery ingredient pops up in a lot of household favorit
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you">http://www.npr.org/sections/thesalt/2017/09/01/545336956/what-is-fruit-concentrate-anyway-and-is-it-good-for-you</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/concentrate-final_resize_wide-14bff57275eaef4184d5b6f057732e3c7acde92e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_a_father_to_his_son_i_know_what_its_like_living_with_tourettes_syndrome.mp3?orgId=1&amp;topicId=1129&amp;aggIds=4516989&amp;d=209&amp;p=3&amp;story=547412867&amp;t=progseg&amp;e=547774376&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Father To His Son: &#39;I Know What It&#39;s Like&#39; Living With Tourette&#39;s Syndrome</title>
-      <link>http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome</link>
-      <description>September 1, 2017 - Josh Hanagarne has an extreme form of Tourette&#39;s syndrome, where his tics — or involuntary movements and sounds — have been so severe, they&#39;ve put him in the hospital.</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_a_father_to_his_son_i_know_what_its_like_living_with_tourettes_syndrome.mp3?orgId=1&amp;topicId=1129&amp;aggIds=4516989&amp;d=209&amp;p=3&amp;story=547412867&amp;t=progseg&amp;e=547774376&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/hanagarnenpr_wide-a4d5517f4b8237b19f1da46b4e7eab103286e1db-s800-c15.jpg"></a>
-
-September 1, 2017 - Josh Hanagarne has an extreme form of Tourette's syndrome, where his tics — or involuntary movements and sounds — have been so severe, they've put him in the hospital.
-
-<a href="http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome">http://www.npr.org/2017/09/01/547412867/a-father-to-his-son-i-know-what-it-s-like-living-with-tourette-s-syndrome</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/hanagarnenpr_wide-a4d5517f4b8237b19f1da46b4e7eab103286e1db-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</guid>
-      <title>For Grocery Stores In Texas, It&#39;s A Race To Restock Their Shelves</title>
-      <link>http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</link>
-      <description>August 31, 2017 - Hurricane Harvey destroyed intricate supply chains that keep supermarket shelves stocked with perishable food. Grocery stores are already rebuilding those networks.</description>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/ap_17241857819279-2_wide-ae57511b71718f70f25f975563ccaa550c26c553-s800-c15.jpg"></a>
-
-August 31, 2017 - Hurricane Harvey destroyed intricate supply chains that keep supermarket shelves stocked with perishable food. Grocery stores are already rebuilding those networks.
-
-<a href="http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves">http://www.npr.org/sections/thesalt/2017/08/31/547596372/for-grocery-stores-in-texas-its-a-race-to-restock-the-shelves</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/ap_17241857819279-2_wide-ae57511b71718f70f25f975563ccaa550c26c553-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

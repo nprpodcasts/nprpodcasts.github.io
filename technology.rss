@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 19:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Mon, 04 Sep 2017 23:00:19 +0000</pubDate>
+    <pubDate>Tue, 05 Sep 2017 19:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Army, The Inventor And The Surprising Uses Of A Batman Machine</title>
+      <link>http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</link>
+      <description>September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.</description>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s800-c15.jpg"></a>
+
+September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.
+
+<a href="http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine">http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>155</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_what_parts_of_the_workforce_might_be_safe_from_robots.mp3?orgId=1&amp;topicId=1019&amp;d=253&amp;p=2&amp;story=548505776&amp;t=progseg&amp;e=548407189&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>What Parts Of The Workforce Might Be Safe From Robots?</title>
@@ -241,23 +258,6 @@ August 29, 2017 - The blood thinner warfarin, which prevents blood clots, owes i
 <a href="http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug">http://www.npr.org/sections/health-shots/2017/08/29/531749974/how-moldy-hay-and-sick-cows-led-to-a-life-saving-drug</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/28/promo-cow0_wide-c4d26cfa04e59c320e040aeadc37ba3e800fe598-s3000-c15.jpg"></itunes:image>
       <itunes:duration>185</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_texas_police_and_residents_turn_to_social_media_to_communicate_amid_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=546831780&amp;t=progseg&amp;e=546679523&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Facebook, Twitter Replace 911 Calls For Stranded In Houston</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/28/546831780/texas-police-and-residents-turn-to-social-media-to-communicate-amid-harvey</link>
-      <description>August 28, 2017 - Facebook and Twitter became de facto centers for thousands of stranded people as 911 centers became overwhelmed with calls. Police and officials are using social media as an essential tool to connect.</description>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170828_atc_texas_police_and_residents_turn_to_social_media_to_communicate_amid_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=242&amp;p=2&amp;story=546831780&amp;t=progseg&amp;e=546679523&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/28/gettyimages-840308490_wide-2d42f17bb27524158f74669c1035cf5d5975499b-s800-c15.jpg"></a>
-
-August 28, 2017 - Facebook and Twitter became de facto centers for thousands of stranded people as 911 centers became overwhelmed with calls. Police and officials are using social media as an essential tool to connect.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/28/546831780/texas-police-and-residents-turn-to-social-media-to-communicate-amid-harvey">http://www.npr.org/sections/alltechconsidered/2017/08/28/546831780/texas-police-and-residents-turn-to-social-media-to-communicate-amid-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/28/gettyimages-840308490_wide-2d42f17bb27524158f74669c1035cf5d5975499b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
