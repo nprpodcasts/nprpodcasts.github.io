@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 14:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 17:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 06 Sep 2017 14:00:13 +0000</pubDate>
+    <pubDate>Wed, 06 Sep 2017 17:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</guid>
+      <title>Here&#39;s What You Need To Know About Hurricane Irma</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</link>
+      <description>September 6, 2017 - As the powerful storm approaches the U.S., here are some of the basics about the dangers it poses.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/2092v1_20170905-hurirma-copy_wide-9caeda49feee9fb8c8d931b060f2ec34b19e5be5-s800-c15.jpg"></a>
+
+September 6, 2017 - As the powerful storm approaches the U.S., here are some of the basics about the dangers it poses.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma">http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/2092v1_20170905-hurirma-copy_wide-9caeda49feee9fb8c8d931b060f2ec34b19e5be5-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</guid>
       <title>Climate, Power, Money And Sorrow: Lessons Of Hurricane Harvey</title>
@@ -245,21 +260,6 @@ September 3, 2017 - North Korea has claimed to have tested a hydrogen bomb, whic
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/03/548262043/here-are-the-facts-about-north-koreas-nuclear-test">http://www.npr.org/sections/thetwo-way/2017/09/03/548262043/here-are-the-facts-about-north-koreas-nuclear-test</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/03/gettyimages-842102230_wide-beeeacaeb56a314e3b2dd3be9da42844618771de-s3000-c15.jpg"></itunes:image>
       <itunes:duration>168</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</guid>
-      <title>Pets Deserve Evidence-Based Medicine, Too, Says The SkeptVet</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</link>
-      <description>September 3, 2017 - Veterinarian Brennen McKenzie writes The SkeptVet, a blog that pushes for evidence-based medicine instead of relying on tradition, anecdotes or pseudoscience in the treatment of cats and dogs.</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/31/istock-671786304_wide-e79f7dd16cdbd74dbe0f2622a2c017b6964b576a-s800-c15.jpg"></a>
-
-September 3, 2017 - Veterinarian Brennen McKenzie writes The SkeptVet, a blog that pushes for evidence-based medicine instead of relying on tradition, anecdotes or pseudoscience in the treatment of cats and dogs.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet">http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/istock-671786304_wide-e79f7dd16cdbd74dbe0f2622a2c017b6964b576a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

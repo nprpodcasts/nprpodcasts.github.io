@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 14:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 17:00:16 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 06 Sep 2017 14:00:15 +0000</pubDate>
+    <pubDate>Wed, 06 Sep 2017 17:00:16 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</guid>
+      <title>When It Comes To Romantic Attraction, Real Life Beats Questionnaires</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</link>
+      <description>September 6, 2017 - Questionnaires of the sort used by dating apps don&#39;t even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s800-c15.jpg"></a>
+
+September 6, 2017 - Questionnaires of the sort used by dating apps don't even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires">http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</guid>
       <title>The Counselor Who Has Walked Many Miles In A Refugee&#39;s Shoes</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</link>
       <description>September 6, 2017 - His name is Ahmad Chahabi, he fled Syria for Berlin and now he&#39;s building a new life by helping other refugees.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</description>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-3c250d5bb9964749dc9f8e1208deea76a0a3f336-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-baa65b5112e1d746dba31c67bdecf3db0404ef80-s800-c15.jpg"></a>
 
 September 6, 2017 - His name is Ahmad Chahabi, he fled Syria for Berlin and now he's building a new life by helping other refugees.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes">http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-3c250d5bb9964749dc9f8e1208deea76a0a3f336-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-baa65b5112e1d746dba31c67bdecf3db0404ef80-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +254,6 @@ September 3, 2017 - For years, we've been told that less salt is better. But som
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes">http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/npr_salt_final_wide-67586e8fe18c315ba2c7dba7d795cdb06b183b1e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170902_wesat_harvey_chemical_neighborhood.mp3?orgId=1&amp;topicId=1091&amp;d=241&amp;p=7&amp;story=548076049&amp;t=progseg&amp;e=548075734&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Chemical Dangers In Houston&#39;s Manchester Neighborhood</title>
-      <link>http://www.npr.org/2017/09/02/548076049/the-chemical-dangers-in-houston-s-manchester-neighborhood</link>
-      <description>September 2, 2017 - The Manchester neighborhood in Houston is ringed by chemical plants. We went out with a team to test water and soil for toxins and other possible dangers.</description>
-      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170902_wesat_harvey_chemical_neighborhood.mp3?orgId=1&amp;topicId=1091&amp;d=241&amp;p=7&amp;story=548076049&amp;t=progseg&amp;e=548075734&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 2, 2017 - The Manchester neighborhood in Houston is ringed by chemical plants. We went out with a team to test water and soil for toxins and other possible dangers.
-
-<a href="http://www.npr.org/2017/09/02/548076049/the-chemical-dangers-in-houston-s-manchester-neighborhood">http://www.npr.org/2017/09/02/548076049/the-chemical-dangers-in-houston-s-manchester-neighborhood</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>241</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

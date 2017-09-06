@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 13:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 17:00:12 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 06 Sep 2017 13:00:21 +0000</pubDate>
+    <pubDate>Wed, 06 Sep 2017 17:00:12 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</guid>
+      <title>When It Comes To Romantic Attraction, Real Life Beats Questionnaires</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</link>
+      <description>September 6, 2017 - Questionnaires of the sort used by dating apps don&#39;t even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s800-c15.jpg"></a>
+
+September 6, 2017 - Questionnaires of the sort used by dating apps don't even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires">http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170905_atc_drones_descend_on_houston_to_help_assess_damage_from_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=2&amp;story=548715211&amp;t=progseg&amp;e=548593068&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Drones Descend On Houston To Help Assess Damage From Harvey</title>
@@ -241,23 +256,6 @@ August 30, 2017 - Professional athletes use wearable technology to improve perfo
 <a href="http://www.npr.org/2017/08/30/547062884/whats-up-those-baseball-sleeves-lots-of-athletes-data-and-concerns-about-privacy">http://www.npr.org/2017/08/30/547062884/whats-up-those-baseball-sleeves-lots-of-athletes-data-and-concerns-about-privacy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/ap_472697138454_wide-f7c7beb519baaad384c26d3fe38482a43bc6a9c4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>250</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_thinking_of_running_for_office_a_website_lets_you_test_the_waters.mp3?orgId=1&amp;topicId=1014&amp;d=229&amp;p=3&amp;story=546061687&amp;t=progseg&amp;e=547219068&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Thinking Of Running For Office? A Website Lets You Test The Waters</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/08/30/546061687/thinking-of-running-for-office-a-website-lets-you-test-the-waters</link>
-      <description>August 30, 2017 - Think you may want to run for public office? A new site lets you crowdfund a potential campaign. See how a California congressional candidate was inspired to give it a try.   </description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_thinking_of_running_for_office_a_website_lets_you_test_the_waters.mp3?orgId=1&amp;topicId=1014&amp;d=229&amp;p=3&amp;story=546061687&amp;t=progseg&amp;e=547219068&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/25/regina-bateson_wide-fa56d765db399f6a047dfcd499d316e34c8f1f96-s800-c15.jpg"></a>
-
-August 30, 2017 - Think you may want to run for public office? A new site lets you crowdfund a potential campaign. See how a California congressional candidate was inspired to give it a try.   
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/08/30/546061687/thinking-of-running-for-office-a-website-lets-you-test-the-waters">http://www.npr.org/sections/alltechconsidered/2017/08/30/546061687/thinking-of-running-for-office-a-website-lets-you-test-the-waters</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/25/regina-bateson_wide-fa56d765db399f6a047dfcd499d316e34c8f1f96-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>229</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
