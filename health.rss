@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 20:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 13:00:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 05 Sep 2017 20:00:10 +0000</pubDate>
+    <pubDate>Wed, 06 Sep 2017 13:00:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_houston_methadone_clinics_reopen_after_flooding_from_harvey_forced_them_to_close.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=3&amp;story=548819207&amp;t=progseg&amp;e=548803221&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Houston Methadone Clinics Reopen After Harvey&#39;s Flooding </title>
+      <link>http://www.npr.org/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding</link>
+      <description>September 6, 2017 - Many people in Houston who are dependent on opioids couldn&#39;t get the treatments they needed. Clinics that offer methadone and other opioid addiction therapies are getting back up and running.</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_houston_methadone_clinics_reopen_after_flooding_from_harvey_forced_them_to_close.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=3&amp;story=548819207&amp;t=progseg&amp;e=548803221&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 6, 2017 - Many people in Houston who are dependent on opioids couldn't get the treatments they needed. Clinics that offer methadone and other opioid addiction therapies are getting back up and running.
+
+<a href="http://www.npr.org/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding">http://www.npr.org/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>224</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</guid>
+      <title>Chastened Lawmakers Aim For Small, Bipartisan Health Care Victories</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</link>
+      <description>September 5, 2017 - Senate Republicans and Democrats are trying something new on health care. It&#39;s called cooperation.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</description>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/lamar-a_wide-39a195d0a5a7acd0b7b36bd947752f06a94e42ab-s800-c15.jpg"></a>
+
+September 5, 2017 - Senate Republicans and Democrats are trying something new on health care. It's called cooperation.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories">http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/lamar-a_wide-39a195d0a5a7acd0b7b36bd947752f06a94e42ab-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</guid>
       <title>Whatever Happened To ... The Mission To Get Rid Of Rwanda&#39;s Dirt Floors?</title>
@@ -224,38 +254,6 @@ September 2, 2017 - At the only emergency department providing care in downtown 
 <a href="http://www.npr.org/sections/health-shots/2017/09/02/547945860/in-a-houston-emergency-room-it-was-a-week-like-no-other">http://www.npr.org/sections/health-shots/2017/09/02/547945860/in-a-houston-emergency-room-it-was-a-week-like-no-other</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/img_8209-2_wide-cfdd86ea0936bb0a791354c083bcb2fb110f7248-s3000-c15.jpg"></itunes:image>
       <itunes:duration>214</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/02/547892623/triple-threat-new-pneumonia-is-drug-resistant-deadly-and-contagious</guid>
-      <title>Triple Threat: New Pneumonia Is Drug-Resistant, Deadly And Contagious</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/09/02/547892623/triple-threat-new-pneumonia-is-drug-resistant-deadly-and-contagious</link>
-      <description>September 2, 2017 - When microbiologist Sheng Chen and his team sequenced the microbes found in the pneumonia infections, they were shocked at what they saw.</description>
-      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/01/scisource_jf0164_wide-063b556df2dfc10597c42b90a357014b1caf610e-s800-c15.jpg"></a>
-
-September 2, 2017 - When microbiologist Sheng Chen and his team sequenced the microbes found in the pneumonia infections, they were shocked at what they saw.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/09/02/547892623/triple-threat-new-pneumonia-is-drug-resistant-deadly-and-contagious">http://www.npr.org/sections/goatsandsoda/2017/09/02/547892623/triple-threat-new-pneumonia-is-drug-resistant-deadly-and-contagious</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/scisource_jf0164_wide-063b556df2dfc10597c42b90a357014b1caf610e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Texas Expedites Help From Out-Of-State Health Care Providers</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</link>
-      <description>September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170901_atc_texas_expedites_help_from_out-of-state_health_care_providers.mp3?orgId=1&amp;topicId=1128&amp;d=165&amp;p=2&amp;story=547816150&amp;t=progseg&amp;e=547801306&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s800-c15.jpg"></a>
-
-September 1, 2017 - As the medical and mental health needs of people affected by Harvey become apparent, Texas has made it easier for out-of-state health workers to come lend a hand.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers">http://www.npr.org/sections/health-shots/2017/09/01/547816150/texas-expedites-help-from-out-of-state-health-care-providers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-841284426_wide-8d7ec607c202e825eee988c329d7748977358451-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>165</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
