@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 19:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 14:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 05 Sep 2017 19:00:20 +0000</pubDate>
+    <pubDate>Wed, 06 Sep 2017 14:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</guid>
+      <title>Climate, Power, Money And Sorrow: Lessons Of Hurricane Harvey</title>
+      <link>http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</link>
+      <description>September 6, 2017 - Through the power of Katrina, Sandy and, now, Harvey, we get a view into how a changing climate may play out in the real world — beyond arguments and abstractions, says astrophysicist Adam Frank.</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/ap_17248769014085_wide-4b61fc9c0ce5911d832f871fae969ff90e56ea44-s800-c15.jpg"></a>
+
+September 6, 2017 - Through the power of Katrina, Sandy and, now, Harvey, we get a view into how a changing climate may play out in the real world — beyond arguments and abstractions, says astrophysicist Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey">http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/ap_17248769014085_wide-4b61fc9c0ce5911d832f871fae969ff90e56ea44-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548648114/western-wildfires-endanger-beloved-sites-at-national-parks</guid>
       <title>Western Wildfires Endanger Beloved Sites At National Parks</title>
@@ -245,21 +260,6 @@ September 3, 2017 - Veterinarian Brennen McKenzie writes The SkeptVet, a blog th
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet">http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/istock-671786304_wide-e79f7dd16cdbd74dbe0f2622a2c017b6964b576a-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes</guid>
-      <title>Has Salt Gotten An Unfair Shake? </title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes</link>
-      <description>September 3, 2017 - For years, we&#39;ve been told that less salt is better. But some scientists say that the world&#39;s universal seasoning has been maligned and that moderate salt intake is healthier for many people.</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/npr_salt_final_wide-67586e8fe18c315ba2c7dba7d795cdb06b183b1e-s800-c15.jpg"></a>
-
-September 3, 2017 - For years, we've been told that less salt is better. But some scientists say that the world's universal seasoning has been maligned and that moderate salt intake is healthier for many people.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes">http://www.npr.org/sections/health-shots/2017/09/03/547827356/has-salt-gotten-an-unfair-shake-sodium-partisans-say-yes</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/npr_salt_final_wide-67586e8fe18c315ba2c7dba7d795cdb06b183b1e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
