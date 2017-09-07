@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 17:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 13:00:26 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 06 Sep 2017 17:00:14 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 13:00:26 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</guid>
+      <title>Why Do Parrots (And People) Eat Clay? </title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</link>
+      <description>September 7, 2017 - Several species of parrots in Southeastern Peru regularly gather at a cliff face in the Amazon basin to eat clay. So do other animals, including humans. </description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-522092748-2_wide-de7958c65f734cfb3d3e2c276d37cc2f7a4e3ff7-s800-c15.jpg"></a>
+
+September 7, 2017 - Several species of parrots in Southeastern Peru regularly gather at a cliff face in the Amazon basin to eat clay. So do other animals, including humans. 
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay">http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-522092748-2_wide-de7958c65f734cfb3d3e2c276d37cc2f7a4e3ff7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</guid>
       <title>Here&#39;s What You Need To Know About Hurricane Irma</title>
@@ -243,23 +258,6 @@ September 3, 2017 - Peggy Whitson smashed multiple records after spending a tota
 <a href="http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter">http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>179</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170903_wesun_north_korea_bomb_science.mp3?orgId=1&amp;topicId=1007&amp;d=168&amp;p=10&amp;story=548262043&amp;t=progseg&amp;e=548255809&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Here Are The Facts About North Korea&#39;s Nuclear Test</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/03/548262043/here-are-the-facts-about-north-koreas-nuclear-test</link>
-      <description>September 3, 2017 - North Korea has claimed to have tested a hydrogen bomb, which is far more powerful than an atomic bomb. Experts think they may have pulled it off.</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170903_wesun_north_korea_bomb_science.mp3?orgId=1&amp;topicId=1007&amp;d=168&amp;p=10&amp;story=548262043&amp;t=progseg&amp;e=548255809&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/03/gettyimages-842102230_wide-beeeacaeb56a314e3b2dd3be9da42844618771de-s800-c15.jpg"></a>
-
-September 3, 2017 - North Korea has claimed to have tested a hydrogen bomb, which is far more powerful than an atomic bomb. Experts think they may have pulled it off.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/03/548262043/here-are-the-facts-about-north-koreas-nuclear-test">http://www.npr.org/sections/thetwo-way/2017/09/03/548262043/here-are-the-facts-about-north-koreas-nuclear-test</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/03/gettyimages-842102230_wide-beeeacaeb56a314e3b2dd3be9da42844618771de-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>168</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

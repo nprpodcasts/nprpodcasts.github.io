@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 08:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 13:00:28 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 08:01:36 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 13:00:28 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,23 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170907_me_opioid_crisis_looms_over_job_market_worrying_employers_and_economists.mp3?orgId=1&amp;topicId=1017&amp;d=342&amp;p=3&amp;story=545602212&amp;t=progseg&amp;e=549097919&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Opioid Crisis Looms Over Job Market, Worrying Employers And Economists</title>
+      <link>http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists</link>
+      <description>September 7, 2017 - Companies across the U.S. say it&#39;s getting harder to find applicants and keep workers once they&#39;ve been hired. Economists from the Federal Reserve to Wall Street say opioid addiction may be a factor.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170907_me_opioid_crisis_looms_over_job_market_worrying_employers_and_economists.mp3?orgId=1&amp;topicId=1017&amp;d=342&amp;p=3&amp;story=545602212&amp;t=progseg&amp;e=549097919&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0325_wide-bfcdb0812cb05431c3214eafda092544aa15c616-s800-c15.jpg"></a>
+
+September 7, 2017 - Companies across the U.S. say it's getting harder to find applicants and keep workers once they've been hired. Economists from the Federal Reserve to Wall Street say opioid addiction may be a factor.
+
+<a href="http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists">http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0325_wide-bfcdb0812cb05431c3214eafda092544aa15c616-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>342</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/06/548951827/congress-weighs-future-of-children-s-health-insurance</guid>
       <title>Will Congress Continue Health Care For 9 Million Children?</title>
@@ -239,21 +256,6 @@ September 3, 2017 - In 2014, food researchers wanted to get more people eating j
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/03/547337695/whatever-happened-to-the-plan-to-make-jackfruit-more-popular">http://www.npr.org/sections/goatsandsoda/2017/09/03/547337695/whatever-happened-to-the-plan-to-make-jackfruit-more-popular</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/jackfruit--62_wide-be9810d31ee04251378567c1c6de94fff6686eaa-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</guid>
-      <title>Pets Deserve Evidence-Based Medicine, Too, Says The SkeptVet</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</link>
-      <description>September 3, 2017 - Veterinarian Brennen McKenzie writes The SkeptVet, a blog that pushes for evidence-based medicine instead of relying on tradition, anecdotes or pseudoscience in the treatment of cats and dogs.</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/31/istock-671786304_wide-e79f7dd16cdbd74dbe0f2622a2c017b6964b576a-s800-c15.jpg"></a>
-
-September 3, 2017 - Veterinarian Brennen McKenzie writes The SkeptVet, a blog that pushes for evidence-based medicine instead of relying on tradition, anecdotes or pseudoscience in the treatment of cats and dogs.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet">http://www.npr.org/sections/health-shots/2017/09/03/547420275/pets-deserve-evidence-based-medicine-too-says-the-skeptvet</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/31/istock-671786304_wide-e79f7dd16cdbd74dbe0f2622a2c017b6964b576a-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
