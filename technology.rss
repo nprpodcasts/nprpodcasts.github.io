@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2017 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 08:01:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 06 Sep 2017 17:00:12 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 08:01:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,15 +24,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170906_atc_how_tech_giants_use_their_power_to_advance_corporate_interests.mp3?orgId=1&amp;topicId=1019&amp;d=241&amp;p=2&amp;story=548985335&amp;t=progseg&amp;e=548824957&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Tech Giants Use Their Power To Advance Corporate Interests</title>
+      <link>http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests</link>
+      <description>September 6, 2017 - Big tech companies influence more of our lives than ever before. And there are growing concerns that they&#39;re using that power to advance their own corporate interests. NPR&#39;s Ari Shapiro talks with Gizmodo journalist Kashmir Hill about her own experience with the tech giant, Google.</description>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170906_atc_how_tech_giants_use_their_power_to_advance_corporate_interests.mp3?orgId=1&amp;topicId=1019&amp;d=241&amp;p=2&amp;story=548985335&amp;t=progseg&amp;e=548824957&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 6, 2017 - Big tech companies influence more of our lives than ever before. And there are growing concerns that they're using that power to advance their own corporate interests. NPR's Ari Shapiro talks with Gizmodo journalist Kashmir Hill about her own experience with the tech giant, Google.
+
+<a href="http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests">http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>241</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</guid>
       <title>When It Comes To Romantic Attraction, Real Life Beats Questionnaires</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</link>
-      <description>September 6, 2017 - Questionnaires of the sort used by dating apps don&#39;t even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.</description>
+      <description>September 6, 2017 - Questionnaires of the sort used by dating apps don&#39;t come close to predicting initial attraction compared with meeting someone in real life, a study finds. The ineffable mystery of romance remains.</description>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s800-c15.jpg"></a>
 
-September 6, 2017 - Questionnaires of the sort used by dating apps don't even come close to predicting initial attraction compared to meeting someone in real life, a study finds. The ineffable mystery of romance remains.
+September 6, 2017 - Questionnaires of the sort used by dating apps don't come close to predicting initial attraction compared with meeting someone in real life, a study finds. The ineffable mystery of romance remains.
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires">http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s3000-c15.jpg"></itunes:image>
@@ -239,23 +254,6 @@ September 4, 2017 - With new models aimed at the mass market going on sale this 
 <a href="http://www.npr.org/2017/08/31/547491073/google-finds-itself-in-another-free-speech-controversy">http://www.npr.org/2017/08/31/547491073/google-finds-itself-in-another-free-speech-controversy</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>147</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_whats_up_those_baseball_sleeves_lots_of_data_and_privacy_concerns.mp3?orgId=1&amp;topicId=1055&amp;d=250&amp;p=3&amp;story=547062884&amp;t=progseg&amp;e=547219068&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What&#39;s Up Those Baseball Sleeves? Lots Of Data, And Privacy Concerns</title>
-      <link>http://www.npr.org/2017/08/30/547062884/whats-up-those-baseball-sleeves-lots-of-athletes-data-and-concerns-about-privacy</link>
-      <description>August 30, 2017 - Professional athletes use wearable technology to improve performance. But key questions remain over who owns the data and how the information is used.</description>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170830_me_whats_up_those_baseball_sleeves_lots_of_data_and_privacy_concerns.mp3?orgId=1&amp;topicId=1055&amp;d=250&amp;p=3&amp;story=547062884&amp;t=progseg&amp;e=547219068&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/ap_472697138454_wide-f7c7beb519baaad384c26d3fe38482a43bc6a9c4-s800-c15.jpg"></a>
-
-August 30, 2017 - Professional athletes use wearable technology to improve performance. But key questions remain over who owns the data and how the information is used.
-
-<a href="http://www.npr.org/2017/08/30/547062884/whats-up-those-baseball-sleeves-lots-of-athletes-data-and-concerns-about-privacy">http://www.npr.org/2017/08/30/547062884/whats-up-those-baseball-sleeves-lots-of-athletes-data-and-concerns-about-privacy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/ap_472697138454_wide-f7c7beb519baaad384c26d3fe38482a43bc6a9c4-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>250</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
