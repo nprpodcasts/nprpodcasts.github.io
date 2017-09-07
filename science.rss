@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 19:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 20:00:06 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 19:00:20 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 20:00:06 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</guid>
+      <title>A Pioneer Of Food Activism Steps Down, Looks Back</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</link>
+      <description>September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against &#34;junk food.&#34; He&#39;s now stepping down as president of the Center for Science in the Public Interest.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s800-c15.jpg"></a>
+
+September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against "junk food." He's now stepping down as president of the Center for Science in the Public Interest.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</guid>
+      <title>Here&#39;s How Big North Korea&#39;s Latest Nuclear Test Actually Was</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</link>
+      <description>September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North&#39;s claim that it tested a hydrogen bomb.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s800-c15.png"></a>
+
+September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North's claim that it tested a hydrogen bomb.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was">http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</guid>
       <title>Why Do Parrots (And People) Eat Clay? </title>
@@ -228,36 +258,6 @@ September 4, 2017 - The American Academy of Pediatrics reminds us that shots —
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots">http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-642619416_wide-858f768afd9e50e45d116adeef4ab8f220a0d223-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/03/548295156/-american-space-ninja-peggy-whitson-back-on-earth-after-record-breaking-flight</guid>
-      <title>&#39;American Space Ninja&#39; Back On Earth After Record-Breaking Flight</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/03/548295156/-american-space-ninja-peggy-whitson-back-on-earth-after-record-breaking-flight</link>
-      <description>September 3, 2017 - Peggy Whitson smashed multiple records after spending a total of 665 days in orbit over the course of her career.</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/03/ap_17246267054656_wide-4aa07bb9083702742835b19fd15e8b1e96dcccda-s800-c15.jpg"></a>
-
-September 3, 2017 - Peggy Whitson smashed multiple records after spending a total of 665 days in orbit over the course of her career.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/03/548295156/-american-space-ninja-peggy-whitson-back-on-earth-after-record-breaking-flight">http://www.npr.org/sections/thetwo-way/2017/09/03/548295156/-american-space-ninja-peggy-whitson-back-on-earth-after-record-breaking-flight</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/03/ap_17246267054656_wide-4aa07bb9083702742835b19fd15e8b1e96dcccda-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170903_wesun_bumblebee_hunter.mp3?orgId=1367&amp;topicId=1132&amp;d=179&amp;p=10&amp;story=548255852&amp;t=progseg&amp;e=548255809&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Bumblebee Hunter</title>
-      <link>http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter</link>
-      <description>September 3, 2017 - The Franklin bumblebee is so small and hard to track that it&#39;s not clear if it&#39;s gone extinct. We tag along as one man makes his annual trek to try to find it.&#xA;&#xA; - http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter</description>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170903_wesun_bumblebee_hunter.mp3?orgId=1367&amp;topicId=1132&amp;d=179&amp;p=10&amp;story=548255852&amp;t=progseg&amp;e=548255809&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 3, 2017 - The Franklin bumblebee is so small and hard to track that it's not clear if it's gone extinct. We tag along as one man makes his annual trek to try to find it.
-
-<a href="http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter">http://www.npr.org/2017/09/03/548255852/the-bumblebee-hunter</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>179</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

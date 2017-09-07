@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 19:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 20:00:08 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 19:00:16 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 20:00:08 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</guid>
+      <title>A Pioneer Of Food Activism Steps Down, Looks Back</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</link>
+      <description>September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against &#34;junk food.&#34; He&#39;s now stepping down as president of the Center for Science in the Public Interest.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s800-c15.jpg"></a>
+
+September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against "junk food." He's now stepping down as president of the Center for Science in the Public Interest.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</guid>
       <title>A Toilet Is The Star Of India&#39;s Hit Rom-Com</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</link>
       <description>September 7, 2017 - She loves him. He loves her. But she loves indoor toilets even more. And he is not a fan. Can they find happiness? The plot of Toilet: A Love Story addresses a very real issue in rural India.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-64c4be04e0c0bb8edef5d1eb076ee57e7dd07899-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-b89f9150dd29c4d15fd68c47e0ba62956e2eae9f-s800-c15.jpg"></a>
 
 September 7, 2017 - She loves him. He loves her. But she loves indoor toilets even more. And he is not a fan. Can they find happiness? The plot of Toilet: A Love Story addresses a very real issue in rural India.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love">http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-64c4be04e0c0bb8edef5d1eb076ee57e7dd07899-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-b89f9150dd29c4d15fd68c47e0ba62956e2eae9f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ September 4, 2017 - The company is holding a contest to find a new and natural, 
 <a href="http://www.npr.org/sections/thesalt/2017/09/04/547315191/coca-cola-offers-a-sweet-quest-a-million-bucks-to-replace-sugar">http://www.npr.org/sections/thesalt/2017/09/04/547315191/coca-cola-offers-a-sweet-quest-a-million-bucks-to-replace-sugar</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/31/tcccsweetener_wide-f2674317dae728c36d1dca48a01c190730f659fd-s3000-c15.jpg"></itunes:image>
       <itunes:duration>195</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots</guid>
-      <title>Fall Weather Headed Your Way? Time For Flu Shots</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots</link>
-      <description>September 4, 2017 - The American Academy of Pediatrics reminds us that shots — not a nasal spray — are the most effective way to protect kids 6 months and older against the flu.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/01/istock-642619416_wide-858f768afd9e50e45d116adeef4ab8f220a0d223-s800-c15.jpg"></a>
-
-September 4, 2017 - The American Academy of Pediatrics reminds us that shots — not a nasal spray — are the most effective way to protect kids 6 months and older against the flu.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots">http://www.npr.org/sections/health-shots/2017/09/04/547916216/fall-weather-headed-your-way-time-for-flu-shots</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-642619416_wide-858f768afd9e50e45d116adeef4ab8f220a0d223-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

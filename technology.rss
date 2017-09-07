@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 08:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2017 20:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 08:01:32 +0000</pubDate>
+    <pubDate>Thu, 07 Sep 2017 20:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</guid>
+      <title>Here&#39;s How Big North Korea&#39;s Latest Nuclear Test Actually Was</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</link>
+      <description>September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North&#39;s claim that it tested a hydrogen bomb.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s800-c15.png"></a>
+
+September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North's claim that it tested a hydrogen bomb.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was">http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170906_atc_how_tech_giants_use_their_power_to_advance_corporate_interests.mp3?orgId=1&amp;topicId=1019&amp;d=241&amp;p=2&amp;story=548985335&amp;t=progseg&amp;e=548824957&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Tech Giants Use Their Power To Advance Corporate Interests</title>
@@ -239,21 +254,6 @@ September 4, 2017 - With new models aimed at the mass market going on sale this 
 <a href="http://www.npr.org/2017/08/31/547491004/morning-news-brief-harvey-weakens-sanctuary-cities-ruling">http://www.npr.org/2017/08/31/547491004/morning-news-brief-harvey-weakens-sanctuary-cities-ruling</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>619</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_free_speech_folo.mp3?orgId=1&amp;topicId=1019&amp;d=147&amp;p=3&amp;story=547491073&amp;t=progseg&amp;e=547490025&amp;seg=13&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Tech Giant Google Finds Itself In Another Free-Speech Controversy</title>
-      <link>http://www.npr.org/2017/08/31/547491073/google-finds-itself-in-another-free-speech-controversy</link>
-      <description>August 31, 2017 - News of a scholar being forced out at New America, which is founded by Google, is hitting a nerve. Google has a novel form of power — over both the distribution of ideas and the creation of ideas.</description>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/08/20170831_me_free_speech_folo.mp3?orgId=1&amp;topicId=1019&amp;d=147&amp;p=3&amp;story=547491073&amp;t=progseg&amp;e=547490025&amp;seg=13&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 31, 2017 - News of a scholar being forced out at New America, which is founded by Google, is hitting a nerve. Google has a novel form of power — over both the distribution of ideas and the creation of ideas.
-
-<a href="http://www.npr.org/2017/08/31/547491073/google-finds-itself-in-another-free-speech-controversy">http://www.npr.org/2017/08/31/547491073/google-finds-itself-in-another-free-speech-controversy</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>147</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
