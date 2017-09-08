@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 17:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 18:00:13 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 17:00:22 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 18:00:13 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/09/08/547839207/hurricanes-a-science-primer</guid>
+      <title>Hurricanes: A Science Primer</title>
+      <link>http://www.npr.org/sections/13.7/2017/09/08/547839207/hurricanes-a-science-primer</link>
+      <description>September 8, 2017 - We know how damaging and costly, in many ways, such natural phenomena can be — but the devastation is not surprising, once you know how much energy is involved, says astrophysicist Marcelo Gleiser.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/irma_wide-e8afc55bb36fd4f87d6328163873fb9b65b59718-s800-c15.jpg"></a>
+
+September 8, 2017 - We know how damaging and costly, in many ways, such natural phenomena can be — but the devastation is not surprising, once you know how much energy is involved, says astrophysicist Marcelo Gleiser.
+
+<a href="http://www.npr.org/sections/13.7/2017/09/08/547839207/hurricanes-a-science-primer">http://www.npr.org/sections/13.7/2017/09/08/547839207/hurricanes-a-science-primer</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/irma_wide-e8afc55bb36fd4f87d6328163873fb9b65b59718-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change</guid>
       <title>Hurricanes Are Sweeping The Atlantic. What&#39;s The Role Of Climate Change?</title>
@@ -235,23 +250,6 @@ September 5, 2017 - "It's a mystery," said one health official. Italy was declar
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy">http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Army, The Inventor And The Surprising Uses Of A Batman Machine</title>
-      <link>http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</link>
-      <description>September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s800-c15.jpg"></a>
-
-September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.
-
-<a href="http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine">http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>155</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

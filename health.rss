@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 17:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 18:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 17:00:25 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 18:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/08/549246565/south-asias-flood-reveals-frustrating-dynamic-between-aid-groups</guid>
+      <title>Local Aid Groups Are Key To Disaster Relief. So Why Are They Overlooked?</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/08/549246565/south-asias-flood-reveals-frustrating-dynamic-between-aid-groups</link>
+      <description>September 8, 2017 - Community-based charities are at the front lines of the flood response in South Asia. But global charities get almost all the attention — and money.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-837873946-62_wide-d2b46252b70fa2e6b46f6b19742a47919ef858b1-s800-c15.jpg"></a>
+
+September 8, 2017 - Community-based charities are at the front lines of the flood response in South Asia. But global charities get almost all the attention — and money.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/08/549246565/south-asias-flood-reveals-frustrating-dynamic-between-aid-groups">http://www.npr.org/sections/goatsandsoda/2017/09/08/549246565/south-asias-flood-reveals-frustrating-dynamic-between-aid-groups</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-837873946-62_wide-d2b46252b70fa2e6b46f6b19742a47919ef858b1-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/08/549414152/why-do-people-stop-taking-their-meds-cost-is-just-one-reason</guid>
       <title>Why Do People Stop Taking Their Meds? Cost Is Just One Reason</title>
@@ -46,12 +61,12 @@ September 8, 2017 - The latest NPR-Truven Health Analytics poll finds that one-t
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_opioids_and_workers_part_2.mp3?orgId=1&amp;topicId=1128&amp;d=321&amp;p=3&amp;story=548867893&amp;t=progseg&amp;e=549373716&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-5f499caeaed328166f52e0834a6f887c4a97c009-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-a54c6fbe438018e58197645aa0736e4756bd8554-s800-c15.jpg"></a>
 
 September 8, 2017 - Opioid addiction affects people's work lives more than alcohol or other drugs, and those who struggle with it tell strikingly similar tales of deepening alienation from their careers.
 
 <a href="http://www.npr.org/2017/09/08/548867893/the-powerful-pull-of-opioids-leaves-many-missing-from-u-s-workforce">http://www.npr.org/2017/09/08/548867893/the-powerful-pull-of-opioids-leaves-many-missing-from-u-s-workforce</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-5f499caeaed328166f52e0834a6f887c4a97c009-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-a54c6fbe438018e58197645aa0736e4756bd8554-s3000-c15.jpg"></itunes:image>
       <itunes:duration>321</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -241,21 +256,6 @@ September 5, 2017 - Senate Republicans and Democrats are trying something new on
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories">http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/lamar-a_wide-7147905f00f9596d442c61cab58de96e945e9ef2-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</guid>
-      <title>Whatever Happened To ... The Mission To Get Rid Of Rwanda&#39;s Dirt Floors?</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</link>
-      <description>September 5, 2017 - A small project started in 2014 to replace dirt floors, which can make people sick, with sealed earthen floors. Demand has only grown — but not exactly in the way the CEO had imagined.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/0e5a5885-60_wide-bb8dd69a8939b69de8fe6a92d73d130816993bb9-s800-c15.jpg"></a>
-
-September 5, 2017 - A small project started in 2014 to replace dirt floors, which can make people sick, with sealed earthen floors. Demand has only grown — but not exactly in the way the CEO had imagined.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors">http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/0e5a5885-60_wide-bb8dd69a8939b69de8fe6a92d73d130816993bb9-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
