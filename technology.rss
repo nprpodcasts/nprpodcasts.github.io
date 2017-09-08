@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 13:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 22:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 13:17:48 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 22:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,47 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</guid>
+      <title>Equifax Breach Exposes Personal Data Of 143 Million People</title>
+      <link>http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</link>
+      <description>September 8, 2017 - Equifax says it suffered a massive data breach involving as many as 143 million people in the U.S. Social Security numbers, birth dates, addresses and drivers licenses were apparently exposed, thus making this one of the worst hacks ever reported.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Equifax says it suffered a massive data breach involving as many as 143 million people in the U.S. Social Security numbers, birth dates, addresses and drivers licenses were apparently exposed, thus making this one of the worst hacks ever reported.
+
+<a href="http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people">http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://the1a.org/shows/2017-09-08/friday-news-roundup-international</guid>
+      <title>Friday News Roundup - International</title>
+      <link>http://the1a.org/shows/2017-09-08/friday-news-roundup-international</link>
+      <description>September 8, 2017 - Hurricanes, a hydrogen bomb and hoax accounts all made news around the world this week.&#xA;&#xA; - http://the1a.org/shows/2017-09-08/friday-news-roundup-international</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Hurricanes, a hydrogen bomb and hoax accounts all made news around the world this week.
+
+<a href="http://the1a.org/shows/2017-09-08/friday-news-roundup-international">http://the1a.org/shows/2017-09-08/friday-news-roundup-international</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://downloads.wamu.org/mp3/1a/17/09/a1170908.mp3?siteplayer=true&amp;dl=1</guid>
+      <title>Friday News Roundup - Domestic</title>
+      <link>http://the1a.org/shows/2017-09-08/friday-news-roundup-domestic</link>
+      <description>September 8, 2017 - Hurricanes, congressional deals, DACA and a cheating scandal in baseball.&#xA;&#xA; - http://the1a.org/shows/2017-09-08/friday-news-roundup-domestic</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://downloads.wamu.org/mp3/1a/17/09/a1170908.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Hurricanes, congressional deals, DACA and a cheating scandal in baseball.
+
+<a href="http://the1a.org/shows/2017-09-08/friday-news-roundup-domestic">http://the1a.org/shows/2017-09-08/friday-news-roundup-domestic</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>2831</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_news_brief_mexico_earthquake_florida_evacuates_equifax_data_breach.mp3?orgId=1&amp;topicId=1003&amp;d=621&amp;p=3&amp;story=549373719&amp;t=progseg&amp;e=549373716&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>News Brief: Mexico Earthquake, Florida Evacuates, Equifax Data Breach</title>
@@ -205,55 +246,6 @@ September 5, 2017 - As dozens of CEOs called on the president to preserve DACA, 
 <a href="http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate">http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2880</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Army, The Inventor And The Surprising Uses Of A Batman Machine</title>
-      <link>http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</link>
-      <description>September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170905_me_the_army_the_inventor_and_the_surprising_uses_of_a_batman_machine.mp3?orgId=1&amp;topicId=1007&amp;aggIds=156490415&amp;d=155&amp;p=3&amp;story=545481011&amp;t=progseg&amp;e=548576308&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s800-c15.jpg"></a>
-
-September 5, 2017 - The Army wanted a new, small device that could pull a person rapidly up a rope. The invention they eventually got has uses far beyond the military.
-
-<a href="http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine">http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>155</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_what_parts_of_the_workforce_might_be_safe_from_robots.mp3?orgId=1&amp;topicId=1019&amp;d=253&amp;p=2&amp;story=548505776&amp;t=progseg&amp;e=548407189&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
-      <title>What Parts Of The Workforce Might Be Safe From Robots?</title>
-      <link>http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</link>
-      <description>September 4, 2017 - To kick off our series &#34;Is My Job Safe?&#34; NPR&#39;s Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_what_parts_of_the_workforce_might_be_safe_from_robots.mp3?orgId=1&amp;topicId=1019&amp;d=253&amp;p=2&amp;story=548505776&amp;t=progseg&amp;e=548407189&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 4, 2017 - To kick off our series "Is My Job Safe?" NPR's Ari Shapiro asks Erik Brynjolfsson, director of the MIT Initiative on the Digital Economy whether artificial intelligence is threatening our jobs.
-
-<a href="http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots">http://www.npr.org/2017/09/04/548505776/what-parts-of-the-workforce-might-be-safe-from-robots</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>253</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scanning The Future, Radiologists See Their Jobs At Risk</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</link>
-      <description>September 4, 2017 - In a new series called &#34;Is My Job Safe?&#34; NPR looks at the future of jobs at a time of rapid gains in artificial intelligence and robotics. We start with a high-paying job in medicine: radiologists.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s800-c15.jpg"></a>
-
-September 4, 2017 - In a new series called "Is My Job Safe?" NPR looks at the future of jobs at a time of rapid gains in artificial intelligence and robotics. We start with a high-paying job in medicine: radiologists.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk">http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>281</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

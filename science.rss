@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 18:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 22:00:29 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 18:00:13 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 22:00:29 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_florida_suffers_growing_gasoline_shortage_as_residents_prepare_for_irma.mp3?orgId=1&amp;topicId=1006&amp;d=180&amp;p=2&amp;story=549549893&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Florida Suffers Growing Gasoline Shortage As Residents Prepare For Irma</title>
+      <link>http://www.npr.org/2017/09/08/549549893/florida-suffers-growing-gasoline-shortage-as-residents-prepare-for-irma</link>
+      <description>September 8, 2017 - Refineries were already affected by Hurricane Harvey. Now comes Irma, which is causing huge gasoline shortages in southern Florida. One firm estimates that 30 to 40 percent of Florida gas stations are out of fuel, and the twin storms are affecting gas prices all over the country.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_florida_suffers_growing_gasoline_shortage_as_residents_prepare_for_irma.mp3?orgId=1&amp;topicId=1006&amp;d=180&amp;p=2&amp;story=549549893&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Refineries were already affected by Hurricane Harvey. Now comes Irma, which is causing huge gasoline shortages in southern Florida. One firm estimates that 30 to 40 percent of Florida gas stations are out of fuel, and the twin storms are affecting gas prices all over the country.
+
+<a href="http://www.npr.org/2017/09/08/549549893/florida-suffers-growing-gasoline-shortage-as-residents-prepare-for-irma">http://www.npr.org/2017/09/08/549549893/florida-suffers-growing-gasoline-shortage-as-residents-prepare-for-irma</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>180</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/08/549477502/what-goes-into-hurricane-forecasting-satellites-supercomputers-and-more</guid>
+      <title>What Goes Into Hurricane Forecasting? Satellites, Supercomputers And More</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/08/549477502/what-goes-into-hurricane-forecasting-satellites-supercomputers-and-more</link>
+      <description>September 8, 2017 - The latest hurricane models are using lightning-fast supercomputers to crunch ever-more data. And they&#39;re getting better.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/08/ap_17251560670001_wide-35b4ba78976259fca2e97871a1685a1771a7cd77-s800-c15.jpg"></a>
+
+September 8, 2017 - The latest hurricane models are using lightning-fast supercomputers to crunch ever-more data. And they're getting better.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/08/549477502/what-goes-into-hurricane-forecasting-satellites-supercomputers-and-more">http://www.npr.org/sections/thetwo-way/2017/09/08/549477502/what-goes-into-hurricane-forecasting-satellites-supercomputers-and-more</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/ap_17251560670001_wide-35b4ba78976259fca2e97871a1685a1771a7cd77-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/13.7/2017/09/08/547839207/hurricanes-a-science-primer</guid>
       <title>Hurricanes: A Science Primer</title>
@@ -220,36 +250,6 @@ September 6, 2017 - Through the power of Katrina, Sandy and, now, Harvey, we get
 
 <a href="http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey">http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/ap_17248769014085_wide-4b61fc9c0ce5911d832f871fae969ff90e56ea44-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548648114/western-wildfires-endanger-beloved-sites-at-national-parks</guid>
-      <title>Western Wildfires Endanger Beloved Sites At National Parks</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/05/548648114/western-wildfires-endanger-beloved-sites-at-national-parks</link>
-      <description>September 5, 2017 - A 20-square-mile blaze burned the historic Sperry Chalet in Glacier National Park last week. In California&#39;s Sierra National Forest, an ancient grove of sequoias was scorched, but the trees survived.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/05/ap_17247800418631_wide-ad970c8d8c979e84818198c8f5d6d9d966a0a9f6-s800-c15.jpg"></a>
-
-September 5, 2017 - A 20-square-mile blaze burned the historic Sperry Chalet in Glacier National Park last week. In California's Sierra National Forest, an ancient grove of sequoias was scorched, but the trees survived.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548648114/western-wildfires-endanger-beloved-sites-at-national-parks">http://www.npr.org/sections/thetwo-way/2017/09/05/548648114/western-wildfires-endanger-beloved-sites-at-national-parks</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/ap_17247800418631_wide-ad970c8d8c979e84818198c8f5d6d9d966a0a9f6-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</guid>
-      <title>In A Case That Is &#39;Almost Impossible,&#39; Girl Dies Of Malaria In Italy</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</link>
-      <description>September 5, 2017 - &#34;It&#39;s a mystery,&#34; said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s800-c15.jpg"></a>
-
-September 5, 2017 - "It's a mystery," said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy">http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

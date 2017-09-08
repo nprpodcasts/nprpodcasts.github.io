@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 18:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 22:00:31 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 18:00:14 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 22:00:31 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,38 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</guid>
+      <title>Using A Robotic Hand, She Wants To Throw Out The First Pitch For All 30 MLB Teams</title>
+      <link>http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</link>
+      <description>September 8, 2017 - At 7, Hailey Dawson loves baseball and tossing out that first pitch. Poland syndrome made it a challenge but a robotic hand made it possible.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-694962564_wide-b93a598e9b7474b8d8269e9be75e419e068f2ac0-s800-c15.jpg"></a>
+
+September 8, 2017 - At 7, Hailey Dawson loves baseball and tossing out that first pitch. Poland syndrome made it a challenge but a robotic hand made it possible.
+
+<a href="http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams">http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-694962564_wide-b93a598e9b7474b8d8269e9be75e419e068f2ac0-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_dental_schools_add_an_urgent_lesson_think_twice_about_prescribing_opioids.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=549218604&amp;t=progseg&amp;e=549386870&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Dental Schools Add An Urgent Lesson: Think Twice About Prescribing Opioids</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/08/549218604/dental-schools-add-an-urgent-lesson-think-twice-about-prescribing-opioids</link>
+      <description>September 8, 2017 - Opioid painkillers prescribed by dentists have helped fuel the nation&#39;s addiction epidemic. Dental schools are teaching the next generation of dentists that there are other ways to treat pain.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_dental_schools_add_an_urgent_lesson_think_twice_about_prescribing_opioids.mp3?orgId=1&amp;topicId=1128&amp;d=495&amp;p=2&amp;story=549218604&amp;t=progseg&amp;e=549386870&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/img_5733_wide-617426101e6ed1536c39ed8397c4f713f67414d5-s800-c15.jpg"></a>
+
+September 8, 2017 - Opioid painkillers prescribed by dentists have helped fuel the nation's addiction epidemic. Dental schools are teaching the next generation of dentists that there are other ways to treat pain.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/08/549218604/dental-schools-add-an-urgent-lesson-think-twice-about-prescribing-opioids">http://www.npr.org/sections/health-shots/2017/09/08/549218604/dental-schools-add-an-urgent-lesson-think-twice-about-prescribing-opioids</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/img_5733_wide-617426101e6ed1536c39ed8397c4f713f67414d5-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>495</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/08/549246565/south-asias-flood-reveals-frustrating-dynamic-between-aid-groups</guid>
       <title>Local Aid Groups Are Key To Disaster Relief. So Why Are They Overlooked?</title>
@@ -224,38 +256,6 @@ September 6, 2017 - For Ahmad Chahabi, reaching the safety of Germany was only t
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes">http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-baa65b5112e1d746dba31c67bdecf3db0404ef80-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_houston_methadone_clinics_reopen_after_flooding_from_harvey_forced_them_to_close.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=3&amp;story=548819207&amp;t=progseg&amp;e=548803221&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Houston Methadone Clinics Reopen After Harvey&#39;s Flooding </title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding</link>
-      <description>September 6, 2017 - Hurricane Harvey disrupted treatment for people addicted to opioids. Many need to get connected to a specialty clinic that can provide medication-assisted treatment.</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_houston_methadone_clinics_reopen_after_flooding_from_harvey_forced_them_to_close.mp3?orgId=1&amp;topicId=1128&amp;d=224&amp;p=3&amp;story=548819207&amp;t=progseg&amp;e=548803221&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/06/gettyimages-840674406_wide-abc0ee4bcdff3d02adcb54e9131c5b84f55e2d8d-s800-c15.jpg"></a>
-
-September 6, 2017 - Hurricane Harvey disrupted treatment for people addicted to opioids. Many need to get connected to a specialty clinic that can provide medication-assisted treatment.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding">http://www.npr.org/sections/health-shots/2017/09/06/548819207/houston-methadone-clinics-reopen-after-harveys-flooding</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/gettyimages-840674406_wide-abc0ee4bcdff3d02adcb54e9131c5b84f55e2d8d-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>224</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</guid>
-      <title>Chastened Lawmakers Aim For Small, Bipartisan Health Care Victories</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</link>
-      <description>September 5, 2017 - Senate Republicans and Democrats are trying something new on health care. It&#39;s called cooperation.&#xA;&#xA; - http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/lamar-a_wide-7147905f00f9596d442c61cab58de96e945e9ef2-s800-c15.jpg"></a>
-
-September 5, 2017 - Senate Republicans and Democrats are trying something new on health care. It's called cooperation.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories">http://www.npr.org/sections/health-shots/2017/09/05/548676514/chastened-lawmakers-aim-for-small-bipartisan-health-care-victories</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/lamar-a_wide-7147905f00f9596d442c61cab58de96e945e9ef2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
