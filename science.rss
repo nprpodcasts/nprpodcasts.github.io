@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 21:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 13:17:50 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 21:00:08 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 13:17:50 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,63 +24,117 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250104/powerful-storms-raise-questions-about-the-science-of-hurricanes</guid>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change</guid>
+      <title>Hurricanes Are Sweeping The Atlantic. What&#39;s The Role Of Climate Change?</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change</link>
+      <description>September 8, 2017 - Warmer waters and air are playing a role in this year&#39;s monster storms.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/07/irma_wide-8faf94cb52f7371db620fe58aac3fa68a4a4883b-s800-c15.jpg"></a>
+
+September 8, 2017 - Warmer waters and air are playing a role in this year's monster storms.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change">http://www.npr.org/sections/thetwo-way/2017/09/08/549280066/hurricanes-are-sweeping-the-atlantic-whats-the-role-of-climate-change</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/irma_wide-8faf94cb52f7371db620fe58aac3fa68a4a4883b-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_study_looks_at_how_people_think_about_free_speech.mp3?orgId=1&amp;topicId=1007&amp;d=214&amp;p=3&amp;story=549373754&amp;t=progseg&amp;e=549373716&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Study Looks At How People Think About Free Speech</title>
+      <link>http://www.npr.org/2017/09/08/549373754/study-looks-at-how-people-think-about-free-speech</link>
+      <description>September 8, 2017 - Some new research says that many people use free speech arguments only when convenient, and as a cover for their own feelings.&#xA;&#xA; - http://www.npr.org/2017/09/08/549373754/study-looks-at-how-people-think-about-free-speech</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_study_looks_at_how_people_think_about_free_speech.mp3?orgId=1&amp;topicId=1007&amp;d=214&amp;p=3&amp;story=549373754&amp;t=progseg&amp;e=549373716&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Some new research says that many people use free speech arguments only when convenient, and as a cover for their own feelings.
+
+<a href="http://www.npr.org/2017/09/08/549373754/study-looks-at-how-people-think-about-free-speech">http://www.npr.org/2017/09/08/549373754/study-looks-at-how-people-think-about-free-speech</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549182066/a-quorum-of-sneezes-for-wild-dogs-it-s-not-just-snot-it-s-a-way-to-vote</guid>
+      <title>Democracy By Sneeze: When Wild Dogs Must Decide, They Vote With Their Noses</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549182066/a-quorum-of-sneezes-for-wild-dogs-it-s-not-just-snot-it-s-a-way-to-vote</link>
+      <description>September 7, 2017 - When it might be time to move, African wild dogs take a poll with an odd electoral instrument: sneezing. The more sneezes, the more likely it is the pack will move, according to a new study.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/07/36954155235_da7ecc6b93_o_wide-348a372bc0272853d6b8c03da52728f3076a8271-s800-c15.jpg"></a>
+
+September 7, 2017 - When it might be time to move, African wild dogs take a poll with an odd electoral instrument: sneezing. The more sneezes, the more likely it is the pack will move, according to a new study.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549182066/a-quorum-of-sneezes-for-wild-dogs-it-s-not-just-snot-it-s-a-way-to-vote">http://www.npr.org/sections/thetwo-way/2017/09/07/549182066/a-quorum-of-sneezes-for-wild-dogs-it-s-not-just-snot-it-s-a-way-to-vote</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/36954155235_da7ecc6b93_o_wide-348a372bc0272853d6b8c03da52728f3076a8271-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_powerful_storms_raise_questions_about_the_science_of_hurricanes.mp3?orgId=1&amp;topicId=1007&amp;d=215&amp;p=2&amp;story=549250104&amp;t=progseg&amp;e=549123942&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
       <title>Powerful Storms Raise Questions About The Science Of Hurricanes</title>
       <link>http://www.npr.org/2017/09/07/549250104/powerful-storms-raise-questions-about-the-science-of-hurricanes</link>
       <description>September 7, 2017 - NPR&#39;s Robert Siegel talks with Phil Klotzbach, a research scientist at Colorado State University, about the science of hurricanes and what makes Hurricane Irma so unusual.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_powerful_storms_raise_questions_about_the_science_of_hurricanes.mp3?orgId=1&amp;topicId=1007&amp;d=215&amp;p=2&amp;story=549250104&amp;t=progseg&amp;e=549123942&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - NPR's Robert Siegel talks with Phil Klotzbach, a research scientist at Colorado State University, about the science of hurricanes and what makes Hurricane Irma so unusual.
 
 <a href="http://www.npr.org/2017/09/07/549250104/powerful-storms-raise-questions-about-the-science-of-hurricanes">http://www.npr.org/2017/09/07/549250104/powerful-storms-raise-questions-about-the-science-of-hurricanes</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250042/all-my-penguins-tells-tales-of-love-and-friendship-at-chicago-zoo</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_all_my_penguins_tells_tales_of_love_and_friendship_at_chicago_zoo.mp3?orgId=1&amp;topicId=1132&amp;d=110&amp;p=2&amp;story=549250042&amp;t=progseg&amp;e=549123942&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>&#39;All My Penguins&#39; Tells Tales Of Love And Friendship At Chicago Zoo</title>
       <link>http://www.npr.org/2017/09/07/549250042/all-my-penguins-tells-tales-of-love-and-friendship-at-chicago-zoo</link>
       <description>September 7, 2017 - A new penguin blog from the Lincoln Park Zoo in Chicago tells tales of love and friendship. The soapy blog recounts the escapades of the zoo&#39;s new African penguin colony.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_all_my_penguins_tells_tales_of_love_and_friendship_at_chicago_zoo.mp3?orgId=1&amp;topicId=1132&amp;d=110&amp;p=2&amp;story=549250042&amp;t=progseg&amp;e=549123942&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - A new penguin blog from the Lincoln Park Zoo in Chicago tells tales of love and friendship. The soapy blog recounts the escapades of the zoo's new African penguin colony.
 
 <a href="http://www.npr.org/2017/09/07/549250042/all-my-penguins-tells-tales-of-love-and-friendship-at-chicago-zoo">http://www.npr.org/2017/09/07/549250042/all-my-penguins-tells-tales-of-love-and-friendship-at-chicago-zoo</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>110</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250035/biologist-jonathan-losos-explores-convergent-evolution-in-improbable-destinies</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_biologist_jonathan_losos_explores_convergent_evolution_in_improbable_destinies.mp3?orgId=1&amp;topicId=1033&amp;d=385&amp;p=2&amp;story=549250035&amp;t=progseg&amp;e=549123942&amp;seg=4&amp;siteplayer=true&amp;dl=1</guid>
       <title>Biologist Jonathan Losos Explores &#39;Convergent Evolution&#39; In &#39;Improbable Destinies&#39;</title>
       <link>http://www.npr.org/2017/09/07/549250035/biologist-jonathan-losos-explores-convergent-evolution-in-improbable-destinies</link>
       <description>September 7, 2017 - NPR&#39;s Robert Siegel speaks with Jonathan Losos, author of the new book, Improbable Destinies: Fate, Chance, and the Future of Evolution, which explores the growing understanding of &#34;convergent evolution.&#34;</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_biologist_jonathan_losos_explores_convergent_evolution_in_improbable_destinies.mp3?orgId=1&amp;topicId=1033&amp;d=385&amp;p=2&amp;story=549250035&amp;t=progseg&amp;e=549123942&amp;seg=4&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - NPR's Robert Siegel speaks with Jonathan Losos, author of the new book, Improbable Destinies: Fate, Chance, and the Future of Evolution, which explores the growing understanding of "convergent evolution."
 
 <a href="http://www.npr.org/2017/09/07/549250035/biologist-jonathan-losos-explores-convergent-evolution-in-improbable-destinies">http://www.npr.org/2017/09/07/549250035/biologist-jonathan-losos-explores-convergent-evolution-in-improbable-destinies</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>385</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_nashville_begins_tearing_down_some_homes_to_prevent_future_flooding.mp3?orgId=1&amp;topicId=1091&amp;d=218&amp;p=2&amp;story=549250028&amp;t=progseg&amp;e=549123942&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
       <title>Nashville Begins Tearing Down Some Homes To Prevent Future Flooding</title>
       <link>http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding</link>
       <description>September 7, 2017 - Nashville, Tenn., has found a way to make sure some homes never flood again. It&#39;s tearing them down.&#xA;&#xA; - http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_nashville_begins_tearing_down_some_homes_to_prevent_future_flooding.mp3?orgId=1&amp;topicId=1091&amp;d=218&amp;p=2&amp;story=549250028&amp;t=progseg&amp;e=549123942&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - Nashville, Tenn., has found a way to make sure some homes never flood again. It's tearing them down.
 
 <a href="http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding">http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>218</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Pioneer Of Food Activism Steps Down, Looks Back</title>
       <link>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</link>
       <description>September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against &#34;junk food.&#34; He&#39;s now stepping down as president of the Center for Science in the Public Interest.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s800-c15.jpg"></a>
 
@@ -88,6 +142,7 @@ September 7, 2017 - Michael Jacobson invented a new style of food activism. For 
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>280</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -195,55 +250,6 @@ September 5, 2017 - The Army wanted a new, small device that could pull a person
 <a href="http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine">http://www.npr.org/2017/09/05/545481011/the-army-the-inventor-and-the-surprising-uses-of-a-batman-machine</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/24/atl_4781_wide-b1c8a0c15dfe06a1ae759773a768c9804051a619-s3000-c15.jpg"></itunes:image>
       <itunes:duration>155</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_flooded_super_fund_sites_in_texas.mp3?orgId=1&amp;topicId=1025&amp;d=222&amp;p=2&amp;story=548490643&amp;t=progseg&amp;e=548407189&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
-      <title>In Texas, Concerns About Damage To Flooded Toxic Waste Sites</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites</link>
-      <description>September 4, 2017 - Environmental officials are inspecting toxic waste sites in southeast Texas that were flooded and potentially damaged last week.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_flooded_super_fund_sites_in_texas.mp3?orgId=1&amp;topicId=1025&amp;d=222&amp;p=2&amp;story=548490643&amp;t=progseg&amp;e=548407189&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/04/ap_17244855693681_wide-c8a5041274b2e36622a1efb854b743eaefabc21e-s800-c15.jpg"></a>
-
-September 4, 2017 - Environmental officials are inspecting toxic waste sites in southeast Texas that were flooded and potentially damaged last week.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites">http://www.npr.org/sections/thetwo-way/2017/09/04/548490643/in-texas-concerns-about-damage-to-flooded-toxic-waste-sites</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/04/ap_17244855693681_wide-c8a5041274b2e36622a1efb854b743eaefabc21e-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>222</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>So You Want To Buy An Electric Car? It Requires Some Planning</title>
-      <link>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</link>
-      <description>September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here&#39;s what you should know if you&#39;re on the market for one.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s800-c15.jpg"></a>
-
-September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here's what you should know if you're on the market for one.
-
-<a href="http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning">http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>306</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</guid>
-      <title>Trump Picks Oklahoma Congressman To Head NASA</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</link>
-      <description>September 4, 2017 - Rep. Jim Bridenstine is a fighter pilot who wants Americans to return to the moon but doesn&#39;t believe that humans are causing climate change.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/04/ap_16183638921328_wide-c2e285560d2e6e1654a4d9fa47db0eece2ec58a2-s800-c15.jpg"></a>
-
-September 4, 2017 - Rep. Jim Bridenstine is a fighter pilot who wants Americans to return to the moon but doesn't believe that humans are causing climate change.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa">http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/04/ap_16183638921328_wide-c2e285560d2e6e1654a4d9fa47db0eece2ec58a2-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

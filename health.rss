@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 21:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 13:17:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 21:00:09 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 13:17:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,40 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_opioids_and_workers_part_2.mp3?orgId=1&amp;topicId=1128&amp;d=321&amp;p=3&amp;story=548867893&amp;t=progseg&amp;e=549373716&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
+      <title>The Powerful Pull Of Opioids Leaves Many &#39;Missing&#39; From U.S. Workforce</title>
+      <link>http://www.npr.org/2017/09/08/548867893/the-powerful-pull-of-opioids-leaves-many-missing-from-u-s-workforce</link>
+      <description>September 8, 2017 - Opioid addiction affects people&#39;s work lives more than alcohol or other drugs, and those who struggle with it tell strikingly similar tales of deepening alienation from their careers.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_opioids_and_workers_part_2.mp3?orgId=1&amp;topicId=1128&amp;d=321&amp;p=3&amp;story=548867893&amp;t=progseg&amp;e=549373716&amp;seg=18&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-5f499caeaed328166f52e0834a6f887c4a97c009-s800-c15.jpg"></a>
+
+September 8, 2017 - Opioid addiction affects people's work lives more than alcohol or other drugs, and those who struggle with it tell strikingly similar tales of deepening alienation from their careers.
+
+<a href="http://www.npr.org/2017/09/08/548867893/the-powerful-pull-of-opioids-leaves-many-missing-from-u-s-workforce">http://www.npr.org/2017/09/08/548867893/the-powerful-pull-of-opioids-leaves-many-missing-from-u-s-workforce</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/img_2806_wide-5f499caeaed328166f52e0834a6f887c4a97c009-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>321</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_governors_give_senate_advice_on_how_to_improve_obamacare_markets.mp3?orgId=1&amp;topicId=1128&amp;d=120&amp;p=2&amp;story=549193137&amp;t=progseg&amp;e=549123942&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Governors Sound Off On How To Fix Health Insurance</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/07/549193137/governors-sound-off-on-how-to-fix-health-insurance</link>
+      <description>September 7, 2017 - Senators holding hearings this week are looking for quick tweaks that will stabilize the insurance markets and make policies cheaper. Some governors want more federal money and more flexibility.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_governors_give_senate_advice_on_how_to_improve_obamacare_markets.mp3?orgId=1&amp;topicId=1128&amp;d=120&amp;p=2&amp;story=549193137&amp;t=progseg&amp;e=549123942&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/ap_17250562760096_wide-211d926007bb41a15dd088f15746b661ccba4085-s800-c15.jpg"></a>
+
+September 7, 2017 - Senators holding hearings this week are looking for quick tweaks that will stabilize the insurance markets and make policies cheaper. Some governors want more federal money and more flexibility.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/07/549193137/governors-sound-off-on-how-to-fix-health-insurance">http://www.npr.org/sections/health-shots/2017/09/07/549193137/governors-sound-off-on-how-to-fix-health-insurance</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/ap_17250562760096_wide-211d926007bb41a15dd088f15746b661ccba4085-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>120</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/07/549069924/deadly-bird-flu-in-china-evolves-spreads-to-new-regions</guid>
       <title>Deadly Bird Flu In China Evolves, Spreads To New Regions</title>
@@ -39,24 +73,27 @@ September 7, 2017 - In the 2017 outbreak, the Chinese government reported 759 ca
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250049/governors-provide-plans-to-fix-health-insurance-markets</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_governors_provide_plans_to_fix_health_insurance_markets.mp3?orgId=1&amp;topicId=1128&amp;d=367&amp;p=2&amp;story=549250049&amp;t=progseg&amp;e=549123942&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>Governors Provide Plans To Fix Health Insurance Markets</title>
       <link>http://www.npr.org/2017/09/07/549250049/governors-provide-plans-to-fix-health-insurance-markets</link>
       <description>September 7, 2017 - Several governors were in Washington, D.C., to testify before the Senate health committee about their bipartisan plan to shore up the health insurance marketplace. NPR&#39;s Robert Siegel talks to Republican Gov. Gary Herbert of Utah and Democratic Gov. John Hickenlooper of Colorado.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_governors_provide_plans_to_fix_health_insurance_markets.mp3?orgId=1&amp;topicId=1128&amp;d=367&amp;p=2&amp;story=549250049&amp;t=progseg&amp;e=549123942&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - Several governors were in Washington, D.C., to testify before the Senate health committee about their bipartisan plan to shore up the health insurance marketplace. NPR's Robert Siegel talks to Republican Gov. Gary Herbert of Utah and Democratic Gov. John Hickenlooper of Colorado.
 
 <a href="http://www.npr.org/2017/09/07/549250049/governors-provide-plans-to-fix-health-insurance-markets">http://www.npr.org/2017/09/07/549250049/governors-provide-plans-to-fix-health-insurance-markets</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>367</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
       <title>A Pioneer Of Food Activism Steps Down, Looks Back</title>
       <link>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</link>
       <description>September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against &#34;junk food.&#34; He&#39;s now stepping down as president of the Center for Science in the Public Interest.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s800-c15.jpg"></a>
 
@@ -64,6 +101,7 @@ September 7, 2017 - Michael Jacobson invented a new style of food activism. For 
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>280</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -218,38 +256,6 @@ September 5, 2017 - "It's a mystery," said one health official. Italy was declar
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy">http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</guid>
-      <title>A Doctor Who Weathered Katrina Now Tends Victims Of Harvey</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</link>
-      <description>September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans&#39; Charity Hospital after Hurricane Katrina hit. She&#39;s now caring for evacuees from Hurricane Harvey.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-4bd849a896fc682d0109d6876872c02e29f10bf5-s800-c15.jpg"></a>
-
-September 5, 2017 - Dr. Ruth Berggren spent six days struggling to keep patients alive in in New Orleans' Charity Hospital after Hurricane Katrina hit. She's now caring for evacuees from Hurricane Harvey.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey">http://www.npr.org/sections/health-shots/2017/09/05/548626760/a-doctor-who-survived-katrina-now-tends-victims-of-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/ruth-b_wide-4bd849a896fc682d0109d6876872c02e29f10bf5-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Scanning The Future, Radiologists See Their Jobs At Risk</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</link>
-      <description>September 4, 2017 - In a new series called &#34;Is My Job Safe?&#34; NPR looks at the future of jobs at a time of rapid gains in artificial intelligence and robotics. We start with a high-paying job in medicine: radiologists.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_scanning_the_future_radiologists_see_their_jobs_at_risk.mp3?orgId=77&amp;topicId=1019&amp;d=281&amp;p=2&amp;story=547882005&amp;t=progseg&amp;e=548407189&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s800-c15.jpg"></a>
-
-September 4, 2017 - In a new series called "Is My Job Safe?" NPR looks at the future of jobs at a time of rapid gains in artificial intelligence and robotics. We start with a high-paying job in medicine: radiologists.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk">http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>281</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

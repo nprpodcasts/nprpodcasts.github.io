@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Sep 2017 21:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 13:17:48 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Thu, 07 Sep 2017 21:00:07 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 13:17:48 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,24 +24,87 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_news_brief_mexico_earthquake_florida_evacuates_equifax_data_breach.mp3?orgId=1&amp;topicId=1003&amp;d=621&amp;p=3&amp;story=549373719&amp;t=progseg&amp;e=549373716&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>News Brief: Mexico Earthquake, Florida Evacuates, Equifax Data Breach</title>
+      <link>http://www.npr.org/2017/09/08/549373719/news-brief-mexico-earthquake-florida-evacuates-equifax-data-breach</link>
+      <description>September 8, 2017 - Reporter Emily Green talks about a massive earthquake off the coast of Mexico. Also, the latest on Hurricane Irma, and TechCrunch writer John Mannes talks about a massive data breach at Equifax.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_news_brief_mexico_earthquake_florida_evacuates_equifax_data_breach.mp3?orgId=1&amp;topicId=1003&amp;d=621&amp;p=3&amp;story=549373719&amp;t=progseg&amp;e=549373716&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - Reporter Emily Green talks about a massive earthquake off the coast of Mexico. Also, the latest on Hurricane Irma, and TechCrunch writer John Mannes talks about a massive data breach at Equifax.
+
+<a href="http://www.npr.org/2017/09/08/549373719/news-brief-mexico-earthquake-florida-evacuates-equifax-data-breach">http://www.npr.org/2017/09/08/549373719/news-brief-mexico-earthquake-florida-evacuates-equifax-data-breach</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>621</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_credit_reporting_agency_equifax_reveals_massive_hack.mp3?orgId=1&amp;topicId=1006&amp;d=186&amp;p=3&amp;story=549373796&amp;t=progseg&amp;e=549373716&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Credit Reporting Agency Equifax Reveals Massive Hack</title>
+      <link>http://www.npr.org/2017/09/08/549373796/credit-reporting-agency-equifax-reveals-massive-hack</link>
+      <description>September 8, 2017 - NPR&#39;s David Greene talks to Washington Post reporter Craig Timberg about the hacking of credit reporting agency Equifax. Hackers may have gained access to data from 143 million Americans.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_credit_reporting_agency_equifax_reveals_massive_hack.mp3?orgId=1&amp;topicId=1006&amp;d=186&amp;p=3&amp;story=549373796&amp;t=progseg&amp;e=549373716&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 8, 2017 - NPR's David Greene talks to Washington Post reporter Craig Timberg about the hacking of credit reporting agency Equifax. Hackers may have gained access to data from 143 million Americans.
+
+<a href="http://www.npr.org/2017/09/08/549373796/credit-reporting-agency-equifax-reveals-massive-hack">http://www.npr.org/2017/09/08/549373796/credit-reporting-agency-equifax-reveals-massive-hack</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549296359/hackers-accessed-the-personal-data-of-143-million-people-equifax-says</guid>
+      <title>Hackers Accessed The Personal Data Of 143 Million People, Equifax Says</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549296359/hackers-accessed-the-personal-data-of-143-million-people-equifax-says</link>
+      <description>September 7, 2017 - The international credit reporting agency says a cybersecurity breach exposed Americans&#39; personal information — including Social Security numbers and addresses — for a span of about two months.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/07/ap_17250771679958_wide-a4da61b2b59658bfdd5cb3b6ec3d36423631409e-s800-c15.jpg"></a>
+
+September 7, 2017 - The international credit reporting agency says a cybersecurity breach exposed Americans' personal information — including Social Security numbers and addresses — for a span of about two months.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549296359/hackers-accessed-the-personal-data-of-143-million-people-equifax-says">http://www.npr.org/sections/thetwo-way/2017/09/07/549296359/hackers-accessed-the-personal-data-of-143-million-people-equifax-says</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/ap_17250771679958_wide-a4da61b2b59658bfdd5cb3b6ec3d36423631409e-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me</guid>
+      <title>Amazon Set To Build A Second HQ And Cities Say &#39;Pick Me!&#39;</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me</link>
+      <description>September 7, 2017 - The announcement set off a hot municipal contest — and one big thought experiment. Mayors across North America said their cities would be the perfect home for 50,000 jobs and a $5 billion investment.</description>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/07/ap_17250695294454_wide-81b32697a0fadb760f40e6277179fd686c453f16-s800-c15.jpg"></a>
+
+September 7, 2017 - The announcement set off a hot municipal contest — and one big thought experiment. Mayors across North America said their cities would be the perfect home for 50,000 jobs and a $5 billion investment.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me">http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/ap_17250695294454_wide-81b32697a0fadb760f40e6277179fd686c453f16-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_amazon_plans_to_open_second_headquarters_with_50000_jobs.mp3?orgId=1&amp;topicId=1006&amp;d=204&amp;p=2&amp;story=549250141&amp;t=progseg&amp;e=549123942&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
       <title>Amazon Plans To Open Second Headquarters With 50,000 Jobs</title>
       <link>http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</link>
       <description>September 7, 2017 - Amazon is setting out to find a location for a second headquarters, which should touch off intense competition among cities. The new HQ will bring along 50,000 high-paying jobs.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_amazon_plans_to_open_second_headquarters_with_50000_jobs.mp3?orgId=1&amp;topicId=1006&amp;d=204&amp;p=2&amp;story=549250141&amp;t=progseg&amp;e=549123942&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 7, 2017 - Amazon is setting out to find a location for a second headquarters, which should touch off intense competition among cities. The new HQ will bring along 50,000 high-paying jobs.
 
 <a href="http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs">http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_silicon_valley_wants_to_dust_off_the_democratic_establishment.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=546700281&amp;t=progseg&amp;e=549123942&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
       <title>Silicon Valley Wants To Dust Off The Democratic Establishment</title>
       <link>http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment</link>
       <description>September 7, 2017 - During the Obama years, Democrats got comfortable and Republicans gained a digital advantage. Now, the liberals of Silicon Valley want to change that.</description>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_silicon_valley_wants_to_dust_off_the_democratic_establishment.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=546700281&amp;t=progseg&amp;e=549123942&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/jessica-alter_wide-d57073a0fbc795bbfa1f8b7b3231008344e0ca7b-s800-c15.jpg"></a>
 
@@ -49,6 +112,7 @@ September 7, 2017 - During the Obama years, Democrats got comfortable and Republ
 
 <a href="http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment">http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/29/jessica-alter_wide-d57073a0fbc795bbfa1f8b7b3231008344e0ca7b-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>227</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -190,68 +254,6 @@ September 4, 2017 - In a new series called "Is My Job Safe?" NPR looks at the fu
 <a href="http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk">http://www.npr.org/sections/alltechconsidered/2017/09/04/547882005/scanning-the-future-radiologists-see-their-jobs-at-risk</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/istock-625676044_wide-a68127fd800ebc0d655fa2656d38b63cb6e074ed-s3000-c15.jpg"></itunes:image>
       <itunes:duration>281</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1</guid>
-      <title>So You Want To Buy An Electric Car? It Requires Some Planning</title>
-      <link>http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</link>
-      <description>September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here&#39;s what you should know if you&#39;re on the market for one.</description>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170904_atc_so_you_want_to_buy_an_electric_car_it_requires_some_planning.mp3?orgId=1&amp;topicId=1006&amp;d=306&amp;p=2&amp;story=545593956&amp;t=progseg&amp;e=548407189&amp;seg=10&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s800-c15.jpg"></a>
-
-September 4, 2017 - With new models aimed at the mass market going on sale this fall, Americans will hear a lot more about electric cars. Here's what you should know if you're on the market for one.
-
-<a href="http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning">http://www.npr.org/2017/09/04/545593956/so-you-want-to-buy-an-electric-car-it-requires-some-planning</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/705006921_wide-3a4e73b7b71f5752193ed8c811cbd6db8f4e30cf-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>306</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_how_technology_helped_rescuers.mp3?orgId=1&amp;topicId=1019&amp;d=71&amp;p=3&amp;story=547774558&amp;t=progseg&amp;e=547774376&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Technology Helped Rescuers</title>
-      <link>http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</link>
-      <description>September 1, 2017 - New technology has played a crucial role in the Houston rescue efforts, as volunteers could communicate to find those in need.&#xA;&#xA; - http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</description>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170901_me_how_technology_helped_rescuers.mp3?orgId=1&amp;topicId=1019&amp;d=71&amp;p=3&amp;story=547774558&amp;t=progseg&amp;e=547774376&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 1, 2017 - New technology has played a crucial role in the Houston rescue efforts, as volunteers could communicate to find those in need.
-
-<a href="http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers">http://www.npr.org/2017/09/01/547774558/how-technology-helped-rescuers</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>71</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=220&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Facebook Prepares To Launch New Video Streaming Service</title>
-      <link>http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</link>
-      <description>August 31, 2017 - Facebook is rolling out it&#39;s new video streaming service this week. &#34;Facebook Watch&#34; is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It&#39;s paid for by ads, which could be aimed directly at you, since Facebook knows all about you.</description>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/08/20170831_atc_facebook_prepares_to_launch_new_video_streaming_service.mp3?orgId=1&amp;topicId=1138&amp;d=220&amp;p=2&amp;story=547646681&amp;t=progseg&amp;e=547496184&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 31, 2017 - Facebook is rolling out it's new video streaming service this week. "Facebook Watch" is accessed by a button on the home page feed. Click and you get tons of shows, including a couple of originals. It's paid for by ads, which could be aimed directly at you, since Facebook knows all about you.
-
-<a href="http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service">http://www.npr.org/2017/08/31/547646681/facebook-prepares-to-launch-new-video-streaming-service</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>The Smartphone Generation: Less Sex, Fewer Drinks, More Depression</title>
-      <link>http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</link>
-      <description>August 31, 2017 - A psychologist worries that thousands of young people are &#34;on the brink of a mental health crisis.&#34;&#xA;&#xA; - http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</description>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/08/a2170831.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[August 31, 2017 - A psychologist worries that thousands of young people are "on the brink of a mental health crisis."
-
-<a href="http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation">http://the1a.org/shows/2017-08-31/has-the-smartphone-destroyed-a-generation</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
