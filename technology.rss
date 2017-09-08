@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 22:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 23:01:19 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 22:00:33 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 23:01:19 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -24,16 +24,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <item>
-      <guid>http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_equifax_breach_exposes_personal_data_of_143_million_people.mp3?orgId=1&amp;topicId=1006&amp;d=184&amp;p=2&amp;story=549549935&amp;t=progseg&amp;e=549386870&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Equifax Breach Exposes Personal Data Of 143 Million People</title>
       <link>http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</link>
       <description>September 8, 2017 - Equifax says it suffered a massive data breach involving as many as 143 million people in the U.S. Social Security numbers, birth dates, addresses and drivers licenses were apparently exposed, thus making this one of the worst hacks ever reported.</description>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_equifax_breach_exposes_personal_data_of_143_million_people.mp3?orgId=1&amp;topicId=1006&amp;d=184&amp;p=2&amp;story=549549935&amp;t=progseg&amp;e=549386870&amp;seg=12&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[September 8, 2017 - Equifax says it suffered a massive data breach involving as many as 143 million people in the U.S. Social Security numbers, birth dates, addresses and drivers licenses were apparently exposed, thus making this one of the worst hacks ever reported.
 
 <a href="http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people">http://www.npr.org/2017/09/08/549549935/equifax-breach-exposes-personal-data-of-143-million-people</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>184</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
