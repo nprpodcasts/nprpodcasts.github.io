@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 13:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 17:00:25 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 13:17:51 +0000</pubDate>
+    <pubDate>Fri, 08 Sep 2017 17:00:25 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/08/549414152/why-do-people-stop-taking-their-meds-cost-is-just-one-reason</guid>
+      <title>Why Do People Stop Taking Their Meds? Cost Is Just One Reason</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/08/549414152/why-do-people-stop-taking-their-meds-cost-is-just-one-reason</link>
+      <description>September 8, 2017 - The latest NPR-Truven Health Analytics poll finds that one-third of people say they&#39;re stopped taking a prescription drug without telling their doctor. And that could be putting their health at risk.</description>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-566444977_wide-94fdea7368ade4eadee51060c213c6bf439b08cc-s800-c15.jpg"></a>
+
+September 8, 2017 - The latest NPR-Truven Health Analytics poll finds that one-third of people say they're stopped taking a prescription drug without telling their doctor. And that could be putting their health at risk.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/08/549414152/why-do-people-stop-taking-their-meds-cost-is-just-one-reason">http://www.npr.org/sections/health-shots/2017/09/08/549414152/why-do-people-stop-taking-their-meds-cost-is-just-one-reason</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-566444977_wide-94fdea7368ade4eadee51060c213c6bf439b08cc-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170908_me_opioids_and_workers_part_2.mp3?orgId=1&amp;topicId=1128&amp;d=321&amp;p=3&amp;story=548867893&amp;t=progseg&amp;e=549373716&amp;seg=18&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Powerful Pull Of Opioids Leaves Many &#39;Missing&#39; From U.S. Workforce</title>
@@ -183,14 +198,14 @@ September 6, 2017 - Questionnaires of the sort used by dating apps don't come cl
     </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</guid>
-      <title>The Counselor Who Has Walked Many Miles In A Refugee&#39;s Shoes</title>
+      <title>&#39;I Needed Someone To See Me&#39;: One Refugee&#39;s Story Of Recovery</title>
       <link>http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</link>
-      <description>September 6, 2017 - His name is Ahmad Chahabi, he fled Syria for Berlin and now he&#39;s building a new life by helping other refugees.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</description>
+      <description>September 6, 2017 - For Ahmad Chahabi, reaching the safety of Germany was only the first step. Today he&#39;s drawing from his own experience to help the newly arrived.</description>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-baa65b5112e1d746dba31c67bdecf3db0404ef80-s800-c15.jpg"></a>
 
-September 6, 2017 - His name is Ahmad Chahabi, he fled Syria for Berlin and now he's building a new life by helping other refugees.
+September 6, 2017 - For Ahmad Chahabi, reaching the safety of Germany was only the first step. Today he's drawing from his own experience to help the newly arrived.
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes">http://www.npr.org/sections/goatsandsoda/2017/09/06/548624782/the-counselor-whos-walked-many-miles-in-a-refugees-shoes</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/khei_ipso-berlin_27-60_wide-baa65b5112e1d746dba31c67bdecf3db0404ef80-s3000-c15.jpg"></itunes:image>
@@ -241,21 +256,6 @@ September 5, 2017 - A small project started in 2014 to replace dirt floors, whic
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors">http://www.npr.org/sections/goatsandsoda/2017/09/05/547407906/whatever-happened-to-the-mission-to-get-rid-of-rwanda-s-dirt-floors</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/0e5a5885-60_wide-bb8dd69a8939b69de8fe6a92d73d130816993bb9-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</guid>
-      <title>In A Case That Is &#39;Almost Impossible,&#39; Girl Dies Of Malaria In Italy</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</link>
-      <description>September 5, 2017 - &#34;It&#39;s a mystery,&#34; said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s800-c15.jpg"></a>
-
-September 5, 2017 - "It's a mystery," said one health official. Italy was declared malaria-free in 1970. Officials will try to determine how and where the 4-year-old was infected.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy">http://www.npr.org/sections/thetwo-way/2017/09/05/548624097/in-a-case-that-is-almost-impossible-girl-dies-of-malaria-in-italy</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-680806701_wide-442d55f61ce2b8ce410b042c1c2d77a544c94a72-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
