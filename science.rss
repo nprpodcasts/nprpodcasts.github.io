@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2017 12:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2017 21:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 09 Sep 2017 12:00:21 +0000</pubDate>
+    <pubDate>Sat, 09 Sep 2017 21:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170909_wesat_irma-jose_climate_2-way.mp3?orgId=1&amp;topicId=1025&amp;d=236&amp;p=7&amp;story=549690224&amp;t=progseg&amp;e=549690004&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How Climate Change Exacerbates Hurricanes</title>
+      <link>http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</link>
+      <description>September 9, 2017 - As Irma approaches the U.S. and Jose spins in the Atlantic, many are wondering what hurricanes&#39; connection to climate change might be.&#xA;&#xA; - http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</description>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170909_wesat_irma-jose_climate_2-way.mp3?orgId=1&amp;topicId=1025&amp;d=236&amp;p=7&amp;story=549690224&amp;t=progseg&amp;e=549690004&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 9, 2017 - As Irma approaches the U.S. and Jose spins in the Atlantic, many are wondering what hurricanes' connection to climate change might be.
+
+<a href="http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes">http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>236</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</guid>
       <title>For Teens Knee-Deep In Negativity, Reframing Thoughts Can Help</title>
@@ -235,21 +250,6 @@ September 7, 2017 - Several species of parrots in Southeastern Peru regularly ga
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay">http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-522092748-2_wide-de7958c65f734cfb3d3e2c276d37cc2f7a4e3ff7-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</guid>
-      <title>Here&#39;s What You Need To Know About Hurricane Irma</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</link>
-      <description>September 6, 2017 - As the powerful storm approaches the U.S., here are some of the basics about the dangers it poses.&#xA;&#xA; - http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/2092v1_20170905-hurirma-copy_wide-571b22c733abbc8f21d732617c5d360bf85de95e-s800-c15.jpg"></a>
-
-September 6, 2017 - As the powerful storm approaches the U.S., here are some of the basics about the dangers it poses.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma">http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/2092v1_20170905-hurirma-copy_wide-571b22c733abbc8f21d732617c5d360bf85de95e-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
