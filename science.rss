@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 22:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2017 12:00:21 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 22:00:29 +0000</pubDate>
+    <pubDate>Sat, 09 Sep 2017 12:00:21 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</guid>
+      <title>For Teens Knee-Deep In Negativity, Reframing Thoughts Can Help</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</link>
+      <description>September 9, 2017 - Irritation and gloom may seem like the default mode for teenagers, but parents can help them gain a more realistic and resilient way of thinking. A clinical psychologist explains how.</description>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/08/jenn-liv-illustration-npr-depression-web1_wide-bf89b56015e1b21ee23688a8270497b43ac5c252-s800-c15.jpg"></a>
+
+September 9, 2017 - Irritation and gloom may seem like the default mode for teenagers, but parents can help them gain a more realistic and resilient way of thinking. A clinical psychologist explains how.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help">http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/jenn-liv-illustration-npr-depression-web1_wide-bf89b56015e1b21ee23688a8270497b43ac5c252-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_florida_suffers_growing_gasoline_shortage_as_residents_prepare_for_irma.mp3?orgId=1&amp;topicId=1006&amp;d=180&amp;p=2&amp;story=549549893&amp;siteplayer=true&amp;dl=1</guid>
       <title>Florida Suffers Growing Gasoline Shortage As Residents Prepare For Irma</title>
@@ -235,21 +250,6 @@ September 6, 2017 - As the powerful storm approaches the U.S., here are some of 
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma">http://www.npr.org/sections/thetwo-way/2017/09/06/548891942/here-s-what-you-need-to-know-about-hurricane-irma</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/2092v1_20170905-hurirma-copy_wide-571b22c733abbc8f21d732617c5d360bf85de95e-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</guid>
-      <title>Climate, Power, Money And Sorrow: Lessons Of Hurricane Harvey</title>
-      <link>http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</link>
-      <description>September 6, 2017 - Through the power of Katrina, Sandy and, now, Harvey, we get a view into how a changing climate may play out in the real world — beyond arguments and abstractions, says astrophysicist Adam Frank.</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/ap_17248769014085_wide-4b61fc9c0ce5911d832f871fae969ff90e56ea44-s800-c15.jpg"></a>
-
-September 6, 2017 - Through the power of Katrina, Sandy and, now, Harvey, we get a view into how a changing climate may play out in the real world — beyond arguments and abstractions, says astrophysicist Adam Frank.
-
-<a href="http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey">http://www.npr.org/sections/13.7/2017/09/06/548658019/climate-power-money-and-sorrow-lessons-of-hurricane-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/ap_17248769014085_wide-4b61fc9c0ce5911d832f871fae969ff90e56ea44-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
