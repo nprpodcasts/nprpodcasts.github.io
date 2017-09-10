@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2017 21:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 12:03:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 09 Sep 2017 21:00:20 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 12:03:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
+      <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</link>
+      <description>September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That&#39;s not what happened, as Maryn McKenna recounts in her new book.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s800-c15.jpg"></a>
+
+September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That's not what happened, as Maryn McKenna recounts in her new book.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</guid>
+      <title>Drug For &#39;Neglected&#39; Chagas Disease Gains FDA Approval Amid Price Worries</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</link>
+      <description>September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that&#39;s widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s800-c15.jpg"></a>
+
+September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that's widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries">http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170909_wesat_irma-jose_climate_2-way.mp3?orgId=1&amp;topicId=1025&amp;d=236&amp;p=7&amp;story=549690224&amp;t=progseg&amp;e=549690004&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
       <title>How Climate Change Exacerbates Hurricanes</title>
@@ -220,36 +250,6 @@ September 7, 2017 - Michael Jacobson invented a new style of food activism. For 
 <a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
       <itunes:duration>280</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</guid>
-      <title>Here&#39;s How Big North Korea&#39;s Latest Nuclear Test Actually Was</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</link>
-      <description>September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North&#39;s claim that it tested a hydrogen bomb.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s800-c15.png"></a>
-
-September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North's claim that it tested a hydrogen bomb.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was">http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</guid>
-      <title>Why Do Parrots (And People) Eat Clay? </title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</link>
-      <description>September 7, 2017 - Several species of parrots in Southeastern Peru regularly gather at a cliff face in the Amazon basin to eat clay. So do other animals, including humans.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/01/gettyimages-522092748-2_wide-de7958c65f734cfb3d3e2c276d37cc2f7a4e3ff7-s800-c15.jpg"></a>
-
-September 7, 2017 - Several species of parrots in Southeastern Peru regularly gather at a cliff face in the Amazon basin to eat clay. So do other animals, including humans.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay">http://www.npr.org/sections/thesalt/2017/09/07/547981850/why-do-parrots-and-people-eat-clay</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/01/gettyimages-522092748-2_wide-de7958c65f734cfb3d3e2c276d37cc2f7a4e3ff7-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

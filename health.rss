@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2017 12:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 12:03:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sat, 09 Sep 2017 12:00:22 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 12:03:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
+      <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
+      <link>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</link>
+      <description>September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That&#39;s not what happened, as Maryn McKenna recounts in her new book.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s800-c15.jpg"></a>
+
+September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That's not what happened, as Maryn McKenna recounts in her new book.
+
+<a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</guid>
+      <title>Drug For &#39;Neglected&#39; Chagas Disease Gains FDA Approval Amid Price Worries</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</link>
+      <description>September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that&#39;s widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s800-c15.jpg"></a>
+
+September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that's widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries">http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</guid>
       <title>Mother Of 9 Goes Door-To-Door As Part Of Yemen&#39;s Anti-Cholera Brigade</title>
@@ -224,38 +254,6 @@ September 7, 2017 - She loves him. He loves her. But she loves indoor toilets ev
 <a href="http://the1a.org/shows/2017-09-07/fashion-gets-real">http://the1a.org/shows/2017-09-07/fashion-gets-real</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>2880</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170907_me_opioid_crisis_looms_over_job_market_worrying_employers_and_economists.mp3?orgId=1&amp;topicId=1017&amp;d=334&amp;p=3&amp;story=545602212&amp;t=progseg&amp;e=549097919&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Opioid Crisis Looms Over Job Market, Worrying Employers And Economists</title>
-      <link>http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists</link>
-      <description>September 7, 2017 - Companies across the U.S. say it&#39;s getting harder to find applicants and keep workers once they&#39;ve been hired. Economists from the Federal Reserve to Wall Street say opioid addiction may be a factor.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170907_me_opioid_crisis_looms_over_job_market_worrying_employers_and_economists.mp3?orgId=1&amp;topicId=1017&amp;d=334&amp;p=3&amp;story=545602212&amp;t=progseg&amp;e=549097919&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/24/img_0325_wide-96a57333e0981005ac3bbccb67c1ec9ce7026e9a-s800-c15.jpg"></a>
-
-September 7, 2017 - Companies across the U.S. say it's getting harder to find applicants and keep workers once they've been hired. Economists from the Federal Reserve to Wall Street say opioid addiction may be a factor.
-
-<a href="http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists">http://www.npr.org/2017/09/07/545602212/opioid-crisis-looms-over-job-market-worrying-employers-and-economists</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/24/img_0325_wide-96a57333e0981005ac3bbccb67c1ec9ce7026e9a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>334</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/06/548951827/congress-weighs-future-of-children-s-health-insurance</guid>
-      <title>Will Congress Continue Health Care For 9 Million Children?</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/06/548951827/congress-weighs-future-of-children-s-health-insurance</link>
-      <description>September 6, 2017 - The popular Children&#39;s Health Insurance Program is up for renewal Sept. 30. Policy analysts say it&#39;s unclear whether a deeply divided Congress facing major deadlines will get the job done.</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/06/gettyimages-524759355-2_wide-6186fe3beece936b02003e54dbcdac77fd07ab45-s800-c15.jpg"></a>
-
-September 6, 2017 - The popular Children's Health Insurance Program is up for renewal Sept. 30. Policy analysts say it's unclear whether a deeply divided Congress facing major deadlines will get the job done.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/06/548951827/congress-weighs-future-of-children-s-health-insurance">http://www.npr.org/sections/health-shots/2017/09/06/548951827/congress-weighs-future-of-children-s-health-insurance</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/gettyimages-524759355-2_wide-6186fe3beece936b02003e54dbcdac77fd07ab45-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
