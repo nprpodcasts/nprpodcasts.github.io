@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 12:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 13:00:20 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 10 Sep 2017 12:03:20 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 13:00:20 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</guid>
+      <title>Update From The National Hurricane Center</title>
+      <link>http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</link>
+      <description>September 10, 2017 - We have an update from the National Hurricane Center in Miami as Hurricane Irma passes over the Florida Keys. &#xA;&#xA; - http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 10, 2017 - We have an update from the National Hurricane Center in Miami as Hurricane Irma passes over the Florida Keys. 
+
+<a href="http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update">http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
       <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
@@ -233,23 +246,6 @@ September 7, 2017 - When it might be time to move, African wild dogs take a poll
 <a href="http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding">http://www.npr.org/2017/09/07/549250028/nashville-begins-tearing-down-some-homes-to-prevent-future-flooding</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>218</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
-      <title>A Pioneer Of Food Activism Steps Down, Looks Back</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</link>
-      <description>September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against &#34;junk food.&#34; He&#39;s now stepping down as president of the Center for Science in the Public Interest.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_a_pioneer_of_food_activism_steps_down_looks_back.mp3?orgId=1&amp;topicId=1053&amp;d=280&amp;p=2&amp;story=548715416&amp;t=progseg&amp;e=549123942&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s800-c15.jpg"></a>
-
-September 7, 2017 - Michael Jacobson invented a new style of food activism. For four decades, he led the fight against "junk food." He's now stepping down as president of the Center for Science in the Public Interest.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>280</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

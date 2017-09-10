@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 13:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 10 Sep 2017 12:03:22 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 13:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</guid>
+      <title>The Call-In: Conflicting Diet Advice</title>
+      <link>http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</link>
+      <description>September 10, 2017 - We take listener questions about proper diet. There&#39;s been a lot of conflicting advice about what to eat. &#xA;&#xA; - http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 10, 2017 - We take listener questions about proper diet. There's been a lot of conflicting advice about what to eat. 
+
+<a href="http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice">http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
       <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
@@ -239,21 +252,6 @@ September 7, 2017 - She loves him. He loves her. But she loves indoor toilets ev
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love">http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-b89f9150dd29c4d15fd68c47e0ba62956e2eae9f-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/09/a2170907.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Fashion Gets Real</title>
-      <link>http://the1a.org/shows/2017-09-07/fashion-gets-real</link>
-      <description>September 7, 2017 - Is a step away from size 0 models PR, or real reform?&#xA;&#xA; - http://the1a.org/shows/2017-09-07/fashion-gets-real</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/09/a2170907.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 7, 2017 - Is a step away from size 0 models PR, or real reform?
-
-<a href="http://the1a.org/shows/2017-09-07/fashion-gets-real">http://the1a.org/shows/2017-09-07/fashion-gets-real</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
