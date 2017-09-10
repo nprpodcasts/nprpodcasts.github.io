@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 23:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 17:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Fri, 08 Sep 2017 23:01:19 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 17:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/10/549922317/telecom-companies-turn-to-drones-for-help-after-hurricanes</guid>
+      <title>Telecom Companies Turn To Drones For Help After Hurricanes</title>
+      <link>http://www.npr.org/2017/09/10/549922317/telecom-companies-turn-to-drones-for-help-after-hurricanes</link>
+      <description>September 10, 2017 - Cellphone service outages can leave people unable to reach out for help or get in touch with family and friends to say they are alive, but drones can help assess damage and get things running again.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/10/gettyimages-844155110_wide-e7cd87f2be8d69e31f2671015d89018e58fb72ed-s800-c15.jpg"></a>
+
+September 10, 2017 - Cellphone service outages can leave people unable to reach out for help or get in touch with family and friends to say they are alive, but drones can help assess damage and get things running again.
+
+<a href="http://www.npr.org/2017/09/10/549922317/telecom-companies-turn-to-drones-for-help-after-hurricanes">http://www.npr.org/2017/09/10/549922317/telecom-companies-turn-to-drones-for-help-after-hurricanes</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/10/gettyimages-844155110_wide-e7cd87f2be8d69e31f2671015d89018e58fb72ed-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170908_atc_equifax_breach_exposes_personal_data_of_143_million_people.mp3?orgId=1&amp;topicId=1006&amp;d=184&amp;p=2&amp;story=549549935&amp;t=progseg&amp;e=549386870&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>Equifax Breach Exposes Personal Data Of 143 Million People</title>
@@ -233,21 +248,6 @@ September 5, 2017 - As dozens of CEOs called on the president to preserve DACA, 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548686695/250-apple-employees-among-thousands-at-risk-from-daca-cancellation">http://www.npr.org/sections/thetwo-way/2017/09/05/548686695/250-apple-employees-among-thousands-at-risk-from-daca-cancellation</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-499611448-1-_wide-8907179898629ffb372db9f3069d2b0207f0a55a-s3000-c15.jpg"></itunes:image>
       <itunes:duration>160</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://downloads.wamu.org/mp3/1a/17/09/a2170905.mp3?siteplayer=true&amp;dl=1</guid>
-      <title>Zoë Quinn On #Gamergate</title>
-      <link>http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate</link>
-      <description>September 5, 2017 - The Internet can be a terrible place.&#xA;&#xA; - http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://downloads.wamu.org/mp3/1a/17/09/a2170905.mp3?siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 5, 2017 - The Internet can be a terrible place.
-
-<a href="http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate">http://the1a.org/shows/2017-09-05/zoe-quinn-on-gamergate</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>2880</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
