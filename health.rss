@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 15:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 22:00:22 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 10 Sep 2017 15:00:19 +0000</pubDate>
+    <pubDate>Sun, 10 Sep 2017 22:00:22 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues</guid>
+      <title>Nurses, Hospitals Prepared For Hurricane Irma To Ensure Patient Care Continues</title>
+      <link>http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues</link>
+      <description>September 10, 2017 - Taylor Roberts is a pediatric nurse who is waiting for Hurricane Irma to pass so she can go back to work at Golisano Children&#39;s Hospital in Fort Myers, Fla.</description>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 10, 2017 - Taylor Roberts is a pediatric nurse who is waiting for Hurricane Irma to pass so she can go back to work at Golisano Children's Hospital in Fort Myers, Fla.
+
+<a href="http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues">http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170910_wesun_the_call_in.mp3?orgId=1&amp;topicId=1053&amp;d=435&amp;p=10&amp;story=549865765&amp;t=progseg&amp;e=549865711&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
       <title>The Call-In: Conflicting Diet Advice</title>
@@ -45,12 +58,12 @@
       <description>September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That&#39;s not what happened, as Maryn McKenna recounts in her new book.</description>
       <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s800-c15.jpg"></a>
 
 September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That's not what happened, as Maryn McKenna recounts in her new book.
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-243bb990ab2e28217c90d63b4474bdb41f84f761-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -239,21 +252,6 @@ September 7, 2017 - Michael Jacobson invented a new style of food activism. For 
 <a href="http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back">http://www.npr.org/sections/thesalt/2017/09/07/548715416/a-pioneer-of-food-activism-steps-down-looks-back</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/06/mikesodium_wide-91147ef7997a114d136f987fe3ef1ecde9019c99-s3000-c15.jpg"></itunes:image>
       <itunes:duration>280</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</guid>
-      <title>A Toilet Is The Star Of India&#39;s Hit Rom-Com</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</link>
-      <description>September 7, 2017 - She loves him. He loves her. But she loves indoor toilets even more. And he is not a fan. Can they find happiness? The plot of Toilet: A Love Story addresses a very real issue in rural India.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-b89f9150dd29c4d15fd68c47e0ba62956e2eae9f-s800-c15.jpg"></a>
-
-September 7, 2017 - She loves him. He loves her. But she loves indoor toilets even more. And he is not a fan. Can they find happiness? The plot of Toilet: A Love Story addresses a very real issue in rural India.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love">http://www.npr.org/sections/goatsandsoda/2017/09/07/547607355/-no-toilet-no-love</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/screenshot-2017-09-07-10.25.04-61_wide-b89f9150dd29c4d15fd68c47e0ba62956e2eae9f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
