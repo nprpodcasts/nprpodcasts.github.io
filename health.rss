@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 16:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 17:00:41 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 16:00:11 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 17:00:41 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,21 +24,6 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</guid>
-      <title>Tom Frieden&#39;s New Venture Fights Two Very Different Health Threats</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</link>
-      <description>September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which aims to prevent stroke and cardiovascular disease as well as epidemics.</description>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-b988330ad7c863b7b283860d404ddc568ef36b92-s800-c15.jpg"></a>
-
-September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which aims to prevent stroke and cardiovascular disease as well as epidemics.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture">http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-b988330ad7c863b7b283860d404ddc568ef36b92-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</guid>
       <title>For Many Women, Cervical Cancer Screening May Get A Lot Simpler</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</link>
@@ -51,6 +36,21 @@ September 12, 2017 - For decades the Pap test was the only option for cervical c
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler">http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-530608538_wide-d8bd273e3aeffd1e258667e4c06e12616b5a1439-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</guid>
+      <title>Tom Frieden&#39;s New Venture Combines 2 Disparate Health Threats</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</link>
+      <description>September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which will aim to prevent stroke and cardiovascular disease as well as epidemics.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-72c8bd1fbdd1bae482118fd375cdb4a5d780c856-s800-c15.jpg"></a>
+
+September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which will aim to prevent stroke and cardiovascular disease as well as epidemics.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture">http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-72c8bd1fbdd1bae482118fd375cdb4a5d780c856-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
