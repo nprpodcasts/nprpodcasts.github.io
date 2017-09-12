@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 17:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 20:00:17 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 17:00:41 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 20:00:17 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
+      <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</link>
+      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s800-c15.jpg"></a>
+
+September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people">http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/12/550387650/the-u-s-thought-it-was-rid-of-hookworm-wrong</guid>
+      <title>The U.S. Thought It Was Rid Of Hookworm. Wrong</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/12/550387650/the-u-s-thought-it-was-rid-of-hookworm-wrong</link>
+      <description>September 12, 2017 - The American medical establishment was confident: no hookworm disease in the country for decades. A new study uncovered cases in Alabama.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-96818593-501_wide-bb5b2b2399c647c21f8219d878217352d9ca86ea-s800-c15.jpg"></a>
+
+September 12, 2017 - The American medical establishment was confident: no hookworm disease in the country for decades. A new study uncovered cases in Alabama.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/12/550387650/the-u-s-thought-it-was-rid-of-hookworm-wrong">http://www.npr.org/sections/goatsandsoda/2017/09/12/550387650/the-u-s-thought-it-was-rid-of-hookworm-wrong</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-96818593-501_wide-bb5b2b2399c647c21f8219d878217352d9ca86ea-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</guid>
       <title>For Many Women, Cervical Cancer Screening May Get A Lot Simpler</title>
@@ -224,36 +254,6 @@ September 10, 2017 - In the 1950s, the poultry industry began dunking birds in a
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</guid>
-      <title>Drug For &#39;Neglected&#39; Chagas Disease Gains FDA Approval Amid Price Worries</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</link>
-      <description>September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that&#39;s widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s800-c15.jpg"></a>
-
-September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that's widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries">http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</guid>
-      <title>Mother Of 9 Goes Door-To-Door As Part Of Yemen&#39;s Anti-Cholera Brigade</title>
-      <link>http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</link>
-      <description>September 9, 2017 - Volunteers are the unsung heroes in slowing the spread of the disease in the world&#39;s worst cholera epidemic.&#xA;&#xA; - http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</description>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/2-62_wide-f9f2c45123bef43e3755140cace22fc290320ae3-s800-c15.jpg"></a>
-
-September 9, 2017 - Volunteers are the unsung heroes in slowing the spread of the disease in the world's worst cholera epidemic.
-
-<a href="http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope">http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/2-62_wide-f9f2c45123bef43e3755140cace22fc290320ae3-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

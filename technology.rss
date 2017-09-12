@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 14:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 20:00:14 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 14:00:07 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 20:00:14 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550445863/tesla-remotely-expanded-car-batteries-near-irmas-path-and-questions-linger</guid>
+      <title>Tesla Remotely Expanded Car Batteries Near Irma&#39;s Path, And Questions Linger</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/12/550445863/tesla-remotely-expanded-car-batteries-near-irmas-path-and-questions-linger</link>
+      <description>September 12, 2017 - It&#39;s not the first time Tesla has made over-the-air changes to its cars. The boost gave customers&#39; cars an extra 30 to 40 miles — but the batteries will lose their extra juice this weekend.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/12/ap_17187519848777_wide-01cd57788bac64a2803d9d3adffaf979e187a421-s800-c15.jpg"></a>
+
+September 12, 2017 - It's not the first time Tesla has made over-the-air changes to its cars. The boost gave customers' cars an extra 30 to 40 miles — but the batteries will lose their extra juice this weekend.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/12/550445863/tesla-remotely-expanded-car-batteries-near-irmas-path-and-questions-linger">http://www.npr.org/sections/thetwo-way/2017/09/12/550445863/tesla-remotely-expanded-car-batteries-near-irmas-path-and-questions-linger</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/ap_17187519848777_wide-01cd57788bac64a2803d9d3adffaf979e187a421-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170912_me_morning_news_brief.mp3?orgId=1&amp;topicId=1091&amp;d=619&amp;p=3&amp;story=550352883&amp;t=progseg&amp;e=550346297&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
       <title>News Brief: Irma Weakens, Clinton Memoir And New iPhone</title>
@@ -235,21 +250,6 @@ September 7, 2017 - Seismic and satellite data reveal the test was a whopper, fu
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was">http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s3000-c15.png"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170906_atc_how_tech_giants_use_their_power_to_advance_corporate_interests.mp3?orgId=1&amp;topicId=1019&amp;d=241&amp;p=2&amp;story=548985335&amp;t=progseg&amp;e=548824957&amp;seg=20&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Tech Giants Use Their Power To Advance Corporate Interests</title>
-      <link>http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests</link>
-      <description>September 6, 2017 - Big tech companies influence more of our lives than ever before. And there are growing concerns that they&#39;re using that power to advance their own corporate interests. NPR&#39;s Ari Shapiro talks with Gizmodo journalist Kashmir Hill about her own experience with the tech giant, Google.</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170906_atc_how_tech_giants_use_their_power_to_advance_corporate_interests.mp3?orgId=1&amp;topicId=1019&amp;d=241&amp;p=2&amp;story=548985335&amp;t=progseg&amp;e=548824957&amp;seg=20&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 6, 2017 - Big tech companies influence more of our lives than ever before. And there are growing concerns that they're using that power to advance their own corporate interests. NPR's Ari Shapiro talks with Gizmodo journalist Kashmir Hill about her own experience with the tech giant, Google.
-
-<a href="http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests">http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>241</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

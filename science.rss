@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 14:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 20:00:15 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 14:00:05 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 20:00:15 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
+      <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</link>
+      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s800-c15.jpg"></a>
+
+September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people">http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550188154/hurricane-irma-blasts-into-the-record-books-with-lasting-intensity</guid>
       <title>Hurricane Irma Blasts Into The Record Books With Lasting Intensity</title>
@@ -235,21 +250,6 @@ September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA a
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries">http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170909_wesat_irma-jose_climate_2-way.mp3?orgId=1&amp;topicId=1025&amp;d=236&amp;p=7&amp;story=549690224&amp;t=progseg&amp;e=549690004&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>How Climate Change Exacerbates Hurricanes</title>
-      <link>http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</link>
-      <description>September 9, 2017 - As Irma approaches the U.S. and Jose spins in the Atlantic, many are wondering what hurricanes&#39; connection to climate change might be.&#xA;&#xA; - http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</description>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2017/09/20170909_wesat_irma-jose_climate_2-way.mp3?orgId=1&amp;topicId=1025&amp;d=236&amp;p=7&amp;story=549690224&amp;t=progseg&amp;e=549690004&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 9, 2017 - As Irma approaches the U.S. and Jose spins in the Atlantic, many are wondering what hurricanes' connection to climate change might be.
-
-<a href="http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes">http://www.npr.org/2017/09/09/549690224/how-climate-change-exacerbates-hurricanes</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>236</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
