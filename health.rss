@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 20:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 22:00:32 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 20:00:17 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 22:00:32 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/12/550492811/u-s-census-bureau-records-improvements-in-income-poverty-and-health-coverage</guid>
+      <title>U.S. Census Bureau Records Improvements In Income, Poverty And Health Coverage</title>
+      <link>http://www.npr.org/2017/09/12/550492811/u-s-census-bureau-records-improvements-in-income-poverty-and-health-coverage</link>
+      <description>September 12, 2017 - The U.S. Census Bureau released a trio of reports Tuesday on income, poverty and health insurance coverage. All three measures showed improvement. Real  median household income increased by 3.2 percent in 2016 over the previous year, and now stands at just over $59,000. The official poverty rate fell for the second year in a row to 12.7 percent.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 12, 2017 - The U.S. Census Bureau released a trio of reports Tuesday on income, poverty and health insurance coverage. All three measures showed improvement. Real  median household income increased by 3.2 percent in 2016 over the previous year, and now stands at just over $59,000. The official poverty rate fell for the second year in a row to 12.7 percent.
+
+<a href="http://www.npr.org/2017/09/12/550492811/u-s-census-bureau-records-improvements-in-income-poverty-and-health-coverage">http://www.npr.org/2017/09/12/550492811/u-s-census-bureau-records-improvements-in-income-poverty-and-health-coverage</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
       <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
@@ -239,21 +252,6 @@ September 11, 2017 - For the first time, scientists have carefully analyzed all 
 <a href="http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice">http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>435</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
-      <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</link>
-      <description>September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That&#39;s not what happened, as Maryn McKenna recounts in her new book.</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s800-c15.jpg"></a>
-
-September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That's not what happened, as Maryn McKenna recounts in her new book.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

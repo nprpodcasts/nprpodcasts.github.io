@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 20:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 22:00:30 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 20:00:15 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 22:00:30 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed</guid>
+      <title>With Power Out, Many Florida Gas Stations Remain Closed</title>
+      <link>http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed</link>
+      <description>September 12, 2017 - A lot of people evacuated Florida in anticipation of Hurricane Irma. Now they desperately want to come home, but the lack of fuel is making that tough.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-844320992_wide-d4c56e03b8b35c703fefe8aee077a97c8c85b5d7-s800-c15.jpg"></a>
+
+September 12, 2017 - A lot of people evacuated Florida in anticipation of Hurricane Irma. Now they desperately want to come home, but the lack of fuel is making that tough.
+
+<a href="http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed">http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-844320992_wide-d4c56e03b8b35c703fefe8aee077a97c8c85b5d7-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
       <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
@@ -129,11 +144,12 @@ September 11, 2017 - Industry says it costs about $2.7 billion to bring a cancer
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/08/549448180/cassini-spacecraft-prepares-for-a-fiery-farewell-in-saturns-atmosphere</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_cassini_spacecraft_prepares_for_a_fiery_farewell_in_saturns_atmosphere.mp3?orgId=1&amp;topicId=1026&amp;d=242&amp;p=2&amp;story=549448180&amp;t=progseg&amp;e=550358848&amp;seg=5&amp;siteplayer=true&amp;dl=1</guid>
       <title>Cassini Spacecraft Prepares For A Fiery Farewell In Saturn&#39;s Atmosphere</title>
       <link>http://www.npr.org/sections/thetwo-way/2017/09/08/549448180/cassini-spacecraft-prepares-for-a-fiery-farewell-in-saturns-atmosphere</link>
       <description>September 11, 2017 - NASA&#39;s probe has spent the past 13 years orbiting Saturn, making a number of important discoveries along the way. On Friday, it will hurl itself into the planet&#39;s atmosphere and disintegrate.</description>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_cassini_spacecraft_prepares_for_a_fiery_farewell_in_saturns_atmosphere.mp3?orgId=1&amp;topicId=1026&amp;d=242&amp;p=2&amp;story=549448180&amp;t=progseg&amp;e=550358848&amp;seg=5&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/11/pia14934_wide-6f67b58fe67089fc8121e50585c40d6178b359b4-s800-c15.jpg"></a>
 
@@ -141,6 +157,7 @@ September 11, 2017 - NASA's probe has spent the past 13 years orbiting Saturn, m
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/08/549448180/cassini-spacecraft-prepares-for-a-fiery-farewell-in-saturns-atmosphere">http://www.npr.org/sections/thetwo-way/2017/09/08/549448180/cassini-spacecraft-prepares-for-a-fiery-farewell-in-saturns-atmosphere</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/11/pia14934_wide-6f67b58fe67089fc8121e50585c40d6178b359b4-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>242</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,21 +252,6 @@ September 10, 2017 - In the 1950s, the poultry industry began dunking birds in a
 
 <a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</guid>
-      <title>Drug For &#39;Neglected&#39; Chagas Disease Gains FDA Approval Amid Price Worries</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</link>
-      <description>September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that&#39;s widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s800-c15.jpg"></a>
-
-September 10, 2017 - U.S. doctors treating Chagas disease have long wanted FDA approval for a treatment that's widely used in Latin America. But when Martin Shkreli took interest, those doctors panicked — then mobilized.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries">http://www.npr.org/sections/health-shots/2017/09/10/547351794/drug-for-neglected-chagas-disease-gains-fda-approval-amid-price-worries</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/30/scisource_7u0725_wide-adb56b80f1f82ac529f11b049451a0863fdbc348-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

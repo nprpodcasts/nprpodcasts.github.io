@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 20:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 22:00:33 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 20:00:14 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 22:00:33 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,34 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550428192/apple-unveils-three-new-iphones-but-the-watch-sends-shares-up</guid>
+      <title>Apple Unveils Three New iPhones, But The Watch Sends Shares Up</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/12/550428192/apple-unveils-three-new-iphones-but-the-watch-sends-shares-up</link>
+      <description>September 12, 2017 - Apple is freeing the Watch from the iPhone, giving it a direct cellphone connection. The special-release iPhone X ditches the home button, gets facial recognition and wireless charging.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-846114786_wide-d578286b98fe782e3f5c66ec6a7d5165bedf8f53-s800-c15.jpg"></a>
+
+September 12, 2017 - Apple is freeing the Watch from the iPhone, giving it a direct cellphone connection. The special-release iPhone X ditches the home button, gets facial recognition and wireless charging.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/12/550428192/apple-unveils-three-new-iphones-but-the-watch-sends-shares-up">http://www.npr.org/sections/thetwo-way/2017/09/12/550428192/apple-unveils-three-new-iphones-but-the-watch-sends-shares-up</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-846114786_wide-d578286b98fe782e3f5c66ec6a7d5165bedf8f53-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/2017/09/12/550492818/apple-unveils-highly-anticipated-iphone-10-to-mark-devices-anniversary</guid>
+      <title>Apple Unveils Highly Anticipated iPhone 10 To Mark Device&#39;s Anniversary</title>
+      <link>http://www.npr.org/2017/09/12/550492818/apple-unveils-highly-anticipated-iphone-10-to-mark-devices-anniversary</link>
+      <description>September 12, 2017 - Apple staged a big event Tuesday to unveil new products. The iPhone 10 debuts on the 10th anniversary of the iPhone and costs $1,000.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 12, 2017 - Apple staged a big event Tuesday to unveil new products. The iPhone 10 debuts on the 10th anniversary of the iPhone and costs $1,000.
+
+<a href="http://www.npr.org/2017/09/12/550492818/apple-unveils-highly-anticipated-iphone-10-to-mark-devices-anniversary">http://www.npr.org/2017/09/12/550492818/apple-unveils-highly-anticipated-iphone-10-to-mark-devices-anniversary</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550445863/tesla-remotely-expanded-car-batteries-near-irmas-path-and-questions-linger</guid>
       <title>Tesla Remotely Expanded Car Batteries Near Irma&#39;s Path, And Questions Linger</title>
@@ -218,38 +246,6 @@ September 7, 2017 - The announcement set off a hot municipal contest — and one
 <a href="http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs">http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>204</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_silicon_valley_wants_to_dust_off_the_democratic_establishment.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=546700281&amp;t=progseg&amp;e=549123942&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Silicon Valley Wants To Dust Off The Democratic Establishment</title>
-      <link>http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment</link>
-      <description>September 7, 2017 - During the Obama years, Democrats got comfortable and Republicans gained a digital advantage. Now, the liberals of Silicon Valley want to change that.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_silicon_valley_wants_to_dust_off_the_democratic_establishment.mp3?orgId=1&amp;topicId=1019&amp;d=227&amp;p=2&amp;story=546700281&amp;t=progseg&amp;e=549123942&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/08/29/jessica-alter_wide-d57073a0fbc795bbfa1f8b7b3231008344e0ca7b-s800-c15.jpg"></a>
-
-September 7, 2017 - During the Obama years, Democrats got comfortable and Republicans gained a digital advantage. Now, the liberals of Silicon Valley want to change that.
-
-<a href="http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment">http://www.npr.org/sections/alltechconsidered/2017/09/07/546700281/silicon-valley-wants-to-dust-off-the-democratic-establishment</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/08/29/jessica-alter_wide-d57073a0fbc795bbfa1f8b7b3231008344e0ca7b-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>227</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</guid>
-      <title>Here&#39;s How Big North Korea&#39;s Latest Nuclear Test Actually Was</title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</link>
-      <description>September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North&#39;s claim that it tested a hydrogen bomb.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s800-c15.png"></a>
-
-September 7, 2017 - Seismic and satellite data reveal the test was a whopper, further bolstering the North's claim that it tested a hydrogen bomb.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was">http://www.npr.org/sections/thetwo-way/2017/09/07/549155856/here-s-how-big-north-korea-s-latest-nuclear-test-actually-was</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/07/all_dprk_akto_enhancedlines_wide-fe9c6881a9f780792cc6e698567dc5349c5d2a58-s3000-c15.png"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
