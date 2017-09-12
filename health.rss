@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 14:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 16:00:11 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 14:00:06 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 16:00:11 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</guid>
+      <title>Tom Frieden&#39;s New Venture Fights Two Very Different Health Threats</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</link>
+      <description>September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which aims to prevent stroke and cardiovascular disease as well as epidemics.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-b988330ad7c863b7b283860d404ddc568ef36b92-s800-c15.jpg"></a>
+
+September 12, 2017 - The former head of the Centers for Disease Control has $225 million for his global health group Resolve, which aims to prevent stroke and cardiovascular disease as well as epidemics.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture">http://www.npr.org/sections/goatsandsoda/2017/09/12/550386874/tom-frieden-s-new-venture</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/dsc_087-edit_wide-b988330ad7c863b7b283860d404ddc568ef36b92-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</guid>
+      <title>For Many Women, Cervical Cancer Screening May Get A Lot Simpler</title>
+      <link>http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</link>
+      <description>September 12, 2017 - For decades the Pap test was the only option for cervical cancer screening. Now there&#39;s the HPV test, too. A federal task force says that for most women, either test will do just fine.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-530608538_wide-d8bd273e3aeffd1e258667e4c06e12616b5a1439-s800-c15.jpg"></a>
+
+September 12, 2017 - For decades the Pap test was the only option for cervical cancer screening. Now there's the HPV test, too. A federal task force says that for most women, either test will do just fine.
+
+<a href="http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler">http://www.npr.org/sections/health-shots/2017/09/12/550228352/for-many-women-cervical-cancer-screening-may-get-a-lot-simpler</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-530608538_wide-d8bd273e3aeffd1e258667e4c06e12616b5a1439-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thesalt/2017/09/12/550152771/is-one-drink-ok-for-pregnant-women-around-the-globe-the-answer-is-no</guid>
       <title>Is One Drink OK For Pregnant Women? Around The Globe, The Answer Is No</title>
@@ -224,36 +254,6 @@ September 9, 2017 - Volunteers are the unsung heroes in slowing the spread of th
 
 <a href="http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope">http://www.npr.org/sections/goatsandsoda/2017/09/09/547135033/yemen-hasnt-given-up-hope</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/08/2-62_wide-f9f2c45123bef43e3755140cace22fc290320ae3-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</guid>
-      <title>For Teens Knee-Deep In Negativity, Reframing Thoughts Can Help</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</link>
-      <description>September 9, 2017 - Irritation and gloom may seem like the default mode for teenagers, but parents can help them gain a more realistic and resilient way of thinking. A clinical psychologist explains how.</description>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/jenn-liv-illustration-npr-depression-web1_wide-bf89b56015e1b21ee23688a8270497b43ac5c252-s800-c15.jpg"></a>
-
-September 9, 2017 - Irritation and gloom may seem like the default mode for teenagers, but parents can help them gain a more realistic and resilient way of thinking. A clinical psychologist explains how.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help">http://www.npr.org/sections/health-shots/2017/09/09/549133027/for-teens-knee-deep-in-negativity-reframing-thoughts-can-help</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/jenn-liv-illustration-npr-depression-web1_wide-bf89b56015e1b21ee23688a8270497b43ac5c252-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</guid>
-      <title>Using A Robotic Hand, She Wants To Throw Out The First Pitch For All 30 MLB Teams</title>
-      <link>http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</link>
-      <description>September 8, 2017 - At 7, Hailey Dawson loves baseball and tossing out that first pitch. Poland syndrome made it a challenge but a robotic hand made it possible.</description>
-      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-694962564_wide-b93a598e9b7474b8d8269e9be75e419e068f2ac0-s800-c15.jpg"></a>
-
-September 8, 2017 - At 7, Hailey Dawson loves baseball and tossing out that first pitch. Poland syndrome made it a challenge but a robotic hand made it possible.
-
-<a href="http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams">http://www.npr.org/2017/09/08/549460238/using-a-robotic-hand-she-wants-to-throw-out-the-first-pitch-for-all-30-mlb-teams</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-694962564_wide-b93a598e9b7474b8d8269e9be75e419e068f2ac0-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
