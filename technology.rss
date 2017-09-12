@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2017 19:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 14:00:07 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Sun, 10 Sep 2017 19:00:18 +0000</pubDate>
+    <pubDate>Tue, 12 Sep 2017 14:00:07 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,55 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170912_me_morning_news_brief.mp3?orgId=1&amp;topicId=1091&amp;d=619&amp;p=3&amp;story=550352883&amp;t=progseg&amp;e=550346297&amp;seg=1&amp;siteplayer=true&amp;dl=1</guid>
+      <title>News Brief: Irma Weakens, Clinton Memoir And New iPhone</title>
+      <link>http://www.npr.org/2017/09/12/550352883/morning-news-brief</link>
+      <description>September 12, 2017 - While Irma has weakened, it is still bringing heavy rain to the Southeast. And, there are some big releases on Tuesday: Hillary Clinton&#39;s new memoir and Apple&#39;s latest iPhone iteration.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170912_me_morning_news_brief.mp3?orgId=1&amp;topicId=1091&amp;d=619&amp;p=3&amp;story=550352883&amp;t=progseg&amp;e=550346297&amp;seg=1&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 12, 2017 - While Irma has weakened, it is still bringing heavy rain to the Southeast. And, there are some big releases on Tuesday: Hillary Clinton's new memoir and Apple's latest iPhone iteration.
+
+<a href="http://www.npr.org/2017/09/12/550352883/morning-news-brief">http://www.npr.org/2017/09/12/550352883/morning-news-brief</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>619</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170911_atc_book_-_world_without_mind_all_tech.mp3?orgId=1&amp;topicId=1033&amp;d=417&amp;p=2&amp;story=550177421&amp;t=progseg&amp;e=550080740&amp;seg=9&amp;siteplayer=true&amp;dl=1</guid>
+      <title>&#39;World Without Mind&#39;: How Tech Companies Pose An Existential Threat</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/09/11/550177421/world-without-mind-how-tech-companies-pose-an-existential-threat</link>
+      <description>September 11, 2017 - From Facebook&#39;s algorithms to our reliance on phones instead of our memories, tech giants are taking us to a future that&#39;s either utopian or dystopian, author Franklin Foer says.</description>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170911_atc_book_-_world_without_mind_all_tech.mp3?orgId=1&amp;topicId=1033&amp;d=417&amp;p=2&amp;story=550177421&amp;t=progseg&amp;e=550080740&amp;seg=9&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/11/2017-09-08-worldwithoutmind_7577-ebogle-copy_wide-bb41fe8b3c61fc5a1e3d588d7e26900a14d617f1-s800-c15.jpg"></a>
+
+September 11, 2017 - From Facebook's algorithms to our reliance on phones instead of our memories, tech giants are taking us to a future that's either utopian or dystopian, author Franklin Foer says.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/09/11/550177421/world-without-mind-how-tech-companies-pose-an-existential-threat">http://www.npr.org/sections/alltechconsidered/2017/09/11/550177421/world-without-mind-how-tech-companies-pose-an-existential-threat</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/11/2017-09-08-worldwithoutmind_7577-ebogle-copy_wide-bb41fe8b3c61fc5a1e3d588d7e26900a14d617f1-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>417</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170912_me_on_iphones_10th_anniversary_apple_has_a_go_at_a_big_redesign.mp3?orgId=1&amp;topicId=1019&amp;d=150&amp;p=3&amp;story=541126201&amp;t=progseg&amp;e=550346297&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>On iPhone&#39;s 10th Anniversary, Apple Has A Go At A Big Redesign</title>
+      <link>http://www.npr.org/sections/alltechconsidered/2017/09/11/541126201/on-iphones-10th-birthday-apple-has-a-go-at-a-big-redesign</link>
+      <description>September 11, 2017 - Among the devices Apple is expected to launch Tuesday is an iPhone potentially priced at around $1,000. It&#39;s expected to include facial recognition and do away with the home button.</description>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170912_me_on_iphones_10th_anniversary_apple_has_a_go_at_a_big_redesign.mp3?orgId=1&amp;topicId=1019&amp;d=150&amp;p=3&amp;story=541126201&amp;t=progseg&amp;e=550346297&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/11/ap_17026208137226_wide-15e1261d7c69d8fe7b0e83e7a126317b3fc05fea-s800-c15.jpg"></a>
+
+September 11, 2017 - Among the devices Apple is expected to launch Tuesday is an iPhone potentially priced at around $1,000. It's expected to include facial recognition and do away with the home button.
+
+<a href="http://www.npr.org/sections/alltechconsidered/2017/09/11/541126201/on-iphones-10th-birthday-apple-has-a-go-at-a-big-redesign">http://www.npr.org/sections/alltechconsidered/2017/09/11/541126201/on-iphones-10th-birthday-apple-has-a-go-at-a-big-redesign</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/11/ap_17026208137226_wide-15e1261d7c69d8fe7b0e83e7a126317b3fc05fea-s3000-c15.jpg"></itunes:image>
+      <itunes:duration>150</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/2017/09/10/549922317/telecom-companies-turn-to-drones-for-help-after-hurricanes</guid>
       <title>Telecom Companies Turn To Drones For Help After Hurricanes</title>
@@ -201,53 +250,6 @@ September 7, 2017 - Seismic and satellite data reveal the test was a whopper, fu
 <a href="http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests">http://www.npr.org/2017/09/06/548985335/how-tech-giants-use-their-power-to-advance-corporate-interests</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>241</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</guid>
-      <title>When It Comes To Romantic Attraction, Real Life Beats Questionnaires</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</link>
-      <description>September 6, 2017 - Questionnaires of the sort used by dating apps don&#39;t come close to predicting initial attraction compared with meeting someone in real life, a study finds. The ineffable mystery of romance remains.</description>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s800-c15.jpg"></a>
-
-September 6, 2017 - Questionnaires of the sort used by dating apps don't come close to predicting initial attraction compared with meeting someone in real life, a study finds. The ineffable mystery of romance remains.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires">http://www.npr.org/sections/health-shots/2017/09/06/548645037/when-it-comes-to-romantic-attraction-real-life-beats-questionnaires</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/dating-apps_wide-b521c94fefc748f5edcfb6539b9f5c859e077e4c-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170905_atc_drones_descend_on_houston_to_help_assess_damage_from_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=2&amp;story=548715211&amp;t=progseg&amp;e=548593068&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Drones Descend On Houston To Help Assess Damage From Harvey</title>
-      <link>http://www.npr.org/2017/09/05/548715211/drones-descend-on-houston-to-help-assess-damage-from-harvey</link>
-      <description>September 5, 2017 - In Houston, drones are helping assess damage from Hurricane Harvey. Aarian Marshall from Wired tells NPR&#39;s Robert Siegel that this is the first time drones have been used in the U.S. in the management of a major disaster.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170905_atc_drones_descend_on_houston_to_help_assess_damage_from_harvey.mp3?orgId=1&amp;topicId=1019&amp;d=210&amp;p=2&amp;story=548715211&amp;t=progseg&amp;e=548593068&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 5, 2017 - In Houston, drones are helping assess damage from Hurricane Harvey. Aarian Marshall from Wired tells NPR's Robert Siegel that this is the first time drones have been used in the U.S. in the management of a major disaster.
-
-<a href="http://www.npr.org/2017/09/05/548715211/drones-descend-on-houston-to-help-assess-damage-from-harvey">http://www.npr.org/2017/09/05/548715211/drones-descend-on-houston-to-help-assess-damage-from-harvey</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>210</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_microsoft_president_to_trump_to_deport_a_dreamer_youll_have_to_go_through_us_.mp3?orgId=1&amp;topicId=1006&amp;d=160&amp;p=3&amp;story=548686695&amp;t=progseg&amp;e=548803221&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Microsoft President To Trump: To Deport A DREAMer, You&#39;ll Have To Go Through Us </title>
-      <link>http://www.npr.org/sections/thetwo-way/2017/09/05/548686695/250-apple-employees-among-thousands-at-risk-from-daca-cancellation</link>
-      <description>September 5, 2017 - As dozens of CEOs called on the president to preserve DACA, and on Congress to pass an immigration bill to help immigrant youth, the president of Microsoft had some fighting words for the White House.</description>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170906_me_microsoft_president_to_trump_to_deport_a_dreamer_youll_have_to_go_through_us_.mp3?orgId=1&amp;topicId=1006&amp;d=160&amp;p=3&amp;story=548686695&amp;t=progseg&amp;e=548803221&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/05/gettyimages-499611448-1-_wide-8907179898629ffb372db9f3069d2b0207f0a55a-s800-c15.jpg"></a>
-
-September 5, 2017 - As dozens of CEOs called on the president to preserve DACA, and on Congress to pass an immigration bill to help immigrant youth, the president of Microsoft had some fighting words for the White House.
-
-<a href="http://www.npr.org/sections/thetwo-way/2017/09/05/548686695/250-apple-employees-among-thousands-at-risk-from-daca-cancellation">http://www.npr.org/sections/thetwo-way/2017/09/05/548686695/250-apple-employees-among-thousands-at-risk-from-daca-cancellation</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/05/gettyimages-499611448-1-_wide-8907179898629ffb372db9f3069d2b0207f0a55a-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>160</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
