@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 23:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 14:00:48 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 23:00:19 +0000</pubDate>
+    <pubDate>Wed, 13 Sep 2017 14:00:48 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -24,12 +24,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
     <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_with_power_out_many_florida_gas_stations_remain_closed.mp3?orgId=1&amp;topicId=1006&amp;d=209&amp;p=2&amp;story=550464023&amp;t=progseg&amp;e=550358848&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_how_the_minimum_wage_affects_restaurant_hygiene.mp3?orgId=1&amp;topicId=1017&amp;d=215&amp;p=3&amp;story=550607377&amp;t=progseg&amp;e=550583129&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
+      <title>How The Minimum Wage Affects Restaurant Hygiene</title>
+      <link>http://www.npr.org/2017/09/13/550607377/how-the-minimum-wage-affects-restaurant-hygiene</link>
+      <description>September 13, 2017 - An analysis of Seattle restaurants shows that as the city dramatically raised the minimum wage for restaurant employees and other workers, restaurants responded by lowering hygiene standards.</description>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_how_the_minimum_wage_affects_restaurant_hygiene.mp3?orgId=1&amp;topicId=1017&amp;d=215&amp;p=3&amp;story=550607377&amp;t=progseg&amp;e=550583129&amp;seg=7&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 13, 2017 - An analysis of Seattle restaurants shows that as the city dramatically raised the minimum wage for restaurant employees and other workers, restaurants responded by lowering hygiene standards.
+
+<a href="http://www.npr.org/2017/09/13/550607377/how-the-minimum-wage-affects-restaurant-hygiene">http://www.npr.org/2017/09/13/550607377/how-the-minimum-wage-affects-restaurant-hygiene</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>215</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_with_power_out_many_florida_gas_stations_remain_closed.mp3?orgId=1&amp;topicId=1006&amp;d=194&amp;p=2&amp;story=550464023&amp;t=progseg&amp;e=550358848&amp;seg=15&amp;siteplayer=true&amp;dl=1</guid>
       <title>With Power Out, Many Florida Gas Stations Remain Closed</title>
       <link>http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed</link>
       <description>September 12, 2017 - A lot of people evacuated from Florida in anticipation of Hurricane Irma. Now they desperately want to come home, but the lack of fuel is making that tough.</description>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_with_power_out_many_florida_gas_stations_remain_closed.mp3?orgId=1&amp;topicId=1006&amp;d=209&amp;p=2&amp;story=550464023&amp;t=progseg&amp;e=550358848&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_with_power_out_many_florida_gas_stations_remain_closed.mp3?orgId=1&amp;topicId=1006&amp;d=194&amp;p=2&amp;story=550464023&amp;t=progseg&amp;e=550358848&amp;seg=15&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
       <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-844320992_wide-d4c56e03b8b35c703fefe8aee077a97c8c85b5d7-s800-c15.jpg"></a>
 
@@ -37,22 +52,22 @@ September 12, 2017 - A lot of people evacuated from Florida in anticipation of H
 
 <a href="http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed">http://www.npr.org/2017/09/12/550464023/with-power-out-many-florida-gas-stations-remain-closed</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-844320992_wide-d4c56e03b8b35c703fefe8aee077a97c8c85b5d7-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>209</itunes:duration>
+      <itunes:duration>194</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
-      <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
+      <title>Pet Store Puppies Linked To Campylobacter Outbreak In People</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</link>
-      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.</description>
+      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet store puppies caused dozens of humans to get sick with Campylobacter.</description>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-ea95ce65e2e679c172ef622deabd86d09473d76f-s800-c15.jpg"></a>
 
-September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.
+September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet store puppies caused dozens of humans to get sick with Campylobacter.
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people">http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-ea95ce65e2e679c172ef622deabd86d09473d76f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -241,21 +256,6 @@ September 10, 2017 - At the Kennedy Space Center, riding out a hurricane means s
 <a href="http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update">http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</a>]]></itunes:summary>
       <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
       <itunes:duration>220</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</guid>
-      <title>&#39;Big Chicken&#39;: The Medical Mystery That Traced Back To Slaughterhouse Workers</title>
-      <link>http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</link>
-      <description>September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That&#39;s not what happened, as Maryn McKenna recounts in her new book.</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/science/"><img src="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s800-c15.jpg"></a>
-
-September 10, 2017 - In the 1950s, the poultry industry began dunking birds in antibiotic baths. It was supposed to keep meat fresher and healthier. That's not what happened, as Maryn McKenna recounts in her new book.
-
-<a href="http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers">http://www.npr.org/sections/thesalt/2017/09/10/549586646/big-chicken-the-medical-mystery-that-traced-back-to-slaughterhouse-workers</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/08/gettyimages-3062976_wide-71015e9870e9acf1e3e4df59c5fb8bc33a5dad63-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

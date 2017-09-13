@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 23:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 14:00:51 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Tue, 12 Sep 2017 23:00:20 +0000</pubDate>
+    <pubDate>Wed, 13 Sep 2017 14:00:51 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -23,6 +23,36 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_mexican_women_look_for_alternatives_to_cesarean_sections.mp3?orgId=1&amp;topicId=1127&amp;d=205&amp;p=3&amp;story=550607419&amp;t=progseg&amp;e=550583129&amp;seg=14&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Mexican Women Look For Alternatives To Cesarean Sections</title>
+      <link>http://www.npr.org/2017/09/13/550607419/mexican-women-look-for-alternatives-to-cesarean-sections</link>
+      <description>September 13, 2017 - Mexico has one of the highest cesarean section rates in the world. But as well-trained midwives become more available, natural birth is coming into vogue.</description>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_mexican_women_look_for_alternatives_to_cesarean_sections.mp3?orgId=1&amp;topicId=1127&amp;d=205&amp;p=3&amp;story=550607419&amp;t=progseg&amp;e=550583129&amp;seg=14&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 13, 2017 - Mexico has one of the highest cesarean section rates in the world. But as well-trained midwives become more available, natural birth is coming into vogue.
+
+<a href="http://www.npr.org/2017/09/13/550607419/mexican-women-look-for-alternatives-to-cesarean-sections">http://www.npr.org/2017/09/13/550607419/mexican-women-look-for-alternatives-to-cesarean-sections</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>205</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_advocates_highlight_foreign_aids_success_stories_amid_talk_of_cuts.mp3?orgId=1&amp;topicId=1031&amp;d=152&amp;p=3&amp;story=550607329&amp;t=progseg&amp;e=550583129&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
+      <title>Advocates Highlight Foreign Aid&#39;s Success Stories Amid Talk Of Cuts</title>
+      <link>http://www.npr.org/2017/09/13/550607329/advocates-highlight-foreign-aids-success-stories-amid-talk-of-cuts</link>
+      <description>September 13, 2017 - Earlier this year President Trump called for deep cuts in foreign aid. But even small cuts could be catastrophic for some aspects of global health.</description>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_advocates_highlight_foreign_aids_success_stories_amid_talk_of_cuts.mp3?orgId=1&amp;topicId=1031&amp;d=152&amp;p=3&amp;story=550607329&amp;t=progseg&amp;e=550583129&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 13, 2017 - Earlier this year President Trump called for deep cuts in foreign aid. But even small cuts could be catastrophic for some aspects of global health.
+
+<a href="http://www.npr.org/2017/09/13/550607329/advocates-highlight-foreign-aids-success-stories-amid-talk-of-cuts">http://www.npr.org/2017/09/13/550607329/advocates-highlight-foreign-aids-success-stories-amid-talk-of-cuts</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:duration>152</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170912_atc_us_census_bureau_records_improvements_in_income_poverty_and_health_coverage.mp3?orgId=1&amp;topicId=1006&amp;d=229&amp;p=2&amp;story=550492811&amp;t=progseg&amp;e=550358848&amp;seg=12&amp;siteplayer=true&amp;dl=1</guid>
       <title>U.S. Census Bureau Records Improvements In Income, Poverty And Health Coverage</title>
@@ -40,17 +70,17 @@
     </item>
     <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</guid>
-      <title>Pet-Store Puppies Linked To Campylobacter Outbreak In People</title>
+      <title>Pet Store Puppies Linked To Campylobacter Outbreak In People</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</link>
-      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.</description>
+      <description>September 12, 2017 - Adorable fuzzy puppies aren&#39;t usually thought of as disease vectors. But they come with germs, too. It&#39;s not clear how pet store puppies caused dozens of humans to get sick with Campylobacter.</description>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-ea95ce65e2e679c172ef622deabd86d09473d76f-s800-c15.jpg"></a>
 
-September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet-store puppies caused dozens of humans to get sick with Campylobacter.
+September 12, 2017 - Adorable fuzzy puppies aren't usually thought of as disease vectors. But they come with germs, too. It's not clear how pet store puppies caused dozens of humans to get sick with Campylobacter.
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people">http://www.npr.org/sections/health-shots/2017/09/12/550423656/pet-store-puppies-linked-to-campylobacter-outbreak-in-people</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-970a67e64033a10f11ae8e242831c8c80fd83a03-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-184085731_wide-ea95ce65e2e679c172ef622deabd86d09473d76f-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -226,36 +256,6 @@ September 11, 2017 - For the first time, scientists have carefully analyzed all 
 <a href="http://www.npr.org/sections/thesalt/2017/09/11/548926054/can-you-really-not-clean-your-kitchen-sponge">http://www.npr.org/sections/thesalt/2017/09/11/548926054/can-you-really-not-clean-your-kitchen-sponge</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/08/sponge-bacteria-final_resized_wide-18d712ef0f09c22c92a9c5dc59a13705e007c0ef-s3000-c15.jpg"></itunes:image>
       <itunes:duration>206</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170910_atc_nurses_hospitals_prepared_for_hurricane_irma_to_ensure_patient_care_continues.mp3?orgId=1&amp;topicId=1091&amp;d=154&amp;p=2&amp;story=549989636&amp;t=progseg&amp;e=549989610&amp;seg=3&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Nurses, Hospitals Prepared For Hurricane Irma To Ensure Patient Care Continues</title>
-      <link>http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues</link>
-      <description>September 10, 2017 - Taylor Roberts is a pediatric nurse who is waiting for Hurricane Irma to pass so she can go back to work at Golisano Children&#39;s Hospital in Fort Myers, Fla.</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170910_atc_nurses_hospitals_prepared_for_hurricane_irma_to_ensure_patient_care_continues.mp3?orgId=1&amp;topicId=1091&amp;d=154&amp;p=2&amp;story=549989636&amp;t=progseg&amp;e=549989610&amp;seg=3&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 10, 2017 - Taylor Roberts is a pediatric nurse who is waiting for Hurricane Irma to pass so she can go back to work at Golisano Children's Hospital in Fort Myers, Fla.
-
-<a href="http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues">http://www.npr.org/2017/09/10/549989636/nurses-hospitals-prepared-for-hurricane-irma-to-ensure-patient-care-continues</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>154</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170910_wesun_the_call_in.mp3?orgId=1&amp;topicId=1053&amp;d=435&amp;p=10&amp;story=549865765&amp;t=progseg&amp;e=549865711&amp;seg=6&amp;siteplayer=true&amp;dl=1</guid>
-      <title>The Call-In: Conflicting Diet Advice</title>
-      <link>http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</link>
-      <description>September 10, 2017 - We take listener questions about proper diet. There&#39;s been a lot of conflicting advice about what to eat. &#xA;&#xA; - http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170910_wesun_the_call_in.mp3?orgId=1&amp;topicId=1053&amp;d=435&amp;p=10&amp;story=549865765&amp;t=progseg&amp;e=549865711&amp;seg=6&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 10, 2017 - We take listener questions about proper diet. There's been a lot of conflicting advice about what to eat. 
-
-<a href="http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice">http://www.npr.org/2017/09/10/549865765/the-call-in-conflicting-diet-advice</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>435</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>

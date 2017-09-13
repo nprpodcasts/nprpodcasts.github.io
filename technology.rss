@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 14:00:46 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 13 Sep 2017 00:00:14 +0000</pubDate>
+    <pubDate>Wed, 13 Sep 2017 14:00:46 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Technology : NPR</title>
@@ -23,6 +23,21 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550533833/department-of-transportation-rolls-out-new-guidelines-for-self-driving-cars</guid>
+      <title>Department Of Transportation Rolls Out New Guidelines For Self-Driving Cars</title>
+      <link>http://www.npr.org/sections/thetwo-way/2017/09/12/550533833/department-of-transportation-rolls-out-new-guidelines-for-self-driving-cars</link>
+      <description>September 12, 2017 - Tuesday&#39;s report, the first such recommendations for manufacturers released under the Trump administration, trims some of the guidelines set out under Obama. Still, they remain voluntary.</description>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/technology/"><img src="https://media.npr.org/assets/img/2017/09/12/gettyimages-846119506_wide-eb1c4c01d2122139a99aec27d48fb735b1563e4f-s800-c15.jpg"></a>
+
+September 12, 2017 - Tuesday's report, the first such recommendations for manufacturers released under the Trump administration, trims some of the guidelines set out under Obama. Still, they remain voluntary.
+
+<a href="http://www.npr.org/sections/thetwo-way/2017/09/12/550533833/department-of-transportation-rolls-out-new-guidelines-for-self-driving-cars">http://www.npr.org/sections/thetwo-way/2017/09/12/550533833/department-of-transportation-rolls-out-new-guidelines-for-self-driving-cars</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/12/gettyimages-846119506_wide-eb1c4c01d2122139a99aec27d48fb735b1563e4f-s3000-c15.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>http://www.npr.org/sections/thetwo-way/2017/09/12/550428192/apple-unveils-three-new-iphones-but-the-watch-sends-shares-up</guid>
       <title>Apple Unveils Three New iPhones, But The Watch Sends Shares Up</title>
@@ -233,21 +248,6 @@ September 7, 2017 - The announcement set off a hot municipal contest — and one
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me">http://www.npr.org/sections/thetwo-way/2017/09/07/549255564/amazon-set-to-build-a-second-hq-and-cities-say-pick-me</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/07/ap_17250695294454_wide-81b32697a0fadb760f40e6277179fd686c453f16-s3000-c15.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_amazon_plans_to_open_second_headquarters_with_50000_jobs.mp3?orgId=1&amp;topicId=1006&amp;d=204&amp;p=2&amp;story=549250141&amp;t=progseg&amp;e=549123942&amp;seg=19&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Amazon Plans To Open Second Headquarters With 50,000 Jobs</title>
-      <link>http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</link>
-      <description>September 7, 2017 - Amazon is setting out to find a location for a second headquarters, which should touch off intense competition among cities. The new HQ will bring along 50,000 high-paying jobs.</description>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170907_atc_amazon_plans_to_open_second_headquarters_with_50000_jobs.mp3?orgId=1&amp;topicId=1006&amp;d=204&amp;p=2&amp;story=549250141&amp;t=progseg&amp;e=549123942&amp;seg=19&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 7, 2017 - Amazon is setting out to find a location for a second headquarters, which should touch off intense competition among cities. The new HQ will bring along 50,000 high-paying jobs.
-
-<a href="http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs">http://www.npr.org/2017/09/07/549250141/amazon-plans-to-open-second-headquarters-with-50-000-jobs</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>204</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
