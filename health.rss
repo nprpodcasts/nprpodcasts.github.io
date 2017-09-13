@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 18:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 20:00:24 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 13 Sep 2017 18:00:34 +0000</pubDate>
+    <pubDate>Wed, 13 Sep 2017 20:00:24 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Health : NPR</title>
@@ -24,18 +24,33 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Health"></itunes:category>
     <item>
+      <guid>http://www.npr.org/sections/goatsandsoda/2017/09/13/550493934/what-s-at-stake-with-the-proposed-trump-foreign-aid-cuts</guid>
+      <title>Bill Gates Predicts &#39;What&#39;s At Stake&#39; With Proposed Trump Foreign Aid Cuts</title>
+      <link>http://www.npr.org/sections/goatsandsoda/2017/09/13/550493934/what-s-at-stake-with-the-proposed-trump-foreign-aid-cuts</link>
+      <description>September 13, 2017 - The Gates Foundation has released projections showing the impact on new cases of HIV and issues like child mortality if there&#39;s a global drop in foreign aid.</description>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/13/gates-fountation-hiv-promo_wide-773e42682486f82dde82175dae89ffcf82d70623-s800-c15.png"></a>
+
+September 13, 2017 - The Gates Foundation has released projections showing the impact on new cases of HIV and issues like child mortality if there's a global drop in foreign aid.
+
+<a href="http://www.npr.org/sections/goatsandsoda/2017/09/13/550493934/what-s-at-stake-with-the-proposed-trump-foreign-aid-cuts">http://www.npr.org/sections/goatsandsoda/2017/09/13/550493934/what-s-at-stake-with-the-proposed-trump-foreign-aid-cuts</a>]]></itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/13/gates-fountation-hiv-promo_wide-773e42682486f82dde82175dae89ffcf82d70623-s3000-c15.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <guid>http://www.npr.org/sections/health-shots/2017/09/13/550656850/montanans-pitch-in-to-bring-clean-air-to-smoky-classrooms</guid>
       <title>Montanans Pitch In To Bring Clean Air To Smoky Classrooms</title>
       <link>http://www.npr.org/sections/health-shots/2017/09/13/550656850/montanans-pitch-in-to-bring-clean-air-to-smoky-classrooms</link>
       <description>September 13, 2017 - Montana has recently pushed all their young students indoors because of the unprecedented level of smoke from wildfires. Some community groups are now collaborating to clean up that indoor air.</description>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/13/saks_npr_coefield_wide-384d0b8237fbc86b2867a1ee6b4ff51765fa2829-s800-c15.jpg"></a>
+      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/13/saks_npr_coefield_wide-f49156bd5e214ceb2d9f0258afc1968e06028168-s800-c15.jpg"></a>
 
 September 13, 2017 - Montana has recently pushed all their young students indoors because of the unprecedented level of smoke from wildfires. Some community groups are now collaborating to clean up that indoor air.
 
 <a href="http://www.npr.org/sections/health-shots/2017/09/13/550656850/montanans-pitch-in-to-bring-clean-air-to-smoky-classrooms">http://www.npr.org/sections/health-shots/2017/09/13/550656850/montanans-pitch-in-to-bring-clean-air-to-smoky-classrooms</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/13/saks_npr_coefield_wide-384d0b8237fbc86b2867a1ee6b4ff51765fa2829-s3000-c15.jpg"></itunes:image>
+      <itunes:image href="https://media.npr.org/assets/img/2017/09/13/saks_npr_coefield_wide-f49156bd5e214ceb2d9f0258afc1968e06028168-s3000-c15.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
@@ -235,23 +250,6 @@ September 11, 2017 - Demolition supervisor John Feal was working at ground zero 
 <a href="http://www.npr.org/sections/health-shots/2017/09/11/550094607/sept-11-first-responder-fights-on-behalf-of-others-who-rushed-to-help">http://www.npr.org/sections/health-shots/2017/09/11/550094607/sept-11-first-responder-fights-on-behalf-of-others-who-rushed-to-help</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/11/ap_01091106010_wide-29d7dcd8cc14567243905d3816eba803ef38f3a4-s3000-c15.jpg"></itunes:image>
       <itunes:duration>2547</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170911_atc_rd_costs_for_cancer_drugs_are_likely_much_less_than_industry_claims_study_finds.mp3?orgId=1&amp;topicId=1128&amp;d=194&amp;p=2&amp;story=550135932&amp;t=progseg&amp;e=550080740&amp;seg=8&amp;siteplayer=true&amp;dl=1</guid>
-      <title>R&amp;D Costs For Cancer Drugs Are Likely Much Less Than Industry Claims, Study Finds</title>
-      <link>http://www.npr.org/sections/health-shots/2017/09/11/550135932/r-d-costs-for-cancer-drugs-are-likely-much-less-than-industry-claims-study-finds</link>
-      <description>September 11, 2017 - Industry says it costs about $2.7 billion to bring a cancer drug to market. But oncologists who ran the numbers put the average closer to $650 million. Drugs are priced way too high, the doctors say.</description>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2017/09/20170911_atc_rd_costs_for_cancer_drugs_are_likely_much_less_than_industry_claims_study_finds.mp3?orgId=1&amp;topicId=1128&amp;d=194&amp;p=2&amp;story=550135932&amp;t=progseg&amp;e=550080740&amp;seg=8&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[<a href="http://www.npr.org/sections/health/"><img src="https://media.npr.org/assets/img/2017/09/11/istock-180064922_wide-42c69952ce65109e881cf513e9c7dc71a37576fd-s800-c15.jpg"></a>
-
-September 11, 2017 - Industry says it costs about $2.7 billion to bring a cancer drug to market. But oncologists who ran the numbers put the average closer to $650 million. Drugs are priced way too high, the doctors say.
-
-<a href="http://www.npr.org/sections/health-shots/2017/09/11/550135932/r-d-costs-for-cancer-drugs-are-likely-much-less-than-industry-claims-study-finds">http://www.npr.org/sections/health-shots/2017/09/11/550135932/r-d-costs-for-cancer-drugs-are-likely-much-less-than-industry-claims-study-finds</a>]]></itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2017/09/11/istock-180064922_wide-42c69952ce65109e881cf513e9c7dc71a37576fd-s3000-c15.jpg"></itunes:image>
-      <itunes:duration>194</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
