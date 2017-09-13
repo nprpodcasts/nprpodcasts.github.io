@@ -8,9 +8,9 @@
     <copyright>Copyright 2016 NPR - For Personal Use Only</copyright>
     <generator>go podcast v2.0.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2017 14:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 15:00:10 +0000</lastBuildDate>
     <managingEditor>podcasts@npr.org (NPR Podcasts)</managingEditor>
-    <pubDate>Wed, 13 Sep 2017 14:00:48 +0000</pubDate>
+    <pubDate>Wed, 13 Sep 2017 15:00:10 +0000</pubDate>
     <image>
       <url>https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg</url>
       <title>Science : NPR</title>
@@ -23,6 +23,19 @@
     <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Science &amp; Medicine"></itunes:category>
+    <item>
+      <guid>http://www.npr.org/sections/13.7/2017/09/13/550672867/lessons-from-the-stars-how-to-live-on-a-climate-changed-world</guid>
+      <title>Lessons From The Stars: How To Live On A Climate-Changed World</title>
+      <link>http://www.npr.org/sections/13.7/2017/09/13/550672867/lessons-from-the-stars-how-to-live-on-a-climate-changed-world</link>
+      <description>September 13, 2017 - Classification of planets offers a way to see how Anthropocenes — and a successful route through them — might be part of a continuum of planetary evolution, says astrophysicist Adam Frank.</description>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
+      <itunes:summary><![CDATA[September 13, 2017 - Classification of planets offers a way to see how Anthropocenes — and a successful route through them — might be part of a continuum of planetary evolution, says astrophysicist Adam Frank.
+
+<a href="http://www.npr.org/sections/13.7/2017/09/13/550672867/lessons-from-the-stars-how-to-live-on-a-climate-changed-world">http://www.npr.org/sections/13.7/2017/09/13/550672867/lessons-from-the-stars-how-to-live-on-a-climate-changed-world</a>]]></itunes:summary>
+      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <guid>https://ondemand.npr.org/anon.npr-mp3/npr/me/2017/09/20170913_me_how_the_minimum_wage_affects_restaurant_hygiene.mp3?orgId=1&amp;topicId=1017&amp;d=215&amp;p=3&amp;story=550607377&amp;t=progseg&amp;e=550583129&amp;seg=7&amp;siteplayer=true&amp;dl=1</guid>
       <title>How The Minimum Wage Affects Restaurant Hygiene</title>
@@ -241,21 +254,6 @@ September 10, 2017 - At the Kennedy Space Center, riding out a hurricane means s
 
 <a href="http://www.npr.org/sections/thetwo-way/2017/09/10/550003276/riding-out-irma-on-floridas-space-coast-and-keeping-on-eye-on-the-spacecraft">http://www.npr.org/sections/thetwo-way/2017/09/10/550003276/riding-out-irma-on-floridas-space-coast-and-keeping-on-eye-on-the-spacecraft</a>]]></itunes:summary>
       <itunes:image href="https://media.npr.org/assets/img/2017/09/10/img_1778_wide-e61387405675bd315cefaab008e8135b6741b8e8-s3000-c15.jpeg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <guid>https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170910_wesun_natl_hurrican_center_update.mp3?orgId=1&amp;topicId=1025&amp;d=220&amp;p=10&amp;story=549865828&amp;t=progseg&amp;e=549865711&amp;seg=16&amp;siteplayer=true&amp;dl=1</guid>
-      <title>Update From The National Hurricane Center</title>
-      <link>http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</link>
-      <description>September 10, 2017 - We have an update from the National Hurricane Center in Miami as Hurricane Irma passes over the Florida Keys. &#xA;&#xA; - http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</description>
-      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
-      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2017/09/20170910_wesun_natl_hurrican_center_update.mp3?orgId=1&amp;topicId=1025&amp;d=220&amp;p=10&amp;story=549865828&amp;t=progseg&amp;e=549865711&amp;seg=16&amp;siteplayer=true&amp;dl=1" length="0" type="audio/mpeg"></enclosure>
-      <itunes:author>podcasts@npr.org (NPR Podcasts)</itunes:author>
-      <itunes:summary><![CDATA[September 10, 2017 - We have an update from the National Hurricane Center in Miami as Hurricane Irma passes over the Florida Keys. 
-
-<a href="http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update">http://www.npr.org/2017/09/10/549865828/natl-hurrican-center-update</a>]]></itunes:summary>
-      <itunes:image href="https://web.archive.org/web/20120328204211im_/http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"></itunes:image>
-      <itunes:duration>220</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
